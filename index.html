@@ -33,10 +33,10 @@
     .intro{display:flex;justify-content:space-between;align-items:end;margin-bottom:20px}
     h1{font-size:34px;letter-spacing:-1.2px;margin:7px 0 0;line-height:1.2}
     .date{color:var(--muted);font-size:13px}.live-dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--green2);margin-right:7px;box-shadow:0 0 0 4px #dff6ec}
-    .market-strip{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin-bottom:22px}
-    .quote{background:white;border:1px solid var(--line);border-radius:14px;padding:15px;min-width:0;cursor:pointer;transition:.2s}.quote:hover,.quote.selected{border-color:#81cbb0;box-shadow:0 9px 25px rgba(12,87,60,.08);transform:translateY(-2px)}
+    .market-strip{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:22px}
+    .quote{background:white;border:1px solid var(--line);border-radius:14px;padding:15px;min-width:0;transition:.2s}.quote:hover{border-color:#81cbb0;box-shadow:0 9px 25px rgba(12,87,60,.08);transform:translateY(-2px)}
     .quote-top{display:flex;justify-content:space-between;gap:8px;font-size:11px;color:var(--muted);font-weight:700}.quote strong{font:700 18px "DM Sans";display:block;margin:8px 0 3px}.quote .delta{font:600 12px "DM Sans"}
-    .spark{height:28px;width:100%;margin-top:6px}
+    .live-quote{min-height:136px}.live-quote .spark{height:46px;width:100%;margin-top:12px}.source-note{font-size:10px;color:var(--muted);margin-top:10px;display:block}.tv-quote{padding:0;min-height:168px;overflow:hidden}.tv-quote .tradingview-widget-container,.tv-quote .tradingview-widget-container__widget{height:168px!important;width:100%!important}
     .hero-grid{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(300px,.9fr);gap:18px}
     .panel{background:white;border:1px solid var(--line);border-radius:18px;overflow:hidden}
     .panel-head{padding:18px 20px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:15px}
@@ -45,8 +45,7 @@
     .price{margin-left:auto;text-align:right}.price strong{font:700 25px "DM Sans";display:block}.price span{font:600 12px "DM Sans";color:var(--green)}
     .range-tabs{display:flex;gap:3px;padding:14px 18px 0}
     .range-tabs button{border:0;background:transparent;color:var(--muted);border-radius:7px;padding:6px 9px;font:600 11px "DM Sans";cursor:pointer}.range-tabs .active{background:var(--mint);color:var(--green)}
-    .chart-wrap{height:300px;padding:6px 12px 12px;position:relative}
-    #chart{width:100%;height:100%}.chart-note{position:absolute;left:24px;bottom:17px;font-size:10px;color:#899a92}
+    .chart-wrap{height:390px;position:relative}.chart-wrap .tradingview-widget-container,.chart-wrap .tradingview-widget-container__widget{height:100%!important;width:100%!important}
     .brief{padding:22px}.brief h2{font-size:20px;margin:5px 0 15px}.brief p{font-size:14px;line-height:1.75;color:#435a50;margin:0}
     .brief-points{display:grid;gap:12px;margin:19px 0}.point{display:grid;grid-template-columns:34px 1fr;gap:10px;align-items:start}.point i{font-style:normal;width:32px;height:32px;border-radius:9px;background:var(--mint);display:grid;place-items:center}.point b{font-size:12px;display:block}.point small{font-size:11px;color:var(--muted)}
     .brief-link{display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--line);padding-top:16px;color:var(--green);font-size:12px;font-weight:800}
@@ -62,7 +61,7 @@
     .disclaimer{margin-top:35px;color:#7d8d86;font-size:10px;line-height:1.6;border-top:1px solid var(--line);padding-top:18px}
     dialog{border:0;border-radius:20px;padding:0;width:min(620px,calc(100% - 30px));box-shadow:0 35px 90px rgba(0,30,18,.28);color:var(--ink)}dialog::backdrop{background:rgba(9,29,21,.62);backdrop-filter:blur(3px)}.modal-head{padding:22px 24px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between}.modal-head h2{font-size:20px;margin:0}.close{border:0;background:var(--paper);border-radius:50%;width:34px;height:34px;cursor:pointer}.calc{padding:24px}.calc-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}.field label{font-size:11px;font-weight:700;display:block;margin-bottom:6px}.field input{width:100%;border:1px solid var(--line);border-radius:10px;padding:12px;outline:none}.field input:focus{border-color:var(--green2)}.calc-result{margin-top:20px;background:var(--navy);color:white;border-radius:14px;padding:20px;display:flex;justify-content:space-between;align-items:end}.calc-result small{color:#b7d4c6;display:block}.calc-result strong{font:700 28px "DM Sans";color:#67e4b1}.calc-note{font-size:10px;color:var(--muted);margin:12px 0 0}.compare-table{padding:5px 24px 24px}.compare-row{display:grid;grid-template-columns:1.1fr repeat(3,1fr);gap:12px;padding:14px 0;border-bottom:1px solid var(--line);font-size:11px;align-items:center}.compare-row.head{color:var(--muted);font-weight:700}.provider{font-weight:800}.pill{font-size:9px;background:var(--mint);color:var(--green);padding:4px 7px;border-radius:99px;margin-left:5px}
     @media(max-width:980px){.links{display:none}.market-strip{grid-template-columns:repeat(3,1fr)}.hero-grid{grid-template-columns:1fr}.news-grid{grid-template-columns:1fr 1fr}.story:first-child{grid-column:1/-1}.utility{grid-template-columns:1fr 1fr}}
-    @media(max-width:620px){.search{display:none}.nav{height:64px}.market-strip{display:flex;overflow:auto}.quote{min-width:145px}.intro{align-items:start;flex-direction:column;gap:8px}h1{font-size:27px}.news-grid,.utility{grid-template-columns:1fr}.story:first-child{grid-column:auto}.chart-wrap{height:240px}.ticker{gap:18px}.calc-grid{grid-template-columns:1fr}.compare-row{grid-template-columns:1.2fr 1fr}.compare-row>*:nth-child(n+3){display:none}}
+    @media(max-width:620px){.search{display:none}.nav{height:64px}.market-strip{display:flex;overflow:auto}.quote{min-width:280px}.intro{align-items:start;flex-direction:column;gap:8px}h1{font-size:27px}.news-grid,.utility{grid-template-columns:1fr}.story:first-child{grid-column:auto}.chart-wrap{height:360px}.ticker{gap:18px}.calc-grid{grid-template-columns:1fr}.compare-row{grid-template-columns:1.2fr 1fr}.compare-row>*:nth-child(n+3){display:none}}
     @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
   </style>
 </head>
@@ -80,38 +79,37 @@
       <div class="date"><span class="live-dot"></span>23 ივლისი, 2026 · მონაცემები ახლდება</div>
     </div>
     <section class="market-strip" id="markets">
-      <article class="quote" data-asset="spx"><div class="quote-top"><span>S&amp;P 500</span><span>TradingView</span></div><strong>ინტერაქტიული</strong><span class="delta up">გრაფიკის გახსნა</span><canvas class="spark" data-color="#0aa875" data-values="16,18,17,22,20,25,27,30,29,35"></canvas></article>
-      <article class="quote" data-asset="nasdaq"><div class="quote-top"><span>NASDAQ</span><span>TradingView</span></div><strong>ინტერაქტიული</strong><span class="delta up">გრაფიკის გახსნა</span><canvas class="spark" data-color="#0aa875" data-values="12,13,16,15,19,18,24,26,25,31"></canvas></article>
-      <article class="quote selected" data-asset="btc"><div class="quote-top"><span>Bitcoin</span><span id="btcSource">CoinGecko</span></div><strong id="btcCardPrice">იტვირთება…</strong><span class="delta" id="btcCardChange">მონაცემების განახლება</span><canvas class="spark" data-color="#0aa875" data-values="18,17,20,22,21,26,24,29,32,34"></canvas></article>
-      <article class="quote" data-asset="gold"><div class="quote-top"><span>ოქრო</span><span>TradingView</span></div><strong>ინტერაქტიული</strong><span class="delta up">გრაფიკის გახსნა</span><canvas class="spark" data-color="#0aa875" data-values="24,25,27,26,29,30,31,33,32,34"></canvas></article>
-      <article class="quote" data-asset="gel"><div class="quote-top"><span>USD / GEL</span><span>NBG ოფიციალური</span></div><strong id="gelCardPrice">იტვირთება…</strong><span class="delta" id="gelCardChange">დღიური ოფიციალური კურსი</span><canvas class="spark" data-color="#d84c4c" data-values="30,29,31,28,29,26,25,27,24,23"></canvas></article>
-      <article class="quote" data-asset="bgeo"><div class="quote-top"><span>BGEO</span><span>TradingView</span></div><strong>ინტერაქტიული</strong><span class="delta up">გრაფიკის გახსნა</span><canvas class="spark" data-color="#0aa875" data-values="15,19,18,21,25,24,28,27,33,35"></canvas></article>
+      <article class="quote tv-quote"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FOREXCOM:SPXUSD","width":"100%","height":168,"locale":"en","dateRange":"1D","colorTheme":"light","isTransparent":true,"autosize":false,"largeChartUrl":"https://investors.ge/markets.html"}</script></div></article>
+      <article class="quote tv-quote"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:IXIC","width":"100%","height":168,"locale":"en","dateRange":"1D","colorTheme":"light","isTransparent":true,"autosize":false,"largeChartUrl":"https://investors.ge/markets.html"}</script></div></article>
+      <article class="quote live-quote"><div class="quote-top"><span>Bitcoin / USD</span><span>CoinGecko</span></div><strong id="btcCardPrice">იტვირთება…</strong><span class="delta" id="btcCardChange">24 საათის ცვლილება</span><canvas class="spark" id="btcSpark" aria-label="Bitcoin-ის რეალური 7 დღის ფასის ისტორია"></canvas><small class="source-note" id="btcUpdated">წყარო: CoinGecko</small></article>
+      <article class="quote tv-quote"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"OANDA:XAUUSD","width":"100%","height":168,"locale":"en","dateRange":"1D","colorTheme":"light","isTransparent":true,"autosize":false,"largeChartUrl":"https://investors.ge/markets.html"}</script></div></article>
+      <article class="quote live-quote"><div class="quote-top"><span>USD / GEL</span><span>NBG ოფიციალური</span></div><strong id="gelCardPrice">იტვირთება…</strong><span class="delta" id="gelCardChange">დღიური ოფიციალური კურსი</span><small class="source-note" id="gelUpdated">ეს არ არის საბირჟო ან ბანკის კომერციული კურსი</small></article>
+      <article class="quote tv-quote"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"LSE:BGEO","width":"100%","height":168,"locale":"en","dateRange":"1D","colorTheme":"light","isTransparent":true,"autosize":false,"largeChartUrl":"https://investors.ge/markets.html"}</script></div></article>
     </section>
 
     <section class="hero-grid">
       <article class="panel">
-        <div class="panel-head"><div class="asset-icon" id="assetIcon">₿</div><div class="asset-title"><h2 id="assetName">Bitcoin / აშშ დოლარი</h2><p id="assetMeta">BTC · CRYPTO</p></div><div class="price"><strong id="assetPrice">$118,420.35</strong><span id="assetChange">+$2,136.42 (+1.84%) დღეს</span></div></div>
-        <div class="range-tabs"><button>1დ</button><button>5დ</button><button>1თ</button><button>6თ</button><button class="active">1წ</button><button>5წ</button></div>
-        <div class="chart-wrap"><canvas id="chart"></canvas><div class="chart-note">საილუსტრაციო მონაცემები · USD</div></div>
+        <div class="panel-head"><div class="asset-icon">TV</div><div class="asset-title"><h2>რეალური საბაზრო გრაფიკი</h2><p>სიმბოლოს შეცვლა შესაძლებელია პირდაპირ გრაფიკში</p></div><div class="price"><span>TradingView</span></div></div>
+        <div class="chart-wrap"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>{"autosize":true,"symbol":"FOREXCOM:SPXUSD","interval":"D","timezone":"Asia/Tbilisi","theme":"light","style":"2","locale":"en","allow_symbol_change":true,"calendar":false,"support_host":"https://www.tradingview.com"}</script></div></div>
       </article>
       <aside class="panel brief">
-        <div class="eyebrow">დღის მოკლე მიმოხილვა · 3 წუთი</div>
-        <h2>რა ხდება ბაზრებზე დღეს?</h2>
-        <p>ტექნოლოგიური აქციები იზრდება, ინვესტორები კი ხვალინდელ საპროცენტო გადაწყვეტილებას ელოდებიან. Bitcoin კვლავ რეკორდულ ნიშნულთან ახლოსაა.</p>
+        <div class="eyebrow">მონაცემების გამჭვირვალობა</div>
+        <h2>რას ხედავ ამ გვერდზე?</h2>
+        <p>ფასები მხოლოდ მაშინ ჩანს, როცა ისინი რეალური წყაროდან იტვირთება. აქციებისა და ინდექსების მონაცემებს TradingView აჩვენებს, კრიპტოს — CoinGecko, ხოლო ლარის ოფიციალურ კურსს — საქართველოს ეროვნული ბანკი.</p>
         <div class="brief-points">
-          <div class="point"><i>↗</i><div><b>აშშ-ის ბაზრები მწვანე ზონაშია</b><small>ჩიპების სექტორი ზრდას ლიდერობს</small></div></div>
-          <div class="point"><i>₾</i><div><b>ლარი დოლართან გამყარდა</b><small>NBG-ის კურსი: 1 USD = 2.7025 GEL</small></div></div>
-          <div class="point"><i>₿</i><div><b>კრიპტო ბაზარი +1.6%</b><small>Bitcoin-ის დომინაცია 61.2%-ია</small></div></div>
+          <div class="point"><i>TV</i><div><b>აქციები, ინდექსები და ოქრო</b><small>TradingView · შესაძლო დაგვიანება დამოკიდებულია ბირჟაზე</small></div></div>
+          <div class="point"><i>₾</i><div><b id="briefGel">NBG-ის კურსი იტვირთება</b><small id="briefGelDate">ოფიციალური დღიური კურსი</small></div></div>
+          <div class="point"><i>₿</i><div><b id="briefBtc">Bitcoin-ის ფასი იტვირთება</b><small id="briefBtcChange">CoinGecko · 24 საათის ცვლილება</small></div></div>
         </div>
-        <a class="brief-link" href="news.html"><span>წაიკითხე სრული მიმოხილვა</span><span>→</span></a>
+        <a class="brief-link" href="markets.html"><span>გახსენი ყველა ბაზარი</span><span>→</span></a>
       </aside>
     </section>
 
-    <div class="section-head" id="news"><div><div class="eyebrow">რედაქციის არჩევანი</div><h2>მთავარი ამბები</h2></div><a href="news.html">ყველა სიახლე →</a></div>
+    <div class="section-head" id="news"><div><div class="eyebrow">პირველწყაროები</div><h2>ოფიციალური ფინანსური ინფორმაცია</h2></div><a href="news.html">ყველა წყარო →</a></div>
     <section class="news-grid" id="learn">
-      <article class="story"><div class="visual"><span class="big">S&amp;P 500 ↗</span></div><div class="story-body"><span class="tag">მსოფლიო ბაზრები</span><h3>ტექნოლოგიური აქციები იზრდება — რას ელოდება ბაზარი Fed-ისგან?</h3><div class="meta">12 წუთის წინ · 4 წუთი საკითხავი</div></div></article>
-      <article class="story"><div class="visual red"><span class="big">BTC</span></div><div class="story-body"><span class="tag">კრიპტო</span><h3>Bitcoin $118,000-ს გადასცდა: სამი მიზეზი, რომელიც ზრდას აძლიერებს</h3><div class="meta">35 წუთის წინ · 3 წუთი</div></div></article>
-      <article class="story"><div class="visual blue"><span class="big">₾ 2.7025</span></div><div class="story-body"><span class="tag">საქართველო</span><h3>ლარი გამყარდა — რას ნიშნავს ახალი კურსი იმპორტისა და ინვესტორებისთვის?</h3><div class="meta">1 საათის წინ · 5 წუთი</div></div></article>
+      <a class="story" href="https://nbg.gov.ge/media/news" target="_blank" rel="noopener"><div class="visual blue"><span class="big">NBG</span></div><div class="story-body"><span class="tag">საქართველო</span><h3>საქართველოს ეროვნული ბანკის ოფიციალური სიახლეები და გადაწყვეტილებები</h3><div class="meta">პირველწყაროს გახსნა ↗</div></div></a>
+      <a class="story" href="https://gse.ge/" target="_blank" rel="noopener"><div class="visual"><span class="big">GSE</span></div><div class="story-body"><span class="tag">ქართული ბაზარი</span><h3>საქართველოს საფონდო ბირჟის ოფიციალური ინფორმაცია</h3><div class="meta">პირველწყაროს გახსნა ↗</div></div></a>
+      <a class="story" href="https://www.federalreserve.gov/newsevents/pressreleases.htm" target="_blank" rel="noopener"><div class="visual red"><span class="big">FED</span></div><div class="story-body"><span class="tag">აშშ-ის ეკონომიკა</span><h3>Federal Reserve-ის ოფიციალური გადაწყვეტილებები და განცხადებები</h3><div class="meta">პირველწყაროს გახსნა ↗</div></div></a>
     </section>
 
     <div class="section-head" id="tools"><div><div class="eyebrow">გადაწყვეტილებები ციფრებით</div><h2>ინვესტორის ინსტრუმენტები</h2></div><a href="tools.html">ყველა ინსტრუმენტი →</a></div>
@@ -120,7 +118,7 @@
       <a class="tool" href="#" data-open="compareDialog"><span class="tool-icon">◫</span><span><h3>პლატფორმების შედარება</h3><p>BOG, TBC და საერთაშორისო ბროკერები</p></span></a>
       <a class="tool" href="#"><span class="tool-icon">◎</span><span><h3>რისკის პროფილი</h3><p>გაიგე, როგორი ტიპის ინვესტორი ხარ</p></span></a>
     </section>
-    <div class="disclaimer" id="dataDisclosure">Investors.ge საინფორმაციო და საგანმანათლებლო პლატფორმაა. წარმოდგენილი ინფორმაცია არ წარმოადგენს ფინანსურ რჩევას. კრიპტო მონაცემები მოწოდებულია CoinGecko-ს მიერ; GEL-ის ოფიციალური კურსი — საქართველოს ეროვნული ბანკის მიერ. აქციებისა და ინდექსების საპროტოტიპო ბარათები შეიცვლება TradingView-ის ატრიბუციანი ვიჯეტებით.</div>
+    <div class="disclaimer" id="dataDisclosure">Investors.ge საინფორმაციო და საგანმანათლებლო პლატფორმაა. წარმოდგენილი ინფორმაცია არ წარმოადგენს ფინანსურ რჩევას. აქციების, ინდექსებისა და საქონლის მონაცემები ნაჩვენებია TradingView-ის ატრიბუციანი ვიჯეტებით და შესაძლოა დაგვიანებული იყოს; კრიპტო მონაცემები მოწოდებულია CoinGecko-ს მიერ; GEL-ის ოფიციალური დღიური კურსი — საქართველოს ეროვნული ბანკის მიერ. NBG-ის კურსი არ არის ბანკის კომერციული ყიდვა/გაყიდვის კურსი.</div>
   </main>
   <dialog id="calcDialog">
     <div class="modal-head"><h2>რთული პროცენტის კალკულატორი</h2><button class="close" aria-label="დახურვა">×</button></div>
@@ -150,6 +148,7 @@
   <script src="shared.js"></script>
   <script>
     function lineChart(canvas, values, color, fill) {
+      if(!canvas||!values?.length)return;
       const dpr=devicePixelRatio||1, r=canvas.getBoundingClientRect(); canvas.width=r.width*dpr; canvas.height=r.height*dpr;
       const c=canvas.getContext('2d'); c.scale(dpr,dpr); const w=r.width,h=r.height,p=fill?24:2;
       const min=Math.min(...values),max=Math.max(...values),x=i=>p+i*(w-p*2)/(values.length-1),y=v=>p+(max-v)*(h-p*2)/(max-min||1);
@@ -157,21 +156,12 @@
       c.beginPath();values.forEach((v,i)=>i?c.lineTo(x(i),y(v)):c.moveTo(x(i),y(v)));c.strokeStyle=color;c.lineWidth=fill?2.5:1.7;c.stroke();
       if(fill){c.lineTo(x(values.length-1),h-p);c.lineTo(x(0),h-p);c.closePath();const g=c.createLinearGradient(0,0,0,h);g.addColorStop(0,'rgba(10,168,117,.22)');g.addColorStop(1,'rgba(10,168,117,0)');c.fillStyle=g;c.fill()}
     }
-    const assets={
-      btc:{icon:'₿',name:'Bitcoin / აშშ დოლარი',meta:'BTC · CRYPTO · COINGECKO',price:'იტვირთება…',change:'მონაცემების განახლება',color:'#0aa875',values:[42,45,43,48,52,49,54,58,62,59,66,64,72,76,70,78,82,87,83,91,95,92,103,108,105,112,118,116,124,121,130,136,132,141,146,151,147,158,166,162,171,178,182,190]},
-      spx:{icon:'S',name:'S&P 500 ინდექსი',meta:'SPX · TRADINGVIEW',price:'ინტერაქტიული გრაფიკი',change:'მონაცემები TradingView-ზე',color:'#0aa875',values:[80,83,82,86,88,91,89,94,98,96,101,104,108,107,112,115,118,116,121,125,128,131,129,134,137,141]},
-      nasdaq:{icon:'N',name:'NASDAQ Composite',meta:'IXIC · TRADINGVIEW',price:'ინტერაქტიული გრაფიკი',change:'მონაცემები TradingView-ზე',color:'#0aa875',values:[66,70,68,75,73,79,83,81,88,92,89,96,99,104,101,109,114,118,116,124,129,134]},
-      gold:{icon:'Au',name:'ოქრო / აშშ დოლარი',meta:'GOLD · TRADINGVIEW',price:'ინტერაქტიული გრაფიკი',change:'მონაცემები TradingView-ზე',color:'#0aa875',values:[100,102,101,104,106,105,109,111,110,114,116,119]},
-      gel:{icon:'₾',name:'აშშ დოლარი / ქართული ლარი',meta:'USD/GEL · NBG OFFICIAL',price:'იტვირთება…',change:'ოფიციალური დღიური კურსი',color:'#087a55',values:[145,144,142,143,141,139,140,137,135,136,133,131,132,129,128,126]},
-      bgeo:{icon:'B',name:'Lion Finance Group',meta:'BGEO · TRADINGVIEW',price:'ინტერაქტიული გრაფიკი',change:'მონაცემები TradingView-ზე',color:'#0aa875',values:[56,59,58,62,65,64,69,72,70,76,79,83,81,87,92,96]}
-    };
-    let currentAsset='btc';
-    function draw(){document.querySelectorAll('.spark').forEach(e=>lineChart(e,e.dataset.values.split(',').map(Number),e.dataset.color,false));const a=assets[currentAsset];lineChart(document.querySelector('#chart'),a.values,a.color,true)}
-    addEventListener('resize',draw);draw();
-    document.querySelectorAll('.range-tabs button').forEach(b=>b.onclick=()=>{document.querySelector('.range-tabs .active').classList.remove('active');b.classList.add('active')});
-    function selectAsset(key){const a=assets[key];if(!a)return;currentAsset=key;assetIcon.textContent=a.icon;assetName.textContent=a.name;assetMeta.textContent=a.meta;assetPrice.textContent=a.price;assetChange.textContent=a.change;assetChange.style.color=a.color;document.querySelectorAll('.quote').forEach(q=>q.classList.toggle('selected',q.dataset.asset===key));draw();document.querySelector('.panel').scrollIntoView({behavior:'smooth',block:'center'});searchResults.classList.remove('open');assetSearch.value=''}
-    document.querySelectorAll('.quote').forEach(q=>q.onclick=()=>selectAsset(q.dataset.asset));
-    assetSearch.oninput=()=>{const query=assetSearch.value.trim().toLowerCase();const matches=Object.entries(assets).filter(([k,a])=>(a.name+' '+a.meta+' '+k).toLowerCase().includes(query)).slice(0,5);searchResults.innerHTML=matches.map(([k,a])=>`<div class="result" data-key="${k}"><i>${a.icon}</i><span><b>${a.name}</b><small>${a.meta}</small></span></div>`).join('');searchResults.classList.toggle('open',query.length>0&&matches.length>0);searchResults.querySelectorAll('.result').forEach(r=>r.onclick=()=>selectAsset(r.dataset.key))};
+    const searchable=[
+      ['S','S&P 500','SPX · TradingView'],['N','NASDAQ Composite','IXIC · TradingView'],
+      ['₿','Bitcoin','BTC · CoinGecko'],['Au','ოქრო','XAU/USD · TradingView'],
+      ['₾','USD / GEL','NBG ოფიციალური'],['B','Lion Finance Group','BGEO · TradingView']
+    ];
+    assetSearch.oninput=()=>{const query=assetSearch.value.trim().toLowerCase();const matches=searchable.filter(a=>a.join(' ').toLowerCase().includes(query)).slice(0,5);searchResults.innerHTML=matches.map(a=>`<a class="result" href="markets.html"><i>${a[0]}</i><span><b>${a[1]}</b><small>${a[2]}</small></span></a>`).join('');searchResults.classList.toggle('open',query.length>0&&matches.length>0)};
     document.addEventListener('click',e=>{if(!e.target.closest('.search'))searchResults.classList.remove('open')});
     document.querySelectorAll('[data-open]').forEach(a=>a.onclick=e=>{e.preventDefault();document.getElementById(a.dataset.open).showModal()});
     document.querySelectorAll('dialog .close').forEach(b=>b.onclick=()=>b.closest('dialog').close());
@@ -185,12 +175,13 @@
         if(!response.ok)throw new Error('function unavailable');
         return await response.json();
       }catch(_){
-        const [crypto,fx]=await Promise.all([
-          fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true&include_last_updated_at=true').then(r=>r.json()),
+        const [cryptoRows,fx]=await Promise.all([
+          fetch('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,solana&price_change_percentage=24h&sparkline=true').then(r=>r.json()),
           fetch('https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/ka/json/').then(r=>r.json())
         ]);
         const usd=fx?.[0]?.currencies?.find(c=>c.code==='USD');
-        return {crypto:{bitcoin:crypto.bitcoin,ethereum:crypto.ethereum},fx:{usd},fetchedAt:new Date().toISOString(),mode:'direct-fallback'};
+        const crypto=Object.fromEntries(cryptoRows.map(item=>[item.id,{usd:item.current_price,usd_24h_change:item.price_change_percentage_24h,last_updated_at:Math.floor(new Date(item.last_updated).getTime()/1000),sparkline:item.sparkline_in_7d?.price||[]}]));
+        return {crypto,fx:{usd},fetchedAt:new Date().toISOString(),mode:'direct-fallback'};
       }
     }
     function signed(value){return `${value>=0?'+':'−'}${Math.abs(value).toFixed(2)}%`}
@@ -200,13 +191,15 @@
         if(btc?.usd){
           const price='$'+Number(btc.usd).toLocaleString('en-US',{maximumFractionDigits:2}),change=signed(btc.usd_24h_change||0)+' · 24სთ';
           btcCardPrice.textContent=price;btcCardChange.textContent=change;btcCardChange.className='delta '+((btc.usd_24h_change||0)>=0?'up':'down');
-          assets.btc.price=price;assets.btc.change=change;assets.btc.color=(btc.usd_24h_change||0)>=0?'#0aa875':'#d84c4c';
-          if(currentAsset==='btc'){assetPrice.textContent=price;assetChange.textContent=change;assetChange.style.color=assets.btc.color}
+          briefBtc.textContent=`Bitcoin: ${price}`;briefBtcChange.textContent=`CoinGecko · ${change}`;
+          btcUpdated.textContent='CoinGecko · განახლდა '+new Date(btc.last_updated_at?btc.last_updated_at*1000:data.fetchedAt).toLocaleTimeString('ka-GE',{hour:'2-digit',minute:'2-digit'});
+          if(Array.isArray(btc.sparkline)&&btc.sparkline.length)lineChart(btcSpark,btc.sparkline,(btc.usd_24h_change||0)>=0?'#0aa875':'#d84c4c',false);
         }
         if(usd?.rate){
           const price=Number(usd.rate).toFixed(4),diff=Number(usd.diff||0),change=`${diff>=0?'+':'−'}${Math.abs(diff).toFixed(4)} · ${new Date(usd.validFromDate||data.fetchedAt).toLocaleDateString('ka-GE')}`;
           gelCardPrice.textContent=price;gelCardChange.textContent=change;gelCardChange.className='delta '+(diff>=0?'up':'down');
-          assets.gel.price=price;assets.gel.change=change;assets.gel.color=diff>=0?'#0aa875':'#d84c4c';
+          briefGel.textContent=`1 USD = ${price} GEL`;briefGelDate.textContent=`NBG · ძალაშია ${new Date(usd.validFromDate||data.fetchedAt).toLocaleDateString('ka-GE')}`;
+          gelUpdated.textContent='NBG ოფიციალური კურსი · არა კომერციული ყიდვა/გაყიდვა';
         }
         document.querySelector('.date').innerHTML=`<span class="live-dot"></span>განახლდა ${new Date(data.fetchedAt).toLocaleTimeString('ka-GE',{hour:'2-digit',minute:'2-digit'})} · წყაროები აქტიურია`;
       }catch(_){
