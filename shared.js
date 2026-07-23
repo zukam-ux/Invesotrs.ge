@@ -9,7 +9,7 @@ document.querySelectorAll('[data-year]').forEach(el=>el.textContent=new Date().g
 
 async function sharedMarketData(){
   try{
-    const response=await fetch('/.netlify/functions/market-data');
+    const response=await fetch('/api/market-data');
     if(!response.ok)throw new Error('server feed unavailable');
     return await response.json();
   }catch(_){
