@@ -7,16 +7,22 @@ const tickerMarkup=`
 document.querySelectorAll('[data-ticker]').forEach(el=>el.innerHTML=tickerMarkup);
 document.querySelectorAll('[data-year]').forEach(el=>el.textContent=new Date().getFullYear());
 
+async function sharedFetchJson(url,timeout=7000){
+  const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),timeout);
+  try{const response=await fetch(url,{signal:controller.signal});if(!response.ok)throw new Error('request unavailable');return await response.json()}
+  finally{clearTimeout(timer)}
+}
 async function sharedMarketData(){
   try{
-    const response=await fetch('/api/market-data');
-    if(!response.ok)throw new Error('server feed unavailable');
-    return await response.json();
+    return await sharedFetchJson('/api/market-data');
   }catch(_){
-    const [crypto,fx]=await Promise.all([
-      fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true').then(r=>r.json()),
-      fetch('https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/ka/json/').then(r=>r.json())
+    const [cryptoResult,fxResult]=await Promise.allSettled([
+      sharedFetchJson('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true'),
+      sharedFetchJson('https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/ka/json/')
     ]);
+    const crypto=cryptoResult.status==='fulfilled'?cryptoResult.value:{};
+    const fx=fxResult.status==='fulfilled'?fxResult.value:[];
+    if(!crypto.bitcoin&&!fx.length)throw new Error('all feeds unavailable');
     return {crypto:{bitcoin:crypto.bitcoin},fx:{usd:fx?.[0]?.currencies?.find(c=>c.code==='USD')}};
   }
 }

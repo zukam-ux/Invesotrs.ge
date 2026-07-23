@@ -3,21 +3,36 @@ const CRYPTO_URL =
 const NBG_URL =
   "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/ka/json/";
 
+async function fetchJson(url, timeoutMs = 7000) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    const response = await fetch(url, {
+      headers: { accept: "application/json" },
+      signal: controller.signal,
+    });
+    if (!response.ok) {
+      throw new Error(`Upstream returned ${response.status}`);
+    }
+    return await response.json();
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
 export default async () => {
   try {
-    const [cryptoResponse, fxResponse] = await Promise.all([
-      fetch(CRYPTO_URL, { headers: { accept: "application/json" } }),
-      fetch(NBG_URL, { headers: { accept: "application/json" } }),
+    const [cryptoResult, fxResult] = await Promise.allSettled([
+      fetchJson(CRYPTO_URL),
+      fetchJson(NBG_URL),
     ]);
 
-    if (!cryptoResponse.ok || !fxResponse.ok) {
-      throw new Error("Upstream market-data request failed");
+    const cryptoRows =
+      cryptoResult.status === "fulfilled" ? cryptoResult.value : [];
+    const fxRows = fxResult.status === "fulfilled" ? fxResult.value : [];
+    if (!cryptoRows.length && !fxRows.length) {
+      throw new Error("All upstream market-data requests failed");
     }
-
-    const [cryptoRows, fxRows] = await Promise.all([
-      cryptoResponse.json(),
-      fxResponse.json(),
-    ]);
     const currencies = fxRows?.[0]?.currencies ?? [];
     const byCode = (code) => currencies.find((item) => item.code === code);
     const crypto = Object.fromEntries(
@@ -46,9 +61,10 @@ export default async () => {
         },
         fetchedAt: new Date().toISOString(),
         sources: {
-          crypto: "CoinGecko",
-          fx: "National Bank of Georgia",
+          crypto: cryptoRows.length ? "CoinGecko" : null,
+          fx: currencies.length ? "National Bank of Georgia" : null,
         },
+        partial: !cryptoRows.length || !currencies.length,
       }),
       {
         headers: {

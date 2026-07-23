@@ -182,16 +182,22 @@
     function calculate(){const p=+initial.value||0,m=+monthly.value||0,r=(+rate.value||0)/1200,n=(+years.value||0)*12;const fv=r?p*Math.pow(1+r,n)+m*((Math.pow(1+r,n)-1)/r):p+m*n;futureValue.textContent=Math.round(fv).toLocaleString('en-US')+' ₾';contributed.textContent='შეტანილი: '+Math.round(p+m*n).toLocaleString('en-US')+' ₾'}
     document.querySelectorAll('#calcDialog input').forEach(i=>i.oninput=calculate);calculate();
     const liveEndpoint='/api/market-data';
+    async function fetchJsonWithTimeout(url,timeout=7000){
+      const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),timeout);
+      try{const response=await fetch(url,{signal:controller.signal});if(!response.ok)throw new Error('request unavailable');return await response.json()}
+      finally{clearTimeout(timer)}
+    }
     async function getLiveData(){
       try{
-        let response=await fetch(liveEndpoint);
-        if(!response.ok)throw new Error('function unavailable');
-        return await response.json();
+        return await fetchJsonWithTimeout(liveEndpoint);
       }catch(_){
-        const [cryptoRows,fx]=await Promise.all([
-          fetch('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,solana&price_change_percentage=24h&sparkline=true').then(r=>r.json()),
-          fetch('https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/ka/json/').then(r=>r.json())
+        const [cryptoResult,fxResult]=await Promise.allSettled([
+          fetchJsonWithTimeout('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,solana&price_change_percentage=24h&sparkline=true'),
+          fetchJsonWithTimeout('https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/ka/json/')
         ]);
+        const cryptoRows=cryptoResult.status==='fulfilled'?cryptoResult.value:[];
+        const fx=fxResult.status==='fulfilled'?fxResult.value:[];
+        if(!cryptoRows.length&&!fx.length)throw new Error('all feeds unavailable');
         const usd=fx?.[0]?.currencies?.find(c=>c.code==='USD');
         const crypto=Object.fromEntries(cryptoRows.map(item=>[item.id,{usd:item.current_price,usd_24h_change:item.price_change_percentage_24h,last_updated_at:Math.floor(new Date(item.last_updated).getTime()/1000),sparkline:item.sparkline_in_7d?.price||[]}]));
         return {crypto,fx:{usd},fetchedAt:new Date().toISOString(),mode:'direct-fallback'};
