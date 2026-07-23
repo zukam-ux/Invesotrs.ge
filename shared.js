@@ -1,6 +1,6 @@
 const tickerMarkup=`
   <span>S&amp;P 500 <b>TradingView</b></span>
-  <span>NASDAQ <b>TradingView</b></span>
+  <span>NASDAQ-100 ETF <b>QQQ · TradingView</b></span>
   <span>BITCOIN <b data-live="btc">იტვირთება…</b> <i data-live="btc-change" style="font-style:normal"></i></span>
   <span>USD/GEL <b data-live="usd">იტვირთება…</b> <i data-live="usd-date" style="font-style:normal"></i></span>
   <span><i style="font-style:normal;color:#9eb9ac">კრიპტო: CoinGecko · კურსი: NBG</i></span>`;
