@@ -12,7 +12,12 @@
 [[headers]]
   for = "/shared.js"
   [headers.values]
-    Cache-Control = "public, max-age=3600"
+    Cache-Control = "no-cache, must-revalidate"
+
+[[headers]]
+  for = "/asset-search.js"
+  [headers.values]
+    Cache-Control = "no-cache, must-revalidate"
 
 [[headers]]
   for = "/shared.css"
