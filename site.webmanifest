@@ -1,0 +1,10 @@
+{
+  "name": "Investors.ge",
+  "short_name": "Investors",
+  "lang": "ka",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8f6",
+  "theme_color": "#10291f",
+  "description": "ბაზრები, სიახლეები და საინვესტიციო განათლება ქართულად"
+}
