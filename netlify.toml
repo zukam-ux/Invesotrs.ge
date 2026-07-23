@@ -2,6 +2,12 @@
   publish = "."
   functions = "netlify/functions"
 
+[[redirects]]
+  from = "/api/market-data"
+  to = "/.netlify/functions/market-data"
+  status = 200
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]

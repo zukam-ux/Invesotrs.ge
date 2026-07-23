@@ -181,7 +181,7 @@
     document.querySelectorAll('dialog').forEach(d=>d.onclick=e=>{if(e.target===d)d.close()});
     function calculate(){const p=+initial.value||0,m=+monthly.value||0,r=(+rate.value||0)/1200,n=(+years.value||0)*12;const fv=r?p*Math.pow(1+r,n)+m*((Math.pow(1+r,n)-1)/r):p+m*n;futureValue.textContent=Math.round(fv).toLocaleString('en-US')+' ₾';contributed.textContent='შეტანილი: '+Math.round(p+m*n).toLocaleString('en-US')+' ₾'}
     document.querySelectorAll('#calcDialog input').forEach(i=>i.oninput=calculate);calculate();
-    const liveEndpoint='/.netlify/functions/market-data';
+    const liveEndpoint='/api/market-data';
     async function getLiveData(){
       try{
         let response=await fetch(liveEndpoint);
