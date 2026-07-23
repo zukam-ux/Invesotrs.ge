@@ -32,3 +32,36 @@ async function updateSharedTicker(){
   }
 }
 updateSharedTicker();
+
+function escapeNews(value=""){
+  return String(value).replace(/[&<>"']/g,char=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]));
+}
+function relativeNewsTime(value){
+  const hours=Math.max(0,Math.floor((Date.now()-new Date(value).getTime())/36e5));
+  if(hours<1)return "ბოლო საათში";
+  if(hours<24)return `${hours} საათის წინ`;
+  return new Date(value).toLocaleDateString("ka-GE");
+}
+async function loadGlobalNews(){
+  const targets=document.querySelectorAll("[data-global-news]");
+  if(!targets.length)return;
+  try{
+    const response=await fetch(`/data/global-news.json?v=${Math.floor(Date.now()/36e5)}`);
+    if(!response.ok)throw new Error("news unavailable");
+    const data=await response.json();
+    targets.forEach(target=>{
+      const limit=Number(target.dataset.limit||9),articles=(data.articles||[]).slice(0,limit);
+      target.innerHTML=articles.length?articles.map(article=>`
+        <a class="auto-news-card" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
+          <span class="badge">${escapeNews(article.category)} · ${escapeNews(article.source)}</span>
+          <h3>${escapeNews(article.titleKa)}</h3>
+          <p>${escapeNews(article.summaryKa)}</p>
+          <span class="meta">${relativeNewsTime(article.publishedAt)} · <span class="translation-label">AI თარგმანი</span> · პირველწყარო ↗</span>
+        </a>`).join(""):'<div class="news-status">პირველი ავტომატური განახლება მზადდება. გლობალური ამბები საათში ერთხელ განახლდება.</div>';
+    });
+    document.querySelectorAll("[data-news-updated]").forEach(el=>el.textContent=data.updatedAt?`განახლდა ${new Date(data.updatedAt).toLocaleString("ka-GE")}`:"პირველი განახლება მზადდება");
+  }catch(_){
+    targets.forEach(target=>target.innerHTML='<div class="news-status">გლობალური ამბების განახლება დროებით შეფერხებულია. ბაზრის მონაცემები მუშაობას აგრძელებს.</div>');
+  }
+}
+loadGlobalNews();

@@ -1,0 +1,106 @@
+{
+  "updatedAt": "2026-07-23T16:24:01.144Z",
+  "source": "Google News RSS metadata and original publishers",
+  "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
+  "articles": [
+    {
+      "id": "0d159d6bde03ff5f",
+      "title": "Pinnacle Financial Partners CEO on earnings beat, margin compression",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmFFRV82ZkM5eDN1NWRXUWRoLTJ1My1MbW45emFLdXhRQ2VIa1dreTZGWXk2dnRBTUw3QjJ5WkFqNHhlcFY0NDBqR2RvbXBvNy1hc1NmRFlHMjhMUk51V2VRakdlc2c4Zi1DbVo5QVlaOFAyaTJNRmRYNFM0UzlsaXI4ZUE2STdjZmNYaUlIVTVTSkN4Rkhvamt2Y3U1TnQxMEhVZm11OW16ZVZoVlRfVEUxcw?oc=5",
+      "publishedAt": "2026-07-23T16:18:13.000Z",
+      "titleKa": "Pinnacle Financial Partners-ის CEO-ის კომენტარი მოგების ზრდაზე და მარჟის შემცირებაზე",
+      "summaryKa": "Pinnacle Financial Partners-ის CEO-მა განაცხადა მოგების ზრდაზე და მარჟის შემცირებაზე.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "15e815bf19ae99b1",
+      "title": "Structural inflation may be more persistent than markets expect: TD Bank's Solomon",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaUkxU3JhZXJ1b1FfVVJrUXBMZzY5UlNLSDRoYTZ4UWVIanduME1yUVZlOTdUdEZ4d0hITFNEZjhHSFJmTkJrNk1KSWZtSHd5SWJGMWtKZGx3ZlpnaEpuYjBCU2p6dmRvWjl0cHcwX3I0ZnlhRmZhREZmQkx1SG5lMVh3NlpwbkkyOU84MzNsWGFHOXpLdnpZYkNXRmt5RjRYTzE5STYxSWpNSng0TmRzUTZvWEZwODZrMmpYbENNVzk?oc=5",
+      "publishedAt": "2026-07-23T16:08:46.000Z",
+      "titleKa": "სტრუქტურული ინფლაცია შესაძლოა უფრო მდგრადი იყოს, ვიდრე ბაზრები ელიან: TD Bank-ის სოლომონი",
+      "summaryKa": "TD Bank-ის სოლომონი აცხადებს, რომ სტრუქტურული ინფლაცია შესაძლოა უფრო მდგრადი იყოს.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "cab3ebcd5fa5f938",
+      "title": "Oil Hit $100 as a Second Front Opens in Middle East War",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0RxLVNRNFpyRk94V05rV093bHNOTVAtT2JlVXAtR2hjOElteHgyZDBGM3BiU1ZxUWJNS05nRUd6cFZhbGdfOGNPU2JSVW1XY2JQQ3FWM2pTNUNaWWJ6b1FqVDBRSmpmdF9BMGY2YkN6T0dFQTZweTRnYlNUM0tvRFdvRWtBOFNteU5ZdkpKUmN5eFYyVDNBR0psLUJVWG5ZN1pmYWFiakxwNEYz?oc=5",
+      "publishedAt": "2026-07-23T16:04:45.000Z",
+      "titleKa": "ნავთობის ფასი $100-ს მიაღწია, რადგან ახლო აღმოსავლეთში მეორე ფრონტი გაიხსნა",
+      "summaryKa": "ნავთობის ფასი $100-ს მიაღწია ახლო აღმოსავლეთში მეორე ფრონტის გახსნის გამო.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b10bfdb6eaa418a4",
+      "title": "Mortgage rates hit highest level since August as oil's rise sparks inflation worries",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNV9jOXBxS0UzcTFnYnF0Vy1hWVpKaURTQ3Y0LUkzT1pnd291dHRndGxfQzhtVDcxM0lZU2xHOU8xM3JmSE0wdGQxRUhvTTVwVkFXSkxxenRndkh2R2g0RGNEWnBZNkhnSTI4RVpLTUY1czdORHNpZ0p3RVQ3UnJjM0I4WTcwU3VpWlRKRjBTU1lfMi1tNlZfbEQxMThSTDh5QWxaNEJlNWs1X0s2Tk1qRFFPc21GTlJCQlRpRzk0S25PWlZIdWlEWg?oc=5",
+      "publishedAt": "2026-07-23T16:00:50.000Z",
+      "titleKa": "მორტგაჟის განაკვეთები აგვისტოს შემდეგ ყველაზე მაღალ დონეზეა, რადგან ნავთობის ზრდამ ინფლაციის შიშები გააღვივა",
+      "summaryKa": "მორტგაჟის განაკვეთები აგვისტოს შემდეგ ყველაზე მაღალ დონეზეა, რაც ინფლაციის შიშებს უკავშირდება.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c5edb4e1ba7479e0",
+      "title": "Traders stick with ECB rate-hike bets as oil touches $100 once more",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZBQkFObE9DSDc2a0tYWmFWLUNCeHhzR2RHY09PNkJ2TENuRzNnNXpZQkVNdUR6dmF6VlJTQjVjQlpJa0pJN3FadFhXaDNYOERRem52eGw2U3RMa2NZUkp3ZFJCRXdMSGVSRjFacXJYSmFxQXpBanEwODZqSlg5S2lrOEZ6WTMtbUFrM1NuSng3bGhTVGZHN2Zic0ctRTRhWHI2MzNqWmJFM05F?oc=5",
+      "publishedAt": "2026-07-23T15:47:44.000Z",
+      "titleKa": "ვაჭრები ECB-ის განაკვეთის ზრდის ფსონებზე რჩებიან, რადგან ნავთობი კვლავ $100-ს ეხება",
+      "summaryKa": "ვაჭრები ECB-ის განაკვეთის ზრდის ფსონებზე რჩებიან, რადგან ნავთობი კვლავ $100-ს ეხება.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b7daf89d5223a037",
+      "title": "Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcFQ4R3RfLUdZQ0tEOWhpOG1GYmZLXzFVVXhHN3NldXdUam5kSFFMVUg2em54ZXRIY051OTZ4c3JNZmZiREhXek9SWXgza3FweGNlNC1rZnlzem1JOW1yd2ExLWE5R0JYb29NUUNHVkMycWFxZTB5dzFhMHA0anpNSnRnSlVWWllralh5WDBrbWRiZlNTLTdnRGxFWkhmV0NUUDJWVUp2T01lcVpkaW45RWxUczVUWHRQQzNZYWZQcmxUd05namZJNm9FTnYxTEZDZVg4eTZMVEJVckQ0RWZvckY1SEozSTZvaWdpVE1KNGdqSlJDRGhwZHpwQk5seDc2V1E?oc=5",
+      "publishedAt": "2026-07-23T15:26:54.000Z",
+      "titleKa": "ბიტკოინის და ეთერიუმის ფასები დღეს, ხუთშაბათს, 23 ივლისს: ფასები შერეულია, რადგან ანალიტიკოსები კრიპტოს დაბალ წერტილზე მსჯელობენ",
+      "summaryKa": "ბიტკოინის და ეთერიუმის ფასები დღეს შერეულია, რადგან ანალიტიკოსები კრიპტოს დაბალ წერტილზე მსჯელობენ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9aaf5f14a4259283",
+      "title": "Tesla stock stumbles after latest earnings report",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGRKNEdUSWpKa1lDamtWMWNCT2JIcTExRzEwcnpWdTIxODhIejhvNjZ5MlI3aHFucG5SVXMxTUx3dnd1ZU8wNGJTeEowVURCSmpQOHFfNnA4dXRHY244TXBQYjdzZWVCZlc2Z3JDRnd5aTRGTEp6dHhDNlJ3QTJ6TDZnajJZUzZBTjFzdVhHR2dSOGdSLXlZ?oc=5",
+      "publishedAt": "2026-07-23T15:26:35.000Z",
+      "titleKa": "Tesla-ს აქციები ბოლო მოგების ანგარიშის შემდეგ დაეცა",
+      "summaryKa": "Tesla-ს აქციები ბოლო მოგების ანგარიშის შემდეგ დაეცა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d84dc00a86fc6318",
+      "title": "Hundreds settle with HMRC as crypto tax crackdown continues",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVno3UFlUZnl1UUZKWC1ocFFsRTloSEVmWUg0dE02eW9NQm9PV2VIOHpMU2hKaHF6Q2JibnJDRGhqNlE4QlNwRUJaa09kQ2xZQS1JM24yZHpOWTYyQmdsSkdXQ25uUWRiT01MdFFsTlhPYXFXZDFtWWdjbnhRSEFxa0hjMlY?oc=5",
+      "publishedAt": "2026-07-23T15:17:34.000Z",
+      "titleKa": "ასობით ადამიანი HMRC-სთან შეთანხმდა კრიპტო გადასახადების გაწვდვის პროცესში",
+      "summaryKa": "HMRC-თან ასობით ადამიანი შეთანხმდა კრიპტო გადასახადების გაწვდვის პროცესში.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "54854678e8343bed",
+      "title": "Lumentum and 5 Other Stocks Set to Win From Big Tech’s AI Spending Spree",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51UXdvYm1vQTluUnp0YnpwQU80V3RsWG1Qakt4Z29lTXl0UFJWQWN6dENBNGltNm10STRuTFpIMUNfQWp4eHBremtXRVlHNUw5emFvTGNodnpVYU8yQi11VUtsaGxoM1kzRWNJb09VWWtQU2QwdXVn?oc=5",
+      "publishedAt": "2026-07-23T15:16:00.000Z",
+      "titleKa": "Lumentum და 5 სხვა აქცია, რომლებიც დიდი ტექნოლოგიების AI ხარჯებისგან სარგებელს მიიღებენ",
+      "summaryKa": "Lumentum და კიდევ 5 აქცია, რომლებიც დიდი ტექნოლოგიების AI ხარჯებისგან სარგებელს მიიღებენ.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    }
+  ]
+}

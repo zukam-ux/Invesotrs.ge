@@ -1,0 +1,39 @@
+name: Hourly global financial news
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  models: read
+
+concurrency:
+  group: hourly-global-news
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Collect and translate global stories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update-news.mjs
+      - name: Publish changed news data
+        run: |
+          if git diff --quiet -- data/global-news.json; then
+            echo "No new stories to publish"
+            exit 0
+          fi
+          git config user.name "Investors.ge News Bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add data/global-news.json
+          git commit -m "Update global financial news"
+          git push
