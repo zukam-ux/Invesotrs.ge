@@ -65,3 +65,20 @@ async function loadGlobalNews(){
   }
 }
 loadGlobalNews();
+
+document.querySelectorAll(".nav-search:not([data-asset-search])").forEach(input => {
+  input.dataset.assetSearch = "";
+  input.placeholder = "კომპანია, ტიკერი, კრიპტო…";
+  if (!input.closest(".asset-search")) {
+    const wrapper = document.createElement("label");
+    wrapper.className = "asset-search";
+    input.parentNode.insertBefore(wrapper, input);
+    wrapper.appendChild(input);
+    const results = document.createElement("div");
+    results.className = "asset-search-results";
+    wrapper.appendChild(results);
+  }
+});
+const assetSearchScript = document.createElement("script");
+assetSearchScript.src = "asset-search.js";
+document.body.appendChild(assetSearchScript);
