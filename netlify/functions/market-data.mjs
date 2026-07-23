@@ -1,5 +1,5 @@
 const CRYPTO_URL =
-  "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana&vs_currencies=usd&include_24hr_change=true&include_last_updated_at=true";
+  "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,solana&price_change_percentage=24h&sparkline=true";
 const NBG_URL =
   "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/ka/json/";
 
@@ -14,12 +14,23 @@ export default async () => {
       throw new Error("Upstream market-data request failed");
     }
 
-    const [crypto, fxRows] = await Promise.all([
+    const [cryptoRows, fxRows] = await Promise.all([
       cryptoResponse.json(),
       fxResponse.json(),
     ]);
     const currencies = fxRows?.[0]?.currencies ?? [];
     const byCode = (code) => currencies.find((item) => item.code === code);
+    const crypto = Object.fromEntries(
+      cryptoRows.map((item) => [
+        item.id,
+        {
+          usd: item.current_price,
+          usd_24h_change: item.price_change_percentage_24h,
+          last_updated_at: Math.floor(new Date(item.last_updated).getTime() / 1000),
+          sparkline: item.sparkline_in_7d?.price ?? [],
+        },
+      ]),
+    );
 
     return new Response(
       JSON.stringify({
