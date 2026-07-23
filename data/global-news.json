@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T16:24:01.144Z",
+  "updatedAt": "2026-07-23T16:25:17.852Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
@@ -59,6 +59,17 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "876714ffe4a7bd59",
+      "title": "Why Analysts Aren’t Worried About Tesla’s Latest Post-Earnings Stock Slide",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QYUNWc3dYRS1BU2hfZ2NLeVRxbmhObGJxOE1sWkNKeTVCQmZOUl9YQnZROFROdGotUkRuZ3hFVXRkWnJKUHBvZVJoaFdlaDZncmdHV3FqTU15RVM1bWpETEhQZFZfX040S2RCMjZ4S2lzSzg?oc=5",
+      "publishedAt": "2026-07-23T15:42:00.000Z",
+      "titleKa": "რატომ არ არის ანალიტიკოსები შეშფოთებულნი Tesla-ს ბოლო შემოსავლების შემდეგი აქციების ვარდნით",
+      "summaryKa": "ანალიტიკოსები არ არიან შეშფოთებულნი Tesla-ს აქციების ვარდნით.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "b7daf89d5223a037",
       "title": "Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom",
       "source": "Yahoo Finance",
@@ -89,17 +100,6 @@
       "titleKa": "ასობით ადამიანი HMRC-სთან შეთანხმდა კრიპტო გადასახადების გაწვდვის პროცესში",
       "summaryKa": "HMRC-თან ასობით ადამიანი შეთანხმდა კრიპტო გადასახადების გაწვდვის პროცესში.",
       "category": "ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "54854678e8343bed",
-      "title": "Lumentum and 5 Other Stocks Set to Win From Big Tech’s AI Spending Spree",
-      "source": "Barron's",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51UXdvYm1vQTluUnp0YnpwQU80V3RsWG1Qakt4Z29lTXl0UFJWQWN6dENBNGltNm10STRuTFpIMUNfQWp4eHBremtXRVlHNUw5emFvTGNodnpVYU8yQi11VUtsaGxoM1kzRWNJb09VWWtQU2QwdXVn?oc=5",
-      "publishedAt": "2026-07-23T15:16:00.000Z",
-      "titleKa": "Lumentum და 5 სხვა აქცია, რომლებიც დიდი ტექნოლოგიების AI ხარჯებისგან სარგებელს მიიღებენ",
-      "summaryKa": "Lumentum და კიდევ 5 აქცია, რომლებიც დიდი ტექნოლოგიების AI ხარჯებისგან სარგებელს მიიღებენ.",
-      "category": "აქციები",
       "translationNotice": "AI-assisted Georgian translation"
     }
   ]
