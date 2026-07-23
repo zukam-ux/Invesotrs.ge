@@ -73,14 +73,78 @@ function identifyNewsAsset(article){
   ];
   return identities.find(identity=>identity.match.test(text))||{symbol:article.category==="აქციები"?"STOCK":article.category==="კრიპტო"?"CRYPTO":"NEWS",name:article.category||"ბაზრები"};
 }
+function newsPhoto(article,index=0){
+  const text=`${article.title||""} ${article.titleKa||""} ${article.category||""}`.toLowerCase();
+  const photos=[
+    {match:/tesla|electric|auto|vehicle/,url:"https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1400&q=82"},
+    {match:/google|alphabet|technology|tech|ai |chip|nvidia|intel|amd/,url:"https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=82"},
+    {match:/bitcoin|ethereum|crypto|cardano|blockchain/,url:"https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1400&q=82"},
+    {match:/oil|crude|energy|opec/,url:"https://images.unsplash.com/photo-1519003300449-424ad0405076?auto=format&fit=crop&w=1400&q=82"},
+    {match:/bank|treasury|yield|rate|ecb|fed|mortgage/,url:"https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1400&q=82"},
+    {match:/europe|dax|ftse|euro/,url:"https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1400&q=82"},
+    {match:/asia|china|japan|nikkei|hang seng/,url:"https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?auto=format&fit=crop&w=1400&q=82"},
+    {match:/stock|market|s&p|nasdaq|dow|shares|earnings/,url:"https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=82"}
+  ];
+  const fallbacks=[
+    "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1400&q=82",
+    "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1400&q=82",
+    "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1400&q=82"
+  ];
+  return photos.find(photo=>photo.match.test(text))?.url||fallbacks[index%fallbacks.length];
+}
+function editorialIdentity(identity,article){
+  return `<span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)}</b><small>${relativeNewsTime(article.publishedAt)} · ${escapeNews(article.source)}</small></span></span>`;
+}
+function renderEditorialHome(target,articles){
+  const selected=articles.slice(0,8),lead=selected[0],features=selected.slice(1,3),rail=selected.slice(3,8);
+  if(!lead){
+    target.innerHTML='<div class="news-status">მთავარი ამბების პირველი განახლება მზადდება.</div>';
+    return;
+  }
+  const leadIdentity=identifyNewsAsset(lead);
+  target.innerHTML=`
+    <a class="editorial-lead" href="${escapeNews(lead.url)}" target="_blank" rel="noopener">
+      <img src="${escapeNews(newsPhoto(lead,0))}" alt="" fetchpriority="high">
+      <span class="editorial-lead-body">
+        <span class="editorial-label">● LIVE · მთავარი ამბავი</span>
+        <h2>${escapeNews(lead.titleKa)}</h2>
+        <p>${escapeNews(lead.summaryKa)}</p>
+        <span class="editorial-meta"><b>${escapeNews(lead.source)}</b><span>·</span><span>${relativeNewsTime(lead.publishedAt)}</span><span>·</span><span>${escapeNews(lead.category)}</span><span>↗</span></span>
+      </span>
+    </a>
+    ${features.map((article,index)=>{
+      const identity=identifyNewsAsset(article);
+      return `<a class="editorial-feature" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
+        <img src="${escapeNews(newsPhoto(article,index+1))}" alt="" loading="lazy">
+        <span class="editorial-feature-body">
+          ${editorialIdentity(identity,article)}
+          <h3>${escapeNews(article.titleKa)}</h3>
+        </span>
+      </a>`;
+    }).join("")}
+    <aside class="editorial-rail">
+      <div class="editorial-rail-head"><h3>პოპულარული</h3><a href="news.html">ყველა ამბავი →</a></div>
+      <div class="editorial-rail-list">
+        ${rail.map(article=>{
+          const identity=identifyNewsAsset(article);
+          return `<a class="editorial-row" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
+            <i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i>
+            <span><h4>${escapeNews(article.titleKa)}</h4><small>${escapeNews(article.source)} · ${relativeNewsTime(article.publishedAt)}</small></span>
+          </a>`;
+        }).join("")}
+      </div>
+    </aside>`;
+}
 async function loadGlobalNews(){
   const targets=document.querySelectorAll("[data-global-news]");
   const topStoryTargets=document.querySelectorAll("[data-top-stories]");
-  if(!targets.length&&!topStoryTargets.length)return;
+  const editorialTargets=document.querySelectorAll("[data-editorial-home]");
+  if(!targets.length&&!topStoryTargets.length&&!editorialTargets.length)return;
   try{
     const response=await fetch(`/data/global-news.json?v=${Math.floor(Date.now()/36e5)}`);
     if(!response.ok)throw new Error("news unavailable");
     const data=await response.json();
+    editorialTargets.forEach(target=>renderEditorialHome(target,data.articles||[]));
     targets.forEach(target=>{
       const limit=Number(target.dataset.limit||9),offset=Number(target.dataset.offset||0),articles=(data.articles||[]).slice(offset,offset+limit);
       target.innerHTML=articles.length?articles.map(article=>{
@@ -124,6 +188,7 @@ async function loadGlobalNews(){
   }catch(_){
     targets.forEach(target=>target.innerHTML='<div class="news-status">გლობალური ამბების განახლება დროებით შეფერხებულია. ბაზრის მონაცემები მუშაობას აგრძელებს.</div>');
     topStoryTargets.forEach(target=>target.innerHTML='<div class="news-status">მთავარი ამბების განახლება დროებით შეფერხებულია.</div>');
+    editorialTargets.forEach(target=>target.innerHTML='<div class="news-status">მთავარი ამბების განახლება დროებით შეფერხებულია.</div>');
   }
 }
 loadGlobalNews();
