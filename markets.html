@@ -99,6 +99,36 @@
       coin: params.get("coin") || "",
     };
 
+    const canonicalSecurityCollisions = {
+      SPCX: {
+        name: "SpaceX",
+        exchange: "Nasdaq",
+        tv: "NASDAQ:SPCX",
+        cik: "0001181412",
+      },
+    };
+
+    if (asset.type === "crypto" && canonicalSecurityCollisions[asset.symbol]) {
+      const security = canonicalSecurityCollisions[asset.symbol];
+      Object.assign(asset, {
+        type: "security",
+        name: security.name,
+        exchange: security.exchange,
+        tv: security.tv,
+        cik: security.cik,
+        coin: "",
+      });
+      const corrected = new URLSearchParams({
+        type: "security",
+        symbol: asset.symbol,
+        name: security.name,
+        exchange: security.exchange,
+        tv: security.tv,
+        cik: security.cik,
+      });
+      location.replace(`markets.html?${corrected}`);
+    }
+
     function addWidget(host, source, config) {
       host.innerHTML = '<div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div></div>';
       const script = document.createElement("script");

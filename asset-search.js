@@ -55,7 +55,9 @@
   }
 
   function renderResult(asset) {
-    const kind = asset.type === "crypto" ? "კრიპტო · CoinGecko" : `${asset.exchange} · SEC`;
+    const kind = asset.type === "crypto"
+      ? "კრიპტო ტოკენი · არ არის კომპანიის აქცია"
+      : `${asset.exchange || "აშშ"} · კომპანიის ფასიანი ქაღალდი`;
     return `<a class="asset-result" href="${escapeHtml(assetUrl(asset))}">
       <i>${escapeHtml(asset.symbol.slice(0, 4))}</i>
       <span><b>${escapeHtml(asset.name)}</b><small>${escapeHtml(asset.symbol)} · ${escapeHtml(kind)}</small></span>
@@ -82,10 +84,24 @@
       try {
         const assets = await loadCatalog();
         if (current !== request) return;
-        const matches = assets
+        let ranked = assets
           .map(asset => [asset, score(asset, query)])
           .filter(([, value]) => value > 0)
-          .sort((a, b) => b[1] - a[1] || a[0].name.localeCompare(b[0].name))
+          .sort((a, b) => b[1] - a[1] || a[0].name.localeCompare(b[0].name));
+        const exactSecuritySymbols = new Set(
+          ranked
+            .filter(([asset]) => asset.type === "security" && (
+              asset.symbol.toLowerCase() === query ||
+              asset.name.toLowerCase() === query ||
+              (asset.aliases || "").toLowerCase() === query
+            ))
+            .map(([asset]) => asset.symbol.toLowerCase())
+        );
+        ranked = ranked.filter(([asset]) => !(
+          asset.type === "crypto" &&
+          exactSecuritySymbols.has(asset.symbol.toLowerCase())
+        ));
+        const matches = ranked
           .slice(0, 10)
           .map(([asset]) => asset);
         results.innerHTML = matches.length
