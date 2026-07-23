@@ -1,0 +1,1230 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Investors.ge — პროექტები. ინვესტიციები. მომავალი.</title>
+  <meta name="description" content="Investors.ge — საქართველოს ინვესტიციური პლატფორმა. პატარა ბიზნესიდან დიდ პროექტებამდე."/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Noto+Sans+Georgian:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"/>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --navy: #0a1628;
+      --navy2: #0f1f3d;
+      --navy3: #162340;
+      --accent: #2563eb;
+      --accent2: #1d4ed8;
+      --gold: #f59e0b;
+      --gold2: #d97706;
+      --white: #ffffff;
+      --gray100: #f1f5f9;
+      --gray200: #e2e8f0;
+      --gray400: #94a3b8;
+      --gray600: #475569;
+      --gray800: #1e293b;
+      --green: #10b981;
+      --red: #ef4444;
+      --radius: 12px;
+      --shadow: 0 4px 24px rgba(0,0,0,0.12);
+      --shadow-lg: 0 8px 40px rgba(0,0,0,0.18);
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Noto Sans Georgian', 'Inter', sans-serif;
+      background: var(--navy);
+      color: var(--white);
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    /* ── NAVBAR ── */
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 18px 48px;
+      background: rgba(10,22,40,0.92);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+    }
+    .nav-logo {
+      font-size: 22px; font-weight: 800; letter-spacing: -0.5px;
+      color: var(--white);
+    }
+    .nav-logo span { color: var(--accent); }
+    .nav-links { display: flex; gap: 32px; align-items: center; }
+    .nav-links a {
+      color: var(--gray400); text-decoration: none; font-size: 15px;
+      font-weight: 500; transition: color 0.2s;
+    }
+    .nav-links a:hover { color: var(--white); }
+    .nav-cta {
+      background: var(--accent); color: var(--white) !important;
+      padding: 9px 22px; border-radius: 8px; font-weight: 600 !important;
+      transition: background 0.2s !important;
+    }
+    .nav-cta:hover { background: var(--accent2) !important; color: var(--white) !important; }
+    .lang-toggle {
+      display: flex; gap: 4px; margin-left: 16px;
+    }
+    .lang-btn {
+      background: none; border: 1px solid rgba(255,255,255,0.15);
+      color: var(--gray400); padding: 5px 11px; border-radius: 6px;
+      font-size: 13px; font-weight: 600; cursor: pointer; transition: all 0.2s;
+      font-family: inherit;
+    }
+    .lang-btn.active { background: var(--accent); border-color: var(--accent); color: var(--white); }
+
+    /* ── HERO ── */
+    .hero {
+      min-height: 100vh;
+      display: flex; flex-direction: column; justify-content: center; align-items: center;
+      text-align: center;
+      padding: 120px 24px 80px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero-bg {
+      position: absolute; inset: 0; z-index: 0;
+      background:
+        radial-gradient(ellipse 80% 60% at 50% 0%, rgba(37,99,235,0.18) 0%, transparent 70%),
+        radial-gradient(ellipse 50% 40% at 80% 80%, rgba(245,158,11,0.08) 0%, transparent 60%);
+    }
+    .hero-grid {
+      position: absolute; inset: 0; z-index: 0;
+      background-image:
+        linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+      background-size: 60px 60px;
+    }
+    .hero-content { position: relative; z-index: 1; max-width: 820px; }
+    .hero-badge {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: rgba(37,99,235,0.15); border: 1px solid rgba(37,99,235,0.35);
+      color: #93c5fd; padding: 7px 18px; border-radius: 100px;
+      font-size: 13px; font-weight: 600; margin-bottom: 28px;
+      letter-spacing: 0.3px;
+    }
+    .hero-badge::before { content: ''; width: 8px; height: 8px; background: #60a5fa; border-radius: 50%; animation: pulse 2s infinite; }
+    @keyframes pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:0.6;transform:scale(1.3)} }
+    .hero h1 {
+      font-size: clamp(38px, 6vw, 72px);
+      font-weight: 800; line-height: 1.12;
+      letter-spacing: -1.5px; margin-bottom: 24px;
+    }
+    .hero h1 .highlight { color: var(--accent); }
+    .hero h1 .gold { color: var(--gold); }
+    .hero-sub {
+      font-size: clamp(16px, 2vw, 20px); color: var(--gray400);
+      max-width: 600px; margin: 0 auto 40px; font-weight: 400; line-height: 1.7;
+    }
+    .hero-actions { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+    .btn-primary {
+      background: var(--accent); color: var(--white);
+      padding: 15px 32px; border-radius: 10px; font-size: 16px;
+      font-weight: 700; text-decoration: none; border: none; cursor: pointer;
+      transition: all 0.2s; display: inline-flex; align-items: center; gap: 8px;
+      font-family: inherit;
+    }
+    .btn-primary:hover { background: var(--accent2); transform: translateY(-1px); box-shadow: 0 8px 24px rgba(37,99,235,0.4); }
+    .btn-secondary {
+      background: rgba(255,255,255,0.06); color: var(--white);
+      padding: 15px 32px; border-radius: 10px; font-size: 16px;
+      font-weight: 600; text-decoration: none; border: 1px solid rgba(255,255,255,0.14);
+      cursor: pointer; transition: all 0.2s; display: inline-flex; align-items: center; gap: 8px;
+      font-family: inherit;
+    }
+    .btn-secondary:hover { background: rgba(255,255,255,0.1); transform: translateY(-1px); }
+
+    /* ── STATS BAR ── */
+    .stats-bar {
+      background: rgba(255,255,255,0.04);
+      border-top: 1px solid rgba(255,255,255,0.07);
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+      padding: 28px 48px;
+      display: flex; justify-content: center; gap: 64px; flex-wrap: wrap;
+    }
+    .stat-item { text-align: center; }
+    .stat-value { font-size: 28px; font-weight: 800; color: var(--white); }
+    .stat-value span { color: var(--accent); }
+    .stat-label { font-size: 13px; color: var(--gray400); margin-top: 2px; }
+
+    /* ── SECTION BASE ── */
+    section { padding: 96px 48px; }
+    .section-tag {
+      display: inline-block; background: rgba(37,99,235,0.15);
+      color: #93c5fd; font-size: 12px; font-weight: 700; letter-spacing: 1.5px;
+      text-transform: uppercase; padding: 5px 14px; border-radius: 100px;
+      margin-bottom: 16px;
+    }
+    .section-title {
+      font-size: clamp(28px, 4vw, 44px); font-weight: 800;
+      letter-spacing: -0.8px; margin-bottom: 16px; line-height: 1.2;
+    }
+    .section-sub { font-size: 17px; color: var(--gray400); max-width: 560px; line-height: 1.7; }
+    .section-header { margin-bottom: 56px; }
+    .text-center { text-align: center; }
+    .text-center .section-sub { margin: 0 auto; }
+
+    /* ── HOW IT WORKS ── */
+    .how-section { background: var(--navy2); }
+    .steps-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 32px; max-width: 1100px; margin: 0 auto;
+    }
+    .step-card {
+      background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08);
+      border-radius: var(--radius); padding: 32px 28px; position: relative;
+      transition: all 0.3s;
+    }
+    .step-card:hover { background: rgba(255,255,255,0.07); transform: translateY(-4px); border-color: rgba(37,99,235,0.3); }
+    .step-num {
+      width: 44px; height: 44px; background: var(--accent);
+      border-radius: 10px; display: flex; align-items: center; justify-content: center;
+      font-size: 18px; font-weight: 800; margin-bottom: 20px;
+    }
+    .step-title { font-size: 17px; font-weight: 700; margin-bottom: 10px; }
+    .step-desc { font-size: 14px; color: var(--gray400); line-height: 1.6; }
+
+    /* ── PROJECTS ── */
+    .projects-section { background: var(--navy); }
+    .filters {
+      display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 40px;
+    }
+    .filter-btn {
+      background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1);
+      color: var(--gray400); padding: 8px 18px; border-radius: 100px;
+      font-size: 13px; font-weight: 600; cursor: pointer; transition: all 0.2s;
+      font-family: inherit;
+    }
+    .filter-btn.active, .filter-btn:hover {
+      background: var(--accent); border-color: var(--accent); color: var(--white);
+    }
+    .projects-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 28px; max-width: 1200px; margin: 0 auto;
+    }
+    .project-card {
+      background: var(--navy2); border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 16px; overflow: hidden; transition: all 0.3s; cursor: pointer;
+    }
+    .project-card:hover { transform: translateY(-6px); box-shadow: var(--shadow-lg); border-color: rgba(37,99,235,0.3); }
+    .card-image {
+      height: 180px; position: relative; overflow: hidden;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 56px;
+    }
+    .card-image.cafe { background: linear-gradient(135deg, #1a0a00, #3d1a00); }
+    .card-image.tech { background: linear-gradient(135deg, #000d1a, #001a3d); }
+    .card-image.hotel { background: linear-gradient(135deg, #0a1a0a, #0d2d0d); }
+    .card-image.solar { background: linear-gradient(135deg, #1a1a00, #3d3400); }
+    .card-image.retail { background: linear-gradient(135deg, #1a001a, #2d002d); }
+    .card-image.estate { background: linear-gradient(135deg, #001a1a, #002d2d); }
+    .card-badge {
+      position: absolute; top: 14px; left: 14px;
+      background: rgba(0,0,0,0.6); backdrop-filter: blur(8px);
+      border: 1px solid rgba(255,255,255,0.15);
+      color: var(--white); font-size: 11px; font-weight: 700;
+      padding: 4px 10px; border-radius: 100px; letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    .card-verified {
+      position: absolute; top: 14px; right: 14px;
+      background: rgba(16,185,129,0.2); border: 1px solid rgba(16,185,129,0.4);
+      color: #6ee7b7; font-size: 11px; font-weight: 700;
+      padding: 4px 10px; border-radius: 100px;
+    }
+    .card-body { padding: 24px; }
+    .card-title { font-size: 17px; font-weight: 700; margin-bottom: 6px; }
+    .card-desc { font-size: 13px; color: var(--gray400); margin-bottom: 20px; line-height: 1.6; }
+    .card-metrics {
+      display: grid; grid-template-columns: 1fr 1fr 1fr;
+      gap: 12px; margin-bottom: 20px;
+    }
+    .metric { background: rgba(255,255,255,0.04); border-radius: 8px; padding: 12px 10px; text-align: center; }
+    .metric-val { font-size: 16px; font-weight: 800; color: var(--white); }
+    .metric-val.green { color: var(--green); }
+    .metric-val.gold { color: var(--gold); }
+    .metric-val.blue { color: #60a5fa; }
+    .metric-label { font-size: 10px; color: var(--gray400); margin-top: 2px; text-transform: uppercase; letter-spacing: 0.5px; }
+    .offer-strip {
+      display: flex; align-items: center; gap: 6px;
+      background: rgba(37,99,235,0.08); border: 1px solid rgba(37,99,235,0.2);
+      border-radius: 8px; padding: 10px 14px; margin-bottom: 16px; flex-wrap: wrap;
+    }
+    .offer-pill {
+      display: flex; flex-direction: column; align-items: center;
+      flex: 1; min-width: 60px;
+    }
+    .offer-pill-val { font-size: 15px; font-weight: 800; }
+    .offer-pill-val.green { color: var(--green); }
+    .offer-pill-val.gold { color: var(--gold); }
+    .offer-pill-val.blue { color: #60a5fa; }
+    .offer-pill-lbl { font-size: 10px; color: var(--gray400); text-transform: uppercase; letter-spacing: 0.5px; margin-top: 1px; }
+    .offer-sep { color: rgba(255,255,255,0.15); font-size: 18px; align-self: center; }
+    .type-badge {
+      display: inline-flex; align-items: center; gap: 5px;
+      font-size: 11px; font-weight: 700; padding: 4px 10px;
+      border-radius: 100px; margin-bottom: 10px;
+    }
+    .type-badge.running {
+      background: rgba(16,185,129,0.15); border: 1px solid rgba(16,185,129,0.35); color: #6ee7b7;
+    }
+    .type-badge.idea {
+      background: rgba(245,158,11,0.12); border: 1px solid rgba(245,158,11,0.3); color: #fcd34d;
+    }
+    .card-footer { display: flex; justify-content: space-between; align-items: center; }
+    .card-location { font-size: 12px; color: var(--gray400); display: flex; align-items: center; gap: 4px; }
+    .btn-view {
+      background: var(--accent); color: var(--white);
+      padding: 8px 18px; border-radius: 8px; font-size: 13px;
+      font-weight: 700; border: none; cursor: pointer; font-family: inherit;
+      transition: all 0.2s;
+    }
+    .btn-view:hover { background: var(--accent2); }
+
+    /* ── CATEGORIES ── */
+    .categories-section { background: var(--navy2); }
+    .categories-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 16px; max-width: 1100px; margin: 0 auto;
+    }
+    .cat-card {
+      background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 14px; padding: 28px 20px; text-align: center;
+      cursor: pointer; transition: all 0.3s;
+    }
+    .cat-card:hover { background: rgba(37,99,235,0.12); border-color: rgba(37,99,235,0.4); transform: translateY(-4px); }
+    .cat-icon { font-size: 36px; margin-bottom: 12px; }
+    .cat-name { font-size: 14px; font-weight: 700; margin-bottom: 4px; }
+    .cat-count { font-size: 12px; color: var(--gray400); }
+
+    /* ── WHY SECTION ── */
+    .why-section { background: var(--navy); }
+    .why-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 28px; max-width: 1100px; margin: 0 auto;
+    }
+    .why-card {
+      background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.07);
+      border-radius: var(--radius); padding: 32px;
+    }
+    .why-icon {
+      width: 52px; height: 52px; border-radius: 12px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 24px; margin-bottom: 20px;
+    }
+    .why-icon.blue { background: rgba(37,99,235,0.2); }
+    .why-icon.gold { background: rgba(245,158,11,0.2); }
+    .why-icon.green { background: rgba(16,185,129,0.2); }
+    .why-icon.purple { background: rgba(139,92,246,0.2); }
+    .why-title { font-size: 18px; font-weight: 700; margin-bottom: 10px; }
+    .why-desc { font-size: 14px; color: var(--gray400); line-height: 1.7; }
+
+    /* ── SUBMIT SECTION ── */
+    .submit-section {
+      background: linear-gradient(135deg, var(--navy2), var(--navy3));
+      border-top: 1px solid rgba(255,255,255,0.07);
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+    }
+    .submit-inner {
+      max-width: 900px; margin: 0 auto;
+      display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: center;
+    }
+    .submit-text .section-title { margin-bottom: 14px; }
+    .submit-text p { color: var(--gray400); font-size: 16px; margin-bottom: 28px; line-height: 1.7; }
+    .submit-points { list-style: none; display: flex; flex-direction: column; gap: 12px; }
+    .submit-points li { display: flex; align-items: center; gap: 12px; font-size: 15px; }
+    .submit-points li::before { content: '✓'; width: 24px; height: 24px; background: rgba(16,185,129,0.2); color: var(--green); border-radius: 6px; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 800; flex-shrink: 0; }
+    .submit-form {
+      background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 20px; padding: 36px;
+    }
+    .form-title { font-size: 20px; font-weight: 700; margin-bottom: 24px; }
+    .form-group { margin-bottom: 18px; }
+    .form-group label { display: block; font-size: 13px; font-weight: 600; color: var(--gray400); margin-bottom: 8px; }
+    .form-group input, .form-group select, .form-group textarea {
+      width: 100%; background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.12); border-radius: 8px;
+      color: var(--white); padding: 12px 16px; font-size: 14px;
+      font-family: inherit; transition: border-color 0.2s; outline: none;
+      appearance: none;
+    }
+    .form-group input:focus, .form-group select:focus, .form-group textarea:focus {
+      border-color: var(--accent);
+    }
+    .form-group textarea { resize: vertical; min-height: 80px; }
+    .form-group select option { background: var(--navy2); }
+    .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+    .form-submit {
+      width: 100%; background: var(--accent); color: var(--white);
+      padding: 14px; border-radius: 10px; font-size: 15px; font-weight: 700;
+      border: none; cursor: pointer; font-family: inherit; transition: all 0.2s;
+      margin-top: 6px;
+    }
+    .form-submit:hover { background: var(--accent2); }
+
+    /* ── TESTIMONIALS ── */
+    .testimonials-section { background: var(--navy2); }
+    .testimonials-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px; max-width: 1100px; margin: 0 auto;
+    }
+    .testimonial-card {
+      background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 16px; padding: 28px;
+    }
+    .testimonial-text { font-size: 15px; color: var(--gray200); line-height: 1.7; margin-bottom: 20px; font-style: italic; }
+    .testimonial-author { display: flex; align-items: center; gap: 14px; }
+    .author-avatar {
+      width: 44px; height: 44px; border-radius: 50%;
+      background: var(--accent); display: flex; align-items: center;
+      justify-content: center; font-size: 18px; font-weight: 700; flex-shrink: 0;
+    }
+    .author-name { font-size: 14px; font-weight: 700; }
+    .author-role { font-size: 12px; color: var(--gray400); }
+    .stars { color: var(--gold); font-size: 13px; margin-bottom: 14px; }
+
+    /* ── FAQ ── */
+    .faq-section { background: var(--navy); }
+    .faq-list { max-width: 760px; margin: 0 auto; display: flex; flex-direction: column; gap: 14px; }
+    .faq-item {
+      background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 12px; overflow: hidden;
+    }
+    .faq-q {
+      padding: 20px 24px; font-size: 15px; font-weight: 600;
+      cursor: pointer; display: flex; justify-content: space-between; align-items: center;
+      user-select: none; transition: background 0.2s;
+    }
+    .faq-q:hover { background: rgba(255,255,255,0.04); }
+    .faq-q .arrow { transition: transform 0.3s; color: var(--gray400); font-size: 18px; }
+    .faq-item.open .faq-q .arrow { transform: rotate(180deg); }
+    .faq-a {
+      padding: 0 24px; max-height: 0; overflow: hidden; transition: all 0.35s ease;
+      font-size: 14px; color: var(--gray400); line-height: 1.7;
+    }
+    .faq-item.open .faq-a { max-height: 200px; padding: 0 24px 20px; }
+
+    /* ── FOOTER ── */
+    footer {
+      background: #060e1d; border-top: 1px solid rgba(255,255,255,0.07);
+      padding: 64px 48px 32px;
+    }
+    .footer-top {
+      display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 48px;
+      margin-bottom: 48px;
+    }
+    .footer-brand .nav-logo { font-size: 24px; margin-bottom: 14px; display: block; }
+    .footer-brand p { font-size: 14px; color: var(--gray400); line-height: 1.7; max-width: 280px; }
+    .footer-col h4 { font-size: 14px; font-weight: 700; margin-bottom: 16px; color: var(--white); }
+    .footer-col a { display: block; font-size: 14px; color: var(--gray400); text-decoration: none; margin-bottom: 10px; transition: color 0.2s; }
+    .footer-col a:hover { color: var(--white); }
+    .footer-bottom {
+      border-top: 1px solid rgba(255,255,255,0.07);
+      padding-top: 28px; display: flex; justify-content: space-between;
+      align-items: center; flex-wrap: wrap; gap: 16px;
+    }
+    .footer-bottom p { font-size: 13px; color: var(--gray400); }
+    .footer-flags { display: flex; gap: 8px; align-items: center; font-size: 13px; color: var(--gray400); }
+
+    /* ── MODAL ── */
+    .modal-overlay {
+      position: fixed; inset: 0; z-index: 200;
+      background: rgba(0,0,0,0.8); backdrop-filter: blur(8px);
+      display: none; align-items: center; justify-content: center; padding: 24px;
+    }
+    .modal-overlay.open { display: flex; }
+    .modal {
+      background: var(--navy2); border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 20px; width: 100%; max-width: 600px; max-height: 90vh;
+      overflow-y: auto; padding: 40px; position: relative;
+    }
+    .modal-close {
+      position: absolute; top: 20px; right: 20px;
+      background: rgba(255,255,255,0.08); border: none; color: var(--white);
+      width: 32px; height: 32px; border-radius: 50%; font-size: 18px;
+      cursor: pointer; display: flex; align-items: center; justify-content: center;
+      font-family: inherit; transition: background 0.2s;
+    }
+    .modal-close:hover { background: rgba(255,255,255,0.15); }
+    .modal h2 { font-size: 24px; font-weight: 800; margin-bottom: 6px; }
+    .modal-sub { color: var(--gray400); margin-bottom: 28px; font-size: 14px; }
+    .modal-metrics { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; margin-bottom: 28px; }
+    .modal-metric { background: rgba(255,255,255,0.06); border-radius: 10px; padding: 16px; text-align: center; }
+    .modal-metric .val { font-size: 20px; font-weight: 800; }
+    .modal-metric .val.green { color: var(--green); }
+    .modal-metric .val.gold { color: var(--gold); }
+    .modal-metric .val.blue { color: #60a5fa; }
+    .modal-metric .lbl { font-size: 11px; color: var(--gray400); margin-top: 4px; text-transform: uppercase; letter-spacing: 0.5px; }
+    .modal-section-title { font-size: 13px; font-weight: 700; color: var(--gray400); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; margin-top: 24px; }
+    .modal-desc { font-size: 14px; color: var(--gray300); line-height: 1.7; }
+    .modal-tags { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+    .modal-tag { background: rgba(37,99,235,0.15); border: 1px solid rgba(37,99,235,0.3); color: #93c5fd; font-size: 12px; padding: 4px 12px; border-radius: 100px; font-weight: 600; }
+    .contact-btn {
+      width: 100%; margin-top: 28px; background: var(--accent); color: var(--white);
+      padding: 15px; border-radius: 10px; font-size: 15px; font-weight: 700;
+      border: none; cursor: pointer; font-family: inherit; transition: all 0.2s;
+    }
+    .contact-btn:hover { background: var(--accent2); }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 900px) {
+      nav { padding: 16px 24px; }
+      .nav-links { display: none; }
+      section { padding: 72px 24px; }
+      .stats-bar { padding: 24px; gap: 32px; }
+      .submit-inner { grid-template-columns: 1fr; gap: 40px; }
+      .footer-top { grid-template-columns: 1fr 1fr; gap: 32px; }
+    }
+    @media (max-width: 600px) {
+      .hero-actions { flex-direction: column; align-items: center; }
+      .projects-grid { grid-template-columns: 1fr; }
+      .modal-metrics { grid-template-columns: 1fr; }
+      .footer-top { grid-template-columns: 1fr; }
+      .form-row { grid-template-columns: 1fr; }
+    }
+
+    /* ── SCROLL ANIMATION ── */
+    .fade-in { opacity: 0; transform: translateY(24px); transition: opacity 0.6s ease, transform 0.6s ease; }
+    .fade-in.visible { opacity: 1; transform: translateY(0); }
+
+    /* ── TOAST ── */
+    .toast {
+      position: fixed; bottom: 32px; right: 32px; z-index: 300;
+      background: var(--green); color: var(--white);
+      padding: 14px 24px; border-radius: 10px; font-weight: 600; font-size: 14px;
+      box-shadow: var(--shadow-lg); transform: translateY(80px); opacity: 0;
+      transition: all 0.4s; pointer-events: none;
+    }
+    .toast.show { transform: translateY(0); opacity: 1; }
+  </style>
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav>
+  <div class="nav-logo">Investors<span>.ge</span></div>
+  <div class="nav-links">
+    <a href="#projects" data-ka="პროექტები" data-en="Projects">პროექტები</a>
+    <a href="#how" data-ka="როგორ მუშაობს" data-en="How it Works">როგორ მუშაობს</a>
+    <a href="#submit" data-ka="განათავსე" data-en="List Project">განათავსე</a>
+    <a href="#faq" data-ka="FAQ" data-en="FAQ">FAQ</a>
+    <a href="#submit" class="nav-cta" data-ka="+ პროექტი" data-en="+ Add Project">+ პროექტი</a>
+  </div>
+  <div class="lang-toggle">
+    <button class="lang-btn active" onclick="setLang('ka')">ქა</button>
+    <button class="lang-btn" onclick="setLang('en')">EN</button>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-grid"></div>
+  <div class="hero-content fade-in">
+    <div class="hero-badge" data-ka="🇬🇪 საქართველოს ინვესტიციური პლატფორმა" data-en="🇬🇪 Georgia's Investment Platform">
+      🇬🇪 საქართველოს ინვესტიციური პლატფორმა
+    </div>
+    <h1>
+      <span data-ka="იპოვე" data-en="Find">იპოვე</span>
+      <span class="highlight" data-ka=" სწორი " data-en=" the Right "> სწორი </span><br/>
+      <span data-ka="ინვესტიცია" data-en="Investment">ინვესტიცია</span>
+      <span class="gold" data-ka=" შენთვის" data-en=" For You"> შენთვის</span>
+    </h1>
+    <p class="hero-sub" data-ka="10,000 ₾-დან მილიონებამდე — აქ ყველა ბიზნეს-იდეა პოულობს თავის ინვესტორს. კაფედან ტექ-სტარტაპამდე." data-en="From 10,000 ₾ to millions — every business idea finds its investor here. From a café to a tech startup.">
+      10,000 ₾-დან მილიონებამდე — აქ ყველა ბიზნეს-იდეა პოულობს თავის ინვესტორს. კაფედან ტექ-სტარტაპამდე.
+    </p>
+    <div class="hero-actions">
+      <a href="#projects" class="btn-primary" data-ka="→ იხილე პროექტები" data-en="→ Browse Projects">→ იხილე პროექტები</a>
+      <a href="#submit" class="btn-secondary" data-ka="+ განათავსე პროექტი" data-en="+ List Your Project">+ განათავსე პროექტი</a>
+    </div>
+  </div>
+</section>
+
+<!-- STATS -->
+<div class="stats-bar">
+  <div class="stat-item fade-in">
+    <div class="stat-value">48<span>+</span></div>
+    <div class="stat-label" data-ka="განთავსებული პროექტი" data-en="Listed Projects">განთავსებული პროექტი</div>
+  </div>
+  <div class="stat-item fade-in">
+    <div class="stat-value">₾ 2.4<span>M</span></div>
+    <div class="stat-label" data-ka="საჭირო ინვესტიცია" data-en="Investment Sought">საჭირო ინვესტიცია</div>
+  </div>
+  <div class="stat-item fade-in">
+    <div class="stat-value">12<span>+</span></div>
+    <div class="stat-label" data-ka="სექტორი" data-en="Sectors">სექტორი</div>
+  </div>
+  <div class="stat-item fade-in">
+    <div class="stat-value">🇬🇪 <span>+ 🌍</span></div>
+    <div class="stat-label" data-ka="ადგილობრივი და საერთ. ინვესტ." data-en="Local & International">ადგილობრივი და საერთ. ინვესტ.</div>
+  </div>
+</div>
+
+<!-- HOW IT WORKS -->
+<section class="how-section" id="how">
+  <div class="section-header text-center fade-in">
+    <div class="section-tag" data-ka="პროცესი" data-en="Process">პროცესი</div>
+    <h2 class="section-title" data-ka="როგორ მუშაობს?" data-en="How Does It Work?">როგორ მუშაობს?</h2>
+    <p class="section-sub" data-ka="მარტივი და გამჭვირვალე — 4 ნაბიჯი თქვენი პროექტიდან ინვესტიციამდე" data-en="Simple and transparent — 4 steps from your project to investment">მარტივი და გამჭვირვალე — 4 ნაბიჯი თქვენი პროექტიდან ინვესტიციამდე</p>
+  </div>
+  <div class="steps-grid fade-in">
+    <div class="step-card">
+      <div class="step-num">1</div>
+      <div class="step-title" data-ka="განათავსე პროექტი" data-en="List Your Project">განათავსე პროექტი</div>
+      <div class="step-desc" data-ka="შეავსე ფორმა — მოგვიყევი შენს ბიზნეს-იდეაზე, საჭირო თანხაზე და რას სთავაზობ ინვესტორს." data-en="Fill out the form — tell us about your business idea, the amount needed, and what you offer investors.">შეავსე ფორმა — მოგვიყევი შენს ბიზნეს-იდეაზე, საჭირო თანხაზე და რას სთავაზობ ინვესტორს.</div>
+    </div>
+    <div class="step-card">
+      <div class="step-num">2</div>
+      <div class="step-title" data-ka="ვერიფიკაცია" data-en="Verification">ვერიფიკაცია</div>
+      <div class="step-desc" data-ka="ჩვენი გუნდი განიხილავს განაცხადს. ვამოწმებთ ინფორმაციის სიზუსტეს სანდოობისათვის." data-en="Our team reviews your application and verifies information for credibility.">ჩვენი გუნდი განიხილავს განაცხადს. ვამოწმებთ ინფორმაციის სიზუსტეს სანდოობისათვის.</div>
+    </div>
+    <div class="step-card">
+      <div class="step-num">3</div>
+      <div class="step-title" data-ka="გამოქვეყნება" data-en="Publication">გამოქვეყნება</div>
+      <div class="step-desc" data-ka="შენი პროექტი გამოჩნდება პლატფორმაზე და ათასობით პოტენციური ინვესტორი ნახავს მას." data-en="Your project appears on the platform and thousands of potential investors can see it.">შენი პროექტი გამოჩნდება პლატფორმაზე და ათასობით პოტენციური ინვესტორი ნახავს მას.</div>
+    </div>
+    <div class="step-card">
+      <div class="step-num">4</div>
+      <div class="step-title" data-ka="დაკავშირება" data-en="Connect">დაკავშირება</div>
+      <div class="step-desc" data-ka="დაინტერესებული ინვესტორები პირდაპირ დაგიკავშირდებიან. მოლაპარაკება — თქვენ შორის." data-en="Interested investors contact you directly. Negotiations are between you.">დაინტერესებული ინვესტორები პირდაპირ დაგიკავშირდებიან. მოლაპარაკება — თქვენ შორის.</div>
+    </div>
+  </div>
+</section>
+
+<!-- PROJECTS -->
+<section class="projects-section" id="projects">
+  <div class="section-header fade-in" style="max-width:1200px;margin:0 auto 0;">
+    <div class="section-tag" data-ka="განთავსებული პროექტები" data-en="Active Listings">განთავსებული პროექტები</div>
+    <h2 class="section-title" data-ka="პროექტები ინვესტიციისთვის" data-en="Projects Seeking Investment">პროექტები ინვესტიციისთვის</h2>
+  </div>
+  <div class="filters fade-in" style="max-width:1200px;margin:0 auto 32px;">
+    <button class="filter-btn active" data-filter="all" data-ka="ყველა" data-en="All">ყველა</button>
+    <button class="filter-btn" data-filter="running" data-ka="🟢 მოქმედი ბიზნესი" data-en="🟢 Running Business">🟢 მოქმედი ბიზნესი</button>
+    <button class="filter-btn" data-filter="idea" data-ka="💡 სტარტაპ იდეა" data-en="💡 Startup Idea">💡 სტარტაპ იდეა</button>
+    <button class="filter-btn" data-filter="food" data-ka="🍽️ კვება" data-en="🍽️ Food & Beverage">🍽️ კვება</button>
+    <button class="filter-btn" data-filter="tech" data-ka="💻 ტექნოლოგია" data-en="💻 Technology">💻 ტექნოლოგია</button>
+    <button class="filter-btn" data-filter="realestate" data-ka="🏢 უძრავი ქონება" data-en="🏢 Real Estate">🏢 უძრავი ქონება</button>
+    <button class="filter-btn" data-filter="tourism" data-ka="🏨 ტურიზმი" data-en="🏨 Tourism">🏨 ტურიზმი</button>
+    <button class="filter-btn" data-filter="energy" data-ka="⚡ ენერგია" data-en="⚡ Energy">⚡ ენერგია</button>
+    <button class="filter-btn" data-filter="retail" data-ka="🛍️ ვაჭრობა" data-en="🛍️ Retail">🛍️ ვაჭრობა</button>
+  </div>
+  <div class="projects-grid" id="projectsGrid" style="max-width:1200px;margin:0 auto;"></div>
+</section>
+
+<!-- CATEGORIES -->
+<section class="categories-section" id="categories">
+  <div class="section-header text-center fade-in">
+    <div class="section-tag" data-ka="კატეგორიები" data-en="Categories">კატეგორიები</div>
+    <h2 class="section-title" data-ka="სფეროები" data-en="Sectors">სფეროები</h2>
+  </div>
+  <div class="categories-grid fade-in">
+    <div class="cat-card"><div class="cat-icon">☕</div><div class="cat-name" data-ka="კვება" data-en="Food & Drink">კვება</div><div class="cat-count" data-ka="12 პროექტი" data-en="12 projects">12 პროექტი</div></div>
+    <div class="cat-card"><div class="cat-icon">💻</div><div class="cat-name" data-ka="ტექნოლოგია" data-en="Technology">ტექნოლოგია</div><div class="cat-count" data-ka="8 პროექტი" data-en="8 projects">8 პროექტი</div></div>
+    <div class="cat-card"><div class="cat-icon">🏨</div><div class="cat-name" data-ka="ტურიზმი" data-en="Tourism">ტურიზმი</div><div class="cat-count" data-ka="9 პროექტი" data-en="9 projects">9 პროექტი</div></div>
+    <div class="cat-card"><div class="cat-icon">🏢</div><div class="cat-name" data-ka="უძრავი ქონება" data-en="Real Estate">უძრავი ქონება</div><div class="cat-count" data-ka="6 პროექტი" data-en="6 projects">6 პროექტი</div></div>
+    <div class="cat-card"><div class="cat-icon">⚡</div><div class="cat-name" data-ka="ენერგია" data-en="Energy">ენერგია</div><div class="cat-count" data-ka="4 პროექტი" data-en="4 projects">4 პროექტი</div></div>
+    <div class="cat-card"><div class="cat-icon">🌱</div><div class="cat-name" data-ka="სოფ. მეურნეობა" data-en="Agriculture">სოფ. მეურნეობა</div><div class="cat-count" data-ka="5 პროექტი" data-en="5 projects">5 პროექტი</div></div>
+    <div class="cat-card"><div class="cat-icon">🛍️</div><div class="cat-name" data-ka="ვაჭრობა" data-en="Retail">ვაჭრობა</div><div class="cat-count" data-ka="7 პროექტი" data-en="7 projects">7 პროექტი</div></div>
+    <div class="cat-card"><div class="cat-icon">🏥</div><div class="cat-name" data-ka="ჯანდაცვა" data-en="Healthcare">ჯანდაცვა</div><div class="cat-count" data-ka="3 პროექტი" data-en="3 projects">3 პროექტი</div></div>
+  </div>
+</section>
+
+<!-- WHY -->
+<section class="why-section" id="why">
+  <div class="section-header text-center fade-in">
+    <div class="section-tag" data-ka="უპირატესობები" data-en="Why Us">უპირატესობები</div>
+    <h2 class="section-title" data-ka="რატომ Investors.ge?" data-en="Why Investors.ge?">რატომ Investors.ge?</h2>
+  </div>
+  <div class="why-grid fade-in">
+    <div class="why-card">
+      <div class="why-icon blue">🎯</div>
+      <div class="why-title" data-ka="ყველა ზომა" data-en="All Sizes">ყველა ზომა</div>
+      <div class="why-desc" data-ka="10,000 ₾-ით კაფეს განახლება თუ 10 მილიონი ₾-ის ტექ-სტარტაპი — ყველასთვის ადგილი გვაქვს." data-en="Whether it's 10,000 ₾ for a café refresh or a 10M ₾ tech startup — there's a place for everyone.">10,000 ₾-ით კაფეს განახლება თუ 10 მილიონი ₾-ის ტექ-სტარტაპი — ყველასთვის ადგილი გვაქვს.</div>
+    </div>
+    <div class="why-card">
+      <div class="why-icon gold">🌍</div>
+      <div class="why-title" data-ka="ადგილობრივი და საერთ." data-en="Local & International">ადგილობრივი და საერთ.</div>
+      <div class="why-desc" data-ka="ქართული ინვესტორებიდან დიასპორამდე — პლატფორმა ორ ენაზე მუშაობს და ორ ბაზარს ემსახურება." data-en="From Georgian investors to the diaspora — the platform operates in two languages and serves two markets.">ქართული ინვესტორებიდან დიასპორამდე — პლატფორმა ორ ენაზე მუშაობს და ორ ბაზარს ემსახურება.</div>
+    </div>
+    <div class="why-card">
+      <div class="why-icon green">✅</div>
+      <div class="why-title" data-ka="ვერიფიცირებული" data-en="Verified Listings">ვერიფიცირებული</div>
+      <div class="why-desc" data-ka="ყველა პროექტი გადის ჩვენს შემოწმების პროცესს. ინვესტორებს სანდო ინფორმაცია ესაჭიროება." data-en="Every project goes through our verification process. Investors need reliable information.">ყველა პროექტი გადის ჩვენს შემოწმების პროცესს. ინვესტორებს სანდო ინფორმაცია ესაჭიროება.</div>
+    </div>
+    <div class="why-card">
+      <div class="why-icon purple">🤝</div>
+      <div class="why-title" data-ka="პირდაპირი კავშირი" data-en="Direct Connection">პირდაპირი კავშირი</div>
+      <div class="why-desc" data-ka="შუამავლები არ გვჭირდება. ინვესტორი პირდაპირ ეკონტაქტება პროექტის მფლობელს." data-en="No middlemen needed. Investors contact project owners directly.">შუამავლები არ გვჭირდება. ინვესტორი პირდაპირ ეკონტაქტება პროექტის მფლობელს.</div>
+    </div>
+  </div>
+</section>
+
+<!-- SUBMIT -->
+<section class="submit-section" id="submit">
+  <div class="submit-inner">
+    <div class="submit-text fade-in">
+      <div class="section-tag" data-ka="პროექტის განთავსება" data-en="List a Project">პროექტის განთავსება</div>
+      <h2 class="section-title" data-ka="შენი ბიზნეს-იდეა ინვესტორს ეძებს?" data-en="Your Business Idea Is Looking for an Investor?">შენი ბიზნეს-იდეა ინვესტორს ეძებს?</h2>
+      <p data-ka="განათავსე შენი პროექტი — უფასოდ. ჩვენ ვეძებთ ინვესტორებს შენთვის." data-en="List your project — for free. We help find investors for you.">განათავსე შენი პროექტი — უფასოდ. ჩვენ ვეძებთ ინვესტორებს შენთვის.</p>
+      <ul class="submit-points">
+        <li data-ka="განთავსება სრულიად უფასოა" data-en="Listing is completely free">განთავსება სრულიად უფასოა</li>
+        <li data-ka="ვერიფიკაცია 48 საათში" data-en="Verification within 48 hours">ვერიფიკაცია 48 საათში</li>
+        <li data-ka="ქართული და ინგლისური აუდიტორია" data-en="Georgian and English-speaking audience">ქართული და ინგლისური აუდიტორია</li>
+        <li data-ka="პირდაპირი კავშირი ინვესტორებთან" data-en="Direct contact with investors">პირდაპირი კავშირი ინვესტორებთან</li>
+      </ul>
+    </div>
+    <div class="submit-form fade-in">
+      <div class="form-title" data-ka="📋 პროექტის განაცხადი" data-en="📋 Project Application">📋 პროექტის განაცხადი</div>
+      <div class="form-group">
+        <label data-ka="პროექტის სახელი" data-en="Project Name">პროექტის სახელი</label>
+        <input type="text" id="f-name" placeholder="მაგ. კაფე &quot;ორიოლი&quot;" />
+      </div>
+      <div class="form-group">
+        <label data-ka="პროექტის ტიპი" data-en="Project Type">პროექტის ტიპი</label>
+        <select id="f-type">
+          <option value="" data-ka="— აირჩიეთ —" data-en="— Select —">— აირჩიეთ —</option>
+          <option value="running" data-ka="🟢 მოქმედი ბიზნესი — უკვე ვმუშაობ" data-en="🟢 Running Business — already operating">🟢 მოქმედი ბიზნესი — უკვე ვმუშაობ</option>
+          <option value="idea" data-ka="💡 სტარტაპ იდეა — ჯერ არ დამიწყია" data-en="💡 Startup Idea — not yet started">💡 სტარტაპ იდეა — ჯერ არ დამიწყია</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label data-ka="კატეგორია" data-en="Category">კატეგორია</label>
+        <select id="f-cat">
+          <option value="" data-ka="— აირჩიეთ —" data-en="— Select —">— აირჩიეთ —</option>
+          <option value="food" data-ka="🍽️ კვება / სასმელი" data-en="🍽️ Food & Beverage">🍽️ კვება / სასმელი</option>
+          <option value="tech" data-ka="💻 ტექნოლოგია" data-en="💻 Technology">💻 ტექნოლოგია</option>
+          <option value="tourism" data-ka="🏨 ტურიზმი / სასტუმრო" data-en="🏨 Tourism / Hotel">🏨 ტურიზმი / სასტუმრო</option>
+          <option value="realestate" data-ka="🏢 უძრავი ქონება" data-en="🏢 Real Estate">🏢 უძრავი ქონება</option>
+          <option value="energy" data-ka="⚡ ენერგია" data-en="⚡ Energy">⚡ ენერგია</option>
+          <option value="retail" data-ka="🛍️ ვაჭრობა" data-en="🛍️ Retail">🛍️ ვაჭრობა</option>
+          <option value="agri" data-ka="🌱 სოფ. მეურნეობა" data-en="🌱 Agriculture">🌱 სოფ. მეურნეობა</option>
+          <option value="other" data-ka="სხვა" data-en="Other">სხვა</option>
+        </select>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label data-ka="საჭირო თანხა (₾)" data-en="Funding Needed (₾)">საჭირო თანხა (₾)</label>
+          <input type="number" id="f-amount" placeholder="10000" />
+        </div>
+        <div class="form-group">
+          <label data-ka="შემოთავაზება (%)" data-en="Equity Offered (%)">შემოთავაზება (%)</label>
+          <input type="number" id="f-equity" placeholder="10" />
+        </div>
+      </div>
+      <div class="form-group">
+        <label data-ka="მოკლე აღწერა" data-en="Brief Description">მოკლე აღწერა</label>
+        <textarea id="f-desc" placeholder="გვიამბე შენს პროექტზე..."></textarea>
+      </div>
+      <div class="form-group">
+        <label data-ka="საკონტაქტო ელ-ფოსტა" data-en="Contact Email">საკონტაქტო ელ-ფოსტა</label>
+        <input type="email" id="f-email" placeholder="you@example.com" />
+      </div>
+      <button class="form-submit" onclick="submitProject()" data-ka="🚀 გაგზავნე განაცხადი" data-en="🚀 Submit Application">🚀 გაგზავნე განაცხადი</button>
+    </div>
+  </div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="testimonials-section">
+  <div class="section-header text-center fade-in">
+    <div class="section-tag" data-ka="შეფასებები" data-en="Testimonials">შეფასებები</div>
+    <h2 class="section-title" data-ka="რას ამბობენ ისინი" data-en="What They Say">რას ამბობენ ისინი</h2>
+  </div>
+  <div class="testimonials-grid fade-in">
+    <div class="testimonial-card">
+      <div class="stars">★★★★★</div>
+      <p class="testimonial-text" data-ka='"Investors.ge-ზე განვათავსე ჩემი კაფე-ბარი. 3 კვირაში 2 ინვესტორი დამიკავშირდა. ახლა გავხელი!"' data-en='"I listed my café-bar on Investors.ge. Within 3 weeks, 2 investors reached out. Now we\'re open!"'>
+        "Investors.ge-ზე განვათავსე ჩემი კაფე-ბარი. 3 კვირაში 2 ინვესტორი დამიკავშირდა. ახლა გავხელი!"
+      </p>
+      <div class="testimonial-author">
+        <div class="author-avatar">ნ</div>
+        <div>
+          <div class="author-name">ნინო კ.</div>
+          <div class="author-role" data-ka="კაფე-ბარი, თბილისი" data-en="Café-Bar Owner, Tbilisi">კაფე-ბარი, თბილისი</div>
+        </div>
+      </div>
+    </div>
+    <div class="testimonial-card">
+      <div class="stars">★★★★★</div>
+      <p class="testimonial-text" data-ka='"ინვესტიციის შესაძლებლობა ვეძებდი. Investors.ge-მ 5 სხვადასხვა პროექტი მაჩვენა ჩემს ბიუჯეტში."' data-en='"I was looking for investment opportunities. Investors.ge showed me 5 different projects within my budget."'>
+        "ინვესტიციის შესაძლებლობა ვეძებდი. Investors.ge-მ 5 სხვადასხვა პროექტი მაჩვენა ჩემს ბიუჯეტში."
+      </p>
+      <div class="testimonial-author">
+        <div class="author-avatar">გ</div>
+        <div>
+          <div class="author-name">გიორგი ბ.</div>
+          <div class="author-role" data-ka="ინვესტორი, ბათუმი" data-en="Investor, Batumi">ინვესტორი, ბათუმი</div>
+        </div>
+      </div>
+    </div>
+    <div class="testimonial-card">
+      <div class="stars">★★★★★</div>
+      <p class="testimonial-text" data-ka='"ჩვენი სტარტაპი $2M-ს ეძებდა. Investors.ge-ზე 3 სერიოზული ინვესტორი გავიცანით."' data-en='"Our startup was looking for $2M. We met 3 serious investors through Investors.ge."'>
+        "ჩვენი სტარტაპი $2M-ს ეძებდა. Investors.ge-ზე 3 სერიოზული ინვესტორი გავიცანით."
+      </p>
+      <div class="testimonial-author">
+        <div class="author-avatar">ს</div>
+        <div>
+          <div class="author-name">სანდრო მ.</div>
+          <div class="author-role" data-ka="FinTech სტარტაპი, თბილისი" data-en="FinTech Startup, Tbilisi">FinTech სტარტაპი, თბილისი</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="faq-section" id="faq">
+  <div class="section-header text-center fade-in">
+    <div class="section-tag">FAQ</div>
+    <h2 class="section-title" data-ka="ხშირად დასმული კითხვები" data-en="Frequently Asked Questions">ხშირად დასმული კითხვები</h2>
+  </div>
+  <div class="faq-list fade-in">
+    <div class="faq-item">
+      <div class="faq-q" onclick="toggleFaq(this)">
+        <span data-ka="განთავსება ფასიანია?" data-en="Is listing free?">განთავსება ფასიანია?</span>
+        <span class="arrow">▾</span>
+      </div>
+      <div class="faq-a" data-ka="არა — პლატფორმაზე პროექტის განთავსება სრულიად უფასოა. ჩვენი მიზანია ქართული ბიზნეს-ეკოსისტემის განვითარება." data-en="No — listing a project on the platform is completely free. Our goal is to develop the Georgian business ecosystem.">
+        არა — პლატფორმაზე პროექტის განთავსება სრულიად უფასოა. ჩვენი მიზანია ქართული ბიზნეს-ეკოსისტემის განვითარება.
+      </div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q" onclick="toggleFaq(this)">
+        <span data-ka="რა ტიპის პროექტებს ვიღებთ?" data-en="What types of projects do you accept?">რა ტიპის პროექტებს ვიღებთ?</span>
+        <span class="arrow">▾</span>
+      </div>
+      <div class="faq-a" data-ka="ყველა ლეგალური ბიზნეს-პროექტი — პატარა კაფედან ტექ-სტარტაპამდე. მინიმალური საჭირო თანხა 5,000 ₾-ია." data-en="All legal business projects — from a small café to a tech startup. Minimum funding amount is 5,000 ₾.">
+        ყველა ლეგალური ბიზნეს-პროექტი — პატარა კაფედან ტექ-სტარტაპამდე. მინიმალური საჭირო თანხა 5,000 ₾-ია.
+      </div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q" onclick="toggleFaq(this)">
+        <span data-ka="ინვესტიცია პლატფორმის მეშვეობით ხდება?" data-en="Does investment happen through the platform?">ინვესტიცია პლატფორმის მეშვეობით ხდება?</span>
+        <span class="arrow">▾</span>
+      </div>
+      <div class="faq-a" data-ka="ამჟამად პლატფორმა საპრეზენტაციო ფუნქციას ასრულებს — ინვესტორი და პროექტი პირდაპირ ეკონტაქტებიან. ფინანსური ტრანზაქციები მათ შორის ხდება." data-en="Currently the platform serves a presentation function — investors and projects contact each other directly. Financial transactions happen between them.">
+        ამჟამად პლატფორმა საპრეზენტაციო ფუნქციას ასრულებს — ინვესტორი და პროექტი პირდაპირ ეკონტაქტებიან. ფინანსური ტრანზაქციები მათ შორის ხდება.
+      </div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q" onclick="toggleFaq(this)">
+        <span data-ka="მაქსიმალური თანხა?" data-en="Maximum funding amount?">მაქსიმალური თანხა?</span>
+        <span class="arrow">▾</span>
+      </div>
+      <div class="faq-a" data-ka="ზედა ზღვარი არ არის. პლატფორმაზე განთავსებულია პროექტები 10,000 ₾-დან $10M-მდე." data-en="There is no upper limit. Projects on the platform range from 10,000 ₾ to $10M.">
+        ზედა ზღვარი არ არის. პლატფორმაზე განთავსებულია პროექტები 10,000 ₾-დან $10M-მდე.
+      </div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q" onclick="toggleFaq(this)">
+        <span data-ka="უცხოელი ინვესტორები შეუძლიათ ნახვა?" data-en="Can foreign investors view listings?">უცხოელი ინვესტორები შეუძლიათ ნახვა?</span>
+        <span class="arrow">▾</span>
+      </div>
+      <div class="faq-a" data-ka="დიახ — საიტი ასევე ინგლისურ ენაზეა, რაც ქართულ დიასპორას და საერთაშორისო ინვესტორებს საშუალებას აძლევს ნახონ ქართული პროექტები." data-en="Yes — the site is also in English, allowing the Georgian diaspora and international investors to discover Georgian projects.">
+        დიახ — საიტი ასევე ინგლისურ ენაზეა, რაც ქართულ დიასპორას და საერთაშორისო ინვესტორებს საშუალებას აძლევს ნახონ ქართული პროექტები.
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-top">
+    <div class="footer-brand">
+      <span class="nav-logo">Investors<span>.ge</span></span>
+      <p data-ka="საქართველოს ინვესტიციური პლატფორმა. პატარა ბიზნესიდან დიდ სტარტაპებამდე." data-en="Georgia's investment platform. From small businesses to big startups.">საქართველოს ინვესტიციური პლატფორმა. პატარა ბიზნესიდან დიდ სტარტაპებამდე.</p>
+    </div>
+    <div class="footer-col">
+      <h4 data-ka="პლატფორმა" data-en="Platform">პლატფორმა</h4>
+      <a href="#projects" data-ka="პროექტები" data-en="Projects">პროექტები</a>
+      <a href="#how" data-ka="როგორ მუშაობს" data-en="How it Works">როგორ მუშაობს</a>
+      <a href="#categories" data-ka="კატეგორიები" data-en="Categories">კატეგორიები</a>
+      <a href="#submit" data-ka="განათავსე პროექტი" data-en="List a Project">განათავსე პროექტი</a>
+    </div>
+    <div class="footer-col">
+      <h4 data-ka="ინვესტორებს" data-en="For Investors">ინვესტორებს</h4>
+      <a href="#projects" data-ka="შეისწავლე პროექტები" data-en="Browse Projects">შეისწავლე პროექტები</a>
+      <a href="#faq" data-ka="FAQ" data-en="FAQ">FAQ</a>
+      <a href="#why" data-ka="რატომ ჩვენ" data-en="Why Us">რატომ ჩვენ</a>
+    </div>
+    <div class="footer-col">
+      <h4 data-ka="კომპანია" data-en="Company">კომპანია</h4>
+      <a href="#" data-ka="ჩვენ შესახებ" data-en="About Us">ჩვენ შესახებ</a>
+      <a href="#" data-ka="კონტაქტი" data-en="Contact">კონტაქტი</a>
+      <a href="#" data-ka="კონფიდენციალობა" data-en="Privacy Policy">კონფიდენციალობა</a>
+      <a href="#" data-ka="პირობები" data-en="Terms">პირობები</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>© 2025 Investors.ge — <span data-ka="ყველა უფლება დაცულია" data-en="All rights reserved">ყველა უფლება დაცულია</span></p>
+    <div class="footer-flags">🇬🇪 Georgia &nbsp;|&nbsp; 🌍 International</div>
+  </div>
+</footer>
+
+<!-- MODAL -->
+<div class="modal-overlay" id="projectModal">
+  <div class="modal">
+    <button class="modal-close" onclick="closeModal()">✕</button>
+    <div id="modalContent"></div>
+  </div>
+</div>
+
+<!-- TOAST -->
+<div class="toast" id="toast"></div>
+
+<script>
+  // ── DATA ──
+  const LANG = { current: 'ka' };
+
+  const projects = [
+    {
+      id: 1, category: 'food', type: 'running', emoji: '☕',
+      imageClass: 'cafe',
+      badge_ka: 'კვება', badge_en: 'Food & Beverage',
+      verified: true,
+      title_ka: 'კაფე "ოქროს სარტყელი"', title_en: 'Golden Belt Café',
+      desc_ka: 'მოქმედი კაფე ვაკეში — 3 წლის ისტორია. ვეძებთ ინვესტორს ახალი ფილიალის გასახსნელად.',
+      desc_en: 'Operating café in Vake — 3 years in business. Seeking investor for new branch opening.',
+      amount: '45,000 ₾', equity: '20%', roi: '×1.6', payback_ka: '14 თვე', payback_en: '14 months',
+      location_ka: '📍 თბილისი', location_en: '📍 Tbilisi',
+      tags: ['Café', 'F&B', 'Tbilisi'],
+      detail_ka: 'გვაქვს 5 წლის გამოცდილება კვების სფეროში. ყოველთვიური შემოსავალი: 18,000 ₾+. ახალი ფილიალი — ნაძალადევი.',
+      detail_en: '5 years of F&B experience. Monthly revenue: 18,000 ₾+. New branch planned for Nadzaladevi.',
+      contact: 'cafe@example.com'
+    },
+    {
+      id: 2, category: 'tech', type: 'idea', emoji: '💻',
+      imageClass: 'tech',
+      badge_ka: 'ტექნოლოგია', badge_en: 'Technology',
+      verified: true,
+      title_ka: 'Investors.ge პლატფორმა', title_en: 'Investors.ge Platform',
+      desc_ka: 'საქართველოს პირველი სრულფასოვანი საინვესტიციო პლატფორმა. FinTech + Marketplace.',
+      desc_en: 'Georgia\'s first full-featured investment platform. FinTech + Marketplace.',
+      amount: '$10,000,000', equity: '15%', roi: '×8', payback_ka: '5 წელი', payback_en: '5 years',
+      location_ka: '📍 თბილისი / საერთ.', location_en: '📍 Tbilisi / Global',
+      tags: ['FinTech', 'Platform', 'SaaS'],
+      detail_ka: 'პლატფორმა აკავშირებს მცირე და საშუალო ბიზნესებს ადგილობრივ და საერთაშორისო ინვესტორებთან. TAM: $500M+. გუნდი: 8 ადამიანი.',
+      detail_en: 'The platform connects SMEs with local and international investors. TAM: $500M+. Team: 8 people.',
+      contact: 'invest@investors.ge'
+    },
+    {
+      id: 3, category: 'tourism', type: 'idea', emoji: '🏡',
+      imageClass: 'hotel',
+      badge_ka: 'ტურიზმი', badge_en: 'Tourism',
+      verified: true,
+      title_ka: 'ბუტიკ სასტუმრო — ყაზბეგი', title_en: 'Boutique Hotel — Kazbegi',
+      desc_ka: '12-ნომრიანი ბუტიკ სასტუმრო ყაზბეგში. ტურისტული სეზონი — 8 თვე. 85% დატვირთვის პროგნოზი.',
+      desc_en: '12-room boutique hotel in Kazbegi. Tourist season: 8 months. 85% occupancy forecast.',
+      amount: '380,000 ₾', equity: '30%', roi: '×2.2', payback_ka: '36 თვე', payback_en: '36 months',
+      location_ka: '📍 ყაზბეგი', location_en: '📍 Kazbegi',
+      tags: ['Hotel', 'Tourism', 'Kazbegi'],
+      detail_ka: 'მიწა ჩვენია. ნებართვები მიღებულია. არქიტექტორი დანიშნული. მშენებლობა 14 თვეში.',
+      detail_en: 'Land is ours. Permits obtained. Architect appointed. Construction in 14 months.',
+      contact: 'kazbegi@example.com'
+    },
+    {
+      id: 4, category: 'energy', type: 'idea', emoji: '☀️',
+      imageClass: 'solar',
+      badge_ka: 'ენერგია', badge_en: 'Energy',
+      verified: false,
+      title_ka: 'მზის ელ/სადგური — კახეთი', title_en: 'Solar Farm — Kakheti',
+      desc_ka: '2MW მზის სადგური კახეთში. სახელმწიფო შესყიდვის ხელშეკრულება. 20-წლიანი ამოგება.',
+      desc_en: '2MW solar farm in Kakheti. Government purchase contract. 20-year payback.',
+      amount: '1,200,000 ₾', equity: '25%', roi: '×3.8', payback_ka: '10 წელი', payback_en: '10 years',
+      location_ka: '📍 კახეთი', location_en: '📍 Kakheti',
+      tags: ['Solar', 'Energy', 'Green'],
+      detail_ka: 'მიწის ნაკვეთი გამოყოფილია. ელ.ქსელთან მიერთების ნებართვა — პროცესშია. ევროპული ინვეს-ფონდის ინტერესი.',
+      detail_en: 'Land allocated. Grid connection permit in process. European investment fund interest.',
+      contact: 'solar@example.com'
+    },
+    {
+      id: 5, category: 'retail', type: 'running', emoji: '🛍️',
+      imageClass: 'retail',
+      badge_ka: 'ვაჭრობა', badge_en: 'Retail',
+      verified: true,
+      title_ka: 'ქართული ბრენდი — გაფართოება', title_en: 'Georgian Brand — Expansion',
+      desc_ka: 'მოქმედი ონლაინ მაღაზია: 200+ ხელოსანი, Etsy 4.9★. ვეძებთ ინვესტორს EU ბაზარზე შესვლისთვის.',
+      desc_en: 'Active online store: 200+ artisans, Etsy 4.9★. Seeking investor for EU market entry.',
+      amount: '75,000 ₾', equity: '18%', roi: '×2.5', payback_ka: '18 თვე', payback_en: '18 months',
+      location_ka: '📍 თბილისი + ონლაინ', location_en: '📍 Tbilisi + Online',
+      tags: ['Retail', 'Export', 'Brand'],
+      detail_ka: 'ყოველთვიური შემოსავალი: 12,000 ₾+. EU-ს ბაზარზე შესვლა — ლოგისტიკა გადაწყვეტილია.',
+      detail_en: 'Monthly revenue: 12,000 ₾+. EU market entry — logistics resolved.',
+      contact: 'brand@example.com'
+    },
+    {
+      id: 6, category: 'realestate', type: 'idea', emoji: '🏢',
+      imageClass: 'estate',
+      badge_ka: 'უძრავი ქონება', badge_en: 'Real Estate',
+      verified: true,
+      title_ka: 'საცხოვრებელი კომპლექსი — ბათუმი', title_en: 'Residential Complex — Batumi',
+      desc_ka: '24 ბინიანი საცხოვრებელი კომპლექსი ბათუმში. 8 ბინა წინასწარ გაყიდული. 36 თვე.',
+      desc_en: '24-apartment complex in Batumi. 8 units pre-sold. 36-month completion.',
+      amount: '2,400,000 ₾', equity: '22%', roi: '×1.9', payback_ka: '36 თვე', payback_en: '36 months',
+      location_ka: '📍 ბათუმი', location_en: '📍 Batumi',
+      tags: ['Real Estate', 'Batumi', 'Residential'],
+      detail_ka: 'მიწა შეძენილია. მშ. ნებართვა — მიღებული. 8 ბინა წინასწარ გაყიდულია.',
+      detail_en: 'Land purchased. Building permit obtained. 8 units pre-sold.',
+      contact: 'batumi@example.com'
+    }
+  ];
+
+  // ── RENDER PROJECTS ──
+  function renderProjects(filter = 'all') {
+    const lang = LANG.current;
+    const grid = document.getElementById('projectsGrid');
+    const filtered = filter === 'all' ? projects
+      : filter === 'running' || filter === 'idea' ? projects.filter(p => p.type === filter)
+      : projects.filter(p => p.category === filter);
+    if (filtered.length === 0) {
+      grid.innerHTML = `<div style="grid-column:1/-1;text-align:center;padding:60px 0;color:var(--gray400);font-size:16px">${lang === 'ka' ? 'პროექტები ვერ მოიძებნა' : 'No projects found'}</div>`;
+      return;
+    }
+    grid.innerHTML = filtered.map(p => {
+      const typeBadge = p.type === 'running'
+        ? `<span class="type-badge running">🟢 ${lang === 'ka' ? 'მოქმედი ბიზნესი' : 'Running Business'}</span>`
+        : `<span class="type-badge idea">💡 ${lang === 'ka' ? 'სტარტაპ იდეა' : 'Startup Idea'}</span>`;
+      return `
+      <div class="project-card" onclick="openModal('${p.id}')">
+        <div class="card-image ${p.imageClass}">
+          <span style="font-size:56px">${p.emoji}</span>
+          <div class="card-badge">${lang === 'ka' ? p.badge_ka : p.badge_en}</div>
+          ${p.verified ? `<div class="card-verified">✓ ${lang === 'ka' ? 'ვერიფ.' : 'Verified'}</div>` : ''}
+        </div>
+        <div class="card-body">
+          ${typeBadge}
+          <div class="card-title">${lang === 'ka' ? p.title_ka : p.title_en}</div>
+          <div class="card-desc">${lang === 'ka' ? p.desc_ka : p.desc_en}</div>
+          <div class="card-metrics">
+            <div class="metric"><div class="metric-val blue">${p.amount}</div><div class="metric-label">${lang === 'ka' ? 'საჭირო' : 'Needed'}</div></div>
+            <div class="metric"><div class="metric-val gold">${p.equity}</div><div class="metric-label">${lang === 'ka' ? 'წილი' : 'Equity'}</div></div>
+            <div class="metric"><div class="metric-val green">${p.roi}</div><div class="metric-label">ROI</div></div>
+          </div>
+          <div class="offer-strip">
+            <div class="offer-pill"><div class="offer-pill-val gold">${p.equity}</div><div class="offer-pill-lbl">${lang === 'ka' ? 'წილი' : 'Equity'}</div></div>
+            <div class="offer-sep">·</div>
+            <div class="offer-pill"><div class="offer-pill-val green">${p.roi}</div><div class="offer-pill-lbl">ROI</div></div>
+            <div class="offer-sep">·</div>
+            <div class="offer-pill"><div class="offer-pill-val blue">${lang === 'ka' ? p.payback_ka : p.payback_en}</div><div class="offer-pill-lbl">${lang === 'ka' ? 'ამოგება' : 'Payback'}</div></div>
+          </div>
+          <div class="card-footer">
+            <span class="card-location">${lang === 'ka' ? p.location_ka : p.location_en}</span>
+            <button class="btn-view">${lang === 'ka' ? 'დეტალები' : 'Details'} →</button>
+          </div>
+        </div>
+      </div>
+    `}).join('');
+  }
+
+  // ── FILTERS ──
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderProjects(btn.dataset.filter);
+    });
+  });
+
+  // ── MODAL ──
+  function openModal(id) {
+    const p = projects.find(x => String(x.id) === String(id));
+    const lang = LANG.current;
+    const typeBadge = p.type === 'running'
+      ? `<span class="type-badge running" style="margin-bottom:14px;display:inline-flex">🟢 ${lang === 'ka' ? 'მოქმედი ბიზნესი' : 'Running Business'}</span>`
+      : `<span class="type-badge idea" style="margin-bottom:14px;display:inline-flex">💡 ${lang === 'ka' ? 'სტარტაპ იდეა' : 'Startup Idea'}</span>`;
+    document.getElementById('modalContent').innerHTML = `
+      ${typeBadge}
+      <h2>${lang === 'ka' ? p.title_ka : p.title_en}</h2>
+      <div class="modal-sub">${lang === 'ka' ? p.badge_ka : p.badge_en} · ${lang === 'ka' ? p.location_ka : p.location_en}</div>
+      <div class="modal-metrics">
+        <div class="modal-metric"><div class="val blue">${p.amount}</div><div class="lbl">${lang === 'ka' ? 'საჭირო' : 'Needed'}</div></div>
+        <div class="modal-metric"><div class="val gold">${p.equity}</div><div class="lbl">${lang === 'ka' ? 'წილი' : 'Equity'}</div></div>
+        <div class="modal-metric"><div class="val green">${p.roi}</div><div class="lbl">ROI</div></div>
+      </div>
+      <div class="offer-strip" style="margin-bottom:24px">
+        <div class="offer-pill"><div class="offer-pill-val gold">${p.equity}</div><div class="offer-pill-lbl">${lang === 'ka' ? 'წილი ინვესტორს' : 'Equity Offered'}</div></div>
+        <div class="offer-sep">·</div>
+        <div class="offer-pill"><div class="offer-pill-val green">${p.roi}</div><div class="offer-pill-lbl">ROI</div></div>
+        <div class="offer-sep">·</div>
+        <div class="offer-pill"><div class="offer-pill-val blue">${lang === 'ka' ? p.payback_ka : p.payback_en}</div><div class="offer-pill-lbl">${lang === 'ka' ? 'ამოგება' : 'Payback'}</div></div>
+      </div>
+      <div class="modal-section-title">${lang === 'ka' ? 'აღწერა' : 'Description'}</div>
+      <div class="modal-desc">${lang === 'ka' ? p.desc_ka : p.desc_en}</div>
+      <div class="modal-desc" style="margin-top:10px">${lang === 'ka' ? p.detail_ka : p.detail_en}</div>
+      <div class="modal-tags" style="margin-top:16px">${p.tags.map(t => `<span class="modal-tag">${t}</span>`).join('')}</div>
+      <a class="contact-btn" style="display:block;text-align:center;text-decoration:none;"
+        href="mailto:contact@investors.ge?subject=${encodeURIComponent((lang === 'ka' ? 'ინვესტიციის შეთავაზება — ' : 'Investment Inquiry — ') + (lang === 'ka' ? p.title_ka : p.title_en))}&body=${encodeURIComponent(lang === 'ka' ? 'გამარჯობა,\n\nმაინტერესებს პროექტი და მსურს ინვესტიციის შესახებ სასაუბროდ.\n\nმოკლედ ჩემ შესახებ:\n\n' : 'Hello,\n\nI am interested in your project and would like to discuss a potential investment.\n\nAbout me:\n\n')}">
+        📩 ${lang === 'ka' ? 'დაგვიკავშირდით' : 'Contact Us'}
+      </a>
+    `;
+    document.getElementById('projectModal').classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+  function closeModal() {
+    document.getElementById('projectModal').classList.remove('open');
+    document.body.style.overflow = '';
+  }
+  document.getElementById('projectModal').addEventListener('click', e => { if (e.target === e.currentTarget) closeModal(); });
+
+  // ── LANG TOGGLE ──
+  function setLang(lang) {
+    LANG.current = lang;
+    document.querySelectorAll('.lang-btn').forEach(b => b.classList.toggle('active', b.textContent.toLowerCase().includes(lang === 'ka' ? 'ქა' : 'en')));
+    document.querySelectorAll('[data-' + lang + ']').forEach(el => { el.textContent = el.dataset[lang]; });
+    // Refresh forms placeholders
+    renderProjects(document.querySelector('.filter-btn.active')?.dataset.filter || 'all');
+  }
+
+  // ── FAQ ──
+  function toggleFaq(el) {
+    const item = el.closest('.faq-item');
+    item.classList.toggle('open');
+  }
+
+  // ── TOAST ──
+  function showToast(msg) {
+    const t = document.getElementById('toast');
+    t.textContent = msg; t.classList.add('show');
+    setTimeout(() => t.classList.remove('show'), 3500);
+  }
+
+  // ── SUPABASE CONFIG ──
+  const SUPABASE_URL = 'https://bygbcahmkxvgiydzdzqw.supabase.co';
+  const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ5Z2JjYWhta3h2Z2l5ZHpkenF3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYyNDMxMzcsImV4cCI6MjA5MTgxOTEzN30.pDqDHMHyXmiXcNlZYIEBvhjPehmGPfP9nCudvrgMax0';
+
+  // ── FORM SUBMIT ──
+  async function submitProject() {
+    const name = document.getElementById('f-name').value.trim();
+    const email = document.getElementById('f-email').value.trim();
+    const type = document.getElementById('f-type').value;
+    const category = document.getElementById('f-cat').value;
+    const amount = document.getElementById('f-amount').value.trim();
+    const equity = document.getElementById('f-equity').value.trim();
+    const desc = document.getElementById('f-desc').value.trim();
+
+    if (!name || !email || !type || !category || !amount || !equity || !desc) {
+      showToast(LANG.current === 'ka' ? '⚠️ გთხოვთ შეავსოთ ყველა სავალდებულო ველი' : '⚠️ Please fill in all required fields');
+      return;
+    }
+
+    const btn = document.querySelector('.form-submit');
+    btn.textContent = LANG.current === 'ka' ? '⏳ იგზავნება...' : '⏳ Sending...';
+    btn.disabled = true;
+
+    try {
+      const res = await fetch(`${SUPABASE_URL}/rest/v1/submissions`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'apikey': SUPABASE_KEY,
+          'Authorization': `Bearer ${SUPABASE_KEY}`,
+          'Prefer': 'return=minimal'
+        },
+        body: JSON.stringify({
+          title: name,
+          type: type,
+          category: category,
+          amount: amount + ' ₾',
+          equity: equity + '%',
+          description: desc,
+          email: email,
+          status: 'pending'
+        })
+      });
+
+      if (res.ok || res.status === 201) {
+        showToast(LANG.current === 'ka' ? '🎉 განაცხადი მიღებულია! 48 საათში დაგიკავშირდებით.' : '🎉 Application received! We\'ll contact you within 48 hours.');
+        ['f-name','f-type','f-cat','f-amount','f-equity','f-desc','f-email'].forEach(id => {
+          const el = document.getElementById(id);
+          if (el) el.value = '';
+        });
+      } else {
+        throw new Error('Failed');
+      }
+    } catch(e) {
+      showToast(LANG.current === 'ka' ? '❌ შეცდომა. სცადეთ თავიდან.' : '❌ Error. Please try again.');
+    } finally {
+      btn.textContent = LANG.current === 'ka' ? '🚀 გაგზავნე განაცხადი' : '🚀 Submit Application';
+      btn.disabled = false;
+    }
+  }
+
+  // ── SCROLL ANIMATIONS ──
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); } });
+  }, { threshold: 0.12 });
+  document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+
+  // ── CATEGORY MAP ──
+  const CATEGORY_META = {
+    agri:        { emoji: '🌱', badge_ka: 'სოფ. მეურნეობა',   badge_en: 'Agriculture', imageClass: 'agri' },
+    food:        { emoji: '🍽️', badge_ka: 'კვება / სასმელი',  badge_en: 'Food & Beverage', imageClass: 'agri' },
+    tech:        { emoji: '💻', badge_ka: 'ტექნოლოგია',        badge_en: 'Technology',  imageClass: 'tech' },
+    tourism:     { emoji: '🏨', badge_ka: 'ტურიზმი',           badge_en: 'Tourism',     imageClass: 'hotel' },
+    realestate:  { emoji: '🏢', badge_ka: 'უძრავი ქონება',    badge_en: 'Real Estate', imageClass: 'estate' },
+    energy:      { emoji: '⚡', badge_ka: 'ენერგია',            badge_en: 'Energy',      imageClass: 'tech' },
+    retail:      { emoji: '🛍️', badge_ka: 'ვაჭრობა',           badge_en: 'Retail',      imageClass: 'agri' },
+    other:       { emoji: '📌', badge_ka: 'სხვა',              badge_en: 'Other',       imageClass: 'tech' },
+  };
+
+  // ── LOAD APPROVED PROJECTS FROM SUPABASE ──
+  async function loadApprovedProjects() {
+    try {
+      const res = await fetch(
+        `${SUPABASE_URL}/rest/v1/submissions?status=eq.approved&order=created_at.desc`,
+        { headers: { 'apikey': SUPABASE_KEY, 'Authorization': `Bearer ${SUPABASE_KEY}` } }
+      );
+      if (!res.ok) throw new Error('fetch failed');
+      const rows = await res.json();
+
+      // Map Supabase rows to project card format and prepend to array
+      const dbProjects = rows.map(r => {
+        const meta = CATEGORY_META[r.category] || { emoji: '📌', badge_ka: r.category, badge_en: r.category, imageClass: 'tech' };
+        return {
+          id: 'db_' + r.id,
+          category: r.category || 'other',
+          type: r.type || 'idea',
+          emoji: meta.emoji,
+          imageClass: meta.imageClass,
+          badge_ka: meta.badge_ka,
+          badge_en: meta.badge_en,
+          verified: true,
+          title_ka: r.title,
+          title_en: r.title,
+          desc_ka: r.description,
+          desc_en: r.description,
+          amount: r.amount ? r.amount.replace(/\B(?=(\d{3})+(?!\d))/g, ',') : '—',
+          equity: r.equity || '—',
+          roi: r.roi || '—',
+          payback_ka: r.payback || '—',
+          payback_en: r.payback || '—',
+          location_ka: r.location ? '📍 ' + r.location : '📍 საქართველო',
+          location_en: r.location ? '📍 ' + r.location : '📍 Georgia',
+          tags: [meta.badge_en, r.type === 'running' ? 'Running Business' : 'Startup'],
+          detail_ka: '',
+          detail_en: '',
+          contact: r.email || ''
+        };
+      });
+
+      // Put live DB projects first, then keep sample projects at the end
+      projects.unshift(...dbProjects);
+    } catch(e) {
+      // Silently fall back to sample projects if fetch fails
+      console.warn('Could not load projects from DB:', e);
+    }
+    renderProjects();
+  }
+
+  // ── INIT ──
+  loadApprovedProjects();
+</script>
+</body>
+</html>
