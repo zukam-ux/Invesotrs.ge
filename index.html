@@ -80,11 +80,11 @@
     </div>
     <section class="market-strip" id="markets">
       <article class="quote tv-quote"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FOREXCOM:SPXUSD","width":"100%","height":168,"locale":"en","dateRange":"1D","colorTheme":"light","isTransparent":true,"autosize":false,"largeChartUrl":"https://investors.ge/markets.html"}</script></div></article>
-      <article class="quote tv-quote"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:IXIC","width":"100%","height":168,"locale":"en","dateRange":"1D","colorTheme":"light","isTransparent":true,"autosize":false,"largeChartUrl":"https://investors.ge/markets.html"}</script></div></article>
+      <article class="quote tv-quote"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:QQQ","width":"100%","height":168,"locale":"en","dateRange":"1D","colorTheme":"light","isTransparent":true,"autosize":false,"largeChartUrl":"https://investors.ge/markets.html"}</script></div></article>
       <article class="quote live-quote"><div class="quote-top"><span>Bitcoin / USD</span><span>CoinGecko</span></div><strong id="btcCardPrice">იტვირთება…</strong><span class="delta" id="btcCardChange">24 საათის ცვლილება</span><canvas class="spark" id="btcSpark" aria-label="Bitcoin-ის რეალური 7 დღის ფასის ისტორია"></canvas><small class="source-note" id="btcUpdated">წყარო: CoinGecko</small></article>
       <article class="quote tv-quote"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"OANDA:XAUUSD","width":"100%","height":168,"locale":"en","dateRange":"1D","colorTheme":"light","isTransparent":true,"autosize":false,"largeChartUrl":"https://investors.ge/markets.html"}</script></div></article>
       <article class="quote live-quote"><div class="quote-top"><span>USD / GEL</span><span>NBG ოფიციალური</span></div><strong id="gelCardPrice">იტვირთება…</strong><span class="delta" id="gelCardChange">დღიური ოფიციალური კურსი</span><small class="source-note" id="gelUpdated">ეს არ არის საბირჟო ან ბანკის კომერციული კურსი</small></article>
-      <article class="quote tv-quote"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"LSE:BGEO","width":"100%","height":168,"locale":"en","dateRange":"1D","colorTheme":"light","isTransparent":true,"autosize":false,"largeChartUrl":"https://investors.ge/markets.html"}</script></div></article>
+      <article class="quote live-quote"><div class="quote-top"><span>Ethereum / USD</span><span>CoinGecko</span></div><strong id="ethCardPrice">იტვირთება…</strong><span class="delta" id="ethCardChange">24 საათის ცვლილება</span><canvas class="spark" id="ethSpark" aria-label="Ethereum-ის რეალური 7 დღის ფასის ისტორია"></canvas><small class="source-note" id="ethUpdated">წყარო: CoinGecko</small></article>
     </section>
 
     <section class="hero-grid">
@@ -157,9 +157,9 @@
       if(fill){c.lineTo(x(values.length-1),h-p);c.lineTo(x(0),h-p);c.closePath();const g=c.createLinearGradient(0,0,0,h);g.addColorStop(0,'rgba(10,168,117,.22)');g.addColorStop(1,'rgba(10,168,117,0)');c.fillStyle=g;c.fill()}
     }
     const searchable=[
-      ['S','S&P 500','SPX · TradingView'],['N','NASDAQ Composite','IXIC · TradingView'],
+      ['S','S&P 500','SPX · TradingView'],['Q','Invesco QQQ','Nasdaq-100 ETF · TradingView'],
       ['₿','Bitcoin','BTC · CoinGecko'],['Au','ოქრო','XAU/USD · TradingView'],
-      ['₾','USD / GEL','NBG ოფიციალური'],['B','Lion Finance Group','BGEO · TradingView']
+      ['₾','USD / GEL','NBG ოფიციალური'],['Ξ','Ethereum','ETH · CoinGecko']
     ];
     assetSearch.oninput=()=>{const query=assetSearch.value.trim().toLowerCase();const matches=searchable.filter(a=>a.join(' ').toLowerCase().includes(query)).slice(0,5);searchResults.innerHTML=matches.map(a=>`<a class="result" href="markets.html"><i>${a[0]}</i><span><b>${a[1]}</b><small>${a[2]}</small></span></a>`).join('');searchResults.classList.toggle('open',query.length>0&&matches.length>0)};
     document.addEventListener('click',e=>{if(!e.target.closest('.search'))searchResults.classList.remove('open')});
@@ -187,7 +187,7 @@
     function signed(value){return `${value>=0?'+':'−'}${Math.abs(value).toFixed(2)}%`}
     async function refreshLive(){
       try{
-        const data=await getLiveData(),btc=data.crypto?.bitcoin,usd=data.fx?.usd;
+        const data=await getLiveData(),btc=data.crypto?.bitcoin,eth=data.crypto?.ethereum,usd=data.fx?.usd;
         if(btc?.usd){
           const price='$'+Number(btc.usd).toLocaleString('en-US',{maximumFractionDigits:2}),change=signed(btc.usd_24h_change||0)+' · 24სთ';
           btcCardPrice.textContent=price;btcCardChange.textContent=change;btcCardChange.className='delta '+((btc.usd_24h_change||0)>=0?'up':'down');
@@ -201,9 +201,16 @@
           briefGel.textContent=`1 USD = ${price} GEL`;briefGelDate.textContent=`NBG · ძალაშია ${new Date(usd.validFromDate||data.fetchedAt).toLocaleDateString('ka-GE')}`;
           gelUpdated.textContent='NBG ოფიციალური კურსი · არა კომერციული ყიდვა/გაყიდვა';
         }
+        if(eth?.usd){
+          const price='$'+Number(eth.usd).toLocaleString('en-US',{maximumFractionDigits:2}),change=signed(eth.usd_24h_change||0)+' · 24სთ';
+          ethCardPrice.textContent=price;ethCardChange.textContent=change;ethCardChange.className='delta '+((eth.usd_24h_change||0)>=0?'up':'down');
+          ethUpdated.textContent='CoinGecko · განახლდა '+new Date(eth.last_updated_at?eth.last_updated_at*1000:data.fetchedAt).toLocaleTimeString('ka-GE',{hour:'2-digit',minute:'2-digit'});
+          if(Array.isArray(eth.sparkline)&&eth.sparkline.length)lineChart(ethSpark,eth.sparkline,(eth.usd_24h_change||0)>=0?'#0aa875':'#d84c4c',false);
+        }
         document.querySelector('.date').innerHTML=`<span class="live-dot"></span>განახლდა ${new Date(data.fetchedAt).toLocaleTimeString('ka-GE',{hour:'2-digit',minute:'2-digit'})} · წყაროები აქტიურია`;
       }catch(_){
         btcCardPrice.textContent='მიუწვდომელია';btcCardChange.textContent='განახლება შეფერხებულია';btcCardChange.className='delta down';
+        ethCardPrice.textContent='მიუწვდომელია';ethCardChange.textContent='განახლება შეფერხებულია';ethCardChange.className='delta down';
         gelCardPrice.textContent='მიუწვდომელია';gelCardChange.textContent='განახლება შეფერხებულია';gelCardChange.className='delta down';
         document.querySelector('.date').innerHTML='<span style="color:#d84c4c">●</span> მონაცემების განახლება დროებით შეფერხებულია';
       }
