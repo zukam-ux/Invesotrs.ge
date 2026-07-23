@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://investors.ge/sitemap.xml
+Host: investors.ge

@@ -6,5 +6,13 @@
   "display": "standalone",
   "background_color": "#f6f8f6",
   "theme_color": "#10291f",
-  "description": "ბაზრები, სიახლეები და საინვესტიციო განათლება ქართულად"
+  "description": "ინვესტიციები, აქციები, კრიპტო და საინვესტიციო განათლება ქართულად",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
 }
