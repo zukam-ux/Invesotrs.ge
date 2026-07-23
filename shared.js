@@ -69,13 +69,14 @@ function identifyNewsAsset(article){
 }
 async function loadGlobalNews(){
   const targets=document.querySelectorAll("[data-global-news]");
-  if(!targets.length)return;
+  const topStoryTargets=document.querySelectorAll("[data-top-stories]");
+  if(!targets.length&&!topStoryTargets.length)return;
   try{
     const response=await fetch(`/data/global-news.json?v=${Math.floor(Date.now()/36e5)}`);
     if(!response.ok)throw new Error("news unavailable");
     const data=await response.json();
     targets.forEach(target=>{
-      const limit=Number(target.dataset.limit||9),articles=(data.articles||[]).slice(0,limit);
+      const limit=Number(target.dataset.limit||9),offset=Number(target.dataset.offset||0),articles=(data.articles||[]).slice(offset,offset+limit);
       target.innerHTML=articles.length?articles.map(article=>{
         const identity=identifyNewsAsset(article);
         return `
@@ -86,9 +87,37 @@ async function loadGlobalNews(){
           <span class="meta"><span class="translation-label">AI თარგმანი</span> · პირველწყარო ↗</span>
         </a>`}).join(""):'<div class="news-status">პირველი ავტომატური განახლება მზადდება. გლობალური ამბები საათში ერთხელ განახლდება.</div>';
     });
+    topStoryTargets.forEach(target=>{
+      const articles=(data.articles||[]).slice(0,5),lead=articles[0];
+      if(!lead){
+        target.innerHTML='<div class="news-status">პირველი ავტომატური განახლება მზადდება. მთავარი ამბები საათში ერთხელ განახლდება.</div>';
+        return;
+      }
+      const leadIdentity=identifyNewsAsset(lead);
+      const identityMarkup=identity=>`<span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)}</b><small>${escapeNews(lead.category)}</small></span></span>`;
+      target.innerHTML=`
+        <a class="top-story-lead" data-symbol="${escapeNews(leadIdentity.symbol)}" href="${escapeNews(lead.url)}" target="_blank" rel="noopener">
+          <div class="top-story-kicker"><span class="live-label"><span class="live-dot"></span> მთავარი ამბავი</span><span>განახლდება ყოველ საათში</span></div>
+          ${identityMarkup(leadIdentity)}
+          <h2>${escapeNews(lead.titleKa)}</h2>
+          <p>${escapeNews(lead.summaryKa)}</p>
+          <span class="top-story-footer"><b>${escapeNews(lead.source)}</b><span>·</span><span>${relativeNewsTime(lead.publishedAt)}</span><span>·</span><span>AI თარგმანი</span><span>↗</span></span>
+        </a>
+        <aside class="top-story-list">
+          <div class="top-story-list-head"><h3>მთავარი ამბები</h3><a href="news.html">ყველა ამბავი →</a></div>
+          ${articles.slice(1).map(article=>{
+            const identity=identifyNewsAsset(article);
+            return `<a class="top-story-row" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
+              <i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i>
+              <span><h4>${escapeNews(article.titleKa)}</h4><small>${escapeNews(identity.symbol)} · ${escapeNews(article.source)} · ${relativeNewsTime(article.publishedAt)}</small></span>
+            </a>`;
+          }).join("")}
+        </aside>`;
+    });
     document.querySelectorAll("[data-news-updated]").forEach(el=>el.textContent=data.updatedAt?`განახლდა ${new Date(data.updatedAt).toLocaleString("ka-GE")}`:"პირველი განახლება მზადდება");
   }catch(_){
     targets.forEach(target=>target.innerHTML='<div class="news-status">გლობალური ამბების განახლება დროებით შეფერხებულია. ბაზრის მონაცემები მუშაობას აგრძელებს.</div>');
+    topStoryTargets.forEach(target=>target.innerHTML='<div class="news-status">მთავარი ამბების განახლება დროებით შეფერხებულია.</div>');
   }
 }
 loadGlobalNews();
