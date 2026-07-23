@@ -136,5 +136,5 @@ document.querySelectorAll(".nav-search:not([data-asset-search])").forEach(input 
   }
 });
 const assetSearchScript = document.createElement("script");
-assetSearchScript.src = "asset-search.js";
+assetSearchScript.src = "asset-search.js?v=20260723-symbol-fix";
 document.body.appendChild(assetSearchScript);
