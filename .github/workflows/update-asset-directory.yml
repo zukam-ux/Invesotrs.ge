@@ -1,0 +1,31 @@
+name: Update asset directory
+
+on:
+  schedule:
+    - cron: "43 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+      - name: Refresh SEC securities and CoinGecko crypto directory
+        run: node scripts/update-assets.mjs
+      - name: Publish changed directory
+        run: |
+          if git diff --quiet -- data/assets.json; then
+            echo "Asset directory is unchanged."
+            exit 0
+          fi
+          git config user.name "investors-ge-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/assets.json
+          git commit -m "Update asset directory"
+          git push
