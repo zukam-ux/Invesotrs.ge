@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-07-24T07:28:21.813Z",
+  "updatedAt": "2026-07-24T09:43:34.861Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "bbe3ba1c1ca01f16",
+      "title": "Current price of oil as of July 24, 2026",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBURlFxT1pJc1Y0b2pvTVBsYTQ4ZUNxTHV4Sjl3NGVVRm9qSXVDUGJ2bm9XeklXUVAtellxUmlMY0VTRTNBbk43ekNmeUptNnNqUDJ2UktmZWNrbE9wQUlQTVNR?oc=5",
+      "publishedAt": "2026-07-24T09:35:00.000Z",
+      "titleKa": "ნავთობის მიმდინარე ფასი 2026 წლის 24 ივლისისთვის",
+      "summaryKa": "2026 წლის 24 ივლისისთვის ნავთობის მიმდინარე ფასი არის განხილვის თემა.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d5329789eb836075",
+      "title": "Japan’s June inflation figure poses no obstacle to BoJ tightening this year",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zSkFzRE1VczB4T05CQWZjbV9INDZreHdySzNSR1VwWFVicVVNSHhKQnJOQzR4TUxROWt3cU5DNEFYSUdJclBMN3czVlgtOS1rMXQzbHE5NlkzY1JVQXN2NFlnU1U5TW1Wd2RWY2s1MHo?oc=5",
+      "publishedAt": "2026-07-24T09:23:22.000Z",
+      "titleKa": "იაპონიის ივნისის ინფლაციის მაჩვენებელი არ უშლის ხელს BoJ-ის გამკაცრებას წელს",
+      "summaryKa": "იაპონიის ივნისის ინფლაციის მაჩვენებელი არ წარმოადგენს დაბრკოლებას ცენტრალური ბანკის პოლიტიკის გამკაცრებისთვის.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "aa0fb68f5618dcc2",
+      "title": "Trump threatens 'massive attack' on Iran, pushing oil past $100",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDRJY1VzTmJQdHdDSVk2M216dlpNNEJSYTdDcmhaNjFPRTFTbFpRZWVLR2w2SXBaNUw5NGpMSmdjNEk0QW1YbXRKNmpYYzdsdWs3bThBWkVneGswQkQ2ZkFsUTNVWjJiWmg2ck5sMHdSSEVqMGRqX0JRbjc5MmFlRUZlR2YzVk5xbEhWYmJHVEZuQnNnWFlDZEtqVmE1Njhmd3ZKRw?oc=5",
+      "publishedAt": "2026-07-24T09:09:21.000Z",
+      "titleKa": "ტრომპი ირანის წინააღმდეგ 'მასშტაბური თავდასხმის' საფრთხეს უქმნის, რაც ნავთობის ფასს $100-ს გადააჭარბებს",
+      "summaryKa": "ტრომპის განცხადება ირანის წინააღმდეგ თავდასხმის შესახებ ზრდის ნავთობის ფასს $100-ზე მეტი.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "36fd04a56bf7ed9b",
+      "title": "2 Vanguard Index Funds Are Crushing the S&P 500 This Year",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVG9aUzRxZXBzUDNrSWxka3dNOU9nYTd4ak9MUTdSTlA1emJSZXpfUndIMDRSbFlBcGEtanZZR3hjOE5OaEVHMkdoQWl4T2tIWE1SUlBjWUhHbDFuRkJZNlhIZmxkMzN2Qk5oNzNIR1NaV0hHb1BfdHM1N3JveE55SF8weXVrRnZLVWRkTW1WcjVZVnVlcjJidjZ2ZHo?oc=5",
+      "publishedAt": "2026-07-24T09:08:00.000Z",
+      "titleKa": "2 Vanguard-ის ინდექსური ფონდი S&P 500-ს ამ წელს აჯობებს",
+      "summaryKa": "ამ წელს ორი Vanguard-ის ინდექსური ფონდი S&P 500-ს აჯობებს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "44d15e3514654cab",
+      "title": "3 High-Yield Dividend Stocks to Buy Right Now for a Lifetime of Rising Passive Income",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdE93bVJ2UTV2YVE0Wm1jbUpIMGRJZERUZ0FtLUhLTzlsdVFuSUgzc0ZFeFhiZ2RUVWltSGNnN1lyZDlXdVBKR2Z6M1pYNXRLRjZDQVZhUzc2VFUyTTZ2RjlQZHFrVmE1Zmdnb3A0YXFFWDBBTjc0dFVrZUE4eGFIU0V2VFFaa1hzaXF5UGNvaE5XVE5vLWdQUg?oc=5",
+      "publishedAt": "2026-07-24T09:00:00.000Z",
+      "titleKa": "3 მაღალი შემოსავლის დივიდენდური აქცია, რომელიც ახლა უნდა შეიძინოთ მუდმივი პასიური შემოსავლისთვის",
+      "summaryKa": "ამჟამად სამი მაღალი შემოსავლის დივიდენდური აქცია არის რეკომენდირებული.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d9fd50901da4595f",
+      "title": "3 Market-Beating Stocks to Target This Week",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNXFUUC15bWtFVHRObTBMV0FpY0w4aEoyVFhFb01wZHdxLURaV3ZYalB4YVJSX3ZuQzdub3V6MkVGaTB4cWpsOHRIQzI4dlJqR1h6UUVMaDZQRTFPa1J0RVlsNk85MExMYlRmNlZ3TW1WWG5tQ25oUEdBUnF1Nkw5bUZGbVBSQzhNUE9Sc3ZGM2NGVkNQRklxU18wTQ?oc=5",
+      "publishedAt": "2026-07-24T08:57:08.000Z",
+      "titleKa": "3 აქცია, რომელიც ბაზარს აჯობებს, ამ კვირისთვის",
+      "summaryKa": "ამ კვირისთვის სამი აქცია, რომელიც ბაზარს აჯობებს, არის განხილვის თემა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "cafa48551086e708",
+      "title": "Nasdaq, S&P 500 Futures Mixed As Oil Surge, Trump Tariffs Cloud Market Outlook: Why INTC, TSLA, SPCX, ORCL, SLS Are In Focus",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU9xVWlYdlRIczU3VWM2N1lpR3VFVVJMVFNpZ1E1VmM0YVNFM2kycU9MYnZxTW96ZTVqSEdHbVdKNTJncmpYY2tJVkZ2Ulo5U2t5N1FFR0twS2pVbHpqQUJnQm1tcHBmMm53Ulh1SFI0cEtTRkpRWnVPVW1pcnBVd05KclB4UVUwU3dSa1dpMVh2czBQRnc?oc=5",
+      "publishedAt": "2026-07-24T08:49:45.000Z",
+      "titleKa": "Nasdaq და S&P 500-ის ფიუჩერსები შერეულია, რადგან ნავთობი იზრდება, ტრომპის ტარიფები ბაზრის პერსპექტივას აბნელებს: რატომ არის INTC, TSLA, SPCX, ORCL, SLS ყურადღების ცენტრში",
+      "summaryKa": "Nasdaq და S&P 500-ის ფიუჩერსები შერეულია ნავთობის ფასების ზრდისა და ტრომპის ტარიფების გამო.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c41c99d08e7ea7eb",
+      "title": "2 Momentum Stocks with Exciting Potential and 1 We Question",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0xDZm81cFZJcUhvWGVlLUZqNWRUcHROdHlYVEY3WVZaV244a2lPc0x3ZW4wbTZhMHFGSHlnaTlqMFA4RmJ0cmVmMkhWUnVnNWc2RTUxWjVRN1NaRlBaUmdqWnY5ZEJ0amo5UWpPYV9VTUVXVk1KVmpCTEhyQ1B6OVVqLUJjZlBjaktQU3BGVjdaZ0RacV94OFdfRkRoUHVrb0k0?oc=5",
+      "publishedAt": "2026-07-24T08:49:08.000Z",
+      "titleKa": "2 მოლაპარაკების აქცია საინტერესო პოტენციალით და 1, რომლის მიმართაც კითხვები გვაქვს",
+      "summaryKa": "ორი მოლაპარაკების აქცია საინტერესო პოტენციალით გამოირჩევა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "51c8700872a17e6f",
+      "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHk2TTM1a1dPMXQtTDZXNHl0anFjcWpfWUNaOHFEb3ZfbjN6UmNrZXZNcUp4RUJ1QkdvZG9DY3JhcXFQbG1UTjBySWh0bExNMGJXMEFUQllHMmtaSjFFRUdPMVYyT0FIQ3IxeVRPWTB0MUVmZ3lpVzZlSEtTaWd2Qmo5UndmTHVsYk1uOHBrS0FSNHQ3?oc=5",
+      "publishedAt": "2026-07-24T08:46:46.000Z",
+      "titleKa": "აზიური აქციები ვარდნისკენ მიდის, რადგან ნავთობის ფასი $100-ს გადაცდება: ბაზრების მიმოხილვა",
+      "summaryKa": "აზიური აქციები ვარდნისკენ მიდის, რადგან ნავთობის ფასი $100-ს გადაცდება.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b012bc0840adc0c3",
+      "title": "Ethereum’s Falling Fees Do Not Mean Falling Use, Bitwise Finds",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkxvd1QzV1hwNEhlcE1zSjZtY1k3YVF2SUpRdXhaWDJMUkRNWEpaVTVkZ1Fram1jb25WeVRMVjFsc1Z3SzFuTFY5Z3Rxay1TRWJEVjd4dW9vZ2trRXp3amF6UDBEVFRMUXk5ejNQMTNMUWhpNzhHX1ZQNFZPdm4xVUUwbFBSUzVnRVNVaDlUbHhTdlRRRC05eU5Odw?oc=5",
+      "publishedAt": "2026-07-24T07:56:05.000Z",
+      "titleKa": "Ethereum-ის შემცირებული საფასურები არ ნიშნავს შემცირებულ გამოყენებას, აღმოაჩინა Bitwise-მა",
+      "summaryKa": "Bitwise-მა დაადგინა, რომ Ethereum-ის საფასურების შემცირება არ ნიშნავს მისი გამოყენების შემცირებას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "96f44568f8ac2044",
+      "title": "Where Crypto Actually Fits in Your Portfolio Today",
+      "source": "Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkVwaUlpWTFxNm16bkhxM2txbDB0WHk5YmJ6dHgzb2hSZ0VESG9RVlNPSDF4Vmkxc21McHhZZGtlLVA4OHNZS2pNT19iRExkVVV4akl6em9UOUgzQkVlS0NIajRPcWhzd3ZXbXlmTXgteGZsblBEWVVHWEJaZ2tvamZUZnNPVlJlaDRjLWxNdU8xQQ?oc=5",
+      "publishedAt": "2026-07-24T07:09:00.000Z",
+      "titleKa": "სად არის კრიპტო თქვენი პორტფელის ნაწილში დღეს",
+      "summaryKa": "კრიპტო აქტივები განიხილება პორტფელის ნაწილად.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2f03a3aa1bfd10de",
+      "title": "Why Crypto Prices Swing So Much",
+      "source": "Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tZVhhUHdfLWRJSE13czZWc1VDSnlralQtNWl4THVGM0xUOGVsTmU2SVdYRFJVRzE0cXFtbUF3SlZ1T0dkOWJ0SXRTTmdpM1A3ZlBQSHJOeWJDMnF5MFFzRm9lMmJvdnlfdWc1b0JFZDBRYmNyZEpIdw?oc=5",
+      "publishedAt": "2026-07-24T07:08:00.000Z",
+      "titleKa": "რატომ არის კრიპტო ფასები ასე ცვალებადი",
+      "summaryKa": "კრიპტო ფასების ცვალებადობის მიზეზები განიხილება.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "6d9d26a2567d68a1",
       "title": "How Crypto Connects to the Traditional Financial System",
@@ -143,17 +275,6 @@
       "publishedAt": "2026-07-24T05:56:00.000Z",
       "titleKa": "3 მცირე კაპიტალიზაციის ბიოტექნოლოგიური აქცია სწრაფი შემოსავლის ზრდით და მაღალი შიდა საკუთრებით",
       "summaryKa": "არსებობს 3 მცირე კაპიტალიზაციის ბიოტექნოლოგიური აქცია, რომლებიც სწრაფი შემოსავლის ზრდას აჩვენებენ.",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "51c8700872a17e6f",
-      "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHk2TTM1a1dPMXQtTDZXNHl0anFjcWpfWUNaOHFEb3ZfbjN6UmNrZXZNcUp4RUJ1QkdvZG9DY3JhcXFQbG1UTjBySWh0bExNMGJXMEFUQllHMmtaSjFFRUdPMVYyT0FIQ3IxeVRPWTB0MUVmZ3lpVzZlSEtTaWd2Qmo5UndmTHVsYk1uOHBrS0FSNHQ3?oc=5",
-      "publishedAt": "2026-07-24T05:46:11.000Z",
-      "titleKa": "აზიური აქციები ვარდნისკენ მიდის, რადგან ნავთობის ფასი $100-ს გადაცდება: ბაზრების მიმოხილვა",
-      "summaryKa": "აზიური აქციები ვარდნისკენ მიდის, რადგან ნავთობის ფასი $100-ს გადაცდება.",
       "category": "აქციები",
       "translationNotice": "AI-assisted Georgian translation"
     },
