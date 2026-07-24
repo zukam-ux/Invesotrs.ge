@@ -35,3 +35,13 @@
   for = "/shared.css"
   [headers.values]
     Cache-Control = "no-cache, must-revalidate"
+
+[[headers]]
+  for = "/learning.js"
+  [headers.values]
+    Cache-Control = "no-cache, must-revalidate"
+
+[[headers]]
+  for = "/learning.css"
+  [headers.values]
+    Cache-Control = "no-cache, must-revalidate"
