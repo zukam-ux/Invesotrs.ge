@@ -20,11 +20,11 @@ header{position:relative;top:auto;background:#fff;border-bottom:1px solid #dfe5e
 .finance-sections a:hover,.finance-sections a.active,.subnav a:hover,.subnav a.active{color:#087a55}
 .finance-sections a.active:after,.subnav a.active:after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:3px;border-radius:3px 3px 0 0;background:#087a55}
 .topline{background:#fff;color:#172b23;border-bottom:1px solid #dfe5e2;font-size:11px}
-.ticker{max-width:var(--header-max);min-height:80px;margin:auto;padding:0 24px;gap:0;display:flex;align-items:stretch;overflow-x:auto;scrollbar-width:none}
+.ticker{max-width:var(--header-max);min-height:80px;margin:auto;padding:9px 24px;gap:10px;display:flex;align-items:stretch;overflow-x:auto;scrollbar-width:none}
 .ticker::-webkit-scrollbar{display:none}
-.ticker:before{content:"გლობალური ბაზრები";display:flex;align-items:center;flex:0 0 175px;padding-right:24px;font-size:13px;font-weight:800;border-right:1px solid #e2e8e5}
-.ticker>span{min-width:205px;padding:15px 22px;display:flex;flex-wrap:wrap;align-content:center;gap:3px 6px;border-right:1px solid #e2e8e5;font:700 11px "DM Sans","Noto Sans Georgian",sans-serif}
-.ticker>span:last-child{min-width:250px;border-right:0}
+.ticker:before{content:"გლობალური ბაზრები";display:flex;align-items:center;flex:0 0 175px;padding-right:14px;font-size:13px;font-weight:800}
+.ticker>span{min-width:195px;padding:11px 16px;display:flex;flex-wrap:wrap;align-content:center;gap:3px 6px;border:0;border-radius:11px;background:#f6f8f7;font:700 11px "DM Sans","Noto Sans Georgian",sans-serif}
+.ticker>span:last-child{min-width:240px;background:transparent}
 .ticker>span>b{flex-basis:100%;font-size:14px;color:#172b23}
 .ticker>span>i{font-family:"Noto Sans Georgian","DM Sans",sans-serif}
 .ticker .up{color:#07845c}.ticker .down{color:#dc3345}
@@ -41,7 +41,7 @@ header{position:relative;top:auto;background:#fff;border-bottom:1px solid #dfe5e
   .nav .asset-search .nav-search{height:46px}
   .finance-sections-inner,.subnav-inner{height:48px;padding:0 16px;gap:25px}
   .finance-sections a,.subnav a{height:48px;font-size:12px}
-  .ticker{min-height:68px;padding:0 16px}
+  .ticker{min-height:68px;padding:8px 16px}
   .ticker:before{flex-basis:145px;font-size:12px}
   .ticker>span{min-width:175px;padding:11px 16px}
 }
