@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-07-24T03:49:43.443Z",
+  "updatedAt": "2026-07-24T06:42:23.733Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "01f4ef16d89747a0",
+      "title": "Google’s Earnings Could be a Bad Omen for the Rest of Big Tech",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGxSZEtILXVRcXZIZUg3enkwbDNCOEVMY1dPUTVBSm4yRlFvdkJxaXlGUllkZ0l1LWdva0FVaFhmbjBCd0hOejY3Y3JoRXJDcVpIMzJKQVVqTUlzemI1WXAtZW5PdFRuRUdDaFg3OGw3b2dXMWptOTNnR3NaRFh6TEtSb3g1anM?oc=5",
+      "publishedAt": "2026-07-24T06:30:00.000Z",
+      "titleKa": "Google-ის მოგება შეიძლება იყოს ცუდი ნიშანი დიდი ტექნოლოგიებისათვის",
+      "summaryKa": "Google-ის მოგება შესაძლოა ცუდი ნიშანი იყოს სხვა დიდი ტექნოლოგიებისათვის.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "879636c0a84149d4",
+      "title": "Iran war won't stretch into long-term conflict, impact on inflation still unclear: Strategist",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHBwWVVLVXc2VXlDN1dYa2lWbmQyU0RZVl9nS0QzaURvcUNpRGZrWlR0XzVGMTdFbFdaUmkyZGV6V2w2ekFvQ3hxdEJiYm5adEI4RjVNUWJhYV9ER0tUTGU2N2RJd1RsTUVZcHBWWkstVEt1LU5KSDhpc1RpY2hGcnJDaWNqa0c4OERseGF6akhaU19Eam1jRWU4ZjZfR1pvM2pqWGtoOA?oc=5",
+      "publishedAt": "2026-07-24T06:24:18.000Z",
+      "titleKa": "ირანის ომი არ გაწვდება ხანგრძლივ კონფლიქტში, ინფლაციის გავლენა ჯერ კიდევ გაურკვეველია: სტრატეგი",
+      "summaryKa": "ირანის ომი არ გაწვდება ხანგრძლივ კონფლიქტში, თუმცა ინფლაციის გავლენა ჯერ კიდევ გაურკვეველია.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8d10c7d2003d48ff",
+      "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUGhidl96N25mVWhXeUNXTGVONHNaeGpsTDJFZlhWUjdsaWlWQ3ZZT3RycGxNcFQ4VUxBd3B3YjRSaTdLLXBoVG1RLTJzV01UUWZ5LVhCV2dfZ2FNUlVhbXgxNlFfeG5jOWRqMVZhZHlWZ2pUa3BialRhQW5QMXFNNUUxWFhVVU40QTF0blo4R1daVU8tdmNoS0RsdmpMd3RRbWx4aHh5a1NCd295N0JFTHlpQ0drdktPM0tSbXJVWVBlZ2M?oc=5",
+      "publishedAt": "2026-07-24T06:15:07.000Z",
+      "titleKa": "Mirae გეგმავს კრიპტო ბირჟა Korbit-ის გარდაქმნას ისე, როგორც კორეამ ჯერ არ უნახავს",
+      "summaryKa": "Mirae გეგმავს Korbit-ის გარდაქმნას ახალი ფორმატით, რაც კორეაში ჯერ არ ყოფილა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d2ecfe8b4d41c198",
+      "title": "Japan’s 40-Year Yield Rises 10 Basis Points on Inflation Fears",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRk1GSmo0dHBTQ2o1dXo1MkRiVENyZXZ5bUtoUVAzRjVvWGs2b1NIWnFUQVYwMlhob1ZqMHNqYWtlWlppOVk5OUUyeXRTSmluckg1cndFcllTQWc2NzBhSmNsd2NVenMtMVBHdy1Ub3E5bFQycUNaUFJZVDJXS0pWNktGeXBkTjgwMUtDZ3J5NHdJVXFybzFvNXc3Sl9rYkFHMG5hS1JuSzRKYXN2ZjN5eUpkcw?oc=5",
+      "publishedAt": "2026-07-24T06:14:00.000Z",
+      "titleKa": "იაპონიის 40-წლიანი სესხის განაკვეთი 10 ბაზური პუნქტით გაიზარდა ინფლაციის შიშების გამო",
+      "summaryKa": "იაპონიის 40-წლიანი სესხის განაკვეთი 10 ბაზური პუნქტით გაიზარდა ინფლაციის შიშების გამო.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5f484192700df520",
+      "title": "Refining, not crude, is the oil market's biggest constraint as conflict widens: CIO",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmFWUTB0OFFad0RUUzJKUGxnNVZMTTV3YTBrT2dhVXIyaWNEalVkd1VBR0RMOUl6QzNpbUZhVTNVZzFicGlUTXMwYjBlV1NRUDdkLV9uS3pNZ1M0aHpMRTEyRTl2VmY5Z1RfQU4yLU5KVnZac2d6MkQ0ZG92TUg5Y0paSnRlZzJvbU1UXzBuRFd3eWVvajZUQ2FmUms4TWNuanppbEtiQ1ZHaUQy?oc=5",
+      "publishedAt": "2026-07-24T06:13:17.000Z",
+      "titleKa": "გადამუშავება, არა ნედლი ნავთობი, არის ნავთობის ბაზრის ყველაზე დიდი შეზღუდვა კონფლიქტის გაფართოების ფონზე: CIO",
+      "summaryKa": "ნავთობის ბაზრის ყველაზე დიდი შეზღუდვა არის გადამუშავება, არა ნედლი ნავთობი.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a1d529d011965eb2",
+      "title": "ASIA GOLD India gold discounts hit seven-week high as demand weakens; China buying improves",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORjFxX0FaWXhHWVRjbUhURlUwbzlxUXJkWkEwTEk0ZW0tUzNudHg0X1VSeTJxT3FOQXYxdkJubzFGVnJMd0F0UzQ1cXlyNWk1NUdTamZkSXZfd0JwdFA5WTVEYWl2aXZXeXk0VG5oeDRQa3dEVU1jQ0FTWUttaGZzVEI2aThXelp3b1Ewd0dvS3ZGRUNrR2x6VEhSTi10VWNWbGlhbFU4U2sxV2w2QkgzSFY5ZkxrS2xyMHhZZEkxUzdDblpV?oc=5",
+      "publishedAt": "2026-07-24T06:10:09.000Z",
+      "titleKa": "ASIA GOLD ინდოეთში ოქროს ფასები შვიდი კვირის მაქსიმუმზეა მოთხოვნის შემცირების ფონზე; ჩინეთის შესყიდვები გაუმჯობესდა",
+      "summaryKa": "ინდოეთში ოქროს ფასები შვიდი კვირის მაქსიმუმზეა, რაც მოთხოვნის შემცირებას უკავშირდება.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "818a80177d2fa5cc",
+      "title": "3 Small-Cap Biotech Stocks Pairing Rapid Revenue Growth With High Insider Ownership",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnZxd2w5R1Fub2Fxc2lnblBpTzhSbENLNjJSSUlyWnJaeVZTSGhyZHZGbElfWm5BWFV4MVRoMWlBQ2kzUDJWNHpPenhSSWhaR3hnQkNpWENWbm96Q29mVDhLX0hSMnVUajU1MEhMR3hyZURuOGg5NDBWa1MyMnp5bkVoM3RhQjlOZ0k5d21hVGg?oc=5",
+      "publishedAt": "2026-07-24T05:56:00.000Z",
+      "titleKa": "3 მცირე კაპიტალიზაციის ბიოტექნოლოგიური აქცია სწრაფი შემოსავლის ზრდით და მაღალი შიდა საკუთრებით",
+      "summaryKa": "არსებობს 3 მცირე კაპიტალიზაციის ბიოტექნოლოგიური აქცია, რომლებიც სწრაფი შემოსავლის ზრდას აჩვენებენ.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "51c8700872a17e6f",
+      "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHk2TTM1a1dPMXQtTDZXNHl0anFjcWpfWUNaOHFEb3ZfbjN6UmNrZXZNcUp4RUJ1QkdvZG9DY3JhcXFQbG1UTjBySWh0bExNMGJXMEFUQllHMmtaSjFFRUdPMVYyT0FIQ3IxeVRPWTB0MUVmZ3lpVzZlSEtTaWd2Qmo5UndmTHVsYk1uOHBrS0FSNHQ3?oc=5",
+      "publishedAt": "2026-07-24T05:46:11.000Z",
+      "titleKa": "აზიური აქციები ვარდნისკენ მიდის, რადგან ნავთობის ფასი $100-ს გადაცდება: ბაზრების მიმოხილვა",
+      "summaryKa": "აზიური აქციები ვარდნისკენ მიდის, რადგან ნავთობის ფასი $100-ს გადაცდება.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f73ca205e9b3e194",
+      "title": "Hopes for key crypto bill fade amid delays, Trump ethics controversy",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXQ3MVAzT09SVmVHNnUzS0FqNlY1YkZUZC1vTFBhdWdSV2xqbmNSUWtheUE1NGNsaUNTMjRrQ0locE9DdUEwdDJLQnhBRWNIUGRNaWZDeDBZMjE2VGNDZm83VmdsN0FfQnhQbzhTS3ZOSVRYTnlPbkJNZmt6RFdzWTBGS1lyZU5ONmhQU2R5ZEdTOGJDLXB4QjBVdG5EZlhN?oc=5",
+      "publishedAt": "2026-07-24T05:40:00.000Z",
+      "titleKa": "მნიშვნელოვანი კრიპტო კანონპროექტის იმედები ქრება დაგვიანების და ტრამპის ეთიკის სკანდალის ფონზე",
+      "summaryKa": "მნიშვნელოვანი კრიპტო კანონპროექტის იმედები ქრება დაგვიანების და ტრამპის ეთიკის სკანდალის ფონზე.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e2f2e300168cff70",
+      "title": "3 Under-The-Radar Defense Stocks With Almost No Analyst Coverage",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMERrRXNydlZPVTFnR3p4emxDa3pLNmZQQ0EyRk1qN3NTMDRRcWZ4Q1RYX2lVZ3V2aER4RjFYOE8tUDZyNmhiWmdSaTdqUVlfMzFBUEl4cDBvcjNWeEdqLVRCalJobEZ5cWR4cTZMTi14ODJ4by1TOGtzOTRKYS1NRlFlOFdwcDRjTzU4R084SUJMZkJxeUFYNw?oc=5",
+      "publishedAt": "2026-07-24T05:33:00.000Z",
+      "titleKa": "3 თავდაცვის აქცია, რომლებიც თითქმის არ აქვთ ანალიტიკოსების დაფარვა",
+      "summaryKa": "არსებობს 3 თავდაცვის აქცია, რომლებსაც თითქმის არ აქვთ ანალიტიკოსების დაფარვა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "562896eeba9804f4",
+      "title": "Medical-Device Stocks Are in the Bargain Bin. 6 to Buy.",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbklHelBkR1VOenZsSnlGcnF0Z1J1aloxejlHYWhnNFdCT3VCdndMMTZwN2Z2OWtRUVQ1LTM3U1c0VjV6bzBLWXpCVVFTZXBHT0JHRm9aZE1pdjVIczQ4SEd2TnE4UEkxLUc1UHg1TUFXQVFnQW93dHVJM3FqTDBCRV9IY0ZBY3lMSkxCMENDS0I0X2czcUlVU3JJczBBUjV6?oc=5",
+      "publishedAt": "2026-07-24T05:30:00.000Z",
+      "titleKa": "მედიცინის მოწყობილობების აქციები ფასდაკლებების რეჟიმშია. 6 შესაძენად.",
+      "summaryKa": "მედიცინის მოწყობილობების აქციები ფასდაკლებების რეჟიმშია.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d15d4c338c6bae0b",
+      "title": "BTC, ETH price news: Bitcoin steady around $65,000 as 'Mag 7' have worst day since 2025",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbDhZeE1aN0d6bkFtV19ab3lpOEFmWHQ4SjYxZklxa3NPMUlWNG5TUjhNT0hQdHdvcjJieUo5N1FveW54ZjdVN0h1UTVoRHFQTGJ1ZEpaV3hyV3Yxd1MzZkppY19QeGJpRWRVYzlCM0kzQUFkc210QjduQVJvS1hWVnQ3ZlI2VkxrMDdzQ25OTWt5blNEYlkwTUVHNUxYV042dmpQZTMxWVNxaTdxb2lvR0ZjY0oxODBKSWFKbHNVTWRzNmZLTXpXejh5cjZkZw?oc=5",
+      "publishedAt": "2026-07-24T04:47:49.000Z",
+      "titleKa": "BTC, ETH ფასების ინფორმაცია: Bitcoin-ის ფასი $65,000-ის ირგვლივ არის, რადგან 'Mag 7' 2025 წლის შემდეგ ყველაზე ცუდ დღეს აქვს",
+      "summaryKa": "Bitcoin-ის ფასი $65,000-ის ირგვლივ არის, ხოლო 'Mag 7' 2025 წლის შემდეგ ყველაზე ცუდ დღეს აქვს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "09e52bce9ce93cd4",
       "title": "Indian central bank likely steps in to avert rupee record low as oil surges, traders say",
@@ -45,17 +177,6 @@
       "titleKa": "აშშ-ირანის თავდასხმების ზრდა ნავთობის ფასების ზრდას იწვევს",
       "summaryKa": "აშშ-ირანის თავდასხმების ზრდა ნავთობის ფასების ზრდას იწვევს.",
       "category": "ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "51c8700872a17e6f",
-      "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHk2TTM1a1dPMXQtTDZXNHl0anFjcWpfWUNaOHFEb3ZfbjN6UmNrZXZNcUp4RUJ1QkdvZG9DY3JhcXFQbG1UTjBySWh0bExNMGJXMEFUQllHMmtaSjFFRUdPMVYyT0FIQ3IxeVRPWTB0MUVmZ3lpVzZlSEtTaWd2Qmo5UndmTHVsYk1uOHBrS0FSNHQ3?oc=5",
-      "publishedAt": "2026-07-24T02:45:34.000Z",
-      "titleKa": "აზიური აქციები ვარდნისკენ მიდის, რადგან ნავთობის ფასი $100-ს გადაცდება: ბაზრების მიმოხილვა",
-      "summaryKa": "აზიური აქციები ვარდნისკენ მიდის, რადგან ნავთობის ფასი $100-ს გადაცდება.",
-      "category": "აქციები",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
