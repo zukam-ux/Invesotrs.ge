@@ -56,10 +56,16 @@ function renderLiveQuoteElements(){
     chip.className=`live-change-chip ${positive?"up":"down"}`;
     chip.title="Yahoo Finance · დღიური ცვლილება";
   });
+  document.querySelectorAll("[data-live-price]").forEach(element=>{
+    const symbol=element.dataset.livePrice?.toUpperCase(),quote=liveQuoteCache.get(symbol);
+    if(!quote||!Number.isFinite(quote.price))return;
+    element.textContent=Number(quote.price).toLocaleString("en-US",{minimumFractionDigits:2,maximumFractionDigits:2});
+    element.title=`Yahoo Finance · ${quote.currency||""}`.trim();
+  });
 }
 async function refreshLiveQuotes(root=document){
-  const symbols=[...new Set([...root.querySelectorAll("[data-live-quote]")]
-    .map(element=>element.dataset.liveQuote?.toUpperCase())
+  const symbols=[...new Set([...root.querySelectorAll("[data-live-quote],[data-live-price]")]
+    .map(element=>(element.dataset.liveQuote||element.dataset.livePrice)?.toUpperCase())
     .filter(symbol=>symbol&&!liveQuoteCache.has(symbol)&&!liveQuotePending.has(symbol)))];
   if(!symbols.length){renderLiveQuoteElements();return}
   symbols.forEach(symbol=>liveQuotePending.add(symbol));
