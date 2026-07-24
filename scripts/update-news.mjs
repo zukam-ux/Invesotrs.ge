@@ -104,12 +104,8 @@ async function translateWithGemini(items) {
       body: JSON.stringify({
         contents: [{ role: "user", parts: [{ text: translationPrompt(items) }] }],
         generationConfig: {
-          responseFormat: {
-            text: {
-              mimeType: "application/json",
-              schema: translationSchema,
-            },
-          },
+          responseMimeType: "application/json",
+          responseJsonSchema: translationSchema,
         },
       }),
     },
