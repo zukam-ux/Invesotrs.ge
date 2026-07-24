@@ -55,12 +55,13 @@
   }
 
   function renderResult(asset) {
+    const quoteSymbol = asset.type === "crypto" ? `${asset.symbol}-USD` : asset.symbol;
     const kind = asset.type === "crypto"
       ? "კრიპტო ტოკენი · არ არის კომპანიის აქცია"
       : `${asset.exchange || "აშშ"} · კომპანიის ფასიანი ქაღალდი`;
     return `<a class="asset-result" href="${escapeHtml(assetUrl(asset))}">
       <i>${escapeHtml(asset.symbol.slice(0, 4))}</i>
-      <span><b>${escapeHtml(asset.name)}</b><small>${escapeHtml(asset.symbol)} · ${escapeHtml(kind)}</small></span>
+      <span><b>${escapeHtml(asset.name)} <span data-live-quote="${escapeHtml(quoteSymbol)}"></span></b><small>${escapeHtml(asset.symbol)} · ${escapeHtml(kind)}</small></span>
       <em>›</em>
     </a>`;
   }
@@ -107,6 +108,7 @@
         results.innerHTML = matches.length
           ? matches.map(renderResult).join("")
           : `<div class="asset-search-state">„${escapeHtml(input.value.trim())}“ ვერ მოიძებნა</div>`;
+        window.refreshLiveQuotes?.(results);
       } catch {
         results.innerHTML = '<div class="asset-search-state">ძიება დროებით მიუწვდომელია</div>';
       }

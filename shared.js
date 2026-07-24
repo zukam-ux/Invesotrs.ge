@@ -1,6 +1,6 @@
 const tickerMarkup=`
-  <span>S&amp;P 500 <b>TradingView</b></span>
-  <span>NASDAQ-100 ETF <b>QQQ · TradingView</b></span>
+  <span>S&amp;P 500 <b data-live-quote="^GSPC">SPX</b></span>
+  <span>NASDAQ-100 ETF <b data-live-quote="QQQ">QQQ</b></span>
   <span>BITCOIN <b data-live="btc">იტვირთება…</b> <i data-live="btc-change" style="font-style:normal"></i></span>
   <span>USD/GEL <b data-live="usd">იტვირთება…</b> <i data-live="usd-date" style="font-style:normal"></i></span>
   <span><i style="font-style:normal;color:#9eb9ac">კრიპტო: CoinGecko · კურსი: NBG</i></span>`;
@@ -38,6 +38,45 @@ async function updateSharedTicker(){
   }
 }
 updateSharedTicker();
+
+const liveQuoteCache=new Map();
+const liveQuotePending=new Set();
+function renderLiveQuoteElements(){
+  document.querySelectorAll("[data-live-quote]").forEach(element=>{
+    const symbol=element.dataset.liveQuote?.toUpperCase(),quote=liveQuoteCache.get(symbol);
+    if(!quote||!Number.isFinite(quote.changePercent))return;
+    let chip=element.querySelector(":scope > .live-change-chip");
+    if(!chip){
+      chip=document.createElement("span");
+      chip.className="live-change-chip";
+      element.appendChild(chip);
+    }
+    const positive=quote.changePercent>=0;
+    chip.textContent=`${positive?"+":"−"}${Math.abs(quote.changePercent).toFixed(2)}%`;
+    chip.className=`live-change-chip ${positive?"up":"down"}`;
+    chip.title="Yahoo Finance · დღიური ცვლილება";
+  });
+}
+async function refreshLiveQuotes(root=document){
+  const symbols=[...new Set([...root.querySelectorAll("[data-live-quote]")]
+    .map(element=>element.dataset.liveQuote?.toUpperCase())
+    .filter(symbol=>symbol&&!liveQuoteCache.has(symbol)&&!liveQuotePending.has(symbol)))];
+  if(!symbols.length){renderLiveQuoteElements();return}
+  symbols.forEach(symbol=>liveQuotePending.add(symbol));
+  try{
+    for(let index=0;index<symbols.length;index+=20){
+      const batch=symbols.slice(index,index+20);
+      const payload=await sharedFetchJson(`/api/news-quotes?symbols=${encodeURIComponent(batch.join(","))}`);
+      Object.entries(payload.quotes||{}).forEach(([symbol,quote])=>liveQuoteCache.set(symbol.toUpperCase(),quote));
+    }
+  }catch(_){}
+  finally{
+    symbols.forEach(symbol=>liveQuotePending.delete(symbol));
+    renderLiveQuoteElements();
+  }
+}
+window.refreshLiveQuotes=refreshLiveQuotes;
+refreshLiveQuotes();
 
 function escapeNews(value=""){
   return String(value).replace(/[&<>"']/g,char=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]));
@@ -246,5 +285,5 @@ document.querySelectorAll(".nav-search:not([data-asset-search])").forEach(input 
   }
 });
 const assetSearchScript = document.createElement("script");
-assetSearchScript.src = "asset-search.js?v=20260723-symbol-fix";
+assetSearchScript.src = "asset-search.js?v=20260724-live-quotes";
 document.body.appendChild(assetSearchScript);

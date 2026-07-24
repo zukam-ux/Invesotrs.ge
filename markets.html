@@ -16,7 +16,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+Georgian:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="shared.css?v=20260724-ui-polish-3">
+  <link rel="stylesheet" href="shared.css?v=20260724-live-quotes">
   <style>
     .market-hero{padding:38px 0 25px}.market-hero h1{font-size:40px;line-height:1.15;letter-spacing:-1.6px;margin:10px 0 12px}.market-hero>p{color:var(--muted);max-width:760px;line-height:1.75;font-size:13px;margin:0}
     .directory-search{position:relative;max-width:none;width:100%;margin:25px 0 11px}.directory-search:before{left:23px;width:16px;height:16px;border-width:2px}.directory-search:after{left:35px;width:7px;height:2px}.directory-search .nav-search{height:64px;font-size:16px;font-weight:600;padding:0 116px 0 56px;border:1px solid rgba(0,143,92,.2);border-radius:18px;background:rgba(255,255,255,.96);box-shadow:0 14px 42px rgba(15,70,48,.08),0 1px 0 #fff inset}.directory-search .nav-search:hover{border-color:rgba(0,143,92,.38);box-shadow:0 18px 46px rgba(15,70,48,.11)}.directory-search .asset-search-results{left:0;right:auto;top:72px;width:100%}.directory-search .search-key{position:absolute;right:15px;top:50%;transform:translateY(-50%);z-index:3;border:1px solid var(--line);border-radius:10px;background:var(--paper);padding:7px 10px;color:var(--muted);font:700 10px "DM Sans";pointer-events:none}
@@ -63,10 +63,10 @@
       <div class="popular-wrap">
         <div class="popular-label"><b>პოპულარული აქტივები</b><span>სწრაფი არჩევანი</span></div>
         <div class="popular-assets">
-          <a href="markets.html?type=security&symbol=SPCX&name=SpaceX&exchange=Nasdaq&tv=NASDAQ%3ASPCX&cik=0001181412"><i class="asset-mark">SPX</i><span class="asset-copy"><b>SPCX</b><small>SpaceX · Nasdaq</small></span><i class="asset-go">→</i></a>
-          <a href="markets.html?type=security&symbol=AAPL&name=Apple%20Inc.&exchange=Nasdaq&tv=NASDAQ%3AAAPL&cik=0000320193"><i class="asset-mark">AAPL</i><span class="asset-copy"><b>AAPL</b><small>Apple · Nasdaq</small></span><i class="asset-go">→</i></a>
-          <a href="markets.html?type=security&symbol=NVDA&name=NVIDIA%20Corp.&exchange=Nasdaq&tv=NASDAQ%3ANVDA&cik=0001045810"><i class="asset-mark">NVDA</i><span class="asset-copy"><b>NVDA</b><small>NVIDIA · Nasdaq</small></span><i class="asset-go">→</i></a>
-          <a href="markets.html?type=crypto&symbol=BTC&name=Bitcoin&coin=bitcoin"><i class="asset-mark">BTC</i><span class="asset-copy"><b>BTC</b><small>Bitcoin · Crypto</small></span><i class="asset-go">→</i></a>
+          <a href="markets.html?type=security&symbol=SPCX&name=SpaceX&exchange=Nasdaq&tv=NASDAQ%3ASPCX&cik=0001181412"><i class="asset-mark">SPX</i><span class="asset-copy"><b data-live-quote="SPCX">SPCX</b><small>SpaceX · Nasdaq</small></span><i class="asset-go">→</i></a>
+          <a href="markets.html?type=security&symbol=AAPL&name=Apple%20Inc.&exchange=Nasdaq&tv=NASDAQ%3AAAPL&cik=0000320193"><i class="asset-mark">AAPL</i><span class="asset-copy"><b data-live-quote="AAPL">AAPL</b><small>Apple · Nasdaq</small></span><i class="asset-go">→</i></a>
+          <a href="markets.html?type=security&symbol=NVDA&name=NVIDIA%20Corp.&exchange=Nasdaq&tv=NASDAQ%3ANVDA&cik=0001045810"><i class="asset-mark">NVDA</i><span class="asset-copy"><b data-live-quote="NVDA">NVDA</b><small>NVIDIA · Nasdaq</small></span><i class="asset-go">→</i></a>
+          <a href="markets.html?type=crypto&symbol=BTC&name=Bitcoin&coin=bitcoin"><i class="asset-mark">BTC</i><span class="asset-copy"><b data-live-quote="BTC-USD">BTC</b><small>Bitcoin · Crypto</small></span><i class="asset-go">→</i></a>
         </div>
       </div>
     </section>
@@ -98,7 +98,7 @@
 
   <footer class="footer"><div class="footer-in"><div><a class="logo" href="index.html">Investors<span>.ge</span></a><p>გლობალური საინვესტიციო ინფორმაცია ქართულად.</p></div><div><h4>პროდუქტი</h4><a href="markets.html">ბაზრები</a><a href="news.html">სიახლეები</a></div><div><h4>ცოდნა</h4><a href="learn.html">ისწავლე</a><a href="tools.html">კალკულატორები</a></div><div><h4>წყაროები</h4><a href="https://www.sec.gov/" target="_blank" rel="noopener">SEC</a><a href="https://www.coingecko.com/" target="_blank" rel="noopener">CoinGecko</a></div></div></footer>
 
-  <script src="shared.js?v=20260724-ui-polish-3"></script>
+  <script src="shared.js?v=20260724-live-quotes"></script>
   <script>
     const params = new URLSearchParams(location.search);
     const asset = {
@@ -198,6 +198,8 @@
       quoteIcon.textContent = asset.symbol.slice(0, 4);
       quoteName.textContent = asset.name || asset.symbol;
       quoteMeta.textContent = `${asset.symbol} · ${asset.type === "crypto" ? "CRYPTO" : asset.exchange || "SECURITY"}`;
+      quoteMeta.dataset.liveQuote = asset.type === "crypto" ? `${asset.symbol}-USD` : asset.symbol;
+      window.refreshLiveQuotes?.();
       document.title = `${asset.symbol} — ${asset.name || "ბაზარი"} | Investors.ge`;
       const isCrypto = asset.type === "crypto";
       const tvSymbol = isCrypto ? cryptoChartSymbol(asset.symbol) : (asset.tv || asset.symbol);
