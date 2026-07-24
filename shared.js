@@ -5,6 +5,34 @@ const tickerMarkup=`
   <span>USD/GEL <b data-live="usd">იტვირთება…</b> <i data-live="usd-date" style="font-style:normal"></i></span>
   <span><i style="font-style:normal;color:#9eb9ac">კრიპტო: CoinGecko · კურსი: NBG</i></span>`;
 document.querySelectorAll('[data-ticker]').forEach(el=>el.innerHTML=tickerMarkup);
+(() => {
+  const style=document.createElement('link');
+  style.rel='stylesheet';
+  style.href='finance-header.css?v=20260725-yahoo-layout';
+  document.head.appendChild(style);
+
+  const header=document.querySelector('header');
+  const topline=document.querySelector('.topline');
+  if(!header||!topline)return;
+
+  let sections=document.querySelector('.subnav');
+  if(!sections){
+    const path=location.pathname.split('/').pop()||'index.html';
+    const items=[
+      ['index.html','მთავარი'],
+      ['markets.html','ბაზრები'],
+      ['news.html','ბოლო ამბები'],
+      ['learn.html','ინვესტირების საფუძვლები'],
+      ['compare.html','ბანკები და ბროკერები'],
+      ['tools.html','კალკულატორები']
+    ];
+    sections=document.createElement('div');
+    sections.className='finance-sections';
+    sections.innerHTML=`<nav class="finance-sections-inner" aria-label="ფინანსური განყოფილებები">${items.map(([href,label])=>`<a href="${href}"${path===href?' class="active"':''}>${label}</a>`).join('')}</nav>`;
+    header.after(sections);
+  }
+  sections.after(topline);
+})();
 document.querySelectorAll('[data-year]').forEach(el=>el.textContent=new Date().getFullYear());
 
 async function sharedFetchJson(url,timeout=7000){
