@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-07-24T15:32:27.497Z",
+  "updatedAt": "2026-07-24T17:48:23.948Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "2c3b53e4bb76d64b",
+      "title": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQUN6bHIyMWpLeE5OT0MyOGZMaTNwQWZfamd6NGt1X2w3WjdGSzlmOHJsWV95RG5qT254MnhwcDF6QUJWOHgtbFVOYzZ2RWJJMzR3WXY4VWhPYk9DcXE3Ti1zMDM3UnMwRHpnSl82cWxkTlU1YS1DOEszdTNyOFBVUVFtZE9SWmtSdjFJZ2VhTlVuTGRtRDdxYzh0SEpyUExpU0hOU1NERS1FeWdjZy1XWVpOQjRSMy1sWWp0Z0J0V3dyZw?oc=5",
+      "publishedAt": "2026-07-24T17:28:15.000Z",
+      "titleKa": "მომგებიანი ვაჭარი, რომელმაც Tesla-ის აქციები მოკლედ გაყიდა, ახლა ამ მაღალმფრინავზე ამახვილებს ყურადღებას",
+      "summaryKa": "ვაჭარი, რომელმაც წარმატებით მოკლედ გაყიდა Tesla-ის აქციები, ახლა სხვა მაღალმფრინავზე ამახვილებს ყურადღებას.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "32e5be603ec8618e",
+      "title": "Intel’s Strong Earnings Couldn’t Save the Stock From an AI Spending Panic",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2pJUGE5bzVQOGxNZk9ZWWp3cFdfeG10d292d0M5UXgxMlBEVkt2cFlHdzBKZDJsQUg0TnpGMlBrc3A5U0hWb1RocjA5dVZCamdEN0EyUlczRHB5YXlkTk53cHdQZ1pLSmdVSjAyZGsyWnM4UDJRS01weXdTcVEyTkp2bw?oc=5",
+      "publishedAt": "2026-07-24T17:21:00.000Z",
+      "titleKa": "Intel-ის ძლიერი მოგება ვერ გადაარჩინა აქცია AI ხარჯების პანიკისგან",
+      "summaryKa": "Intel-ის ძლიერი მოგება ვერ გადაარჩინა აქცია AI ხარჯების პანიკის ფონზე.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a6125be7e2f8f0f1",
+      "title": "Focused on AI hyperscaler capex and the price of oil, says FL Putnam's Ellen Hazen",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDZKcG1DdTNobHdyVmVKUldiZlRLZ2lqUUpfOUgtQnB3dVlZeEdLWkpfUDdfa1BmR0c5RTd3SEtUcUdqNVNhYy1JWnQxWTNGaFJrQXJFRkpfOEhnaXdkdE5NWFJSTVpNaTNUaWI0LTFOVG5uVE9pLVV1dnZJOTJEMlJRbGE5Sm9GZW9hTlBLWkQya0w3R0I0LTJWZ25XMEZnbGpCWUpoQzViV1NGQmZIeU02WS1PeldyLThBZDk3SzY?oc=5",
+      "publishedAt": "2026-07-24T17:16:17.000Z",
+      "titleKa": "FL Putnam-ის ელენ ჰაზენი AI ჰიპერსკეალერის კაპექსა და ნავთობის ფასზე საუბრობს",
+      "summaryKa": "ელენ ჰაზენი საუბრობს AI ჰიპერსკეალერის კაპექსზე და ნავთობის ფასზე.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e0de8e93143d97ef",
+      "title": "3 Stocks Under $50 with Warning Signs",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmlYMV9ZU1dxeWJSMjAxcjNhSDdNajk5ajJZUU4xSnRxc0Z4MTk3TW1ZRGozSE84bUlnTzhNTGpzNk4yeVBOLU5ET2gxWnJ2SWFxRGlCMGtWTDFxRHF4WFhqUmYwWlRXYW9PSVF0TVhwLVJrMEYwMm51VkhRSmRqSVNLUXhVUXBGZTl5NHFJd002MnJD?oc=5",
+      "publishedAt": "2026-07-24T17:13:08.000Z",
+      "titleKa": "50 დოლარამდე 3 აქცია გაფრთხილების ნიშნებით",
+      "summaryKa": "გაფრთხილების ნიშნებით 50 დოლარამდე 3 აქციაა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e356108e1b3c8b94",
+      "title": "Final Trades: Goldman Sachs Nasdaq-100 Premium, IBM, Google and Amazon",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2thcW5iakl4RDNIZ1U1amxOQ3JpXzNHX0lqdHpvM2V2SGdNR3NHQjJHMjVrVUZfWUw2QjdMclk3bWVyNG90VXhua3RKbU1ROXVhTXd2QV9IVUFvTS1HaDk3QlJHcVlPd0xvUTFGejZfX1NLVEI5TGVuRjNXRE5SaWhNZFpsUTl6NVowcndFdmpDXzc0eER2QmJWM1VkVmRxdXVPMXFZckE4OVNRcEN3?oc=5",
+      "publishedAt": "2026-07-24T17:05:57.000Z",
+      "titleKa": "ბოლო ვაჭრობები: Goldman Sachs Nasdaq-100 პრემია, IBM, Google და Amazon",
+      "summaryKa": "ბოლო ვაჭრობებში Goldman Sachs Nasdaq-100 პრემია, IBM, Google და Amazon არიან.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9cc94ba9766703d1",
+      "title": "1 S&P 500 Stock to Consider Right Now and 2 That Underwhelm",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajZheURHOU1QZHlRTTdpZHJFMEpTc1hFN0pYNGU3MjBkYkw2R29kZS1iVFN5V3c3ZW1XU2pZeGRsNEVXak8tQ3NvNUtLeHVKVm0yaGp2WnhVbHZhdGhQYUQxMEM4VGUwZm5LUFUtRVpVV2Z3VHpUWHByRzBGTmp0Z1ZfYmFCR0d2QkI2Ym1WYVA?oc=5",
+      "publishedAt": "2026-07-24T17:05:08.000Z",
+      "titleKa": "1 S&P 500 აქცია, რომელსაც ახლა უნდა მიაქციოთ ყურადღება და 2, რომლებიც არ იმედს არ ამართლებენ",
+      "summaryKa": "არსებობს 1 S&P 500 აქცია, რომელსაც ახლა უნდა მიაქციოთ ყურადღება და 2, რომლებიც არ იმედს არ ამართლებენ.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "395cc9b4bb39b513",
+      "title": "Digital Realty Trust Is Today's Best S&P 500 Stock as Data Center Demand Backs Strong Earnings",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS3RWT1hfNWhrRk0yQlc5bVRDUk5oQ0E4UVhYdEs3VHpoaDFjb184bG5BOGJUWHAxOFJGLWIxbUNqRHR0bGREMFZNeXY0ejYxVjY3Wmxld0RqcVd0ZUNTM0ZWemhTYWxfWFd5Q3d0U0JJY2lhdlBPa29YRC11cTNGVDRXMW5DSWV5LTlz?oc=5",
+      "publishedAt": "2026-07-24T17:01:00.000Z",
+      "titleKa": "Digital Realty Trust არის დღეს საუკეთესო S&P 500 აქცია, რადგან მონაცემთა ცენტრის მოთხოვნა ძლიერი მოგების მხარდაჭერას უწევს",
+      "summaryKa": "Digital Realty Trust არის დღეს საუკეთესო S&P 500 აქცია, რადგან მონაცემთა ცენტრის მოთხოვნა ძლიერი მოგების მხარდაჭერას უწევს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2917021b908f89e7",
+      "title": "2 of Wall Street’s Favorite Stocks to Target This Week and 1 That Underwhelm",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXhsQmp4WWpSa2xidUU1WVNVSmY5THdFREhFUFc4alQtNDZTNTVwdDNxdElsMm5GdWJzakpIZl9McTdYcWREX3A4dFhZazI1WTlhRlE2dDAxUjh4RGlBTUdJeXZwYUlkX09SMDgyUUZQZ3JrRF92WWVQaXFPM2c0OFNkem83S1BwbnZQQlpmRDFnc3JvS0pxMWpn?oc=5",
+      "publishedAt": "2026-07-24T16:49:08.000Z",
+      "titleKa": "უოლ სტრიტის 2 საყვარელი აქცია, რომლებსაც ამ კვირაში უნდა მიაქციოთ ყურადღება და 1, რომელიც არ იმედს არ ამართლებს",
+      "summaryKa": "უოლ სტრიტის 2 საყვარელი აქციაა, რომლებსაც ამ კვირაში უნდა მიაქციოთ ყურადღება და 1, რომელიც არ იმედს არ ამართლებს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "db8a58747c316f11",
+      "title": "Community Bancorp. Reports Second Quarter 2026 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWThOdzNpS0xiR2tkajBmVXNEazdDMTBxLTg1SUtHcjI4OTZ2SFVsZ3M4djR6algzMlBaTWlCWWFSOTNDd3BNWm9qSTBoRDRCY1VCVVB1UV9pbzdYRFhWaGtmUUsyY0IyU0ZLVW5EV25qR0ZkQ0NYY1BEY2gyU2FjQVRDYk04cnlPcG1yUDFSRC1nMTJ1VlhZS0JnaWZNczNzQ2JRNTJYV1I?oc=5",
+      "publishedAt": "2026-07-24T16:45:00.000Z",
+      "titleKa": "Community Bancorp. 2026 წლის მეორე კვარტლის მოგებას ავრცელებს",
+      "summaryKa": "Community Bancorp. ავრცელებს 2026 წლის მეორე კვარტლის მოგებას.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4abe010ea0802318",
+      "title": "Strategy Overhauls Bitcoin Metrics, Debuting 'Net Bitcoin Per Share'",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaUFEUGRXVnhESzE2cWRZcmkwU2stNUt3dWxsYzBhTnhJSGNSR2UxNVFkV3R3V2R4MVdLSHVkTVJCV1BWOHJnYVA3ZktabUk4czk3V09WVExkUFlIVDRNc2p6OXVZeC1raXV0eDlRdVRvbjJkeTJ5Xy1JU2pwelQxQWxLR0FYd0hDVE81ek4zVnZHZ25NNHR4cTU0TzB4bnFMYXdaZWd2MVNUdkdS?oc=5",
+      "publishedAt": "2026-07-24T16:21:52.000Z",
+      "titleKa": "სტრატეგია Bitcoin-ის მეტრიკის გადახედვას ახორციელებს, იწყებს 'Net Bitcoin Per Share'-ის გაწვდას",
+      "summaryKa": "სტრატეგია Bitcoin-ის მეტრიკის გადახედვას ახორციელებს და იწყებს 'Net Bitcoin Per Share'-ის გაწვდას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c7a4f42cd1abb8eb",
+      "title": "Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0ZIWHFLM1ZnbGVEMGRoVVMtUk4yMEFGNTAxajdqSzB5QlV4XzMwcmw3RXUzaUJGSlRaaGp0MDI1Xzl4RmRnR1ZLREpYT1ZuYzF0UExuN0FrendBNGdKeUF3QVY2UGhHdHYtT3BOb2JBSE1QU1YxSk1MWWFmYko0SUtxTm91N3JXR3M1YmJKajJDbXZjNzhlWm1YWlA?oc=5",
+      "publishedAt": "2026-07-24T16:17:37.000Z",
+      "titleKa": "Bitcoin ETF-ებმა $225M დაკარგა, რაც 7-დღიანი შემოსვლის სერიას ამთავრებს ირანის დაძაბულობის ფონზე",
+      "summaryKa": "Bitcoin ETF-ებმა $225M დაკარგა, რაც 7-დღიანი შემოსვლის სერიას ამთავრებს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "994c94de47d69a8e",
+      "title": "MARA Holdings (MARA) Following Bitcoin Sales And Earnings Focus As Fair Value Debate Builds",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQk5LQmpGTmxsTmRzbXBjWk1iRnRWMVY2dEZEU091QkJBWlpRX0FZa1Z6TXBoNU1pMUtDUVVnSVRjaUhZbVY3SWRPVlJEY044OWdLQVFwcFFVamRYM3RfTm0xTUJRZnZyZWh2cGdjLVlsMUZVcVE3Wm45UXRPTDQ4MFNNaV8zTng4dk5vWTA1SzA4ODR2ZGdGc3FEMjJxWHk5eUY0?oc=5",
+      "publishedAt": "2026-07-24T16:12:09.000Z",
+      "titleKa": "MARA Holdings (MARA) Bitcoin-ის გაყიდვების და მოგების ყურადღების ცენტრშია, რადგან სამართლიანი ღირებულების დებატები მიმდინარეობს",
+      "summaryKa": "MARA Holdings (MARA) Bitcoin-ის გაყიდვების და მოგების ყურადღების ცენტრშია.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "9a33b86191f1db9d",
       "title": "Gold prices today, Friday, July 24, 2026: Gold price remains below $4,100 ahead of next week’s rate decision",
