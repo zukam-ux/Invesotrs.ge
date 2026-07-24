@@ -229,6 +229,13 @@ const items = selectedItems
   .slice(0, 12);
 if (items.length < 3) throw new Error("Global news feed returned too few usable stories");
 
+if (process.env.GEMINI_SMOKE_TEST === "true") {
+  const smokeTest = await translateWithGemini(items.slice(0, 2));
+  if (smokeTest.size !== 2) throw new Error(`Gemini smoke test returned ${smokeTest.size}/2 stories`);
+  console.log("Gemini smoke test translated 2/2 stories successfully");
+  process.exit(0);
+}
+
 let previous = { articles: [] };
 try {
   previous = JSON.parse(await readFile(OUTPUT_PATH, "utf8"));
