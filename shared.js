@@ -44,29 +44,35 @@ function escapeNews(value=""){
 }
 function relativeNewsTime(value){
   const hours=Math.max(0,Math.floor((Date.now()-new Date(value).getTime())/36e5));
-  if(hours<1)return "ბოლო საათში";
-  if(hours<24)return `${hours} საათის წინ`;
-  return new Date(value).toLocaleDateString("ka-GE");
+  if(hours<1)return "გამოქვეყნდა ბოლო საათში";
+  if(hours<24)return `გამოქვეყნდა ${hours} საათის წინ`;
+  return `გამოქვეყნდა ${new Date(value).toLocaleDateString("ka-GE")}`;
 }
 function identifyNewsAsset(article){
   const text=`${article.title||""} ${article.titleKa||""}`.toLowerCase();
+  const explicitTicker=(article.title||"").match(/\b(?:NASDAQ|NYSE|AMEX):([A-Z][A-Z0-9.-]{0,7})\b/i)?.[1]?.toUpperCase();
+  if(explicitTicker)return {symbol:explicitTicker,name:explicitTicker,quoteSymbol:explicitTicker};
   const identities=[
-    {match:/pinnacle financial/,symbol:"PNFP",name:"Pinnacle Financial",logo:"https://s3-symbol-logo.tradingview.com/pinnacle-financial-partners--big.svg"},
-    {match:/td bank|toronto-dominion/,symbol:"TD",name:"TD Bank",logo:"https://s3-symbol-logo.tradingview.com/toronto-dominion-bank--big.svg"},
-    {match:/tesla|tsla/,symbol:"TSLA",name:"Tesla",logo:"https://s3-symbol-logo.tradingview.com/tesla--big.svg"},
-    {match:/alphabet|google|googl/,symbol:"GOOGL",name:"Alphabet",logo:"https://s3-symbol-logo.tradingview.com/alphabet--big.svg"},
-    {match:/nvidia|nvda/,symbol:"NVDA",name:"NVIDIA",logo:"https://s3-symbol-logo.tradingview.com/nvidia--big.svg"},
-    {match:/apple|aapl/,symbol:"AAPL",name:"Apple",logo:"https://s3-symbol-logo.tradingview.com/apple--big.svg"},
-    {match:/microsoft|msft/,symbol:"MSFT",name:"Microsoft",logo:"https://s3-symbol-logo.tradingview.com/microsoft--big.svg"},
-    {match:/amazon|amzn/,symbol:"AMZN",name:"Amazon",logo:"https://s3-symbol-logo.tradingview.com/amazon--big.svg"},
-    {match:/meta platforms|facebook|meta stock/,symbol:"META",name:"Meta",logo:"https://s3-symbol-logo.tradingview.com/meta-platforms--big.svg"},
+    {match:/pinnacle financial/,symbol:"PNFP",name:"Pinnacle Financial",quoteSymbol:"PNFP",logo:"https://s3-symbol-logo.tradingview.com/pinnacle-financial-partners--big.svg"},
+    {match:/td bank|toronto-dominion/,symbol:"TD",name:"TD Bank",quoteSymbol:"TD",logo:"https://s3-symbol-logo.tradingview.com/toronto-dominion-bank--big.svg"},
+    {match:/tesla|tsla/,symbol:"TSLA",name:"Tesla",quoteSymbol:"TSLA",logo:"https://s3-symbol-logo.tradingview.com/tesla--big.svg"},
+    {match:/alphabet|google|googl/,symbol:"GOOGL",name:"Alphabet",quoteSymbol:"GOOGL",logo:"https://s3-symbol-logo.tradingview.com/alphabet--big.svg"},
+    {match:/nvidia|nvda/,symbol:"NVDA",name:"NVIDIA",quoteSymbol:"NVDA",logo:"https://s3-symbol-logo.tradingview.com/nvidia--big.svg"},
+    {match:/apple|aapl/,symbol:"AAPL",name:"Apple",quoteSymbol:"AAPL",logo:"https://s3-symbol-logo.tradingview.com/apple--big.svg"},
+    {match:/microsoft|msft/,symbol:"MSFT",name:"Microsoft",quoteSymbol:"MSFT",logo:"https://s3-symbol-logo.tradingview.com/microsoft--big.svg"},
+    {match:/amazon|amzn/,symbol:"AMZN",name:"Amazon",quoteSymbol:"AMZN",logo:"https://s3-symbol-logo.tradingview.com/amazon--big.svg"},
+    {match:/meta platforms|facebook|meta stock/,symbol:"META",name:"Meta",quoteSymbol:"META",logo:"https://s3-symbol-logo.tradingview.com/meta-platforms--big.svg"},
+    {match:/stifel/,symbol:"SF",name:"Stifel",quoteSymbol:"SF"},
+    {match:/amgen|amgn/,symbol:"AMGN",name:"Amgen",quoteSymbol:"AMGN"},
+    {match:/morgan stanley/,symbol:"MS",name:"Morgan Stanley",quoteSymbol:"MS"},
+    {match:/goldman sachs/,symbol:"GS",name:"Goldman Sachs",quoteSymbol:"GS"},
     {match:/spacex|spcx/,symbol:"SPCX",name:"SpaceX",logo:"https://s3-symbol-logo.tradingview.com/spacex--big.svg"},
-    {match:/bitcoin.*ethereum|ethereum.*bitcoin|ბიტკოინ.*ეთერიუმ|ეთერიუმ.*ბიტკოინ/,symbol:"BTC · ETH",name:"Bitcoin & Ethereum",logo:"https://coin-images.coingecko.com/coins/images/1/small/bitcoin.png"},
-    {match:/bitcoin|btc|ბიტკოინ/,symbol:"BTC",name:"Bitcoin",logo:"https://coin-images.coingecko.com/coins/images/1/small/bitcoin.png"},
-    {match:/ethereum|ether|eth|ეთერიუმ/,symbol:"ETH",name:"Ethereum",logo:"https://coin-images.coingecko.com/coins/images/279/small/ethereum.png"},
-    {match:/s&p 500|spx/,symbol:"SPX",name:"S&P 500",logo:"https://s3-symbol-logo.tradingview.com/s-and-p-500--big.svg"},
-    {match:/nasdaq/,symbol:"IXIC",name:"Nasdaq",logo:"https://s3-symbol-logo.tradingview.com/nasdaq--big.svg"},
-    {match:/oil|crude|ნავთობ/,symbol:"OIL",name:"ნავთობი"},
+    {match:/bitcoin.*ethereum|ethereum.*bitcoin|ბიტკოინ.*ეთერიუმ|ეთერიუმ.*ბიტკოინ/,symbol:"BTC · ETH",name:"Bitcoin & Ethereum",quoteSymbol:"BTC-USD",logo:"https://coin-images.coingecko.com/coins/images/1/small/bitcoin.png"},
+    {match:/bitcoin|btc|ბიტკოინ/,symbol:"BTC",name:"Bitcoin",quoteSymbol:"BTC-USD",logo:"https://coin-images.coingecko.com/coins/images/1/small/bitcoin.png"},
+    {match:/ethereum|ether|eth|ეთერიუმ/,symbol:"ETH",name:"Ethereum",quoteSymbol:"ETH-USD",logo:"https://coin-images.coingecko.com/coins/images/279/small/ethereum.png"},
+    {match:/s&p 500|spx/,symbol:"SPX",name:"S&P 500",quoteSymbol:"^GSPC",logo:"https://s3-symbol-logo.tradingview.com/s-and-p-500--big.svg"},
+    {match:/nasdaq/,symbol:"IXIC",name:"Nasdaq",quoteSymbol:"^IXIC",logo:"https://s3-symbol-logo.tradingview.com/nasdaq--big.svg"},
+    {match:/oil|crude|ნავთობ/,symbol:"OIL",name:"ნავთობი",quoteSymbol:"CL=F"},
     {match:/ecb|european central|ევროპის ცენტრალურ/,symbol:"ECB",name:"ევროპის ცენტრალური ბანკი"},
     {match:/mortgage|მორტგაჟ/,symbol:"RATE",name:"საპროცენტო განაკვეთები"},
     {match:/crypto|კრიპტო/,symbol:"CRYPTO",name:"კრიპტო ბაზარი",logo:"https://coin-images.coingecko.com/coins/images/1/small/bitcoin.png"}
@@ -79,7 +85,7 @@ function newsPhoto(article,index=0){
     {match:/tesla|electric|auto|vehicle/,url:"https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1400&q=82"},
     {match:/google|alphabet|technology|tech|ai |chip|nvidia|intel|amd/,url:"https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=82"},
     {match:/bitcoin|ethereum|crypto|cardano|blockchain/,url:"https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1400&q=82"},
-    {match:/oil|crude|energy|opec/,url:"https://images.unsplash.com/photo-1519003300449-424ad0405076?auto=format&fit=crop&w=1400&q=82"},
+    {match:/oil|crude|energy|opec/,url:"https://images.unsplash.com/photo-1629540946404-ebe133e99f49?auto=format&fit=crop&w=1400&q=82"},
     {match:/bank|treasury|yield|rate|ecb|fed|mortgage/,url:"https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1400&q=82"},
     {match:/europe|dax|ftse|euro/,url:"https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1400&q=82"},
     {match:/asia|china|japan|nikkei|hang seng/,url:"https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?auto=format&fit=crop&w=1400&q=82"},
@@ -92,8 +98,23 @@ function newsPhoto(article,index=0){
   ];
   return photos.find(photo=>photo.match.test(text))?.url||fallbacks[index%fallbacks.length];
 }
+let newsQuotes={};
+function newsQuoteBadge(identity){
+  const quote=identity.quoteSymbol?newsQuotes[identity.quoteSymbol]:null;
+  if(!quote||!Number.isFinite(quote.changePercent))return "";
+  const positive=quote.changePercent>=0;
+  return `<span class="news-quote-chip ${positive?"up":"down"}">${positive?"+":""}${quote.changePercent.toFixed(2)}%</span>`;
+}
+async function loadNewsQuotes(articles){
+  const symbols=[...new Set(articles.map(article=>identifyNewsAsset(article).quoteSymbol).filter(Boolean))].slice(0,20);
+  if(!symbols.length)return;
+  try{
+    const payload=await sharedFetchJson(`/api/news-quotes?symbols=${encodeURIComponent(symbols.join(","))}`);
+    newsQuotes=payload.quotes||{};
+  }catch(_){}
+}
 function editorialIdentity(identity,article){
-  return `<span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)}</b><small>${relativeNewsTime(article.publishedAt)} · ${escapeNews(article.source)}</small></span></span>`;
+  return `<span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)} ${newsQuoteBadge(identity)}</b><small>${relativeNewsTime(article.publishedAt)} · ${escapeNews(article.source)}</small></span></span>`;
 }
 function renderEditorialHome(target,articles){
   const selected=articles.slice(0,8),lead=selected[0],features=selected.slice(1,3),rail=selected.slice(3,8);
@@ -129,7 +150,7 @@ function renderEditorialHome(target,articles){
           const identity=identifyNewsAsset(article);
           return `<a class="editorial-row" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
             <i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i>
-            <span><h4>${escapeNews(article.titleKa)}</h4><small>${escapeNews(article.source)} · ${relativeNewsTime(article.publishedAt)}</small></span>
+            <span><h4>${escapeNews(article.titleKa)} ${newsQuoteBadge(identity)}</h4><small>${escapeNews(article.source)} · ${relativeNewsTime(article.publishedAt)}</small></span>
           </a>`;
         }).join("")}
       </div>
@@ -144,18 +165,36 @@ async function loadGlobalNews(){
     const response=await fetch(`/data/global-news.json?v=${Math.floor(Date.now()/36e5)}`);
     if(!response.ok)throw new Error("news unavailable");
     const data=await response.json();
+    await loadNewsQuotes(data.articles||[]);
     editorialTargets.forEach(target=>renderEditorialHome(target,data.articles||[]));
     targets.forEach(target=>{
-      const limit=Number(target.dataset.limit||9),offset=Number(target.dataset.offset||0),articles=(data.articles||[]).slice(offset,offset+limit);
-      target.innerHTML=articles.length?articles.map(article=>{
-        const identity=identifyNewsAsset(article);
-        return `
-        <a class="auto-news-card" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
-          <span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)}</b><small>${relativeNewsTime(article.publishedAt)} · ${escapeNews(article.source)} · ${escapeNews(article.category)}</small></span></span>
-          <h3>${escapeNews(article.titleKa)}</h3>
-          <p>${escapeNews(article.summaryKa)}</p>
-          <span class="meta"><span class="translation-label">AI თარგმანი</span> · პირველწყარო ↗</span>
-        </a>`}).join(""):'<div class="news-status">პირველი ავტომატური განახლება მზადდება. გლობალური ამბები საათში ერთხელ განახლდება.</div>';
+      const pageSize=Number(target.dataset.limit||9);
+      const allArticles=(data.articles||[]).slice(Number(target.dataset.offset||0));
+      let visibleCount=Math.min(pageSize,allArticles.length);
+      const renderArchive=()=>{
+        const articles=allArticles.slice(0,visibleCount);
+        target.innerHTML=articles.length?articles.map(article=>{
+          const identity=identifyNewsAsset(article);
+          return `
+          <a class="auto-news-card" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
+            <span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)} ${newsQuoteBadge(identity)}</b><small>${relativeNewsTime(article.publishedAt)} · ${escapeNews(article.source)} · ${escapeNews(article.category)}</small></span></span>
+            <h3>${escapeNews(article.titleKa)}</h3>
+            <p>${escapeNews(article.summaryKa)}</p>
+            <span class="meta"><span class="translation-label">AI თარგმანი</span> · პირველწყარო ↗</span>
+          </a>`}).join(""):'<div class="news-status">პირველი ავტომატური განახლება მზადდება. გლობალური ამბები საათში ერთხელ განახლდება.</div>';
+        if(visibleCount<allArticles.length){
+          const more=document.createElement("button");
+          more.type="button";
+          more.className="news-load-more";
+          more.textContent=`ძველი ამბების ნახვა (${allArticles.length-visibleCount})`;
+          more.addEventListener("click",()=>{
+            visibleCount=Math.min(visibleCount+pageSize,allArticles.length);
+            renderArchive();
+          });
+          target.appendChild(more);
+        }
+      };
+      renderArchive();
     });
     topStoryTargets.forEach(target=>{
       const articles=(data.articles||[]).slice(0,5),lead=articles[0];
@@ -164,7 +203,7 @@ async function loadGlobalNews(){
         return;
       }
       const leadIdentity=identifyNewsAsset(lead);
-      const identityMarkup=identity=>`<span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)}</b><small>${escapeNews(lead.category)}</small></span></span>`;
+      const identityMarkup=identity=>`<span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)} ${newsQuoteBadge(identity)}</b><small>${escapeNews(lead.category)}</small></span></span>`;
       target.innerHTML=`
         <a class="top-story-lead" data-symbol="${escapeNews(leadIdentity.symbol)}" href="${escapeNews(lead.url)}" target="_blank" rel="noopener">
           <div class="top-story-kicker"><span class="live-label"><span class="live-dot"></span> მთავარი ამბავი</span><span>განახლდება ყოველ საათში</span></div>
@@ -179,7 +218,7 @@ async function loadGlobalNews(){
             const identity=identifyNewsAsset(article);
             return `<a class="top-story-row" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
               <i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i>
-              <span><h4>${escapeNews(article.titleKa)}</h4><small>${escapeNews(identity.symbol)} · ${escapeNews(article.source)} · ${relativeNewsTime(article.publishedAt)}</small></span>
+              <span><h4>${escapeNews(article.titleKa)} ${newsQuoteBadge(identity)}</h4><small>${escapeNews(identity.symbol)} · ${escapeNews(article.source)} · ${relativeNewsTime(article.publishedAt)}</small></span>
             </a>`;
           }).join("")}
         </aside>`;

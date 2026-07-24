@@ -165,7 +165,7 @@ const previousById = new Map(previous.articles.map((item) => [item.id, item]));
 const newItems = items.filter((item) => !previousById.has(item.id));
 const translated = newItems.length ? await translate(newItems) : new Map();
 
-const articles = items
+const refreshedArticles = items
   .map((item) => {
     const existing = previousById.get(item.id);
     const translation = translated.get(item.id);
@@ -179,14 +179,19 @@ const articles = items
       translationNotice: "AI-assisted Georgian translation",
     };
   })
-  .filter(Boolean)
-  .slice(0, 9);
+  .filter(Boolean);
 
-if (articles.length < 3) {
+if (refreshedArticles.length < 3) {
   throw new Error(
     `Translation produced too few usable stories; input=${items.length}, new=${newItems.length}, translated=${translated.size}, ids=${[...translated.keys()].join(",")}`,
   );
 }
+const articlesById = new Map(
+  [...previous.articles, ...refreshedArticles].map((article) => [article.id, article]),
+);
+const articles = [...articlesById.values()].sort(
+  (a, b) => new Date(b.publishedAt) - new Date(a.publishedAt),
+);
 const unchanged = JSON.stringify(previous.articles) === JSON.stringify(articles);
 if (unchanged) {
   console.log("No new global stories");

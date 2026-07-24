@@ -8,6 +8,12 @@
   status = 200
   force = true
 
+[[redirects]]
+  from = "/api/news-quotes"
+  to = "/.netlify/functions/news-quotes"
+  status = 200
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]
