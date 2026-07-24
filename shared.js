@@ -8,7 +8,7 @@ document.querySelectorAll('[data-ticker]').forEach(el=>el.innerHTML=tickerMarkup
 (() => {
   const style=document.createElement('link');
   style.rel='stylesheet';
-  style.href='finance-header.css?v=20260725-clean-market-strip';
+  style.href='finance-header.css?v=20260725-balanced-market-strip';
   document.head.appendChild(style);
 
   const header=document.querySelector('header');
