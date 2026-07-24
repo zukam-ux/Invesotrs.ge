@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-07-24T14:31:13.483Z",
+  "updatedAt": "2026-07-24T15:32:27.497Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "9a33b86191f1db9d",
+      "title": "Gold prices today, Friday, July 24, 2026: Gold price remains below $4,100 ahead of next week’s rate decision",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTmYyVXFfNC03eXl0cEdIWS13UXBDZi1fWHA4bGE2ZE14QTgzbWI0TUFlcTZJWW5Pd1l0clF3bHJEQVFJMVA3UkNKMHI1cUloUjdBY1p0UHl4OUJ6ejZxZnJZek5IVU5PdlA2ZGw5dEx3VXBGMzBhekF6Q0lpR0V0UGxOT2lpWnVaRFNDV3hJVXdvOXA3dllnLXRVekwxQzViWVVpa3lxQ2FOazd0Zjc4QTBuQmctSmxqNE1QM0x2VjlKWE9KaGQycUx5Qm1Fb1BuUXRkTTE0VkZjUXJURV9nSmZZdENQVUpob0FvZEJsRW45OHhOZ3NrUW5iSVVzN1lFLVQ5SVlXV24?oc=5",
+      "publishedAt": "2026-07-24T15:27:26.000Z",
+      "titleKa": "ოქროს ფასები დღეს, პარასკევს, 24 ივლისს, 2026: ოქროს ფასი რჩება $4,100-ის ქვემოთ მომავალი კვირის საპროცენტო განაკვეთის გადაწყვეტილების წინ",
+      "summaryKa": "ოქროს ფასი დღეს $4,100-ის ქვემოთ არის.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "53a47fa61ae16413",
+      "title": "Bitcoin and ethereum prices today, Friday, July 24, 2026: Crypto prices retreat on higher U.S. Treasury yields",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQSWlzb1l5S3BpMkRRSC1zaTJrQ2lvM2EyQmpwYTNSUDZzS254bmZydFY4TndZYVFXaVNnZDA1WjlqVFZ4RjR2ZzR1YU5wazltNUp2bm1nOXdCay1uLXA2OVgxelBfaFYxaTQ5RkxhVmdBdW1rblpxWFRHQUxNTjBDUDRWa0JpbzU0NGtMMUgydmttWHJ6aHJiSi1reDRsOU9TVUpIWEx3OHRMWDZOanBobEpaT3pBdDNZMjZNUFFyTE1HWTBoS0JzVGRMN290N29VRGliRWdZVzNJYktHdmg3X3NNRFV3MEhhTjRPX25IT25DOWhVaGN1Y3c3OUhRODBwQjh6Zlo1ZHdtWnZh?oc=5",
+      "publishedAt": "2026-07-24T15:22:00.000Z",
+      "titleKa": "ბიტკოინის და ეთერიუმის ფასები დღეს, პარასკევს, 24 ივლისს, 2026: კრიპტო ფასები კლებულობს აშშ-ის სახელმწიფო ვალდებულებების მაღალი სარგებლის გამო",
+      "summaryKa": "კრიპტო ფასები კლებულობს აშშ-ის სახელმწიფო ვალდებულებების მაღალი სარგებლის გამო.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "722512e3eb98b1e3",
+      "title": "JPMorgan warns 'super' El Niño and oil shock could prop up global inflation",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV2paekR6LVNxWXlWNmdaNUxvTEdXTGdPMGR5QjFtcUN6c25mZzdLaXRsV29DQS1NY05qNm1oRTVBVUM5MEE3Z2o4RzZWN3IxemdZVnJnNU4tV3JSLVM1V0tZZzZxcjB2R3gyTE8ybTMxOVVWNnNjYU0xa1RRc1Y0el92cHJtYklhVmp0dlBzdGt3OEx5VUQ3Y0dFQ0p2dUUzSlJ4bWM5U1FBSWg5Q1pzVzNUOEkwNFppSzRWdzBReUE?oc=5",
+      "publishedAt": "2026-07-24T15:15:45.000Z",
+      "titleKa": "JPMorgan აფრთხილებს, რომ 'სუპერ' ელ ნინიო და ნავთობის შოკი შეიძლება გაზარდოს გლობალური ინფლაცია",
+      "summaryKa": "JPMorgan აფრთხილებს, რომ 'სუპერ' ელ ნინიო და ნავთობის შოკი შეიძლება გაზარდოს გლობალური ინფლაცია.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "95276701d96cd6cf",
+      "title": "3 Cash-Producing Stocks We Approach with Caution",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZHVSSV93ZlJ6R21JeVFnWjdFS19FeGVUNGtreVNRcUVDTElXTFlKWktFODNjM0hHOFZYRTBMZUk0NmhSRjBBSnJvMGd5V05ZVnNoSHJtQnJsekZLdXdIUnozaTZYNkNLVjhjc0ZublpLbFdSeUJqNDRBdXZrdFFwZzZjX0RlSWNJQU15OVFaMkxVWjRCWVhZMEd2aGNrZw?oc=5",
+      "publishedAt": "2026-07-24T15:05:08.000Z",
+      "titleKa": "3 ფულადი აქცია, რომელთა მიმართაც სიფრთხილე უნდა გამოვიჩინოთ",
+      "summaryKa": "არსებობს 3 ფულადი აქცია, რომელთა მიმართაც სიფრთხილე უნდა გამოვიჩინოთ.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "fb220b685f7b670b",
+      "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUEduYTlTcWwwNGtqeW9ObUVxX29KZi1VT1ZldDhzTnJqQzExWHhqYVZaR3lrelFZcmR5aE1PWTI2a3JOdVIwTVNkUmd3eWNSRzZORXl4MDdvYWRCWTctb1VrbkpxcktlRlFZdFpncjV4eHNaOUVXZE1uYURsWmJvR1VPXzI5NG5vVWRiNllMVzRMSlRaUlVTRFZ1cC0zY1c1d1JoaVFrZGlJWWh0NXZNb1RrNXVySm1sUkhnOG1zRlZjQjJs?oc=5",
+      "publishedAt": "2026-07-24T15:02:42.000Z",
+      "titleKa": "სენატის დემოკრატებმა უნდა მიიღონ გამარჯვება, რომელიც მოიპოვეს ტრამპის კრიპტო შეზღუდვებზე: თეთრი სახლი",
+      "summaryKa": "სენატის დემოკრატებმა მოიპოვეს გამარჯვება ტრამპის კრიპტო შეზღუდვებზე.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "00be930f26f3a4b4",
+      "title": "3 Market-Beating Stocks with Promising Prospects",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3lEcnE1ci1KcWZKaExENXRqWm9Kb0xVNHppZ1NHTzMwYW4xdHM2Y0RyS05FS0VFdXhSS0VJYWRkUlNFRmplck5oSjYxLTdVbHZyajM5XzVJQWE0WS1zYWZKVjFVWGZsaDFlS05OZmc3OFVLUFJ1NjBNQUNkSmVvUDMyMFdaLXM3NElIbUZwdHY2czRHc0JuRVQzMC1JT3M?oc=5",
+      "publishedAt": "2026-07-24T14:57:08.000Z",
+      "titleKa": "3 ბაზრის დამარცხების აქცია პერსპექტიული პერსპექტივებით",
+      "summaryKa": "არსებობს 3 ბაზრის დამარცხების აქცია პერსპექტიული პერსპექტივებით.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "748dd1aecae59862",
+      "title": "American Express Earnings Surpass Expectations as Card Spending Increases 9%",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFo1TGNJbEctT043aW9ESmhaVl9wdTAyNnlRQnFGOWpmUTdfSUlER2tKcDVyc2lIZGFMcVVCek5icmtGa29DQ3pic1EzOGNrdGoybk52aFV5SnF1SGFoX3Q5SDktQ04wTXpQOU5yOGNNc041MFlSbHRQYkdTMEJ3bzI4YXhiZw?oc=5",
+      "publishedAt": "2026-07-24T14:57:00.000Z",
+      "titleKa": "American Express-ის მოგება მოლოდინებს აღემატება, რადგან ბარათზე ხარჯვა 9%-ით იზრდება",
+      "summaryKa": "American Express-ის მოგება მოლოდინებს აღემატება.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "0af42598526ef3bc",
+      "title": "Investors fret that spiking oil prices and rising yields could threaten stock rally",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOTdVOWdQQUJ3WEYwbFVGczNoTDBvWlRCQ19HZmZ4SjQ5V0d6YmJheWF1SHh0OHN4dUZKYThsd2RGMENOY1FxbU5zdGlseHNFaGNINjFHYzMwM2RjTk1jSU5SMzdCemZma1NLd0FWZ0Jnek8tQ3FmbHg5Q2NDdFZDQVlUQ1BWQ1hmSGUtQ0xpNm5wY0NveHEzQ3RzN0dEbkUyUGgtQ3JYY3FzajBGZUpxVGdQMlZDT09yeU5hMzQ4RU9lRlFlbE5sMngzRQ?oc=5",
+      "publishedAt": "2026-07-24T14:56:19.000Z",
+      "titleKa": "ინვესტორები შეშფოთებულნი არიან, რომ ნავთობის ფასების ზრდა და სარგებლის ზრდა შეიძლება საფრთხეში ჩააგდოს აქციების ზრდა",
+      "summaryKa": "ინვესტორები შეშფოთებულნი არიან ნავთობის ფასების ზრდისა და სარგებლის ზრდის გამო.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c766148e25e5e893",
+      "title": "2 Profitable Stocks for Long-Term Investors and 1 We Turn Down",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVNmQ1BtOXlyUzU2NnpxbWVCQjk2QU5vSE1hRU9PUWtYa3VfTTdYVGtJbHVPcUVXcHdYUzFNcEcyRVpXM18zOXFUSlR5X2JFX0JGdkJ5N2xQZ3VhSTZCMkNMUWltTVMwallTTmZ3NFJHZ0c1ZDRFbXhwYU1LUERGRi1RQ2dPUWQ5V0pia2N6RlVfNDhfclU0VTZB?oc=5",
+      "publishedAt": "2026-07-24T14:41:08.000Z",
+      "titleKa": "2 მომგებიანი აქცია გრძელვადიანი ინვესტორებისთვის და 1, რომელსაც ვუარებთ",
+      "summaryKa": "არსებობს 2 მომგებიანი აქცია გრძელვადიანი ინვესტორებისთვის.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d0d1a235a6b96495",
+      "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNTBoYTV3ZmZxd0kxZzhLLVFNemlYT1ptTFNTeDBVNlNELWtQZHJBaXI1aHNSNm1FdDhXZklDcW55RW1BbXFkaFk3MGk5TzNjM0NQUmxDU1dDb3Ewbko0WWVJWHIybDJYWFB2YWtsSTRMeE1WbUstRjdJV2xyRThQdlFnWUtKZzlrOFN6RlZwTFg0ZUYySllrMEF6aGZ2V3VQZXlZd08tc0REZVE4bkE?oc=5",
+      "publishedAt": "2026-07-24T14:39:23.000Z",
+      "titleKa": "ინსტიტუციური კრიპტო სავაჭრო პლატფორმა LMAX იკვლევს გაყიდვას, IPO-ს",
+      "summaryKa": "LMAX იკვლევს გაყიდვას და IPO-ს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3f6ad2407f0b9ed1",
+      "title": "Friday, July 24, 2026: The Club will take profits in this food retailer ahead of earnings",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNclJDZTczS2FLSDV5SzVUMndqcUlMOTlQV0dYN3lub0t4ZUEyRWEyZkJjZGNpZVlUSHRxUngySHlyY2lsam9xczM1TUxfNkl0VkhwSi1lZnVGdXNEaGVPeTdXNFpXWDN5SnlfeUUyRW1XaUxPR1BKTU1qS3dhdmRHUkRyUDg5c1FOSE1POFVqZWhRRmhZMUtySVJtSHRHRkJRM3RveFBVVUFJc3ZTeEk5a0ZfVmg2SkZ1T05lOW13am5DSU5CX0g0WA?oc=5",
+      "publishedAt": "2026-07-24T14:37:32.000Z",
+      "titleKa": "პარასკევი, 24 ივლისი, 2026: კლუბი მიიღებს მოგებას ამ საკვები საცალო ვაჭრობის კომპანიაში მოგების წინ",
+      "summaryKa": "კლუბი მიიღებს მოგებას საკვები საცალო ვაჭრობის კომპანიაში.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "eacc717e7df969a3",
+      "title": "Physical oil prices jump with some nearing $110 as Iran, Ukraine wars hit supply",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWNvYzRoNkNQa2xmbldvVnNQcWQtRUp3MjFNQmJqRld1Z2R0X0JJSzFUNDJRcTRLelItMUtPd3A0NmUtNmJJZy1jRUNabTVldWxBSld6VDhOQ2VCQVpSV1J4VUg0Yjk4dTI0UlZiMVVWYnFMaDJnQ3JFOGdwLVVYVjV2RnJIWHRla2lOTEhUMEVCbU9rN09nWXdkRzVEbDlKcTZoYUFuTlYtQUxZWlFVWXJudktfNFdaVnBOajZ1WFA5Wk5na0E?oc=5",
+      "publishedAt": "2026-07-24T14:36:19.000Z",
+      "titleKa": "ფიზიკური ნავთობის ფასები იზრდება, ზოგი $110-ს უახლოვდება ირანისა და უკრაინის ომების გამო",
+      "summaryKa": "ფიზიკური ნავთობის ფასები იზრდება, ზოგი $110-ს უახლოვდება.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "e11e1d87b5ff62de",
       "title": "Polish president refers decision on windfall tax on oil companies to constitutional court",
@@ -45,17 +177,6 @@
       "titleKa": "Google-ის მოგება შესაძლოა ცუდი ნიშანი იყოს დიდი ტექნოლოგიური აქციებისთვის",
       "summaryKa": "Google-ის მოგება შესაძლოა ცუდი ნიშანი იყოს დიდი ტექნოლოგიური აქციებისთვის.",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "748dd1aecae59862",
-      "title": "American Express Earnings Surpass Expectations as Card Spending Increases 9%",
-      "source": "Barron's",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFo1TGNJbEctT043aW9ESmhaVl9wdTAyNnlRQnFGOWpmUTdfSUlER2tKcDVyc2lIZGFMcVVCek5icmtGa29DQ3pic1EzOGNrdGoybk52aFV5SnF1SGFoX3Q5SDktQ04wTXpQOU5yOGNNc041MFlSbHRQYkdTMEJ3bzI4YXhiZw?oc=5",
-      "publishedAt": "2026-07-24T13:48:00.000Z",
-      "titleKa": "American Express-ის მოგება მოლოდინებს აღემატება, რადგან ბარათზე ხარჯვა 9%-ით იზრდება",
-      "summaryKa": "American Express-ის მოგება მოლოდინებს აღემატება.",
-      "category": "კომპანიები",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
