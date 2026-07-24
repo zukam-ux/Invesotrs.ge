@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-07-24T17:48:23.948Z",
+  "updatedAt": "2026-07-24T19:07:52.572Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "796aa807d4707292",
+      "title": "Cardano co-founder Hoskinson says Bitcoin could lose top spot if governance fails quantum test",
+      "source": "The Block",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEdyZ3AxRFlRb1hXbnRTcjJhRnZLdW1ocUtqSTVHU3JTMG1SenBRNzE5SVE2UXlXUXlmRFJwQnF6TWFHZTVjbmFIb1BZVDFaakJaVE1JcWRWYk01ZmZOLTB6NHMwM0RaRTVhdUw2bFQ5RTZ4d1U1dG5xd3lfYUszVFJPR2NZczJaQTJEVUktdDR4T3NielF5RkhDTjBlTkZwOEtYUjdqanFKM0R6R3RvZFNHa2h0bEZfYktNT2VsSU8xb2tqUlJOYjlfVHZxckIxOUE1RmY1OTFGTzREdzJvVVdhdG9CRG44NlE?oc=5",
+      "publishedAt": "2026-07-24T19:01:53.000Z",
+      "titleKa": "Cardano-ს თანადამფუძნებელი ჰოსკინსონი ამბობს, რომ თუ მმართველობა კვანტური ტესტის დროს ჩავარდება, Bitcoin-ი შეიძლება დაკარგოს ლიდერის პოზიცია",
+      "summaryKa": "ჰოსკინსონი აღნიშნავს, რომ Bitcoin-ი შეიძლება დაკარგოს ლიდერის პოზიცია, თუ მისი მმართველობა ვერ გაუძლებს კვანტურ ტესტს.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5d1469face492e5c",
+      "title": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnZkSnE3cjdkVWpBWnVkQi1qUndVbHZkb2Q3amhCWEdibTlJNVRzcEt5OUNnQTd3QnBfUjlwV2Q5SVJ4cTlVelpQLXpva0l6allVSDVEOTRJc2I5R2ZJclk5Ukc1VzhkQ2hNQkdNeVllaEZMWlJ6d25KelM0RURFdFhjcGQ1ZkpkeDVia0Jn0gGTAUFVX3lxTE16dkxjTHEtc0Yzc1lhYkw5aEVVMG9aYlczbnFrSS1lY3EyNWpPSWw4bVpGMlQ0cGdOVnFNYjJUTHg3cW1VMkFZaHJHUl9uMEJVZlhOY1Bqc0FHQ3JHTUxjLW1jWEZqX0F3YWZ3clJyU2l2RDNQOXBHVXhwa3dscDFyaDVHUXdWN2xYV3dUNE5JTVg4Yw?oc=5",
+      "publishedAt": "2026-07-24T18:47:41.000Z",
+      "titleKa": "ნავთობის გადაზიდვები მრავალ ფრონტზე არიან თავდასხმის ქვეშ, რადგან ბრძოლები იზრდება წითელ ზღვაში, ჰორმუზსა და შავ ზღვაში",
+      "summaryKa": "ბრძოლები იზრდება წითელ ზღვაში, ჰორმუზსა და შავ ზღვაში, რაც ნავთობის გადაზიდვებზე თავდასხმებს იწვევს.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "db67f6583ee592ef",
+      "title": "Why Micron and other major chip stocks are falling — even as the rest of tech holds up",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWU83dmllRTNsQXM4MWFEeUYzdGNmVUUxdUY1OVZSeVUwTk8wU081NHhZVmZLRlZNQWlIX1JqSTlDbDdLV2pnM05LZ0ZUaTU0SEkwOE0wZUpXNElUMF95TTBYVVZ6TkVYenRmWVdFNjhLc1VwV2dlUEY5b3hNR1ItODVkY1NNb3EzaDREWHNfc19QUEl6M29aX1ZJLXYycHQyNlVLMFkyM2ZxS05IejFjOXJzSEVNSzdqUTM1TG1jRlRFZkNieUE?oc=5",
+      "publishedAt": "2026-07-24T18:37:00.000Z",
+      "titleKa": "რატომ ეცემა Micron და სხვა მთავარი ჩიპების აქციები, მაშინ როცა ტექნოლოგიის დანარჩენი ნაწილი ძლიერია",
+      "summaryKa": "Micron და სხვა მთავარი ჩიპების აქციები ეცემა, მიუხედავად იმისა, რომ ტექნოლოგიის დანარჩენი ნაწილი ძლიერია.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b3940bce55ab294f",
+      "title": "Which Aerospace ETF is the Better Buy in 2026: Invesco Aerospace & Defense or U.S. Global Jets?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRHQ0dmo5blNxRndxTFFGcnNHZDVVdngxTE13S1VoelVJXzY0ei0zcnpKNERENmJwNmZtNHFfN1lsUkhIY2NFSVJtNW5VTTk0bjA3bllEcVY1S3dZLUs4b3ZpcHQ1ZS1KLU1QT2ZSazFKRGFzczh2OC1pWUhZbG1BUmFiRWM1NnU5eDdPYWdwdWYzS2V3QVNQRFdn?oc=5",
+      "publishedAt": "2026-07-24T18:35:01.000Z",
+      "titleKa": "რომელი საჰაერო სივრცის ETF არის უკეთესი შესყიდვა 2026 წელს: Invesco Aerospace & Defense თუ U.S. Global Jets?",
+      "summaryKa": "მკითხველებს სურთ გაიგონ, რომელი საჰაერო სივრცის ETF არის უკეთესი შესყიდვა 2026 წელს.",
+      "category": "ETF",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f73aaf3a87679425",
+      "title": "Inside the Race to Quantum-Proof Bitcoin: Why BlackRock and Galaxy Are Stepping In.",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObVRYdENWdUdzMFVzTHJfdU9JalVQdm95YVp4aUhfZnRBaXk3UDRMcGc5T1FiM1BDOGhkTjNmZTZGVzZVblFqak1DX1NZTnVaQWdfYzlFQXJhN0lKeGxQbXk2c2xDTXNKV1gtckdXcnZ3azVlVmdLYXV2R1JTUHNweE9R?oc=5",
+      "publishedAt": "2026-07-24T18:28:00.000Z",
+      "titleKa": "Bitcoin-ის კვანტური დაცულობის რბოლაში: რატომ შედიან BlackRock და Galaxy",
+      "summaryKa": "BlackRock და Galaxy მონაწილეობენ Bitcoin-ის კვანტური დაცულობის რბოლაში.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6e99ad3ce98bd3ff",
+      "title": "AI Memory Stocks Lead Chip Selloff",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR0VKclRldFNxRWQ5XzJHbjZWWUxGLW84YUQwMVlrcnBaWnJXY196V3FpaW13bUVHUFJ5V1BwMHVoNklJeWxlNGh4Y0VrYzFRd00wajc0N1VwVHRRcVpNNC1US192Z25kdTN3Rzl6aUlNUFplWmFib0VSVHVsV1ltcTNsOU00bXVScGxMSzVFelk?oc=5",
+      "publishedAt": "2026-07-24T18:24:13.000Z",
+      "titleKa": "AI მეხსიერების აქციები ჩიპების გაყიდვის ლიდერები არიან",
+      "summaryKa": "AI მეხსიერების აქციები ლიდერობენ ჩიპების გაყიდვის პროცესში.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b0dfa7bfe19b5dae",
+      "title": "Canadian dollar adds to weekly decline as oil pares recent gains",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2Q0ZzdTY2duMkxPN216VS1qUWZLNV9lNU1WUnVmX3l0Vng5WkNMM2pzMFdnLWJnUlNSSVhXRFV0WUxKdFozcXFyRTRCdEdWanBGU0dGcldTZUhnVFRyTE80NDBCRmNWYThLaGpCQWs2cXlCcWF1TXFfXzBqYmk1c0thcVZaTjZ2SUNQZ1VsWTBFR3hVdTl4bkZnY29tSU5pQU1TclBR?oc=5",
+      "publishedAt": "2026-07-24T18:16:17.000Z",
+      "titleKa": "კანადური დოლარი კვირის ვარდნას აგრძელებს, რადგან ნავთობი ბოლო დროის ზრდას ამცირებს",
+      "summaryKa": "კანადური დოლარი აგრძელებს კვირის ვარდნას, რადგან ნავთობი ბოლო დროის ზრდას ამცირებს.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "41483cd11da25745",
+      "title": "The Anti-Nvidia ETF: Why Contrarians Are Buying the Stocks Nobody Wants",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU2FUNWh3WF9PQ2hUMjBIbGFGVVRPZURVT1k1anFMdnllX2c0SjVtazgzbFdQVVhxdVVpall6Y2ZiY0VhdmRoZU40alN1RVl6aVhmeGJxSzAzUnA5eHgxY3ZxbzNOQTAzRDQyU0gtOUhvNGt2VGptaFdCOGNFekRVZlVVMXhWYU5tLTFrOXFVRFZhZDNRcmlnTkNfV20?oc=5",
+      "publishedAt": "2026-07-24T18:15:30.000Z",
+      "titleKa": "ანტი-Nvidia ETF: რატომ ყიდულობენ კონტრარიანები იმ აქციებს, რომლებიც არავის სურს",
+      "summaryKa": "კონტრარიანები ყიდულობენ იმ აქციებს, რომლებიც არავის სურს, რაც ქმნის ანტი-Nvidia ETF-ს.",
+      "category": "ETF",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d943bc505a55567d",
+      "title": "Institutional Crypto Firm LMAX Considers Holding IPO",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmU2eGdIcGluRFhrQXVJdmVIVk5NakFYdE92V0phNS16YUh1UXJNMkVIUG5jMXp3YTZob1haVTdwMEFUeV9EekVXZm1Bd0VHbHBOdlVhVE90bG50YjZiOGVBTkJ0MWZBR21aTDlLSVZpV01xYlJkcllzSy1sZ1hNdHFRdXhkMXh3a0dXSUhZRTlVQlR4cmh5cloyWlJocXA3dmtKWkJET2I?oc=5",
+      "publishedAt": "2026-07-24T18:13:00.000Z",
+      "titleKa": "ინსტიტუციური კრიპტო კომპანია LMAX განიხილავს IPO-ს ჩატარებას",
+      "summaryKa": "LMAX განიხილავს IPO-ს ჩატარებას.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "bd2d24061b6fd1a3",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq recover as oil eases, new Trump tariffs take effect",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUFYaE1xaFRzalhQdWRXZ1d5dEpsQWlsVzBfS1V6RU52aG5reW8wRnZYdFk0LV93RVdxOFIzYnhteDM5RnBkOURtYWhpWXhJNjVmUkoxczRHVVFnbU1KQzFlaTQ4bVJ2MldmbGhhcU1kY2hIVndoaEY3ZXF1T2xocGM5TkNxM2FsY2hpcXltckJHQ0xSb0Rybm5BamN1Nmpfay1ObzF1d1I?oc=5",
+      "publishedAt": "2026-07-24T18:09:37.000Z",
+      "titleKa": "ბირჟის ბაზარი დღეს: Dow, S&P 500, Nasdaq აღდგება, რადგან ნავთობი იაფდება, ახალი ტრამპის ტარიფები ძალაში შედის",
+      "summaryKa": "Dow, S&P 500 და Nasdaq აღდგება, რადგან ნავთობი იაფდება და ახალი ტრამპის ტარიფები ძალაში შედის.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c2d05638d53ee41c",
+      "title": "Fuel swings turn US airline earnings forecasts into moving targets",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalhiV3BKNmx6UGlTM29waXhLZ0VNdHdUY2tSX2NiMUYxRlREVlAydDZFeVNVZmlCd2xCY0NjdUs3SThSMmN1OGNjWjd0ZGZnV21zZndLYk1qZTk5X1VxWnlFM2pDRjVtRnYwa3htWnB5VngxNzJ1LXdFNjY4R3E4VmN1R2YtVXI3dGpESTlzOFhfbUpPN3Bmd21WMjRIUEJoQV9YMnliM1g3NDEwN3FOZFB6WTh5MHpLblE?oc=5",
+      "publishedAt": "2026-07-24T18:06:29.000Z",
+      "titleKa": "საწვავის რყევები აშშ-ის ავიაკომპანიების მოგების პროგნოზებს მოძრავ მიზნებად აქცევს",
+      "summaryKa": "საწვავის რყევები აშშ-ის ავიაკომპანიების მოგების პროგნოზებს მოძრაობს.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d95fa5eb4ddc1df2",
+      "title": "Strategy Debuts Net Bitcoin Per Share for Common Investors",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYVUtTy1hVnVIM1dKNXdLa2pNMW85cjhIX0hTaENQUDl5dHAyWWlsYkxQTXE1NGFBbzFMckZMX2JTdFVXbU5PUXB4NGROY01pQTlrQWxfdUNINWx2OHZPNF9ZVHZpUkhBQllBbWVWV3pCUmpzN0YwUy1XdENhYVJwVkVTQUtBRlZEU2ZENVJuS0NNZHo5bXkxbmdQODc?oc=5",
+      "publishedAt": "2026-07-24T18:04:00.000Z",
+      "titleKa": "სტრატეგია წარადგენს Bitcoin-ის წმინდა წილს საერთო ინვესტორებისთვის",
+      "summaryKa": "სტრატეგია წარადგენს Bitcoin-ის წმინდა წილს საერთო ინვესტორებისთვის.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "2c3b53e4bb76d64b",
       "title": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer",
