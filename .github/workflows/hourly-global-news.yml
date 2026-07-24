@@ -2,7 +2,7 @@ name: Hourly global financial news
 
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -30,10 +30,19 @@ jobs:
         run: |
           if git diff --quiet -- data/global-news.json; then
             echo "No new stories to publish"
-            exit 0
+          else
+            git config user.name "Investors.ge News Bot"
+            git config user.email "news-bot@users.noreply.github.com"
+            git add data/global-news.json
+            git commit -m "Update global financial news [skip netlify]"
+            git push
           fi
-          git config user.name "Investors.ge News Bot"
-          git config user.email "news-bot@users.noreply.github.com"
-          git add data/global-news.json
-          git commit -m "Update global financial news [skip netlify]"
-          git push
+      - name: Send archive to Cloudflare D1
+        env:
+          NEWS_INGEST_TOKEN: ${{ secrets.NEWS_INGEST_TOKEN }}
+        run: |
+          curl --fail-with-body --retry 3 \
+            -H "Authorization: Bearer $NEWS_INGEST_TOKEN" \
+            -H "Content-Type: application/json" \
+            --data-binary @data/global-news.json \
+            https://investors-ge.makharashvili-zurab.workers.dev/api/news-ingest

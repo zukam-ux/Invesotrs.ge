@@ -1,0 +1,27 @@
+{
+	"$schema": "./node_modules/wrangler/config-schema.json",
+	"name": "investors-ge",
+	"main": "src/worker.mjs",
+	"compatibility_date": "2026-07-24",
+	"compatibility_flags": [
+		"nodejs_compat"
+	],
+	"observability": {
+		"enabled": true
+	},
+	"assets": {
+		"directory": ".",
+		"binding": "ASSETS",
+		"run_worker_first": [
+			"/api/*",
+			"/data/global-news.json"
+		]
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "investors-ge-news",
+			"database_id": "68411144-28c6-4e9e-bb11-e3d3b6ae3a6f"
+		}
+	]
+}

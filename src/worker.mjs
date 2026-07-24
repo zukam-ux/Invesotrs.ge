@@ -1,0 +1,579 @@
+import { createHash } from "node:crypto";
+
+const NEWS_FEEDS = [
+  {
+    url: "https://finance.yahoo.com/news/rssindex",
+    source: "Yahoo Finance",
+  },
+  {
+    url: "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    source: "CNBC",
+  },
+  {
+    url: "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    source: "CoinDesk",
+  },
+];
+const CRYPTO_URL =
+  "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,solana&price_change_percentage=24h&sparkline=true";
+const NBG_URL =
+  "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/ka/json/";
+const YAHOO_CHART_URL = "https://query1.finance.yahoo.com/v8/finance/chart/";
+const trustedSources = new Set([
+  "Reuters",
+  "CNBC",
+  "Yahoo Finance",
+  "Bloomberg.com",
+  "MarketWatch",
+  "Barron's",
+  "CoinDesk",
+  "The Block",
+  "Investopedia",
+  "Financial Times",
+  "The Wall Street Journal",
+  "Fortune",
+  "Business Insider",
+  "Nasdaq",
+]);
+const financeTerms =
+  /\b(stock|stocks|market|shares|earnings|investor|bitcoin|crypto|ethereum|ETF|bond|treasur|interest rate|federal reserve|fed\b|inflation|oil|gold|bank|finance|nasdaq|s&p|dow|IPO|acquisition)\b/i;
+const lowValueTerms =
+  /\b(earnings call|buy now|sell now|best stocks?|top stocks?|double down|double a position|without (any )?hesitation|could soar|millionaire|secret stock|strong buy)\b/i;
+
+function json(payload, options = {}) {
+  const headers = new Headers(options.headers);
+  headers.set("content-type", "application/json; charset=utf-8");
+  headers.set("x-content-type-options", "nosniff");
+  return new Response(JSON.stringify(payload), { ...options, headers });
+}
+
+async function fetchJson(url, timeoutMs = 7000, headers = {}) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    const response = await fetch(url, {
+      headers: { accept: "application/json", ...headers },
+      signal: controller.signal,
+    });
+    if (!response.ok) throw new Error(`Upstream returned ${response.status}`);
+    return await response.json();
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+function decode(value = "") {
+  return value
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&amp;/g, "&")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;/g, "'")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function tag(block, name) {
+  return decode(
+    block.match(new RegExp(`<${name}[^>]*>([\\s\\S]*?)<\\/${name}>`, "i"))?.[1],
+  );
+}
+
+function parseFeed(xml, fixedSource = "") {
+  return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)]
+    .map((match) => {
+      const combinedTitle = tag(match[1], "title");
+      const separator = combinedTitle.lastIndexOf(" - ");
+      const title =
+        separator > 0 ? combinedTitle.slice(0, separator) : combinedTitle;
+      const source =
+        fixedSource ||
+        (separator > 0 ? combinedTitle.slice(separator + 3) : "Global news");
+      const url = tag(match[1], "link");
+      const publishedAt = new Date(tag(match[1], "pubDate")).toISOString();
+      return {
+        id: createHash("sha256").update(url).digest("hex").slice(0, 16),
+        title,
+        source,
+        url,
+        publishedAt,
+      };
+    })
+    .filter((item) => item.title && item.url.startsWith("https://"))
+    .filter(
+      (item, index, rows) =>
+        rows.findIndex((row) => row.title === item.title) === index,
+    );
+}
+
+function selectStories(feedItems) {
+  const cryptoItems = feedItems
+    .filter((item) =>
+      /\b(bitcoin|crypto|ethereum|blockchain|stablecoin)\b/i.test(item.title),
+    )
+    .slice(0, 3);
+  const stockItems = feedItems
+    .filter((item) =>
+      /\b(stock|stocks|shares|earnings|ETF|Nasdaq|S&P|Dow|IPO|acquisition)\b/i.test(
+        item.title,
+      ),
+    )
+    .filter((item) => !cryptoItems.some((selected) => selected.id === item.id))
+    .slice(0, 5);
+  const macroItems = feedItems
+    .filter(
+      (item) =>
+        ![...cryptoItems, ...stockItems].some(
+          (selected) => selected.id === item.id,
+        ),
+    )
+    .slice(0, 4);
+  const selectedIds = new Set(
+    [...cryptoItems, ...stockItems, ...macroItems].map((item) => item.id),
+  );
+  const selectedItems = [...cryptoItems, ...stockItems, ...macroItems];
+  selectedItems.push(
+    ...feedItems
+      .filter((item) => !selectedIds.has(item.id))
+      .slice(0, 12 - selectedItems.length),
+  );
+  return selectedItems
+    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
+    .slice(0, 6);
+}
+
+async function translateStories(items, env) {
+  if (!items.length) return [];
+  return Promise.all(
+    items.map(async (item) => {
+      const response = await env.AI.run("@cf/meta/llama-3.3-70b-instruct-fp8-fast", {
+        temperature: 0.1,
+        max_tokens: 180,
+        prompt:
+          `Translate this financial headline faithfully into fluent Georgian. ` +
+          `Preserve company names, tickers, numbers, currencies, and Bitcoin exactly. ` +
+          `Output only the Georgian headline, with no label or explanation:\n${item.title}`,
+      });
+      const titleKa = decode(response.response || "")
+        .replace(/^["']|["']$/g, "")
+        .trim();
+      const category = /\b(bitcoin|crypto|ethereum|blockchain|stablecoin)\b/i.test(
+        item.title,
+      )
+        ? "კრიპტო"
+        : /\bETF\b/i.test(item.title)
+          ? "ETF"
+          : /\b(stock|stocks|shares|earnings|Nasdaq|S&P|Dow|IPO)\b/i.test(
+                item.title,
+              )
+            ? "აქციები"
+            : "ეკონომიკა";
+      return {
+        id: item.id,
+        titleKa,
+        summaryKa: titleKa ? `${titleKa}.` : "",
+        category,
+      };
+    }),
+  );
+  /*
+  const response = await env.AI.run("@cf/meta/llama-3.1-8b-instruct-fp8", {
+    temperature: 0.1,
+    max_tokens: 700,
+    response_format: { type: "json_object" },
+    messages: [
+      {
+        role: "system",
+        content:
+          "You are a careful Georgian financial news editor. Translate headlines faithfully into natural Georgian. Write one concise Georgian explanatory sentence using only facts explicitly present in the supplied English headline. Never invent numbers, causes, forecasts, quotes, or investment advice. Return valid JSON only with an articles array.",
+      },
+      {
+        role: "user",
+        content: JSON.stringify({
+          requiredShape: {
+            articles: [
+              {
+                id: "same input id",
+                titleKa: "faithful Georgian headline",
+                summaryKa: "one factual Georgian sentence",
+                category:
+                  "აქციები | კრიპტო | ETF | ეკონომიკა | კომპანიები",
+              },
+            ],
+          },
+          articles: items.map(({ id, title, source }) => ({
+            id,
+            title,
+            source,
+          })),
+        }),
+      },
+    ],
+  });
+  const raw = response.response ?? response.result?.response ?? "";
+  const parsed =
+    typeof raw === "string"
+      ? JSON.parse(raw.match(/\{[\s\S]*\}/)?.[0] ?? "{}")
+      : raw;
+  return parsed.articles ?? parsed.requiredShape?.articles ?? [];
+  */
+}
+
+async function updateNews(env) {
+  const feedResponses = await Promise.all(
+    NEWS_FEEDS.map(async (feed) => ({
+      feed,
+      response: await fetch(feed.url, {
+        headers: {
+          accept: "application/rss+xml, application/xml;q=0.9, text/xml;q=0.8",
+          "accept-language": "en-US,en;q=0.9",
+          "user-agent":
+            "Mozilla/5.0 (compatible; Investors.ge/2.0; +https://investors.ge)",
+        },
+      }),
+    })),
+  );
+  const usableResponses = feedResponses.filter(({ response }) => response.ok);
+  if (!usableResponses.length) throw new Error("All news feeds failed");
+  const feedItems = (
+    await Promise.all(
+      usableResponses.map(async ({ feed, response }) =>
+        parseFeed(await response.text(), feed.source),
+      ),
+    )
+  )
+    .flat()
+    .filter(
+      (item) => trustedSources.has(item.source) && financeTerms.test(item.title),
+    )
+    .filter((item) => !lowValueTerms.test(item.title))
+    .filter(
+      (item, index, rows) =>
+        rows.findIndex((row) => row.title === item.title) === index,
+    )
+    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+  const selected = selectStories(feedItems);
+  if (selected.length < 3) throw new Error("Too few usable feed stories");
+
+  const placeholders = selected.map(() => "?").join(",");
+  const existing = await env.DB.prepare(
+    `SELECT id FROM articles WHERE id IN (${placeholders})`,
+  )
+    .bind(...selected.map((item) => item.id))
+    .all();
+  const existingIds = new Set(existing.results.map((row) => row.id));
+  const newItems = selected
+    .filter((item) => !existingIds.has(item.id))
+    .slice(0, 1);
+  const translations = await translateStories(newItems, env);
+  const translationsById = new Map(
+    translations.map((translation) => [translation.id, translation]),
+  );
+  const insertable = newItems
+    .map((item) => ({ ...item, translation: translationsById.get(item.id) }))
+    .filter(
+      (item) => item.translation?.titleKa && item.translation?.summaryKa,
+    );
+
+  if (insertable.length) {
+    await env.DB.batch(
+      insertable.map((item) =>
+        env.DB.prepare(
+          `INSERT OR IGNORE INTO articles
+          (id, title, title_ka, summary_ka, source, url, published_at, category)
+          VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+        ).bind(
+          item.id,
+          item.title,
+          decode(item.translation.titleKa),
+          decode(item.translation.summaryKa),
+          item.source,
+          item.url,
+          item.publishedAt,
+          decode(item.translation.category || "ბაზრები"),
+        ),
+      ),
+    );
+  }
+  return { selected: selected.length, inserted: insertable.length };
+}
+
+async function syncPublishedNews(env) {
+  const response = await fetch(
+    "https://raw.githubusercontent.com/zukam-ux/Invesotrs.ge/main/data/global-news.json",
+    { headers: { accept: "application/json" } },
+  );
+  if (!response.ok) {
+    throw new Error(`Published news archive returned ${response.status}`);
+  }
+  const payload = await response.json();
+  const articles = Array.isArray(payload.articles) ? payload.articles : [];
+  if (!articles.length) throw new Error("Published news archive is empty");
+  await env.DB.batch(
+    articles.map((article) =>
+      env.DB.prepare(
+        `INSERT OR IGNORE INTO articles
+        (id, title, title_ka, summary_ka, source, url, published_at, category)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+      ).bind(
+        article.id,
+        article.title,
+        article.titleKa,
+        article.summaryKa,
+        article.source,
+        article.url,
+        article.publishedAt,
+        article.category || "ბაზრები",
+      ),
+    ),
+  );
+  return { imported: articles.length };
+}
+
+async function ingestNews(request, env) {
+  const authorization = request.headers.get("authorization") || "";
+  if (
+    !env.NEWS_INGEST_TOKEN ||
+    authorization !== `Bearer ${env.NEWS_INGEST_TOKEN}`
+  ) {
+    return json({ error: "Unauthorized" }, { status: 401 });
+  }
+  const payload = await request.json();
+  const articles = Array.isArray(payload.articles) ? payload.articles : [];
+  if (!articles.length) {
+    return json({ error: "No articles supplied" }, { status: 400 });
+  }
+  await env.DB.batch(
+    articles.map((article) =>
+      env.DB.prepare(
+        `INSERT OR IGNORE INTO articles
+        (id, title, title_ka, summary_ka, source, url, published_at, category)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+      ).bind(
+        article.id,
+        article.title,
+        article.titleKa,
+        article.summaryKa,
+        article.source,
+        article.url,
+        article.publishedAt,
+        article.category || "ბაზრები",
+      ),
+    ),
+  );
+  return json({ imported: articles.length });
+}
+
+async function serveNews(env) {
+  const result = await env.DB.prepare(
+    `SELECT id, title, title_ka, summary_ka, source, url,
+            published_at, category, translation_notice
+     FROM articles ORDER BY published_at DESC LIMIT 2000`,
+  ).all();
+  const articles = result.results.map((row) => ({
+    id: row.id,
+    title: row.title,
+    titleKa: row.title_ka,
+    summaryKa: row.summary_ka,
+    source: row.source,
+    url: row.url,
+    publishedAt: row.published_at,
+    category: row.category,
+    translationNotice: row.translation_notice,
+  }));
+  return json(
+    {
+      updatedAt: articles[0]?.publishedAt ?? null,
+      source: "Google News RSS metadata and original publishers",
+      methodology:
+        "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
+      articles,
+    },
+    {
+      headers: {
+        "cache-control":
+          "public, max-age=60, s-maxage=300, stale-while-revalidate=600",
+      },
+    },
+  );
+}
+
+async function fetchYahooCrypto(symbol, id) {
+  try {
+    const payload = await fetchJson(
+      `${YAHOO_CHART_URL}${encodeURIComponent(symbol)}?interval=1h&range=7d`,
+      7000,
+      { "user-agent": "Investors.ge crypto market/2.0" },
+    );
+    const result = payload.chart?.result?.[0];
+    const meta = result?.meta;
+    const price = Number(meta?.regularMarketPrice);
+    const previousClose = Number(meta?.chartPreviousClose);
+    const sparkline = (result?.indicators?.quote?.[0]?.close ?? []).filter(
+      Number.isFinite,
+    );
+    if (!Number.isFinite(price)) return null;
+    return [
+      id,
+      {
+        usd: price,
+        usd_24h_change:
+          Number.isFinite(previousClose) && previousClose
+            ? ((price - previousClose) / previousClose) * 100
+            : null,
+        last_updated_at: meta.regularMarketTime ?? null,
+        sparkline,
+      },
+    ];
+  } catch {
+    return null;
+  }
+}
+
+async function serveMarketData() {
+  const [cryptoResult, fxResult] = await Promise.allSettled([
+    fetchJson(CRYPTO_URL),
+    fetchJson(NBG_URL),
+  ]);
+  const cryptoRows =
+    cryptoResult.status === "fulfilled" ? cryptoResult.value : [];
+  const fxRows = fxResult.status === "fulfilled" ? fxResult.value : [];
+  if (!cryptoRows.length && !fxRows.length) {
+    return json(
+      {
+        error: "MARKET_DATA_UNAVAILABLE",
+        message: "Live market data is temporarily unavailable.",
+      },
+      { status: 503, headers: { "cache-control": "no-store" } },
+    );
+  }
+  const currencies = fxRows?.[0]?.currencies ?? [];
+  const byCode = (code) => currencies.find((item) => item.code === code);
+  let crypto = Object.fromEntries(
+    cryptoRows.map((item) => [
+      item.id,
+      {
+        usd: item.current_price,
+        usd_24h_change: item.price_change_percentage_24h,
+        last_updated_at: Math.floor(
+          new Date(item.last_updated).getTime() / 1000,
+        ),
+        sparkline: item.sparkline_in_7d?.price ?? [],
+      },
+    ]),
+  );
+  if (!cryptoRows.length) {
+    const yahooCrypto = (
+      await Promise.all([
+        fetchYahooCrypto("BTC-USD", "bitcoin"),
+        fetchYahooCrypto("ETH-USD", "ethereum"),
+        fetchYahooCrypto("SOL-USD", "solana"),
+      ])
+    ).filter(Boolean);
+    crypto = Object.fromEntries(yahooCrypto);
+  }
+  return json(
+    {
+      crypto: {
+        bitcoin: crypto.bitcoin,
+        ethereum: crypto.ethereum,
+        solana: crypto.solana,
+      },
+      fx: {
+        usd: byCode("USD"),
+        eur: byCode("EUR"),
+        gbp: byCode("GBP"),
+      },
+      fetchedAt: new Date().toISOString(),
+      sources: {
+        crypto: cryptoRows.length
+          ? "CoinGecko"
+          : Object.keys(crypto).length
+            ? "Yahoo Finance"
+            : null,
+        fx: currencies.length ? "National Bank of Georgia" : null,
+      },
+      partial: !Object.keys(crypto).length || !currencies.length,
+    },
+    {
+      headers: {
+        "cache-control":
+          "public, max-age=60, s-maxage=60, stale-while-revalidate=300",
+      },
+    },
+  );
+}
+
+function cleanSymbols(value = "") {
+  return [...new Set(
+    value
+      .split(",")
+      .map((symbol) => symbol.trim().toUpperCase())
+      .filter((symbol) => /^[A-Z0-9^=.-]{1,12}$/.test(symbol)),
+  )].slice(0, 20);
+}
+
+async function fetchQuote(symbol) {
+  try {
+    const payload = await fetchJson(
+      `${YAHOO_CHART_URL}${encodeURIComponent(symbol)}?interval=1d&range=5d`,
+      6000,
+      { "user-agent": "Investors.ge market news/2.0" },
+    );
+    const meta = payload.chart?.result?.[0]?.meta;
+    const price = Number(meta?.regularMarketPrice);
+    const previousClose = Number(meta?.chartPreviousClose);
+    if (
+      !Number.isFinite(price) ||
+      !Number.isFinite(previousClose) ||
+      !previousClose
+    ) {
+      return null;
+    }
+    return {
+      symbol: meta.symbol || symbol,
+      price,
+      currency: meta.currency || null,
+      changePercent: ((price - previousClose) / previousClose) * 100,
+      marketTime: meta.regularMarketTime || null,
+    };
+  } catch {
+    return null;
+  }
+}
+
+async function serveQuotes(url) {
+  const symbols = cleanSymbols(url.searchParams.get("symbols"));
+  const results = await Promise.all(symbols.map(fetchQuote));
+  return json(
+    {
+      quotes: Object.fromEntries(
+        results.filter(Boolean).map((quote) => [quote.symbol, quote]),
+      ),
+      source: "Yahoo Finance",
+      fetchedAt: new Date().toISOString(),
+    },
+    {
+      headers: {
+        "cache-control":
+          "public, max-age=60, s-maxage=300, stale-while-revalidate=600",
+      },
+    },
+  );
+}
+
+export default {
+  async fetch(request, env) {
+    const url = new URL(request.url);
+    if (url.pathname === "/api/news-ingest" && request.method === "POST") {
+      return ingestNews(request, env);
+    }
+    if (url.pathname === "/data/global-news.json") return serveNews(env);
+    if (url.pathname === "/api/market-data") return serveMarketData();
+    if (url.pathname === "/api/news-quotes") return serveQuotes(url);
+    return env.ASSETS.fetch(request);
+  },
+
+};
