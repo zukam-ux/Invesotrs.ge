@@ -1,8 +1,118 @@
 {
-  "updatedAt": "2026-07-24T21:42:49.749Z",
+  "updatedAt": "2026-07-24T22:41:40.562Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "b72c1a8acfaad4f6",
+      "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department's Freedom Tech Excellence Program",
+      "source": "The Block",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWW1kOEF0WmpDZFlaR1htelppVnFmcGs1MTVCNHhQVHAzM0k5OUxGVlpzU3VzaHFycExpU05DbHphTVdUTlB5Q1VySk5rUXRGZS1QOWNDWDVxSWNlWTc4MVl6eE5ZNjdNVzN5T3Z6b05FQVc3M3RvVVdkU1F5amR4WVAzdE5qYjJXT2lTeGNreTJXTWpoVVdiSEdiSnI1UkFzU25lZ3EzY296YVQxeHJJSFJOb0tQYlpONWtuV1RBS0E3MW9BcDhxQ0FxbnFvb2FNVnJyTllmblYydzZRWThVNjV1TG82c1FlT3dUQkZJNGs2Nl8yMlpUVA?oc=5",
+      "publishedAt": "2026-07-24T22:21:01.000Z",
+      "titleKa": "ბიტკოინის პოლიტიკის ინსტიტუტი, Palantir და Anduril შეუერთდნენ აშშ-ის სახელმწიფო დეპარტამენტის თავისუფლების ტექნოლოგიების პროგრამას",
+      "summaryKa": "ბიტკოინის პოლიტიკის ინსტიტუტი, Palantir და Anduril შეუერთდნენ აშშ-ის სახელმწიფო დეპარტამენტის პროგრამას.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "83dd281ea7071529",
+      "title": "Xerox and 4 More Stocks See Action From Activist Investors",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNlRQS0NWSm9Cd0ZRakhmM3dRSDg3WFkyOGhEV091V0RzcHI0bGlQU2twQUhoaEFIdUNtQ24yOW00bW1IV3MwQ3p1YUhObGRpWmFreDlaNjJfVHEyNHlENEJNUF9fZ2diT2tCbzVqMDI0VVZkNkduTktzZEthQl9sZm1lLUJ4RlNZUnJTb3B5d19zZGNsbkV5bkt2bzIyVGlJMFE?oc=5",
+      "publishedAt": "2026-07-24T22:19:00.000Z",
+      "titleKa": "Xerox და 4 სხვა აქცია აქტიური ინვესტორების ყურადღების ცენტრში",
+      "summaryKa": "Xerox და 4 სხვა აქცია აქტიური ინვესტორების ყურადღების ცენტრშია.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "eef53f74d51d47f7",
+      "title": "Tim Cook’s final Apple earnings report puts pricing power to the test",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTFlNVgtdW1uVW9kUXptcUc3MmNUc2hDell3LThGcHRYUmxRdmp2WTFQSDA1QnNFR29RUF9wREJMdFUta2pCWFczRER3TnJhWENQWUtCMXF2OHBEQUNPa0hmXzVic29DVlp1YzBSeVQ0dGNuZVR5ODJDeUQ2VFZjT2FNVFRFclJ6NDM3Z1VIUzZ0MjU5aml2dGd3OGJIaWt6TXFpbHNudmJOcTh6S1U2bg?oc=5",
+      "publishedAt": "2026-07-24T22:15:57.000Z",
+      "titleKa": "ტიმ კუკის ბოლო Apple-ის ფინანსური ანგარიში ფასების ძალას გამოცდის",
+      "summaryKa": "ტიმ კუკის ბოლო Apple-ის ფინანსური ანგარიში ფასების ძალას გამოცდის.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d7fdf101d51d7949",
+      "title": "Rockwell Automation (ROK) Stock Looks Rich On Earnings But Strong On Returns",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0QyeFNUTFdSUzk1emdVX1cxRzlRNy1aRFNmdFFuSTl0dm56VTZkUTcxLWdPc0t1ZnRnVHpXNWRsUGZTVGtaYzNWN0tMRWYwYm5iTUFHNldXbk42RFJsVDdKZU1oTXcyQ1BmQ2g5cUxZbHJoeHZwNEdtemtYR0xHaWZVbjlMU3BUOXZPTklKVjFyLTRYUlpuUDlHa1F2TEYtMXc?oc=5",
+      "publishedAt": "2026-07-24T22:13:00.000Z",
+      "titleKa": "Rockwell Automation (ROK) აქცია მაღალი მოგების მიუხედავად ძლიერი დაბრუნებით გამოიყურება",
+      "summaryKa": "Rockwell Automation (ROK) აქცია მაღალი მოგების მიუხედავად ძლიერი დაბრუნებით გამოიყურება.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f565a558749dadf5",
+      "title": "3PL stocks drop in wake of stunning Texas case against C.H. Robinson",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNzl6aE9TYTRCU0ZWRVpQWXB0TVdnb0xtVi11WHJ6SXhTUmtNUHl3Z0FXcXgtaVB0WkppZTE2M2UyVTY5c3pxdG5BV3A3elMxaGNvUjh5cFFGVWdEY0lsZVpmdnA5enRGaVdZX181d2VvNDNpbnpWYjhkR1ZZZ2xuV0VMSThFMm5KclV0N1VXZm5fRWNoZFpPTmd3?oc=5",
+      "publishedAt": "2026-07-24T22:05:32.000Z",
+      "titleKa": "3PL აქციები C.H. Robinson-ის წინააღმდეგ შოკისმომგვრელი საქმის შემდეგ დაეცა",
+      "summaryKa": "3PL აქციები C.H. Robinson-ის წინააღმდეგ შოკისმომგვრელი საქმის შემდეგ დაეცა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "90ddee9f7d611824",
+      "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjRLRnZjeVFBZmZuaVRzRUluLTZrLTE5QzdBVXcwR1p4V3YzcVotY28zblBHbVZjcUdBTXkxVGdhMWNCeTQ0Tm52OHZQOTVYUWFXRE5RTWxtVGluR2ZleTd0Z0ZiZ2pkYlM1bkpWTGo3Y19NR0EwUlc4Z0FXQmhQNTJTTmRjNFV6OV96Uzh3R0dkekdpcC1GTlZWVFgydk1mSEVkTw?oc=5",
+      "publishedAt": "2026-07-24T22:03:16.000Z",
+      "titleKa": "აქციები კრიპტოს გადააჭარბეს Hyperliquid-ზე. ARK ამბობს, რომ ეს ყველაფერი ცვლის",
+      "summaryKa": "აქციები კრიპტოს გადააჭარბეს Hyperliquid-ზე.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "475f8d49fa59cb96",
+      "title": "Options Action: Calls outpacing puts on UPS ahead of earnings",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjgzN1YwOTMzdHZvOXl0aDBkVHc5dzJuLWhuR19pZWJFRGdsU01xZWpQcGNPdnhDU0FhbVJrU0RPdndPRWN1S25vUkd6NEh2RnZ6MG5nb3lGVVdtUG55RkRVYnkybXdudG5pSm16V3Q3UERSYVFWSnJUcF9TZDJPd2lieDAzMVJWMGNEMWJ0dm40di1WTDVXcGM5NUh2S0NfRkc0RVZB?oc=5",
+      "publishedAt": "2026-07-24T21:55:12.000Z",
+      "titleKa": "Options Action: UPS-ის წინასწარი მოგების გამო ზარალები ზარალებზე მეტია",
+      "summaryKa": "UPS-ის წინასწარი მოგების გამო ზარალები ზარალებზე მეტია.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c010eba8dfaffc2e",
+      "title": "Fed must take action on 'problematic' inflation rate, says markets forecaster Jim Bianco",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0J2N0VtU1F1dUtGMW5aVnJGRlh1QkpyTmJNTFV3NjdFUnMzRmRRcW0tVHhVeEttb29kRlJKemcxQWdEOHhzcXRQczRpcVFKQ3FvUXZTSTM5aW1Wdkk1ZHd6Wm5LdHNuZlV1SmFpWjlIZGdIN0ZucThpd1doTzJIZ0F1QlJjcHlDZm1tcVR2dzN3WHNCeTVISUozMUx1bUhxMFBDRGpHaDVuWFZBdmtYYlpHX21zSFJlbkRwMjRkTThJcTY0S19F?oc=5",
+      "publishedAt": "2026-07-24T21:51:15.000Z",
+      "titleKa": "ფედერალური სარეზერვო სისტემა უნდა იმოქმედოს 'პრობლემური' ინფლაციის მაჩვენებელზე, ამბობს ბაზრის პროგნოზისტი ჯიმ ბიანკო",
+      "summaryKa": "ფედერალური სარეზერვო სისტემა უნდა იმოქმედოს 'პრობლემური' ინფლაციის მაჩვენებელზე.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d40f06ff62f2f0ca",
+      "title": "Why Paper Stocks Were Among the S&P 500’s Top Performers Friday",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94dmE0TEdrTFJJSE9KdUtuNWU3M3RXRnBKUkh4cVpPQ1l1ZnRzeEZDLTRRMlhnZXpjOWZmbmZZaDhGWHZKRTBDSjFCYkpieHVSbmlSUWRmdFVaLU5jbmpnbnM0eEVlRWdLdFM5enFB?oc=5",
+      "publishedAt": "2026-07-24T21:45:00.000Z",
+      "titleKa": "რატომ იყო ქაღალდის აქციები S&P 500-ის საუკეთესო შემსრულებლებს შორის პარასკევს",
+      "summaryKa": "ქაღალდის აქციები S&P 500-ის საუკეთესო შემსრულებლებს შორის იყო პარასკევს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f2fe6d2a4cb248c3",
+      "title": "Micron Stock Falls to End Strong Week. What Comes Next Could Define the Memory Boom.",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FWXJZQ0VETF9uSklXMVRYTE5VQk9sd0JwTmlvT1Zjd2dIeHFoZkZER3FCVFhzRTZXWklYUWIyQnF5TFVSdURBQmw3OGlsSnBnT2xkaVM3enBXUWFpSFRmWmcwYTc5TFh1YlhXT3hpWU5mUkJtWWc?oc=5",
+      "publishedAt": "2026-07-24T21:38:00.000Z",
+      "titleKa": "Micron-ის აქციები დაეცა ძლიერი კვირის დასრულების შემდეგ. მომავალი შესაძლოა მეხსიერების ბუმის განსაზღვროს.",
+      "summaryKa": "Micron-ის აქციები დაეცა ძლიერი კვირის დასრულების შემდეგ.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "b60c68afa80071f1",
       "title": "Charter Earnings Beat Estimates. Subscriber Losses Suggest a Bleak Future for Cable.",
@@ -660,17 +770,6 @@
       "publishedAt": "2026-07-24T13:52:00.000Z",
       "titleKa": "Google-ის მოგება შესაძლოა ცუდი ნიშანი იყოს დიდი ტექნოლოგიური აქციებისთვის",
       "summaryKa": "Google-ის მოგება შესაძლოა ცუდი ნიშანი იყოს დიდი ტექნოლოგიური აქციებისთვის.",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "f2fe6d2a4cb248c3",
-      "title": "Micron Stock Falls to End Strong Week. What Comes Next Could Define the Memory Boom.",
-      "source": "Barron's",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FWXJZQ0VETF9uSklXMVRYTE5VQk9sd0JwTmlvT1Zjd2dIeHFoZkZER3FCVFhzRTZXWklYUWIyQnF5TFVSdURBQmw3OGlsSnBnT2xkaVM3enBXUWFpSFRmWmcwYTc5TFh1YlhXT3hpWU5mUkJtWWc?oc=5",
-      "publishedAt": "2026-07-24T13:46:00.000Z",
-      "titleKa": "Micron-ის აქციები დაეცა ძლიერი კვირის დასრულების შემდეგ. მომავალი შესაძლოა მეხსიერების ბუმის განსაზღვროს.",
-      "summaryKa": "Micron-ის აქციები დაეცა ძლიერი კვირის დასრულების შემდეგ.",
       "category": "აქციები",
       "translationNotice": "AI-assisted Georgian translation"
     },
