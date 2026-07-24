@@ -225,7 +225,7 @@ async function loadGlobalNews(){
             <span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)} ${newsQuoteBadge(identity)}</b><small>${relativeNewsTime(article.publishedAt)} · ${escapeNews(article.source)} · ${escapeNews(article.category)}</small></span></span>
             <h3>${escapeNews(article.titleKa)}</h3>
             <p>${escapeNews(article.summaryKa)}</p>
-            <span class="meta"><span class="translation-label">AI თარგმანი</span> · პირველწყარო ↗</span>
+            <span class="meta">პირველწყარო ↗</span>
           </a>`}).join(""):'<div class="news-status">პირველი ავტომატური განახლება მზადდება. გლობალური ამბები საათში ერთხელ განახლდება.</div>';
         if(visibleCount<allArticles.length){
           const more=document.createElement("button");
@@ -255,7 +255,7 @@ async function loadGlobalNews(){
           ${identityMarkup(leadIdentity)}
           <h2>${escapeNews(lead.titleKa)}</h2>
           <p>${escapeNews(lead.summaryKa)}</p>
-          <span class="top-story-footer"><b>${escapeNews(lead.source)}</b><span>·</span><span>${relativeNewsTime(lead.publishedAt)}</span><span>·</span><span>AI თარგმანი</span><span>↗</span></span>
+          <span class="top-story-footer"><b>${escapeNews(lead.source)}</b><span>·</span><span>${relativeNewsTime(lead.publishedAt)}</span><span>↗</span></span>
         </a>
         <aside class="top-story-list">
           <div class="top-story-list-head"><h3>მთავარი ამბები</h3><a href="news.html">ყველა ამბავი →</a></div>
