@@ -3,8 +3,8 @@ body{--header-max:1440px}
 header{position:relative;top:auto;background:#fff;border-bottom:1px solid #dfe5e2;backdrop-filter:none}
 .nav{max-width:var(--header-max);height:80px;padding:0 30px;gap:24px}
 .nav .logo{flex:0 0 auto;font-size:26px}
-.nav .links{order:3;margin-left:auto;gap:24px;font-size:13px}
-.nav .asset-search{order:2;margin-left:0;width:min(620px,42vw)}
+.nav .links{display:none}
+.nav .asset-search{order:2;margin-left:0;width:min(760px,58vw)}
 .nav .asset-search .nav-search{height:50px;border:0;border-radius:999px;background:#f0f3f1;padding-left:48px;padding-right:86px;font-size:14px;box-shadow:none}
 .nav .asset-search .nav-search:hover{background:#e9eeeb}
 .nav .asset-search .nav-search:focus{background:#fff;box-shadow:0 0 0 2px #07845c}
@@ -30,8 +30,7 @@ header{position:relative;top:auto;background:#fff;border-bottom:1px solid #dfe5e
 .ticker .up{color:#07845c}.ticker .down{color:#dc3345}
 .ticker .live-change-chip{flex-basis:auto;margin-left:0}
 @media(max-width:1100px){
-  .nav .links{display:none}
-  .nav .asset-search{width:min(680px,65vw)}
+  .nav .asset-search{width:min(760px,70vw)}
   .finance-sections-inner,.subnav-inner{gap:28px}
 }
 @media(max-width:700px){

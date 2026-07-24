@@ -15,22 +15,22 @@ document.querySelectorAll('[data-ticker]').forEach(el=>el.innerHTML=tickerMarkup
   const topline=document.querySelector('.topline');
   if(!header||!topline)return;
 
+  const path=location.pathname.split('/').pop()||'index.html';
+  const items=[
+    ['index.html','მთავარი'],
+    ['markets.html','ბაზრები'],
+    ['news.html','სიახლეები'],
+    ['learn.html','სწავლა'],
+    ['compare.html','შედარება'],
+    ['tools.html','ინსტრუმენტები']
+  ];
   let sections=document.querySelector('.subnav');
   if(!sections){
-    const path=location.pathname.split('/').pop()||'index.html';
-    const items=[
-      ['index.html','მთავარი'],
-      ['markets.html','ბაზრები'],
-      ['news.html','ბოლო ამბები'],
-      ['learn.html','ინვესტირების საფუძვლები'],
-      ['compare.html','ბანკები და ბროკერები'],
-      ['tools.html','კალკულატორები']
-    ];
     sections=document.createElement('div');
     sections.className='finance-sections';
-    sections.innerHTML=`<nav class="finance-sections-inner" aria-label="ფინანსური განყოფილებები">${items.map(([href,label])=>`<a href="${href}"${path===href?' class="active"':''}>${label}</a>`).join('')}</nav>`;
     header.after(sections);
   }
+  sections.innerHTML=`<nav class="${sections.classList.contains('subnav')?'subnav-inner':'finance-sections-inner'}" aria-label="ფინანსური განყოფილებები">${items.map(([href,label])=>`<a href="${href}"${path===href?' class="active"':''}>${label}</a>`).join('')}</nav>`;
   sections.after(topline);
 })();
 document.querySelectorAll('[data-year]').forEach(el=>el.textContent=new Date().getFullYear());
