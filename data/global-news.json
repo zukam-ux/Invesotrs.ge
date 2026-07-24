@@ -1,8 +1,118 @@
 {
-  "updatedAt": "2026-07-24T19:07:52.572Z",
+  "updatedAt": "2026-07-24T20:39:25.835Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "c14dd37140893c68",
+      "title": "Archer-Daniels-Midland (ADM): Buy, Sell, or Hold Post Q1 Earnings?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVDBVWm9SdEUyRUVsM3R0NnNFYzA1SlBqOHYxRldzQXhFajBlMTdlaTg3c3UzZFdyM0Foek5VRDdocWJBOW92bVpxRDZDR0EyTERtTTd1TFpRZnptUUlpdDNKSkhMaGY2b1dQRDJvT0ZLRXRhaFRaeEw1TlNseWV4TnNaV28zSGVpYXBwZjJYZUtsS0std1dvZ19WWQ?oc=5",
+      "publishedAt": "2026-07-24T20:25:08.000Z",
+      "titleKa": "Archer-Daniels-Midland (ADM): უნდა ვიყიდოთ, გავყიდოთ თუ შევინარჩუნოთ Q1-ის შემოსავლების შემდეგ?",
+      "summaryKa": "Archer-Daniels-Midland (ADM) განიხილავს Q1-ის შემოსავლების შედეგების შემდეგ ინვესტორების გადაწყვეტილებებს.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4b0ca2d89998d36f",
+      "title": "How Oil Chaos on Four Fronts Drives Wild Swings and Supply Fears",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGFNVm9OcDVTRXV3UVQxeUVxUm5iQ04xNWZ3UDFja2czdEFxMWpIaThNMmc3VmpwcWlHZDBEYl9kOEdJVnYyano1dXUyaEwxTUtQU0JzVW9ncXMyODA3RjhpR3ZxbW5LTVZWLVBkUVBxS2pHTUxhbjZkcTd1R3EyZ05tSk4yVlZqUG0yb1B1ZFVVVGZUbWhYZC05MVFJb004eEVDbmdYU04xVkFwTnhwUjh5aXB3UQ?oc=5",
+      "publishedAt": "2026-07-24T20:15:20.000Z",
+      "titleKa": "როგორ მოქმედებს ნავთობის ქაოსი ოთხ ფრონტზე ველური რყევების და მიწოდების შიშების შექმნაზე",
+      "summaryKa": "ნავთობის ქაოსი ოთხ ფრონტზე იწვევს ველურ რყევებს და მიწოდების შიშებს.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "58089f15d6acbf11",
+      "title": "Ellington Financial Announces Release Date of Second Quarter 2026 Earnings, Conference Call, and Investor Presentation",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2tFdEFWMG5jdVB4MzJpVGhJd1lUY0NvTC1DekM3Qzgwb1dIUHFwNmJlM1ZsUWFqV2taYV83Tnd6aHNLQjZnbDBrc2hUTTMyZjZDS2t3bEZ4a2kyeUJUODBqQXhtUk9TbndtM0VwQmd5WkdRWl9iU29jVEtqeUFtV2R4VXdCal92Mmx1V0Q4Y2Nic1NfSFhCSmFjOXFKbGxDOC1URGw3ODdBSDQ?oc=5",
+      "publishedAt": "2026-07-24T20:15:00.000Z",
+      "titleKa": "Ellington Financial აცხადებს 2026 წლის მეორე კვარტლის შემოსავლების, კონფერენციის ზარის და ინვესტორის პრეზენტაციის გამოშვების თარიღს",
+      "summaryKa": "Ellington Financial აცხადებს 2026 წლის მეორე კვარტლის შემოსავლების გამოშვების თარიღს.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8a706e28c0b001bd",
+      "title": "Wall Street Bulls Are Staring Down $100 Oil, Tariffs, AI Angst",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRkQ4VFo1YXZqNTJtNmt5a2lnTVlrS0VCUEpteGNYZ0hlVnExYnotZW15QXNfa04wN0lKZDZTVUF5SUpXaHpuU2RwRVJnSEdSVkNiSkk4QVZBOVRxWFhZcndTdGxzZGZERU15OExId2FraVZ5b2JuRm1ST2VFX3dMY1d5YXNtQmJwaUpGWTZfSEVZZUZQLUxRMVZ3WE45UGVGUmdxQ0M0UW9wd2g3ekdR?oc=5",
+      "publishedAt": "2026-07-24T20:12:40.000Z",
+      "titleKa": "Wall Street-ის ბულები $100 ნავთობის, ტარიფების და AI-ის შიშების წინაშე არიან",
+      "summaryKa": "Wall Street-ის ბულები $100 ნავთობის, ტარიფების და AI-ის შიშების წინაშე დგანან.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "62eb06cdd38cc6e0",
+      "title": "Arbor Realty Trust Schedules Second Quarter 2026 Earnings Conference Call",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYjBWU0ZxQmgtTXFEUnpQUi00dFl3a1MzUFZLZzFVVDBKcC14YmgxYUEtT1ZZdDhoTmZ2ZFlyalBYM1gwTTloYzhuUmtJZV9NUGFYc1hUaktXeHJaOHdyaWY1TzIwOGgzVGNBRHRSQmJOb1hsNUlqZXJiLVlPZVZ2eGFuZU8yMmRON0gxRkEtYmczenhVOWpjUnpmZVo1Zw?oc=5",
+      "publishedAt": "2026-07-24T20:05:00.000Z",
+      "titleKa": "Arbor Realty Trust გეგმავს 2026 წლის მეორე კვარტლის შემოსავლების კონფერენციის ზარს",
+      "summaryKa": "Arbor Realty Trust გეგმავს 2026 წლის მეორე კვარტლის შემოსავლების კონფერენციის ზარს.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "fdde1b498fd5dcbe",
+      "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVFoS0pPSjU4OTY3YzBVSFdHN3kzZWd2UjZ0WGRiX0pEUXhzNnZ1UjU2eDBnN3hlZHdhWnJvSWhEMEpJbUVhM01ETXdrbTFkSGVoX2ktUVVhckI5Qmlha2wzcDZmbkZmc0dZeGhnb0tYZW5RS29tUGlYWU5salVBOFRkYmQ2enhOcktIYmx5UHBUNjlVSUF5b3RyTDgwS0NvVmlJQ0hn?oc=5",
+      "publishedAt": "2026-07-24T20:03:19.000Z",
+      "titleKa": "Nasdaq ჩამორჩება AI ხარჯების შიშების გამო შემოსავლების ანგარიშების წინ",
+      "summaryKa": "Nasdaq ჩამორჩება AI ხარჯების შიშების გამო.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f73aaf3a87679425",
+      "title": "Inside the Race to Quantum-Proof Bitcoin: Why BlackRock and Galaxy Are Stepping In.",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObVRYdENWdUdzMFVzTHJfdU9JalVQdm95YVp4aUhfZnRBaXk3UDRMcGc5T1FiM1BDOGhkTjNmZTZGVzZVblFqak1DX1NZTnVaQWdfYzlFQXJhN0lKeGxQbXk2c2xDTXNKV1gtckdXcnZ3azVlVmdLYXV2R1JTUHNweE9R?oc=5",
+      "publishedAt": "2026-07-24T19:50:00.000Z",
+      "titleKa": "Bitcoin-ის კვანტური დაცულობის რბოლაში: რატომ შედიან BlackRock და Galaxy",
+      "summaryKa": "BlackRock და Galaxy მონაწილეობენ Bitcoin-ის კვანტური დაცულობის რბოლაში.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d65fee1e15ea81f6",
+      "title": "Logansport Financial Corp. Reports Net Earnings for the Quarter Ended June 30, 2026",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcUxXRS0wYjhodWN1M3Z1OWJzNW1PUm1FQ2F5dFhZdk1Cc0szcmtmQnNLQXFSUHIxZlBQYUo1elVpcnl1NDl4cldYTUZwTFJMVnh3WmM4SVZQdHVrU3FSREFQdVdObENlblBNNlN6dHBEQ3J0YldOZ21yT0dDa21OOWE0cU4tUGUwQ0RYelR0WmxIeGp3Njc5a2VXa3ZUV1VuTXQ4MQ?oc=5",
+      "publishedAt": "2026-07-24T19:39:00.000Z",
+      "titleKa": "Logansport Financial Corp. ანგარიშობს წმინდა შემოსავლებზე 2026 წლის 30 ივნისის კვარტალში",
+      "summaryKa": "Logansport Financial Corp. ანგარიშობს წმინდა შემოსავლებზე 2026 წლის 30 ივნისის კვარტალში.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c8d1ab1245de5178",
+      "title": "How QQA Delivers 10% Yields From Tech Stocks That Pay Almost Nothing",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0E1Y2JlM2YtSWtLWl9XZk1BdEZyTmFTcDJpWll0SnNmS3NlREFYTXhZbm41ay1TbE9yX2pDcy1NWUdjM2JXOXZLTFZUb2tJckNudVJCVWtleWlmbTRodGthUDlaUEdJeHlPMVNfZlVscGFJazZ0b3l6X1kyVVA4X01DdzhyNW5Bd0Vvb1hveFdWWkRmMk8wTA?oc=5",
+      "publishedAt": "2026-07-24T19:32:29.000Z",
+      "titleKa": "როგორ აწვდოს QQA 10%-იანი შემოსავალი ტექნოლოგიური აქციებიდან, რომლებიც თითქმის არაფერს იხდიან",
+      "summaryKa": "QQA აწვდობს 10%-იან შემოსავალს ტექნოლოგიური აქციებიდან.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9692578e1a55f367",
+      "title": "The world is facing its largest oil shock ever. Here is why prices are not higher.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc3lFV3BvYmlZVmgtVkg0dnZpc3BhLTZoOXNNdm9KRjlaaV94cmpKRXR5VzdFMjlqcFZPa2dteVpsSU5aZ2tBdjRGRW5jY3hjRkkwZE1xUHhNcTl3OWpGSFpMY05fbHpGNGNMaHZsRzl0bFg2bWNoNWxuZDFBYm1oUlNqb2JSRzFkcnFNUTlZXzN1aXlSNDEydzZuYXZTVWJiZEFtcW81SF9GNDJRd1RSWl9fb0w3cjlxLWVhSUJpbmo?oc=5",
+      "publishedAt": "2026-07-24T19:31:00.000Z",
+      "titleKa": "მსოფლიო ყველაზე დიდ ნავთობის შოკს აწყდება. აი რატომ არ არის ფასები უფრო მაღალი.",
+      "summaryKa": "მსოფლიო ყველაზე დიდ ნავთობის შოკს აწყდება.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "796aa807d4707292",
       "title": "Cardano co-founder Hoskinson says Bitcoin could lose top spot if governance fails quantum test",
@@ -12,6 +122,17 @@
       "titleKa": "Cardano-ს თანადამფუძნებელი ჰოსკინსონი ამბობს, რომ თუ მმართველობა კვანტური ტესტის დროს ჩავარდება, Bitcoin-ი შეიძლება დაკარგოს ლიდერის პოზიცია",
       "summaryKa": "ჰოსკინსონი აღნიშნავს, რომ Bitcoin-ი შეიძლება დაკარგოს ლიდერის პოზიცია, თუ მისი მმართველობა ვერ გაუძლებს კვანტურ ტესტს.",
       "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "14f99fd88e872593",
+      "title": "Cardano co-founder Hoskinson says Bitcoin could lose top spot if governance fails quantum test",
+      "source": "The Block",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZGowdXgyVUFJY2ZFdGZsRjZSeXBOT3IyTmx6TmFzYmxtckI4VWZTSW0yaUY4VjRTdVJtQTBGUWZQbk9JMHlmUlQyMEFFMFBReWk2bFV0cERFdWNvWXpCYXoxNllTdW80ejF3UWcxblVib3hGX3FHLW5pa3hnNHhnZGt5bjR1bjFoM09FNlJFRmVCU3h0b3FvVFFiUWNmc0h2R25ZUUZ0OEZiZ1pfbF9lUTFUZDVhTHc?oc=5",
+      "publishedAt": "2026-07-24T19:01:53.000Z",
+      "titleKa": "Cardano-ს თანადამფუძნებელი ჰოსკინსონი ამბობს, რომ Bitcoin-მა შეიძლება დაკარგოს ლიდერობა, თუ მმართველობა კვანტური ტესტის დროს ჩავარდება",
+      "summaryKa": "Cardano-ს თანადამფუძნებელი ჰოსკინსონი აცხადებს, რომ Bitcoin-მა შეიძლება დაკარგოს ლიდერობა მმართველობის ჩავარდნის შემთხვევაში.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -45,17 +166,6 @@
       "titleKa": "რომელი საჰაერო სივრცის ETF არის უკეთესი შესყიდვა 2026 წელს: Invesco Aerospace & Defense თუ U.S. Global Jets?",
       "summaryKa": "მკითხველებს სურთ გაიგონ, რომელი საჰაერო სივრცის ETF არის უკეთესი შესყიდვა 2026 წელს.",
       "category": "ETF",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "f73aaf3a87679425",
-      "title": "Inside the Race to Quantum-Proof Bitcoin: Why BlackRock and Galaxy Are Stepping In.",
-      "source": "Barron's",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObVRYdENWdUdzMFVzTHJfdU9JalVQdm95YVp4aUhfZnRBaXk3UDRMcGc5T1FiM1BDOGhkTjNmZTZGVzZVblFqak1DX1NZTnVaQWdfYzlFQXJhN0lKeGxQbXk2c2xDTXNKV1gtckdXcnZ3azVlVmdLYXV2R1JTUHNweE9R?oc=5",
-      "publishedAt": "2026-07-24T18:28:00.000Z",
-      "titleKa": "Bitcoin-ის კვანტური დაცულობის რბოლაში: რატომ შედიან BlackRock და Galaxy",
-      "summaryKa": "BlackRock და Galaxy მონაწილეობენ Bitcoin-ის კვანტური დაცულობის რბოლაში.",
-      "category": "ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
