@@ -29,6 +29,23 @@ header{position:relative;top:auto;background:#fff;border-bottom:1px solid #dfe5e
 .ticker>span>i{font-family:"Noto Sans Georgian","DM Sans",sans-serif}
 .ticker .up{color:#07845c}.ticker .down{color:#dc3345}
 .ticker .live-change-chip{flex-basis:auto;margin-left:0}
+@media(min-width:1081px){
+  .editorial-home{
+    width:min(1400px,calc(100vw - 48px));
+    margin-left:50%;
+    transform:translateX(-50%);
+    grid-template-columns:minmax(0,1.7fr) minmax(300px,.85fr) minmax(320px,.9fr);
+    column-gap:30px;
+    row-gap:24px;
+  }
+  .editorial-rail{
+    border:0;
+    box-shadow:0 0 0 1px rgba(15,70,48,.08),0 14px 34px rgba(15,70,48,.06);
+  }
+  .editorial-feature{
+    box-shadow:0 12px 30px rgba(15,70,48,.09);
+  }
+}
 @media(max-width:1100px){
   .nav .asset-search{width:min(760px,70vw)}
   .finance-sections-inner,.subnav-inner{gap:28px}
