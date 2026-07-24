@@ -186,7 +186,7 @@ async function loadGlobalNews(){
           const more=document.createElement("button");
           more.type="button";
           more.className="news-load-more";
-          more.textContent=`ძველი ამბების ნახვა (${allArticles.length-visibleCount})`;
+          more.innerHTML=`<span>მეტი ამბავი</span><span class="count">${allArticles.length-visibleCount}</span><span class="arrow" aria-hidden="true">↓</span>`;
           more.addEventListener("click",()=>{
             visibleCount=Math.min(visibleCount+pageSize,allArticles.length);
             renderArchive();
@@ -234,7 +234,7 @@ loadGlobalNews();
 
 document.querySelectorAll(".nav-search:not([data-asset-search])").forEach(input => {
   input.dataset.assetSearch = "";
-  input.placeholder = "კომპანია, ტიკერი, კრიპტო…";
+  input.placeholder = "კომპანია, აქცია ან კრიპტო…";
   if (!input.closest(".asset-search")) {
     const wrapper = document.createElement("label");
     wrapper.className = "asset-search";
