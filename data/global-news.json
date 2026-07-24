@@ -1,8 +1,129 @@
 {
-  "updatedAt": "2026-07-24T12:51:36.462Z",
+  "updatedAt": "2026-07-24T14:31:13.483Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "e11e1d87b5ff62de",
+      "title": "Polish president refers decision on windfall tax on oil companies to constitutional court",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT3laQk4ycS1EYl9ha2R2MDIyM3FJLU5hTEhXNXJoTHF3czBZMXowNFQxQ2VOR0drdTRqVTVxQ0YxOWRWVUJjMUx6ek1VSmtVelJWaFVOTlA1aTNfWktxSXNUTlFMNVRyNWhxSjRzNFZfUGJBQm82RzZyMVVOSjNBTGVKM1M2QlBsV0EyZWtPckIySHM5aUl3RGpNaWxKX0NEbGI2cjNhNWllWkFJeXpBVkMtNmFSTEdIc01VNGdqTk9acFh6LUJGaVQxdnJ4cTdYLWc?oc=5",
+      "publishedAt": "2026-07-24T14:07:18.000Z",
+      "titleKa": "პოლონეთის პრეზიდენტი ნავთობის კომპანიებზე ზედმეტი გადასახადის საკითხს კონსტიტუციურ სასამართლოს გადასცემს",
+      "summaryKa": "პოლონეთის პრეზიდენტი ზედმეტი გადასახადის საკითხს კონსტიტუციურ სასამართლოს გადასცემს.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5de6a518a28d8c35",
+      "title": "Newmont Reported Strong Earnings and Cash Flow. The Stock Is Down.",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObHpkLUxQZ2RGRjZ6NlhVblpfU3FiWHQzSm1SazdqRC1WdjhiNTlEUmxXRk5yTk5hd1dPc2Ftel9GYjA0VHhzcUxhUFRtQURQek1NSjUxOFZFZkVUQUJVNE5qamJHYUpSV0duZWotc1RxNE5aQzVmNDBHaGNiQXo3Qg?oc=5",
+      "publishedAt": "2026-07-24T14:04:00.000Z",
+      "titleKa": "Newmont-მა ძლიერი მოგება და ნაღდი ფული გამოაცხადა. აქციები დაეცა.",
+      "summaryKa": "Newmont-მა ძლიერი მოგება და ნაღდი ფული გამოაცხადა, თუმცა აქციები დაეცა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "95e5150ca223a9a1",
+      "title": "U.S. economy began to speed up — until Iran peace talks failed and oil prices surged again",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcjJPU0hKTGwxdUZ4SEp4Sk12M3A0SFB1Z1VXTWtLXzNJcE5jaUs3cmNUZlRrUUs1aTZ5WF9pNTktdVhhQ2c2ZDMzWWwxNFk0M3lpYWE4ZkpBaXhUTENRS3J3TTl2MHZjNTUyTU5QRlRpdVVHSmpDR1dmZmtjNFpBdlNtdXc1d1dNaDBVZ3dPd01SWUc2a1ZHTDNVSmhta2hGLWFJaVlER0UwVlJuMUp1Tmo4dC1mRnJQTTZwNFZ1N0VIYXRwa3MwQWd3?oc=5",
+      "publishedAt": "2026-07-24T14:03:00.000Z",
+      "titleKa": "აშშ-ის ეკონომიკა სწრაფად ვითარდებოდა — სანამ ირანის სამშვიდობო მოლაპარაკებები ჩავარდა და ნავთობის ფასები კვლავ გაიზარდა",
+      "summaryKa": "აშშ-ის ეკონომიკა სწრაფად ვითარდებოდა, სანამ ირანის სამშვიდობო მოლაპარაკებები ჩავარდა.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "fa19b0d5d9f012e8",
+      "title": "Google Earnings Could be a Bad Omen for Big Tech Stocks",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWlRQkdtVUNuUVM0dmNJMjdWTm5fTnpiS0pJenFjR21Ha3k4dkhnQUVsTUtvZHpaTzVjLWJkMUg4TUVaUTZVTGNDOTJJaE9Yb29UaHNQYS16VURwczJpTVg2QkFNNmpqcmZyd3ZwYVZnTzFGY2VSVEtVN2VSUXU1R3hB?oc=5",
+      "publishedAt": "2026-07-24T13:52:00.000Z",
+      "titleKa": "Google-ის მოგება შესაძლოა ცუდი ნიშანი იყოს დიდი ტექნოლოგიური აქციებისთვის",
+      "summaryKa": "Google-ის მოგება შესაძლოა ცუდი ნიშანი იყოს დიდი ტექნოლოგიური აქციებისთვის.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "748dd1aecae59862",
+      "title": "American Express Earnings Surpass Expectations as Card Spending Increases 9%",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFo1TGNJbEctT043aW9ESmhaVl9wdTAyNnlRQnFGOWpmUTdfSUlER2tKcDVyc2lIZGFMcVVCek5icmtGa29DQ3pic1EzOGNrdGoybk52aFV5SnF1SGFoX3Q5SDktQ04wTXpQOU5yOGNNc041MFlSbHRQYkdTMEJ3bzI4YXhiZw?oc=5",
+      "publishedAt": "2026-07-24T13:48:00.000Z",
+      "titleKa": "American Express-ის მოგება მოლოდინებს აღემატება, რადგან ბარათზე ხარჯვა 9%-ით იზრდება",
+      "summaryKa": "American Express-ის მოგება მოლოდინებს აღემატება.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f2fe6d2a4cb248c3",
+      "title": "Micron Stock Falls to End Strong Week. What Comes Next Could Define the Memory Boom.",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FWXJZQ0VETF9uSklXMVRYTE5VQk9sd0JwTmlvT1Zjd2dIeHFoZkZER3FCVFhzRTZXWklYUWIyQnF5TFVSdURBQmw3OGlsSnBnT2xkaVM3enBXUWFpSFRmWmcwYTc5TFh1YlhXT3hpWU5mUkJtWWc?oc=5",
+      "publishedAt": "2026-07-24T13:46:00.000Z",
+      "titleKa": "Micron-ის აქციები დაეცა ძლიერი კვირის დასრულების შემდეგ. მომავალი შესაძლოა მეხსიერების ბუმის განსაზღვროს.",
+      "summaryKa": "Micron-ის აქციები დაეცა ძლიერი კვირის დასრულების შემდეგ.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "48198152ff3d2825",
+      "title": "Bank of Japan set to hold rates at 1% as inflation expectations rise - Nikkei",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JfMHEtTlFsbzJCSU9kZWNTSGg4UnlYMHpwT2dfRkpERmlUQUo2dWhjTzU2ZWZvTllzR3RfcTVGM0pVaDdKNmc4QjkzSG1YdThMMWQ0M25HdTJ0Y3VSRGdxZVdibS1ySk45N1RHS2k3SEpMTmZkOUZXcGJIbzFkSnJQN2Nyd2N0XzVyTXdCMzdQMEdM?oc=5",
+      "publishedAt": "2026-07-24T13:38:19.000Z",
+      "titleKa": "იაპონიის ბანკი განაგრძობს 1%-იან განაკვეთს ინფლაციის მოლოდინების ზრდის ფონზე",
+      "summaryKa": "იაპონიის ბანკი 1%-იან განაკვეთს შეინარჩუნებს ინფლაციის მოლოდინების ზრდის ფონზე.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d2889b5408713363",
+      "title": "My 3 Highest-Conviction Energy Stocks for the Second Half of 2026",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnpTek9VdTZKTWwyRExuVjFmZHdiUE5kcEdiRGw3T3V2V0tFV3RMVHFNY3c1TC0ycHJvT3ZxeHRiZzNRaU9BWkE1RlFSdlItUjJ1V1dDMFM0YTR6LV9MUG1SZC1tUkNjZGo4WHdyVXNKR0ptVmJQSHR1MWtWbnZRTW80UFNmV3VINGhTMjF2dWFfa3pidlE?oc=5",
+      "publishedAt": "2026-07-24T13:35:00.000Z",
+      "titleKa": "ჩემი 3 ყველაზე მაღალი რწმენის ენერგეტიკული აქციები 2026 წლის მეორე ნახევრისთვის",
+      "summaryKa": "ავტორი აღნიშნავს 2026 წლის მეორე ნახევრისთვის 3 ენერგეტიკული აქციის შესახებ.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3baa67c46a5af934",
+      "title": "Gold Miner Cadillac, Backers Raise C$385 Million in Canada IPO",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVThleUUyOG8yOEg2bm5pVWlXd0ZjZ1c3dTFPNnJUOXVtSlRQNXhDNUcyV0hPRkxRYjd5N2RnckhEdWRfSlFScEZ5dFJ3THBJQmdCeTVyMEdDVl9Xd21GREgyUHM4dXMtTmRheWtlbnM4RmdLMndVU1JCcGVkeEFxbTVHcGhXTEhHVF9qVWlPTjJWcElfOGp4Zmk2Rm1FVjVBVDJWUk1ZYVhObGw5TDdYa1ln?oc=5",
+      "publishedAt": "2026-07-24T13:32:39.000Z",
+      "titleKa": "ოქროს მინდვრის Cadillac-ის მხარდამჭერები C$385 მილიონს იკრებენ კანადის IPO-ში",
+      "summaryKa": "ოქროს მინდვრის Cadillac-ის მხარდამჭერები C$385 მილიონს იკრებენ კანადის IPO-ში.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "77da98fe0a3a6f94",
+      "title": "Bitcoin Miner Poolin Files For Bankruptcy",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNFprcjRJYkVRQUJjcGtpQmswbGM4ZEtxaFh3d0JrU1doZkxxN1dFNU4tM2ZWbDRWZWxTRmJNSEZtY0FDWkN1NlZfU1ljNTRDTU9lcFp4WUZoTzhUS0lZZnhfM0ExMVZudVdIUHV1cUdRSU5TUDk3VEdlNmg2WFRlMzU0V3VZU0xqcE14MlRyb3NsSUpheHQ3Y3RVek12Y2s3Y3pjUA?oc=5",
+      "publishedAt": "2026-07-24T13:30:00.000Z",
+      "titleKa": "Bitcoin-ის მინდვრის Poolin-მა გაკოტრების განაცხადი შეიტანა",
+      "summaryKa": "Bitcoin-ის მინდვრის Poolin-მა გაკოტრების განაცხადი შეიტანა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "0e00e359ac366e9e",
+      "title": "Strategy overhauls bitcoin metrics to account for senior claims",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWs4MWcwNnV3SVZWbDZqcnVtWlFURDd3Y3R3WTR6YlpFY3FOb2pyTElaTHMycER0T0FYR0NwSEMyZ0lnMzdwREZrejVvNU9EeXdzd1JkUDI3N1BkUHNvVTJoblRTWnRCTHJRWkxxTUhKdWtTV09LNWlOaVZKSktGVmhTRFI2cUhpbkEzckd1eld0czBzRGhvbnJEN3hEa1A1OS1ESTVtRVRpc2cwSDAyTzBUOFhvTnNmX09r?oc=5",
+      "publishedAt": "2026-07-24T13:16:01.000Z",
+      "titleKa": "სტრატეგია Bitcoin-ის მეტრიკების გადახედვას ახდენს უფროსი მოთხოვნების გათვალისწინებით",
+      "summaryKa": "სტრატეგია Bitcoin-ის მეტრიკების გადახედვას ახდენს უფროსი მოთხოვნების გათვალისწინებით.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "6ac2cfffbf6ee6e5",
       "title": "US equity funds log outflows for a second straight week as tech earnings eyed",
@@ -188,17 +309,6 @@
       "titleKa": "ბაზრები აფასებენ AI ხარჯებს, მოგებებს და მზარდ საპროცენტო განაკვეთებს",
       "summaryKa": "ბაზრები აფასებენ AI ხარჯებს და საპროცენტო განაკვეთების ზრდას.",
       "category": "ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "748dd1aecae59862",
-      "title": "American Express Earnings Surpass Expectations as Card Spending Increases 9%",
-      "source": "Barron's",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFo1TGNJbEctT043aW9ESmhaVl9wdTAyNnlRQnFGOWpmUTdfSUlER2tKcDVyc2lIZGFMcVVCek5icmtGa29DQ3pic1EzOGNrdGoybk52aFV5SnF1SGFoX3Q5SDktQ04wTXpQOU5yOGNNc041MFlSbHRQYkdTMEJ3bzI4YXhiZw?oc=5",
-      "publishedAt": "2026-07-24T11:00:00.000Z",
-      "titleKa": "American Express-ის მოგება მოლოდინებს აღემატება, რადგან ბარათზე ხარჯვა 9%-ით იზრდება",
-      "summaryKa": "American Express-ის მოგება მოლოდინებს აღემატება.",
-      "category": "კომპანიები",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
