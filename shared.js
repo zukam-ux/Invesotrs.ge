@@ -186,7 +186,7 @@ async function loadGlobalNews(){
           const more=document.createElement("button");
           more.type="button";
           more.className="news-load-more";
-          more.innerHTML=`<span>მეტი ამბავი</span><span class="count">${allArticles.length-visibleCount}</span><span class="arrow" aria-hidden="true">↓</span>`;
+          more.innerHTML=`<span>აჩვენე მეტი</span><span class="count">${allArticles.length-visibleCount}</span><span class="arrow" aria-hidden="true">↓</span>`;
           more.addEventListener("click",()=>{
             visibleCount=Math.min(visibleCount+pageSize,allArticles.length);
             renderArchive();
