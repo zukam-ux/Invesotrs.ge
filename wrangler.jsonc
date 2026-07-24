@@ -2,6 +2,7 @@
 	"$schema": "./node_modules/wrangler/config-schema.json",
 	"name": "investors-ge",
 	"main": "src/worker.mjs",
+	"workers_dev": true,
 	"compatibility_date": "2026-07-24",
 	"compatibility_flags": [
 		"nodejs_compat"
@@ -17,6 +18,16 @@
 			"/data/global-news.json"
 		]
 	},
+	"routes": [
+		{
+			"pattern": "investors.ge",
+			"custom_domain": true
+		},
+		{
+			"pattern": "www.investors.ge",
+			"custom_domain": true
+		}
+	],
 	"d1_databases": [
 		{
 			"binding": "DB",
