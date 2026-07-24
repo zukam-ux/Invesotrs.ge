@@ -1,7 +1,7 @@
 /* Finance portal header: brand/search, section navigation, then live markets. */
-body{--header-max:1440px}
+body{--header-max:1240px}
 header{position:relative;top:auto;background:#fff;border-bottom:1px solid #dfe5e2;backdrop-filter:none}
-.nav{max-width:var(--header-max);height:80px;padding:0 30px;gap:24px}
+.nav{max-width:var(--header-max);height:80px;padding:0 24px;gap:24px}
 .nav .logo{flex:0 0 auto;font-size:26px}
 .nav .links{display:none}
 .nav .asset-search{order:2;margin-left:0;width:min(760px,58vw)}
@@ -14,13 +14,13 @@ header{position:relative;top:auto;background:#fff;border-bottom:1px solid #dfe5e
 .nav .asset-search-results{left:0;right:auto;top:57px;width:min(620px,calc(100vw - 32px))}
 .nav .lang{order:4;flex:0 0 auto;border-radius:999px;padding:11px 17px;background:#fff;box-shadow:none}
 .finance-sections,.subnav{background:#fff;border-bottom:1px solid #dfe5e2}
-.finance-sections-inner,.subnav-inner{max-width:var(--header-max);height:56px;margin:auto;padding:0 30px;display:flex;align-items:center;gap:38px;overflow-x:auto;white-space:nowrap;scrollbar-width:none}
+.finance-sections-inner,.subnav-inner{max-width:var(--header-max);height:56px;margin:auto;padding:0 24px;display:flex;align-items:center;gap:38px;overflow-x:auto;white-space:nowrap;scrollbar-width:none}
 .finance-sections-inner::-webkit-scrollbar,.subnav-inner::-webkit-scrollbar{display:none}
 .finance-sections a,.subnav a{height:56px;display:inline-flex;align-items:center;position:relative;font-size:13px;font-weight:750;color:#263a32}
 .finance-sections a:hover,.finance-sections a.active,.subnav a:hover,.subnav a.active{color:#087a55}
 .finance-sections a.active:after,.subnav a.active:after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:3px;border-radius:3px 3px 0 0;background:#087a55}
 .topline{background:#fff;color:#172b23;border-bottom:1px solid #dfe5e2;font-size:11px}
-.ticker{max-width:var(--header-max);min-height:80px;margin:auto;padding:0 30px;gap:0;display:flex;align-items:stretch;overflow-x:auto;scrollbar-width:none}
+.ticker{max-width:var(--header-max);min-height:80px;margin:auto;padding:0 24px;gap:0;display:flex;align-items:stretch;overflow-x:auto;scrollbar-width:none}
 .ticker::-webkit-scrollbar{display:none}
 .ticker:before{content:"გლობალური ბაზრები";display:flex;align-items:center;flex:0 0 175px;padding-right:24px;font-size:13px;font-weight:800;border-right:1px solid #e2e8e5}
 .ticker>span{min-width:205px;padding:15px 22px;display:flex;flex-wrap:wrap;align-content:center;gap:3px 6px;border-right:1px solid #e2e8e5;font:700 11px "DM Sans","Noto Sans Georgian",sans-serif}
