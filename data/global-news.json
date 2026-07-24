@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-07-24T06:42:23.733Z",
+  "updatedAt": "2026-07-24T07:28:21.813Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "6d9d26a2567d68a1",
+      "title": "How Crypto Connects to the Traditional Financial System",
+      "source": "Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeS1iMkI5bGN5Z1BBNHEtOXV5dXNabUtNanphbk9wdmUta2hJd3Fld2FyNzhnRldDMWw2M29VaUM3bk8yRlpQRElWazRRRnVqMHBhSDhLOW9maC1lMF9FbXlDNklVM2ZBQUNoWkQ0dnUxTnRsT25tQ1RFeE9scGlPNW1JTl9NUG1jamQyNzhFeWkteThPUzIwLQ?oc=5",
+      "publishedAt": "2026-07-24T07:07:00.000Z",
+      "titleKa": "როგორ უკავშირდება კრიპტო ტრადიციულ ფინანსურ სისტემას",
+      "summaryKa": "კრიპტო და ტრადიციული ფინანსური სისტემა ერთმანეთთან დაკავშირებულია.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f8af3e9bee601d16",
+      "title": "How Real People Are Making Sense of Crypto",
+      "source": "Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNenA3MTJDUFFjRHd4azdsQjhMVk4yMnFYekZsRnA0NWZKTWtCRlVUTTBNMXNwdk91dzBqeWNLcjZud09SZUhhZFpFSWowb1dCOGRNYk9QbzExcENJUV9URXpBSEE3bzROTnNfTDFEU01FRmVNSWxfMXhDZ3hNVTlNOGgwVGlScm8?oc=5",
+      "publishedAt": "2026-07-24T07:05:00.000Z",
+      "titleKa": "როგორ ხვდებიან რეალური ადამიანები კრიპტოს",
+      "summaryKa": "რეალური ადამიანები ცდილობენ კრიპტოს გაგებას.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d4bac3cae28a55da",
+      "title": "How Crypto, Coinbase Could Win Even if the Clarity Act Loses",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTENCendvM1N3S3ByRFk0N3JqQTlxNEc4MTU0VU9tRHBveUYxQTdseWN0RHRSTDVNdXdrNHdtOHJDTTRmMGdHVlB0R3NLYXlrMmdFcmZhdDJVOTVMVlE3VnFZWkFsOFFQVVRray1fcEVlYXhpSmtlaUxBNHZ4M1phQUtxNzY?oc=5",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
+      "titleKa": "როგორ შეიძლება კრიპტო და Coinbase მოიგონ, თუნდაც Clarity Act წააგოს",
+      "summaryKa": "კრიპტო და Coinbase შესაძლოა წარმატებულები იყვნენ, მიუხედავად Clarity Act-ის შესაძლო წაგებისა.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e23086201f6312d9",
+      "title": "Meet SLB: The $70 billion oil services giant poised to cash in on AI data centers and the post-Strait of Hormuz oil exploration boom",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3BSRVNXZi1LVEVwcFpqSEhRQkVzbjFVbDJseE94eGo2dGw1UVU2U2xQSXZ4aDhpNVhob01pNkFOV2cxTVo1SjhjTTZWNEVjQ18xbXhkTVhtVWgtSXpvT0c1WXJpSkZnMDNocGpBcldqcEdoYzRjaXZCVTdGNi1QeDVGdjkxcjVRRDJsWTJ2S1F2YzNleVRJ?oc=5",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
+      "titleKa": "გაცნობეთ SLB: $70 მილიარდიანი ნავთობის მომსახურების გიგანტი, რომელიც მზად არის AI მონაცემთა ცენტრებზე და ჰორმუზის სრუტის შემდეგ ნავთობის ძიების ბუმზე",
+      "summaryKa": "SLB არის $70 მილიარდიანი ნავთობის მომსახურების კომპანია, რომელიც გეგმავს AI მონაცემთა ცენტრებზე და ნავთობის ძიების ბუმზე მუშაობას.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "704d43a55038800c",
+      "title": "China Rushes to Buy East Russian Oil as Middle East Risks Grow",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEtpeW1pRk52WjBScVREeFRyREgzM1FPRTd1bHNNRWh0WTRGTzZYQnY0T1E1ZTdEbHQ5QlhJcnI5dUlFWWZsRlMxRExKXzhQWnFBNmcwMFRMdkJQWkZRNWJvOFdVQUVRejJRZ05hUjA0aVFtQXJ4b1RFZk5aQkM1NVZodlQzSjVzaElueHViclZBYWVSYmdyQlBLaXVoNXZWX3FlUWtETndvbTNxNmNCTmpoTQ?oc=5",
+      "publishedAt": "2026-07-24T06:50:00.000Z",
+      "titleKa": "ჩინეთი სწრაფად ყიდულობს აღმოსავლეთ რუსულ ნავთობს, რადგან ახლო აღმოსავლეთის რისკები იზრდება",
+      "summaryKa": "ჩინეთი აქტიურად ყიდულობს აღმოსავლეთ რუსულ ნავთობს, რადგან ახლო აღმოსავლეთის რისკები იზრდება.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7a819125ead9742b",
+      "title": "FY2027 will be a difficult year for India's oil marketing firms: ICICI Securities",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb013ZWZUV3JKRHJRVG1FLVNNVTNrTmQ1eENLV002ZEZOZlozM0ZjcDlTcDhNX2p5bTZhcU9tdWtrRTU1c0lYZzdnSmdfQ00yMTF4MWtfRmx0LThneHlZUnFzTWE0V3VDYjdjT3hycEVWUlA4UnJ4TW52TGpXWHQwbmpZenlMelNKaURZbnR5aGVLdWhIb195R3pSVGdtVGVhWUZKOU9VLXJ1Zy1tTERhUA?oc=5",
+      "publishedAt": "2026-07-24T06:39:08.000Z",
+      "titleKa": "FY2027 იქნება რთული წელი ინდოეთის ნავთობის მარკეტინგული კომპანიებისთვის: ICICI Securities",
+      "summaryKa": "ICICI Securities აცხადებს, რომ FY2027 იქნება რთული წელი ინდოეთის ნავთობის მარკეტინგული კომპანიებისთვის.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "01f4ef16d89747a0",
       "title": "Google’s Earnings Could be a Bad Omen for the Rest of Big Tech",
