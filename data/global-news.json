@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-07-24T09:43:34.861Z",
+  "updatedAt": "2026-07-24T11:23:59.083Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "01b4dc6f73cacb90",
+      "title": "Bitcoin holds near $65,000 as the Iran conflict sends oil to a two-month high: Crypto Markets Today",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN1JFajlucjBCLWRlVkFXRFl0Z3l1bG5qLU5iWUJZbUNFeGk5UFRPSjNMLUw0TVFncUJUWU8wLUJNclJ5Wml1clU5QXFtUy1yS0JTS0x6ZG0yZVpiT25xamJKSFQ4WVlqT3pFLUduMkU5NFdUZkNyd1ZkYlgzSDRQWmtmYkVvLXNVSWYxeEhUQlpiS2FwNW1ZaGI2NllUR1YtT2RtNG4yYXlveEdQUUJfaXJLQU9CQV9QQWctMlhEckJVTUwxbGs1Zw?oc=5",
+      "publishedAt": "2026-07-24T11:20:52.000Z",
+      "titleKa": "ბიტკოინი 65,000 დოლარის სიახლოვეს იმყოფება, რადგან ირანის კონფლიქტი ნავთობის ფასს ორი თვის მაქსიმუმზე მიიყვანს: კრიპტო ბაზრები დღეს",
+      "summaryKa": "ბიტკოინის ფასი 65,000 დოლარის სიახლოვესაა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9ca13b9668e1e578",
+      "title": "Poolin was bitcoin's biggest mining pool and now it's filing for bankruptcy",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGpMdVZSSDJMeURQVmxQQ3VoV1BZdTdMZmVXdHlyWTBHTWNkRnpwd0dJZGNrUDZHWnJJX3htZDE5OFQ2MzZ6STlTR0h6cDVlVlN3TGgwZEFaVkQ1TUh6bzh4ODdOdkNPTFcyck1yTTNQZnotSEYzWUloc2ttTWVTTDZzRjR4c01ySllDbldGN3RJdzFWczc4VGs4a296WnFJYVdfUHNlOXZwWnFWUDUtMGRGNEhrYUJBNGVr?oc=5",
+      "publishedAt": "2026-07-24T11:13:46.000Z",
+      "titleKa": "Poolin იყო ბიტკოინის ყველაზე დიდი სამთო აუზი და ახლა გაკოტრების განაცხადს აკეთებს",
+      "summaryKa": "Poolin, რომელიც იყო ბიტკოინის ყველაზე დიდი სამთო აუზი, გაკოტრების განაცხადს აკეთებს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ce9cce870b18c37a",
+      "title": "Verizon’s stock rises as earnings show the company is no longer a ‘hunting ground’",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSDA1Slk5TXh4bXd5cXlxWHZXWF96QmZZVnpSMVlhZzhkTTBQbVF4LU9VRUkxdXJaRzh2eUs5bXcxRm1oMXU5cEk1UjV0TURzN0hyd3llUmJ4MnYtY2FRSEpwY3Q1Q2tUdkwxb1BlbHIybXVYS2N5TksxclQ4X1dBOTczTWw3NHM0UG42TW5OdXlvQXA0R2tJc0FEbHA4OW9OdUlEbTFTTG1mQXg1OWRwVEhkd3RDa2dYS3lMZG5ZWQ?oc=5",
+      "publishedAt": "2026-07-24T11:08:00.000Z",
+      "titleKa": "Verizon-ის აქციები იზრდება, რადგან მოგება აჩვენებს, რომ კომპანია აღარ არის 'მონადირებელი ტერიტორია'",
+      "summaryKa": "Verizon-ის აქციების ფასი იზრდება.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "22453f53da705814",
+      "title": "London's FTSE 100 rises as HSBC lifts financial stocks; Middle East tensions linger",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQUhBeWw3MmhlS3N2UWpNWTI5Mm9oQnhMNmN0OEtYSmZUZldwMFN6aXZSd0NnLWpKSzVndzRYMGRQNU5wczZyTFcwSW95bERKWkRxTUp1dkhVQ1pKaGdsS3JIakJDdHhqbXp2ZDFHcjc4UHhYVjY3cGdnNU8xeUNQM1JVWU9sVjNVUFBET2dIM3VJMzVZWUFJWXJRR2pLRE1CTFd6dkpJTkpPcUpZdnF0OFBvSzVnR3VTbEhTNEZVa3c?oc=5",
+      "publishedAt": "2026-07-24T11:05:54.000Z",
+      "titleKa": "ლონდონის FTSE 100 იზრდება, რადგან HSBC ფინანსურ აქციებს ზრდის; ახლო აღმოსავლეთის დაძაბულობა გრძელდება",
+      "summaryKa": "ლონდონის FTSE 100-ის ინდექსი იზრდება.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b7f2a4ed0a145d58",
+      "title": "Markets weigh AI spending, earnings and rising rates",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXUyQjg2T3FuLXJxWUJ3SHpZRjdDN2ZOWnJDaDB2SWczYXpZRHRIVUtLOHVqWHVCNURPVzFOaFk0b2lDSkh0anBhRHkxTXlCZEw3MVJoRDY0VG9QN0RaTDItY2NvN0I4Ni1CdEJmeFU2cGw5Q0ZiXzJDQ1FRMEZSaWFRenpKelA3QS02VGd6clZRU21yOVVFMmt3?oc=5",
+      "publishedAt": "2026-07-24T11:03:32.000Z",
+      "titleKa": "ბაზრები აფასებენ AI ხარჯებს, მოგებებს და მზარდ საპროცენტო განაკვეთებს",
+      "summaryKa": "ბაზრები აფასებენ AI ხარჯებს და საპროცენტო განაკვეთების ზრდას.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "748dd1aecae59862",
+      "title": "American Express Earnings Surpass Expectations as Card Spending Increases 9%",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFo1TGNJbEctT043aW9ESmhaVl9wdTAyNnlRQnFGOWpmUTdfSUlER2tKcDVyc2lIZGFMcVVCek5icmtGa29DQ3pic1EzOGNrdGoybk52aFV5SnF1SGFoX3Q5SDktQ04wTXpQOU5yOGNNc041MFlSbHRQYkdTMEJ3bzI4YXhiZw?oc=5",
+      "publishedAt": "2026-07-24T11:00:00.000Z",
+      "titleKa": "American Express-ის მოგება მოლოდინებს აღემატება, რადგან ბარათზე ხარჯვა 9%-ით იზრდება",
+      "summaryKa": "American Express-ის მოგება მოლოდინებს აღემატება.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b59fdae144033f60",
+      "title": "What to Watch for at Next Week’s Federal Reserve Meeting",
+      "source": "Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qbmxGRVduaW5VbnZGSEVNYWI0OXBKLXJBVkEwa2w1anRoRXowM3VPVnppUEV6RTY2bkNFLTNSYUdvWXJYQzRTLWtSdE1LcnRCUTc1d0lfQkVORC1HTW5vMW82Tk12TkhMengtWmxXWklvTVp1cVNwOXlzb3F5VUk?oc=5",
+      "publishedAt": "2026-07-24T11:00:00.000Z",
+      "titleKa": "რა უნდა ველოდოთ მომავალი კვირის ფედერალური რეზერვის შეხვედრაზე",
+      "summaryKa": "მომავალი კვირის ფედერალური რეზერვის შეხვედრა მოიცავს მნიშვნელოვანი საკითხები.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e68364a1674b358e",
+      "title": "Bitcoin treasury companies unwind holdings as the DAT model comes under pressure",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZHdaQ0xRQldwU3F2QTR6TXBiS1VvOVNDSXdtcFplUnRPQ1Yydk1LaElkTVVSaEEyWEZRR1ItSXItZFhNeGR0UnUyYWJ0VjBIWnI1MVZIX2N3MkZqaXFpc3oyN0Y3cW5nVExHVmo0emNBMjc1RC1UWnM3Z3JDaWlRTW1UUXpaTXlfX0xnR003RldLWmsyMEV4MnVlT3lJVklCV0pDZHkwa2lTeERCS04yZTJBdWNjbUdPQjNpLVZ2S1dnRVBz?oc=5",
+      "publishedAt": "2026-07-24T10:55:26.000Z",
+      "titleKa": "ბიტკოინის ხაზინის კომპანიები გაყიდიან აქტივებს, რადგან DAT მოდელი ზეწოლის ქვეშაა",
+      "summaryKa": "ბიტკოინის ხაზინის კომპანიები აქტივებს გაყიდიან.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "115894169faacb60",
+      "title": "Gorman-Rupp (NYSE:GRC) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHdQalhLTHVaQzdiUkZkeV9QSnVPQ0x2N1RWUWlnRUEwa0dmMVpZUGw5ajJraWU5R3RhRW0yLWFEQWpPNy1SX1RYekhLWHVPcENabWEtZmV0SGVhdUJjVXdOeFpsUGhOVjk0WU5VQkZ4TnpJbWRsbXpzcE5KOUZyWVJqRlM3T2xKZ1pzbHFPM2dQSndrdG12Sg?oc=5",
+      "publishedAt": "2026-07-24T10:43:43.000Z",
+      "titleKa": "Gorman-Rupp (NYSE:GRC) ანგარიშვალდებულება Q2 CY2026-ის მოგების დროს ანალიტიკოსების მოლოდინებს ქვემოთ",
+      "summaryKa": "Gorman-Rupp-ის გაყიდვები ანალიტიკოსების მოლოდინებს ქვემოთაა.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b0d88201e145bbe3",
+      "title": "Global equity funds attract ninth weekly inflow amid upbeat earnings expectations",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORmREWEFkb3lTTXhHZk41NkROR0dpXzJaZHlIYlRKX0xMM19ScGExWHBFalktWHpJQ0hEMHhUVkdRemlQcjQwWm9DN0o5d2E3STIyTDgtM2xpa1cwemw0MVZfbFp2MW93TDEyaGZNLW9nOWJFbWdwdDJmdkM5VW8zbkpR?oc=5",
+      "publishedAt": "2026-07-24T10:41:45.000Z",
+      "titleKa": "მსოფლიოს აქციების ფონდი მეცხრე კვირის განმავლობაში იზიდავს ინვესტიციებს პოზიტიური მოგების მოლოდინების ფონზე",
+      "summaryKa": "მსოფლიოს აქციების ფონდი მეცხრე კვირის განმავლობაში იზიდავს ინვესტიციებს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d3f0f91b0a775b1d",
+      "title": "2 of Wall Street’s Favorite Stocks for Long-Term Investors and 1 We Question",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTkhibDJhQ20wNkZ0am9odHBtblN6ZTBpMHN6V1VGUVYwUHNCeHZkMHBjamFGSEgzQlNfa3ZCMmJWN29QVlZJbXV0bUxJYW92S3pCWTZGMmpEQTVFRW1PcFZFYThyYVdpN3BfUFFEcUVhcDNiWFRnQmNlRHljazRuV1RqT2ZBdGhiXzVnLW56dGhtQjhBVW83dmxn?oc=5",
+      "publishedAt": "2026-07-24T10:41:08.000Z",
+      "titleKa": "უოლ სტრიტის ორი საყვარელი აქცია გრძელვადიანი ინვესტორებისთვის და ერთი, რომელსაც ვეკითხებით",
+      "summaryKa": "უოლ სტრიტზე ორი საყვარელი აქცია არსებობს გრძელვადიანი ინვესტორებისთვის.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b9756681277e0ae9",
+      "title": "Trump weighs ‘massive attack’ on Iran as Tehran’s chokehold on oil gets tighter",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYVg0YXFsSzdjQ2pvbUtRcjJqdnpmd3UzUzc0b2YzZDF2Y3pMQ0xhSHJueWp3YzdUSW05dzgxRXhscXRWTVFwYlRzMnd3dEJ2QUtjaWV0SU5GdXN5U3c4STUwWHZFVGQ3Tmt0ZXNZWEtKRGFaeUItc3Y2d1JfcFdjMng5azlwcGxKQ21jcFdKRlM1azZtTWxjQUptNmlEakVlVUVGZ0RVVjJqQzFG?oc=5",
+      "publishedAt": "2026-07-24T10:41:00.000Z",
+      "titleKa": "ტრამპი 'მასიური თავდასხმის' შესახებ ფიქრობს ირანზე, რადგან თეირანის კონტროლი ნავთობზე მჭიდრდება",
+      "summaryKa": "ტრამპი ირანის მიმართ 'მასიური თავდასხმის' შესახებ ფიქრობს.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "bbe3ba1c1ca01f16",
       "title": "Current price of oil as of July 24, 2026",
