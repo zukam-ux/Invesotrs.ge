@@ -93,9 +93,13 @@ const translationSchema = {
 
 async function translateWithGemini(items) {
   if (!geminiApiKey) throw new Error("GEMINI_API_KEY is not configured");
-  const response = await fetch(
-    "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent",
-    {
+  const models = ["gemini-3.5-flash", "gemini-3.1-flash-lite"];
+  let lastError;
+  for (const model of models) {
+    for (let attempt = 1; attempt <= 3; attempt += 1) {
+      const response = await fetch(
+        `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,
+        {
       method: "POST",
       headers: {
         "x-goog-api-key": geminiApiKey,
@@ -108,15 +112,24 @@ async function translateWithGemini(items) {
           responseJsonSchema: translationSchema,
         },
       }),
-    },
-  );
-  if (!response.ok) {
-    throw new Error(`Gemini returned ${response.status}: ${(await response.text()).slice(0, 300)}`);
+        },
+      );
+      if (response.ok) {
+        const payload = await response.json();
+        const text =
+          payload.candidates?.[0]?.content?.parts?.map((part) => part.text ?? "").join("") ?? "";
+        const parsed = JSON.parse(text);
+        const translated = new Map((parsed.articles ?? []).map((item) => [item.id, item]));
+        console.log(`Gemini model ${model} translated ${translated.size} stories`);
+        return translated;
+      }
+      const details = (await response.text()).slice(0, 300);
+      lastError = new Error(`Gemini ${model} returned ${response.status}: ${details}`);
+      if (![429, 503].includes(response.status)) break;
+      if (attempt < 3) await new Promise((resolve) => setTimeout(resolve, attempt * 2000));
+    }
   }
-  const payload = await response.json();
-  const text = payload.candidates?.[0]?.content?.parts?.map((part) => part.text ?? "").join("") ?? "";
-  const parsed = JSON.parse(text);
-  return new Map((parsed.articles ?? []).map((item) => [item.id, item]));
+  throw lastError ?? new Error("Gemini translation failed");
 }
 
 async function translateWithGithub(items) {
@@ -165,7 +178,6 @@ async function translateWithGithub(items) {
 async function translate(items) {
   try {
     const translated = await translateWithGemini(items);
-    console.log(`Translated ${translated.size} stories with Gemini 3.5 Flash`);
     return translated;
   } catch (error) {
     console.warn(`Gemini translation failed; using GitHub Models fallback: ${error.message}`);
