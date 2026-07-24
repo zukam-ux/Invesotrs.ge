@@ -17,6 +17,7 @@ const FEED_URLS = feedQueries.map(
 );
 const OUTPUT_PATH = new URL("../data/global-news.json", import.meta.url);
 const token = process.env.GITHUB_TOKEN;
+const geminiApiKey = process.env.GEMINI_API_KEY;
 
 if (!token) throw new Error("GITHUB_TOKEN is required for Georgian translation");
 
@@ -58,7 +59,71 @@ function parseFeed(xml) {
     .filter((item, index, rows) => rows.findIndex((row) => row.title === item.title) === index);
 }
 
-async function translate(items) {
+const translationPrompt = (items) =>
+  JSON.stringify({
+    task:
+      "Translate each financial-news headline faithfully into natural, publication-quality Georgian. Preserve company names, ticker symbols, numbers, percentages, currencies, and quoted claims exactly. Write one concise Georgian explanatory sentence using only facts explicitly present in the English headline. Do not add causes, forecasts, advice, or facts. Classify each article using one allowed Georgian category.",
+    articles: items.map(({ id, title, source }) => ({ id, title, source })),
+  });
+
+const translationSchema = {
+  type: "object",
+  properties: {
+    articles: {
+      type: "array",
+      items: {
+        type: "object",
+        properties: {
+          id: { type: "string" },
+          titleKa: { type: "string" },
+          summaryKa: { type: "string" },
+          category: {
+            type: "string",
+            enum: ["აქციები", "კრიპტო", "ETF", "ეკონომიკა", "კომპანიები"],
+          },
+        },
+        required: ["id", "titleKa", "summaryKa", "category"],
+        additionalProperties: false,
+      },
+    },
+  },
+  required: ["articles"],
+  additionalProperties: false,
+};
+
+async function translateWithGemini(items) {
+  if (!geminiApiKey) throw new Error("GEMINI_API_KEY is not configured");
+  const response = await fetch(
+    "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent",
+    {
+      method: "POST",
+      headers: {
+        "x-goog-api-key": geminiApiKey,
+        "content-type": "application/json",
+      },
+      body: JSON.stringify({
+        contents: [{ role: "user", parts: [{ text: translationPrompt(items) }] }],
+        generationConfig: {
+          responseFormat: {
+            text: {
+              mimeType: "application/json",
+              schema: translationSchema,
+            },
+          },
+        },
+      }),
+    },
+  );
+  if (!response.ok) {
+    throw new Error(`Gemini returned ${response.status}: ${(await response.text()).slice(0, 300)}`);
+  }
+  const payload = await response.json();
+  const text = payload.candidates?.[0]?.content?.parts?.map((part) => part.text ?? "").join("") ?? "";
+  const parsed = JSON.parse(text);
+  return new Map((parsed.articles ?? []).map((item) => [item.id, item]));
+}
+
+async function translateWithGithub(items) {
   const response = await fetch("https://models.github.ai/inference/chat/completions", {
     method: "POST",
     headers: {
@@ -99,6 +164,17 @@ async function translate(items) {
   const parsed = JSON.parse(payload.choices?.[0]?.message?.content ?? "{}");
   const rows = parsed.articles ?? parsed.requiredShape?.articles ?? [];
   return new Map(rows.map((item) => [item.id, item]));
+}
+
+async function translate(items) {
+  try {
+    const translated = await translateWithGemini(items);
+    console.log(`Translated ${translated.size} stories with Gemini 3.5 Flash`);
+    return translated;
+  } catch (error) {
+    console.warn(`Gemini translation failed; using GitHub Models fallback: ${error.message}`);
+    return translateWithGithub(items);
+  }
 }
 
 const feedResponses = await Promise.all(
