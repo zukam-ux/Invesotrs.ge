@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-07-24T22:41:40.562Z",
+  "updatedAt": "2026-07-24T23:40:55.540Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "f54a017360f88d7d",
+      "title": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout — PSKY, UBER, QCOM, VZ, INTC In Focus",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHJoZHVOZXB3U1FfYV9fTG1CVWQxVkl6N0pyQ1RXeFBqdVhBNjhRZ3dseDExczRFaFdXTkE0c01COTZibDM2TFFNVHZYUmJZOGtINVRRcVRVOW81aWdGaFNWV2djZDhHeDZENkp5V2VwbkdMcGJfZ0xGU0pSeU5HNFFSZDR4alZIVjZoQ2hB?oc=5",
+      "publishedAt": "2026-07-24T22:54:48.000Z",
+      "titleKa": "S&P 500, Dow, Nasdaq მეორე კვირას დაბლა დაასრულეს გაზრდილი ნავთობის ფასების და ჩიპების მწარმოებლების კრიზისის გამო — ყურადღების ცენტრში PSKY, UBER, QCOM, VZ, INTC",
+      "summaryKa": "S&P 500, Dow და Nasdaq მეორე კვირას დაბლა დაასრულეს გაზრდილი ნავთობის ფასების და ჩიპების მწარმოებლების კრიზისის გამო.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "fdde1b498fd5dcbe",
+      "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVFoS0pPSjU4OTY3YzBVSFdHN3kzZWd2UjZ0WGRiX0pEUXhzNnZ1UjU2eDBnN3hlZHdhWnJvSWhEMEpJbUVhM01ETXdrbTFkSGVoX2ktUVVhckI5Qmlha2wzcDZmbkZmc0dZeGhnb0tYZW5RS29tUGlYWU5salVBOFRkYmQ2enhOcktIYmx5UHBUNjlVSUF5b3RyTDgwS0NvVmlJQ0hn?oc=5",
+      "publishedAt": "2026-07-24T22:32:28.000Z",
+      "titleKa": "Nasdaq ჩამორჩება AI ხარჯების შიშების გამო შემოსავლების ანგარიშების წინ",
+      "summaryKa": "Nasdaq ჩამორჩება AI ხარჯების შიშების გამო.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "b72c1a8acfaad4f6",
       "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department's Freedom Tech Excellence Program",
@@ -70,33 +92,11 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "475f8d49fa59cb96",
-      "title": "Options Action: Calls outpacing puts on UPS ahead of earnings",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjgzN1YwOTMzdHZvOXl0aDBkVHc5dzJuLWhuR19pZWJFRGdsU01xZWpQcGNPdnhDU0FhbVJrU0RPdndPRWN1S25vUkd6NEh2RnZ6MG5nb3lGVVdtUG55RkRVYnkybXdudG5pSm16V3Q3UERSYVFWSnJUcF9TZDJPd2lieDAzMVJWMGNEMWJ0dm40di1WTDVXcGM5NUh2S0NfRkc0RVZB?oc=5",
-      "publishedAt": "2026-07-24T21:55:12.000Z",
-      "titleKa": "Options Action: UPS-ის წინასწარი მოგების გამო ზარალები ზარალებზე მეტია",
-      "summaryKa": "UPS-ის წინასწარი მოგების გამო ზარალები ზარალებზე მეტია.",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "c010eba8dfaffc2e",
-      "title": "Fed must take action on 'problematic' inflation rate, says markets forecaster Jim Bianco",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0J2N0VtU1F1dUtGMW5aVnJGRlh1QkpyTmJNTFV3NjdFUnMzRmRRcW0tVHhVeEttb29kRlJKemcxQWdEOHhzcXRQczRpcVFKQ3FvUXZTSTM5aW1Wdkk1ZHd6Wm5LdHNuZlV1SmFpWjlIZGdIN0ZucThpd1doTzJIZ0F1QlJjcHlDZm1tcVR2dzN3WHNCeTVISUozMUx1bUhxMFBDRGpHaDVuWFZBdmtYYlpHX21zSFJlbkRwMjRkTThJcTY0S19F?oc=5",
-      "publishedAt": "2026-07-24T21:51:15.000Z",
-      "titleKa": "ფედერალური სარეზერვო სისტემა უნდა იმოქმედოს 'პრობლემური' ინფლაციის მაჩვენებელზე, ამბობს ბაზრის პროგნოზისტი ჯიმ ბიანკო",
-      "summaryKa": "ფედერალური სარეზერვო სისტემა უნდა იმოქმედოს 'პრობლემური' ინფლაციის მაჩვენებელზე.",
-      "category": "ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "d40f06ff62f2f0ca",
       "title": "Why Paper Stocks Were Among the S&P 500’s Top Performers Friday",
       "source": "Barron's",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94dmE0TEdrTFJJSE9KdUtuNWU3M3RXRnBKUkh4cVpPQ1l1ZnRzeEZDLTRRMlhnZXpjOWZmbmZZaDhGWHZKRTBDSjFCYkpieHVSbmlSUWRmdFVaLU5jbmpnbnM0eEVlRWdLdFM5enFB?oc=5",
-      "publishedAt": "2026-07-24T21:45:00.000Z",
+      "publishedAt": "2026-07-24T21:54:00.000Z",
       "titleKa": "რატომ იყო ქაღალდის აქციები S&P 500-ის საუკეთესო შემსრულებლებს შორის პარასკევს",
       "summaryKa": "ქაღალდის აქციები S&P 500-ის საუკეთესო შემსრულებლებს შორის იყო პარასკევს.",
       "category": "აქციები",
@@ -110,6 +110,28 @@
       "publishedAt": "2026-07-24T21:38:00.000Z",
       "titleKa": "Micron-ის აქციები დაეცა ძლიერი კვირის დასრულების შემდეგ. მომავალი შესაძლოა მეხსიერების ბუმის განსაზღვროს.",
       "summaryKa": "Micron-ის აქციები დაეცა ძლიერი კვირის დასრულების შემდეგ.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c010eba8dfaffc2e",
+      "title": "Fed must take action on 'problematic' inflation rate, says markets forecaster Jim Bianco",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0J2N0VtU1F1dUtGMW5aVnJGRlh1QkpyTmJNTFV3NjdFUnMzRmRRcW0tVHhVeEttb29kRlJKemcxQWdEOHhzcXRQczRpcVFKQ3FvUXZTSTM5aW1Wdkk1ZHd6Wm5LdHNuZlV1SmFpWjlIZGdIN0ZucThpd1doTzJIZ0F1QlJjcHlDZm1tcVR2dzN3WHNCeTVISUozMUx1bUhxMFBDRGpHaDVuWFZBdmtYYlpHX21zSFJlbkRwMjRkTThJcTY0S19F?oc=5",
+      "publishedAt": "2026-07-24T21:32:15.000Z",
+      "titleKa": "ფედერალური სარეზერვო სისტემა უნდა იმოქმედოს 'პრობლემური' ინფლაციის მაჩვენებელზე, ამბობს ბაზრის პროგნოზისტი ჯიმ ბიანკო",
+      "summaryKa": "ფედერალური სარეზერვო სისტემა უნდა იმოქმედოს 'პრობლემური' ინფლაციის მაჩვენებელზე.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "475f8d49fa59cb96",
+      "title": "Options Action: Calls outpacing puts on UPS ahead of earnings",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjgzN1YwOTMzdHZvOXl0aDBkVHc5dzJuLWhuR19pZWJFRGdsU01xZWpQcGNPdnhDU0FhbVJrU0RPdndPRWN1S25vUkd6NEh2RnZ6MG5nb3lGVVdtUG55RkRVYnkybXdudG5pSm16V3Q3UERSYVFWSnJUcF9TZDJPd2lieDAzMVJWMGNEMWJ0dm40di1WTDVXcGM5NUh2S0NfRkc0RVZB?oc=5",
+      "publishedAt": "2026-07-24T21:32:13.000Z",
+      "titleKa": "Options Action: UPS-ის წინასწარი მოგების გამო ზარალები ზარალებზე მეტია",
+      "summaryKa": "UPS-ის წინასწარი მოგების გამო ზარალები ზარალებზე მეტია.",
       "category": "აქციები",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -165,17 +187,6 @@
       "publishedAt": "2026-07-24T20:46:47.000Z",
       "titleKa": "ეს მაღალფრთიანი ტექნოლოგიური აქციები 65%-ით დაეცა - აი როგორ უნდა შეიძინოთ გაყიდვა: ერთი დიდი საინვესტიციო იდეა.",
       "summaryKa": "მაღალფრთიანი ტექნოლოგიური აქციები 65%-ით დაეცა.",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "fdde1b498fd5dcbe",
-      "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVFoS0pPSjU4OTY3YzBVSFdHN3kzZWd2UjZ0WGRiX0pEUXhzNnZ1UjU2eDBnN3hlZHdhWnJvSWhEMEpJbUVhM01ETXdrbTFkSGVoX2ktUVVhckI5Qmlha2wzcDZmbkZmc0dZeGhnb0tYZW5RS29tUGlYWU5salVBOFRkYmQ2enhOcktIYmx5UHBUNjlVSUF5b3RyTDgwS0NvVmlJQ0hn?oc=5",
-      "publishedAt": "2026-07-24T20:45:37.000Z",
-      "titleKa": "Nasdaq ჩამორჩება AI ხარჯების შიშების გამო შემოსავლების ანგარიშების წინ",
-      "summaryKa": "Nasdaq ჩამორჩება AI ხარჯების შიშების გამო.",
       "category": "აქციები",
       "translationNotice": "AI-assisted Georgian translation"
     },
