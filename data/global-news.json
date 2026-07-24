@@ -1,8 +1,129 @@
 {
-  "updatedAt": "2026-07-24T20:39:25.835Z",
+  "updatedAt": "2026-07-24T21:42:49.749Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "b60c68afa80071f1",
+      "title": "Charter Earnings Beat Estimates. Subscriber Losses Suggest a Bleak Future for Cable.",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajg1YnVCNzdwSFNfUmlhckplYTN0WHJXV2ozWVZxdVBMT1JkUllVMUJQal9fckhYRHBiYnVkRmZzSTlIcWpJa3RZd1VDM1BScHpnaFBRRmlpVkc5VGJqNmFDWXp0TzFGMzNCT05raUpJaTR6ajdJNkF0ZHdxM21kZ1pR?oc=5",
+      "publishedAt": "2026-07-24T21:23:00.000Z",
+      "titleKa": "ჩარტერის მოგება პროგნოზებს გადააჭარბებს. აბონენტების დაკარგვა კაბელის მუქი მომავლის მაჩვენებელია.",
+      "summaryKa": "ჩარტერის მოგება პროგნოზებს გადააჭარბებს, თუმცა აბონენტების დაკარგვა მიუთითებს კაბელის მუქი მომავლის შესახებ.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9e53d53140ed4b2a",
+      "title": "Quantum and Crypto Are on a Collision Course—and Wall Street Is Spending Millions to Stop It",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqR2owdFIxNWhFMWk1SU5FcFNhRTdSMUZ6ZWN6LW9JYVMxbUI2cXJja2g2TEVjNXBKcUE3UUlVbnBBYkhscEpNODVtY1JWdXdld1JJQTNhOXo0cGJDRHQtREJBS0dzMzZ4aHE4Y0V3M3F2MENHNEt1dXVTWQ?oc=5",
+      "publishedAt": "2026-07-24T21:16:00.000Z",
+      "titleKa": "კვანტური ტექნოლოგიები და კრიპტო ერთმანეთს ეჯახებიან - უოლ სტრიტი მილიონებს ხარჯავს ამის შესაჩერებლად.",
+      "summaryKa": "უოლ სტრიტი მილიონებს ხარჯავს, რათა შეაჩეროს კვანტური ტექნოლოგიებისა და კრიპტოს შეჯახება.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "dba352e84e5c1c5e",
+      "title": "Weekly Wrap: Bitcoin Holds Firm As Stocks Post Losing Week",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeE85MFBFVlZCQkIycnB1WlplMXFURXVZSkFiejZjY05tc1BXQ0tHaWl3eGVBNThTWXRST3RpY2FyQUVUYWZ5Mmdqd3dwZXBmbHpKMWpYSVZkblZ2NWw0NF9xbkZDUUowcHhnN1RMQUl3c25pdXJublpxV1M1WFNIeEx6MVZtanF1UWNYMzZ0Rnd1LWFxM1otajltWQ?oc=5",
+      "publishedAt": "2026-07-24T21:11:00.000Z",
+      "titleKa": "კვირის მიმოხილვა: ბიტკოინი მტკიცედ დგას, ხოლო აქციები დაკარგულ კვირას განიცდიან.",
+      "summaryKa": "ბიტკოინი მტკიცედ დგას, მაშინ როცა აქციები დაკარგულ კვირას განიცდიან.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9a84fd3204a83dbb",
+      "title": "NV Gold Announces Closing of Non-Brokered Private Placement",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2tMUXJ4cnNMUUlCbW1ZbHQ5N2RrZUo1bV94TGcwcy1DWl9qRGU4eXNVeUZGaEVWU1pFUHBkdy12NDV2TjBkR0hkSkI0MU5HYmdYcjAwdER5VnpGWUtlRjVxVjRZcFhpTzc0cVNtUEhDc0RIdU44TTU1Mll5VkY0ZzU5Ym5oQXFFd2oyTXBkVWM2c0h6NDAyODdn?oc=5",
+      "publishedAt": "2026-07-24T21:00:00.000Z",
+      "titleKa": "NV Gold აცხადებს არამედიატორო კერძო განთავსების დახურვას.",
+      "summaryKa": "NV Gold აცხადებს, რომ არამედიატორო კერძო განთავსება დასრულდა.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c5feb65ba7bd6014",
+      "title": "These high-flying tech stocks are down 65% — here's how to shop the sell-off: One Big Investment Idea",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTGwwakRWTDhEQVZLdmJfTmhEMlpmNGxnTkJTZy1TR013cXR1Zi1GeHhiYWk3cmxzXzgxbEJKZTh2d3JISkZ1VmtZRTR0Y0RVemw3bUdxUGlMUDg2VV9rX2tJbVllWEZSX1UzR19WMS1CdmdlbGY2ZVotSkVkbEozTmVyZ25XSlNTMjAyLXcxNWVNYjlwRXFQZ3BqYzFVaXg0NHpRVWhTWlpJS1AySUt3OE1DbXN0UTdFQ3Vwd2FseU9xQllGM3ZxYTBmcmdyaV9WWWRYdGxzdVhJYnNJRzdzSTU3WE1IVTJNc1E?oc=5",
+      "publishedAt": "2026-07-24T20:46:47.000Z",
+      "titleKa": "ეს მაღალფრთიანი ტექნოლოგიური აქციები 65%-ით დაეცა - აი როგორ უნდა შეიძინოთ გაყიდვა: ერთი დიდი საინვესტიციო იდეა.",
+      "summaryKa": "მაღალფრთიანი ტექნოლოგიური აქციები 65%-ით დაეცა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "fdde1b498fd5dcbe",
+      "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVFoS0pPSjU4OTY3YzBVSFdHN3kzZWd2UjZ0WGRiX0pEUXhzNnZ1UjU2eDBnN3hlZHdhWnJvSWhEMEpJbUVhM01ETXdrbTFkSGVoX2ktUVVhckI5Qmlha2wzcDZmbkZmc0dZeGhnb0tYZW5RS29tUGlYWU5salVBOFRkYmQ2enhOcktIYmx5UHBUNjlVSUF5b3RyTDgwS0NvVmlJQ0hn?oc=5",
+      "publishedAt": "2026-07-24T20:45:37.000Z",
+      "titleKa": "Nasdaq ჩამორჩება AI ხარჯების შიშების გამო შემოსავლების ანგარიშების წინ",
+      "summaryKa": "Nasdaq ჩამორჩება AI ხარჯების შიშების გამო.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "635496fce7e91995",
+      "title": "Intel stock falls nearly 8% despite big Q2 earnings beat",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHl3eDIxRlZpZmFObmJMTUxiU2prTkVpMW5iWGg5bWhsVi1DV2pQTktHYnlNUVNNcTFEWmtxTWxqWVhDOWFxS1RtaldJemc1SlltRjQzWFg0SDlYa1ZXWURZQ2VXcTlmdnFGa3ZzVUszdWxHeWIzTlh0OHZEUV85bktyRy1kWjNQaURWQ3ZiU213b2FJQmJlZTJnT1ltNFpodkFrbndPZkdrUHVvTHA3ZF92UlJjWkZPZW1r?oc=5",
+      "publishedAt": "2026-07-24T20:44:56.000Z",
+      "titleKa": "Intel-ის აქციები თითქმის 8%-ით დაეცა, მიუხედავად დიდი Q2 მოგების გადაჭარბებისა.",
+      "summaryKa": "Intel-ის აქციები თითქმის 8%-ით დაეცა, მიუხედავად იმისა, რომ Q2-ის მოგება გადააჭარბა პროგნოზებს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d0397579a4780795",
+      "title": "3 Profitable Stocks We Approach with Caution",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2Y4MnB6aWp6ZHZUUFBYQVpIYjdhazkzTGZkZDhzQXQ5dTBIbU82Y3RVQVpQd1RlQTBldzRVYmtrelJGWmZQN3k5S0Z5a0p2S1pNMzU2RTZtTDZtbGFLX0tlZk5jc1BNdVFpb1FoeTNfMUlZT05ESnpaaV92MG5GdWF1NUN0RllyYlJQZHQtY2RkbkVwWWtsMlQ4ekNZbGd2M1pB?oc=5",
+      "publishedAt": "2026-07-24T20:41:08.000Z",
+      "titleKa": "3 მომგებიანი აქცია, რომელსაც სიფრთხილით ვეკიდებით.",
+      "summaryKa": "არსებობს სამი მომგებიანი აქცია, რომელსაც სიფრთხილით ვეკიდებით.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e3ad94d105f9e266",
+      "title": "Intel Beat Earnings by $1.7 Billion and Fell 11% as Cramer Turned Bullish",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQamN1bmh5SjRjMWFNSmNXQWpDUTFrdWVfcFlFN2ZjWUxZYVdCd1ZVQ3AwZXF1a2N4RHBEbVBVSDJfeW5YU1NtTmN1VE5mSjd3UXZyZVVjTWRJcmFVV29vNFU4c1pITU9YN0wxODQtYkpsWFVRWVBOM2p4VjVscC04a3RjMUpmbjljOWdhT3ZKelFuUQ?oc=5",
+      "publishedAt": "2026-07-24T20:40:01.000Z",
+      "titleKa": "Intel-მა მოგება $1.7 მილიარდით გადააჭარბა და 11%-ით დაეცა, როდესაც კრემერი ოპტიმისტურად განწყობილა.",
+      "summaryKa": "Intel-მა $1.7 მილიარდით გადააჭარბა მოგებას, თუმცა 11%-ით დაეცა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4d0e8ef9ee717d41",
+      "title": "The Iran War Pushed Oil Past $100. China and the Fed Could Send It Lower.",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTQUU0OXNTa25LMzU4VmN2d1NmcVkwQUxhdkFHSW0yY2hteFAxZktsM3RuWkxqMEVkbEtadUxUTXlqMExzR0xUSEtlN2RhN1JkMm1Kb1EySmliUEREWThfaE5FY083WnFWN3I1bDNOTzFmR21fNjU2NUlacw?oc=5",
+      "publishedAt": "2026-07-24T20:40:00.000Z",
+      "titleKa": "ირანის ომმა ნავთობის ფასი $100-ს გადააჭარბა. ჩინეთი და ფედერალური რეზერვი შეიძლება დააკლონ მას.",
+      "summaryKa": "ირანის ომმა ნავთობის ფასი $100-ს გადააჭარბა.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "32e5be603ec8618e",
+      "title": "Intel’s Strong Earnings Couldn’t Save the Stock From an AI Spending Panic",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2pJUGE5bzVQOGxNZk9ZWWp3cFdfeG10d292d0M5UXgxMlBEVkt2cFlHdzBKZDJsQUg0TnpGMlBrc3A5U0hWb1RocjA5dVZCamdEN0EyUlczRHB5YXlkTk53cHdQZ1pLSmdVSjAyZGsyWnM4UDJRS01weXdTcVEyTkp2bw?oc=5",
+      "publishedAt": "2026-07-24T20:31:00.000Z",
+      "titleKa": "Intel-ის ძლიერი მოგება ვერ გადაარჩინა აქცია AI ხარჯების პანიკისგან",
+      "summaryKa": "Intel-ის ძლიერი მოგება ვერ გადაარჩინა აქცია AI ხარჯების პანიკის ფონზე.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "c14dd37140893c68",
       "title": "Archer-Daniels-Midland (ADM): Buy, Sell, or Hold Post Q1 Earnings?",
@@ -59,17 +180,6 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "fdde1b498fd5dcbe",
-      "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVFoS0pPSjU4OTY3YzBVSFdHN3kzZWd2UjZ0WGRiX0pEUXhzNnZ1UjU2eDBnN3hlZHdhWnJvSWhEMEpJbUVhM01ETXdrbTFkSGVoX2ktUVVhckI5Qmlha2wzcDZmbkZmc0dZeGhnb0tYZW5RS29tUGlYWU5salVBOFRkYmQ2enhOcktIYmx5UHBUNjlVSUF5b3RyTDgwS0NvVmlJQ0hn?oc=5",
-      "publishedAt": "2026-07-24T20:03:19.000Z",
-      "titleKa": "Nasdaq ჩამორჩება AI ხარჯების შიშების გამო შემოსავლების ანგარიშების წინ",
-      "summaryKa": "Nasdaq ჩამორჩება AI ხარჯების შიშების გამო.",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "f73aaf3a87679425",
       "title": "Inside the Race to Quantum-Proof Bitcoin: Why BlackRock and Galaxy Are Stepping In.",
       "source": "Barron's",
@@ -111,6 +221,17 @@
       "titleKa": "მსოფლიო ყველაზე დიდ ნავთობის შოკს აწყდება. აი რატომ არ არის ფასები უფრო მაღალი.",
       "summaryKa": "მსოფლიო ყველაზე დიდ ნავთობის შოკს აწყდება.",
       "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "22fb42b780b65c01",
+      "title": "Is It Too Late to Buy Bitcoin?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnFNcHM1dnVyRmFYaG16Y3A5U0ZYZnprWW00LUpta0FfdWxZU0ZaTVlZWU5FOERTdkoxZGtTNTF1UXB1LS14UWpRRjVNc1lQd3RkQWVvcFBzckRfdHhtM3NwcDZUMndGcHJXaGhtS3B4MmNmeGVDVmFEUWxMS1lMUzBia01SOU0?oc=5",
+      "publishedAt": "2026-07-24T19:27:00.000Z",
+      "titleKa": "ბიტკოინის შეძენა გვიან ხომ არ არის?",
+      "summaryKa": "ბიტკოინის შეძენის საკითხი აქტუალურია.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -253,17 +374,6 @@
       "publishedAt": "2026-07-24T17:28:15.000Z",
       "titleKa": "მომგებიანი ვაჭარი, რომელმაც Tesla-ის აქციები მოკლედ გაყიდა, ახლა ამ მაღალმფრინავზე ამახვილებს ყურადღებას",
       "summaryKa": "ვაჭარი, რომელმაც წარმატებით მოკლედ გაყიდა Tesla-ის აქციები, ახლა სხვა მაღალმფრინავზე ამახვილებს ყურადღებას.",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "32e5be603ec8618e",
-      "title": "Intel’s Strong Earnings Couldn’t Save the Stock From an AI Spending Panic",
-      "source": "Barron's",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2pJUGE5bzVQOGxNZk9ZWWp3cFdfeG10d292d0M5UXgxMlBEVkt2cFlHdzBKZDJsQUg0TnpGMlBrc3A5U0hWb1RocjA5dVZCamdEN0EyUlczRHB5YXlkTk53cHdQZ1pLSmdVSjAyZGsyWnM4UDJRS01weXdTcVEyTkp2bw?oc=5",
-      "publishedAt": "2026-07-24T17:21:00.000Z",
-      "titleKa": "Intel-ის ძლიერი მოგება ვერ გადაარჩინა აქცია AI ხარჯების პანიკისგან",
-      "summaryKa": "Intel-ის ძლიერი მოგება ვერ გადაარჩინა აქცია AI ხარჯების პანიკის ფონზე.",
       "category": "აქციები",
       "translationNotice": "AI-assisted Georgian translation"
     },
