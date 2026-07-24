@@ -24,7 +24,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+Georgian:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="shared.css?v=20260724-ui-polish-2">
+  <link rel="stylesheet" href="shared.css?v=20260724-ui-polish-3">
   <script type="application/ld+json">
   {
     "@context":"https://schema.org",
@@ -85,7 +85,7 @@
     .nav{max-width:1240px;margin:auto;height:74px;padding:0 24px;display:flex;align-items:center;gap:28px}
     .logo{font-family:"DM Sans",sans-serif;font-size:24px;font-weight:800;letter-spacing:-1px}.logo span{color:var(--green2)}
     .links{display:flex;gap:23px;font-size:14px;font-weight:600}.links a:hover{color:var(--green)}
-    .search{margin-left:auto;width:280px;position:relative}.search input{width:100%;border:1px solid var(--line);background:#f6f8f6;border-radius:11px;padding:11px 14px 11px 37px;outline:none}.search:before{content:"⌕";position:absolute;left:14px;top:7px;font-size:21px;color:var(--muted)}.results{display:none;position:absolute;top:48px;right:0;width:410px;max-height:540px;overflow:auto;background:white;border:1px solid var(--line);border-radius:13px;box-shadow:0 20px 50px rgba(14,45,32,.16);padding:7px;z-index:30}.results.open{display:block}.asset-result{display:grid;grid-template-columns:42px 1fr 20px;align-items:center;gap:11px;padding:10px;border-radius:9px;cursor:pointer}.asset-result:hover{background:var(--paper)}.asset-result i{font-style:normal;width:42px;height:42px;border-radius:50%;display:grid;place-items:center;background:var(--mint);color:var(--green);font:700 10px "DM Sans"}.asset-result b{font-size:12px;display:block}.asset-result small{display:block;color:var(--muted);font-size:10px;margin-top:3px}.asset-result em{font-style:normal;color:var(--muted);font-size:22px}.asset-search-state{padding:18px;color:var(--muted);font-size:12px;text-align:center}
+    .search{margin-left:auto;width:330px;position:relative}.search:before{display:none}.search input{font:500 13px "Noto Sans Georgian",sans-serif}.search input::placeholder{color:#819087;opacity:1}.search .results{top:54px;width:min(440px,calc(100vw - 30px))}.asset-result{cursor:pointer}
     .lang{border:1px solid var(--line);background:white;border-radius:10px;padding:9px 11px;font-weight:700}
     main{max-width:1240px;margin:auto;padding:30px 24px 70px}
     .eyebrow{color:var(--green);font-size:12px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
@@ -260,7 +260,7 @@
       <p class="calc-note">ეს პირველი სტრუქტურული ნიმუშია. საკომისიოები და პირობები გამოქვეყნებამდე ოფიციალური წყაროებიდან გადამოწმდება.</p>
     </div>
   </dialog>
-  <script src="shared.js?v=20260724-ui-polish-2"></script>
+  <script src="shared.js?v=20260724-ui-polish-3"></script>
   <script>
     function lineChart(canvas, values, color, fill) {
       if(!canvas||!values?.length)return;
