@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-07-24T11:23:59.083Z",
+  "updatedAt": "2026-07-24T12:51:36.462Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "6ac2cfffbf6ee6e5",
+      "title": "US equity funds log outflows for a second straight week as tech earnings eyed",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdy1kZFU3VVE2OXRBUGtqandVMVQ1WWFXWkliMG5tYWtGenB1T2tNbFNGUURQN3R4RUdVUzhlakpGMzFESUFldi0yTWYxVXhKVXFkdzJnSERMdUhlaDY4UnI3bm5VRzhVX1RESVJvY3dYRTdNNXRXQ0xnbkY2NzI5SW4tbUx3VVdWanM0X3FnSFZvaGd0a0JBS2hDdW9ET2JjOGVZSDRyLVdYZnQyWlNvNE5ib2Z4QklnVmx3QlNoZVNvbmwyRDdZRw?oc=5",
+      "publishedAt": "2026-07-24T12:30:52.000Z",
+      "titleKa": "აშშ-ის აქციების ფონდებმა მეორე კვირაა თანხების გადინება დააფიქსირეს, ტექნოლოგიური კომპანიების მოგებები ყურადღების ცენტრშია",
+      "summaryKa": "აშშ-ის აქციების ფონდებმა მეორე კვირაა თანხების გადინება დააფიქსირეს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "240e397cf9fce85a",
+      "title": "UAE stocks slip amid escalating Middle East conflict",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNemlRaGhlVXU4MTI2YUUyLUZyaVczcm13LXl4UVpWTjlXZTMtaW90LUc1U3oxVWIwcHZoZXJuQy10aVYtbTdoTzNMb0hWcndYMHZIUFVOSEkyanhXMTZfYnpqUEVyeGVpYzhVTG85U18ydy1VVkhBdDY0NkgtczduLUd3VVhtbFRvdE1kLWNUTEREemNBTjAzbzFDdjVtZXl4d2h1V2FlSXlvUQ?oc=5",
+      "publishedAt": "2026-07-24T12:30:09.000Z",
+      "titleKa": "არაბთა გაერთიანებული ემირატების აქციები ვარდება ახლად გაწვდილი ახლო აღმოსავლეთის კონფლიქტის ფონზე",
+      "summaryKa": "არაბთა გაერთიანებული ემირატების აქციები ვარდება.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1b0ea70afc098646",
+      "title": "Berkshire Hathaway's Cash Pile Now Earns More in a Year Than Most S&P 500 Companies Report in Total Profit. Here's the Math.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaHhtSF9CRHhSTkJvOWVQeTJXVE1hYVdMMEdnN3FPOEZTdHJCZWtYbTJzS1JzWFVlYlJrZHJPb1Y2aGlmaVJFY0VacEhabWoyOF95ZHNnMzZyNENINFU5TnIzWE9uX0xFM0NzdTlITjVFQnNhTHJRcnFNNk0xNUxWLWd6UkhWaGFVWWl5QWo3NWlyXzFiTzJ1azNpRzdMd1k?oc=5",
+      "publishedAt": "2026-07-24T12:25:00.000Z",
+      "titleKa": "Berkshire Hathaway-ს ფულადი რესურსები ახლა უფრო მეტს გამოიმუშავებს წელიწადში, ვიდრე უმეტესობა S&P 500 კომპანიების საერთო მოგება.",
+      "summaryKa": "Berkshire Hathaway-ს ფულადი რესურსები ახლა უფრო მეტს გამოიმუშავებს წელიწადში.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d645e0a3daa75427",
+      "title": "Advertising Software Stocks Q1 Teardown: DoubleVerify (NYSE:DV) Vs The Rest",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNUtpSXJhWXlkV0RvSlk3UDhjZmhlakNhazlOS1FWM0ZkdFZZTTIta3h4M1pPMTljM1ZPNFVsaTVhY1lnSjJXb1BRMThKd0pTU3F1ck91Yi16LW13WEFfME51NGJxcllQQWtxNE9jc2J1ZVZBZnlCVmdPOTFHZndET3luZU10dWEtNGdOUWNpWGRac0hkcmdGdEhnT2kzMENOMVlzN25NV3A1UDA?oc=5",
+      "publishedAt": "2026-07-24T12:17:08.000Z",
+      "titleKa": "რეკლამის პროგრამული უზრუნველყოფის აქციების Q1 ანალიზი: DoubleVerify (NYSE:DV) და დანარჩენი",
+      "summaryKa": "რეკლამის პროგრამული უზრუნველყოფის აქციების Q1 ანალიზი შედგება DoubleVerify-სა და დანარჩენი კომპანიების შედარებისგან.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "acfb183db60bc583",
+      "title": "ETF Showdown: XBI vs PBE, Which Biotech Fund Wins?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMlF4OWJDY3ZWajlqMEI4aFY2RnFKUjhxRVI4ejRJLWZiSVRvN3BHWmg0TDdTV0QzdjFVWkZQZGdHZmY4d2JRWHR5UnVoZGQ2RkVfS0V6QkZUN21mdEJRbGZRNzJYeG5XQXZUOTQzTk9qSjgwZVQwbEhzZzUyS212UnAzTGRyaTVtajExUQ?oc=5",
+      "publishedAt": "2026-07-24T12:15:52.000Z",
+      "titleKa": "ETF-ის დაპირისპირება: XBI და PBE, რომელი ბიოტექნოლოგიური ფონდი მოიგებს?",
+      "summaryKa": "XBI და PBE ETF-ების დაპირისპირება მიმდინარეობს.",
+      "category": "ETF",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "94c2ec5e0c44b137",
+      "title": "Oil spurs a sell-off, Trump's new tariffs, Intel earnings and more in Morning Squawk",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU0pKcGhZNXRKcllmLWd4c05PVXIyVE9ZR01xVTFwNE90cnpxdjZ6LUViOGxQNGxWcG1pZkJfdFdXZVlyUWF3RHQ5UVdpRkpfSXU0ZnFTcE1JbDUzN0JCUHVpam5rbEVRWWFmWFRoWkVzamMtS2pOYnpXZlREcUlVcmtqRk5iQXVOdTZz0gGQAUFVX3lxTE16X0U3S1V1MUJMdzhVX1NQV3JjX1R0NDZyUDh4UmxEVHp4X05USjhQWHZhdDNuTGhPT3BwYWxoT3lwZlhCWi14eDdHUkNMdlZ2UVJ2WnVaYVh4cUlpamozQkQxSEFIX0w1RE5GdWJkc19WRFFqNGI1aXprZEN1NzZkTVNfTkdGZndsWnF6cG5JWQ?oc=5",
+      "publishedAt": "2026-07-24T12:15:36.000Z",
+      "titleKa": "ნავთობი გაყიდვების ზრდას იწვევს, ტრამპის ახალი ტარიფები, Intel-ის მოგებები და მეტი დილის სქუაკში",
+      "summaryKa": "ნავთობი გაყიდვების ზრდას იწვევს.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6c862b5380f73690",
+      "title": "Oil products tanker re-routes voyage to Asia through Suez amid Houthi warnings, owner Torm says",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZXJkN3FGeW5KYVA4RUdvaV9Lc3lPc20zRl9oRnRzMmFCQlZOLVlsd1pYY05oUTdhbGpqbXFBb1N4aVVZZVhac1JYTDZFYXdQcXZRbUxlZ01TczhPajc0N1hBdW5EZnBGZG5jWElpbVJhYzA1UFZnaDJrY3dRQ0RQZlBKUFU5ZWFxdF9SZU16cWQtYm56N09qWVVsbHBPV1NaTWttR0VSSGhBakVYOHVDMzZNclo2SkNLLTkxRUlTT2Vib1B4TGI5eA?oc=5",
+      "publishedAt": "2026-07-24T12:13:43.000Z",
+      "titleKa": "ნავთობის პროდუქტების ტანკერი მოგზაურობას აზიისკენ Suez-ის არხით გადამისამართებს Houthi-ს გაფრთხილებების ფონზე, აცხადებს მფლობელი Torm",
+      "summaryKa": "ნავთობის პროდუქტების ტანკერი აზიისკენ Suez-ის არხით გადამისამართებს.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ca23f84eae46f24c",
+      "title": "Oil Prices Fall Below $100 but U.S., Iran Tensions Mount",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92ckhuYloyYm1nOXJGa0dBa2NNbkxRdEVWcVJsSEZMQlAwNm1nUGNsajBDOTNMQ1lmQVJNQVhySG85ZjdHc2hrSllSLW5PWE1vY3E5elZRRUVGTzFaVy1EUDVBWDZ0MjFobHpKcFdBckpuYlpMVnI2UVZCSUxtQQ?oc=5",
+      "publishedAt": "2026-07-24T12:13:00.000Z",
+      "titleKa": "ნავთობის ფასები $100-ის ქვემოთ დაეცა, მაგრამ აშშ-ისა და ირანის შორის დაძაბულობა იზრდება",
+      "summaryKa": "ნავთობის ფასები $100-ის ქვემოთ დაეცა.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f2192449958136b7",
+      "title": "Current price of gold as of July 24, 2026",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XMVBLQW02bU1XWDQ4VUNwdk9CTzZxbHVqZ1dPNmIzTEVwWWdrTUxPaGkyakxqaEZNOVdaSExUWlBUZE9zZlAwZVBFbkE4TUU4OGxxb3NaQnRwVEI0enFneGhuVWZMMlVZVWJZMzNB?oc=5",
+      "publishedAt": "2026-07-24T12:13:00.000Z",
+      "titleKa": "ოქროს მიმდინარე ფასი 2026 წლის 24 ივლისისთვის",
+      "summaryKa": "ოქროს მიმდინარე ფასი 2026 წლის 24 ივლისისთვის გამოქვეყნდა.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "cc7709c0c1efa650",
+      "title": "Amid Gaza Ruins, One Trader Keeps His Crypto Screens Running",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaDM5WFppN253Qm9jQjkwbWxlYVZQOEpuZGlSVDFIYnJVZkIwQzBKaV8xbXA2cEdfNXk3VzJKcEo5NllFU0Q4S0pxcFVaWVhUMlpJN3I2V211ZXRsYi1mSFdnMVFrVWY4anFwcUxnSGNIVVNxLVBoQnJJcm9WbVNHVm1ReWtNNjAyLXI5Yy03LUFuUF9NX2c?oc=5",
+      "publishedAt": "2026-07-24T12:04:30.000Z",
+      "titleKa": "გაზას შორის ნანგრევების ფონზე, ერთი ვაჭარი თავის კრიპტო ეკრანებს აგრძელებს მუშაობას",
+      "summaryKa": "ერთი ვაჭარი თავის კრიპტო ეკრანებს აგრძელებს მუშაობას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "df0c9cf35b1842f9",
+      "title": "Latest version of crypto bill faces mounting concerns from banks and lawmakers",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeUdwc19yNFBrZjgyQzhnMEFNbXB5NElUa3YzZzNNRldsMDE0amw5YnF6Uy1Bb3pLZ0RVSTVJNUNvclZVeEtWUHBZb0ZaeFZ6aG1FY1pJZFp4eGpldkFETXFfdUV2TzZVTVNFQ2hVeEtoTDA1eUVLRkh0LWNvYTZGa19fTmNqenRSM1JWWjdnQlYzX0RCZHJUNldRNVUtaEMzS1QwUUY5VlhpVmZNenkxcmxrRzd3cVZzRmthWEpB?oc=5",
+      "publishedAt": "2026-07-24T12:02:24.000Z",
+      "titleKa": "კრიპტო კანონპროექტის უახლესი ვერსია ბანკებისა და კანონმდებლების მხრიდან მზარდ შეშფოთებას აწყდება",
+      "summaryKa": "კრიპტო კანონპროექტის უახლესი ვერსია ბანკებისა და კანონმდებლების შეშფოთებას აწყდება.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "53eb7f3e41da836c",
+      "title": "Crypto exchange HTX included in EU's Russia sanctions",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUF2eUFTNHYzMDZTeWpGVVhqZThWamJ0MVQyd09faUREeGxHNjRxcnkweHlONDFSNVh6MUVFVUsyWVBzTTlEcUctOEtCdmowa2JoNm02TTdLSWtuZFJDbXRzcElRRVltSy1lZEcya2ZhQmU1TDB3UTBwRHNjTHpsUHp6SUNvbXZFNHl2NFRVb1BHMzJjdVl4QkFTbUF4ZlQyQ3NNaA?oc=5",
+      "publishedAt": "2026-07-24T12:01:43.000Z",
+      "titleKa": "კრიპტო გაცვლის HTX ევროკავშირის რუსეთის სანქციებში შევიდა",
+      "summaryKa": "კრიპტო გაცვლის HTX ევროკავშირის რუსეთის სანქციებში შევიდა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "01b4dc6f73cacb90",
       "title": "Bitcoin holds near $65,000 as the Iran conflict sends oil to a two-month high: Crypto Markets Today",
