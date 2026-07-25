@@ -1,8 +1,118 @@
 {
-  "updatedAt": "2026-07-25T08:35:58.437Z",
+  "updatedAt": "2026-07-25T10:14:49.718Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "0c455d60914ff5a0",
+      "title": "Robinhood's New Blockchain Has Been a Smash Success. Here's Why That's Bearish for Ethereum.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGIyNHdGOHZ0eXpzRTBSYzhWMmQwUHhBTTVGTHdrMkx2SjJlOTFLSVNZUGhkZllvM0pwUngxSXFPNVBoam5KT2Ezcm9Ic2gzMl94Z0I4b010amZEcElNd0J3ek5aQnhnNlJxcWhTcC00UktIQlJhT2lMdl9jbXRieXV3THFrR0oxOXphMW52WnJCbjJaMDBGZ3I5TmF0Y3gxUHJxR2VhX29VZw?oc=5",
+      "publishedAt": "2026-07-25T10:02:00.000Z",
+      "titleKa": "Robinhood-ის ახალი ბლოკჩეინი წარმატებულია. რატომ არის ეს ეთერიუმისთვის უარყოფითი?",
+      "summaryKa": "Robinhood-ის ახალი ბლოკჩეინი წარმატებით მუშაობს.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "cdf826b081f92409",
+      "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeVJDTVBwdmlfYlB0REswa1pTNVNib1Fza1VsUGNRN0x4ay16Ml8zd1lPRGExXy1MUk9HYXYyMDUzcDFxeGFvUVlLYnFjSnpsLXB6TVhjek5rVTVCX0Rxcm9RalY5VVYwMG1saGZ6ankzdVVTdUg1VXlGQjZSLWxFamhBa2V0anRiM0J5SUs1d0hDTU9XbG9NME41WmxfaGJQdkdOZHNDenNhMWVKWXROeno0SXFNWC1zbWQzY3BIZEdwbk9ZVU9makM5c3FVWGVid3hyVTA4b3JDMlU?oc=5",
+      "publishedAt": "2026-07-25T10:01:40.000Z",
+      "titleKa": "Robinhood Chain-ის რეალური აქტივები ხუთჯერ გაიზარდა, რადგან ტოკენიზირებული აქციები უფრო დიდი მოცულობით იწყებს ვაჭრობას",
+      "summaryKa": "Robinhood Chain-ის რეალური აქტივები ხუთჯერ გაიზარდა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6792b8a6e1c98722",
+      "title": "Investors bet on Federal Reserve rate rise after oil price surge",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGdDMHFqX2FBMWZMQVpTd1dYVGF3NkstVW1DNER3WWZqejIwcDJTSEJkYWIzWjdtdDk0elVFRFlRd1FyakxxeXRJVm82TjJTSFo0Vy1PMEN6WklMRnNkaWw1b0lwQW8zOFM0Z1Fzcm5seXBDYVNkcjB4OEFBVkJxdk83YUk?oc=5",
+      "publishedAt": "2026-07-25T10:00:09.000Z",
+      "titleKa": "მომხმარებლები ფედერალური რეზერვის განაკვეთის ზრდაზე ფსონს დებენ ნავთობის ფასების ზრდის შემდეგ",
+      "summaryKa": "მომხმარებლები ფსონს დებენ ფედერალური რეზერვის განაკვეთის ზრდაზე.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6d4762caa06d7b98",
+      "title": "Why aren't oil prices higher? Staggering drop in energy demand leaves strategists puzzled.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMlBuQ3V0N2NhQVRvejZzQlI4X3A4VVVlX2RLckdNLVdXT2FpTlFFTUhobFk0M2NMLWhMeWU3cjR2MmJkNUc1cHJpVS1VN1pTaVg2Z1RUNnRISHAzNk9RNkowbzR4U2h6dl9rLUpmYnctTlVKMlRPZnR3WHdMazh2MjQ2YnhyeVp5MV9icTJ0eFVIN1djX1RvazVFUVBmdWRVM3ZfMHVSSHlPcG8yb3VTaHVteC0zSi1NOWE0S2tpRVFLQ0JMMlVHMTFJNUJSaklrbHd6c1JIaEJHRkE?oc=5",
+      "publishedAt": "2026-07-25T10:00:00.000Z",
+      "titleKa": "რატომ არ არის ნავთობის ფასები უფრო მაღალი? ენერგიის მოთხოვნის შოკისმომგვრელი შემცირება სტრატეგებს გაკვირვებაში ტოვებს.",
+      "summaryKa": "ენერგიის მოთხოვნა მნიშვნელოვნად შემცირდა.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7b8ece7f7729f36d",
+      "title": "Market pros say people pursuing FIRE by investing aggressively often make a crucial mistake",
+      "source": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXB5MF80TWFmakw4Q2pfNTRHRjI2VWc1eDhkRWNxN2dfTzNNaWRGVTJJdjctLXJSOHpWZEdkM2taaFVoRmFUdnZkOHRrWjA3MkxlaDJ2LXlxQUxJclFYUTN3RWpxYTV2RVVfa3VJV284UkFDdXdNY0xmc2JyWUNMRmYyMmY0M2Y4TUNQMFdTZnFFXzJlb24weDE5Sk1EX1dJSjlndXFVdll3SklmV25YRko0YklRTmdwVk5jUVhIdElLQUNpUjB3?oc=5",
+      "publishedAt": "2026-07-25T09:40:03.000Z",
+      "titleKa": "ბაზრის პროფესიონალები ამბობენ, რომ ადამიანები, რომლებიც FIRE-ს მიზნისთვის აგრესიულად ინვესტირებენ, ხშირად კრიტიკულ შეცდომას უშვებენ",
+      "summaryKa": "ბაზრის პროფესიონალები აღნიშნავენ, რომ აგრესიული ინვესტირება ხშირად შეცდომაა.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d014d8b7e6120c1a",
+      "title": "Talen Energy (TLN) Could Be 23% Undervalued Following Earnings And Analyst Calls",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHRIdm9DczAzTWpPcjJUYk1kd1VmNHJCWDhZVVl2U0JJNlUzXzk4aVBMR0NSNU4wdHVIb00zZTJKSXpIQWhBdU9nQUVLeVBaQWdXSzlqLW5kXy1zMkE1UFhkUEhFZ3J6QzljRjlEVVdzSHdPTnZ1c3JZMWJBSG9XN0swYnJBWUszenJFQXRPb2dxak9v?oc=5",
+      "publishedAt": "2026-07-25T09:10:50.000Z",
+      "titleKa": "Talen Energy (TLN) შესაძლოა 23%-ით undervalued იყოს მოგების და ანალიტიკოსების ზარების შემდეგ",
+      "summaryKa": "Talen Energy (TLN) შესაძლოა undervalued იყოს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3e3cf379f4397fe7",
+      "title": "I'm Calling It: Enterprise Products Partners Will Crush the S&P 500 in the Second Half of 2026",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQndObGQ3SVF1TjF4VkJ6M0ItOXN1NkFKYm9hSVlRVnNlOGtqUmE1UEI4dXVMSHBjdE9Xbl9XRkxtYlduQllXajczd3NjWklDU1MtVk8ydF8wYkZ2V0tHa29yR1pZQzVPc1BHRWxVYTZvcVR6eWNnaXJZcmkxZ2QtSUZOVGFTWTZ3MU8walpzMjI4RkpwRWhBWlRCV3JSOWppQ1NXTEN5NA?oc=5",
+      "publishedAt": "2026-07-25T09:04:00.000Z",
+      "titleKa": "მივმართავ: Enterprise Products Partners S&P 500-ს 2026 წლის მეორე ნახევარში დაამარცხებს",
+      "summaryKa": "Enterprise Products Partners-ის წარმატება მოსალოდნელია 2026 წლის მეორე ნახევარში.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "397300a420a6bcc8",
+      "title": "SouthState Bank (SSB) Stock Looks Reasonable On Earnings And Cheap On Fair Value",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbDBrcUtUVUc2YVduRmwwOXRjWWdldVBKMFptNFRkQkFFY3JDS0VsWGxFbU5zaUNkbjlZT0x3S2lGVFhHbVloWTlZUUtUU2JqNEtKMEN2M0NXYkdmeXZ2NGRsWDNwM1RZZTZsQ29MNHFUNWpTV2hqVDV0NUVnZW1lR3JCUUlPRDJOYWd0S1cwVjI5dUFacS12aDc3VFo?oc=5",
+      "publishedAt": "2026-07-25T08:13:06.000Z",
+      "titleKa": "SouthState Bank (SSB) აქცია მოგების მიხედვით გონივრული ჩანს და სამართლიან ფასზე იაფია",
+      "summaryKa": "SouthState Bank (SSB) აქცია გონივრული და იაფია.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e780a8248fcce422",
+      "title": "Sea (SE) Falls Before Earnings, Is The Upside Already Priced In?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTnM5b1Y0UHVYTkt1Umw0Mks4ZGUwODRkc3RWbUxqZkRPUFcyRTlwc1RDNkVMS0NicGl2eVotRjZfRUNia1dycmdyVmZRay1sVHlaUGhscnN5OGZLV2VkRTR5b1YwbUVhQ3hnbnJnamVRdHJuclBlRFZadjJkSWNiaWFBSHRHblNka3ZsY2J0NzQ2VXFvSndxag?oc=5",
+      "publishedAt": "2026-07-25T08:12:35.000Z",
+      "titleKa": "Sea (SE) ვარდება მოგების წინ, არის თუ არა ზრდა უკვე ფასში ჩართული?",
+      "summaryKa": "Sea (SE) აქცია ვარდება მოგების წინ.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "21cfa6605d9fdbfd",
+      "title": "Materion (MTRN) Stock May Look Reasonable Despite A Rich Earnings Price",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVZDd1pPa0hDVEFhcTJqZnJReC1PeFpyQi12QXVKMzBpMVZQZF9idFM4cHZrNzU3R0FTS21OYmkxYUVNWHlvSTNkdU5tRllwdWpwbWJNbGdXTnpVU3hHZVNmNjJyRzgwTkFOWjFXSFE5Y0dsTWQxUUdMUFdGNW95eWk1VVU0QmlRclRMaDhQcDcya0RYZlNPTA?oc=5",
+      "publishedAt": "2026-07-25T08:12:25.000Z",
+      "titleKa": "Materion (MTRN) აქცია შესაძლოა გონივრული იყოს მდიდარი მოგების ფასის მიუხედავად",
+      "summaryKa": "Materion (MTRN) აქცია შესაძლოა გონივრული იყოს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "9f1b8a666b5781a5",
       "title": "Alphabet's Projected $205 Billion Capex Can Lift These 3 AI Stocks",
