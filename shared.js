@@ -6,6 +6,43 @@ const tickerMarkup=`
   <span><i style="font-style:normal;color:#9eb9ac">კრიპტო: CoinGecko · კურსი: NBG</i></span>`;
 document.querySelectorAll('[data-ticker]').forEach(el=>el.innerHTML=tickerMarkup);
 (() => {
+  const main=document.querySelector('main');
+  if(main&&!main.id)main.id='main-content';
+  if(main&&!document.querySelector('.skip-link')){
+    const skip=document.createElement('a');
+    skip.className='skip-link';
+    skip.href=`#${main.id}`;
+    skip.textContent='მთავარ შინაარსზე გადასვლა';
+    document.body.prepend(skip);
+  }
+  document.querySelectorAll('.nav-search').forEach((input,index)=>{
+    if(!input.id)input.id=`site-search-${index+1}`;
+    if(!input.getAttribute('aria-label'))input.setAttribute('aria-label',input.placeholder||'ძიება');
+  });
+  document.querySelectorAll('.field').forEach((field,index)=>{
+    const label=field.querySelector('label');
+    const control=field.querySelector('input,select,textarea');
+    if(!label||!control)return;
+    if(!control.id)control.id=`form-field-${index+1}`;
+    label.htmlFor=control.id;
+  });
+  document.querySelectorAll('.lang').forEach(button=>{
+    button.type='button';
+    button.disabled=true;
+    button.setAttribute('aria-label','ქართული ენაა არჩეული');
+    button.title='ქართული ენაა არჩეული';
+    button.setAttribute('aria-pressed','true');
+  });
+  document.querySelectorAll('[data-current-date]').forEach(el=>{
+    el.textContent=new Intl.DateTimeFormat('ka-GE',{day:'numeric',month:'long',year:'numeric'}).format(new Date())+' · მონაცემები ახლდება';
+  });
+  document.querySelectorAll('.tool-picker button:not(.active)').forEach(button=>{
+    button.disabled=true;
+    button.title='ეს ინსტრუმენტი მზადდება';
+    button.setAttribute('aria-label',(button.querySelector('b')?.textContent||'ინსტრუმენტი')+' — მზადდება');
+  });
+})();
+(() => {
   const style=document.createElement('link');
   style.rel='stylesheet';
   style.href='finance-header.css?v=20260725-proportional-editorial';
