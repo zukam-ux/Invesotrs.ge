@@ -19,6 +19,13 @@ const CRYPTO_URL =
 const NBG_URL =
   "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/ka/json/";
 const YAHOO_CHART_URL = "https://query1.finance.yahoo.com/v8/finance/chart/";
+const MARKET_SERIES_RANGES = {
+  "1d": { range: "1d", interval: "5m", label: "ბოლო 1 დღე" },
+  "1w": { range: "5d", interval: "30m", label: "ბოლო 1 კვირა" },
+  "1m": { range: "1mo", interval: "1d", label: "ბოლო 1 თვე" },
+  "3m": { range: "3mo", interval: "1d", label: "ბოლო 3 თვე" },
+  "1y": { range: "1y", interval: "1d", label: "ბოლო 1 წელი" },
+};
 const trustedSources = new Set([
   "Reuters",
   "CNBC",
@@ -564,6 +571,79 @@ async function serveQuotes(url) {
   );
 }
 
+async function serveMarketSeries(url) {
+  const rangeKey = url.searchParams.get("range") || "1m";
+  const selection = MARKET_SERIES_RANGES[rangeKey];
+  if (!selection) {
+    return json(
+      { error: "INVALID_RANGE", supportedRanges: Object.keys(MARKET_SERIES_RANGES) },
+      { status: 400, headers: { "cache-control": "no-store" } },
+    );
+  }
+  try {
+    const payload = await fetchJson(
+      `${YAHOO_CHART_URL}SPY?interval=${selection.interval}&range=${selection.range}`,
+      7000,
+      { "user-agent": "Investors.ge SPY market chart/1.0" },
+    );
+    const result = payload.chart?.result?.[0];
+    const timestamps = result?.timestamp ?? [];
+    const closes = result?.indicators?.quote?.[0]?.close ?? [];
+    const points = timestamps
+      .map((timestamp, index) => ({
+        timestamp: Number(timestamp),
+        close: Number(closes[index]),
+      }))
+      .filter(
+        (point) =>
+          Number.isFinite(point.timestamp) &&
+          Number.isFinite(point.close) &&
+          point.close > 0,
+      );
+    if (points.length < 2) throw new Error("Insufficient series data");
+
+    const start = points[0].close;
+    const latest = points.at(-1).close;
+    const meta = result.meta ?? {};
+    return json(
+      {
+        symbol: "SPY",
+        name: "SPDR S&P 500 ETF Trust",
+        instrumentType: "ETF",
+        exchange: meta.fullExchangeName || meta.exchangeName || "NYSE Arca",
+        currency: meta.currency || "USD",
+        marketState: meta.marketState || null,
+        marketTime: meta.regularMarketTime || points.at(-1).timestamp,
+        range: rangeKey,
+        rangeLabel: selection.label,
+        interval: selection.interval,
+        start,
+        latest,
+        change: latest - start,
+        changePercent: start ? ((latest - start) / start) * 100 : null,
+        points,
+        source: "Yahoo Finance",
+        delayNotice: "მონაცემები შესაძლოა დაგვიანებული იყოს",
+        fetchedAt: new Date().toISOString(),
+      },
+      {
+        headers: {
+          "cache-control":
+            "public, max-age=60, s-maxage=60, stale-while-revalidate=300",
+        },
+      },
+    );
+  } catch {
+    return json(
+      {
+        error: "MARKET_SERIES_UNAVAILABLE",
+        message: "SPY market series is temporarily unavailable.",
+      },
+      { status: 503, headers: { "cache-control": "no-store" } },
+    );
+  }
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -572,6 +652,7 @@ export default {
     }
     if (url.pathname === "/data/global-news.json") return serveNews(env);
     if (url.pathname === "/api/market-data") return serveMarketData();
+    if (url.pathname === "/api/market-series") return serveMarketSeries(url);
     if (url.pathname === "/api/news-quotes") return serveQuotes(url);
     return env.ASSETS.fetch(request);
   },
