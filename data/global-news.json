@@ -1,8 +1,41 @@
 {
-  "updatedAt": "2026-07-25T15:34:28.473Z",
+  "updatedAt": "2026-07-25T16:30:40.115Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "59af7a622276f264",
+      "title": "3 Energy Stocks Yielding Over 4.5% to Cash in on the AI Power Boom",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV0c5VC1maDZ6TkplZDY4VWpJWGY2THZ4TXJhOWdoeEJLb2RPYzRMSklXdXg3V0xoRnJMTXpIUnNFYmRWQk1vWFYtNHRHSklBSDUxNzBNaDUyUXhtcXo4SnFhck9rR3Z2ZGpvWGJieVBTRVNlbldzVlRWSEJ0MDN0MlR3SWFPZjYtXzc4ajFaUQ?oc=5",
+      "publishedAt": "2026-07-25T15:35:00.000Z",
+      "titleKa": "3 ენერგეტიკული აქცია, რომლებიც 4.5%-ზე მეტ სარგებელს იძლევიან AI ძალის ზრდისგან",
+      "summaryKa": "ამ სტატიაში განხილულია სამი ენერგეტიკული აქცია, რომლებიც 4.5%-ზე მეტ სარგებელს იძლევიან.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ae640891cd426176",
+      "title": "Billionaire Investor Seth Klarman’s Top 5 Stocks: Would He Buy More Today?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEY0SDRIX0VFTmZ0Wi1pdmJjT2lEVFR0Qm5pZ2xFei1WSlVyQkJfb18ySFpqS2V2LTZBeGZQb0RKSHRGOExTMWg3VkJiNXJtai1xNXQ0Ylh4ejJnSFNUUHo5bGZOaHFrUmNraUFVeFFWZDNYLVRMb25DU3E4TUN0c1ZyYnhsQmRvUWMyY1NwbXozUThCLVZDdVVUcU5zY1JnSDdPMw?oc=5",
+      "publishedAt": "2026-07-25T15:30:51.000Z",
+      "titleKa": "მილიარდერი ინვესტორი სეთ კლარმანის 5 საუკეთესო აქცია: იყიდის თუ არა კიდევ დღეს?",
+      "summaryKa": "სტატია ეხება სეთ კლარმანის 5 საუკეთესო აქციას და კითხვას, იყიდის თუ არა ის კიდევ დღეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "73fb4fe36bf4014e",
+      "title": "3 Reasons Seagate Technology Could Be Worth a Closer Look Ahead of July 28 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXM3M0xONXgwZXFZQ2d4V0tLRFR5XzdOQTNpYTVzRGdDMnNQeHN6V1dSV1VKQWpoOUJQMzdCRm5SdUdkTnlCRWo0VllQd2FMNndWVmItclhtaHZJbFRhNTRwXzU2TUloUllqYjhkUHZBbGJoSG1QOGV3bEh3NG1yaGpZejRtUEFZbWRQRFVndm40dXZkb1JIRkxzNVRQVjlD?oc=5",
+      "publishedAt": "2026-07-25T15:20:28.000Z",
+      "titleKa": "3 მიზეზი, რატომ უნდა მიაქციოთ ყურადღება Seagate Technology-ს 28 ივლისის მოგების ანგარიშის წინ",
+      "summaryKa": "სტატია ასახავს სამ მიზეზს, რატომ შეიძლება Seagate Technology საინტერესო იყოს 28 ივლისის მოგების ანგარიშის წინ.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "aa9f24ba538aea9d",
       "title": "MetLife (MET) Stock Looks Below Fair Value While Earnings Sit Above Fair Value",
@@ -22,6 +55,17 @@
       "publishedAt": "2026-07-25T15:12:44.000Z",
       "titleKa": "არის თუ არა Travelers Companies (TRV) ძვირი მეოთხე კვარტლის მოგების შემდეგ?",
       "summaryKa": "Travelers Companies-ის მეოთხე კვარტლის მოგება აღემატება მოლოდინებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e9217c230b18ae82",
+      "title": "Silver Range eyes deeper gold potential at East Goldfield - ICYMI",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckIxRnpfd0p5LW53a0lHR0FIdDRPeFpuZ3ZObklNM25sR0d0TXluYVhlT1NDQk83NFltT0t6MzBFNmtGR2dqUlZqdXRiY05YdEI5akFSSXNzYVVqbE9kOEVHRE5fYmY5cG96TEdFMEVCT21fSHc1a2t1YlE4em1KbW5XdC1vRm1JdVlLQWFHbUh3NFM1SWtwS2J4TkoteDhC?oc=5",
+      "publishedAt": "2026-07-25T15:06:00.000Z",
+      "titleKa": "Silver Range ეძებს უფრო ღრმა ოქროს პოტენციალს East Goldfield-ში - ICYMI",
+      "summaryKa": "სტატია ეხება Silver Range-ის გეგმას, რომ East Goldfield-ში უფრო ღრმა ოქროს პოტენციალი შეისწავლოს.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
