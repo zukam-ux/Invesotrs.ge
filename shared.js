@@ -356,5 +356,6 @@ document.querySelectorAll(".nav-search:not([data-asset-search])").forEach(input 
   }
 });
 const assetSearchScript = document.createElement("script");
-assetSearchScript.src = "asset-search.js?v=20260724-live-quotes";
+assetSearchScript.type = "module";
+assetSearchScript.src = "asset-search.js?v=20260725-search-quality";
 document.body.appendChild(assetSearchScript);

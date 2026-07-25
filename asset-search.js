@@ -1,7 +1,16 @@
-(() => {
-  let catalogPromise;
-  const popularSecurities = new Set(["SPCX", "AAPL", "NVDA", "MSFT", "AMZN", "GOOGL", "META", "TSLA", "QQQ", "SPY"]);
+let catalogPromise;
+  const popularSecurities = new Set(["AAPL", "NVDA", "MSFT", "AMZN", "GOOGL", "META", "TSLA", "QQQ", "SPY"]);
   const canonicalCoins = new Set(["bitcoin", "ethereum", "solana", "ripple", "binancecoin", "dogecoin", "cardano", "avalanche-2", "chainlink", "sui"]);
+  const queryAliases = new Map([
+    ["btc", "bitcoin"],
+    ["xbt", "bitcoin"],
+    ["eth", "ethereum"],
+  ]);
+  const securityQueryAliases = new Map([
+    ["apple", "AAPL"],
+    ["google", "GOOGL"],
+    ["facebook", "META"],
+  ]);
 
   function escapeHtml(value = "") {
     return String(value).replace(/[&<>"']/g, char => ({
@@ -21,24 +30,60 @@
     return catalogPromise;
   }
 
-  function score(asset, query) {
+  function normalized(value = "") {
+    return String(value).toLowerCase().replace(/[.,/#!$%^&*;:{}=\-_`~()•]/g, " ").replace(/\s+/g, " ").trim();
+  }
+
+  function assetKind(asset) {
+    if (asset.kind) return asset.kind;
+    if (asset.type === "crypto") return /tokenized|xstock|robinhood token|ondo|backpack securities|dinari/i.test(asset.name) ? "tokenized" : "crypto";
+    if (/warrant/i.test(asset.name) || /-WT$|W$/.test(asset.symbol)) return "warrant";
+    if (/preferred/i.test(asset.name) || /-P[A-Z]$/.test(asset.symbol)) return "preferred";
+    if (/\bETF\b|\bFUND\b|\bTRUST\b/i.test(asset.name)) return "etf";
+    return asset.exchange === "OTC" ? "otc" : "stock";
+  }
+
+  export function scoreAsset(asset, rawQuery) {
+    const query = normalized(rawQuery);
+    const canonicalQuery = queryAliases.get(query) || query;
+    const securityAlias = securityQueryAliases.get(query);
     const symbol = asset.symbol.toLowerCase();
-    const name = asset.name.toLowerCase();
-    const aliases = (asset.aliases || "").toLowerCase();
+    const name = normalized(asset.name);
+    const aliases = normalized(asset.aliases);
+    const words = name.split(" ");
     let value = 0;
-    if (symbol === query) value += 140;
-    else if (symbol.startsWith(query)) value += 80;
-    else if (symbol.includes(query)) value += 25;
-    if (name === query) value += 160;
-    else if (name.startsWith(query)) value += 90;
-    else if (name.includes(query)) value += 40;
-    if (aliases === query) value += 180;
-    else if (aliases.startsWith(query)) value += 100;
-    else if (aliases.includes(query)) value += 45;
-    if (asset.type === "security") value += 25;
-    if (asset.type === "security" && popularSecurities.has(asset.symbol)) value += 150;
-    if (asset.type === "crypto" && canonicalCoins.has(asset.id)) value += 90;
+    if (symbol === query) value = 1000;
+    else if (symbol.startsWith(query)) value = 720;
+    else if (symbol.includes(query)) value = 420;
+    if (name === query) value = Math.max(value, 950);
+    else if (name.startsWith(query)) value = Math.max(value, 780);
+    else if (words.some(word => word === query)) value = Math.max(value, 650);
+    else if (name.includes(query)) value = Math.max(value, 520);
+    if (aliases === query) value = Math.max(value, 980);
+    else if (aliases.startsWith(query)) value = Math.max(value, 800);
+    else if (aliases.includes(query)) value = Math.max(value, 560);
+    if (asset.type === "crypto" && canonicalCoins.has(asset.id) && (asset.id === canonicalQuery || name === canonicalQuery)) {
+      value = Math.max(value, 1250);
+    }
+    if (asset.type === "security" && securityAlias === asset.symbol) value = Math.max(value, 1250);
+    if (!value && canonicalQuery !== query && asset.type === "crypto" && asset.id === canonicalQuery) value = 1250;
+    if (!value) return 0;
+    const kind = assetKind(asset);
+    if (asset.type === "security" && popularSecurities.has(asset.symbol)) value += 12;
+    if (asset.type === "crypto" && canonicalCoins.has(asset.id)) value += 35;
+    if (kind === "stock") value += 25;
+    if (kind === "tokenized") value -= 80;
+    if (kind === "otc" || kind === "warrant" || kind === "preferred") value -= 30;
     return value;
+  }
+
+  export function rankAssets(assets, query, limit = 20) {
+    return assets
+      .map(asset => [asset, scoreAsset(asset, query)])
+      .filter(([, value]) => value > 0)
+      .sort((a, b) => b[1] - a[1] || a[0].name.localeCompare(b[0].name))
+      .slice(0, limit)
+      .map(([asset]) => asset);
   }
 
   function assetUrl(asset) {
@@ -56,9 +101,16 @@
 
   function renderResult(asset) {
     const quoteSymbol = asset.type === "crypto" ? `${asset.symbol}-USD` : asset.symbol;
-    const kind = asset.type === "crypto"
-      ? "კრიპტო ტოკენი · არ არის კომპანიის აქცია"
-      : `${asset.exchange || "აშშ"} · კომპანიის ფასიანი ქაღალდი`;
+    const labels = {
+      stock: `${asset.exchange || "აშშ"} · აქცია`,
+      etf: `${asset.exchange || "აშშ"} · ETF / ფონდი`,
+      crypto: "კრიპტოაქტივი",
+      tokenized: "ტოკენიზებული აქტივი · არ არის კომპანიის აქცია",
+      warrant: `${asset.exchange || "აშშ"} · ვარანტი`,
+      preferred: `${asset.exchange || "აშშ"} · პრივილეგირებული აქცია`,
+      otc: "OTC ფასიანი ქაღალდი",
+    };
+    const kind = labels[assetKind(asset)] || "ფინანსური აქტივი";
     return `<a class="asset-result" href="${escapeHtml(assetUrl(asset))}">
       <i>${escapeHtml(asset.symbol.slice(0, 4))}</i>
       <span><b>${escapeHtml(asset.name)} <span data-live-quote="${escapeHtml(quoteSymbol)}"></span></b><small>${escapeHtml(asset.symbol)} · ${escapeHtml(kind)}</small></span>
@@ -85,26 +137,9 @@
       try {
         const assets = await loadCatalog();
         if (current !== request) return;
-        let ranked = assets
-          .map(asset => [asset, score(asset, query)])
-          .filter(([, value]) => value > 0)
-          .sort((a, b) => b[1] - a[1] || a[0].name.localeCompare(b[0].name));
-        const exactSecuritySymbols = new Set(
-          ranked
-            .filter(([asset]) => asset.type === "security" && (
-              asset.symbol.toLowerCase() === query ||
-              asset.name.toLowerCase() === query ||
-              (asset.aliases || "").toLowerCase() === query
-            ))
-            .map(([asset]) => asset.symbol.toLowerCase())
-        );
-        ranked = ranked.filter(([asset]) => !(
-          asset.type === "crypto" &&
-          exactSecuritySymbols.has(asset.symbol.toLowerCase())
-        ));
-        const matches = ranked
-          .slice(0, 10)
-          .map(([asset]) => asset);
+        const ranked = rankAssets(assets, query, 40);
+        const exactSecuritySymbols = new Set(ranked.filter(asset => asset.type === "security" && asset.symbol.toLowerCase() === query).map(asset => asset.symbol.toLowerCase()));
+        const matches = ranked.filter(asset => !(asset.type === "crypto" && exactSecuritySymbols.has(asset.symbol.toLowerCase()))).slice(0, 10);
         results.innerHTML = matches.length
           ? matches.map(renderResult).join("")
           : `<div class="asset-search-state">„${escapeHtml(input.value.trim())}“ ვერ მოიძებნა</div>`;
@@ -128,10 +163,11 @@
     });
   }
 
+if (typeof document !== "undefined") {
   document.querySelectorAll("[data-asset-search]").forEach(attach);
   document.addEventListener("click", event => {
     if (!event.target.closest(".asset-search")) {
       document.querySelectorAll(".asset-search-results").forEach(el => el.classList.remove("open"));
     }
   });
-})();
+}

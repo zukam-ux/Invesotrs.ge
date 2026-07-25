@@ -24,10 +24,23 @@ const exchangeMap = {
   OTC: "OTC",
 };
 const securityAliases = {
-  "0001181412": "SpaceX",
   "0001652044": "Google",
   "0001326801": "Facebook",
 };
+
+function securityKind(name, ticker, exchange) {
+  if (/warrant/i.test(name) || /-WT$|W$/.test(ticker)) return "warrant";
+  if (/preferred/i.test(name) || /-P[A-Z]$/.test(ticker)) return "preferred";
+  if (/\bETF\b|\bFUND\b|\bTRUST\b/i.test(name)) return "etf";
+  if (exchange === "OTC") return "otc";
+  return "stock";
+}
+
+function cryptoKind(name) {
+  return /tokenized|xstock|robinhood token|ondo tokenized|backpack securities|dinari/i.test(name)
+    ? "tokenized"
+    : "crypto";
+}
 
 const securities = sec.data
   .filter(([, name, ticker, exchange]) => name && ticker && exchange)
@@ -38,6 +51,7 @@ const securities = sec.data
       symbol: ticker,
       name,
       exchange,
+      kind: securityKind(name, ticker, exchange),
       tv: `${exchangeMap[exchange] || exchange.toUpperCase().replace(/\s+/g, "")}:${ticker.replace(".", "-")}`,
       cik: paddedCik,
       ...(securityAliases[paddedCik] ? { aliases: securityAliases[paddedCik] } : {}),
@@ -51,6 +65,7 @@ const crypto = coins
     symbol: symbol.toUpperCase(),
     name,
     id,
+    kind: cryptoKind(name),
   }));
 
 const payload = {
