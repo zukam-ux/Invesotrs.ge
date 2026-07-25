@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-07-25T01:08:04.599Z",
+  "updatedAt": "2026-07-25T04:24:33.101Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "d2e2e41be4480d02",
+      "title": "Labcorp Holdings (LH) Draws Fresh Earnings Optimism, Is It Still 4% Undervalued?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGdqY1FtdFcwaUR4MEVDVmlZbUpPR211OEZ3ZGtTanFLd0oyeDVkSjhrc0tXRk5Jei1iRFdJM1YzR1N0eW53TlkwV0dhaGJ5N1JsdnFQYnhKWHZQN1otWlFvNVJJRDM5ZDMyVXRwblB0QmUwOFl4LWdLOVlzaDBGcmpKVjdSbERWa0ZOWFBqSjVJTFYwTjJ2LUFqSlc?oc=5",
+      "publishedAt": "2026-07-25T03:19:00.000Z",
+      "titleKa": "Labcorp Holdings (LH) ახალმა მოგების ოპტიმიზმმა მიიპყრო ყურადღება, არის თუ არა ის კვლავ 4%-ით undervalued?",
+      "summaryKa": "Labcorp Holdings (LH) ახალი მოგების ოპტიმიზმით გამოირჩევა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a348b9db09a9af9e",
+      "title": "How Analysts’ Upgraded Earnings Outlook At Ventas (VTR) Has Changed Its Investment Story",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0NoTUxIRHFUMHZYQWg4STJUQVFibElrdmhuR0hEdmE0cnVNWkNBbEhMXzJQaEkyT09YWHROSnhyRWp0dGRYNVZBSzltRHk0STQtdzZ2RVl4TF9YcDBHRnVtWGJEUE1wdVEzZWlVX3kyNGdwMzhQTzR5bV9zbHlPNDEzUGphbExDS0NIaFZ1SlpmWXJZWXh0eVAxa2xTMVZfZ0ViWnhZR09HUQ?oc=5",
+      "publishedAt": "2026-07-25T03:18:00.000Z",
+      "titleKa": "როგორ შეცვალა ანალიტიკოსების გაუმჯობესებულმა მოგების პერსპექტივამ Ventas (VTR) მისი საინვესტიციო ისტორია",
+      "summaryKa": "Ventas (VTR) ანალიტიკოსების მიერ გაუმჯობესებული მოგების პერსპექტივით გამოირჩევა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "fc3bcd2409e260c9",
       "title": "Michael Saylor's Strategy Just Unveiled a New Bitcoin Banking Index. Here's What That Signals for MSTR Stock.",
@@ -34,6 +56,17 @@
       "titleKa": "Anthropic არის ახალი SpaceX ETF-ების გამომცემლებისათვის.",
       "summaryKa": "Anthropic ახალი SpaceX-ის მსგავსად მოქმედებს ETF-ების სფეროში.",
       "category": "ETF",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "989e5c144f90afb9",
+      "title": "Super Group (SGHC) Stock Looks Fairly Valued Despite Strong Earnings Hopes",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHVva2ZwTnBYbThub05TX3dSTUpIaXM3clZUNnMwMG5IdUdaeVVSUGhkcnZzN3JmRmtUT3FjcWtWcTRKeUlGa3JqSFRWa0Yyd2xaQ25CRE9oYk1JeU1tajU0THQtMzRjRFpUQ2M4Z3ZZYUd6eHNQREdmQ3BtNnNyRmFENEpOM1FJVVNuWHYzVENSR3hmamdwVQ?oc=5",
+      "publishedAt": "2026-07-24T23:11:18.000Z",
+      "titleKa": "Super Group (SGHC) აქცია სამართლიანად შეფასებულია ძლიერი მოგების იმედების მიუხედავად",
+      "summaryKa": "Super Group (SGHC) აქცია სამართლიანად შეფასებულია.",
+      "category": "აქციები",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
