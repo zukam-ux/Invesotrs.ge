@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-07-25T22:34:01.306Z",
+  "updatedAt": "2026-07-25T23:39:29.973Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "0b9c48283847596e",
+      "title": "Figma vs. IBM: What Revenue Growth Trends Tell Investors About the Young Software Design Company and the Veteran Artificial Intelligence Tech Giant",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzRWMGRRQjM3U0tNblMtZ0FoWUp1RjY5QVVHUy1zT3JSbVlSSGhQQVNoZkw0c25KdDBfS2YtVDlpWVZBX2s1RXBPVS0yQmtsMGdkOEFwWmY0Tm9hd3BRc1NOTW55M0xWOXlsWDFrdTNsUTB5NDBJTTJGNkFPS19GY1JrLUp5YUFtRjFpSzl0QUpZZ25MTXlV?oc=5",
+      "publishedAt": "2026-07-25T22:35:01.000Z",
+      "titleKa": "Figma და IBM: რა სარგებლის ზრდის ტენდენციები ეუბნებიან ინვესტორებს ახალგაზრდა პროგრამული დიზაინის კომპანიასა და Veteran ხელოვნური ინტელექტის ტექნოლოგიურ გიგანტზე",
+      "summaryKa": "Figma და IBM შედარებულია სარგებლის ზრდის ტენდენციების მიხედვით.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "a13930b79e7980e6",
       "title": "Globe Life (GL) Is Down 6.1% After Raising 2026 Earnings Guidance And Expanding Buybacks – Has The Bull Case Changed?",
@@ -15,6 +26,17 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "8c097aa70e8a96ba",
+      "title": "Can RBC Bearings (RBC) Justify Its Valuation As July 31 Earnings Approach?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcEdIM2pldVpvdWVBdURES0dPNVZCbHFydTdDZF8xVDloVF9XOV9qczlWbU9GbzlxS0lnbDU1Ynd0VTJJNWhxZVRaUG9vQlIwMVN6cDZsTkZXTFZJMVlhX3ZjbWNaNmQ5REhyS2RoM2lRWGZ1dG1tN01OR2lmUVQzc1BINzlXeWdtRHdjdUhXVGdPZjU4LWtJbDNlM0tQZnlf?oc=5",
+      "publishedAt": "2026-07-25T22:10:58.000Z",
+      "titleKa": "RBC Bearings (RBC) შეძლებს თუ არა თავისი შეფასების გამართლებას 31 ივლისის შემოსავლების გამოქვეყნების მოახლოების ფონზე?",
+      "summaryKa": "RBC Bearings-ის შემოსავლების გამოქვეყნება 31 ივლისს იგეგმება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "23785eae9d90dcad",
       "title": "Is Ameren (AEE) Fairly Valued Going Into Its July 30 Earnings?",
       "source": "Yahoo Finance",
@@ -23,6 +45,17 @@
       "titleKa": "არის თუ არა Ameren (AEE) სამართლიანად შეფასებული 30 ივლისის მოგების ანგარიშის წინ?",
       "summaryKa": "Ameren (AEE) 30 ივლისს მოგების ანგარიშს წარადგენს.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "88ca3e0c503d47ec",
+      "title": "Nebius vs. Strategy: Comparing Revenue Trends Between an Artificial Intelligence Company and a Bitcoin Giant",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3ltQS1UUHVGVE8xMnlfSklENFg4Sl95RkNSU0sxWmViY2xBenplV1oxUHFMc1NpTkxuSEdlRE1nMUtqZFZJSzB2RHJZbm1OSDFLT3MtaGh1UVAwVGhYbHh3cUNIaTZESFhKaVpWM0t2LVpHVU9ETVFiLXNxTFYteXIxNTBfX0NvQnBxMm1TQWtyaVpiWjVQbFhjWlFQOHhDa2hF?oc=5",
+      "publishedAt": "2026-07-25T21:34:01.000Z",
+      "titleKa": "Nebius და სტრატეგია: შედარება შემოსავლების ტენდენციების შორის ხელოვნური ინტელექტის კომპანიასა და Bitcoin-ის გიგანტს შორის",
+      "summaryKa": "Nebius და Bitcoin-ის გიგანტი შედარებულია შემოსავლების ტენდენციების მიხედვით.",
+      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -45,6 +78,28 @@
       "titleKa": "როგორ შეცვალა Fulton Financial (FULT)-ის რეკორდულმა ოპერაციულმა მოგებებმა, Blue Foundry-ის გარიგებამ და დაბრუნების პროგრამებმა მისი საინვესტიციო ისტორია",
       "summaryKa": "Fulton Financial (FULT) რეკორდული ოპერაციული მოგებები და Blue Foundry-ის გარიგება აქვს.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5bab2adbb317029f",
+      "title": "Eastern Bankshares (EBC) Beats On Earnings And Lifts Payouts, Is The 2% Upside Enough?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQODdraTBKOUgzY2VtZk9zSU52UG42VG5fcHlENkF0SVJMa1hpMjJORFZxaDZiQUpZU3dxX2tFbEtNZGhSelRkTzJ1azhnY19pTXdwaXZFOXpiYUxhLXZVZ0NtVzJod0tCOGhQQjdnNXNaOVpTUVI1dWhrcEV1a2JUV2N3NDRxc2tqVGN4MHlJZDRVcXQ0bzRGdjVBclBsQ1lTUml0Tg?oc=5",
+      "publishedAt": "2026-07-25T21:14:51.000Z",
+      "titleKa": "Eastern Bankshares (EBC) აღემატება შემოსავლებს და ზრდის გადახდებს, არის თუ არა 2%-იანი ზრდა საკმარისი?",
+      "summaryKa": "Eastern Bankshares (EBC) აღემატება შემოსავლებს და ზრდის გადახდებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1ff54dc9021cc9f3",
+      "title": "Cardano Founder Slams Ethereum's Governance, Says Crypto Needs 'Insurance' To Grow Up",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd29WQWloUzVKOElVMXRsVDhQei1DWUxqRFJ3ZHE4VC02eHJ2ejREci04WGxmM0lUalNfQkNNbzAxWG1TV05VTzRvZUlFS21BME1UbThKNHRValJtdFhRSVhfZlpfeUhkSTJ0M2hKMGhkb2JyVEtsRVE2MndJMGsyUm5vRDNzNW9acGZJOXNlRVVUeVZiMTN6bDVWRzdGUXMwUnczMEF1S3lhMkk?oc=5",
+      "publishedAt": "2026-07-25T20:30:14.000Z",
+      "titleKa": "Cardano-ს დამფუძნებელი აკრიტიკებს Ethereum-ის მმართველობას, ამბობს, რომ კრიპტო-ს 'დაზღვევა' სჭირდება ზრდისთვის",
+      "summaryKa": "Cardano-ს დამფუძნებელი აკრიტიკებს Ethereum-ის მმართველობას და აღნიშნავს, რომ კრიპტო-ს 'დაზღვევა' სჭირდება.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
