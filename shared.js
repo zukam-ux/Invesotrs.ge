@@ -27,11 +27,7 @@ document.querySelectorAll('[data-ticker]').forEach(el=>el.innerHTML=tickerMarkup
     label.htmlFor=control.id;
   });
   document.querySelectorAll('.lang').forEach(button=>{
-    button.type='button';
-    button.disabled=true;
-    button.setAttribute('aria-label','ქართული ენაა არჩეული');
-    button.title='ქართული ენაა არჩეული';
-    button.setAttribute('aria-pressed','true');
+    button.remove();
   });
   document.querySelectorAll('[data-current-date]').forEach(el=>{
     el.textContent=new Intl.DateTimeFormat('ka-GE',{day:'numeric',month:'long',year:'numeric'}).format(new Date())+' · მონაცემები ახლდება';
@@ -158,6 +154,39 @@ function relativeNewsTime(value){
   if(hours<24)return `გამოქვეყნდა ${hours} საათის წინ`;
   return `გამოქვეყნდა ${new Date(value).toLocaleDateString("ka-GE")}`;
 }
+function polishedNewsText(value=""){
+  return String(value)
+    .replace(/\bunderpriced\b/gi,"საბაზრო შეფასებაზე იაფად")
+    .replace(/\bundervalued\b/gi,"სამართლიან ღირებულებაზე იაფად")
+    .replace(/^მივმართავ:\s*/i,"")
+    .replace(/^ბირჟის ბაზარი დღეს:\s*/i,"ბაზრები დღეს: ")
+    .replace(/\bAI hyperscaler\b/gi,"AI ინფრასტრუქტურის მსხვილი ოპერატორი")
+    .replace(/\bhyperscaler\b/gi,"მსხვილი ღრუბლოვანი ოპერატორი")
+    .replace(/\s+/g," ")
+    .trim();
+}
+function headlineFor(article){
+  return polishedNewsText(article.titleKa||article.title||"");
+}
+function summaryFor(article){
+  return polishedNewsText(article.summaryKa||"");
+}
+function translationNote(article){
+  return article.translationNotice?'<span class="translation-note">ქართული მოკლე თარგმანი</span>':"";
+}
+function editorialScore(article){
+  const sourceWeights={Reuters:90,"Associated Press":85,Bloomberg:80,Barrons:72,"Barron's":72,CNBC:65,CoinDesk:62,MarketWatch:58,"Yahoo Finance":35};
+  const text=`${article.title||""} ${article.titleKa||""}`.toLowerCase();
+  let score=sourceWeights[article.source]||45;
+  const ageHours=Math.max(0,(Date.now()-new Date(article.publishedAt).getTime())/36e5);
+  score+=Math.max(0,36-ageHours);
+  if(/^\s*\d+\s|stocks? to buy|best stocks?|undervalued|could soar|millionaire|no-brainer|should you buy|watch right now/i.test(text))score-=70;
+  if(/federal reserve|inflation|oil|earnings|regulation|tariff|central bank|market|economy|ნავთობ|ინფლაცი|განაკვეთ|ბაზრ|ეკონომიკ/i.test(text))score+=18;
+  return score;
+}
+function curatedNews(articles){
+  return [...articles].sort((a,b)=>editorialScore(b)-editorialScore(a));
+}
 function identifyNewsAsset(article){
   const text=`${article.title||""} ${article.titleKa||""}`.toLowerCase();
   const explicitTicker=(article.title||"").match(/\b(?:NASDAQ|NYSE|AMEX):([A-Z][A-Z0-9.-]{0,7})\b/i)?.[1]?.toUpperCase();
@@ -227,7 +256,7 @@ function editorialIdentity(identity,article){
   return `<span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)} ${newsQuoteBadge(identity)}</b><small>${relativeNewsTime(article.publishedAt)} · ${escapeNews(article.source)}</small></span></span>`;
 }
 function renderEditorialHome(target,articles){
-  const selected=articles.slice(0,8),lead=selected[0],features=selected.slice(1,3),rail=selected.slice(3,8);
+  const selected=curatedNews(articles).slice(0,8),lead=selected[0],features=selected.slice(1,3),rail=selected.slice(3,8);
   if(!lead){
     target.innerHTML='<div class="news-status">მთავარი ამბების პირველი განახლება მზადდება.</div>';
     return;
@@ -235,32 +264,32 @@ function renderEditorialHome(target,articles){
   const leadIdentity=identifyNewsAsset(lead);
   target.innerHTML=`
     <a class="editorial-lead" href="${escapeNews(lead.url)}" target="_blank" rel="noopener">
-      <img src="${escapeNews(newsPhoto(lead,0))}" alt="" fetchpriority="high">
       <span class="editorial-lead-body">
-        <span class="editorial-label">● LIVE · მთავარი ამბავი</span>
-        <h2>${escapeNews(lead.titleKa)}</h2>
-        <p>${escapeNews(lead.summaryKa)}</p>
-        <span class="editorial-meta"><b>${escapeNews(lead.source)}</b><span>·</span><span>${relativeNewsTime(lead.publishedAt)}</span><span>·</span><span>${escapeNews(lead.category)}</span><span>↗</span></span>
+        <span class="editorial-label">მთავარი ამბავი</span>
+        ${editorialIdentity(leadIdentity,lead)}
+        <h2>${escapeNews(headlineFor(lead))}</h2>
+        <p>${escapeNews(summaryFor(lead))}</p>
+        <span class="editorial-meta"><b>${escapeNews(lead.source)}</b><span>·</span><span>${relativeNewsTime(lead.publishedAt)}</span><span>·</span><span>${escapeNews(lead.category)}</span>${translationNote(lead)}<span>↗</span></span>
       </span>
     </a>
     ${features.map((article,index)=>{
       const identity=identifyNewsAsset(article);
       return `<a class="editorial-feature" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
-        <img src="${escapeNews(newsPhoto(article,index+1))}" alt="" loading="lazy">
         <span class="editorial-feature-body">
           ${editorialIdentity(identity,article)}
-          <h3>${escapeNews(article.titleKa)}</h3>
+          <h3>${escapeNews(headlineFor(article))}</h3>
+          <span class="editorial-feature-source">${escapeNews(article.source)} · ${relativeNewsTime(article.publishedAt)}</span>
         </span>
       </a>`;
     }).join("")}
     <aside class="editorial-rail">
-      <div class="editorial-rail-head"><h3>პოპულარული</h3><a href="news.html">ყველა ამბავი →</a></div>
+      <div class="editorial-rail-head"><h3>ბოლო ამბები</h3><a href="news.html">ყველა →</a></div>
       <div class="editorial-rail-list">
         ${rail.map(article=>{
           const identity=identifyNewsAsset(article);
           return `<a class="editorial-row" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
             <i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i>
-            <span><h4>${escapeNews(article.titleKa)} ${newsQuoteBadge(identity)}</h4><small>${escapeNews(article.source)} · ${relativeNewsTime(article.publishedAt)}</small></span>
+            <span><h4>${escapeNews(headlineFor(article))} ${newsQuoteBadge(identity)}</h4><small>${escapeNews(article.source)} · ${relativeNewsTime(article.publishedAt)}</small></span>
           </a>`;
         }).join("")}
       </div>
@@ -270,12 +299,25 @@ async function loadGlobalNews(){
   const targets=document.querySelectorAll("[data-global-news]");
   const topStoryTargets=document.querySelectorAll("[data-top-stories]");
   const editorialTargets=document.querySelectorAll("[data-editorial-home]");
-  if(!targets.length&&!topStoryTargets.length&&!editorialTargets.length)return;
+  const thesisTargets=document.querySelectorAll("[data-daily-thesis]");
+  if(!targets.length&&!topStoryTargets.length&&!editorialTargets.length&&!thesisTargets.length)return;
   try{
     const response=await fetch(`/data/global-news.json?v=${Math.floor(Date.now()/36e5)}`);
     if(!response.ok)throw new Error("news unavailable");
     const data=await response.json();
     await loadNewsQuotes(data.articles||[]);
+    const thesis=curatedNews(data.articles||[])[0];
+    if(thesis){
+      const identity=identifyNewsAsset(thesis);
+      thesisTargets.forEach(target=>target.innerHTML=`
+        <div class="daily-thesis-copy">
+          <span class="daily-thesis-label">დღის მთავარი თემა</span>
+          <h2 id="dailyBriefTitle">${escapeNews(headlineFor(thesis))}</h2>
+          <p>${escapeNews(summaryFor(thesis))}</p>
+          <span class="daily-thesis-meta">${escapeNews(thesis.source)} · ${relativeNewsTime(thesis.publishedAt)} · ${escapeNews(identity.name)} ${translationNote(thesis)}</span>
+        </div>
+        <a href="${escapeNews(thesis.url)}" target="_blank" rel="noopener">პირველწყარო ↗</a>`);
+    }
     editorialTargets.forEach(target=>renderEditorialHome(target,data.articles||[]));
     targets.forEach(target=>{
       const pageSize=Number(target.dataset.limit||9);
@@ -288,8 +330,8 @@ async function loadGlobalNews(){
           return `
           <a class="auto-news-card" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
             <span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)} ${newsQuoteBadge(identity)}</b><small>${relativeNewsTime(article.publishedAt)} · ${escapeNews(article.source)} · ${escapeNews(article.category)}</small></span></span>
-            <h3>${escapeNews(article.titleKa)}</h3>
-            <p>${escapeNews(article.summaryKa)}</p>
+            <h3>${escapeNews(headlineFor(article))}</h3>
+            <p>${escapeNews(summaryFor(article))}</p>
             <span class="meta">პირველწყარო ↗</span>
           </a>`}).join(""):'<div class="news-status">პირველი ავტომატური განახლება მზადდება. გლობალური ამბები საათში ერთხელ განახლდება.</div>';
         if(visibleCount<allArticles.length){
@@ -318,8 +360,8 @@ async function loadGlobalNews(){
         <a class="top-story-lead" data-symbol="${escapeNews(leadIdentity.symbol)}" href="${escapeNews(lead.url)}" target="_blank" rel="noopener">
           <div class="top-story-kicker"><span class="live-label"><span class="live-dot"></span> მთავარი ამბავი</span><span>განახლდება ყოველ საათში</span></div>
           ${identityMarkup(leadIdentity)}
-          <h2>${escapeNews(lead.titleKa)}</h2>
-          <p>${escapeNews(lead.summaryKa)}</p>
+          <h2>${escapeNews(headlineFor(lead))}</h2>
+          <p>${escapeNews(summaryFor(lead))}</p>
           <span class="top-story-footer"><b>${escapeNews(lead.source)}</b><span>·</span><span>${relativeNewsTime(lead.publishedAt)}</span><span>↗</span></span>
         </a>
         <aside class="top-story-list">
@@ -328,7 +370,7 @@ async function loadGlobalNews(){
             const identity=identifyNewsAsset(article);
             return `<a class="top-story-row" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
               <i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i>
-              <span><h4>${escapeNews(article.titleKa)} ${newsQuoteBadge(identity)}</h4><small>${escapeNews(identity.symbol)} · ${escapeNews(article.source)} · ${relativeNewsTime(article.publishedAt)}</small></span>
+              <span><h4>${escapeNews(headlineFor(article))} ${newsQuoteBadge(identity)}</h4><small>${escapeNews(identity.symbol)} · ${escapeNews(article.source)} · ${relativeNewsTime(article.publishedAt)}</small></span>
             </a>`;
           }).join("")}
         </aside>`;
@@ -338,6 +380,7 @@ async function loadGlobalNews(){
     targets.forEach(target=>target.innerHTML='<div class="news-status">გლობალური ამბების განახლება დროებით შეფერხებულია. ბაზრის მონაცემები მუშაობას აგრძელებს.</div>');
     topStoryTargets.forEach(target=>target.innerHTML='<div class="news-status">მთავარი ამბების განახლება დროებით შეფერხებულია.</div>');
     editorialTargets.forEach(target=>target.innerHTML='<div class="news-status">მთავარი ამბების განახლება დროებით შეფერხებულია.</div>');
+    thesisTargets.forEach(target=>target.innerHTML='<div class="news-status">დღის მთავარი თემის განახლება დროებით შეფერხებულია.</div>');
   }
 }
 loadGlobalNews();
