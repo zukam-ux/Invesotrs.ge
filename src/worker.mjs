@@ -38,6 +38,8 @@ const financeTerms =
   /\b(stock|stocks|market|shares|earnings|investor|bitcoin|crypto|ethereum|ETF|bond|treasur|interest rate|federal reserve|fed\b|inflation|oil|gold|bank|finance|nasdaq|s&p|dow|IPO|acquisition|technology|artificial intelligence|AI|chip|semiconductor|cloud|software)\b/i;
 const lowValueTerms =
   /\b(earnings call|buy now|sell now|best stocks?|top stocks?|double down|double a position|without (any )?hesitation|could soar|millionaire|secret stock|strong buy)\b/i;
+const conflictNewsTerms =
+  /\b(ukraine|ukrainian|russia|russian|drone strike|missile|battlefield|military attack|war in ukraine)\b/i;
 
 function json(payload, options = {}) {
   const headers = new Headers(options.headers);
@@ -373,17 +375,24 @@ async function serveNews(env) {
      WHERE source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch')
      ORDER BY published_at DESC LIMIT 2000`,
   ).all();
-  const articles = result.results.map((row) => ({
-    id: row.id,
-    title: row.title,
-    titleKa: row.title_ka,
-    summaryKa: row.summary_ka,
-    source: row.source,
-    url: row.url,
-    publishedAt: row.published_at,
-    category: row.category,
-    translationNotice: row.translation_notice,
-  }));
+  const articles = result.results
+    .map((row) => ({
+      id: row.id,
+      title: row.title,
+      titleKa: row.title_ka,
+      summaryKa: row.summary_ka,
+      source: row.source,
+      url: row.url,
+      publishedAt: row.published_at,
+      category: row.category,
+      translationNotice: row.translation_notice,
+    }))
+    .filter(
+      (article) =>
+        !conflictNewsTerms.test(
+          `${article.title || ""} ${article.titleKa || ""} ${article.summaryKa || ""}`,
+        ),
+    );
   return json(
     {
       updatedAt: articles[0]?.publishedAt ?? null,

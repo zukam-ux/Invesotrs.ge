@@ -21,5 +21,7 @@ assert.ok(homepage.includes('data-news-category="tech-ai"'));
 assert.ok(homepage.includes('data-news-category="markets-economy"'));
 assert.ok(newsPage.includes('id="tech-ai"'));
 assert.ok(newsPage.includes('id="markets-economy"'));
+assert.ok(collector.includes("conflictNewsTerms"));
+assert.ok(worker.includes("conflictNewsTerms.test"));
 
 console.log("News source and category policy checks passed.");

@@ -206,12 +206,15 @@ const financeTerms =
   /\b(stock|stocks|market|shares|earnings|investor|bitcoin|crypto|ethereum|ETF|bond|treasur|interest rate|federal reserve|fed\b|inflation|oil|gold|bank|finance|nasdaq|s&p|dow|IPO|acquisition|technology|artificial intelligence|AI|chip|semiconductor|cloud|software)\b/i;
 const lowValueTerms =
   /\b(earnings call|buy now|sell now|best stocks?|top stocks?|double down|double a position|without (any )?hesitation|could soar|millionaire|secret stock|strong buy)\b/i;
+const conflictNewsTerms =
+  /\b(ukraine|ukrainian|russia|russian|drone strike|missile|battlefield|military attack|war in ukraine)\b/i;
 const feedItems = (
   await Promise.all(feedResponses.map(async (response) => parseFeed(await response.text())))
 )
   .flat()
   .filter((item) => trustedSources.has(item.source) && financeTerms.test(item.title))
   .filter((item) => !lowValueTerms.test(item.title))
+  .filter((item) => !conflictNewsTerms.test(item.title))
   .filter((item, index, rows) => rows.findIndex((row) => row.title === item.title) === index)
   .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 const cryptoItems = feedItems
