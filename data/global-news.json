@@ -1,8 +1,41 @@
 {
-  "updatedAt": "2026-07-25T11:34:24.269Z",
+  "updatedAt": "2026-07-25T12:09:36.683Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "7e61eca474dbf86c",
+      "title": "$7 Trillion Wall Street Giant is Watching This Key Bitcoin Metric",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnVWb0FCUk1BbGVLZnNsWjBEU1dJX2h6X1czU3k3MTZHTmdSS2dqR2RoelJCWFJUczBKRWZDcVRDcWFlRjlWQmpuT01oY1dnMW5LNU1nSzR0azVIQ0pSNHNTTFNIUkIzRTIyZERRRzFNU21ONERlc2hqYWVVOW1ielU2NnpJSzlyeTdCdFZSbUYtTEJPMXlmQQ?oc=5",
+      "publishedAt": "2026-07-25T11:37:53.000Z",
+      "titleKa": "$7 ტრილიონიანი უოლ სტრიტის გიგანტი ამ მთავარ ბიტკოინის მეტრიკას აკვირდება",
+      "summaryKa": "$7 ტრილიონიანი უოლ სტრიტის გიგანტი აკვირდება ბიტკოინის მთავარ მეტრიკას.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1364c04709c88767",
+      "title": "Carvana (CVNA) Could Be 34% Undervalued As Earnings Expectations Tighten",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0piU1NXYVExaFA4VTh0aGRzdFVqeS1BOHpNWXNCTi1pa1ROMnRFSWZKWUN3U1RXeGtOT1kyaUZGa1I5WFEtc0RpZEZOanpDZFZGUVo5RkJCR2k4TWxBUW93bUp0RE96eTNHcjY1eE55UUZKZ2pDZVBkX05lb3FNbFRnOXJ3NHRuX1F1RjFxMmJVYWZ2NDRQS2F2d0tsTU0?oc=5",
+      "publishedAt": "2026-07-25T11:09:35.000Z",
+      "titleKa": "Carvana (CVNA) შესაძლოა 34%-ით undervalued იყოს, რადგან მოგების მოლოდინები მჭიდრდება",
+      "summaryKa": "Carvana (CVNA) შესაძლოა undervalued იყოს 34%-ით, რადგან მოგების მოლოდინები მჭიდრდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2c505b296a498c66",
+      "title": "Ukraine Drone Sparks Fire at Tyumen Oil Refinery in Russia",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQng3ckVTcWRyaUs3akdwbmR5dGZab3Y4VEYxbkJ4NGUya3NNQ0RaZUxDTHNjajRTbUt5Q05NVlB4RlZ6LVlpUkFkdUhuSWxiVjJXWkJCdVNxbmYyUW1mcGlKaGxlX09nWXB1MXNDQUFPQ1ZXcWRiTExnQ0k1eS1tWmNra0gxWE12Vkl6SEs0clpPYmxmSmVzQWhhTHZvaC1KVENUR1RCN2VPUk5sbFg3ejNsOEgwUjRqVjlQY0IzWmNGSk5i?oc=5",
+      "publishedAt": "2026-07-25T11:08:19.000Z",
+      "titleKa": "უკრაინის დრონი ხანძარს იწვევს ტიუმენის ნავთობის რაფინერიის ტერიტორიაზე რუსეთში",
+      "summaryKa": "უკრაინის დრონის თავდასხმამ ხანძარი გამოიწვია რუსეთის ტიუმენის ნავთობის რაფინერიის ტერიტორიაზე.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "582570e2e076c6cb",
       "title": "Prediction: This Dividend ETF Will Double by 2034 -- and Pay You Passive Income While You Wait",
@@ -12,6 +45,17 @@
       "titleKa": "წინასწარმეტყველება: ეს დივიდენდური ETF 2034 წლისთვის გაორმაგდება - და თქვენ პასიური შემოსავალი მიიღებთ enquanto ელოდებით",
       "summaryKa": "წინასწარმეტყველება ეხება დივიდენდური ETF-ის გაორმაგებას 2034 წლისთვის.",
       "category": "ETF",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5bcc0d133068854b",
+      "title": "Should Bearish Earnings Revisions and Negative ESP Require Action From Weyerhaeuser (WY) Investors?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0JMQUZHSWhpNHpTV19PZjFnTm9fd1ppX3Z2RVIyb0pPTmRKNHpjckdEcjNoYktLWl9zMUFxeERmV1kyUGgxWTJhZ0FXVG9mLWdubF9WQkZBc2xKNnFIV0RNaVVxM2JOa05yOG5HaXFrZGhMUTNGNmJnMGk3NGpLNzZsWnNqY2c5QUJvcEpYd3ljRm41akpkVjl1UU1HUE1XLXdxX191dw?oc=5",
+      "publishedAt": "2026-07-25T10:08:16.000Z",
+      "titleKa": "უნდა მოითხოვოს Weyerhaeuser (WY) ინვესტორებმა მოქმედება უარყოფითი მოგების გადახედვების და ნეგატიური ESP-ის გამო?",
+      "summaryKa": "Weyerhaeuser (WY) ინვესტორებმა შესაძლოა მოითხოვონ მოქმედება უარყოფითი მოგების გადახედვების და ნეგატიური ESP-ის გამო.",
+      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -81,17 +125,6 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "2c505b296a498c66",
-      "title": "Ukraine Drone Sparks Fire at Tyumen Oil Refinery in Russia",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQng3ckVTcWRyaUs3akdwbmR5dGZab3Y4VEYxbkJ4NGUya3NNQ0RaZUxDTHNjajRTbUt5Q05NVlB4RlZ6LVlpUkFkdUhuSWxiVjJXWkJCdVNxbmYyUW1mcGlKaGxlX09nWXB1MXNDQUFPQ1ZXcWRiTExnQ0k1eS1tWmNra0gxWE12Vkl6SEs0clpPYmxmSmVzQWhhTHZvaC1KVENUR1RCN2VPUk5sbFg3ejNsOEgwUjRqVjlQY0IzWmNGSk5i?oc=5",
-      "publishedAt": "2026-07-25T09:49:37.000Z",
-      "titleKa": "უკრაინის დრონი ხანძარს იწვევს ტიუმენის ნავთობის რაფინერიის ტერიტორიაზე რუსეთში",
-      "summaryKa": "უკრაინის დრონის თავდასხმამ ხანძარი გამოიწვია რუსეთის ტიუმენის ნავთობის რაფინერიის ტერიტორიაზე.",
-      "category": "ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "7b8ece7f7729f36d",
       "title": "Market pros say people pursuing FIRE by investing aggressively often make a crucial mistake",
       "source": "Business Insider",
@@ -122,6 +155,17 @@
       "titleKa": "მივმართავ: Enterprise Products Partners S&P 500-ს 2026 წლის მეორე ნახევარში დაამარცხებს",
       "summaryKa": "Enterprise Products Partners-ის წარმატება მოსალოდნელია 2026 წლის მეორე ნახევარში.",
       "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "fe69caf60a9a148b",
+      "title": "This Artificial Intelligence (AI) Stock May Be the Best Company in the World, Says a Wall Street Analyst",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUtpUkpyOWNQRUhNVVNZX1FYT2RVUVBNN0oydk5rdXliRUZIZUtueHA4dXNVR0h1Mk9CbEUzV3lRbXN3Z3l6Sk55TWpxTUdzbTZGTnkwOWxlSVVjMWEzbHJKXzB0OUY3QldXWWlCQ3BIdmtSOFFfMzQ5NFdWaTdTOFRGSk9RNnBlU283N3h2WFpwdi1HSFgyWTlFUUdmeDdHSlE?oc=5",
+      "publishedAt": "2026-07-25T08:32:00.000Z",
+      "titleKa": "ეს ხელოვნური ინტელექტის (AI) აქცია შესაძლოა საუკეთესო კომპანია იყოს მსოფლიოში, ამბობს უოლ სტრიტის ანალიტიკოსი",
+      "summaryKa": "უოლ სტრიტის ანალიტიკოსი აცხადებს, რომ ეს ხელოვნური ინტელექტის (AI) აქცია შესაძლოა საუკეთესო კომპანია იყოს მსოფლიოში.",
+      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
