@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-07-25T18:35:33.325Z",
+  "updatedAt": "2026-07-25T19:51:47.342Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "1319195f16744682",
+      "title": "BofA warns oil volatility could force c. banks to abandon look-through’ policy",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNanlkSUZnOWltSnBGTGhkMExaMWlXODVoVUpLUTkyNzBNVEhsRllDQWpLUWRHbGQtYlYyVjVHZElOMkJ4S0Y1THRhcTQxRF8yMmpIbUltXzkwM2diQ2t6cWs5MFdEYjB6Um9OQXVpNkd1SmstVW9vTmQzdGZxRXF3cm80OEJzYW1qMkhNWDA3czJ4T1pxRGswRy13c0Q?oc=5",
+      "publishedAt": "2026-07-25T19:18:23.000Z",
+      "titleKa": "BofA აფრთხილებს, რომ ნავთობის ვოლატილობამ შესაძლოა ბანკები 'მზრუნველობის' პოლიტიკის მიტოვება აიძულოს",
+      "summaryKa": "BofA აღნიშნავს, რომ ნავთობის ვოლატილობა შეიძლება ბანკების პოლიტიკაზე გავლენა მოახდინოს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "704c294987f10035",
       "title": "PG&E (PCG) Earnings Beat Raises The Question Of Whether Its Valuation Is Fully Valued",
@@ -22,6 +33,17 @@
       "publishedAt": "2026-07-25T17:31:00.000Z",
       "titleKa": "გქონდეთ $100? 1 ხელოვნური ინტელექტის (AI) მეხსიერების ETF, რომელიც ახლა უნდა შეიძინოთ.",
       "summaryKa": "არსებობს 1 ხელოვნური ინტელექტის მეხსიერების ETF, რომელიც რეკომენდირებულია შესყიდვისთვის.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "15608b7da8054c48",
+      "title": "Silver or Gold: Is a Mining Stock Fund Better Than Holding Physical Bullion Through an ETF?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjZPNC0xekJUZnFDUjVVU05FUGd2YmdpWlJ2aGdxdUp5UlVLOFJ1Y2JBR29sWnJuM3JFTGFPQ0psSWJDaDF3ZWdPZXlmNVpFSmlpd3lXUlprd2VyZi1LSEVYdXZJYWM5T0tRRHJOQWxXZlZBNElGNi0wRmdOOEJwMjdBMEJ3ZXVNQ3REOFJhbkFfeGRrZWpWSG8wM055MVNu?oc=5",
+      "publishedAt": "2026-07-25T17:19:01.000Z",
+      "titleKa": "ვერცხლი თუ ოქრო: არის თუ არა საბადოების აქციების ფონდი უკეთესი, ვიდრე ფიზიკური ბულიონი ETF-ის საშუალებით?",
+      "summaryKa": "მკითხველებს სთავაზობენ, რომ შეადარონ საბადოების აქციების ფონდი და ფიზიკური ბულიონი ETF-ის საშუალებით.",
       "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
