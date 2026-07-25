@@ -26,6 +26,11 @@ assert.ok(worker.includes("conflictNewsTerms.test"));
 assert.ok(shared.includes("recentEditorialLead"));
 assert.ok(shared.includes("maxAgeHours=4"));
 assert.ok(shared.includes("setInterval(refreshRelativeNewsTimes,60000)"));
+assert.ok(shared.includes("function editorialPhoto"));
+assert.ok(shared.includes("CC BY 4.0"));
+assert.ok(shared.includes("CC BY-SA 3.0"));
+assert.ok(homepage.includes("editorial-photos"));
+assert.ok(homepage.includes(".photo-credit"));
 for (const term of ["ukraine", "gaza", "airstrike", "military attack"]) {
   assert.ok(collector.includes(term), `${term} must be covered by the conflict filter`);
   assert.ok(worker.includes(term), `${term} must be blocked by the live API`);

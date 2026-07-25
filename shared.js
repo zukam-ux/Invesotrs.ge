@@ -245,24 +245,37 @@ function identifyNewsAsset(article){
   ];
   return identities.find(identity=>identity.match.test(text))||{symbol:article.category==="აქციები"?"STOCK":article.category==="კრიპტო"?"CRYPTO":"NEWS",name:article.category||"ბაზრები"};
 }
-function newsPhoto(article,index=0){
-  const text=`${article.title||""} ${article.titleKa||""} ${article.category||""}`.toLowerCase();
+function editorialPhoto(article){
+  const text=`${article.title||""} ${article.titleKa||""} ${article.summaryKa||""} ${article.category||""}`.toLowerCase();
   const photos=[
-    {match:/tesla|electric|auto|vehicle/,url:"https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1400&q=82"},
-    {match:/google|alphabet|technology|tech|ai |chip|nvidia|intel|amd/,url:"https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=82"},
-    {match:/bitcoin|ethereum|crypto|cardano|blockchain/,url:"https://images.unsplash.com/photo-1518546305927-5a555bb7020d?auto=format&fit=crop&w=1400&q=82"},
-    {match:/oil|crude|energy|opec/,url:"https://images.unsplash.com/photo-1629540946404-ebe133e99f49?auto=format&fit=crop&w=1400&q=82"},
-    {match:/bank|treasury|yield|rate|ecb|fed|mortgage/,url:"https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1400&q=82"},
-    {match:/europe|dax|ftse|euro/,url:"https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1400&q=82"},
-    {match:/asia|china|japan|nikkei|hang seng/,url:"https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?auto=format&fit=crop&w=1400&q=82"},
-    {match:/stock|market|s&p|nasdaq|dow|shares|earnings/,url:"https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=82"}
+    {
+      match:/\b(ai|artificial intelligence|technology|tech|chip|semiconductor|software|cloud|nvidia|amd|intel)\b|ხელოვნურ ინტელექტ|ტექნოლოგ|ჩიპ|ნახევარგამტარ/,
+      url:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Facebook_Data_Center_Server_Board.jpg/1280px-Facebook_Data_Center_Server_Board.jpg",
+      alt:"მონაცემთა ცენტრის სერვერის დაფა",
+      credit:"Intel Free Press · CC BY 2.0",
+      source:"https://commons.wikimedia.org/w/index.php?curid=28084741"
+    },
+    {
+      match:/\b(oil|crude|energy|opec|pumpjack)\b|ნავთობ|ენერგეტიკ/,
+      url:"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Oil_pumpjack_in_the_Permian_Basin.jpg/1280px-Oil_pumpjack_in_the_Permian_Basin.jpg",
+      alt:"ნავთობის სატუმბი დანადგარი პერმის აუზში",
+      credit:"Quintin Soloviev · CC BY 4.0",
+      source:"https://commons.wikimedia.org/w/index.php?curid=185565863"
+    }
   ];
-  const fallbacks=[
-    "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1400&q=82",
-    "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1400&q=82",
-    "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=1400&q=82"
-  ];
-  return photos.find(photo=>photo.match.test(text))?.url||fallbacks[index%fallbacks.length];
+  return photos.find(photo=>photo.match.test(text))||{
+    url:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NYSE_Advanced_Trading_Floor.jpg/1280px-NYSE_Advanced_Trading_Floor.jpg",
+    alt:"ნიუ-იორკის საფონდო ბირჟის სავაჭრო დარბაზი",
+    credit:"Asy arch · CC BY-SA 3.0",
+    source:"https://commons.wikimedia.org/w/index.php?curid=3263404"
+  };
+}
+function editorialMedia(article,eager=false){
+  const photo=editorialPhoto(article);
+  return `<figure class="editorial-media">
+    <img src="${escapeNews(photo.url)}" alt="${escapeNews(photo.alt)}" loading="${eager?"eager":"lazy"}" referrerpolicy="no-referrer">
+    <a class="photo-credit" href="${escapeNews(photo.source)}" target="_blank" rel="noopener">${escapeNews(photo.credit)} ↗</a>
+  </figure>`;
 }
 let newsQuotes={};
 function newsQuoteBadge(identity){
@@ -290,7 +303,9 @@ function renderEditorialHome(target,articles){
   }
   const leadIdentity=identifyNewsAsset(lead);
   target.innerHTML=`
-    <a class="editorial-lead" href="${escapeNews(lead.url)}" target="_blank" rel="noopener">
+    <article class="editorial-lead">
+      ${editorialMedia(lead,true)}
+      <a class="editorial-story-link" href="${escapeNews(lead.url)}" target="_blank" rel="noopener">
       <span class="editorial-lead-body">
         <span class="editorial-label">მთავარი ამბავი</span>
         ${editorialIdentity(leadIdentity,lead)}
@@ -298,16 +313,20 @@ function renderEditorialHome(target,articles){
         <p>${escapeNews(summaryFor(lead))}</p>
         <span class="editorial-meta"><b>${escapeNews(lead.source)}</b><span>·</span><span>${relativeNewsTime(lead.publishedAt)}</span><span>·</span><span>${escapeNews(lead.category)}</span>${translationNote(lead)}<span>↗</span></span>
       </span>
-    </a>
+      </a>
+    </article>
     ${features.map((article,index)=>{
       const identity=identifyNewsAsset(article);
-      return `<a class="editorial-feature" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
+      return `<article class="editorial-feature">
+        ${editorialMedia(article)}
+        <a class="editorial-story-link" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
         <span class="editorial-feature-body">
           ${editorialIdentity(identity,article)}
           <h3>${escapeNews(headlineFor(article))}</h3>
           <span class="editorial-feature-source">${escapeNews(article.source)} · ${relativeNewsTime(article.publishedAt)}</span>
         </span>
-      </a>`;
+        </a>
+      </article>`;
     }).join("")}
     <aside class="editorial-rail">
       <div class="editorial-rail-head"><h3>ბოლო ამბები</h3><a href="news.html">ყველა →</a></div>

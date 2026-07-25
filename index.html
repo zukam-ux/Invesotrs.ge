@@ -141,6 +141,7 @@
     @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
     @media(max-width:700px){.daily-brief h2{font-size:22px;line-height:1.38}.editorial-lead h2{font-size:23px}}
     .category-decks{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:0 0 38px}.category-deck{background:#fff;border-top:3px solid var(--ink);min-width:0}.category-deck-head{display:flex;align-items:end;justify-content:space-between;padding:17px 18px 12px;border-bottom:1px solid var(--line)}.category-deck-head h2{font-size:19px;margin:3px 0 0}.category-deck-head a{color:var(--green);font-size:10px;font-weight:800}.category-deck .auto-news-grid{display:block}.category-deck .auto-news-card{display:block;min-height:0;padding:15px 18px;border:0;border-bottom:1px solid var(--line);border-radius:0}.category-deck .auto-news-card:nth-child(n+4){display:none}.category-deck .auto-news-card h3{font-size:13px;margin:7px 0}.category-deck .auto-news-card p{display:none}.category-deck.tech{border-top-color:#6d47c7}@media(max-width:760px){.category-decks{grid-template-columns:1fr}}
+    .editorial-home .editorial-lead{display:grid;grid-template-rows:280px auto;align-items:stretch;min-height:620px;overflow:hidden}.editorial-home .editorial-feature{display:grid;grid-template-rows:125px auto;align-items:stretch;overflow:hidden}.editorial-media{position:relative;margin:0;min-width:0;overflow:hidden;background:#e9efec}.editorial-home .editorial-media img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:saturate(.72) contrast(1.04);transition:transform .35s ease}.editorial-home article:hover .editorial-media img{transform:scale(1.025)}.photo-credit{position:absolute;right:8px;bottom:7px;z-index:2;padding:5px 7px;background:rgba(7,24,18,.78);color:#fff;font:600 8px "DM Sans";letter-spacing:.01em}.photo-credit:hover{text-decoration:underline}.editorial-story-link{display:block;color:inherit}.editorial-lead .editorial-story-link{display:flex;align-items:stretch}.editorial-lead .editorial-lead-body{width:100%}.editorial-feature .editorial-story-link{display:block}.editorial-feature .editorial-feature-body{display:block}.editorial-media:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 65%,rgba(5,20,14,.18));pointer-events:none}@media(max-width:1080px){.editorial-home{grid-template-rows:auto repeat(2,260px)}.editorial-home .editorial-lead{min-height:0;grid-template-rows:250px auto}.editorial-home .editorial-feature{grid-template-rows:105px auto}}@media(max-width:700px){.editorial-home .editorial-lead{grid-template-rows:210px auto}.editorial-home .editorial-feature{grid-template-rows:150px auto}.editorial-lead .editorial-lead-body{padding:25px 18px}.photo-credit{font-size:7px}}
 </style>
 </head>
 <body>
@@ -306,7 +307,7 @@
     </div>
   </dialog>
   <script type="module" src="market-chart.js?v=20260725-spy-range"></script>
-  <script src="shared.js?v=20260725-fresh-lead"></script>
+  <script src="shared.js?v=20260725-editorial-photos"></script>
   <script>
     function lineChart(canvas, values, color, fill) {
       if(!canvas||!values?.length)return;
