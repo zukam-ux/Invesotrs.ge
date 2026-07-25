@@ -260,7 +260,7 @@
 
     <div class="section-head" id="tools"><div><div class="eyebrow">გადაწყვეტილებები ციფრებით</div><h2>ინვესტორის ინსტრუმენტები</h2></div><a href="tools.html">ყველა ინსტრუმენტი →</a></div>
     <section class="utility">
-      <a class="tool" href="#" data-open="calcDialog"><span class="tool-icon">↗</span><span><h3>რთული პროცენტის კალკულატორი</h3><p>ნახე, როგორ იზრდება თანხა დროთა განმავლობაში</p></span></a>
+      <a class="tool" href="#" data-open="calcDialog"><span class="tool-icon">↗</span><span><h3>ინვესტიციის ზრდის კალკულატორი</h3><p>გამოთვალე, რამდენად შეიძლება გაიზარდოს შენი დანაზოგი დროთა განმავლობაში</p></span></a>
       <a class="tool" href="#" data-open="compareDialog"><span class="tool-icon">◫</span><span><h3>პლატფორმების შედარება</h3><p>BOG, TBC და საერთაშორისო ბროკერები</p></span></a>
       <a class="tool" href="#"><span class="tool-icon">◎</span><span><h3>რისკის პროფილი</h3><p>გაიგე, როგორი ტიპის ინვესტორი ხარ</p></span></a>
     </section>
@@ -282,7 +282,7 @@
     <div class="disclaimer" id="dataDisclosure">Investors.ge საინფორმაციო და საგანმანათლებლო პლატფორმაა. წარმოდგენილი ინფორმაცია არ წარმოადგენს ფინანსურ რჩევას. აქციების, ინდექსებისა და საქონლის მონაცემები ნაჩვენებია TradingView-ის ატრიბუციანი ვიჯეტებით და შესაძლოა დაგვიანებული იყოს; კრიპტო მონაცემები მოწოდებულია CoinGecko-ს მიერ; GEL-ის ოფიციალური დღიური კურსი — საქართველოს ეროვნული ბანკის მიერ. NBG-ის კურსი არ არის ბანკის კომერციული ყიდვა/გაყიდვის კურსი.</div>
   </main>
   <dialog id="calcDialog">
-    <div class="modal-head"><h2>რთული პროცენტის კალკულატორი</h2><button class="close" aria-label="დახურვა">×</button></div>
+    <div class="modal-head"><h2>როგორ შეიძლება გაიზარდოს შენი თანხა?</h2><button class="close" aria-label="დახურვა">×</button></div>
     <div class="calc">
       <div class="calc-grid">
         <div class="field"><label>საწყისი თანხა (₾)</label><input id="initial" type="number" value="1000" min="0"></div>
@@ -290,7 +290,7 @@
         <div class="field"><label>წლიური საშუალო შემოსავალი (%)</label><input id="rate" type="number" value="8" min="0" step=".1"></div>
         <div class="field"><label>პერიოდი (წელი)</label><input id="years" type="number" value="10" min="1"></div>
       </div>
-      <div class="calc-result"><span><small>სავარაუდო საბოლოო თანხა</small><b id="contributed">შეტანილი: 37,000 ₾</b></span><strong id="futureValue">56,430 ₾</strong></div>
+      <div class="calc-result"><span><small>სავარაუდო თანხა პერიოდის ბოლოს</small><b id="contributed">შენი შეტანილი თანხა: 37,000 ₾</b></span><strong id="futureValue">56,430 ₾</strong></div>
       <p class="calc-note">გამოთვლა საილუსტრაციოა და არ ითვალისწინებს საკომისიოებს, გადასახადებს ან ბაზრის მერყეობას.</p>
     </div>
   </dialog>
@@ -321,7 +321,7 @@
     document.querySelectorAll('[data-open]').forEach(a=>a.onclick=e=>{e.preventDefault();document.getElementById(a.dataset.open).showModal()});
     document.querySelectorAll('dialog .close').forEach(b=>b.onclick=()=>b.closest('dialog').close());
     document.querySelectorAll('dialog').forEach(d=>d.onclick=e=>{if(e.target===d)d.close()});
-    function calculate(){const p=+initial.value||0,m=+monthly.value||0,r=(+rate.value||0)/1200,n=(+years.value||0)*12;const fv=r?p*Math.pow(1+r,n)+m*((Math.pow(1+r,n)-1)/r):p+m*n;futureValue.textContent=Math.round(fv).toLocaleString('en-US')+' ₾';contributed.textContent='შეტანილი: '+Math.round(p+m*n).toLocaleString('en-US')+' ₾'}
+    function calculate(){const p=+initial.value||0,m=+monthly.value||0,r=(+rate.value||0)/1200,n=(+years.value||0)*12;const fv=r?p*Math.pow(1+r,n)+m*((Math.pow(1+r,n)-1)/r):p+m*n;futureValue.textContent=Math.round(fv).toLocaleString('en-US')+' ₾';contributed.textContent='შენი შეტანილი თანხა: '+Math.round(p+m*n).toLocaleString('en-US')+' ₾'}
     document.querySelectorAll('#calcDialog input').forEach(i=>i.oninput=calculate);calculate();
     const liveEndpoint='/api/market-data';
     async function fetchJsonWithTimeout(url,timeout=7000){
