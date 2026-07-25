@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-07-25T10:14:49.718Z",
+  "updatedAt": "2026-07-25T11:34:24.269Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "582570e2e076c6cb",
+      "title": "Prediction: This Dividend ETF Will Double by 2034 -- and Pay You Passive Income While You Wait",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVJRVVhKcFFnNm95eWFwTlEwTzdkZEpoamdRSlpSa3RKTkQyMWk3a2ZIOExHMXBtV0hXT3VtVlBxZkRFUmIzTGNBUHZSeng5Ul84ZVl0ZXVOUVBEOWRXQ2s1VF9nUzdnTFp5a2NqdW9MWXlYVFNvdkxDTTFybUZncDNPbnNIZUtoQWJYOXU3U0JCMzVzbG1oTTRQM1FocERDX3c?oc=5",
+      "publishedAt": "2026-07-25T11:05:00.000Z",
+      "titleKa": "წინასწარმეტყველება: ეს დივიდენდური ETF 2034 წლისთვის გაორმაგდება - და თქვენ პასიური შემოსავალი მიიღებთ enquanto ელოდებით",
+      "summaryKa": "წინასწარმეტყველება ეხება დივიდენდური ETF-ის გაორმაგებას 2034 წლისთვის.",
+      "category": "ETF",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6a0c58e66fdfb160",
+      "title": "MaxLinear (MXL) Returns To Profit As AI Data Center Demand Lifts Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQW9CZFpGVFJkVG40cU1Ubk5hUkdQR0cyN04tM3BzS0loeUQ3ZzNEQWlzVUxzSmJybkN2eXJnYUUwYTNoSlh1c1BRek0zMmJsN0tIdEh0TGM5WFZ4aGdHdVlDNVhhYWNlOGNpbzBLNEFFRmNhd3VXdkhHdXBkV0xDd2c2Qmc4bWtIOGYxdUlmZm4zQS1VVFhDeGlVS0E?oc=5",
+      "publishedAt": "2026-07-25T10:07:06.000Z",
+      "titleKa": "MaxLinear (MXL) მოგებაზე დაბრუნდა, რადგან AI მონაცემთა ცენტრის მოთხოვნა ზრდის მოგებას",
+      "summaryKa": "MaxLinear (MXL) კომპანიამ მოგება მიიღო AI მონაცემთა ცენტრის მოთხოვნის ზრდის გამო.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "0c455d60914ff5a0",
       "title": "Robinhood's New Blockchain Has Been a Smash Success. Here's Why That's Bearish for Ethereum.",
@@ -44,6 +66,28 @@
       "publishedAt": "2026-07-25T10:00:00.000Z",
       "titleKa": "რატომ არ არის ნავთობის ფასები უფრო მაღალი? ენერგიის მოთხოვნის შოკისმომგვრელი შემცირება სტრატეგებს გაკვირვებაში ტოვებს.",
       "summaryKa": "ენერგიის მოთხოვნა მნიშვნელოვნად შემცირდა.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "26216aaa98a15200",
+      "title": "Ukrainian drone strike sparks fire at Russia's Tyumen oil refinery",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0JlWmlacURnU3BGX1NNdGhGcFRPRzM5TnpsY0JQUGkxWnQ2T08zcmFWZTZKOGV3TmlRQU9xVDZ5R1VyRnk3a1g0M0E0MVZFbXQ0eE1DMXdfTGVBZFpVMTdHQVZTdnF3azk5Nk5SOTBzVWFweXRzd2dRbjJlcUVnV1BzVnJHZHI0MW9OUm4zLUkxeF9EeGtvUHhJLUdKZmwxR2s0d0VBZXE3WloxSzFBUg?oc=5",
+      "publishedAt": "2026-07-25T09:59:32.000Z",
+      "titleKa": "უკრაინული დრონის თავდასხმა ხანძარს იწვევს რუსეთის ტიუმენის ნავთობის რაფინერიის ტერიტორიაზე",
+      "summaryKa": "უკრაინული დრონის თავდასხმამ ხანძარი გამოიწვია რუსეთის ტიუმენის ნავთობის რაფინერიის ტერიტორიაზე.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2c505b296a498c66",
+      "title": "Ukraine Drone Sparks Fire at Tyumen Oil Refinery in Russia",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQng3ckVTcWRyaUs3akdwbmR5dGZab3Y4VEYxbkJ4NGUya3NNQ0RaZUxDTHNjajRTbUt5Q05NVlB4RlZ6LVlpUkFkdUhuSWxiVjJXWkJCdVNxbmYyUW1mcGlKaGxlX09nWXB1MXNDQUFPQ1ZXcWRiTExnQ0k1eS1tWmNra0gxWE12Vkl6SEs0clpPYmxmSmVzQWhhTHZvaC1KVENUR1RCN2VPUk5sbFg3ejNsOEgwUjRqVjlQY0IzWmNGSk5i?oc=5",
+      "publishedAt": "2026-07-25T09:49:37.000Z",
+      "titleKa": "უკრაინის დრონი ხანძარს იწვევს ტიუმენის ნავთობის რაფინერიის ტერიტორიაზე რუსეთში",
+      "summaryKa": "უკრაინის დრონის თავდასხმამ ხანძარი გამოიწვია რუსეთის ტიუმენის ნავთობის რაფინერიის ტერიტორიაზე.",
       "category": "ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -154,6 +198,17 @@
       "publishedAt": "2026-07-25T07:11:57.000Z",
       "titleKa": "კუვეიტი 16 მილიარდი დოლარის ნავთობის მილსადენის შეთანხმებას აფორმებს Blackstone, KKR და Brookfield-თან",
       "summaryKa": "კუვეიტი აფორმებს 16 მილიარდი დოლარის შეთანხმებას ნავთობის მილსადენზე.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "66ce70ab4eb33544",
+      "title": "Strategy (MSTR) Joins BlackRock And Coinbase In Bitcoin Security Consortium",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkNBNGVteHFxcVBwdlhmSTE2SFpKcXh6RU1IVlljcFUzSlBWMEZYdWZCa1JWQ3BWR2pQVnk1bnFIUXR3MjljaF9NR1BXcndjMktmcHBvc21LOWhDUWJ5dThzcE1OQWpuZ1E3VXlXVHFlMUNfWHF5cThRUk9QdDdIR3Q2YjJiUm9XM1QxbjhZN1Ffek5Kd0lhZUNIcTNwamZtR2JSUHZB?oc=5",
+      "publishedAt": "2026-07-25T07:11:49.000Z",
+      "titleKa": "Strategy (MSTR) შეუერთდა BlackRock-ს და Coinbase-ს Bitcoin-ის უსაფრთხოების კონსორციუმში",
+      "summaryKa": "Strategy (MSTR) კომპანიამ შეუერთდა BlackRock-ს და Coinbase-ს Bitcoin-ის უსაფრთხოების კონსორციუმში.",
       "category": "კომპანიები",
       "translationNotice": "AI-assisted Georgian translation"
     },
