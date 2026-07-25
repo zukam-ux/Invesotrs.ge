@@ -1,8 +1,107 @@
 {
-  "updatedAt": "2026-07-25T14:16:43.979Z",
+  "updatedAt": "2026-07-25T15:34:28.473Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "aa9f24ba538aea9d",
+      "title": "MetLife (MET) Stock Looks Below Fair Value While Earnings Sit Above Fair Value",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdE9JRGttR3lnb1pVVHk3UEkzY1lvQUotd2ZDcENDTnVkMjdpTGh3cFJKN2ZoY3hoYjRyLUtFZFZCNDRqTHhsWDNQR0N2YTg5QVdsbkZiLURnRHhyWHNvMHlvSjNMWVVleG5oMmkzODNyU0lGRjBIXzFablBRV2pIWEtNLTBQSTNHZk1nUGxHVFVNd3JtS19KLV93?oc=5",
+      "publishedAt": "2026-07-25T15:12:46.000Z",
+      "titleKa": "MetLife (MET) აქციები სამართლიან ფასზე დაბლა ჩანს, მაშინ როცა მოგება სამართლიან ფასზე მაღლაა",
+      "summaryKa": "MetLife-ის აქციები სამართლიან ფასზე დაბლაა, ხოლო მოგება სამართლიან ფასზე მაღლაა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "edf0538ab983891e",
+      "title": "Is Travelers Companies (TRV) Expensive On Its Q2 Earnings Beat?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNXzBidHk3ZTdpVTZadnhZc1REQUdyR2VKcTcxS3diUFNsSWY4ZF9rS3Qxd0JIbzhwYUtmUlFQVkhKVlBlTmlOc0pjSVJQcHV1N1NjSnZzZ0Vya3prdFB4cnhBc2k1c2h6S3Q5bHZBb09JTEV4S2p2cFp0Rm84MkpVNkU0aE44VnBqRjJ4Mm5rRlI4dWF0TDltQlo2YmZPcEtUQ1JB?oc=5",
+      "publishedAt": "2026-07-25T15:12:44.000Z",
+      "titleKa": "არის თუ არა Travelers Companies (TRV) ძვირი მეოთხე კვარტლის მოგების შემდეგ?",
+      "summaryKa": "Travelers Companies-ის მეოთხე კვარტლის მოგება აღემატება მოლოდინებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b4283e2a874beb0d",
+      "title": "Yardeni Expects a Volatile Summer Before Stocks Resume Their Climb",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUd5T1ZLeGUwSUFaZTFSVjFlQUxfRTYyNEZxNGstNG1vbUo3enRKZS1iRWhUY25lempnTTlXQUltTE93dXlmLVRERjNRaUlXTThlZnptcEpTMjh0TThyRHFPZFNMbnFyLTNNOFRKbUpjQS16dWhsRVhLY1dtTVNqZGdlUElVaGdBaVF0VjhwcFIzRERETU1IdmE2RFhkQktJWGh0b3Rn?oc=5",
+      "publishedAt": "2026-07-25T14:57:18.000Z",
+      "titleKa": "Yardeni ელოდება მერყევ ზაფხულს, სანამ აქციები კვლავ გაიზრდება",
+      "summaryKa": "Yardeni პროგნოზირებს მერყევ ზაფხულს აქციების ზრდის წინ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2ff41070d7b29ab2",
+      "title": "United Rentals CFO Sells Shares After Earnings Pop. Should Investors Follow?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObktPS1owS0U5azVpcmhDS2FueHJsazA3NDdibXpyY0Q4ejVnRXZ2YmloUmhnVjFxaUtaV0IyMVQ4RGN6TFV4ejFGbEhNc3p2YkVJeXUzaEhIcnY3bkV5RzZOd1JoUWpWV1pVWUtIZGVXSnoxOFNpWm4zWmFhdXdRS3ZXTjBWNlByMHNKQzE1UUg0ZklKZG1JR0xXQy0?oc=5",
+      "publishedAt": "2026-07-25T14:36:46.000Z",
+      "titleKa": "United Rentals-ის CFO გაყიდის აქციებს მოგების ზრდის შემდეგ. უნდა მიჰყვნენ ინვესტორები?",
+      "summaryKa": "United Rentals-ის CFO გაყიდის აქციებს მოგების ზრდის შემდეგ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a850ac7dad3cdaab",
+      "title": "Should You Buy Bloom Energy Before July 28 Earnings After Its 40% 1-Month Decline?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVE53VTZvVk5yX2hJUkgxRHBOdVB0a3NmQmxmc3lkOVJsWHl5UjFZMXIyYmVWcUdScXVZSGtvV2tBTlZTSmo2WkZSZXdoWXpTUW1UVEZoR19XYmtKUDhEeFhpS0UwLTJfMGYybFpESVFuYlhJYW5rRkFORF9mY0pCc3RReEk0OGkyYWhEc1pWeEJyVVU?oc=5",
+      "publishedAt": "2026-07-25T14:20:25.000Z",
+      "titleKa": "Should You Buy Bloom Energy Before July 28 Earnings After Its 40% 1-Month Decline?",
+      "summaryKa": "Bloom Energy-ის აქციები 40%-ით შემცირდა ერთ თვეში.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d83f207658df2e0b",
+      "title": "Could Investing $50,000 Into S&P 500 Index Funds Be Enough to Get Your Portfolio to $1 Million by Retirement?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWRRcmR5ejAzeGlYc25sd291UG5TalJHaVNPODNtMlBEQWFFekhTWEkwWkJ6MENNc25YU3lQWTlMUVJMRlB5NjNDa0E3ZWhPVDlwckdCNTZxSDRGWGJCcmZ6WndoUHNXSThsUFJHRlJlb1k0NGVFLUc0R3ppSFlOSVJuLWNtclI4TVFvOElqazloOE0?oc=5",
+      "publishedAt": "2026-07-25T14:20:00.000Z",
+      "titleKa": "შეიძლება თუ არა $50,000-ის ინვესტიცია S&P 500 ინდექსურ ფონდებში საკმარისი იყოს თქვენი პორტფელის $1 მილიონამდე მიყვანისთვის რეტაირემენტის დროს?",
+      "summaryKa": "S&P 500 ინდექსურ ფონდებში $50,000-ის ინვესტიცია განიხილება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7de10c1763d587ca",
+      "title": "Oceaneering International (OII) Could Be 50% Overvalued Following Q2 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLS15VHp0RTBvNTVRMnl6amJxaUtjcWdMM1ZIMWZRa19KdXVuWGJyYkVZQmZ3MWpQbk12eVBWTHVBdTZYaElKRUJWVnNBYmFuM0stRVJmSC00Z1pkYWFsRmp2aGN0RDhrQjNhM3lJajJHbXZHLUp5S1NoeG03NjJrTUdoYnRLN1p4QnUxclczMzZIYU1vdG4yRndjbUU3eGFnZGJBRFp3?oc=5",
+      "publishedAt": "2026-07-25T14:11:55.000Z",
+      "titleKa": "Oceaneering International (OII) შესაძლოა 50%-ით ზედმეტად შეფასდეს მეოთხე კვარტლის მოგების შემდეგ",
+      "summaryKa": "Oceaneering International-ის მეოთხე კვარტლის მოგება შესაძლოა ზედმეტად შეფასდეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e7f9d152ea03c950",
+      "title": "How Earnings Optimism And Renewable Energy Growth At Waste Management (WM) Has Changed Its Investment Story",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcWNiMjlGdzdLdFFOZjFNTjNzZmN2TkZfUzhMYWM5VURuN05FOWZkNXNGU3NTaGZmV3ZBNEdYbUx6OGlpMWppa1ZuQXRFQU1tWjF0bUtJdVhYOHQ3bGNYd1Q0b2xVQldCRktEQzl5ajBDdHNqN3ZrbGRKa2dMbXhDcTlFZENqaDRzQnFCRjN6SjE0aDhpN19NbkJxOGx2WjVUdFZ2QXByWlV5QQ?oc=5",
+      "publishedAt": "2026-07-25T14:11:52.000Z",
+      "titleKa": "როგორ შეცვალა მოგების ოპტიმიზმმა და განახლებადი ენერგიის ზრდამ Waste Management (WM)-ში მისი საინვესტიციო ისტორია",
+      "summaryKa": "Waste Management-ის მოგების ოპტიმიზმი და განახლებადი ენერგიის ზრდა გავლენას ახდენს მის საინვესტიციო ისტორიაზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "57ce0c8f6de52529",
+      "title": "Volkswagen (XTRA:VOW3) Could Be 35% Undervalued After Weak Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZnpwVHlNYl9rX0c5THpuWGd0Q1J5bE9ZU2VHOEJzYW91Y0dObjlnWG96U2otUGg1SGpFdDM5UzdPZEpHMUpPY1lRRksxdmtpcUxzMG9IT0RXNlhHeU1RN0NQeXJEdWY4T2hwbVMzT01JVFdYV09sNXROR3pfbWxHMlFkQVdRZ2pKdmQ5S2I0N2N3U05tY0dKVjR3?oc=5",
+      "publishedAt": "2026-07-25T14:09:52.000Z",
+      "titleKa": "Volkswagen (XTRA:VOW3) შესაძლოა 35%-ით undervalued იყოს სუსტი მოგების შემდეგ",
+      "summaryKa": "Volkswagen-ის მოგება სუსტი იყო, რაც შესაძლოა მისი შეფასება 35%-ით დააკლოს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "087dd7135bc85a2d",
       "title": "Oceaneering International (OII) Stock Trades At A Premium On Cash Flow And Earnings",
@@ -23,6 +122,17 @@
       "titleKa": "დახედეთ ჰუთების მუქარას, რომელიც მსოფლიო ნავთობის ნაკადებს ამოწმებს",
       "summaryKa": "ჰუთების მუქარები ამოწმებს მსოფლიო ნავთობის ნაკადებს.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a37a39d90d185b63",
+      "title": "Bitcoin Was Flat This Week, But These AI And DeFi Altcoins Were Anything But Boring",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS2NTNnZIeEtJOTdyRWJETzh0Umg3alJDWUZyMUpJcjFZQm01cFM1S3ZxcG5LNGUyTU5tcms1VkFDUkZra3hFbEF0Xy1hak9RX2JHRmpkOVRyUzl2aVJkZXVXcnVQWFVwTXY2RWVtb2FCMWlNMUJrNVp1QTFpUmVDQXJCOV92YWdYWjQwZlFjd2xuZ2VV?oc=5",
+      "publishedAt": "2026-07-25T12:29:41.000Z",
+      "titleKa": "Bitcoin ამ კვირაში სტაბილური იყო, მაგრამ ეს AI და DeFi ალტკოინები არაფრით არ იყვნენ მოსაწყენი",
+      "summaryKa": "Bitcoin ამ კვირაში სტაბილური იყო, თუმცა AI და DeFi ალტკოინები აქტიური იყვნენ.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
