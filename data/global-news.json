@@ -1,8 +1,96 @@
 {
-  "updatedAt": "2026-07-25T16:30:40.115Z",
+  "updatedAt": "2026-07-25T17:38:50.560Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "d6381dce2a12226d",
+      "title": "Fortuna Mining (TSX:FVI) Sets Earnings Date, Is The Stock Still Cheap?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVzhZNUEwRmhTZUFjMEJ3M2JQYVlmdjBLTUhGR042by1vZUNhZEFYUENYUUhUMjRPdzR5eVZCeWhncmIta0U5cTJKUS1RcWI3VWxHc2w1MGZ0bmpWQkl5Vy01NmxJQmo0Y3YwcmZ0NGNGRzY5WlluMFhXb2xEbTFoLXlEQ3hfc29leExBR05EUE5Ic09iMVVZ?oc=5",
+      "publishedAt": "2026-07-25T17:08:52.000Z",
+      "titleKa": "Fortuna Mining (TSX:FVI) აცხადებს მოგების თარიღს, არის თუ არა აქცია კვლავ იაფი?",
+      "summaryKa": "Fortuna Mining (TSX:FVI) აცხადებს მოგების თარიღს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d99103de55ec63d3",
+      "title": "3 Major Reasons to Buy Microsoft Before July 29 Q4 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEZiYzUxNTNXSm5JRENDX2gxaU45cURqYndVSUxwN1VZWklINGMxdlBVazcxVUZMbUh0bFNwMXhrR19wNE90Vi10TllJZy1HQUpoRzloemx4MkdpUjV0TldMdmFOT2dvX3g3RFkyZ2xuVGNnLVVoM0FyWURKMHVFSEg0d0M2UGdWNUlRS0pRWVdVQjVrWllLN0xn?oc=5",
+      "publishedAt": "2026-07-25T16:41:03.000Z",
+      "titleKa": "Microsoft-ის ყიდვის 3 მთავარი მიზეზი 29 ივლისამდე Q4 მოგების წინ",
+      "summaryKa": "Microsoft-ის ყიდვის 3 მთავარი მიზეზი არსებობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "79e8d20e8dda4716",
+      "title": "Meta Stock Is Down Nearly 10% in 2026. Should You Buy Before July 29 Q2 Earnings?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdXByU05PeEpkanR5b3oxUXBEcU1NandoZDZ1WjZmaWdxMV9KS0xYY2Y1aGdINDRYRERpcnE2Rms1NkViazEyb2ltcGJ3bjVSXzR0OWxVSDM3TnA2V3dXZ1NQX3ZHaXZoaVg1eldKcnRua0JnT21wa21yUGZaLWdKaDdOdGpFRXl3Q1htWnNMLUpYeXJz?oc=5",
+      "publishedAt": "2026-07-25T16:35:49.000Z",
+      "titleKa": "Meta-ის აქცია 2026 წელს თითქმის 10%-ით შემცირდა. უნდა იყიდოთ თუ არა 29 ივლისამდე Q2 მოგების წინ?",
+      "summaryKa": "Meta-ის აქცია 2026 წელს თითქმის 10%-ით შემცირდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2fe85153eb37e496",
+      "title": "Opinion: Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMDUyLWpuVXVhbmo3WTVWU3hVUlRYV1pMZWFlWDZFdl82UzhPV1c2YVFoVk0tRDlqbHFOTUJ5d01GcldTbWxBZXdYWkl3RnM5c19SZXNyRVN0akloMlZCN213dlQzQkU0Y01XN0RlVmpGbWlZVlBYQjdaTHlOTThjMDV4VFAtOU5RUExRRVJWOWtEckU5dkhCbG5mQW5sZmotMWFnN1UxMFZqWmp3SnJ3?oc=5",
+      "publishedAt": "2026-07-25T16:29:00.000Z",
+      "titleKa": "მოსაზრება: დაივიწყეთ Nvidia. ეს 5 S&P 500-ის აქცია აქტიურად ინვესტირებს AI-ში.",
+      "summaryKa": "5 S&P 500-ის აქცია აქტიურად ინვესტირებს AI-ში.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "74f26b0321946b3d",
+      "title": "Should Customers Bancorp’s Q2 2026 Earnings Beat and Buyback Shift the Outlook for CUBI Investors?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOEN1SWJfTlluSWc2QUNVSDFON3p6bGVLWDVRdXlEZGI2V2UzZEdXSjVXanZhMDBXU042elRVS1NZSGdhLUxtODViM1RCU0huNVQxMUZMOHc3aE5BTDJxb3FVeC03WHNTLVJWSFhvV25RekRuT3ZxVTlqOHprQkk2amtKZzBBVXZNaEJ1c2ZUUWE5UHlxMk5ERmd4SzE4ZEJN?oc=5",
+      "publishedAt": "2026-07-25T16:08:25.000Z",
+      "titleKa": "Should Customers Bancorp-ის Q2 2026 მოგება და აქციების დაბრუნება შეცვალოს CUBI ინვესტორების პერსპექტივა?",
+      "summaryKa": "Customers Bancorp-ის Q2 2026 მოგება და აქციების დაბრუნება განხილვის თემაა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "66879357ecb19d2c",
+      "title": "Is Illinois Tool Works (ITW) Fully Valued Heading Into Its July 28 Earnings?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2R3bldZRkxHSzJzYWJGTzRuckVnenFmampxdXBRekVxWnlMVFhjTG9Jb0poRnZkQ2xHQkZ6X1k0d3dpbUVZM0tBek9ORHA0blFxZGhsY0NpT01JWGVRUF9xeXJIODJQTVVYbGZkNkwtd0g4Y2NyUWNtdHU4WXRBNmw4Q3ZNMG9ZUkNyQUxXT016X2xkUG9EQjZB?oc=5",
+      "publishedAt": "2026-07-25T16:08:21.000Z",
+      "titleKa": "Is Illinois Tool Works (ITW) სრულად შეფასებული ივლისის 28-ის მოგების წინ?",
+      "summaryKa": "Illinois Tool Works (ITW) ივლისის 28-ის მოგების წინ განხილვის თემაა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f65192f79718d928",
+      "title": "Down 50% From 2026 Highs, Should You Buy Sofi Before July 29 Earnings?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1dwVmc4WlBxSTZxWkliaWx5OWU2TlJISVpGWHJ4N01SbFBSOTJSS0J6NE5BVW13MWQ5SlA4Vk9Ta3ZDaHJNS2xfc2MtcGtNam5MWkI5aW50cEY1NTJQOXhCSllMY0Jvcmk2elUyN0NHX3BmMUpBLVNRenpjdTJnWUI2aGhDWHczeUd1eFJfMGQ?oc=5",
+      "publishedAt": "2026-07-25T16:02:42.000Z",
+      "titleKa": "2026 წლის მაღალიდან 50%-ით შემცირებული, უნდა იყიდოთ თუ არა Sofi 29 ივლისამდე მოგების წინ?",
+      "summaryKa": "Sofi 2026 წლის მაღალიდან 50%-ით შემცირდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "53ea4018a1ee6081",
+      "title": "This ETF Is Down 7% From Its High. History Says Now Is a Smart Time to Invest.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWx3MzlBWkdLdXFHR3dvemV4VUFSdHFjWlVPb2ZDLV9sblp0WHVPSjdaNXNyR1kwLXhRR3dTVTZUSldxTGlQZzR4YnBHNE1wb3I3OVdCMzRERFk5RksydUQyNnZDSmw4MGFrZk1xdTVXdWZjQndrd0lXcnJzbTFuYmRINEtXZnUtVXVfeFZZQ3pEdw?oc=5",
+      "publishedAt": "2026-07-25T15:50:00.000Z",
+      "titleKa": "ეს ETF 7%-ით შემცირდა თავის მაღალიდან. ისტორია ამბობს, რომ ახლა სმარტ დროა ინვესტირებისთვის.",
+      "summaryKa": "ეს ETF 7%-ით შემცირდა თავის მაღალიდან.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "59af7a622276f264",
       "title": "3 Energy Stocks Yielding Over 4.5% to Cash in on the AI Power Boom",
