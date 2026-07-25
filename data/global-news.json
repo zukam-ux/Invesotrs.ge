@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-07-25T19:51:47.342Z",
+  "updatedAt": "2026-07-25T20:38:02.218Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "e5da6030779fa0f3",
+      "title": "Oil Near $100 Puts Fed and Peers in Interest-Rate Spotlight",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdkdkJpZUVDUldTSFRTdmlIUmlIQ3Zmb1NtRkEtdXhLUGM4eGpSSlVjb0Z5NXpKOVlPVVBPVjExaUdZQ05nU25vdDBoaUhNLTZpVzJsYTRSUjBZMUpXUVE1VllDSi1tTXllVlVMbGIzNDJvUTY0S1pETnh4NzhZUGMzcDNhQXFubmJxTWg4WEpLMkxrejBWSm0wcUs5M0lYV3BGNGNYMVpBYkN0Y2RuR053?oc=5",
+      "publishedAt": "2026-07-25T20:00:00.000Z",
+      "titleKa": "ნავთობის ფასი $100-ის სიახლოვეს, ფედერალური რეზერვი და სხვა ცენტრალური ბანკები საპროცენტო განაკვეთების ყურადღების ცენტრში",
+      "summaryKa": "ნავთობის ფასი $100-ის სიახლოვეს იმყოფება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "1319195f16744682",
       "title": "BofA warns oil volatility could force c. banks to abandon look-through’ policy",
