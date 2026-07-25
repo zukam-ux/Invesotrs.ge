@@ -1,8 +1,96 @@
 {
-  "updatedAt": "2026-07-25T04:24:33.101Z",
+  "updatedAt": "2026-07-25T06:34:45.395Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "c62527cdd5c898f0",
+      "title": "Kuwait's KPC signs $16 billion lease and leaseback deal with Blackstone, KKR, Brookfield for oil pipeline network",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ0JQQTg4MlNFY2RMbUw2Y1F6ZDdiLVBZNDUwbDBVYU0yZDVfVEVPSjM1NWVSdFM0SkRRdURmY2RvMXRJbXlJSDJwZXA3TGw1UllzRGFyU0lJLWZFOW9mbG5RcmdzNlAzeEJJT18xcUdRdWV3dUtzTi1Xc0sxX2ROZzhCcXpkdGxnek5QZXNzeVJ1azhQbFRVZloyQzFZZmVoQ2ZiRGdiRnJtaEZmZVVIaGhpZ283UXFnX3Y3MkpLOUx3RjFLSENSSXozUXE?oc=5",
+      "publishedAt": "2026-07-25T06:14:00.000Z",
+      "titleKa": "კუვეიტის KPC-მა 16 მილიარდი დოლარის ლიზინგისა და ლიზინგის უკან დაბრუნების შეთანხმება გააფორმა Blackstone, KKR და Brookfield-თან ნავთობის მილსადენის ქსელისთვის",
+      "summaryKa": "კუვეიტის KPC-მა 16 მილიარდი დოლარის ღირებულების შეთანხმება გააფორმა ნავთობის მილსადენის ქსელის ლიზინგისთვის.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ae133328f64a2a11",
+      "title": "What PG&E (PCG)'s Earnings Beat And $73 Billion Grid Investment Plan Means For Shareholders",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTnRfRDFCcVc0cTc3anJfbnV1NjczTnYyNHhMMDZOSmdLYVJCMWJxcWFiY1g1Z1JDUkVqR2lrdEFZSF80YkZHOGJIZG1RQS0wN0t5cVI5MG5uVEgzYi1RX2JhOUx3dzdpR19EeHNMODYtaWhlSzVDZVhkZ0xKQlQtaFkxVTZEUkZBV0VKZXd5ZWM?oc=5",
+      "publishedAt": "2026-07-25T06:10:00.000Z",
+      "titleKa": "რა ნიშნავს PG&E-ის (PCG) მოგება და 73 მილიარდი დოლარის ელექტროგადამცემი ქსელის ინვესტიციის გეგმა აქციონერებისთვის",
+      "summaryKa": "PG&E-ის მოგება და 73 მილიარდი დოლარის ინვესტიციის გეგმა ეხება ელექტროგადამცემი ქსელის განვითარებას.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8f63903df80b732e",
+      "title": "Here’s What This Veteran Bond Investor Monitors Instead of Treasuries",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFo4SXg1NmhSSkxYMzBhbktuYWZHTzNOYWtQYzZwRmVYaWt0WlJBLV96TVpUai1vTk1PT3dMWUZNaTdFdGotU3Blcm96THBmVnZHRzl2VUVuMU9zRmc2cmxWZkZKNnIxWlBEUnZ6QjR6MzVfOEYwa0NDQmNGbHU2ZE8ycUk?oc=5",
+      "publishedAt": "2026-07-25T06:00:00.000Z",
+      "titleKa": "ეს არის ის, რაც ამ Veteran Bond ინვესტორს აკვირდება სახელმწიფო ობლიგაციების ნაცვლად",
+      "summaryKa": "Veteran Bond ინვესტორი აკვირდება ალტერნატიულ საინვესტიციო საშუალებებს სახელმწიფო ობლიგაციების ნაცვლად.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "98ffc5f49af32835",
+      "title": "Corcept Therapeutics (CORT) Is Up 5.3% After Analysts Lift Full-Year Earnings Outlook Significantly",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEtPaEVNSzVhczZTdXR6czFDLURWMlZ3OXlzZDBXN2VCV3M4eWlVQTVLNXllYmpVdW5zcDFmanVwcFZ5QVJpSlpWQnd0bWRDNVEyNldPYURhV2s4Q1VaOENnbG1oSzZ4STdJVmNsSVd5SjM2ZTVFS191YlVaZkM5alROc29Iclp3YzdGQ0t4QmtfdTFWcXdLNjBn?oc=5",
+      "publishedAt": "2026-07-25T05:09:40.000Z",
+      "titleKa": "Corcept Therapeutics (CORT) 5.3%-ით გაიზარდა, რადგან ანალიტიკოსებმა წლის მთლიანი მოგების პროგნოზი მნიშვნელოვნად გაზარდეს",
+      "summaryKa": "Corcept Therapeutics-ის აქციები 5.3%-ით გაიზარდა, რაც დაკავშირებულია ანალიტიკოსების პროგნოზების გაზრდასთან.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5cd5e825813c5486",
+      "title": "American Express (AXP) Could Be 13% Undervalued On Fresh Earnings Results",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEdOd0xhT3lvV3Vyc0x4RjAzcjNaX2h4S2xXemt6S0pKX19WUEtfSUswcTZMdndQZURFek10cm1JZHRXdjdUNkwwam04UjNvTkE2SmFtX0VsSmFMRmRYRVprNDNIQ0NwdktNVjRrWVQxVFdXLUZUUE9HUFVXSUxnSE42am9TbTJId0t3M2xNT1ZFQVpzcUtCSHZ3?oc=5",
+      "publishedAt": "2026-07-25T05:09:00.000Z",
+      "titleKa": "American Express (AXP) შესაძლოა 13%-ით undervalued იყოს ახალი მოგების შედეგების მიხედვით",
+      "summaryKa": "American Express-ის ახალი მოგების შედეგები მიუთითებს, რომ კომპანია შესაძლოა 13%-ით undervalued იყოს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "10ea8adee963a192",
+      "title": "ECB’s Zigman Says War Fallout on Inflation Take Time to Be Seen",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTnBvdmRWSi1ocGplOEw4cmVfTlljcS1nV2dBNmxrWU5KQjBPa1NuOTF5MjBBZjRySlN0N01KcktxMGRONFhKbFVQLUlKUU9FUXYxTk1XNzl1MnN1cVdaV04xNkVEVXJuZjcwYkgtRlpCbjZCdl9iR3VhTVlQVmMzamRuQ0tkQUFJWFBHNDZYdFRfcENPVGJfTXRBc2lKcm5MdXNFSTJUYTYxYm5zUnVvWnpTbXo?oc=5",
+      "publishedAt": "2026-07-25T05:06:00.000Z",
+      "titleKa": "ECB-ის Zigman ამბობს, რომ ომის შედეგების გავლენა ინფლაციაზე დრო სჭირდება",
+      "summaryKa": "ECB-ის Zigman აცხადებს, რომ ომის შედეგების გავლენა ინფლაციაზე დროთა განმავლობაში გამოჩნდება.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "679466ab44da002a",
+      "title": "Bitcoin Just Hit a 30-Day High Above $65,000. Where Does BTC Go From Here?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSTZOMGRXVkRBMXZlWXJEeU1DaFpHVlhvVW5GV0hvTEw3OUtBVUpxa3lSVEgzTWhfTWZIYjVod2thaE9NdnJsNURmb1lhMjRQNnp1Si1vYTlXUVkxajJFQ3NyRXV4LTAzdVRPSjlWcFlqaFZmSzZXeHBJNjZ3UkxqYWFFbEZ6WXQ4TlltMHRDT0lKZw?oc=5",
+      "publishedAt": "2026-07-25T04:37:00.000Z",
+      "titleKa": "Bitcoin-მა 30-დღიანი მაქსიმუმი $65,000-ზე გადააჭარბა. სად მიდის BTC აქედან?",
+      "summaryKa": "Bitcoin-მა 30-დღიანი მაქსიმუმი $65,000-ზე გადააჭარბა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "39da701daa0a4207",
+      "title": "Is Fair Isaac (FICO) Reasonable As Cash Flow Supports Earnings Concerns?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDl3T0hKRjhFYlJwR0dDLXowWG1NU1YzbXdheDFMNjA3bUtaSHA1YlR2QVlNUmpmMU9idDl1ek1CeWlsQk5ZZlRRWWtSYXhTcV9aVmlOQkQxRjFZMXlick5lMERRYmEyd0M1d3J2RkU1SnFkZi04NkJSNWdjenNwTXhVazZjQVFYTW9vT3ZQUGt6MWJDbGJrcmFIbUY?oc=5",
+      "publishedAt": "2026-07-25T04:21:00.000Z",
+      "titleKa": "არის Fair Isaac (FICO) 合理, რადგან ფულადი ნაკადები მოგების პრობლემებს უჭერს მხარს?",
+      "summaryKa": "Fair Isaac-ის (FICO) ფულადი ნაკადები შესაძლოა მხარს უჭერდეს მოგების პრობლემებს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "d2e2e41be4480d02",
       "title": "Labcorp Holdings (LH) Draws Fresh Earnings Optimism, Is It Still 4% Undervalued?",
@@ -121,6 +209,17 @@
       "publishedAt": "2026-07-24T22:21:01.000Z",
       "titleKa": "ბიტკოინის პოლიტიკის ინსტიტუტი, Palantir და Anduril შეუერთდნენ აშშ-ის სახელმწიფო დეპარტამენტის თავისუფლების ტექნოლოგიების პროგრამას.",
       "summaryKa": "ეს ორგანიზაციები აშშ-ის სახელმწიფო დეპარტამენტის პროგრამაში მონაწილეობენ.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2b0236ef064715cd",
+      "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department's Freedom Tech Excellence Program",
+      "source": "The Block",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUk9KaFAwUU5mRHc0a3pFcGhNaklKbmdJTmtlUTVBX3Rla3BSc0ZRdnpNSGVMUnd3TG1RY1ZIZS1Gb2tXVXBYNUlNQk16dUlCaTVXUDU2d2dTQ28wZTBwN19fUm41MHhpLW9LZ1o3cWtvRGhHTXRRWVJJZDZXU09kR0VIN2RMcWJKb0p1dmhXdVhjVVVrLXp6OWVpZnpIbTJLSlo0bUk4dFdOb01xdkJzTG9US19uSjM2MjlaaklPMkJIQVRHaDdjeG9B?oc=5",
+      "publishedAt": "2026-07-24T22:21:01.000Z",
+      "titleKa": "Bitcoin Policy Institute, Palantir და Anduril შეუერთდნენ აშშ-ის სახელმწიფო დეპარტამენტის თავისუფლების ტექნოლოგიების აღმასრულებელ პროგრამას",
+      "summaryKa": "Bitcoin Policy Institute, Palantir და Anduril შეუერთდნენ აშშ-ის სახელმწიფო დეპარტამენტის პროგრამას.",
       "category": "კომპანიები",
       "translationNotice": "AI-assisted Georgian translation"
     },
