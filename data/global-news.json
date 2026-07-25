@@ -1,8 +1,52 @@
 {
-  "updatedAt": "2026-07-25T21:32:30.852Z",
+  "updatedAt": "2026-07-25T22:34:01.306Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "a13930b79e7980e6",
+      "title": "Globe Life (GL) Is Down 6.1% After Raising 2026 Earnings Guidance And Expanding Buybacks – Has The Bull Case Changed?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaFFwV2d6RHh0bFF6Y1BGeGk2N1c4cVh3YWNRdW9heDRBM2ZGcXk5MVRibjV2LTNIWndkZ1pEaEZPejlkTDBiSWtmN2l4aXV6Z29JX1FtR0ZnazJsNHJjM2FBQllBOE50NWNtZmJVbGFxb05RS3h2RE83bHlSNDdMclR5cy1DRS16Qzh0LTZ3?oc=5",
+      "publishedAt": "2026-07-25T22:11:39.000Z",
+      "titleKa": "Globe Life (GL) 2026 წლის მოგების პროგნოზის გაზრდის და დაბრუნების პროგრამის გაფართოების შემდეგ 6.1%-ით დაეცა – შეიცვალა თუ არა ბულური შემთხვევა?",
+      "summaryKa": "Globe Life (GL) 2026 წლის მოგების პროგნოზი გაზარდა და დაბრუნების პროგრამა გააფართოვა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "23785eae9d90dcad",
+      "title": "Is Ameren (AEE) Fairly Valued Going Into Its July 30 Earnings?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0xCQVZBVTI3aG9LZDZENnZTdEt0ZF9VS2dQNlFzVFNvVmF5aUdhTmF4SHlpWjFjQVNUbWotd1BBVUxvLWw2b2hFQ1ZmMjB4RWcwUU9wRnU2bUFkS2NuSHltVEJUNFN4c0Mzd2ZYRjVCYTBxVE1KVHNGWHFuVjA0bVdlbmxrODdWYllkUFJBODZ5Ync3MjA0SW5wcw?oc=5",
+      "publishedAt": "2026-07-25T22:10:53.000Z",
+      "titleKa": "არის თუ არა Ameren (AEE) სამართლიანად შეფასებული 30 ივლისის მოგების ანგარიშის წინ?",
+      "summaryKa": "Ameren (AEE) 30 ივლისს მოგების ანგარიშს წარადგენს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3991e9dbf5d8dc6e",
+      "title": "Should Stronger Q2 Earnings and Higher EBITDA Guidance Require Action From Ardagh Metal Packaging (AMBP) Investors?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0xQYkJxakV5Yzd0empwYzRhRWx1MWhmdi1IblJzNWVBQV9MVUlWaE0zWmtQX3lxWGV1T0FaNGZEdnBjZkZCdzhXMVQ1dm5mRFFNNUoyNTZkZ1Z0YllWVVM4enIyN0xCYmNlR3ExY21uV3JrLVNkVklRVUswYktocU1Qejd1bnNqUElwQkg0LTY2LTdDT2hTNHpPWVZwdlg0?oc=5",
+      "publishedAt": "2026-07-25T21:16:07.000Z",
+      "titleKa": "უნდა მოითხოვოს თუ არა Ardagh Metal Packaging (AMBP) ინვესტორების მოქმედება ძლიერი Q2 მოგებების და მაღალი EBITDA პროგნოზების გამო?",
+      "summaryKa": "Ardagh Metal Packaging (AMBP) Q2-ის ძლიერი მოგებები და მაღალი EBITDA პროგნოზები აქვს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "318729f01454860d",
+      "title": "How Record Operating Earnings, Blue Foundry Deal and Buybacks At Fulton Financial (FULT) Have Changed Its Investment Story",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUFhQ1I1YkdxZUs4NUpOeERIWV93Rm80YlZ4QUJkU05DSnBzZ1hhNUFFd1lkZ0gySkFDaF9lcHZaQjV2YnZpNG5rbGE2VjgyNS1oa2JhME5OTHJTeGlVYjNJTHN5ck85S0lQTTRnY0lLM2JTczU4X1hyeVdsQlVtSUVXRGZpZG9PYkU4NWs3VVBxSkZuX3IwdmU0YnhBbmxXajFiUWRn?oc=5",
+      "publishedAt": "2026-07-25T21:15:54.000Z",
+      "titleKa": "როგორ შეცვალა Fulton Financial (FULT)-ის რეკორდულმა ოპერაციულმა მოგებებმა, Blue Foundry-ის გარიგებამ და დაბრუნების პროგრამებმა მისი საინვესტიციო ისტორია",
+      "summaryKa": "Fulton Financial (FULT) რეკორდული ოპერაციული მოგებები და Blue Foundry-ის გარიგება აქვს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "8cec6427318039c7",
       "title": "Is Universal Insurance Holdings (UVE) Undervalued After Its Q2 Earnings And Buyback?",
