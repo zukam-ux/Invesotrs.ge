@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-07-25T12:09:36.683Z",
+  "updatedAt": "2026-07-25T12:43:24.025Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "4113a7c1282b9042",
+      "title": "3 Major Reasons to Buy Coca-Cola Before July 28 Q2 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMzlELU9lM2lCVzJxeENhVWdBMkpBak1wYk1uVDJVdHdWYU5LR3ByYTZmOFBXaEtsY1p5LWprRHl4U1JCTmN0RXlfM3M5T1RST1VHLTJpb3RseV9OZzFSd2o3Q2ZIODUteXNWdG5acnN0d2MweWxsb0FMcHBuTzJGTGFQQmlDWllTTW5BTDFfTkFjVlk?oc=5",
+      "publishedAt": "2026-07-25T12:26:53.000Z",
+      "titleKa": "3 მთავარი მიზეზი, რატომ უნდა იყიდოთ Coca-Cola 28 ივლისამდე Q2-ის შემოსავლების ანგარიშის წინ",
+      "summaryKa": "Coca-Cola-ს ყიდვის სამი მთავარი მიზეზი არსებობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "7e61eca474dbf86c",
       "title": "$7 Trillion Wall Street Giant is Watching This Key Bitcoin Metric",
@@ -45,6 +56,17 @@
       "titleKa": "წინასწარმეტყველება: ეს დივიდენდური ETF 2034 წლისთვის გაორმაგდება - და თქვენ პასიური შემოსავალი მიიღებთ enquanto ელოდებით",
       "summaryKa": "წინასწარმეტყველება ეხება დივიდენდური ETF-ის გაორმაგებას 2034 წლისთვის.",
       "category": "ETF",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "68cfcae3fd3daebf",
+      "title": "Oil Price Rally Masks a Much Bigger Warning From the Strait of Hormuz",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS2drbi1HRmxyQ2Y3OVNiZlNYcDhleWE4eWxoRzNsTkJ4d3N1dmZiV2xodUNCTFA1TVJNNmZocThhRXpBS0FVWVVLYzZRai0za000S0l0YUhuVkVHZGxYSUZJZFBUNm9pZkNCaE1nMG50VzVoeEg4Qks3eTJEcWtxWFl0Yng2SDE2bXJz?oc=5",
+      "publishedAt": "2026-07-25T11:00:00.000Z",
+      "titleKa": "ნავთობის ფასების ზრდა მალავს ბევრად უფრო დიდ გაფრთხილებას ჰორმუზის სრუტიდან",
+      "summaryKa": "ნავთობის ფასების ზრდა სერიოზულ გაფრთხილებას მალავს.",
+      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
