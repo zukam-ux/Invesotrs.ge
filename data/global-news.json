@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-07-25T06:34:45.395Z",
+  "updatedAt": "2026-07-25T08:35:58.437Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "9f1b8a666b5781a5",
+      "title": "Alphabet's Projected $205 Billion Capex Can Lift These 3 AI Stocks",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXBJdjZ3WVpZVFJJUl9rRXJyVmU4WDlnV1RpRXo5VTNYNUF1VGhaVDBrTnN2UkRteFlsUUZVVm04eFN1Z2hDdTV3N2pOclNSbGVKVWpaT1llYk1sUmhQai1YVnozM3FhQm4xQXIxTExjdnNnVTFxRWxQZlpSajdJVnVZbnpONUJXcnhEQW1sWWNISFdOZEhwZFJRM0M4UlkzdEhz?oc=5",
+      "publishedAt": "2026-07-25T08:03:00.000Z",
+      "titleKa": "Alphabet-ის 205 მილიარდი დოლარის კაპექსი შეუძლია ამ 3 AI აქციის ზრდა",
+      "summaryKa": "Alphabet-ის projected capex 205 მილიარდი დოლარია.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a5622010d44d1424",
+      "title": "Jim Cramer: These Two Financial Stocks Are Outrageously Cheap",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYzFET0trSjY1NEZNdEFrLXE2VzhIN2RVQjVCUWtyYmFFZ2pkeDQ1bEZDQVNReHNhTTZaSW1Jcm9KT0NQSk90OS1fbjdTU0JGdFRLdEU2bUFXdTgwQ2dEbHRTaFp6M1hWdnVXLVhaYW9IcW5EVzY0c2hKazZWRGE2M3MyQ3dVaG5IWEVxNE1iUXhmN2NhbE9GRHY5T0w?oc=5",
+      "publishedAt": "2026-07-25T07:52:39.000Z",
+      "titleKa": "Jim Cramer: ეს ორი ფინანსური აქცია უკიდურესად იაფია",
+      "summaryKa": "Jim Cramer აცხადებს, რომ ორი ფინანსური აქცია ძალიან იაფია.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d2d332b8d2cbb4fa",
+      "title": "German economists say Europe's oil supply is secure",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1dqaUdDczhTTlhVcHQwUW9Ud2tCMlpDVDliRl84cHNkUkpoWDQzSVp6c2U1MkQ3LWFwdWFST0pxNEhBLVhxb3QwdjU3TnBPUDhUN3lIZ3JxV3lQQlN1SDZKbjdTUEFpQWxrakxLV1lFNXY4ZHdfd0VxXzdod255cWxpNWlxYkM1VFhZU2luQ1E5azI1R202Yw?oc=5",
+      "publishedAt": "2026-07-25T07:34:58.000Z",
+      "titleKa": "გერმანელი ეკონომისტები ამბობენ, რომ ევროპის ნავთობის მიწოდება უსაფრთხოა",
+      "summaryKa": "გერმანელი ეკონომისტები აცხადებენ, რომ ევროპის ნავთობის მიწოდება უსაფრთხოა.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "21fa2fccfda32b87",
+      "title": "Kuwait signs $16 billion oil pipeline deal with Blackstone, KKR and Brookfield",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3VBZC1GWnRSNktLQzF1aTN1dkVnUlNMMEE2aFBxaFJoTHJjNEhxZi1KVmlSWXZpV0tQOVVtODZhaHZnQS1GZGlmSjJmcm8wZ1ZOQW12YjlGVGVtYnNTR0ZoQkwtTEVMVkY4YU9DdENwWnVkMXowTmlkZVNQRjhJUHUzZDJ6Z2ZHVHNLUA?oc=5",
+      "publishedAt": "2026-07-25T07:11:57.000Z",
+      "titleKa": "კუვეიტი 16 მილიარდი დოლარის ნავთობის მილსადენის შეთანხმებას აფორმებს Blackstone, KKR და Brookfield-თან",
+      "summaryKa": "კუვეიტი აფორმებს 16 მილიარდი დოლარის შეთანხმებას ნავთობის მილსადენზე.",
+      "category": "კომპანიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c21d77bc9fbb6040",
+      "title": "Trump has no remaining levers to pull as oil hovers near the $100 ‘psychological’ threshold",
+      "source": "Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHE4ZVZYbmxRUy1SZV9kWG1nSk5WeTVGVG9OUUJrQ09PanMzbzRUWTl5OERZa0FJZDN5YVUtWTcxRm4wX3J0cGJUWGYzVHhlQzlra09LcVhPVjFhWlY4MUVHSXh4UnBrdE5kMDVodk8wOVpjQV95aUExdUxURnBIT1hjYWZNNXNjbE1Ibw?oc=5",
+      "publishedAt": "2026-07-25T07:09:00.000Z",
+      "titleKa": "ტრომპს აღარ აქვს დარჩენილი ბერკეტები, რადგან ნავთობი 100 დოლარის 'ფსიქოლოგიურ' ზღვარზეა",
+      "summaryKa": "ტრომპს აღარ აქვს ბერკეტები, რადგან ნავთობი 100 დოლარის ზღვარზეა.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a13746bf3fc4ef8b",
+      "title": "Saudi Oil Can Still Get Out — But It Won’t Be Cheap or Easy",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdnFXRlNQbVFWbDlKS0hxcmNUajRJNWM4cWVQM0paMS1BcnlDNXYtZnFOT1NDSWlTaEY3dzYwQ2JkY3g2Zk8wbWxJRGEybUwxdF9jT2prUGx2MWprWHUwOHBUSllQcGN1NjV2NDRzTHExcHFsRVBaYU41cUw1enk4N2h5a19oeDQ0QmxaRXhfZmxfZURVYWdiSkRzRFcyTktxSy00NGlPZUdnTk9lS1FkYQ?oc=5",
+      "publishedAt": "2026-07-25T07:00:20.000Z",
+      "titleKa": "საუდის ნავთობი კვლავ შეიძლება გავიდეს — მაგრამ ეს არ იქნება იაფი ან მარტივი",
+      "summaryKa": "საუდის ნავთობი კვლავ შეიძლება გავიდეს, თუმცა ეს რთული და ძვირი იქნება.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "c62527cdd5c898f0",
       "title": "Kuwait's KPC signs $16 billion lease and leaseback deal with Blackstone, KKR, Brookfield for oil pipeline network",
