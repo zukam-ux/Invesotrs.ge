@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "check": "node --check src/worker.mjs && node --check shared.js && node --check market-chart.js && node scripts/test-asset-search.mjs && node scripts/test-market-chart.mjs",
+    "check": "node --check src/worker.mjs && node --check shared.js && node --check market-chart.js && node scripts/test-asset-search.mjs && node scripts/test-market-chart.mjs && node scripts/test-news-policy.mjs",
     "dev": "wrangler dev",
     "deploy": "wrangler deploy"
   },

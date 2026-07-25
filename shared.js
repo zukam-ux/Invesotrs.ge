@@ -176,6 +176,14 @@ function summaryFor(article){
 function translationNote(article){
   return article.translationNotice?'<span class="translation-note">ქართული მოკლე თარგმანი</span>':"";
 }
+function newsSectionKey(article){
+  const text=`${article.title||""} ${article.titleKa||""} ${article.summaryKa||""} ${article.category||""}`.toLowerCase();
+  if(/\b(ai|artificial intelligence|technology|tech|chip|semiconductor|software|cloud|robot|openai|anthropic|nvidia|amd|intel)\b|ხელოვნურ ინტელექტ|ტექნოლოგ|ჩიპ|ნახევარგამტარ|პროგრამულ|ღრუბლოვან/.test(text))return "tech-ai";
+  return "markets-economy";
+}
+function newsSectionLabel(article){
+  return newsSectionKey(article)==="tech-ai"?"ტექნოლოგიები და AI":"ბაზრები და ეკონომიკა";
+}
 function editorialScore(article){
   const sourceWeights={Reuters:90,"Associated Press":85,Bloomberg:80,Barrons:72,"Barron's":72,CNBC:65,CoinDesk:62,MarketWatch:58,"Yahoo Finance":35};
   const text=`${article.title||""} ${article.titleKa||""}`.toLowerCase();
@@ -323,7 +331,9 @@ async function loadGlobalNews(){
     editorialTargets.forEach(target=>renderEditorialHome(target,data.articles||[]));
     targets.forEach(target=>{
       const pageSize=Number(target.dataset.limit||9);
-      const allArticles=(data.articles||[]).slice(Number(target.dataset.offset||0));
+      const category=target.dataset.newsCategory;
+      const matchingArticles=category?(data.articles||[]).filter(article=>newsSectionKey(article)===category):(data.articles||[]);
+      const allArticles=matchingArticles.slice(Number(target.dataset.offset||0));
       let visibleCount=Math.min(pageSize,allArticles.length);
       const renderArchive=()=>{
         const articles=allArticles.slice(0,visibleCount);
@@ -331,7 +341,7 @@ async function loadGlobalNews(){
           const identity=identifyNewsAsset(article);
           return `
           <a class="auto-news-card" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
-            <span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)} ${newsQuoteBadge(identity)}</b><small>${relativeNewsTime(article.publishedAt)} · ${escapeNews(article.source)} · ${escapeNews(article.category)}</small></span></span>
+            <span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)} ${newsQuoteBadge(identity)}</b><small>${relativeNewsTime(article.publishedAt)} · ${escapeNews(article.source)} · ${escapeNews(newsSectionLabel(article))}</small></span></span>
             <h3>${escapeNews(headlineFor(article))}</h3>
             <p>${escapeNews(summaryFor(article))}</p>
             <span class="meta">პირველწყარო ↗</span>

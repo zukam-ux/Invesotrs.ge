@@ -3,6 +3,7 @@ import { createHash } from "node:crypto";
 
 const feedQueries = [
   "(stocks OR earnings OR ETF OR Nasdaq OR \"S&P 500\") when:1d",
+  "(artificial intelligence OR AI OR technology OR chips OR semiconductors OR cloud) when:1d",
   "(bitcoin OR ethereum OR crypto) when:1d",
   "(\"Federal Reserve\" OR inflation OR oil OR gold OR bonds) when:1d",
 ];
@@ -79,7 +80,7 @@ const translationSchema = {
           summaryKa: { type: "string" },
           category: {
             type: "string",
-            enum: ["აქციები", "კრიპტო", "ETF", "ეკონომიკა", "კომპანიები"],
+            enum: ["ტექნოლოგიები და AI", "ბაზრები და ეკონომიკა", "კრიპტო"],
           },
         },
         required: ["id", "titleKa", "summaryKa", "category"],
@@ -158,7 +159,7 @@ async function translateWithGithub(items) {
                   id: "same input id",
                   titleKa: "faithful Georgian headline",
                   summaryKa: "one factual Georgian sentence",
-                  category: "აქციები | კრიპტო | ETF | ეკონომიკა | კომპანიები",
+                  category: "ტექნოლოგიები და AI | ბაზრები და ეკონომიკა | კრიპტო",
                 },
               ],
             },
@@ -194,23 +195,15 @@ if (feedResponses.some((response) => !response.ok)) {
   throw new Error(`Global news feed failed: ${feedResponses.map((response) => response.status).join(",")}`);
 }
 const trustedSources = new Set([
-  "Reuters",
-  "CNBC",
   "Yahoo Finance",
+  "Google Finance",
+  "Nasdaq",
+  "Bloomberg",
   "Bloomberg.com",
   "MarketWatch",
-  "Barron's",
-  "CoinDesk",
-  "The Block",
-  "Investopedia",
-  "Financial Times",
-  "The Wall Street Journal",
-  "Fortune",
-  "Business Insider",
-  "Nasdaq",
 ]);
 const financeTerms =
-  /\b(stock|stocks|market|shares|earnings|investor|bitcoin|crypto|ethereum|ETF|bond|treasur|interest rate|federal reserve|fed\b|inflation|oil|gold|bank|finance|nasdaq|s&p|dow|IPO|acquisition)\b/i;
+  /\b(stock|stocks|market|shares|earnings|investor|bitcoin|crypto|ethereum|ETF|bond|treasur|interest rate|federal reserve|fed\b|inflation|oil|gold|bank|finance|nasdaq|s&p|dow|IPO|acquisition|technology|artificial intelligence|AI|chip|semiconductor|cloud|software)\b/i;
 const lowValueTerms =
   /\b(earnings call|buy now|sell now|best stocks?|top stocks?|double down|double a position|without (any )?hesitation|could soar|millionaire|secret stock|strong buy)\b/i;
 const feedItems = (

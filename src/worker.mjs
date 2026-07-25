@@ -27,23 +27,15 @@ const MARKET_SERIES_RANGES = {
   "1y": { range: "1y", interval: "1d", label: "ბოლო 1 წელი" },
 };
 const trustedSources = new Set([
-  "Reuters",
-  "CNBC",
   "Yahoo Finance",
+  "Google Finance",
+  "Nasdaq",
+  "Bloomberg",
   "Bloomberg.com",
   "MarketWatch",
-  "Barron's",
-  "CoinDesk",
-  "The Block",
-  "Investopedia",
-  "Financial Times",
-  "The Wall Street Journal",
-  "Fortune",
-  "Business Insider",
-  "Nasdaq",
 ]);
 const financeTerms =
-  /\b(stock|stocks|market|shares|earnings|investor|bitcoin|crypto|ethereum|ETF|bond|treasur|interest rate|federal reserve|fed\b|inflation|oil|gold|bank|finance|nasdaq|s&p|dow|IPO|acquisition)\b/i;
+  /\b(stock|stocks|market|shares|earnings|investor|bitcoin|crypto|ethereum|ETF|bond|treasur|interest rate|federal reserve|fed\b|inflation|oil|gold|bank|finance|nasdaq|s&p|dow|IPO|acquisition|technology|artificial intelligence|AI|chip|semiconductor|cloud|software)\b/i;
 const lowValueTerms =
   /\b(earnings call|buy now|sell now|best stocks?|top stocks?|double down|double a position|without (any )?hesitation|could soar|millionaire|secret stock|strong buy)\b/i;
 
@@ -377,7 +369,9 @@ async function serveNews(env) {
   const result = await env.DB.prepare(
     `SELECT id, title, title_ka, summary_ka, source, url,
             published_at, category, translation_notice
-     FROM articles ORDER BY published_at DESC LIMIT 2000`,
+     FROM articles
+     WHERE source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch')
+     ORDER BY published_at DESC LIMIT 2000`,
   ).all();
   const articles = result.results.map((row) => ({
     id: row.id,
