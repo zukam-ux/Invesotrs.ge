@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-07-25T12:43:24.025Z",
+  "updatedAt": "2026-07-25T14:16:43.979Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "087dd7135bc85a2d",
+      "title": "Oceaneering International (OII) Stock Trades At A Premium On Cash Flow And Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaHRuUFppN2o5MlhnZjREbEQ5T0VKYnJ2cFFRUEdNRnljV29qbjVBeFhMZTBVN1JNb2dBVU0wYklvdmJ0TklzQXVHOU9aUUZ6NUhCYU9yemdzcGRqT1hqUjVyX3NpWGNndWVYeHc1bkxueTlvSEhMaVRtcGdEMW1sVTR1T2s4bEhvaS1wTlpPN21tMHk1WDBhclBfVkFqQzBUWkUtUGZLUG1DRmM?oc=5",
+      "publishedAt": "2026-07-25T13:11:13.000Z",
+      "titleKa": "Oceaneering International (OII) აქციები ვაჭრობენ კაშფლოსა და მოგებაზე პრემიუმით",
+      "summaryKa": "Oceaneering International (OII) აქციები ვაჭრობენ კაშფლოსა და მოგებაზე პრემიუმით.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "09a3fa8e8c3950a4",
+      "title": "Watch Houthi Threats Test Global Oil Flows",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0ZEWnBfcHBJY1VmdGhRZE1tX0ZaS0pGSGpLcDMtN3hzdUlaelpSM1M3aDhPY1VTemgxNzMxeDg4Z1l4S1FXWGRSME54Nnl6VGRzMlhzQlU1bjhBVy1iN0xoeTBqRmZxZFF5aWxjMFREUkpnNDN3TGRwd1dKQkRTNmhIVC10WVZNYjlnT29Pc200b21CbXc?oc=5",
+      "publishedAt": "2026-07-25T13:09:51.000Z",
+      "titleKa": "დახედეთ ჰუთების მუქარას, რომელიც მსოფლიო ნავთობის ნაკადებს ამოწმებს",
+      "summaryKa": "ჰუთების მუქარები ამოწმებს მსოფლიო ნავთობის ნაკადებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "4113a7c1282b9042",
       "title": "3 Major Reasons to Buy Coca-Cola Before July 28 Q2 Earnings",
@@ -15,6 +37,50 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "3457b198dca39873",
+      "title": "How Is SpaceX (SPCX) Already the Largest of 3,372 Holdings in This $97.7 Billion Vanguard ETF?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONXd6dFlvcHVxTmEzeE9LVEhBZ01ibFpLZzZEOW1mZUVxYWVJRXd2Wmx5XzNfcF94UFR5ZU5IMHFwUHpNQ0NtR2Nsb0xTT3dXOExvY0x0N3hrXzg4YXp1WWpkMHBTZVN6ZG43SHB3NTNWRGMzQmdkME95eTlhZ1lrTXBmcGNMUWV1cGdybWtLYnpsUUM4MXBacmZn?oc=5",
+      "publishedAt": "2026-07-25T12:20:00.000Z",
+      "titleKa": "როგორ გახდა SpaceX (SPCX) უკვე 3,372 აქტივიდან ყველაზე დიდი ამ $97.7 მილიარდიან Vanguard ETF-ში?",
+      "summaryKa": "SpaceX (SPCX) უკვე 3,372 აქტივიდან ყველაზე დიდი გახდა $97.7 მილიარდიან Vanguard ETF-ში.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "91fe4686b36df41b",
+      "title": "Trump’s Crypto Bonanza Is Biggest Hurdle for Digital Asset Bill",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmxoTDR1dFlDNXhPUl9oVlg5ZkhiTlhSNTRCU3d0V252NTJtRHBubFo2dFZHTkZNdERsb0NOeGE4UUhUTmh0aWIySmhTYmpCNk00blJ4MTQ5YTBCUHUtMjRYV2hkYmpwNENPTGgxU0JzLWVIMF82TS1ZUE1nN2c2cVJ6eDlZYWpkYkFRV0pTNm1JUFlQTnNHM0F1MUg5Q0dWbDVkb3pmTkdWUVd6ZVFySlU4SlI?oc=5",
+      "publishedAt": "2026-07-25T12:00:00.000Z",
+      "titleKa": "ტრომპის კრიპტო ბონანზა არის ყველაზე დიდი დაბრკოლება ციფრული აქტივების კანონპროექტისთვის",
+      "summaryKa": "ტრომპის კრიპტო ბონანზა არის ყველაზე დიდი დაბრკოლება ციფრული აქტივების კანონპროექტისთვის.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7df28136dc1716b8",
+      "title": "Why bear markets may actually be more favorable for crypto builders",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdDFyZjd1LUJrc1g1bEtVTERMQVBiU0l6U3NSU25ZT3g0UkhiaTkzNTVDSG9OSnE1TzQ5V1lBRDcyTWlSNERBb3dya0toMkVyeWFjcHd6WXFNUFBYTjV3cWk2TklWbFdXVWxqNzlIaEZPZ2FLVnVMZ2hwcUdoRzVlYkZR?oc=5",
+      "publishedAt": "2026-07-25T12:00:00.000Z",
+      "titleKa": "რატომ შეიძლება დათვი ბაზრები უფრო ხელსაყრელი იყოს კრიპტო მშენებლებისთვის",
+      "summaryKa": "დათვი ბაზრები შეიძლება უფრო ხელსაყრელი იყოს კრიპტო მშენებლებისთვის.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3702f12d8f05ed06",
+      "title": "Trump’s Crypto Bonanza is Biggest Hurdle for Digital Asset Bill",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3VuQXU0UlJ2dTNPN1k1aHcyTXd5cDV2MFlkVld1bHc3SkJuN0ktVy1jQzRadkVFU0dLanVzQk5EM0RzWERuTUQ0QXVZNnF3NU5oNXRoMnhBdzNvX2VMYWZXOXNLYzRjU3FmVzVxbUwtZG5sLWZfVWIyTDlMZWo1VXZrM1d5WXY2NXpsNWdVZVhNM244cHduQ180VnpzQWJJT0E?oc=5",
+      "publishedAt": "2026-07-25T12:00:00.000Z",
+      "titleKa": "ტრომპის კრიპტო ბონანზა არის ყველაზე დიდი დაბრკოლება ციფრული აქტივების კანონპროექტისთვის",
+      "summaryKa": "ტრომპის კრიპტო ბონანზა არის ყველაზე დიდი დაბრკოლება ციფრული აქტივების კანონპროექტისთვის.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "7e61eca474dbf86c",
       "title": "$7 Trillion Wall Street Giant is Watching This Key Bitcoin Metric",
       "source": "Yahoo Finance",
@@ -23,6 +89,17 @@
       "titleKa": "$7 ტრილიონიანი უოლ სტრიტის გიგანტი ამ მთავარ ბიტკოინის მეტრიკას აკვირდება",
       "summaryKa": "$7 ტრილიონიანი უოლ სტრიტის გიგანტი აკვირდება ბიტკოინის მთავარ მეტრიკას.",
       "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a972fc92bfb7ef64",
+      "title": "Prediction: This Unstoppable ETF Will Crush the S&P 500 in 2026 and Beyond",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd0hNQWdqVnQzbG5qaWlURFVqN1VPM2lXMnFOMjZ0WWlUc1Y4OUo0WTJERjdSTGZGWVR6cnZyQ1hhRlNpcGsxdWRQVmZJUUNuQUdVemw2ZWFmLUF1cHhnTzhoRVVSSlFkc3J6REtoeDFMdTVsSnktRnlDVUtMZkkwUllrODVON1dPVjZndl9NWlBNS0plcXJvY1pJWGFwZm8y?oc=5",
+      "publishedAt": "2026-07-25T11:15:00.000Z",
+      "titleKa": "წინასწარმეტყველება: ეს შეუჩერებელი ETF 2026 წელს და შემდეგ S&P 500-ს დაამარცხებს",
+      "summaryKa": "ეს შეუჩერებელი ETF 2026 წელს და შემდეგ S&P 500-ს დაამარცხებს.",
+      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -56,6 +133,17 @@
       "titleKa": "წინასწარმეტყველება: ეს დივიდენდური ETF 2034 წლისთვის გაორმაგდება - და თქვენ პასიური შემოსავალი მიიღებთ enquanto ელოდებით",
       "summaryKa": "წინასწარმეტყველება ეხება დივიდენდური ETF-ის გაორმაგებას 2034 წლისთვის.",
       "category": "ETF",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a512d6c9b9133f5f",
+      "title": "Move over oil. AI leader Alphabet's spending sends investors running",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSU81RHJDRTJpYkFVQzR5bDVuYWw1WmVVNVRSSjJ1eHBnTWZ1Nnc4WVRWbDVxcTZJOUR0VGVWZHduRkZaNXhMSUstdkVFUDhjNGItSkdsX0VSbk04ZjJoOVp3cHZHd25iREFqUk9HakVtcnZVclhOaEZSb2wzYmFRYmdsbTBqSGt0cmdEbURIOGhJQQ?oc=5",
+      "publishedAt": "2026-07-25T11:01:40.000Z",
+      "titleKa": "გადაიტანეთ ნავთობი. AI ლიდერი Alphabet-ის ხარჯები ინვესტორებს გარბენას აიძულებს",
+      "summaryKa": "AI ლიდერი Alphabet-ის ხარჯები ინვესტორებს გარბენას აიძულებს.",
+      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
