@@ -1,8 +1,52 @@
 {
-  "updatedAt": "2026-07-24T23:40:55.540Z",
+  "updatedAt": "2026-07-25T01:08:04.599Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "fc3bcd2409e260c9",
+      "title": "Michael Saylor's Strategy Just Unveiled a New Bitcoin Banking Index. Here's What That Signals for MSTR Stock.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUJwZGFkTzM0eTdsbWFzc3lwY0xrYkZGS3pOMnR2UHFHOFhaaTNyS2lXZUp2SFhoUGdoWGo5ZEd3WlloYmxkcXZzdlVpa3VjeDZPeW55ZTQwQmVMV2NsaTlPWEZHZ0lZaEstdlNzQUFudVpPYjNnNWdPRE8yY3VMN0RsTWZRbUlXZ1B3NG9PaVJMUVpDTzlPWU9RQVZ6Ni1uZkh6YjVB?oc=5",
+      "publishedAt": "2026-07-25T00:50:00.000Z",
+      "titleKa": "მაიკლ სეილორის სტრატეგიამ ახალი ბიტკოინის ბანკინგის ინდექსი გაამჟღავნა.",
+      "summaryKa": "ეს ინდექსი MSTR-ის აქციებისათვის ახალი სიგნალების მიმანიშნებელია.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b17cfb13b0b73f86",
+      "title": "V.F (VFC) Could Be 16% Undervalued Following Its Pre Earnings Pullback",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdFRUNvbjl0OWI5VWxBV1dsbGRFeHlfWDJCUnFMeUs5bXg3RXJzZG82SlVUS0JlNjRZSUZXS3VYbVFOZnhJeF91MFFJZXFtR3NUNXpvNFlsenVfWHFZc0EzbzdYM2ZGYi1BZjFTSmRVbGR2cm52RXRxVXhsMm1QdDVONGhaNVJZ?oc=5",
+      "publishedAt": "2026-07-25T00:16:00.000Z",
+      "titleKa": "V.F (VFC) შესაძლოა 16%-ით undervalued იყოს მისი წინასწარი მოგების შემცირების შემდეგ.",
+      "summaryKa": "V.F (VFC) აქციები შესაძლოა undervalued იყოს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7b27e4b5298b868e",
+      "title": "Anthropic Is the New SpaceX for ETF Issuers",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnRZTkxNZmg2VjFKRFlYZ0dEMVF0RVFwSVBaYkI0azAzcDRELS1hTW0wdmh5ODJhVlhRMVVOUjBoRFZNZDhrVjREeExsVE9ySXJOaERHVnNUU0lNcDFDbF9iaWlBbnE2SE5WQjcyWU9EdjRhdHhHb2pOVU1CRlRRb1d5c05GWWIyM2VEeEVIaVhLXzhWT1owSFNR?oc=5",
+      "publishedAt": "2026-07-24T23:49:23.000Z",
+      "titleKa": "Anthropic არის ახალი SpaceX ETF-ების გამომცემლებისათვის.",
+      "summaryKa": "Anthropic ახალი SpaceX-ის მსგავსად მოქმედებს ETF-ების სფეროში.",
+      "category": "ETF",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "bc3663326c4b5b00",
+      "title": "Mag 7 Earnings Preview: Alphabet's Cloud Surge and CapEx Hike Raise the Stakes",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeVh5Y0ZMQUZxRXF3ZXU4bnRFc21HSVNKVzVTNklidVhUUm05M1VtTHNQcUV5WVZXUHZFRGI3RkFYTElybXBwVW8wM09XWG9WdldyM0pJenoxUVh4S1VGNE5ScXpVREtQczBMNHVNdVZiYm5DOTdjd2NQNVlBa2hHUWQycTl1UmYzNDI0Q01kUndoaXhKMWFIU1FNT1JlZw?oc=5",
+      "publishedAt": "2026-07-24T23:01:00.000Z",
+      "titleKa": "Mag 7-ის მოგების წინასწარი მიმოხილვა: Alphabet-ის ღრუბლოვანი ზრდა და CapEx-ის ზრდა ზრდის რისკებს.",
+      "summaryKa": "Alphabet-ის ღრუბლოვანი მომსახურების ზრდა და CapEx-ის ზრდა Mag 7-ის მოგების პროგნოზებზე გავლენას ახდენს.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "f54a017360f88d7d",
       "title": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout — PSKY, UBER, QCOM, VZ, INTC In Focus",
@@ -34,6 +78,17 @@
       "titleKa": "ბიტკოინის პოლიტიკის ინსტიტუტი, Palantir და Anduril შეუერთდნენ აშშ-ის სახელმწიფო დეპარტამენტის თავისუფლების ტექნოლოგიების პროგრამას",
       "summaryKa": "ბიტკოინის პოლიტიკის ინსტიტუტი, Palantir და Anduril შეუერთდნენ აშშ-ის სახელმწიფო დეპარტამენტის პროგრამას.",
       "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d5766f1fd0b50fde",
+      "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department's Freedom Tech Excellence Program",
+      "source": "The Block",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZVRkZzZOTEVlSkpkSU1ubENiNHhWekhxaTdQWXVrN0drTzFaSHNVTkdWdzN6bElsR1kwUWhUZ3lsZVdrVzJYNXVqQS1YUk9qcHI2NHExQkJjZXpTM0ZHWE00V0drQWJYc2ZMNFVPeS1xZi1jU0Q5QXVtNVdGUkI3Q2Q4QWp1elI4WTZvWWt6UHV3Z2lmWVN4ckp5QUthQ3AtX0s4M2hBRE05YU1IblVXUDVaMU5UV01Mc2ZSNDl5VkxjQ2N1T1lxS2ZYUTNyWjBLdUdoNFdpMVRWcHN5RDY1dTFoRTE3N1BDb2lZSkd0cnNsQQ?oc=5",
+      "publishedAt": "2026-07-24T22:21:01.000Z",
+      "titleKa": "ბიტკოინის პოლიტიკის ინსტიტუტი, Palantir და Anduril შეუერთდნენ აშშ-ის სახელმწიფო დეპარტამენტის თავისუფლების ტექნოლოგიების პროგრამას.",
+      "summaryKa": "ეს ორგანიზაციები აშშ-ის სახელმწიფო დეპარტამენტის პროგრამაში მონაწილეობენ.",
+      "category": "კომპანიები",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -92,6 +147,17 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "c010eba8dfaffc2e",
+      "title": "Fed must take action on 'problematic' inflation rate, says markets forecaster Jim Bianco",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0J2N0VtU1F1dUtGMW5aVnJGRlh1QkpyTmJNTFV3NjdFUnMzRmRRcW0tVHhVeEttb29kRlJKemcxQWdEOHhzcXRQczRpcVFKQ3FvUXZTSTM5aW1Wdkk1ZHd6Wm5LdHNuZlV1SmFpWjlIZGdIN0ZucThpd1doTzJIZ0F1QlJjcHlDZm1tcVR2dzN3WHNCeTVISUozMUx1bUhxMFBDRGpHaDVuWFZBdmtYYlpHX21zSFJlbkRwMjRkTThJcTY0S19F?oc=5",
+      "publishedAt": "2026-07-24T22:02:17.000Z",
+      "titleKa": "ფედერალური სარეზერვო სისტემა უნდა იმოქმედოს 'პრობლემური' ინფლაციის მაჩვენებელზე, ამბობს ბაზრის პროგნოზისტი ჯიმ ბიანკო",
+      "summaryKa": "ფედერალური სარეზერვო სისტემა უნდა იმოქმედოს 'პრობლემური' ინფლაციის მაჩვენებელზე.",
+      "category": "ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "d40f06ff62f2f0ca",
       "title": "Why Paper Stocks Were Among the S&P 500’s Top Performers Friday",
       "source": "Barron's",
@@ -111,17 +177,6 @@
       "titleKa": "Micron-ის აქციები დაეცა ძლიერი კვირის დასრულების შემდეგ. მომავალი შესაძლოა მეხსიერების ბუმის განსაზღვროს.",
       "summaryKa": "Micron-ის აქციები დაეცა ძლიერი კვირის დასრულების შემდეგ.",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "c010eba8dfaffc2e",
-      "title": "Fed must take action on 'problematic' inflation rate, says markets forecaster Jim Bianco",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0J2N0VtU1F1dUtGMW5aVnJGRlh1QkpyTmJNTFV3NjdFUnMzRmRRcW0tVHhVeEttb29kRlJKemcxQWdEOHhzcXRQczRpcVFKQ3FvUXZTSTM5aW1Wdkk1ZHd6Wm5LdHNuZlV1SmFpWjlIZGdIN0ZucThpd1doTzJIZ0F1QlJjcHlDZm1tcVR2dzN3WHNCeTVISUozMUx1bUhxMFBDRGpHaDVuWFZBdmtYYlpHX21zSFJlbkRwMjRkTThJcTY0S19F?oc=5",
-      "publishedAt": "2026-07-24T21:32:15.000Z",
-      "titleKa": "ფედერალური სარეზერვო სისტემა უნდა იმოქმედოს 'პრობლემური' ინფლაციის მაჩვენებელზე, ამბობს ბაზრის პროგნოზისტი ჯიმ ბიანკო",
-      "summaryKa": "ფედერალური სარეზერვო სისტემა უნდა იმოქმედოს 'პრობლემური' ინფლაციის მაჩვენებელზე.",
-      "category": "ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
