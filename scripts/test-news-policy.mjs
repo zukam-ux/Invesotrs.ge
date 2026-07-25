@@ -23,5 +23,13 @@ assert.ok(newsPage.includes('id="tech-ai"'));
 assert.ok(newsPage.includes('id="markets-economy"'));
 assert.ok(collector.includes("conflictNewsTerms"));
 assert.ok(worker.includes("conflictNewsTerms.test"));
+assert.ok(shared.includes("recentEditorialLead"));
+assert.ok(shared.includes("maxAgeHours=4"));
+assert.ok(shared.includes("setInterval(refreshRelativeNewsTimes,60000)"));
+for (const term of ["ukraine", "gaza", "airstrike", "military attack"]) {
+  assert.ok(collector.includes(term), `${term} must be covered by the conflict filter`);
+  assert.ok(worker.includes(term), `${term} must be blocked by the live API`);
+  assert.ok(shared.includes(term), `${term} must be blocked in browser rendering`);
+}
 
 console.log("News source and category policy checks passed.");

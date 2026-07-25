@@ -207,7 +207,7 @@ const financeTerms =
 const lowValueTerms =
   /\b(earnings call|buy now|sell now|best stocks?|top stocks?|double down|double a position|without (any )?hesitation|could soar|millionaire|secret stock|strong buy)\b/i;
 const conflictNewsTerms =
-  /\b(ukraine|ukrainian|russia|russian|drone strike|missile|battlefield|military attack|war in ukraine)\b/i;
+  /\b(ukraine|ukrainian|russia|russian|gaza|hamas|hezbollah|drone strike|airstrike|air strike|missile attack|military attack|battlefield|invasion|bombing|troop deployment|war in ukraine|israel.{0,20}(war|attack|strike)|iran.{0,20}(war|attack|strike|missile))\b/i;
 const feedItems = (
   await Promise.all(feedResponses.map(async (response) => parseFeed(await response.text())))
 )
