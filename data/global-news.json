@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-07-25T17:38:50.560Z",
+  "updatedAt": "2026-07-25T18:35:33.325Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "704c294987f10035",
+      "title": "PG&E (PCG) Earnings Beat Raises The Question Of Whether Its Valuation Is Fully Valued",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDZqcC1OMGtMWDBRU1I2NDdDZW5fVVVsVzRKVkttSDYtbXREYkhNRWdSa1h0eHdaaUh2MUEtNXROSDV0dEhOajhRTWRrT0ptWGxSSFpZb0VYX0xRU3FvLXZzMF9YcXpUcmwwN0FhNDhNN0JYV1VzTzFTTzZCX3BFWnR5Y1FiTHk2b1pVZnZxbDg?oc=5",
+      "publishedAt": "2026-07-25T18:09:13.000Z",
+      "titleKa": "PG&E (PCG)-ის მოგება აღემატება მოლოდინებს, რაც კითხვას აჩენს მისი შეფასების სრულყოფილებაზე",
+      "summaryKa": "PG&E-ის მოგება მოლოდინებს აღემატება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e3df2d7261bf019e",
+      "title": "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Right Now.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT0x3NzZZVkZPU3M2Rm1YLVQ4UW0xTVgyaXFxOG1sRFpRcFJaYWlGS3BFejBsQkpfTVI1SFpMbmNxYkQ1U0dZTzcyTkN3VVgtZmlvR2xTUjhnME1IbGlJQXpZa1Y3c1pQYnBnWDdZempzaS1pTEhGbWp3WUo1VmtrTXFqM2k0YTB4blhNVVUyZjl0Z2lUVUVnS0UzOVNHaDA?oc=5",
+      "publishedAt": "2026-07-25T17:31:00.000Z",
+      "titleKa": "გქონდეთ $100? 1 ხელოვნური ინტელექტის (AI) მეხსიერების ETF, რომელიც ახლა უნდა შეიძინოთ.",
+      "summaryKa": "არსებობს 1 ხელოვნური ინტელექტის მეხსიერების ETF, რომელიც რეკომენდირებულია შესყიდვისთვის.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "d6381dce2a12226d",
       "title": "Fortuna Mining (TSX:FVI) Sets Earnings Date, Is The Stock Still Cheap?",
@@ -26,6 +48,17 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "f6acdf9e723c7f5a",
+      "title": "MARA CEO Says Bitcoin's Payments Use Case Has 'Seen Its Day Go By' As Miners Chase AI Money",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTBOMDkwMTBlZDhJYXFYcERLOWp2RjJKMExyUjB1czNJUGNjeFFROEc1N3VmU3FObWd4MjdPd050TUlqRGFFMElyUklJMHFHLW9lQVpaOGgyUmFtTXU5dEd0MnZ6UjZMS3FGTlV4bG9rN2Y5cTA4dGR2eWVrVGJOR0dnRER5dDdpamVxcWkzMFVCc2R6SEJ2VlhDcW4?oc=5",
+      "publishedAt": "2026-07-25T16:36:36.000Z",
+      "titleKa": "MARA-ის CEO ამბობს, რომ ბიტკოინის გადახდის გამოყენების შემთხვევა 'გადაიარა', რადგან მეშახტეები AI-ის ფულს ეძებენ",
+      "summaryKa": "MARA-ის CEO აცხადებს, რომ ბიტკოინის გადახდის გამოყენების შემთხვევა დასრულდა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "79e8d20e8dda4716",
       "title": "Meta Stock Is Down Nearly 10% in 2026. Should You Buy Before July 29 Q2 Earnings?",
       "source": "Yahoo Finance",
@@ -45,6 +78,17 @@
       "titleKa": "მოსაზრება: დაივიწყეთ Nvidia. ეს 5 S&P 500-ის აქცია აქტიურად ინვესტირებს AI-ში.",
       "summaryKa": "5 S&P 500-ის აქცია აქტიურად ინვესტირებს AI-ში.",
       "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "298c58e0e3f86a3b",
+      "title": "Is an Oil & Gas ETF or a Solar Stock Fund the Better Buy in 2026?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVGh1a2hnWk1IdlBkdHBNS01tU1hNbm9yTEdTczVmZUViOEJiSU1TVndEYmZLTWgyZzEwb2NGWURmTXBWd21nQm9TYXllaXRXNVJPa3FrWkx4UXA2Nms0b2ZNVFlreUUyOFV3NVFTZWhYTjZMRlNFcHk4RUZNOHJfdEpYUmVBZm8?oc=5",
+      "publishedAt": "2026-07-25T16:23:09.000Z",
+      "titleKa": "არის თუ არა ნავთობისა და გაზის ETF ან მზის აქციების ფონდი უკეთესი შესყიდვა 2026 წელს?",
+      "summaryKa": "შეიძლება, რომ ნავთობისა და გაზის ETF ან მზის აქციების ფონდი იყოს უკეთესი შესყიდვა 2026 წელს.",
+      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -180,6 +224,17 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "3e84ae88d631f208",
+      "title": "Galaxy Research Head Says Bitcoin Is A 'Veblen Good' — The Firm's Own Desk Is 50/50 On The Bottom",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmRzc2JlZHhGQ0t1ZTljODZPZkt3U1ZZeGF6V2NQdlBneWd6b1lHVW9KbzB5bkRUczNkeDJtZEFNcHhmb1JaSkRLTFhlRW5ZSHNmbXhMb2dIdHhSUE5rRl9QVGN0dTZJQ3J6RGVpR3N2OHBnZHFZSmZRNzdUUzk3UnF1cjh5NjN1Q05NQnhYcTlZWTNqa201allZUkRVdjQ?oc=5",
+      "publishedAt": "2026-07-25T14:28:44.000Z",
+      "titleKa": "Galaxy Research-ის ხელმძღვანელი ამბობს, რომ ბიტკოინი არის 'ვებლენის პროდუქტი' — კომპანიის საკუთარი მაგიდა 50/50 არის ფსონის ქვედა ნაწილზე",
+      "summaryKa": "Galaxy Research-ის ხელმძღვანელი აცხადებს, რომ ბიტკოინი არის 'ვებლენის პროდუქტი'.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "a850ac7dad3cdaab",
       "title": "Should You Buy Bloom Energy Before July 28 Earnings After Its 40% 1-Month Decline?",
       "source": "Yahoo Finance",
@@ -232,6 +287,17 @@
       "titleKa": "Volkswagen (XTRA:VOW3) შესაძლოა 35%-ით undervalued იყოს სუსტი მოგების შემდეგ",
       "summaryKa": "Volkswagen-ის მოგება სუსტი იყო, რაც შესაძლოა მისი შეფასება 35%-ით დააკლოს.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c8f3802bc1f1fc28",
+      "title": "Binance Data Shows How Crypto is Using AI Stocks to Attract Gen Z Investors",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNV81YVI4Y21NaTBnYzlZU0FCQnhQRWo5V3RTcGJPYzgtd3ZwTnhpdTVRMkFUci1oSzhMNVJrZ0lSaHFXYTNoQW9nWDRCbXV5azdjME05VV9xT29zdmtDVjJEWGMyN3dpS3NhQzhUZGN6Wk5MM3hiUG1mSjMxTy1sazcyR2d0VXc1d2FVQjJXNVRmY0tJSkFDd2RrTGU?oc=5",
+      "publishedAt": "2026-07-25T13:19:09.000Z",
+      "titleKa": "Binance-ის მონაცემები აჩვენებს, როგორ იყენებს კრიპტო AI-ის აქციებს Gen Z ინვესტორების მოსაზიდად",
+      "summaryKa": "Binance-ის მონაცემები აჩვენებს, რომ კრიპტო AI-ის აქციებს იყენებს Gen Z ინვესტორების მოსაზიდად.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
