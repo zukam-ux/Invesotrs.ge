@@ -137,9 +137,7 @@ let catalogPromise;
       try {
         const assets = await loadCatalog();
         if (current !== request) return;
-        const ranked = rankAssets(assets, query, 40);
-        const exactSecuritySymbols = new Set(ranked.filter(asset => asset.type === "security" && asset.symbol.toLowerCase() === query).map(asset => asset.symbol.toLowerCase()));
-        const matches = ranked.filter(asset => !(asset.type === "crypto" && exactSecuritySymbols.has(asset.symbol.toLowerCase()))).slice(0, 10);
+        const matches = rankAssets(assets, query, 10);
         results.innerHTML = matches.length
           ? matches.map(renderResult).join("")
           : `<div class="asset-search-state">„${escapeHtml(input.value.trim())}“ ვერ მოიძებნა</div>`;
