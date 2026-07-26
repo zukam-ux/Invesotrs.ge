@@ -148,6 +148,9 @@ refreshLiveQuotes();
 function escapeNews(value=""){
   return String(value).replace(/[&<>"']/g,char=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]));
 }
+function newsArticleUrl(article){
+  return `/news/${encodeURIComponent(article.id)}`;
+}
 function relativeNewsTimeText(value){
   const hours=Math.max(0,Math.floor((Date.now()-new Date(value).getTime())/36e5));
   if(hours<1)return "გამოქვეყნდა ბოლო საათში";
@@ -310,7 +313,7 @@ function renderEditorialHome(target,articles){
   target.innerHTML=`
     <article class="editorial-lead">
       ${editorialMedia(lead,true)}
-      <a class="editorial-story-link" href="${escapeNews(lead.url)}" target="_blank" rel="noopener">
+      <a class="editorial-story-link" href="${newsArticleUrl(lead)}">
       <span class="editorial-lead-body">
         <span class="editorial-label">მთავარი ამბავი</span>
         ${editorialIdentity(leadIdentity,lead)}
@@ -324,7 +327,7 @@ function renderEditorialHome(target,articles){
       const identity=identifyNewsAsset(article);
       return `<article class="editorial-feature">
         ${editorialMedia(article)}
-        <a class="editorial-story-link" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
+        <a class="editorial-story-link" href="${newsArticleUrl(article)}">
         <span class="editorial-feature-body">
           ${editorialIdentity(identity,article)}
           <h3>${escapeNews(headlineFor(article))}</h3>
@@ -338,7 +341,7 @@ function renderEditorialHome(target,articles){
       <div class="editorial-rail-list">
         ${rail.map(article=>{
           const identity=identifyNewsAsset(article);
-          return `<a class="editorial-row" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
+          return `<a class="editorial-row" href="${newsArticleUrl(article)}">
             <i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i>
             <span><h4>${escapeNews(headlineFor(article))} ${newsQuoteBadge(identity)}</h4><small>${escapeNews(article.source)} · ${relativeNewsTime(article.publishedAt)}</small></span>
           </a>`;
@@ -368,7 +371,7 @@ async function loadGlobalNews(){
           <p>${escapeNews(summaryFor(thesis))}</p>
           <span class="daily-thesis-meta">${escapeNews(thesis.source)} · ${relativeNewsTime(thesis.publishedAt)} · ${escapeNews(identity.name)} ${translationNote(thesis)}</span>
         </div>
-        <a href="${escapeNews(thesis.url)}" target="_blank" rel="noopener">პირველწყარო ↗</a>`);
+        <span class="daily-thesis-actions"><a href="${newsArticleUrl(thesis)}">წაიკითხე ქართულად →</a><a href="${escapeNews(thesis.url)}" target="_blank" rel="noopener">ორიგინალი წყარო ↗</a></span>`);
     }
     editorialTargets.forEach(target=>renderEditorialHome(target,safeArticles));
     targets.forEach(target=>{
@@ -382,11 +385,11 @@ async function loadGlobalNews(){
         target.innerHTML=articles.length?articles.map(article=>{
           const identity=identifyNewsAsset(article);
           return `
-          <a class="auto-news-card" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
+          <a class="auto-news-card" href="${newsArticleUrl(article)}">
             <span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)} ${newsQuoteBadge(identity)}</b><small>${relativeNewsTime(article.publishedAt)} · ${escapeNews(article.source)} · ${escapeNews(newsSectionLabel(article))}</small></span></span>
             <h3>${escapeNews(headlineFor(article))}</h3>
             <p>${escapeNews(summaryFor(article))}</p>
-            <span class="meta">პირველწყარო ↗</span>
+            <span class="meta">წაიკითხე ქართულად →</span>
           </a>`}).join(""):'<div class="news-status">პირველი ავტომატური განახლება მზადდება. გლობალური ამბები საათში ერთხელ განახლდება.</div>';
         if(visibleCount<allArticles.length){
           const more=document.createElement("button");
@@ -411,7 +414,7 @@ async function loadGlobalNews(){
       const leadIdentity=identifyNewsAsset(lead);
       const identityMarkup=identity=>`<span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)} ${newsQuoteBadge(identity)}</b><small>${escapeNews(lead.category)}</small></span></span>`;
       target.innerHTML=`
-        <a class="top-story-lead" data-symbol="${escapeNews(leadIdentity.symbol)}" href="${escapeNews(lead.url)}" target="_blank" rel="noopener">
+        <a class="top-story-lead" data-symbol="${escapeNews(leadIdentity.symbol)}" href="${newsArticleUrl(lead)}">
           <div class="top-story-kicker"><span class="live-label"><span class="live-dot"></span> მთავარი ამბავი</span><span>განახლდება ყოველ საათში</span></div>
           ${identityMarkup(leadIdentity)}
           <h2>${escapeNews(headlineFor(lead))}</h2>
@@ -422,7 +425,7 @@ async function loadGlobalNews(){
           <div class="top-story-list-head"><h3>მთავარი ამბები</h3><a href="news.html">ყველა ამბავი →</a></div>
           ${articles.slice(1).map(article=>{
             const identity=identifyNewsAsset(article);
-            return `<a class="top-story-row" href="${escapeNews(article.url)}" target="_blank" rel="noopener">
+            return `<a class="top-story-row" href="${newsArticleUrl(article)}">
               <i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i>
               <span><h4>${escapeNews(headlineFor(article))} ${newsQuoteBadge(identity)}</h4><small>${escapeNews(identity.symbol)} · ${escapeNews(article.source)} · ${relativeNewsTime(article.publishedAt)}</small></span>
             </a>`;

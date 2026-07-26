@@ -15,7 +15,8 @@
 		"binding": "ASSETS",
 		"run_worker_first": [
 			"/api/*",
-			"/data/global-news.json"
+			"/data/global-news.json",
+			"/news/*"
 		]
 	},
 	"routes": [

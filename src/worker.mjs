@@ -1,4 +1,8 @@
 import { createHash } from "node:crypto";
+import {
+  renderNewsArticlePage,
+  renderNewsNotFoundPage,
+} from "./news-page.mjs";
 
 const NEWS_FEEDS = [
   {
@@ -410,6 +414,52 @@ async function serveNews(env) {
   );
 }
 
+async function serveNewsArticle(request, env, articleId) {
+  const article = await env.DB.prepare(
+    `SELECT id, title, title_ka, summary_ka, source, url,
+            published_at, category, translation_notice
+     FROM articles
+     WHERE id = ?
+       AND source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch')
+     LIMIT 1`,
+  )
+    .bind(articleId)
+    .first();
+  const isBlocked =
+    !article ||
+    conflictNewsTerms.test(
+      `${article?.title || ""} ${article?.title_ka || ""} ${article?.summary_ka || ""}`,
+    );
+  if (isBlocked) {
+    return new Response(renderNewsNotFoundPage(request.url), {
+      status: 404,
+      headers: {
+        "content-type": "text/html; charset=utf-8",
+        "cache-control": "public, max-age=60, s-maxage=300",
+        "x-content-type-options": "nosniff",
+      },
+    });
+  }
+  const related = await env.DB.prepare(
+    `SELECT id, title, title_ka, summary_ka, source, url, published_at, category
+     FROM articles
+     WHERE id != ?
+       AND category = ?
+       AND source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch')
+     ORDER BY published_at DESC
+     LIMIT 3`,
+  )
+    .bind(article.id, article.category || "")
+    .all();
+  return new Response(renderNewsArticlePage(article, related.results, request.url), {
+    headers: {
+      "content-type": "text/html; charset=utf-8",
+      "cache-control": "public, max-age=60, s-maxage=300, stale-while-revalidate=600",
+      "x-content-type-options": "nosniff",
+    },
+  });
+}
+
 async function fetchYahooCrypto(symbol, id) {
   try {
     const payload = await fetchJson(
@@ -657,6 +707,10 @@ export default {
     if (url.pathname === "/api/market-data") return serveMarketData();
     if (url.pathname === "/api/market-series") return serveMarketSeries(url);
     if (url.pathname === "/api/news-quotes") return serveQuotes(url);
+    const articleMatch = url.pathname.match(/^\/news\/([a-f0-9]{16})\/?$/i);
+    if (articleMatch && request.method === "GET") {
+      return serveNewsArticle(request, env, articleMatch[1]);
+    }
     return env.ASSETS.fetch(request);
   },
 
