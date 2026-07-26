@@ -1,16 +1,91 @@
 {
-  "updatedAt": "2026-07-26T21:38:15.161Z",
+  "updatedAt": "2026-07-26T22:41:21.109Z",
   "source": "Google News RSS metadata and original publishers",
-  "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
+  "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
     {
       "id": "5b3e74fbd7f32575",
       "title": "Which Is the Better Investment: Crypto or the Moon?",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
-      "publishedAt": "2026-07-26T21:02:38.000Z",
+      "publishedAt": "2026-07-26T22:32:38.000Z",
       "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
       "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "0ef4a49c72ac5622",
+      "title": "Oil Tumbles as US and Iran Pause Military Strikes: Markets Wrap",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeFZoZW85N1NwZG8tWUUxOVh6ek9aZ1I3NzJydjZtaVU5U0ZOUlk3c0FpM3FpTHF5QzV3SG80MmxpTmZyTHgwdFJVbHJiWnQtUXY5QTBKOVQwWXJNS1pJNlJwdVg1TkcwRzlIUHlaV2lpWnJEZGlSRm1ydnFsODYxLUJhYzRlSndwQzVDWktOOEJkUDE4M2Jsbmw5ZGljUjgxN0FCT2dMSDcxaEZhNG5IbVFpRQ?oc=5",
+      "publishedAt": "2026-07-26T22:09:05.000Z",
+      "titleKa": "ნავთობი ვარდება აშშ-ისა და ირანის სამხედრო თავდასხმების შეჩერების ფონზე: ბაზრების მიმოხილვა",
+      "summaryKa": "აშშ და ირანი სამხედრო თავდასხმებს აჩერებენ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-26/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap",
+      "bodyKa": "## ნავთობის ფასების ვარდნა\n\nამერიკის შეერთებული შტატების და ირანის სამხედრო თავდასხმების შეჩერების ფონზე, ნავთობის ფასები მნიშვნელოვნად დაეცა. ეს ცვლილება ბაზრებზე ნავთობის მიწოდების უსაფრთხოების გაუმჯობესების მოლოდინით არის გამოწვეული, რაც ხელს უწყობს ბაზრის სტაბილიზაციას.\n\n## სამხედრო თავდასხმების შეჩერება\n\nაშშ-ის მიერ ირანის წინააღმდეგ სამხედრო ოპერაციების შეჩერება, რაც უკვე მეორე ღამეა, რომ ხდება, მნიშვნელოვნად ამცირებს დაძაბულობას რეგიონში. ეს ფაქტი დადებითად მოქმედებს ბაზრებზე, რადგან ინვესტორები იმედოვნებენ, რომ ნავთობის მიწოდება არ იქნება შეწყვეტილი.\n\n## ბაზრების რეაქცია\n\nნავთობის ფასების ვარდნა და აშშ-ის საფონდო ბაზრების ზრდა ერთმანეთთან კავშირშია. ინვესტორები, რომლებიც თავდაპირველად ნავთობის ფასების ზრდას ელოდნენ, ახლა უფრო ოპტიმისტურად უყურებენ ბაზრის მდგომარეობას. ბაზრის რეაქცია აჩვენებს, რომ სამხედრო დაძაბულობის შემცირება დადებითად მოქმედებს ეკონომიკურ პროგნოზებზე.\n\n## ეკონომიკური გავლენა\n\nნავთობის ფასების ვარდნა და სამხედრო დაძაბულობის შემცირება შეიძლება დადებითად იმოქმედოს მსოფლიო ეკონომიკაზე, განსაკუთრებით იმ ქვეყნებზე, რომლებიც დამოკიდებულნი არიან ნავთობის ექსპორტზე. ეს ცვლილებები ასევე შეიძლება გამოიწვიოს ფასების სტაბილიზაცია და ინფლაციის შემცირება.\n\n## დასკვნა\n\nამერიკის შეერთებული შტატების და ირანის სამხედრო თავდასხმების შეჩერება ბაზრებზე დადებითად აისახება, რაც ნავთობის ფასების ვარდნას და საფონდო ბაზრების ზრდას იწვევს. ინვესტორები ახლა უფრო ოპტიმისტურად უყურებენ მომავალს, რაც შეიძლება დადებითად იმოქმედოს მსოფლიო ეკონომიკის განვითარებაზე.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "1f1c6a91f0844fb1",
+      "title": "Softer Q2 Earnings and Bigger Buyback Might Change The Case For Investing In Las Vegas Sands (LVS)",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMXRLV0xCNFJkZEdrMk85TzRqWXluT0ZZWTNITnUyR1lGS0pORHd4dXlDdWpKM3A5dUs2cVh4aGFZN0htX1JlZzFMWWQzV0tvejVPcVhCSTBfZmVfY2doZjRmVFEtX0N6bDJ6c1hUejgyX2k2UHlkM2JubjZWcGtJSklZTTJOLWhfSDV0QnNScXNsM3VPZlVOOXlnS3R2Q1E?oc=5",
+      "publishedAt": "2026-07-26T22:07:01.000Z",
+      "titleKa": "მცირე Q2 მოგება და დიდი დაბრუნება შესაძლოა Las Vegas Sands-ის (LVS) ინვესტირების შემთხვევა შეცვალოს",
+      "summaryKa": "Las Vegas Sands-ის Q2 მოგება შემცირდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/softer-q2-earnings-bigger-buyback-220701810.html",
+      "bodyKa": "## Las Vegas Sands-ის Q2 შედეგები\n\nLas Vegas Sands Corp.-მა გამოაცხადა 2026 წლის მეორე კვარტლის ფინანსური შედეგები, რომლებიც აჩვენებს, რომ კომპანიის გაყიდვები შემცირდა 2,986 მილიონ აშშ დოლარამდე, ხოლო შემოსავალი 3,154 მილიონ აშშ დოლარამდე. წმინდა მოგება შეადგენს 346 მილიონ აშშ დოლარს, რაც თითოეული აქციის მოგებას (EPS) 0.53 აშშ დოლარად აქცევს. ეს მაჩვენებლები წინა წლის შედეგებზე დაბალია.\n\n## აქციების დაბრუნება და დივიდენდები\n\nკომპანია ასევე დაასრულა მრავალწლიანი აქციების დაბრუნების პროგრამა, რომლის ფარგლებში 158,115,704 აქცია შეიძინა დაახლოებით 8.07 მილიარდ აშშ დოლარად. დარჩენილი დაბრუნების ავტორიზაცია გაიზარდა 6,000 მილიონ აშშ დოლარამდე 2029 წლამდე, ხოლო კვარტალური დივიდენდები 0.30 აშშ დოლარი თითო აქციაზე შენარჩუნდა. ეს ნაბიჯები მიუთითებს იმაზე, რომ Las Vegas Sands კვლავაც აქცევს ყურადღებას აქციონერებისათვის თანხის დაბრუნებაზე, მიუხედავად იმისა, რომ ინვესტიციები მიმდინარეობს მაკაოსა და სინგაპურში.\n\n## მოგების შემცირება და ინვესტირების პერსპექტივები\n\nLas Vegas Sands-ის მეორე კვარტლის სუსტი მოგება და გაფართოებული 6,000 მილიონ აშშ დოლარის დაბრუნების ავტორიზაცია შეიძლება შეცვალოს კომპანიის ინვესტირების ნარატივი. ინვესტორებმა უნდა გაითვალისწინონ, რომ კომპანიის მაკაოსა და სინგაპურის კურორტები უნდა გააგრძელონ მაღალი კლასის მოგზაურების მოზიდვა და სტაბილური თანხების გენერაცია, მიუხედავად იმისა, რომ კაპიტალური ხარჯები მაღალი რჩება. \n\n## რისკები და გამოწვევები\n\nმიუხედავად იმისა, რომ აქციების დაბრუნება და დივიდენდები მნიშვნელოვანია, ინვესტორებმა უნდა იცოდნენ, რომ მზარდი სამუშაო ძალისა და რემონტის ხარჯები შეიძლება კვლავაც დააწვინოს მარჟები და თანხების ნაკადები. Las Vegas Sands-ის პროგნოზები 2029 წლისთვის 15.6 მილიარდ აშშ დოლარის შემოსავალსა და 2.5 მილიარდ აშშ დოლარიან მოგებას მოიცავს, რაც მოითხოვს 4.4%-იან წლიურ ზრდას.\n\n## დასკვნა\n\nLas Vegas Sands-ის ფინანსური შედეგები და ინვესტირების პერსპექტივები აჩვენებს, რომ კომპანიას სჭირდება სტრატეგიული მიდგომა, რათა გაუმკლავდეს მიმდინარე გამოწვევებს და შეინარჩუნოს ზრდა. ინვესტორებმა უნდა გააანალიზონ არსებული მონაცემები და გააკეთონ საკუთარი დასკვნები, სანამ გადაწყვეტილებებს მიიღებენ.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "1dbe142316a28663",
+      "title": "Oil Slumps at Week’s Open as Washington and Tehran Pause Attacks",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ0RWX1NpeG5TU2tYWWctTGZZSjJPNU83Z0xBblpRZHZuQnZRTlRGSWxuWHd6VUJ0bmlrS1Z0Rnc3dG11ODU2OWh0dVpybUlGZkI0MHJ5OUthdy10QmtJN0ctY3NFWXFTQng1dVlsNWhpeUNqSThPTnlHd240RzFWZ0lMLVZHZEJtcGwzNEgxY0VfTWNCVHBaZWxSQ1NqWUk?oc=5",
+      "publishedAt": "2026-07-26T22:02:41.000Z",
+      "titleKa": "ნავთობი კვირის დაწყებისას ვარდება, რადგან ვაშინგტონი და თეირანი თავდასხმებს აჩერებენ",
+      "summaryKa": "ვაშინგტონი და თეირანი თავდასხმებს აჩერებენ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-26/latest-oil-market-news-and-analysis-for-july-27",
+      "bodyKa": "## ნავთობის ფასების ვარდნა\n\nამ კვირის დასაწყისში ნავთობის ფასები მნიშვნელოვნად დაეცა, რაც გამოწვეულია აშშ-ის მიერ ირანის წინააღმდეგ თავდასხმების შეჩერებით. ეს გადაწყვეტილება ხელს უწყობს ენერგეტიკული მიწოდების რისკების შემცირებას ახლო აღმოსავლეთში, რაც ბაზარზე დადებითად აისახება.\n\n## რეგიონული დაძაბულობის შემცირება\n\nბოლო პერიოდში რეგიონში არსებული დაძაბულობა, რომელიც ირანისა და აშშ-ის შორის კონფლიქტით იყო გამოწვეული, ახლა შემცირებულია. აშშ-ის გადაწყვეტილება თავდასხმების შეჩერების შესახებ, როგორც ჩანს, დადებითად მოქმედებს ნავთობის ბაზარზე, რაც ფასების ვარდნას იწვევს.\n\n## ჰუთების თავდასხმები\n\nთუმცა, მიუხედავად აშშ-ის გადაწყვეტილებისა, ჰუთების ჯგუფმა განაცხადა, რომ ისინი კვლავ განაგრძობენ თავდასხმებს საუდის არაბეთის მიზნების წინააღმდეგ. ეს ფაქტი შესაძლოა მომავალში კვლავ გააღვივოს დაძაბულობა რეგიონში, თუმცა ამჟამად ბაზარი ამ ინფორმაციას ნაკლებად რეაგირებს.\n\n## ბაზრის რეაქცია\n\nნავთობის ფასების ვარდნა, რომელიც კვირის დასაწყისში შეინიშნება, შესაძლოა იყოს დროებითი. ბაზრის მონაწილეები ყურადღებით აკვირდებიან მოვლენების განვითარებას და იმაზე, თუ როგორ იმოქმედებს ეს გადაწყვეტილება ენერგეტიკული ბაზრის სტაბილურობაზე.\n\n## დასკვნა\n\nამჟამად, ნავთობის ბაზარი აშშ-ის და ირანის შორის მიმდინარე მოვლენების ფონზე ვითარდება. ფასების ვარდნა შესაძლოა იყოს ნიშანი იმისა, რომ ბაზარი უფრო სტაბილური ხდება, თუმცა რეგიონში არსებული დაძაბულობა კვლავ აქტუალურია.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "6c758c1699af1e9a",
+      "title": "Kioxia Faces More Volatility as Leveraged ETFs Hit Japan Stocks",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaVF0LWRBNFBGZVpiemlIWTh5NHJOS1VVMjA0NklIc3B0NzEzT2RCQV84a1dJdzJMWEs2LTFmd1EzNjJKcWdleVdaWmZmV1BTa29pdTNXd2xUcGhuMk4xbXNGSmtwMHlmaUpwSkZ1MUxIM2FCTFdBUjZqY1Y5WTNOc1g2V3UtTlluMXNVZUNDc1J0dTZDUjdncGNfblJCOW5MX25IbjJFNTlKZzFhUEhaS1IwVms?oc=5",
+      "publishedAt": "2026-07-26T21:00:00.000Z",
+      "titleKa": "Kioxia-ს მეტი ვოლატილობა ელოდება, რადგან ლევერაჟული ETF-ები იაპონურ აქციებს აზარალებს",
+      "summaryKa": "Kioxia-ს აქციები ლევერაჟული ETF-ების გავლენის ქვეშაა.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "502c8608b6953af5",
+      "title": "Marvell Technology vs. UiPath: What Do the Quarterly Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGh5OXZuaHY4YzVidDg3RXFHY0MyVzRlc3hOU0NNdVNQeHhRYUV4ZkpVQUV3dkxfUUowa0xhLTZqTkdQVDRoekRPcFZFQUh3T0F0VEljU3hQYm9YZnNxUHFOODk4SXI2eXFQWVZILUFYbF9Zbl8wbXN2S25zaGkyNWh6c1hfVzV2UHhDaTYxSXRIYUdtOVZpY0twSTkzbjA2R2htSVh3?oc=5",
+      "publishedAt": "2026-07-26T20:58:01.000Z",
+      "titleKa": "Marvell Technology vs. UiPath: რა ინფორმაციას გვაწვდიან ამ ხელოვნური ინტელექტის კომპანიების კვარტალური შემოსავლების ტენდენციები ინვესტორებისთვის?",
+      "summaryKa": "Marvell Technology და UiPath კვარტალური შემოსავლების ტენდენციებზე საუბრობენ.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e1a15b20c500b986",
+      "title": "Analysts See Bitcoin at $200,000 on CLARITY Act Passage, But 7 Roadblocks Remain",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWx0dGkyTXpPRzVQMmpZSEkzZk1XajF2VzVsYV9GVzJOQ3ZBLThsSC1Ob244ZFJhb3hNY19jaUlnUXFBdTBwek9TU2NCbmNyejdDZVV4QkhaSUo1X2hKdTkyZF92QWZiRjRJYVpya1g2S05rbXlvMlN0TUxCZzItLUVrZnNBZFVaa1U3ZHJwbVRRTDR6Z0V0RQ?oc=5",
+      "publishedAt": "2026-07-26T20:42:58.000Z",
+      "titleKa": "ანალიტიკოსები ხედავენ Bitcoin-ის ფასს $200,000 CLARITY აქტის მიღების შემთხვევაში, მაგრამ 7 დაბრკოლება რჩება",
+      "summaryKa": "ანალიტიკოსები Bitcoin-ის ფასს $200,000 პროგნოზირებენ.",
       "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -23,7 +98,10 @@
       "titleKa": "რომელი გრძელვადიანი სახელმწიფო ობლიგაციების ETF არის უკეთესი, Schwab-ის SCHQ თუ iShares-ის TLT?",
       "summaryKa": "Schwab-ის SCHQ და iShares-ის TLT გრძელვადიანი სახელმწიფო ობლიგაციების ETF-ებია.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/options/articles/long-term-treasury-etf-better-202101921.html",
+      "bodyKa": "## გრძელვადიანი სახელმწიფო ობლიგაციების ETF-ების შედარება\n\nSchwab-ის Long-Term U.S. Treasury ETF (NYSEMKT:SCHQ) და iShares-ის 20+ Year Treasury Bond ETF (NASDAQ:TLT) ორი პოპულარული გრძელვადიანი სახელმწიფო ობლიგაციების ETF-ია, რომლებიც მსგავს ექსპოზიციას სთავაზობენ ინვესტორებს. თუმცა, Schwab-ის ფონდი მნიშვნელოვნად უფრო დაბალი ხარჯების პროფილით გამოირჩევა, რაც მას ხანგრძლივი ვადით ინვესტირების მსურველთათვის უფრო მიმზიდველს ხდის.\n\n## ხარჯების და შემოსავლის შედარება\n\nSchwab-ის ფონდის ხარჯების თანაფარდობა 0.12 პროცენტული პუნქტით დაბალია iShares-ის ფონდისგან. გარდა ამისა, Schwab-ის ფონდი ოდნავ უფრო მაღალ შემოსავალს სთავაზობს, რაც 0.17 პროცენტული პუნქტით მეტია iShares-ის ფონდისგან. ეს ფაქტორები მნიშვნელოვან როლს თამაშობს ინვესტორების არჩევანში, განსაკუთრებით იმ შემთხვევაში, როდესაც ისინი გრძელვადიანი ინვესტიციების გაკეთებას გეგმავენ.\n\n## ფონდის სტრუქტურა და აქტივები\n\nSchwab-ის Long-Term U.S. Treasury ETF 100%-ით აშშ-ის სახელმწიფო ობლიგაციებზეა ორიენტირებული, რომლებიც გრძელვადიან ვადებზეა გათვლილი. ფონდი 100 სხვადასხვა ობლიგაციას მოიცავს, რაც ფართო ექსპოზიციას უზრუნველყოფს. მისი უმსხვილესი აქტივები მოიცავს Treasury Bond 4.75% 02/15/2056 და Treasury Bond 4.75% 05/15/2055, ორივე 2.20%-იანი შემოსავლით.\n\niShares-ის 20+ Year Treasury Bond ETF ასევე 100%-ით აშშ-ის სახელმწიფო ობლიგაციებზეა დაფუძნებული, თუმცა უფრო კონცენტრირებული პორტფელის მეშვეობით, რომელიც 48 აქტივს მოიცავს. მისი უმსხვილესი აქტივები მოიცავს Treasury Bond 4.13% 08/15/2053, Treasury Bond 4.75% 11/15/2053 და Treasury Bond 4.75% 05/15/2055.\n\n## სითხე და ვაჭრობის მოცულობა\n\niShares-ის ფონდი გამოირჩევა უფრო მაღალი სითხით, რაც მას უფრო პოპულარულს ხდის ინსტიტუციონალური ინვესტორების შორის. TLT-ის საშუალო ვაჭრობის მოცულობა 24.6 მილიონია, მაშინ როდესაც SCHQ-ის მხოლოდ ~630,000. ეს ფაქტი მნიშვნელოვანია იმ ინვესტორებისთვის, რომლებიც ოპციების ვაჭრობას გეგმავენ.\n\n## დასკვნა\n\nSchwab-ის Long-Term U.S. Treasury ETF და iShares-ის 20+ Year Treasury Bond ETF ორივე გრძელვადიანი სახელმწიფო ობლიგაციების ინვესტირების შესაძლებლობას სთავაზობს, თუმცა მათი არჩევანი დამოკიდებულია რამდენიმე ფაქტორზე, მათ შორის ხარჯების, შემოსავლის და სითხის დონეზე. ინვესტორებმა უნდა გაითვალისწინონ საკუთარი მიზნები და საჭიროებები, რათა სწორად შეარჩიონ მათთვის ყველაზე შესაფერისი ფონდი.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "d974dc11707f20fc",
