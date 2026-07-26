@@ -1,8 +1,41 @@
 {
-  "updatedAt": "2026-07-26T09:00:40.602Z",
+  "updatedAt": "2026-07-26T09:28:39.486Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "c0748327946192fc",
+      "title": "3 High-Yield Dividend Stocks You Won't Regret Doubling Up on Right Now",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGtqS2RDWmxIckdLV1FDaFkycFh4dklNQlFheTUzMHkyT2hhUndzeFp6V05QSGxjRDd2QzdPU08xYVFJMW14eHBiZUZXWFBybzFBZE8zY3FXQmZWd2luQkFaOGxpS1JXUHlPY2NRc2FXSWd4OS1WM3RLOEFHcTRFYUFrSVpseExZNjhKZ2ZiT2M3VkUzQVpuZw?oc=5",
+      "publishedAt": "2026-07-26T09:00:00.000Z",
+      "titleKa": "3 მაღალი შემოსავლის დივიდენდური აქცია, რომელთა გაორმაგებასაც არ ინანებთ ახლა",
+      "summaryKa": "ამ სტატიაში განხილულია სამი მაღალი შემოსავლის დივიდენდური აქცია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "89430c42185195bc",
+      "title": "Here's Why I'm Buying Bitcoin Right Now",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeU1JWjRXQjE5T2VDNTUwcDFKU1VVNWNwY202UVh2aklrRUZCbGU4R3Z0WVg1U2ZLTnItcGdIZ0FrVnZHckdod25yVzlsVE1aQ1M2ZEpBR2wydG5ONnhsRWN4czVWMWpBMVR5Ukd5dG1aUzhuTGNEZ2stSnVEem01dHNiSEUyM3ZzeEZnbUdTakVrbG5STUtV?oc=5",
+      "publishedAt": "2026-07-26T08:50:00.000Z",
+      "titleKa": "ეს არის მიზეზი, რის გამოც ახლა ბიტკოინს ვყიდულობ",
+      "summaryKa": "სტატია ეხება ავტორის გადაწყვეტილებას ბიტკოინის შეძენის შესახებ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7211d874d0fcbfda",
+      "title": "President Donald Trump Insists, \"I Love the Inflation,\" but He May Soon Be Eating Those Words",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1RkQW95c05CeVRfY3hoQjJsUjZuQW41ZUpVTW5XMkxWdXFaM3JIaGRCRkpNV2FGVm9ITkk5N0NLUjEtYmtQblNEdjRrbmxlTmhoaWNvZ3hIaE1zWU5rQWkwQUdMc1ltTmxLaXM5WFEyRkJuTzdTX0xzdG4xY2lMc0tsc1FhREx0SnExbzQ3a3U5NE5PTnVHTGpIQklIU2NmYmc?oc=5",
+      "publishedAt": "2026-07-26T08:26:00.000Z",
+      "titleKa": "პრეზიდენტი დონალდ ტრამპი Insists, \"მიყვარს ინფლაცია,\" მაგრამ შესაძლოა მალე ეს სიტყვები შეჭამოს",
+      "summaryKa": "პრეზიდენტი დონალდ ტრამპი აცხადებს, რომ მას ინფლაცია მოსწონს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "7a5deaf9340fde72",
       "title": "3 Top Dividend Stocks Yielding 4.3% or More to Buy Right Now for Passive Income",
