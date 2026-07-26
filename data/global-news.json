@@ -1,8 +1,52 @@
 {
-  "updatedAt": "2026-07-26T09:28:39.486Z",
+  "updatedAt": "2026-07-26T10:24:15.506Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "78e97af09e23a896",
+      "title": "Preferred Bank (PFBC) Stock May Be Cheap After Strong Q2 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbGgteEdnRnRsNG41ZU1nRjBLMEJXQVhURFZQQ2xVMVBDajhfeFlIbTNaektlQlVCZHFUcnEyVVppMGhjRFI5ZGM2aHpaWUdBbzdFSThldVN1ZjNBazhodWh0ZEZhZW1PVkFrX0hNMGtYYTlkb0ZZN2tVYUhHX0NkenlkRUZUb0tJMGd0V0R3YXBQOWxhMzdjWXhn?oc=5",
+      "publishedAt": "2026-07-26T10:09:46.000Z",
+      "titleKa": "Preferred Bank (PFBC) აქციები შესაძლოა იაფი იყოს ძლიერი Q2 მოგების შემდეგ",
+      "summaryKa": "Preferred Bank (PFBC) აქციების ფასზე გავლენა მოახდინა ძლიერი Q2 მოგებამ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7fd0258c53027e97",
+      "title": "4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUDFMalpkUVZwNXMwYTBZbGJYUEpRRms4X2dVcmczMkpPZmNfS0RvUzRwSDdCUUtqVWdaWWpHbGVxcmF6Rk9kTVJ3eHlQY0VSeHFrSTlfck9LdkNFX2hqMWRSU0VEbnpHWDk0REpnSGVIdU40NFNXcFZoMC1odW1tUERTYzR2UWJPRTBTSXhGMjE4U1dvbnZsSm16RWVyd3BQY3JYMlNYX1MzYlN3aVY0ek1tZ2daSEpyX3VENkZQNUgtYXY0TFBTSDAyVEdla2pYMTdYOUhKb0VqZ3g5ZWRV?oc=5",
+      "publishedAt": "2026-07-26T10:00:00.000Z",
+      "titleKa": "4 დიდი ტექნოლოგიური კომპანიის მოგების ანგარიშები, ფედერალური შეხვედრა და $100 ნავთობი: კვარტლის ყველაზე დატვირთული კვირა",
+      "summaryKa": "ამ კვირაში გაიმართება 4 დიდი ტექნოლოგიური კომპანიის მოგების ანგარიშები და ფედერალური შეხვედრა.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8e94b8123ee80923",
+      "title": "Should You Buy Sandisk Stock Before It Reports Earnings on Aug. 5?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWRmd0c2NVNQdExpeHA0SGthbVZibzFOZFZnSGdCcFJPTlRtLXZKSzlNQ1c5MHNIWlV6b1NpYXRSNlpvb1psZEpqZVlhSHhnZHRxZWlFM3pqX1ZDeUNHVThIQ1NuclAyRGxIUjNNb0ZMaGVTbHR4dkd1YlYyNG9leldlam1uNGhIYm40aXFjN2E0Q3htQklzUjZhbFlxeEZT?oc=5",
+      "publishedAt": "2026-07-26T09:35:00.000Z",
+      "titleKa": "უნდა იყიდოთ Sandisk-ის აქციები 5 აგვისტოს მოგების ანგარიშამდე?",
+      "summaryKa": "Sandisk-ის მოგების ანგარიში 5 აგვისტოს უნდა გამოქვეყნდეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "85e5e3e67af8569a",
+      "title": "Robert Kiyosaki Shares a Key Revelation on Gold, Bitcoin and Ethereum",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSkVOQXVoT0k2VmZLSExzdV9VTldFbThNUGRzSkFXam4wTks4bmtwODFDM1lGMGU1Z1czU0pnNlltSGNacXFOQXN4eVZ0M0ZxLVhvMkpRc1NuX3dnekl0VVVSeFZkTG9QOXRndGJpV1ZHemJ2M3RYalM3RE8xdC1vam9HdmNtaGFjNkVfdjZ5MklUM2xXNWxkLW9QNGYxRU9TSkUyUw?oc=5",
+      "publishedAt": "2026-07-26T09:30:09.000Z",
+      "titleKa": "რობერტ კიოსაკი ოქროს, ბიტკოინის და ეთერიუმის შესახებ მნიშვნელოვან Revelაციას იზიარებს",
+      "summaryKa": "რობერტ კიოსაკი იზიარებს თავის მოსაზრებებს ოქროს, ბიტკოინის და ეთერიუმის შესახებ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "c0748327946192fc",
       "title": "3 High-Yield Dividend Stocks You Won't Regret Doubling Up on Right Now",
@@ -11,6 +55,17 @@
       "publishedAt": "2026-07-26T09:00:00.000Z",
       "titleKa": "3 მაღალი შემოსავლის დივიდენდური აქცია, რომელთა გაორმაგებასაც არ ინანებთ ახლა",
       "summaryKa": "ამ სტატიაში განხილულია სამი მაღალი შემოსავლის დივიდენდური აქცია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e5da6030779fa0f3",
+      "title": "Oil Near $100 Puts Fed and Peers in Interest-Rate Spotlight",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdkdkJpZUVDUldTSFRTdmlIUmlIQ3Zmb1NtRkEtdXhLUGM4eGpSSlVjb0Z5NXpKOVlPVVBPVjExaUdZQ05nU25vdDBoaUhNLTZpVzJsYTRSUjBZMUpXUVE1VllDSi1tTXllVlVMbGIzNDJvUTY0S1pETnh4NzhZUGMzcDNhQXFubmJxTWg4WEpLMkxrejBWSm0wcUs5M0lYV3BGNGNYMVpBYkN0Y2RuR053?oc=5",
+      "publishedAt": "2026-07-26T08:55:13.000Z",
+      "titleKa": "ნავთობის ფასი $100-ის სიახლოვეს, ფედერალური რეზერვი და სხვა ცენტრალური ბანკები საპროცენტო განაკვეთების ყურადღების ცენტრში",
+      "summaryKa": "ნავთობის ფასი $100-ის სიახლოვეს იმყოფება.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -33,6 +88,17 @@
       "publishedAt": "2026-07-26T08:26:00.000Z",
       "titleKa": "პრეზიდენტი დონალდ ტრამპი Insists, \"მიყვარს ინფლაცია,\" მაგრამ შესაძლოა მალე ეს სიტყვები შეჭამოს",
       "summaryKa": "პრეზიდენტი დონალდ ტრამპი აცხადებს, რომ მას ინფლაცია მოსწონს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f25337b084d5dd5c",
+      "title": "City Holding (CHCO) Reports Earnings And Buyback, Is The Stock Still Cheap?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUQ0Wl85MEFZU1p3d3VlTHdES1ZaTmFpanRrQ2F2Mk8zNnFxOWdfVm1xeEV4TWpiMmdoM2ZUREJ6Y1BpLWlDSWlySGZaMXQ4UmctalpzZ0VONWdsSHlLRU5CV2thSHVyOTBSWlhXZlhFRHdmel91S1NCb3dYM0pTWGdJRFhwQkpLdlRUWXR2cnpubWdiOUpDbi1ESTFGcGFa?oc=5",
+      "publishedAt": "2026-07-26T08:09:14.000Z",
+      "titleKa": "City Holding (CHCO) ანგარიშებს აქვეყნებს და აქციების დაბრუნებას ახორციელებს, არის თუ არა აქციები კვლავ იაფი?",
+      "summaryKa": "City Holding (CHCO) ანგარიშებს აქვეყნებს და აქციების დაბრუნებას ახორციელებს.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -385,17 +451,6 @@
       "publishedAt": "2026-07-25T20:06:07.000Z",
       "titleKa": "Southern (SO) აქცია გამოიყურება სწორად ძლიერი დაბრუნებებით, მაგრამ ძვირადღირებული შემოსავლებით",
       "summaryKa": "Southern-ის აქცია ძლიერი დაბრუნებებით, მაგრამ ძვირადღირებული შემოსავლებით გამოიყურება.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "e5da6030779fa0f3",
-      "title": "Oil Near $100 Puts Fed and Peers in Interest-Rate Spotlight",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdkdkJpZUVDUldTSFRTdmlIUmlIQ3Zmb1NtRkEtdXhLUGM4eGpSSlVjb0Z5NXpKOVlPVVBPVjExaUdZQ05nU25vdDBoaUhNLTZpVzJsYTRSUjBZMUpXUVE1VllDSi1tTXllVlVMbGIzNDJvUTY0S1pETnh4NzhZUGMzcDNhQXFubmJxTWg4WEpLMkxrejBWSm0wcUs5M0lYV3BGNGNYMVpBYkN0Y2RuR053?oc=5",
-      "publishedAt": "2026-07-25T20:00:00.000Z",
-      "titleKa": "ნავთობის ფასი $100-ის სიახლოვეს, ფედერალური რეზერვი და სხვა ცენტრალური ბანკები საპროცენტო განაკვეთების ყურადღების ცენტრში",
-      "summaryKa": "ნავთობის ფასი $100-ის სიახლოვეს იმყოფება.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
