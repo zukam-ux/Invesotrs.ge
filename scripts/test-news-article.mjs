@@ -32,6 +32,8 @@ assert.ok(updater.includes("This is not a translation"));
 assert.ok(updater.includes("Do not add facts"));
 assert.ok(updater.includes("GitHub Models fallback"));
 assert.ok(updater.includes("maxHeaderSize: 128 * 1024"));
+assert.ok(updater.includes("auditOriginalGeorgianArticle"));
+assert.ok(updater.includes("portfolio weight, yield, expense ratio"));
 
 const article = {
   id: "642ddbca2c89f924",

@@ -43,7 +43,7 @@ const geminiApiKey = process.env.GEMINI_API_KEY;
 const FEED_MAX_ATTEMPTS = 4;
 const FEED_TIMEOUT_MS = 12_000;
 const ARTICLE_TIMEOUT_MS = 15_000;
-const ARTICLE_ENRICH_LIMIT = 4;
+const ARTICLE_ENRICH_LIMIT = 2;
 const requestedBackfillId = process.env.ARTICLE_BACKFILL_ID?.trim();
 const publisherAgent = new Agent({ maxHeaderSize: 128 * 1024 });
 
@@ -347,6 +347,8 @@ async function writeOriginalGeorgianArticle(article, sourceText) {
       "Use 3-5 useful Georgian section headings formatted as ## Heading.",
       "Use short readable paragraphs separated by blank lines.",
       "Preserve all company names, ticker symbols, numbers, dates, percentages, and currencies exactly.",
+      "Distinguish portfolio weight, dividend yield, expense ratio, return, drawdown, assets under management, and trading volume. Never relabel one metric as another.",
+      "Cross-check every number against the exact SOURCE_TEXT sentence before returning the article.",
       "Explain specialist terms briefly for a Georgian reader.",
       "Do not add facts, prices, performance figures, causes, forecasts, quotations, or recommendations absent from SOURCE_TEXT.",
       "Do not tell the reader to buy or sell.",
@@ -441,9 +443,58 @@ async function writeOriginalGeorgianArticle(article, sourceText) {
   return bodyKa;
 }
 
+async function auditOriginalGeorgianArticle(article, sourceText, draftBodyKa) {
+  const response = await fetch(
+    "https://models.github.ai/inference/chat/completions",
+    {
+      method: "POST",
+      headers: {
+        authorization: `Bearer ${token}`,
+        "content-type": "application/json",
+      },
+      body: JSON.stringify({
+        model: "openai/gpt-4o-mini",
+        temperature: 0,
+        max_tokens: 3000,
+        response_format: { type: "json_object" },
+        messages: [
+          {
+            role: "system",
+            content:
+              "You are the factual copy editor for a Georgian financial publication. Return valid JSON only with one correctedBodyKa string. Compare every claim and number in the Georgian draft against SOURCE_TEXT. Correct or remove anything unsupported. Pay special attention to the difference between portfolio weight, yield, expense ratio, return, drawdown, assets under management, and trading volume. Preserve Georgian ## headings and never add investment advice.",
+          },
+          {
+            role: "user",
+            content: JSON.stringify({
+              headline: article.title,
+              publisher: article.source,
+              SOURCE_TEXT: sourceText,
+              GEORGIAN_DRAFT: draftBodyKa,
+            }),
+          },
+        ],
+      }),
+    },
+  );
+  if (!response.ok) {
+    throw new Error(`Article factual audit returned ${response.status}`);
+  }
+  const payload = await response.json();
+  const correctedBodyKa = JSON.parse(
+    payload.choices?.[0]?.message?.content ?? "{}",
+  ).correctedBodyKa?.trim();
+  if (!correctedBodyKa || correctedBodyKa.length < 600) {
+    throw new Error(
+      `Article factual audit returned invalid content (${correctedBodyKa?.length || 0})`,
+    );
+  }
+  return correctedBodyKa;
+}
+
 async function enrichArticle(article) {
   const { sourceUrl, sourceText } = await resolveSourceArticle(article);
-  const bodyKa = await writeOriginalGeorgianArticle(article, sourceText);
+  const draftBodyKa = await writeOriginalGeorgianArticle(article, sourceText);
+  const bodyKa = await auditOriginalGeorgianArticle(article, sourceText, draftBodyKa);
   return {
     ...article,
     sourceUrl,
