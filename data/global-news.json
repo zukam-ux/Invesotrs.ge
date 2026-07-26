@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-07-26T16:42:45.564Z",
+  "updatedAt": "2026-07-26T17:42:20.929Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "4d98bfd575218967",
+      "title": "Did Citigroup's Latest Earnings Change the Investment Case?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXNXU1pfVVJiSXFlUWRNVC1hSUx2XzcteXZzX3F3YzNiYWttRGNqdW1pTmw3OVNUc25QY1JsZGpmcjFHV3lsamQtLTVLVlRCRlhTRUlWT1M0a1ZySFdpVmljMzBxQlREMHFlYTRZbU1xVWROZHVtSERaeVpLYlg4MVR3ZWpfanVvWkxlQUZkSWY4YmNFeGZMLUdkOFdXdTdwVHI2Vg?oc=5",
+      "publishedAt": "2026-07-26T17:05:00.000Z",
+      "titleKa": "ციტიგრუპის ბოლო შემოსავლებმა შეცვალა თუ არა ინვესტიციის შემთხვევა?",
+      "summaryKa": "ციტიგრუპის ბოლო შემოსავლები განიხილება ინვესტიციის შემთხვევის ცვლილების კუთხით.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7c7a76c772ea5bf4",
+      "title": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2x3XzRvT1V4ekV5cVpGeFdFM3dlR0FnR0pZNVJxTUVwWDdMR3RzUGhWZ3haU3p2VXdXamRrWUl2OGlCT2RHLTNxM3FKYzZFR1FuNUxmNWM4ZV9xekg4WTRRSlB2dDVJeE1QX1hJQzBhUElSZVdZbnFTQ1VjU1BLUWdMZUI5blAtd1dRRVNxaVBqZUNrbWlvbkdoLXR6amplcmd4ZjB5cm0?oc=5",
+      "publishedAt": "2026-07-26T16:35:00.000Z",
+      "titleKa": "ნეოკლაუდის აქციები ჰიპერსკალერების წინააღმდეგ - ვინ მოიგებს AI კაპექსის ბუმში?",
+      "summaryKa": "ნეოკლაუდის აქციები და ჰიპერსკალერები შედარებულია AI კაპექსის ბუმში.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "5b3e74fbd7f32575",
       "title": "Which Is the Better Investment: Crypto or the Moon?",
