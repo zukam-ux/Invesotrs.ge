@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-07-26T15:45:44.215Z",
+  "updatedAt": "2026-07-26T16:42:45.564Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "5b3e74fbd7f32575",
+      "title": "Which Is the Better Investment: Crypto or the Moon?",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
+      "publishedAt": "2026-07-26T16:32:38.000Z",
+      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
+      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1ce64b9f32af0ed7",
+      "title": "Bitcoin’s 40% Decline Reveals Why BTCI’s 15% Yield May Not Last",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdjJXSGREYXpVMmxhTkxLY081TFllUGFNV2VHSVlzWkZqVjRIajBVWXpfdzBSRDkyaExYendJeEttNk0xaG5yMzdmY1hJNGtNWW5BNFp1eEhIRWUyMVlSSTVpTmdnV0lfMGNNWFo1c0M1LVE4N0xBN3Q5NERwQzJWV2ZmWmlzTjk5WFEycEs3M1JxVS1JS3hTVVhjaw?oc=5",
+      "publishedAt": "2026-07-26T16:12:35.000Z",
+      "titleKa": "ბიტკოინის 40%-იანი ვარდნა აჩვენებს, რატომ შეიძლება BTCI-ის 15%-იანი შემოსავალი არ გაგრძელდეს",
+      "summaryKa": "ბიტკოინის 40%-იანი ვარდნა მიუთითებს, რომ BTCI-ის 15%-იანი შემოსავალი შესაძლოა არ გაგრძელდეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e909411f797a657d",
+      "title": "Warren Buffett's \"Playing With Fire\" Warning Is Back: Here's What History Says Happens Next for Stocks, and What Investors Can Do About It",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOE9lUko0dENhOWJDdGU5U2V1YUVlbkJvaTVRejR3eTVnQWlQRmpISGZ6M0NsaWlNNjNEZDZESEJsd3JwRnZGVmJjM2VKa2ZVQXlhZFhMQVcwVUxvNnd5U0NHUFlLZzQ0al9XUG9lTWNBVklCWU1aMXRmRHdQUXVtbkY5NWRZTkJuQzdVWWlsblJ1SHI1R1RDWEtmeGdDcFMtVUVv?oc=5",
+      "publishedAt": "2026-07-26T15:50:00.000Z",
+      "titleKa": "ვორენ ბაფეტის \"ცეცხლთან თამაში\" გაფრთხილება დაბრუნდა: ისტორია ამბობს, რა ხდება შემდეგ აქციებთან და რა შეუძლიათ ინვესტორებს",
+      "summaryKa": "ვორენ ბაფეტის გაფრთხილება აქციების შესახებ ისტორიულ მოვლენებზე დაყრდნობით დაბრუნდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ed82119d2095bac4",
+      "title": "4 Energy Stocks With 20+ Years of Consecutive Dividend Growth",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHVTMXNOWUt4YnlJRW12cmxCd0swM3V5QVVlWXJ1U3pLWFBJUFFkbmx0MTJjb2xCZ1JaUk85TTdLNnlJOUtPcFQ1Q2FtcTBGRUdFTHl3cUFyX21RYl9GNzVSQmdqemFpMUVDWmZRVFJBcGVrTU5rSW5fNFV3UUpERkM4ektNU2t1?oc=5",
+      "publishedAt": "2026-07-26T15:35:00.000Z",
+      "titleKa": "4 ენერგეტიკული აქცია, რომელიც 20+ წლის განმავლობაში უწყვეტ ზრდას აჩვენებს",
+      "summaryKa": "არსებობს 4 ენერგეტიკული აქცია, რომელიც 20+ წლის განმავლობაში უწყვეტი დივიდენდების ზრდას აჩვენებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9247644254260a38",
+      "title": "Bitcoin Bulls Are Pricing In An Iran Ceasefire That Hasn't Happened Yet",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEJfUVJzN0lmaEdSVk5yY1hJU2twTVc2TmZRRHJUZ3M3MGdidU9Zb0RTb2pWTzIyM1VwNVpMYWMxdk1mUkhhcmdGNTl6Y3FlcFozMEZwbEU3Q3g1bDVhalRrWDdtVFpYRUR6aEQzU3MxdU5sREt3V3gxZUZrTTMtYVNoc3JfdUhlMmg0U28xOHpKXzB0aWc5Vi1JbjlLV1k0MEpF?oc=5",
+      "publishedAt": "2026-07-26T15:24:37.000Z",
+      "titleKa": "ბიტკოინის ბულები ირანის ცეცხლის შეწყვეტას ფასიანებენ, რაც ჯერ არ მომხდარა",
+      "summaryKa": "ბიტკოინის ბულები ფასიანებენ ირანის ცეცხლის შეწყვეტას, რომელიც ჯერ არ მომხდარა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5d03f5fd80ed8c7b",
+      "title": "If I Could Only Own 1 ETF Heading Into the Coming Fed Meeting, It Would Be This One",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRi1WZ0FUdnkwekF0NmhHb3ZpT0E5UU5DcDNMTGRrVDQ3Z0o3VEdYS2RpQXJ6WG0wcjk5SkloZW5yeEFxdDhTelZvRkEwdFJ1UTlfRVBFNk94YjRrbFBNQ3JyRlB4eGRLM1Z3dVdiRE1uTXMzZVM0cDM4b1RId2RVMHM4WnJPUnIxSTd0WUR3?oc=5",
+      "publishedAt": "2026-07-26T15:22:00.000Z",
+      "titleKa": "თუ მხოლოდ 1 ETF-ს მფლობელობა შემომავალი ფედერალური შეხვედრის წინ შემიძლია, ეს იქნება ის",
+      "summaryKa": "ავტორი აღნიშნავს, რომ თუ მხოლოდ 1 ETF-ს მფლობელობა შეუძლია, ეს იქნება კონკრეტული ETF.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "d4b7390ccff772da",
       "title": "Is Amalgamated Financial (AMAL) Fully Priced After Strong Earnings And A New Buyback?",
@@ -15,14 +81,14 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "5b3e74fbd7f32575",
-      "title": "Which Is the Better Investment: Crypto or the Moon?",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
-      "publishedAt": "2026-07-26T15:02:38.000Z",
-      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
-      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
-      "category": "კრიპტო",
+      "id": "9aacc9fb602667a4",
+      "title": "Barclays Says Big Tech Earnings and Central Banks Will Drive Summer Markets",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVZ3N2Zrd0hYOGVRblNrN3d2NklaTUxFTlNhdnhUY2dzTVVTRkxvRzNUdnREQzRwbWI3bWo3cml0eFM4WnBXNzdSZzRUUHpUYWtwVzczTGI4el9qeVVHRW9qbWVLUUFTNnhHdEF4enVNbnlxbS1WNEFNUnNIcFQzYmM3YXZXaHJfLXhmYjB4c1pzQ0JCY3VnZUpOQ0o?oc=5",
+      "publishedAt": "2026-07-26T15:10:54.000Z",
+      "titleKa": "ბარკლაისი ამბობს, რომ დიდი ტექნოლოგიური კომპანიების შემოსავლები და ცენტრალური ბანკები ზაფხულის ბაზრებს მართავენ",
+      "summaryKa": "ბარკლაისი აცხადებს, რომ დიდი ტექნოლოგიური კომპანიების შემოსავლები და ცენტრალური ბანკები ზაფხულის ბაზრებს მართავენ.",
+      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -33,6 +99,17 @@
       "publishedAt": "2026-07-26T14:35:00.000Z",
       "titleKa": "სინსინატის ფაინანშლმა 65 წლის განმავლობაში გაზარდა თავისი დივიდენდი. 10-ჯერ მოგებაზე, არის თუ არა დივიდენდის მეფე შესაძენი?",
       "summaryKa": "სინსინატის ფაინანშლმა 65 წლის განმავლობაში გაზარდა თავისი დივიდენდი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "00a9d2e7d62b48cf",
+      "title": "Michael Burry's Chilling Warning as $100 Oil Collides With AI Debt Explosion: 'Not Sure How Much Longer'",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjBzNHZIRDBJWUhLMkNMdGl5d2ZheVNiM0lGY1FXbjR2WlQ0LXprUHNGVXBQdjU3ejlnSG12bEJQTE9yd21jbGpXY3JYSVpUQk5FNFF1ZkpaS0p4Q09RWmNNczdMUGRWb01TX2Exc2tEdFRwUU1ZLUZ4LVI1TEd4U3ZMU245cFdTVkYwQjFfejQ4dGIwSjVKeXBxUVFZR0lTdWc?oc=5",
+      "publishedAt": "2026-07-26T14:31:19.000Z",
+      "titleKa": "მაიკლ ბურიმ შიშისმომგვრელი გაფრთხილება $100 ნავთობისა და AI-ს ვალის აფეთქების შესახებ: 'არ ვიცი, რამდენ ხანს'",
+      "summaryKa": "მაიკლ ბურიმ გააკეთა გაფრთხილება $100 ნავთობისა და AI-ს ვალის აფეთქების შესახებ.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
