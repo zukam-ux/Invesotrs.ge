@@ -1,8 +1,63 @@
 {
-  "updatedAt": "2026-07-26T04:38:35.202Z",
+  "updatedAt": "2026-07-26T09:00:40.602Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "7a5deaf9340fde72",
+      "title": "3 Top Dividend Stocks Yielding 4.3% or More to Buy Right Now for Passive Income",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUNpWDhweUdLcGR2RTFTa29EX0ZTUkNVNHAxOGRTWEhrQ2JWVERXVzFBdW92a1owX1cxam5iYm00Q0pzU3VHZXJEODczVEkwV1NqYXRxNG5DSE85c1F4QmdleW1faGdJRjBQeks0eTdVcGp4alp1ZmRUanVLZXl6ZS1fejBqTHFDUUtWckVmaHRMbW1rLXRBNm9TQQ?oc=5",
+      "publishedAt": "2026-07-26T07:25:00.000Z",
+      "titleKa": "3 საუკეთესო დივიდენდური აქცია, რომელიც 4.3%-ზე მეტს იძლევა და ახლა უნდა იყიდოთ პასიური შემოსავლისთვის",
+      "summaryKa": "ამ სტატიაში განხილულია სამი დივიდენდური აქცია, რომლებიც 4.3%-ზე მეტს იძლევა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7205a02646844a9f",
+      "title": "Selective Insurance Group (SIGI) After Earnings And Dividend Update Looks Modestly Undervalued",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQekdyTFQ4STA5UzBmMHVOZ3VpZ0dweWVjME9yMTVNQTVnNnJyQllEeVpvSzM2Rl80TEhZdWJ2QzhOdDN5ZTRaU3c2Q1ZReVJjTUNlbmFxTUxjWElKR0FDeFAxVGhaVVhNbmJoRGVsUmhoNDhqdXN6UWhJeGRQdVZBSnRmTXliNnEtY0VteW9yd05lQkN1cW9kSVlENFlDaVh6bWR2NjVSZw?oc=5",
+      "publishedAt": "2026-07-26T07:08:39.000Z",
+      "titleKa": "Selective Insurance Group (SIGI) მოგების და დივიდენდების განახლების შემდეგ ზომიერად undervalued ჩანს",
+      "summaryKa": "Selective Insurance Group (SIGI) მოგების და დივიდენდების განახლების შემდეგ ზომიერად undervalued არის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f9c337bba254a8fd",
+      "title": "Republic Bancorp (RBCA.A) Stock Looks Fully Valued As Earnings Premium Holds",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFFscHVseTVmMzBCTEhmVWRPem9YdzQtQy1KSFdwcHl1UG91ZkxhRlpCN1FVcW5acWFRX1BXZ01rX2lmaUpJQVpJempnX2ZTTU9DOGRYVUwxR1BWOUpQb1FOMnNhQ0pSM3VOOEpfWVlYZ0lucWFGUWQxaXBSU2tGem5zTGl3SjNrUzF6MlBpeTRFR1JTdjlsN2pOcGxUYlk?oc=5",
+      "publishedAt": "2026-07-26T06:07:26.000Z",
+      "titleKa": "Republic Bancorp (RBCA.A) აქცია სრულად შეფასებულია, რადგან მოგების პრემია შენარჩუნებულია",
+      "summaryKa": "Republic Bancorp (RBCA.A) აქცია სრულად შეფასებულია, რადგან მოგების პრემია შენარჩუნებულია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "00ee148ad1b7dd4d",
+      "title": "President Trump's Strait of Hormuz Blockade Pushed the S&P 500 Down 0.79%",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVVqWm9LNzI5em4xeVY0YjJxSG9QTldfdU1EVDRtcVpEQzRIMXVWTE9BWVRxMHhldWk0c0VyeVlxOFBFaHdOZHctbHlLbWZLcm95ZEMwMmxmbk9pZlJGRVpYLThra0dEdF81WU5iWkhuTHlNd3M4dTU1X3hXNHNNOWQ0a21vZWlBeVljSnJuc21DTkNaSlpOZkdGZmlpZ3Bod0ZZdURkMA?oc=5",
+      "publishedAt": "2026-07-26T04:50:00.000Z",
+      "titleKa": "პრეზიდენტ ტრამპის ჰორმუზის სრუტეში ბლოკადამ S&P 500 0.79%-ით დააკლო",
+      "summaryKa": "პრეზიდენტ ტრამპის ჰორმუზის სრუტეში ბლოკადამ S&P 500 0.79%-ით დააკლო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2a05638c6b6d954d",
+      "title": "Bank of Hawaii (BOH) To Report Earnings Tomorrow: Here Is What To Expect",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0k2cm8zOVZadXIxS19hNFFhQ2ZYNUtMRFZwYmd5dl9DSFMwQ3NPTVJINUpydk90Sy0tdnZZUW9XR2Q1ejJpOEhxNUFxV0d4dEhYaUJxYm1Vc3FhMTgwU01TNWZZUEFXTnR6em5oamNiWEdrRk8xLVZFbFlKZTRxR0VyazBMMVk5cDMtdG10TDhXRkg1UGJZbDBYRjY?oc=5",
+      "publishedAt": "2026-07-26T04:29:00.000Z",
+      "titleKa": "Bank of Hawaii (BOH) ხვალ მოგებას გამოაცხადებს: აქ არის რას უნდა ველოდოთ",
+      "summaryKa": "Bank of Hawaii (BOH) ხვალ მოგებას გამოაცხადებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "9eb953296c917f8c",
       "title": "3 Stocks Smart Quantum Computing Investors Are Buying",
@@ -33,6 +88,17 @@
       "publishedAt": "2026-07-26T04:05:00.000Z",
       "titleKa": "Noble Corporation (NE) ხვალ მოგებას გამოაცხადებს: რას უნდა ველოდოთ",
       "summaryKa": "Noble Corporation (NE) ხვალ მოგებას გამოაცხადებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d2c2493f50fbbc95",
+      "title": "Universal Health Services (UHS) Q2 Earnings: What To Expect",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzNDcjdpdmo3UmhLMWRKNDkzYlZGSklWT2d1Z1ozMkd4b0poWUxRckJnNGNPODh0S1UwOWlHX2xLMzRCanYtTjJUYWVwRDdEajBVd3RDcVdBWlVSN0VpTFJXZ1Z0S05ock1oWTMxbVNnYkwwYVVFb0hPczhsY21COHl4cjJWaERTRW53bC13Z3RiTzNKMC1QdQ?oc=5",
+      "publishedAt": "2026-07-26T03:57:00.000Z",
+      "titleKa": "Universal Health Services (UHS) Q2 მოგება: რას უნდა ველოდოთ",
+      "summaryKa": "Universal Health Services (UHS) Q2-ის მოგება განიხილება.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
