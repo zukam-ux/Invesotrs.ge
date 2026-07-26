@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-07-26T20:43:00.906Z",
+  "updatedAt": "2026-07-26T21:38:15.161Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "5b3e74fbd7f32575",
+      "title": "Which Is the Better Investment: Crypto or the Moon?",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
+      "publishedAt": "2026-07-26T21:02:38.000Z",
+      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
+      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "642ddbca2c89f924",
+      "title": "Which Long-Term Treasury ETF Is Better, Schwab's SCHQ or the iShares TLT?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQU45YjFTX3NyVkl4Qlc2bjFjLTc5dkJjNHNpYVFCQzRRNHRqc0NPcDU1Yy03UmpzRjdaT2hfOFBWQ2I1eUk2Sktxa2wwME94bXI3ejV2cmdvaUdfbXZtNmI4M2I5Y21aZ1hCTVNaQTlZaTNkemdQU0tDY3RRMlhxTm01U19XdnhzYnY4X2JLLUtMSjZOU2Q3V2J1OA?oc=5",
+      "publishedAt": "2026-07-26T20:21:01.000Z",
+      "titleKa": "რომელი გრძელვადიანი სახელმწიფო ობლიგაციების ETF არის უკეთესი, Schwab-ის SCHQ თუ iShares-ის TLT?",
+      "summaryKa": "Schwab-ის SCHQ და iShares-ის TLT გრძელვადიანი სახელმწიფო ობლიგაციების ETF-ებია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "d974dc11707f20fc",
       "title": "Tesla Is Still Overvalued After Its 14% Post-Earnings Drop",
@@ -37,17 +59,6 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "5b3e74fbd7f32575",
-      "title": "Which Is the Better Investment: Crypto or the Moon?",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
-      "publishedAt": "2026-07-26T19:32:38.000Z",
-      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
-      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "2ad2b5900089ad1a",
       "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
       "source": "MarketWatch",
@@ -67,6 +78,17 @@
       "titleKa": "ბონდების ვაჭრები დაძაბულნი არიან, რადგან ფედერალური სარეზერვო სისტემის საპროცენტო განაკვეთის ზრდის რისკები იზრდება",
       "summaryKa": "ფედერალური სარეზერვო სისტემის საპროცენტო განაკვეთის ზრდის რისკები იზრდება.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "cf84330d15a3bb44",
+      "title": "Fed Faces Growing Pressure to Hike Rates as Price Risks Rebound",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSDFScnRidDZLSFVtaHA0ckxKWVNBeExCZ3c5YzBUcVRUWWwzYjE5YXpOb2s2NVZpU052c0piVlFtNFlPY2lzTlU0R3A5QmhjRUp0bkl1WEpqMzI2VlRsZTJxbFNWd29rRE4tdnZxUXVyOFVEcm5oRmN5cXRpa0lJZnFoMFZVaG5yTkdSY0x5eU5qcG5CVFNOZHNRQmFOcFFYYWZJek0tV2kyNmo3aTBzY1RuZjY?oc=5",
+      "publishedAt": "2026-07-26T19:00:00.000Z",
+      "titleKa": "ფედერალური რეზერვი ფასების რისკების ზრდის გამო საპროცენტო განაკვეთების გაზრდის ზეწოლის წინაშე დგას",
+      "summaryKa": "ფედერალური რეზერვი ფასების რისკების ზრდის გამო საპროცენტო განაკვეთების გაზრდის ზეწოლის წინაშე დგას.",
+      "category": "ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
