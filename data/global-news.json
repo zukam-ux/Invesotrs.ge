@@ -1,8 +1,107 @@
 {
-  "updatedAt": "2026-07-26T01:12:08.171Z",
+  "updatedAt": "2026-07-26T04:38:35.202Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "9eb953296c917f8c",
+      "title": "3 Stocks Smart Quantum Computing Investors Are Buying",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd0ozTWpmZm43MkU2b2JmdTBQTFZxY2FiMnNqYTBIZFR1a3puV0hLTEtnZnhMbXo5Wk9qa2JtbGhSbDB3S0FPV09nOHN4Y0VmbnNQczRpN05ybXdCRjRtVTJvNWZfX0R3TE1oVDB4NWJobkpNbVBzY0dJb3pCRHpJZ1Rkc21CVUVVb042V3BrTzNVNDYwcExTTi05WTRsUQ?oc=5",
+      "publishedAt": "2026-07-26T04:20:00.000Z",
+      "titleKa": "3 აქცია, რომელსაც ჭკვიანი კვანტური კომპიუტერების ინვესტორები ყიდულობენ",
+      "summaryKa": "ჭკვიანი კვანტური კომპიუტერების ინვესტორები სამი აქციის შეძენას გეგმავენ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f393cb3fc862312d",
+      "title": "Brown & Brown (BRO) Reports Earnings Tomorrow: What To Expect",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkVFYW12NkNjUm13d2Q3Y3loLVJMdVBxYXk3eWE1YU04OWdXZElHdm9OUFlCUXhtR0ptZ0ZYTlVISXpXM2ZTcVI1LXMyaS1PYmRfTEVKRTBOWUxqNjRMVWZ5N081MGUySUFjeHRMc1Iwdjc2c2xxY2dJdVAzbi1SVFFPNTVBTE1LOGdORUFMU0Z4YksxYWtvalAwTE53Zw?oc=5",
+      "publishedAt": "2026-07-26T04:13:13.000Z",
+      "titleKa": "Brown & Brown (BRO) ხვალ მოგებას გამოაცხადებს: რას უნდა ველოდოთ",
+      "summaryKa": "Brown & Brown (BRO) ხვალ მოგებას გამოაცხადებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "260bcc8b34f8cc07",
+      "title": "Noble Corporation (NE) To Report Earnings Tomorrow: Here Is What To Expect",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0dJcFI0Z3F1UjNjQTZyOEMxczlmUFhvd1BCcFNjSnBNcVZSUGlUTmRPRzlBYnpxUjJZNkdyMGxIVGhzYThCTm1ZbU1GWDRRQUVlaWFJOTBJU1hYd0NBeF9wc1luWFdJQk44QnVwOUtWdllTSklfcnF1OUlSTlNLT0ptQXVTNFVqSy10aXRfT0NFZHBfVkJ5QnVmeU8zanJzRU9F?oc=5",
+      "publishedAt": "2026-07-26T04:05:00.000Z",
+      "titleKa": "Noble Corporation (NE) ხვალ მოგებას გამოაცხადებს: რას უნდა ველოდოთ",
+      "summaryKa": "Noble Corporation (NE) ხვალ მოგებას გამოაცხადებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "67e281465cd282d3",
+      "title": "F5 (FFIV) Q2 Earnings Report Preview: What To Look For",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjJaZWQ4ZVNKWlVKbnNUWldIakJVVzVvMTU5Y19KcmF2aW85Njg1V0Q3QklUZWItX3N3LXF3OXliSEtlRURGQUxCcU9kX0t5Z0Mwd1JYV0Jqc1VYRjFZUmptOV91M21pRlJtVkhTbVBlQ1Vyd2k2d3RDbk9UMkRBNV90VEVhbHZEREsweGR1TEF0WUFndVE?oc=5",
+      "publishedAt": "2026-07-26T03:49:00.000Z",
+      "titleKa": "F5 (FFIV) Q2 მოგების ანგარიშის წინასწარი მიმოხილვა: რას უნდა ვეძიოთ",
+      "summaryKa": "F5 (FFIV) Q2 მოგების ანგარიშის წინასწარი მიმოხილვა მიმდინარეობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c20ececc349dc531",
+      "title": "Applied Digital Earnings: What To Look For From APLD",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYXZtRDZtVFUwNTZtSUFnUk1GbElHeEFnanRMOV9LeVhzeEZTak9valJvcVVkQ18tNnpCQXZEVDJqeGJZbTh0TXNFSmlfQ2JjR0dkVmY3Y2NSQThOSXRqamZuWHBPdVVqTkxlME1iaklXYUREM3FSaE5uUkZlbzJ6VUlsUzl3YmhiZHNzWkxqWjQ1Q0VYbGJsOE51ZXFZRHlJ?oc=5",
+      "publishedAt": "2026-07-26T03:41:00.000Z",
+      "titleKa": "Applied Digital-ის მოგება: რას უნდა ველოდოთ APLD-დან",
+      "summaryKa": "Applied Digital-ის მოგების ანგარიშზე ყურადღება უნდა გამახვილდეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a7f0cad4ed45379f",
+      "title": "Earnings To Watch: Agilysys (AGYS) Reports Q2 Results Tomorrow",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXNMaEJBQkZnWWEwMTU2SXdKZFVHdXFQZWp3OEtpSnplVjVVM3F5eXhlVlY0cmxmVExEZ1V4TVRuUnduV2x1WDhKX25GcnFrRUxLd193bHdGSEVYUWRKZHdzWnJWeUZTbTZMa2pDUVhwcHBuNmdYN1NnVWpmQm9OWDJaakFGcGJ3dVVPbVdic2QtQ3pKVXJSWlAtQ1JoSGY2dWRB?oc=5",
+      "publishedAt": "2026-07-26T03:33:00.000Z",
+      "titleKa": "მოგება, რომელსაც უნდა ვაკვირდეთ: Agilysys (AGYS) ხვალ Q2 შედეგებს გამოაცხადებს",
+      "summaryKa": "Agilysys (AGYS) ხვალ Q2 შედეგებს გამოაცხადებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a41b681204174a8a",
+      "title": "Is Glacier Bancorp (GBCI) Trading At A Discount Before Earnings?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2g3T1NzVTFQR3Bab3VNY1Y0VGlVXzZKeDlFTmFxRW9uZE9wZlEwX2twWXpic1BWdFRzd0VTdmkwamNRVVN3ZlVjSW1pakFmeVpTSjdDdzYxbWxqMlotVDd0RS1SQVRlQ09lMkRGWnNLNGtPdTl0bTE5YlF1SVkxQ0FzUzRReVJOaFhPVDJaQVlub09ud2JERnRZZ19zUEJLZ0FJRg?oc=5",
+      "publishedAt": "2026-07-26T03:19:00.000Z",
+      "titleKa": "Glacier Bancorp (GBCI) მოგების წინ ფასდაკლებაზე ვაჭრობს?",
+      "summaryKa": "Glacier Bancorp (GBCI) მოგების წინ ფასდაკლებაზე ვაჭრობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ecd2495b6cf94698",
+      "title": "Procter & Gamble (PG) Dividend News Puts Valuation Back In Focus Ahead Of Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZE5pSVRaSUdiQzhtMDk5cGJyUXMyRjRoR1VxRnFBb1lmMkV4Znh4eUV2aDgyQXdjMVpoREVra0U4ZFFUTHdUVEdKMkI2WU8td2VYbE9rSnI0LW1TcVVKa0RTUlJfaGhaTUZUMHJLREI5aFlRR0dqT3ROOEdYVzllRnljLTE5TDFEbjZVdWpYOGtLUV9JeUU2QjdCUU0?oc=5",
+      "publishedAt": "2026-07-26T03:19:00.000Z",
+      "titleKa": "Procter & Gamble (PG) დივიდენდების ახალი ამბები ფასის შეფასებაზე გავლენას ახდენს მოგების წინ",
+      "summaryKa": "Procter & Gamble (PG) დივიდენდების ახალი ამბები ფასის შეფასებაზე გავლენას ახდენს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "879415d1087da874",
+      "title": "Yelp (YELP) Stock Looks Reasonable On Earnings But Weak On Market Sentiment",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVWpBSEE2V0IzbFFtdVVKWURnZ2dTczk2dE1XcWdWOFlrUXFoOXhMOWl5Vmc2RWdLRVBWTk96Q2l3U053MEREcU43aTJyaHRXdUpTTU9qNHctalBWQU02SlF0b3pmZ1pVYU4xaDh1MkJLSFZzYmRDa3hKM1NFQTZvSDhWY1Bzcjhwak4zLTV4R1p2UWQ1dTViTjNEek1wZw?oc=5",
+      "publishedAt": "2026-07-26T03:18:00.000Z",
+      "titleKa": "Yelp (YELP) აქცია მოგების მიხედვით გონივრული ჩანს, მაგრამ ბაზრის განწყობაზე სუსტი",
+      "summaryKa": "Yelp (YELP) აქცია მოგების მიხედვით გონივრული ჩანს, თუმცა ბაზრის განწყობა სუსტი არის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "c6d1e92c5c599dae",
       "title": "Iraq to Sign Agreement with Syria on Building of Oil Pipelines",
