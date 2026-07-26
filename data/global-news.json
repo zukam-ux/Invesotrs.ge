@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-07-26T13:10:28.318Z",
+  "updatedAt": "2026-07-26T14:43:51.806Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "52137b52420a6708",
+      "title": "The S&P 500’s earnings growth has gone bonkers thanks to one company",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSk5KTUtjbFlyVnNaYlJTdXNBelBXV0ZQMFl2bGtWc3ZUMm1VV0VCOHoyMkN6a3hXTEF1ay04cjkwMlVwdktwbVZ2T2l0ZmRxTE1tQjktUDI3azZrWlZPSm5xT2M2eVEwUEU5WnJLdjduWER3eWVGcnVaaGJxZENYcS1ZUFRKTkhHU1RTY1ZQZWg3bHpkX2hJRXlUQjVUOG45ZklEOFJvYUJjSGpMZVU0?oc=5",
+      "publishedAt": "2026-07-26T14:00:00.000Z",
+      "titleKa": "S&P 500-ის მოგების ზრდა ერთ კომპანიას thanks to",
+      "summaryKa": "S&P 500-ის მოგების ზრდა ერთ კომპანიას მიაწვდოს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "109755996de2f982",
+      "title": "Bloom Energy's Next Earnings Report on July 28 Could Send the Stock Soaring. Here's Why.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUWVrY0VoNWJlbVRFS3BiQU05Z1MtcGtfNk15NHpUd0M5UUNmaUFCNVNTWExUclg0YjNUVWdNZzRnWWVvRERuRmhxdVZOQ2EwbzBQZGFSVVlrQ3J0Q1ZVTllKaV93RWkxYlVjbFh3N0JSa1BWSDJ0ZW5DUDY1X1FLTmhRQUh5cHNnSENrVjZNc3hWOEwycGZLTl9Wam5FRTIz?oc=5",
+      "publishedAt": "2026-07-26T13:45:01.000Z",
+      "titleKa": "Bloom Energy-ის მომავალი მოგების ანგარიში 28 ივლისს შეიძლება გაზარდოს აქციების ფასი.",
+      "summaryKa": "Bloom Energy-ის მომავალი მოგების ანგარიში 28 ივლისს გაიმართება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5b3e74fbd7f32575",
+      "title": "Which Is the Better Investment: Crypto or the Moon?",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
+      "publishedAt": "2026-07-26T13:32:38.000Z",
+      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
+      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8a80b0f83b566f26",
+      "title": "Warren Buffett Built a $397 Billion War Chest. Berkshire Can Buy Almost Every S&P 500 Company",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTE0yWXVaYUR3MkQwSWRBcmVUOW5fRk5JVFR6TG8xUzNqakI2cWpmbW1QSFFmQmhwcGVoYmRlWGxjdkxmakROM3VjcGR4MEo3MTNxSHNUdmNfaW1DdjVfdEhHWHRXcVc4cVRXNzJCbzI4d2d6Y2drRTFDeVBZZXpIX0swckxmaHJjdXpxTEY1dmoxWTgwTFYzWWlUQ0NLZw?oc=5",
+      "publishedAt": "2026-07-26T13:11:53.000Z",
+      "titleKa": "უორენ ბაფეტმა $397 მილიარდიანი სამხედრო ფული შექმნა.",
+      "summaryKa": "ბერკშირი თითქმის ყველა S&P 500-ის კომპანიას შეიძენს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "0691084ec8581fe2",
+      "title": "The Vanguard Total Stock Market ETF (VTI) Now Holds 18,738,438 Shares of SpaceX Stock. Here's What That Means for Investors.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV3FsczBCdHNDeHlVeHN2c2lkMW1GMHJBSGQwUHBsNVJiVDhaSFJqNTVTRnE3TXFJZEI3YzVsSmZxMm5ESGhBNkdMQS1vLV9MXzZ2V0Y1Y0JRdVNSOTdjWk5hVUxOM1M0ZFpVQjFGc19rc21xem1rbjRPbVFVSmlBV25abUZTQjVhTlZsbTlTX1dRYVpDRUxnRWlNT0w?oc=5",
+      "publishedAt": "2026-07-26T13:11:00.000Z",
+      "titleKa": "Vanguard Total Stock Market ETF (VTI) ახლა 18,738,438 SpaceX-ის აქციას ფლობს.",
+      "summaryKa": "VTI ახლა 18,738,438 SpaceX-ის აქციას ფლობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f0f64a12d13cdce3",
+      "title": "Is Las Vegas Sands (LVS) Undervalued Following Weak Earnings And Heavy Resort Spending?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXpYc0FSTFNBd2s1UktVTkt3UVFFV01UOTZKeWI2cTloblZyM2xZWFVLTGVaaGs4V2s1NzE4Z2Z6c3N1TmNkRnQwWEg4YkFyRkIyc3g5M0duamhra1QxdGZpVG9hVVpGY0NfdGxKei13U29GXzhwcVdXYUpmRmNwMUJlY1RETUtxalJsYTZZaTNwR3Z0QUlhRHBuNHQ?oc=5",
+      "publishedAt": "2026-07-26T13:08:49.000Z",
+      "titleKa": "Las Vegas Sands (LVS) შეიძლება undervalued იყოს სუსტ მოგებებსა და დიდ სასტუმრო ხარჯებზე.",
+      "summaryKa": "Las Vegas Sands (LVS) სუსტ მოგებებსა და დიდ ხარჯებზე შეიძლება undervalued იყოს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "2ad2b5900089ad1a",
       "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
@@ -11,6 +77,50 @@
       "publishedAt": "2026-07-26T13:00:00.000Z",
       "titleKa": "ბირჟებზე ტექნიკური 'სამმაგი საფრთხე' არსებობს, მაგრამ ინვესტორებისთვის დამალვის ადგილებიც არის",
       "summaryKa": "ბირჟებზე ტექნიკური საფრთხეები და ინვესტორების დამალვის ადგილები არსებობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "688939dd8fe3861a",
+      "title": "Big Tech Earnings Slam Into a Market in Revolt Over AI Spending",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLTlyY0loRTZCSWVPcmtFSW0zWUF3Tmc3ekN1ajNfMkZYZThOTFJLaDNxdUNCaVNyb0ZHQTB4b01QREFXVXcwZkdRYUExUkdoOFRPMHdXelRNRTZ5ZV9XM0twdi1neDZvWmdEZjFHdmxiZXJHSWpiWDN5WWFmVFRWY0xDdmtLN25HSEloYXpjeUFqRjlZMmhQbWtzSnZ3amRjeEEtODlfa1BSS3Z6bnFUVE43TkE?oc=5",
+      "publishedAt": "2026-07-26T13:00:00.000Z",
+      "titleKa": "დიდი ტექნოლოგიების მოგებები AI ხარჯების წინააღმდეგ მღელვარებაში ხვდება.",
+      "summaryKa": "დიდი ტექნოლოგიების მოგებები AI ხარჯების წინააღმდეგ მღელვარებაში ხვდება.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "68c4d83062c9b83e",
+      "title": "Robinhood Bets on 3 Crypto Sectors as Blockchain Fees Hit $25 Million",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZFk4Tlo3dVRGTEU1TEl5OGUxdndyamplRVR3OWpyc2lnUUJ4VW1LVWJ6ZzhVRlY3TXIwb0ZDSTlaejhNQXhhaE5OZm1NSldhd3pUb0VwOWhibTFSUTZ4VkI0SVcwZndwQjhTN2RlaS04R2hjVWY3U043SFVoNDFwcE5odzFORFlhYzd3TFl5SjZrUFZNZ3YyMzAxVEw?oc=5",
+      "publishedAt": "2026-07-26T12:39:29.000Z",
+      "titleKa": "Robinhood 3 კრიპტო სექტორზე ფსონს დებს, რადგან ბლოკჩეინის გადასახადები $25 მილიონს აღწევს.",
+      "summaryKa": "Robinhood 3 კრიპტო სექტორზე ფსონს დებს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3124b7fd46738674",
+      "title": "3 High-Yielding Dividend Stocks Worth Loading Up On Now (1 Yields Over 5.5%)",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX1FxUW9DYThSOHExRWNpZXlfQ0RsOEp0eW1ldjkxZ2ltZEJ3RThFUXJfTE9Eazd6X2xCcnA5SG01M0FZRlBzS2ZoR1Qxa295anJEMnVPeG1wWDZ5ZXlFaGlBcU1SelhiQkUtMjlsWDJ3X3ZqaUhRU3k1WGd6Q1hsTFlqd0pPbUFfYkVMMzRQc1NfUE95anZWOFdWSjA?oc=5",
+      "publishedAt": "2026-07-26T12:35:00.000Z",
+      "titleKa": "3 მაღალი შემოსავლის დივიდენდური აქცია, რომლებიც ახლა უნდა შეიძინოთ (1 5.5%-ზე მეტი შემოსავალი აქვს).",
+      "summaryKa": "არსებობს 3 მაღალი შემოსავლის დივიდენდური აქცია, რომლებიც ახლა უნდა შეიძინოთ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6830a76ee2e272a2",
+      "title": "Brazil ETF Market Triples in Boom for New Latin America Funds",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR0FDZ01sclhHNk81MUYxd1FBNDB5MW9wazUxZ09UenVVQzVQaG5zTGNKLXdPb3IyR0FvSnZBVEFNLWd3OE9Cb2F1cXZaUC1rVks5VWJWUjRVOFFkQkQ2dUVJNUJHeDdXdTA1QXlNQ2ZuWVA1RkUxMi12RnhXdXVTNXZscGxzVm5taW90cXhsODQzMFVMczBzQWZSS3VFb1RueExNR0E1V2xhOEFnZjA1OXZ3?oc=5",
+      "publishedAt": "2026-07-26T12:30:00.000Z",
+      "titleKa": "ბრაზილიის ETF ბაზარი ახალი ლათინური ამერიკის ფონდის ბუმში სამჯერ გაიზარდა.",
+      "summaryKa": "ბრაზილიის ETF ბაზარი ახალი ლათინური ამერიკის ფონდის ბუმში სამჯერ გაიზარდა.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -45,17 +155,6 @@
       "titleKa": "არის თუ არა Banner (BANR) undervalued, რადგან მოგება იზრდება და დივიდენდები შენარჩუნებულია?",
       "summaryKa": "Banner (BANR) შეიძლება undervalued იყოს, რადგან მოგება იზრდება და დივიდენდები შენარჩუნებულია.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "5b3e74fbd7f32575",
-      "title": "Which Is the Better Investment: Crypto or the Moon?",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
-      "publishedAt": "2026-07-26T12:00:20.000Z",
-      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
-      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
-      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
