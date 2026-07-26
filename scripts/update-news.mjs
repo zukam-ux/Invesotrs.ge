@@ -1,5 +1,8 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { createHash } from "node:crypto";
+import decoderPackage from "google-news-url-decoder";
+
+const { GoogleDecoder } = decoderPackage;
 
 const feedQueries = [
   "(stocks OR earnings OR ETF OR Nasdaq OR \"S&P 500\") when:1d",
@@ -38,6 +41,9 @@ const token = process.env.GITHUB_TOKEN;
 const geminiApiKey = process.env.GEMINI_API_KEY;
 const FEED_MAX_ATTEMPTS = 4;
 const FEED_TIMEOUT_MS = 12_000;
+const ARTICLE_TIMEOUT_MS = 15_000;
+const ARTICLE_ENRICH_LIMIT = 4;
+const requestedBackfillId = process.env.ARTICLE_BACKFILL_ID?.trim();
 
 if (!token) throw new Error("GITHUB_TOKEN is required for Georgian translation");
 
@@ -253,6 +259,159 @@ async function collectFeeds(feeds, label) {
   return { successful, failed };
 }
 
+function findArticleBody(value) {
+  if (!value) return "";
+  if (Array.isArray(value)) {
+    for (const item of value) {
+      const found = findArticleBody(item);
+      if (found) return found;
+    }
+    return "";
+  }
+  if (typeof value !== "object") return "";
+  if (typeof value.articleBody === "string") return value.articleBody;
+  for (const item of Object.values(value)) {
+    const found = findArticleBody(item);
+    if (found) return found;
+  }
+  return "";
+}
+
+function extractArticleText(html) {
+  for (const match of html.matchAll(
+    /<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi,
+  )) {
+    try {
+      const body = findArticleBody(JSON.parse(match[1]));
+      if (body.length >= 500) return decode(body).slice(0, 18_000);
+    } catch {}
+  }
+  const paragraphs = [...html.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)]
+    .map((match) => decode(match[1]))
+    .filter((paragraph) => paragraph.length >= 70)
+    .filter(
+      (paragraph) =>
+        !/cookie|privacy policy|sign up|subscribe|advertisement|all rights reserved/i.test(
+          paragraph,
+        ),
+    );
+  return [...new Set(paragraphs)].join("\n\n").slice(0, 18_000);
+}
+
+async function resolveSourceArticle(article) {
+  let sourceUrl = article.sourceUrl || article.url;
+  if (/^https:\/\/news\.google\.com\//i.test(sourceUrl)) {
+    const decoder = new GoogleDecoder();
+    const result = await decoder.decode(sourceUrl);
+    if (!result.status || !/^https:\/\//i.test(result.decoded_url || "")) {
+      throw new Error(result.message || "Google News URL could not be resolved");
+    }
+    sourceUrl = result.decoded_url;
+  }
+  const response = await fetch(sourceUrl, {
+    redirect: "follow",
+    headers: {
+      accept: "text/html,application/xhtml+xml",
+      "accept-language": "en-US,en;q=0.9",
+      "user-agent": "Mozilla/5.0 (compatible; Investors.ge newsroom/1.0)",
+    },
+    signal: AbortSignal.timeout(ARTICLE_TIMEOUT_MS),
+  });
+  if (!response.ok) throw new Error(`Publisher returned HTTP ${response.status}`);
+  const sourceText = extractArticleText(await response.text());
+  if (sourceText.length < 500) {
+    throw new Error(`Publisher supplied too little extractable text (${sourceText.length} chars)`);
+  }
+  return { sourceUrl: response.url || sourceUrl, sourceText };
+}
+
+async function writeOriginalGeorgianArticle(article, sourceText) {
+  if (!geminiApiKey) throw new Error("GEMINI_API_KEY is not configured");
+  const schema = {
+    type: "object",
+    properties: {
+      bodyKa: { type: "string" },
+    },
+    required: ["bodyKa"],
+    additionalProperties: false,
+  };
+  const prompt = JSON.stringify({
+    role: "Investors.ge Georgian financial journalist",
+    task:
+      "Write an original Georgian-language financial news article based only on the supplied source facts. This is not a translation and must not reproduce the source article sentence by sentence.",
+    requirements: [
+      "Write 350-650 Georgian words.",
+      "Begin directly with the most important verified fact.",
+      "Use 3-5 useful Georgian section headings formatted as ## Heading.",
+      "Use short readable paragraphs separated by blank lines.",
+      "Preserve all company names, ticker symbols, numbers, dates, percentages, and currencies exactly.",
+      "Explain specialist terms briefly for a Georgian reader.",
+      "Do not add facts, prices, performance figures, causes, forecasts, quotations, or recommendations absent from SOURCE_TEXT.",
+      "Do not tell the reader to buy or sell.",
+      "Do not mention that an AI wrote the article.",
+      "Paraphrase independently; do not copy long phrases from SOURCE_TEXT.",
+      "If the source does not support 350 words, write a shorter factual article instead of padding or inventing.",
+    ],
+    headlineKa: article.titleKa,
+    shortSummaryKa: article.summaryKa,
+    originalHeadline: article.title,
+    publisher: article.source,
+    SOURCE_TEXT: sourceText,
+  });
+  const models = ["gemini-3.5-flash", "gemini-3.1-flash-lite"];
+  let lastError;
+  for (const model of models) {
+    for (let attempt = 1; attempt <= 3; attempt += 1) {
+      const response = await fetch(
+        `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,
+        {
+          method: "POST",
+          headers: {
+            "x-goog-api-key": geminiApiKey,
+            "content-type": "application/json",
+          },
+          body: JSON.stringify({
+            contents: [{ role: "user", parts: [{ text: prompt }] }],
+            generationConfig: {
+              temperature: 0.15,
+              maxOutputTokens: 3000,
+              responseMimeType: "application/json",
+              responseJsonSchema: schema,
+            },
+          }),
+        },
+      );
+      if (response.ok) {
+        const payload = await response.json();
+        const text =
+          payload.candidates?.[0]?.content?.parts?.map((part) => part.text ?? "").join("") ?? "";
+        const bodyKa = JSON.parse(text).bodyKa?.trim();
+        if (!bodyKa || bodyKa.length < 600) {
+          throw new Error(`Gemini returned an article that is too short (${bodyKa?.length || 0})`);
+        }
+        return bodyKa;
+      }
+      lastError = new Error(
+        `Gemini ${model} returned ${response.status}: ${(await response.text()).slice(0, 250)}`,
+      );
+      if (![429, 503].includes(response.status)) break;
+      if (attempt < 3) await wait(attempt * 2_000);
+    }
+  }
+  throw lastError ?? new Error("Georgian article generation failed");
+}
+
+async function enrichArticle(article) {
+  const { sourceUrl, sourceText } = await resolveSourceArticle(article);
+  const bodyKa = await writeOriginalGeorgianArticle(article, sourceText);
+  return {
+    ...article,
+    sourceUrl,
+    bodyKa,
+    articleNotice: "Original Georgian overview based on the credited publisher source",
+  };
+}
+
 let { successful: successfulFeeds, failed: failedFeeds } = await collectFeeds(
   PRIMARY_FEEDS,
   "primary",
@@ -352,9 +511,42 @@ if (refreshedArticles.length < 3) {
 const articlesById = new Map(
   [...previous.articles, ...refreshedArticles].map((article) => [article.id, article]),
 );
-const articles = [...articlesById.values()].sort(
+let articles = [...articlesById.values()].sort(
   (a, b) => new Date(b.publishedAt) - new Date(a.publishedAt),
 );
+const enrichmentCandidates = [];
+const queuedIds = new Set();
+const queueForEnrichment = (article, force = false) => {
+  if (!article || queuedIds.has(article.id) || (!force && article.bodyKa)) return;
+  queuedIds.add(article.id);
+  enrichmentCandidates.push(article);
+};
+if (requestedBackfillId) {
+  queueForEnrichment(
+    articles.find((article) => article.id === requestedBackfillId),
+    true,
+  );
+}
+newItems.forEach((item) =>
+  queueForEnrichment(articles.find((article) => article.id === item.id)),
+);
+articles.forEach((article) => queueForEnrichment(article));
+
+const enrichedById = new Map();
+for (const article of enrichmentCandidates.slice(0, ARTICLE_ENRICH_LIMIT)) {
+  try {
+    console.log(`Building original Georgian article for ${article.id} (${article.source})`);
+    enrichedById.set(article.id, await enrichArticle(article));
+  } catch (error) {
+    console.warn(`Article enrichment failed for ${article.id}: ${error.message}`);
+    if (article.id === requestedBackfillId) throw error;
+  }
+}
+if (requestedBackfillId && !queuedIds.has(requestedBackfillId)) {
+  throw new Error(`Requested backfill article was not found: ${requestedBackfillId}`);
+}
+articles = articles.map((article) => enrichedById.get(article.id) || article);
+
 const unchanged = JSON.stringify(previous.articles) === JSON.stringify(articles);
 if (unchanged) {
   console.log("No new global stories");
@@ -367,7 +559,7 @@ if (unchanged) {
         updatedAt: new Date().toISOString(),
         source: "Google News RSS metadata and original publishers",
         methodology:
-          "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
+          "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
         articles,
       },
       null,

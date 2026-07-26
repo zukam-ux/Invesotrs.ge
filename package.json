@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "wrangler": "^4.114.0"
+  },
+  "dependencies": {
+    "google-news-url-decoder": "^1.2.2"
   }
 }

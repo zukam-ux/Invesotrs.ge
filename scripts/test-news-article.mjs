@@ -8,6 +8,7 @@ import {
 const shared = await readFile(new URL("../shared.js", import.meta.url), "utf8");
 const worker = await readFile(new URL("../src/worker.mjs", import.meta.url), "utf8");
 const wrangler = await readFile(new URL("../wrangler.jsonc", import.meta.url), "utf8");
+const updater = await readFile(new URL("./update-news.mjs", import.meta.url), "utf8");
 
 for (const renderer of [
   "editorial-story-link",
@@ -24,12 +25,20 @@ assert.ok(shared.includes("წაიკითხე ქართულად"));
 assert.ok(shared.includes("ორიგინალი წყარო"));
 assert.ok(worker.includes('url.pathname.match(/^\\/news\\/([a-f0-9]{16})'));
 assert.ok(wrangler.includes('"/news/*"'));
+assert.ok(worker.includes("body_ka"));
+assert.ok(worker.includes("source_url"));
+assert.ok(updater.includes("writeOriginalGeorgianArticle"));
+assert.ok(updater.includes("This is not a translation"));
+assert.ok(updater.includes("Do not add facts"));
 
 const article = {
   id: "642ddbca2c89f924",
   title: "English source title",
   title_ka: 'ქართული <სათაური> "ტესტი"',
   summary_ka: "ქართული მოკლე შეჯამება.",
+  body_ka:
+    "პირველი ფაქტობრივი აბზაცი ქართული მკითხველისთვის.\n\n## მთავარი დეტალები\n\nმეორე ფაქტობრივი აბზაცი.",
+  source_url: "https://example.com/resolved-original",
   source: "Yahoo Finance",
   url: "https://example.com/original",
   published_at: "2026-07-27T08:00:00.000Z",
@@ -49,9 +58,11 @@ const html = renderNewsArticlePage(
 );
 assert.ok(html.includes("ქართული მოკლე შეჯამება."));
 assert.ok(html.includes("&lt;სათაური&gt;"));
-assert.ok(html.includes('href="https://example.com/original"'));
+assert.ok(html.includes('href="https://example.com/resolved-original"'));
 assert.ok(html.includes('href="/news/aaaaaaaaaaaaaaaa"'));
 assert.ok(html.includes('"@type":"NewsArticle"'));
+assert.ok(html.includes('<h2>მთავარი დეტალები</h2>'));
+assert.ok(html.includes("პირველი ფაქტობრივი აბზაცი"));
 assert.ok(!html.includes("<სათაური>"));
 
 const missing = renderNewsNotFoundPage(

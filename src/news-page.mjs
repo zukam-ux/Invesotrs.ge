@@ -27,6 +27,20 @@ function formatPublishedAt(value) {
   }
 }
 
+function renderArticleBody(value = "") {
+  return String(value)
+    .split(/\n{2,}/)
+    .map((block) => block.trim())
+    .filter(Boolean)
+    .map((block) => {
+      if (block.startsWith("## ")) {
+        return `<h2>${escapeHtml(block.slice(3))}</h2>`;
+      }
+      return `<p>${escapeHtml(block.replace(/\n+/g, " "))}</p>`;
+    })
+    .join("");
+}
+
 function layout({ title, description, canonical, body, robots = "index,follow" }) {
   const safeTitle = escapeHtml(title);
   const safeDescription = escapeHtml(description);
@@ -61,6 +75,10 @@ function layout({ title, description, canonical, body, robots = "index,follow" }
     .article-card h1{max-width:850px;font-size:clamp(30px,5vw,54px);line-height:1.2;letter-spacing:-1.5px;margin:20px 0}
     .article-meta{display:flex;flex-wrap:wrap;gap:8px 16px;padding-bottom:24px;border-bottom:1px solid var(--line);color:var(--muted);font-size:11px}
     .article-summary{font-size:clamp(17px,2.4vw,22px);line-height:1.8;margin:30px 0;color:#29473b}
+    .article-body{max-width:790px;margin:34px 0;font-size:16px;line-height:1.95;color:#203d31}
+    .article-body h2{font-size:clamp(21px,3vw,28px);line-height:1.35;margin:38px 0 12px;color:var(--ink)}
+    .article-body p{margin:0 0 22px}
+    .article-body p:first-child{font-size:18px;color:#29473b}
     .article-context{padding:20px;border-radius:15px;background:#f0faf5;color:#416355;font-size:12px;line-height:1.8}
     .article-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:28px}
     .article-actions .secondary{border:1px solid #bde1d1}
@@ -92,7 +110,9 @@ export function renderNewsArticlePage(article, relatedArticles, requestUrl) {
   const title = articleTitle(article);
   const summary = articleSummary(article);
   const canonical = `https://investors.ge/news/${encodeURIComponent(article.id)}`;
-  const sourceUrl = /^https:\/\//.test(article.url || "") ? article.url : "#";
+  const creditedUrl = article.source_url || article.url;
+  const sourceUrl = /^https:\/\//.test(creditedUrl || "") ? creditedUrl : "#";
+  const fullBody = renderArticleBody(article.body_ka);
   const related = relatedArticles
     .map(
       (item) => `<a class="panel related-card" href="/news/${encodeURIComponent(item.id)}">
@@ -111,16 +131,16 @@ export function renderNewsArticlePage(article, relatedArticles, requestUrl) {
       inLanguage: "ka-GE",
       mainEntityOfPage: canonical,
       publisher: { "@type": "Organization", name: "Investors.ge", url: "https://investors.ge/" },
-      isBasedOn: article.url,
+      isBasedOn: creditedUrl,
     }).replaceAll("<", "\\u003c");
   const body = `<main id="main" class="article-shell">
     <a class="article-back" href="/news">← ყველა სიახლე</a>
     <article class="panel article-card">
       <span class="article-category">${escapeHtml(article.category || "ფინანსური სიახლე")}</span>
       <h1>${escapeHtml(title)}</h1>
-      <div class="article-meta"><strong>${escapeHtml(article.source)}</strong><span>${escapeHtml(formatPublishedAt(article.published_at))}</span><span>ავტომატურად დამუშავებული ქართული ვერსია</span></div>
+      <div class="article-meta"><strong>Investors.ge</strong><span>${escapeHtml(formatPublishedAt(article.published_at))}</span><span>წყარო: ${escapeHtml(article.source)}</span></div>
       <p class="article-summary">${escapeHtml(summary)}</p>
-      <div class="article-context"><strong>რას კითხულობთ:</strong> Investors.ge წარმოგიდგენთ წყაროს სათაურის ქართულ თარგმანსა და მოკლე ფაქტობრივ შეჯამებას. სრული სტატია ეკუთვნის თავდაპირველ გამომცემელს.</div>
+      ${fullBody ? `<div class="article-context"><strong>Investors.ge-ის ქართული მიმოხილვა:</strong> სტატია დამოუკიდებლადაა დაწერილი მითითებული გამომცემლის ფაქტებზე დაყრდნობით. ეს არ არის წყაროს სრული თარგმანი ან ასლი.</div><div class="article-body">${fullBody}</div>` : `<div class="article-context"><strong>მოკლე ამბავი:</strong> ამ მასალისთვის სრული ქართული მიმოხილვა ჯერ მზად არ არის. Investors.ge აჩვენებს მხოლოდ სათაურის თარგმანსა და მოკლე ფაქტობრივ შეჯამებას.</div>`}
       <div class="article-actions"><a class="button" href="/news">სხვა ქართული ამბები</a><a class="button secondary" href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer">ორიგინალი წყარო ↗</a></div>
       <p class="article-disclosure">მასალა საინფორმაციო და საგანმანათლებლო მიზნებისთვისაა და არ წარმოადგენს საინვესტიციო რეკომენდაციას. თარგმანის ან ფაქტობრივი უზუსტობის შემთხვევაში მოგვწერეთ შესწორების მოთხოვნა.</p>
     </article>

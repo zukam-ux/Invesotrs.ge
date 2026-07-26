@@ -319,9 +319,19 @@ async function syncPublishedNews(env) {
   await env.DB.batch(
     articles.map((article) =>
       env.DB.prepare(
-        `INSERT OR IGNORE INTO articles
-        (id, title, title_ka, summary_ka, source, url, published_at, category)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+        `INSERT INTO articles
+        (id, title, title_ka, summary_ka, source, url, published_at, category, body_ka, source_url)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        ON CONFLICT(id) DO UPDATE SET
+          title = excluded.title,
+          title_ka = excluded.title_ka,
+          summary_ka = excluded.summary_ka,
+          source = excluded.source,
+          url = excluded.url,
+          published_at = excluded.published_at,
+          category = excluded.category,
+          body_ka = COALESCE(excluded.body_ka, articles.body_ka),
+          source_url = COALESCE(excluded.source_url, articles.source_url)`,
       ).bind(
         article.id,
         article.title,
@@ -331,6 +341,8 @@ async function syncPublishedNews(env) {
         article.url,
         article.publishedAt,
         article.category || "ბაზრები",
+        article.bodyKa || null,
+        article.sourceUrl || null,
       ),
     ),
   );
@@ -353,9 +365,19 @@ async function ingestNews(request, env) {
   await env.DB.batch(
     articles.map((article) =>
       env.DB.prepare(
-        `INSERT OR IGNORE INTO articles
-        (id, title, title_ka, summary_ka, source, url, published_at, category)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+        `INSERT INTO articles
+        (id, title, title_ka, summary_ka, source, url, published_at, category, body_ka, source_url)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        ON CONFLICT(id) DO UPDATE SET
+          title = excluded.title,
+          title_ka = excluded.title_ka,
+          summary_ka = excluded.summary_ka,
+          source = excluded.source,
+          url = excluded.url,
+          published_at = excluded.published_at,
+          category = excluded.category,
+          body_ka = COALESCE(excluded.body_ka, articles.body_ka),
+          source_url = COALESCE(excluded.source_url, articles.source_url)`,
       ).bind(
         article.id,
         article.title,
@@ -365,6 +387,8 @@ async function ingestNews(request, env) {
         article.url,
         article.publishedAt,
         article.category || "ბაზრები",
+        article.bodyKa || null,
+        article.sourceUrl || null,
       ),
     ),
   );
@@ -402,7 +426,7 @@ async function serveNews(env) {
       updatedAt: articles[0]?.publishedAt ?? null,
       source: "Google News RSS metadata and original publishers",
       methodology:
-        "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
+        "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews based on credited publisher facts; source articles are not reproduced.",
       articles,
     },
     {
@@ -416,7 +440,7 @@ async function serveNews(env) {
 
 async function serveNewsArticle(request, env, articleId) {
   const article = await env.DB.prepare(
-    `SELECT id, title, title_ka, summary_ka, source, url,
+    `SELECT id, title, title_ka, summary_ka, body_ka, source, url, source_url,
             published_at, category, translation_notice
      FROM articles
      WHERE id = ?
