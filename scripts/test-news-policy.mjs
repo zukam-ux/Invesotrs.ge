@@ -25,6 +25,8 @@ assert.ok(collector.includes("conflictNewsTerms"));
 assert.ok(worker.includes("conflictNewsTerms.test"));
 assert.ok(shared.includes("recentEditorialLead"));
 assert.ok(shared.includes("maxAgeHours=4"));
+assert.ok(shared.includes("function newestNews"));
+assert.ok(shared.includes("latest.filter(article=>article.id!==lead.id)"));
 assert.ok(shared.includes("setInterval(refreshRelativeNewsTimes,60000)"));
 assert.ok(shared.includes("function editorialPhoto"));
 assert.ok(shared.includes("CC BY 4.0"));

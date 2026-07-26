@@ -209,6 +209,11 @@ function isConflictNews(article){
 function curatedNews(articles){
   return [...articles].filter(article=>!isConflictNews(article)).sort((a,b)=>editorialScore(b)-editorialScore(a));
 }
+function newestNews(articles){
+  return [...articles]
+    .filter(article=>!isConflictNews(article))
+    .sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt));
+}
 function recentEditorialLead(articles,maxAgeHours=4){
   const eligible=curatedNews(articles);
   const recent=eligible.filter(article=>(Date.now()-new Date(article.publishedAt).getTime())<=maxAgeHours*36e5);
@@ -296,7 +301,7 @@ function editorialIdentity(identity,article){
   return `<span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)} ${newsQuoteBadge(identity)}</b><small>${relativeNewsTime(article.publishedAt)} · ${escapeNews(article.source)}</small></span></span>`;
 }
 function renderEditorialHome(target,articles){
-  const eligible=curatedNews(articles),lead=recentEditorialLead(eligible),selected=lead?[lead,...eligible.filter(article=>article.id!==lead.id)].slice(0,8):[],features=selected.slice(1,3),rail=selected.slice(3,8);
+  const eligible=curatedNews(articles),latest=newestNews(articles),lead=recentEditorialLead(eligible),selected=lead?[lead,...latest.filter(article=>article.id!==lead.id)].slice(0,8):[],features=selected.slice(1,3),rail=selected.slice(3,8);
   if(!lead){
     target.innerHTML='<div class="news-status">მთავარი ამბების პირველი განახლება მზადდება.</div>';
     return;
