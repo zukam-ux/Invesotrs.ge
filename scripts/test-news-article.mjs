@@ -30,6 +30,8 @@ assert.ok(worker.includes("source_url"));
 assert.ok(updater.includes("writeOriginalGeorgianArticle"));
 assert.ok(updater.includes("This is not a translation"));
 assert.ok(updater.includes("Do not add facts"));
+assert.ok(updater.includes("GitHub Models fallback"));
+assert.ok(updater.includes("maxHeaderSize: 128 * 1024"));
 
 const article = {
   id: "642ddbca2c89f924",

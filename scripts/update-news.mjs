@@ -1,6 +1,7 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { createHash } from "node:crypto";
 import decoderPackage from "google-news-url-decoder";
+import { Agent } from "undici";
 
 const { GoogleDecoder } = decoderPackage;
 
@@ -44,6 +45,7 @@ const FEED_TIMEOUT_MS = 12_000;
 const ARTICLE_TIMEOUT_MS = 15_000;
 const ARTICLE_ENRICH_LIMIT = 4;
 const requestedBackfillId = process.env.ARTICLE_BACKFILL_ID?.trim();
+const publisherAgent = new Agent({ maxHeaderSize: 128 * 1024 });
 
 if (!token) throw new Error("GITHUB_TOKEN is required for Georgian translation");
 
@@ -316,6 +318,7 @@ async function resolveSourceArticle(article) {
       "user-agent": "Mozilla/5.0 (compatible; Investors.ge newsroom/1.0)",
     },
     signal: AbortSignal.timeout(ARTICLE_TIMEOUT_MS),
+    dispatcher: publisherAgent,
   });
   if (!response.ok) throw new Error(`Publisher returned HTTP ${response.status}`);
   const sourceText = extractArticleText(await response.text());
@@ -326,7 +329,6 @@ async function resolveSourceArticle(article) {
 }
 
 async function writeOriginalGeorgianArticle(article, sourceText) {
-  if (!geminiApiKey) throw new Error("GEMINI_API_KEY is not configured");
   const schema = {
     type: "object",
     properties: {
@@ -360,7 +362,7 @@ async function writeOriginalGeorgianArticle(article, sourceText) {
   });
   const models = ["gemini-3.5-flash", "gemini-3.1-flash-lite"];
   let lastError;
-  for (const model of models) {
+  for (const model of geminiApiKey ? models : []) {
     for (let attempt = 1; attempt <= 3; attempt += 1) {
       const response = await fetch(
         `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,
@@ -398,7 +400,45 @@ async function writeOriginalGeorgianArticle(article, sourceText) {
       if (attempt < 3) await wait(attempt * 2_000);
     }
   }
-  throw lastError ?? new Error("Georgian article generation failed");
+  console.warn(
+    `Gemini article generation failed; using GitHub Models fallback: ${
+      lastError?.message || "GEMINI_API_KEY is not configured"
+    }`,
+  );
+  const githubResponse = await fetch(
+    "https://models.github.ai/inference/chat/completions",
+    {
+      method: "POST",
+      headers: {
+        authorization: `Bearer ${token}`,
+        "content-type": "application/json",
+      },
+      body: JSON.stringify({
+        model: "openai/gpt-4o-mini",
+        temperature: 0.15,
+        max_tokens: 3000,
+        response_format: { type: "json_object" },
+        messages: [
+          {
+            role: "system",
+            content:
+              "You are a careful Georgian financial journalist. Return valid JSON only with one bodyKa string. Use only supplied source facts, never invent information or investment advice, and write an original overview rather than a translation.",
+          },
+          { role: "user", content: prompt },
+        ],
+      }),
+    },
+  );
+  if (!githubResponse.ok) {
+    throw new Error(`GitHub Models returned ${githubResponse.status}`);
+  }
+  const payload = await githubResponse.json();
+  const parsed = JSON.parse(payload.choices?.[0]?.message?.content ?? "{}");
+  const bodyKa = parsed.bodyKa?.trim();
+  if (!bodyKa || bodyKa.length < 600) {
+    throw new Error(`GitHub Models returned an article that is too short (${bodyKa?.length || 0})`);
+  }
+  return bodyKa;
 }
 
 async function enrichArticle(article) {
