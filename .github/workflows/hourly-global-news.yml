@@ -43,7 +43,17 @@ jobs:
             git config user.email "news-bot@users.noreply.github.com"
             git add data/global-news.json
             git commit -m "Update global financial news [skip netlify]"
-            git push
+            for attempt in 1 2 3; do
+              git pull --rebase origin main
+              if git push; then
+                break
+              fi
+              if [ "$attempt" = 3 ]; then
+                echo "News publication failed after 3 push attempts" >&2
+                exit 1
+              fi
+              sleep $((attempt * 2))
+            done
           fi
       - name: Send archive to Cloudflare D1
         env:

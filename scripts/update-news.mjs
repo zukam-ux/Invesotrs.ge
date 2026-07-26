@@ -19,6 +19,8 @@ const FEED_URLS = feedQueries.map(
 const OUTPUT_PATH = new URL("../data/global-news.json", import.meta.url);
 const token = process.env.GITHUB_TOKEN;
 const geminiApiKey = process.env.GEMINI_API_KEY;
+const FEED_MAX_ATTEMPTS = 4;
+const FEED_TIMEOUT_MS = 12_000;
 
 if (!token) throw new Error("GITHUB_TOKEN is required for Georgian translation");
 
@@ -133,6 +135,42 @@ async function translateWithGemini(items) {
   throw lastError ?? new Error("Gemini translation failed");
 }
 
+function wait(milliseconds) {
+  return new Promise((resolve) => setTimeout(resolve, milliseconds));
+}
+
+async function fetchFeed(url, feedNumber) {
+  let lastStatus = "network error";
+  for (let attempt = 1; attempt <= FEED_MAX_ATTEMPTS; attempt += 1) {
+    try {
+      const response = await fetch(url, {
+        headers: {
+          accept: "application/rss+xml, application/xml;q=0.9, text/xml;q=0.8",
+          "user-agent": "Mozilla/5.0 (compatible; Investors.ge financial news monitor/1.0)",
+        },
+        signal: AbortSignal.timeout(FEED_TIMEOUT_MS),
+      });
+      if (response.ok) {
+        const items = parseFeed(await response.text());
+        console.log(`Feed ${feedNumber} returned ${items.length} stories on attempt ${attempt}`);
+        return items;
+      }
+      lastStatus = `HTTP ${response.status}`;
+      if (![429, 500, 502, 503, 504].includes(response.status)) break;
+    } catch (error) {
+      lastStatus = error.name === "TimeoutError" ? "timeout" : error.message;
+    }
+    if (attempt < FEED_MAX_ATTEMPTS) {
+      const delay = attempt * 2_000 + Math.floor(Math.random() * 1_000);
+      console.warn(
+        `Feed ${feedNumber} failed with ${lastStatus}; retrying in ${delay}ms (${attempt}/${FEED_MAX_ATTEMPTS})`,
+      );
+      await wait(delay);
+    }
+  }
+  throw new Error(`Feed ${feedNumber} failed after ${FEED_MAX_ATTEMPTS} attempts: ${lastStatus}`);
+}
+
 async function translateWithGithub(items) {
   const response = await fetch("https://models.github.ai/inference/chat/completions", {
     method: "POST",
@@ -186,13 +224,21 @@ async function translate(items) {
   }
 }
 
-const feedResponses = await Promise.all(
-  FEED_URLS.map((url) =>
-    fetch(url, { headers: { "user-agent": "Investors.ge global news monitor/1.0" } }),
-  ),
+const feedResults = await Promise.allSettled(
+  FEED_URLS.map((url, index) => fetchFeed(url, index + 1)),
 );
-if (feedResponses.some((response) => !response.ok)) {
-  throw new Error(`Global news feed failed: ${feedResponses.map((response) => response.status).join(",")}`);
+const successfulFeeds = feedResults
+  .filter((result) => result.status === "fulfilled")
+  .map((result) => result.value);
+const failedFeeds = feedResults.filter((result) => result.status === "rejected");
+failedFeeds.forEach((result) => console.warn(result.reason.message));
+if (!successfulFeeds.length) {
+  throw new Error(`All ${FEED_URLS.length} global news feeds failed after retries`);
+}
+if (failedFeeds.length) {
+  console.warn(
+    `Continuing with ${successfulFeeds.length}/${FEED_URLS.length} healthy global news feeds`,
+  );
 }
 const trustedSources = new Set([
   "Yahoo Finance",
@@ -208,9 +254,7 @@ const lowValueTerms =
   /\b(earnings call|buy now|sell now|best stocks?|top stocks?|double down|double a position|without (any )?hesitation|could soar|millionaire|secret stock|strong buy)\b/i;
 const conflictNewsTerms =
   /\b(ukraine|ukrainian|russia|russian|gaza|hamas|hezbollah|drone strike|airstrike|air strike|missile attack|military attack|battlefield|invasion|bombing|troop deployment|war in ukraine|israel.{0,20}(war|attack|strike)|iran.{0,20}(war|attack|strike|missile))\b/i;
-const feedItems = (
-  await Promise.all(feedResponses.map(async (response) => parseFeed(await response.text())))
-)
+const feedItems = successfulFeeds
   .flat()
   .filter((item) => trustedSources.has(item.source) && financeTerms.test(item.title))
   .filter((item) => !lowValueTerms.test(item.title))
