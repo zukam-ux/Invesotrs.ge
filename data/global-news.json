@@ -1,8 +1,41 @@
 {
-  "updatedAt": "2026-07-26T19:50:51.694Z",
+  "updatedAt": "2026-07-26T20:43:00.906Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "d974dc11707f20fc",
+      "title": "Tesla Is Still Overvalued After Its 14% Post-Earnings Drop",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDYtQkZfMmJ4a0dPSkEybGJDTjRPWnE4T05CNlJJSzZZb016Z21MR2g0cG5YWC11UjRYelJtRzRmR2tqajQxdVBpX1BWOHdQM0VUR3lzZFlWMnFieG85WFJTQkdpZF9IX2tYMGlRWTE2UVFrWm9Cd1RacGVDdDFidDhYenRRQThrd0M1Q0JNTXpCclhhbFlnS3Y0Zw?oc=5",
+      "publishedAt": "2026-07-26T20:17:00.000Z",
+      "titleKa": "ტესლა კვლავ ზედმეტად გაწვდილია 14%-იანი მოგების შემდეგი ვარდნის შემდეგ",
+      "summaryKa": "ტესლას აქციები კვლავ ზედმეტად გაწვდილი ითვლება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3999227e6d090e2f",
+      "title": "Is Equal-Weighting the S&P 500 Worth It? Here’s What the Data Says",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlV1YU5Pem9WRWJsS0RpYWpIQ1RjOXZfNGN1LTZlNzdmcFhMWl9IcXFVaUREWURnSUZCV05fQzhoVjB0ZGY1VHMtQ3A5bnQyeGpHZTA2dTZmNkxhdUNtc3lDMjFMYkpZV1hjaEtZb0V4eWxwd1ROLXNSeWJSbHhFb3BvQlowMnBNOUI2UklXaE1UcEJXYkxV?oc=5",
+      "publishedAt": "2026-07-26T20:02:46.000Z",
+      "titleKa": "არის თუ არა S&P 500-ის თანაბარი წონის გამოყენება ღირსეული? აქ არის მონაცემები",
+      "summaryKa": "მონაცემები განიხილავს S&P 500-ის თანაბარი წონის გამოყენების ღირებულებას.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5e7ea02ade714540",
+      "title": "3 Absurdly Cheap Dividend Stocks to Buy Before August",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNER2N1JQbl9Zei1qSkVGUVlMMTNsSTVRVkhWUW0ycWExMmRlY084RVZfWnlBSFZiWE8wM3dVM0FueUZTbVBKMjZ6WWZWd1B1M0s5QkI2N0FDekVrRkFGeTVJLVZWYnFjUmZQNW01eVNzcUxkd1A4Vzdjc2Y0R1pWZVRWcUlDN2MzTjlaMDNGNVk2UUV4NUVyRXZ0cVhTUQ?oc=5",
+      "publishedAt": "2026-07-26T19:37:00.000Z",
+      "titleKa": "აგვისტოს წინ 3 უკიდურესად იაფი დივიდენდური აქცია უნდა შეიძინოთ",
+      "summaryKa": "ამ სტატიაში განხილულია 3 იაფი დივიდენდური აქცია, რომელიც უნდა შეიძინოთ აგვისტოს წინ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "5b3e74fbd7f32575",
       "title": "Which Is the Better Investment: Crypto or the Moon?",
@@ -12,6 +45,17 @@
       "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
       "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
       "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2ad2b5900089ad1a",
+      "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUExrYVF1bmhCTzZQa2w3S1FCckozQzFCQ3IzNVpPeFU4WVJIcGxQWDZlR3hjRXl2RHdRNTBHcFdDdElWWmVBUzE5UFZhcHJsRG9lVzZzWGJmVkFCOUFLenFtTExjMnVaSGFjNmY1SDZuOGI1LWNjRi14YmV3ZG13Mzc1YU1HdFg4M2VyVEFUTjJyQmZzd2IwajlXNjNTbXc4bkpKZlU0cldUdDdzaFFyclkxMDM4XzFqUUc1emx3?oc=5",
+      "publishedAt": "2026-07-26T19:15:00.000Z",
+      "titleKa": "ბირჟებზე ტექნიკური 'სამმაგი საფრთხე' არსებობს, მაგრამ ინვესტორებისთვის დამალვის ადგილებიც არის",
+      "summaryKa": "ბირჟებზე ტექნიკური საფრთხეები და ინვესტორების დამალვის ადგილები არსებობს.",
+      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -264,17 +308,6 @@
       "publishedAt": "2026-07-26T13:08:49.000Z",
       "titleKa": "Las Vegas Sands (LVS) შეიძლება undervalued იყოს სუსტ მოგებებსა და დიდ სასტუმრო ხარჯებზე.",
       "summaryKa": "Las Vegas Sands (LVS) სუსტ მოგებებსა და დიდ ხარჯებზე შეიძლება undervalued იყოს.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "2ad2b5900089ad1a",
-      "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
-      "source": "MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUExrYVF1bmhCTzZQa2w3S1FCckozQzFCQ3IzNVpPeFU4WVJIcGxQWDZlR3hjRXl2RHdRNTBHcFdDdElWWmVBUzE5UFZhcHJsRG9lVzZzWGJmVkFCOUFLenFtTExjMnVaSGFjNmY1SDZuOGI1LWNjRi14YmV3ZG13Mzc1YU1HdFg4M2VyVEFUTjJyQmZzd2IwajlXNjNTbXc4bkpKZlU0cldUdDdzaFFyclkxMDM4XzFqUUc1emx3?oc=5",
-      "publishedAt": "2026-07-26T13:00:00.000Z",
-      "titleKa": "ბირჟებზე ტექნიკური 'სამმაგი საფრთხე' არსებობს, მაგრამ ინვესტორებისთვის დამალვის ადგილებიც არის",
-      "summaryKa": "ბირჟებზე ტექნიკური საფრთხეები და ინვესტორების დამალვის ადგილები არსებობს.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
