@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-07-26T11:58:31.305Z",
+  "updatedAt": "2026-07-26T13:10:28.318Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "2ad2b5900089ad1a",
+      "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUExrYVF1bmhCTzZQa2w3S1FCckozQzFCQ3IzNVpPeFU4WVJIcGxQWDZlR3hjRXl2RHdRNTBHcFdDdElWWmVBUzE5UFZhcHJsRG9lVzZzWGJmVkFCOUFLenFtTExjMnVaSGFjNmY1SDZuOGI1LWNjRi14YmV3ZG13Mzc1YU1HdFg4M2VyVEFUTjJyQmZzd2IwajlXNjNTbXc4bkpKZlU0cldUdDdzaFFyclkxMDM4XzFqUUc1emx3?oc=5",
+      "publishedAt": "2026-07-26T13:00:00.000Z",
+      "titleKa": "ბირჟებზე ტექნიკური 'სამმაგი საფრთხე' არსებობს, მაგრამ ინვესტორებისთვის დამალვის ადგილებიც არის",
+      "summaryKa": "ბირჟებზე ტექნიკური საფრთხეები და ინვესტორების დამალვის ადგილები არსებობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "511ffba17e52e43f",
+      "title": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNblZPUEQxem4tUVh3WjlsR1Q5MGxoRzhoVXgtWDlfT19KRXNSdjNqM3l6Y2VNUlFla0xMUFpGREFjVmdyTnlpYk9MLVB0TUp6NGZBQ19LaXNwX3gtaTVKWndpVXlkVXVZZVJOSXFfbl9Dd3Z6UThaakg1aE1oN1hZSXhMYTRhMWtjcEZRbG1zSEFwZHFPM2FCT0lxV0k0VzZkVUFaX1VRdEZsOXNtNkZyRTI4dElHM0R5emQ3eUJuT0UzUG9sclNpVXRLQ3ViRGJadU9Sc2xWTlEwQnFDaTY2T0x3ekdyTGdpTlE?oc=5",
+      "publishedAt": "2026-07-26T12:10:56.000Z",
+      "titleKa": "'AI ვაჭრობა კვლავ აქტიურია': უოლ სტრიტი დიდი ტექნოლოგიების ხარჯვას სემიკონდუქტორების აქციებისათვის დადებითად აფასებს",
+      "summaryKa": "უოლ სტრიტი დიდი ტექნოლოგიების ხარჯვას სემიკონდუქტორების აქციებისათვის დადებითად აფასებს.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "13ee1787a9db130c",
+      "title": "Corporate America is the most optimistic it's been in 15 years — but the market's still stuck: Chart of the Day",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeEpQV25ELVZndDAyMHNpNVk1ODl1V21GWVEzQ3hVRXludVUxcFM5X0RRaW4yVkIyR0lxand3dlVBN1BlZGcxRUpZNkNSVXY3SXB6ZHUyc1pZUWpqTkdsc2FncmZ3UFV4RWVxUjVMVXBOTWlZSG1kSC1kckljbmRJY084OG5sY3VkQjN4UmlqdkpuajVINHlWTi02TGpYVGdJOVJWcUcxWkZIMi1xZ0RsSUs3c1pwNzZScHZMTVhjY3FZTWhiWWlMUjN5TVBaZlpFeWlzcXI2STN5WUhoVFFtVjVQZzlLSXRUTGlFcUF0OHQ2VkNmYm1r?oc=5",
+      "publishedAt": "2026-07-26T12:10:54.000Z",
+      "titleKa": "კორპორატიული ამერიკა 15 წლის განმავლობაში ყველაზე ოპტიმისტულია - მაგრამ ბაზარი კვლავ გაჩერებულია: დღის დიაგრამა",
+      "summaryKa": "კორპორატიული ამერიკა 15 წლის განმავლობაში ყველაზე ოპტიმისტულია, თუმცა ბაზარი გაჩერებულია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "df6ba2eea22cd88d",
+      "title": "Is Banner (BANR) Undervalued As Earnings Rise And The Dividend Holds?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY0d3ZFpoc3hVMUtFTmlSd2d2OUZMV0cwbUZBNUFFUm1pbnN4TFJtbW44TGhyYzE5blZWV3VHTVJaNTkxc3J4SFphTmp5RGU5Yl9ERzJsNXdzZXNBWEZPYTFMUm1aamQtUTMyVFFpcnBWTXFBbjBxMElTMVV2MG5LV2hlT2dHWEFlbHdTa1o1dXN6NmYxb1ZBdjdXdkxUZE03aGJISg?oc=5",
+      "publishedAt": "2026-07-26T12:08:09.000Z",
+      "titleKa": "არის თუ არა Banner (BANR) undervalued, რადგან მოგება იზრდება და დივიდენდები შენარჩუნებულია?",
+      "summaryKa": "Banner (BANR) შეიძლება undervalued იყოს, რადგან მოგება იზრდება და დივიდენდები შენარჩუნებულია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5b3e74fbd7f32575",
+      "title": "Which Is the Better Investment: Crypto or the Moon?",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
+      "publishedAt": "2026-07-26T12:00:20.000Z",
+      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
+      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4ca4b5a5b79fd62a",
+      "title": "Investing $100 per Month in This Growth ETF Could Become $106,000 in 20 Years. Here's How.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXpEN0FxMzYxbWJHSnNDZEIwTU03MFpiRUF1d25PeWVEQnJ5MTFlbUpuemdBNGpJRi11SU9odjdKYUtDWkVXR0tIN2JpV3VTQndtc0N2SjNvbHE3amxIQUxOVUJ6blNsYzFHamcxeS1MU2NGZ1haZDdCcHNWMmVXaXF5b1pmeWpIeUJuTTE0dm5fa3dYdGtlbE1sNA?oc=5",
+      "publishedAt": "2026-07-26T11:48:00.000Z",
+      "titleKa": "თუ ყოველ თვეში $100-ს ამ ზრდის ETF-ში ჩადებთ, 20 წლის განმავლობაში $106,000 შეიძლება გახდეს. აი როგორ.",
+      "summaryKa": "თუ ყოველ თვეში $100-ს ზრდის ETF-ში ჩადებთ, 20 წლის განმავლობაში $106,000 შეიძლება გახდეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "22e7f17143d713c5",
       "title": "Robert Half (RHI) Falls On Earnings And Guidance But Is The Valuation Now Compelling",
@@ -23,6 +89,28 @@
       "titleKa": "კაპიტალ ეკონომიქსი აფრთხილებს, რომ უცხოური შესყიდვების ბუმი S&P 500-ისთვის რისკების სიგნალი შეიძლება იყოს",
       "summaryKa": "კაპიტალ ეკონომიქსი აფრთხილებს, რომ უცხოური შესყიდვების ბუმი S&P 500-ისთვის რისკების სიგნალი შეიძლება იყოს.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1f8cc25678326a22",
+      "title": "Two Central Banks Decide Interest Rates Next Week: What It Means for Bitcoin",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZDJDWEszRXpLVElVQUhZbVVvYU1XWGw4R0RsMkt2WkEzWHR6UlBJWUNIMUpoMGJyWUdSSGxrdGhZRm5lR3lnRWxpVFpFSlNUaHE3U3ViV0JRMVVvRGdKemhnWXBwbTlMbGxCeTBPYXJLTXh0eGtGRnpZOTZwazRGRjlUTFJQY1NRRU1XcnhYU3lnT2NlaUVNZ3BRM2w0SzQ?oc=5",
+      "publishedAt": "2026-07-26T11:00:00.000Z",
+      "titleKa": "ორი ცენტრალური ბანკი მომავალი კვირის განმავლობაში განიხილავს საპროცენტო განაკვეთებს: რა ნიშნავს ეს Bitcoin-ისთვის",
+      "summaryKa": "ორი ცენტრალური ბანკი მომავალი კვირის განმავლობაში საპროცენტო განაკვეთებს განიხილავს, რაც Bitcoin-ისთვის მნიშვნელოვანია.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d64cbfcb09d20112",
+      "title": "Wall Street's Cheapest Bitcoin ETF Made $400 Million Without Lifting A Finger — Executive Sees More Assets Ahead",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZHFTSUhKa185cEZsTmhPaVRIQkRULXVKVk93NXVqSFJncFpyYnoyZ2VjV2ZsMjdmTzVFMFlOUEVla0xidlR3Rl9SZVBNc2pHZ08xVFlqWmh3a1VtZWxybVQ3NzVfT1o0ZW1fdklXcnpwVk5QUjhtTWIyNDFZYmowTGh0ZTBRa1pYZTZQNUlETDAxMFNiZVpmeWZnX2hIVjA?oc=5",
+      "publishedAt": "2026-07-26T10:49:28.000Z",
+      "titleKa": "უოლ სტრიტის ყველაზე იაფი Bitcoin ETF-მა $400 მილიონი გამოიმუშავა, ხელის აწევის გარეშე - აღმასრულებელი ხედავს მეტი აქტივების წინ",
+      "summaryKa": "უოლ სტრიტის ყველაზე იაფი Bitcoin ETF-მა $400 მილიონი გამოიმუშავა, ხელის აწევის გარეშე.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
