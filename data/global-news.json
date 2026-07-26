@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-07-26T10:24:15.506Z",
+  "updatedAt": "2026-07-26T10:57:58.436Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "a1b5a620656d8486",
+      "title": "SpaceX vs. Nvidia: Which Trillion-Dollar Artificial Intelligence (AI) Stock Is the Better Buy After the Recent Pullback?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOEJwZUl0Z2NiLUVqX1lKSmlwdmpWRFJKd2RUVHVSaHZxQnFMQk9icXpETWw4MS1oclIzNTBYdUpKQXdfUV83NTV6ZjNVMlFjemR1aHFubmgtbmRTelBoRjZ1RjFxRk9DY3h6dFF3di1JRHlNSFpOeVBUb0xCT3psRFlJZ2NIQVFrNktFWG1hTHB3X0YwSmMxYmlRcG5HQQ?oc=5",
+      "publishedAt": "2026-07-26T10:20:00.000Z",
+      "titleKa": "SpaceX და Nvidia: რომელი ტრილიონ-დოლარიანი ხელოვნური ინტელექტის (AI) აქციაა უკეთესი შესყიდვისთვის ბოლო ვარდნის შემდეგ?",
+      "summaryKa": "SpaceX და Nvidia არის ტრილიონ-დოლარიანი ხელოვნური ინტელექტის (AI) აქციები.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "78e97af09e23a896",
       "title": "Preferred Bank (PFBC) Stock May Be Cheap After Strong Q2 Earnings",
