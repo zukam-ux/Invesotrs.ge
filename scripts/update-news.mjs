@@ -7,15 +7,32 @@ const feedQueries = [
   "(bitcoin OR ethereum OR crypto) when:1d",
   "(\"Federal Reserve\" OR inflation OR oil OR gold OR bonds) when:1d",
 ];
-const FEED_URLS = feedQueries.map(
+const PRIMARY_FEEDS = feedQueries.map(
   (q) =>
-    `https://news.google.com/rss/search?${new URLSearchParams({
-      q,
-      hl: "en-US",
-      gl: "US",
-      ceid: "US:en",
-    })}`,
+    ({
+      url: `https://news.google.com/rss/search?${new URLSearchParams({
+        q,
+        hl: "en-US",
+        gl: "US",
+        ceid: "US:en",
+      })}`,
+      source: "Google News",
+    }),
 );
+const FALLBACK_FEEDS = [
+  {
+    url: "https://feeds.finance.yahoo.com/rss/2.0/headline?s=%5EGSPC,%5EIXIC,BTC-USD,CL%3DF&region=US&lang=en-US",
+    source: "Yahoo Finance",
+  },
+  {
+    url: "https://www.nasdaq.com/feed/rssoutbound?category=Markets",
+    source: "Nasdaq",
+  },
+  {
+    url: "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+    source: "MarketWatch",
+  },
+];
 const OUTPUT_PATH = new URL("../data/global-news.json", import.meta.url);
 const token = process.env.GITHUB_TOKEN;
 const geminiApiKey = process.env.GEMINI_API_KEY;
@@ -41,13 +58,13 @@ function tag(block, name) {
   return decode(block.match(new RegExp(`<${name}[^>]*>([\\s\\S]*?)<\\/${name}>`, "i"))?.[1]);
 }
 
-function parseFeed(xml) {
+function parseFeed(xml, defaultSource) {
   return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)]
     .map((match) => {
       const combinedTitle = tag(match[1], "title");
       const separator = combinedTitle.lastIndexOf(" - ");
       const title = separator > 0 ? combinedTitle.slice(0, separator) : combinedTitle;
-      const source = separator > 0 ? combinedTitle.slice(separator + 3) : "Global news";
+      const source = separator > 0 ? combinedTitle.slice(separator + 3) : defaultSource;
       const url = tag(match[1], "link");
       const publishedAt = new Date(tag(match[1], "pubDate")).toISOString();
       return {
@@ -139,11 +156,11 @@ function wait(milliseconds) {
   return new Promise((resolve) => setTimeout(resolve, milliseconds));
 }
 
-async function fetchFeed(url, feedNumber) {
+async function fetchFeed(feed, feedNumber) {
   let lastStatus = "network error";
   for (let attempt = 1; attempt <= FEED_MAX_ATTEMPTS; attempt += 1) {
     try {
-      const response = await fetch(url, {
+      const response = await fetch(feed.url, {
         headers: {
           accept: "application/rss+xml, application/xml;q=0.9, text/xml;q=0.8",
           "user-agent": "Mozilla/5.0 (compatible; Investors.ge financial news monitor/1.0)",
@@ -151,7 +168,7 @@ async function fetchFeed(url, feedNumber) {
         signal: AbortSignal.timeout(FEED_TIMEOUT_MS),
       });
       if (response.ok) {
-        const items = parseFeed(await response.text());
+        const items = parseFeed(await response.text(), feed.source);
         console.log(`Feed ${feedNumber} returned ${items.length} stories on attempt ${attempt}`);
         return items;
       }
@@ -224,20 +241,35 @@ async function translate(items) {
   }
 }
 
-const feedResults = await Promise.allSettled(
-  FEED_URLS.map((url, index) => fetchFeed(url, index + 1)),
+async function collectFeeds(feeds, label) {
+  const results = await Promise.allSettled(
+    feeds.map((feed, index) => fetchFeed(feed, `${label} ${index + 1}`)),
+  );
+  const successful = results
+    .filter((result) => result.status === "fulfilled")
+    .map((result) => result.value);
+  const failed = results.filter((result) => result.status === "rejected");
+  failed.forEach((result) => console.warn(result.reason.message));
+  return { successful, failed };
+}
+
+let { successful: successfulFeeds, failed: failedFeeds } = await collectFeeds(
+  PRIMARY_FEEDS,
+  "primary",
 );
-const successfulFeeds = feedResults
-  .filter((result) => result.status === "fulfilled")
-  .map((result) => result.value);
-const failedFeeds = feedResults.filter((result) => result.status === "rejected");
-failedFeeds.forEach((result) => console.warn(result.reason.message));
 if (!successfulFeeds.length) {
-  throw new Error(`All ${FEED_URLS.length} global news feeds failed after retries`);
+  console.warn("All primary feeds failed; switching to independent publisher feeds");
+  ({ successful: successfulFeeds, failed: failedFeeds } = await collectFeeds(
+    FALLBACK_FEEDS,
+    "fallback",
+  ));
+}
+if (!successfulFeeds.length) {
+  throw new Error("All primary and fallback global news feeds failed after retries");
 }
 if (failedFeeds.length) {
   console.warn(
-    `Continuing with ${successfulFeeds.length}/${FEED_URLS.length} healthy global news feeds`,
+    `Continuing with ${successfulFeeds.length} healthy global news feeds`,
   );
 }
 const trustedSources = new Set([
