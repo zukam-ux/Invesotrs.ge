@@ -576,7 +576,16 @@ try {
 } catch {}
 const previousById = new Map(previous.articles.map((item) => [item.id, item]));
 const newItems = items.filter((item) => !previousById.has(item.id));
-const translated = newItems.length ? await translate(newItems) : new Map();
+let translated = new Map();
+if (newItems.length && !requestedBackfillId) {
+  try {
+    translated = await translate(newItems);
+  } catch (error) {
+    console.warn(
+      `New headline translation is temporarily unavailable; preserving the current archive: ${error.message}`,
+    );
+  }
+}
 
 const refreshedArticles = items
   .map((item) => {
