@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T18:40:55.333Z",
+  "updatedAt": "2026-07-26T19:50:51.694Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
@@ -8,10 +8,54 @@
       "title": "Which Is the Better Investment: Crypto or the Moon?",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
-      "publishedAt": "2026-07-26T18:02:38.000Z",
+      "publishedAt": "2026-07-26T19:32:38.000Z",
       "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
       "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
       "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "66a58c37615e8047",
+      "title": "Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzltUHFiVVZqOHljZXMyWDNKanJTODctLWZQOTV5eW90MV9JaFF1R2Z6S1JfbzROTGZQcGlDLThSNmN1ZjNXbzV5Z3BMV3E5di1hX0ZWRnREOVRpOXpRWXhJWkZaZmdOOWprQWlxcFhCRHBacENSdlVIOFROUEhuVUZESGNOOW1yekZXMHVaYko1N1lManRZeHRUZ3RzbTJYdWlsZERUVVgwN2lZVzRfNUh3OA?oc=5",
+      "publishedAt": "2026-07-26T19:00:00.000Z",
+      "titleKa": "ბონდების ვაჭრები დაძაბულნი არიან, რადგან ფედერალური სარეზერვო სისტემის საპროცენტო განაკვეთის ზრდის რისკები იზრდება",
+      "summaryKa": "ფედერალური სარეზერვო სისტემის საპროცენტო განაკვეთის ზრდის რისკები იზრდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d37c8819e60a8024",
+      "title": "Buy These 2 Boring Industrial Infrastructure Stocks This Month",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTdIT0NZNUUzd3p3eGJoYXhHSkFEUHY3Zmd3RHBTMnQ3Vl9OTTRxNkhmTk1NRkkxWkYyNjE2a1F6QzZPWk9veFJraW5RcXNfbXNBT2hpY0lBTlBNeGc1alBLRjJuRWN5WmxXYzQweEprT0RQZFA3ZlA1SVNaeXJ6WTk5UzN2QkJzX0d3SGFYMDhrN3hwbENXZGF4aGhSZG9GdDBHQmp3?oc=5",
+      "publishedAt": "2026-07-26T18:50:00.000Z",
+      "titleKa": "ყიდეთ ეს 2 მოსაწყენი ინდუსტრიული ინფრასტრუქტურის აქცია ამ თვეში",
+      "summaryKa": "ამ თვეში ორი ინდუსტრიული ინფრასტრუქტურის აქციის შეძენა რეკომენდირებულია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c8b659b9d4f44292",
+      "title": "Why a 15% Yield on Blue Chip Stocks Worries Even Income Investors",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLWF3dFpBZzlFTUxLU3ZfLU9hazZGZVdOLWN0ZGJhNUp3WjdZeGJjbnBRXzhNWEd3QzlFRXBiOEw4VmNhNGRJTThUVUNXVE1zZEdaVEMzYkJFX1k0T0JLVXJuT29wd195ZUFqMS02QTlORjlYQkhGc3M3VGFNVkdRUmdfZlJSOXZuNy14eHk3TGo?oc=5",
+      "publishedAt": "2026-07-26T18:34:31.000Z",
+      "titleKa": "რატომ აწუხებს 15%-იანი შემოსავალი ბლუ ჩიპ აქციებზე თუნდაც შემოსავლის ინვესტორებს",
+      "summaryKa": "15%-იანი შემოსავალი ბლუ ჩიპ აქციებზე ინვესტორებს აწუხებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ad7f0451c286877c",
+      "title": "ExxonMobil (XOM) Is Moving New Oil Spending To Nigeria And Africa",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMldHbHgtdjJaX3VIeW1ZX25LRHlJcnFmX3dDTWJJTm0wbmQxTXctak9udDVMOEtLekF4dlJ5ZkxHQkRGYWNYRlVhX2trYUVvc2pqZnFkOFU1SjExYTUzeVhHVmVlUllLSzlkZVNtb2s1Qk4xbEZQQTlNWlprSUtKMFBwblFlRnoyOEtTUkdLTHR4VjdaWmc?oc=5",
+      "publishedAt": "2026-07-26T17:07:38.000Z",
+      "titleKa": "ExxonMobil (XOM) ახალ ნავთობის ხარჯებს ნიგერიასა და აფრიკაში გადააქვს",
+      "summaryKa": "ExxonMobil ახალი ნავთობის ხარჯებს ნიგერიასა და აფრიკაში გადააქვს.",
+      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
