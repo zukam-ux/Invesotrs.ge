@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-07-26T22:46:05.920Z",
+  "updatedAt": "2026-07-26T23:38:36.452Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "d0c3fa394aa03f59",
+      "title": "Gold Climbs After Pause in Mideast Fighting Cuts Inflation Fears",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd1pxV202aEhEV3d1OE55bzhaWXpJTXVmWkFkdWZRb0RPaGVURGlncFVKYW5XMl9HLVZJWWNWcFVJVnFfWTNscFJ3dDFMMGFPOXRPMHoyYmhMYU5BRlg4azBFRkhONDJiTGtVdnFTRFdwc3BkSFV0MlNET2pOSmZpMzNIaEhneFRCOHJrRU9QWVcxSVM0M29zemMzSy1nc3JBa2pzZnZ4UklSWUI4VWhxZk5kOG5xdw?oc=5",
+      "publishedAt": "2026-07-26T22:46:32.000Z",
+      "titleKa": "ოქრო იზრდება ახლო აღმოსავლეთში ბრძოლების შეწყვეტის შემდეგ, რაც ინფლაციის შიშებს ამცირებს",
+      "summaryKa": "ოქროს ფასები იზრდება ახლო აღმოსავლეთში ბრძოლების შეწყვეტის ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "5b3e74fbd7f32575",
       "title": "Which Is the Better Investment: Crypto or the Moon?",
@@ -12,6 +23,31 @@
       "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
       "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
       "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "daacc34485b04fbb",
+      "title": "AT&T Beat on Earnings, Announced a $10 Billion Buyback, and Still Trades at 8 Times Earnings With a 4.6% Yield.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWW10ODc0Zy1oVnRxT3hmalFXZnpmaWFqSUtxQ19LWlJ1X1V0cC04bVBmUnpEUjhkMzVfM2l5TWFMUmxla0JENlU1UGFkeklzZkdhQXRINXMyZDFPQU1XenQ3S3FfUFhhVmNMZ3U3RnJlYUNaNjJieU1mZDBJVGpBeUJzVlpxMUkzRm05MDNQVXpSbnVkWG02RA?oc=5",
+      "publishedAt": "2026-07-26T22:25:00.000Z",
+      "titleKa": "AT&T-მ დაარღვია მოგების პროგნოზი, გამოაცხადა $10 მილიარდიანი დაბრუნება და კვლავ 8-ჯერ უფრო მაღალია მოგებაზე 4.6%-იანი შემოსავლის მაჩვენებლით.",
+      "summaryKa": "AT&T-მ გამოაცხადა $10 მილიარდიანი აქციების დაბრუნება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/t-beat-earnings-announced-10-222500597.html",
+      "bodyKa": "## AT&T-ის მოგება და აქციების დაბრუნება\n\nAT&T (NYSE: T) გამოაცხადა, რომ მისი მეორე კვარტლის მოგება 2.3%-ით გაიზარდა წინა წლის ანალოგიურ პერიოდთან შედარებით და შეადგინა $31.6 მილიარდი. თუმცა, ინვესტორები ძირითადად აქციების დაბრუნების გეგმას ელოდებიან, რაც კომპანიამ $10 მილიარდამდე გაზარდა.\n\n## აქციების დაბრუნების გეგმა\n\nAT&T-ის მმართველობამ 2026 წლისთვის აქციების დაბრუნების გეგმა $8 მილიარდიდან $10 მილიარდამდე გაზარდა. აქციების დაბრუნება და დივიდენდები, რომლებიც $1.11-ს შეადგენს თითო აქციაზე, საერთო ჯამში $18 მილიარდი იქნება, რაც თითქმის მთლიანად მოიცავს კომპანიის თავისუფალ ფულს.\n\n## ფინანსური მაჩვენებლები\n\nკომპანიის არაოფიციალური მოგება თითო აქციაზე $0.65-ს შეადგენს, რაც 20%-იანი ზრდაა წინა წლის ანალოგიურ პერიოდთან შედარებით. თავისუფალი ფულის ნაკადი მეორე კვარტალში $4.7 მილიარდი იყო, რაც $4.4 მილიარდზე მეტია წინა წლის მონაცემებთან შედარებით.\n\n## ვალის მდგომარეობა\n\nAT&T-ის წმინდა ვალი მეორე კვარტლის ბოლოს $126.4 მილიარდი იყო, რაც 2.68-ჯერ აღემატება კორექტირებულ EBITDA-ს. მმართველობა პროგნოზირებს, რომ ეს მაჩვენებელი გაიზრდება 3.2-ჯერ, როდესაც EchoStar-თან გარიგება დასრულდება.\n\n## ინვესტორების პერსპექტივა\n\nAT&T-ის აქციები დაახლოებით 8-ჯერ ვაჭრობენ მოგებაზე, რაც ინვესტორებისთვის საინტერესო შესაძლებლობას წარმოადგენს. თუმცა, კომპანიის შემოსავალი მხოლოდ 2%-ით იზრდება ყოველ წელს, რაც შეიძლება ინვესტორებისათვის შეშფოთების მიზეზი იყოს. \n\nAT&T-ის მმართველობა აცხადებს, რომ მათი მიზანია მომავალი წლებში თავისუფალი ფულის ნაკადი $19 მილიარდზე მეტი იყოს 2027 წელს და $21 მილიარდზე მეტი 2028 წელს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "a5cc953f9737c7c4",
+      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWlMTm54Smw1ZFJQbGptYTdjcjkxS3hZQVhNWFpZa1AtNGRnSG1TNmcxelJ4ZUFrOFAyMHZjYXNnUGtsZGdaNDk1WWhSelhVXzhRcG1QcEtDdFRLM3o2TDZaNmlPUFhPV25NcnoxVVRRZVdTNlMxOUxTMHJ5SkFlRmFjSEh5aXRNd01nV215UjluRjQxTXFVSVhOMHhJZHRuR1pJSEZiMF9GMFdzZU9ZdXpkVHgyMU9hQW1lZWp4ZG5saklQM3c3aHJISEZUY3BXeDRn?oc=5",
+      "publishedAt": "2026-07-26T22:16:00.000Z",
+      "titleKa": "ნავთობის ფასები ეცემა, აქციების ფიუჩერსები იზრდება აშშ-ისა და ირანის თავდასხმების შეწყვეტის ფონზე, უოლ სტრიტი დაკავებულ კვირას ელოდება",
+      "summaryKa": "ნავთობის ფასები ეცემა აშშ-ისა და ირანის თავდასხმების შეწყვეტის ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -55,6 +91,17 @@
       "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-26/latest-oil-market-news-and-analysis-for-july-27",
       "bodyKa": "## ნავთობის ფასების ვარდნა\n\nამ კვირის დასაწყისში ნავთობის ფასები მნიშვნელოვნად დაეცა, რაც გამოწვეულია აშშ-ის მიერ ირანის წინააღმდეგ თავდასხმების შეჩერებით. ეს გადაწყვეტილება ხელს უწყობს ენერგეტიკული მიწოდების რისკების შემცირებას ახლო აღმოსავლეთში, რაც ბაზარზე დადებითად აისახება.\n\n## რეგიონული დაძაბულობის შემცირება\n\nბოლო პერიოდში რეგიონში არსებული დაძაბულობა, რომელიც ირანისა და აშშ-ის შორის კონფლიქტით იყო გამოწვეული, ახლა შემცირებულია. აშშ-ის გადაწყვეტილება თავდასხმების შეჩერების შესახებ, როგორც ჩანს, დადებითად მოქმედებს ნავთობის ბაზარზე, რაც ფასების ვარდნას იწვევს.\n\n## ჰუთების თავდასხმები\n\nთუმცა, მიუხედავად აშშ-ის გადაწყვეტილებისა, ჰუთების ჯგუფმა განაცხადა, რომ ისინი კვლავ განაგრძობენ თავდასხმებს საუდის არაბეთის მიზნების წინააღმდეგ. ეს ფაქტი შესაძლოა მომავალში კვლავ გააღვივოს დაძაბულობა რეგიონში, თუმცა ამჟამად ბაზარი ამ ინფორმაციას ნაკლებად რეაგირებს.\n\n## ბაზრის რეაქცია\n\nნავთობის ფასების ვარდნა, რომელიც კვირის დასაწყისში შეინიშნება, შესაძლოა იყოს დროებითი. ბაზრის მონაწილეები ყურადღებით აკვირდებიან მოვლენების განვითარებას და იმაზე, თუ როგორ იმოქმედებს ეს გადაწყვეტილება ენერგეტიკული ბაზრის სტაბილურობაზე.\n\n## დასკვნა\n\nამჟამად, ნავთობის ბაზარი აშშ-ის და ირანის შორის მიმდინარე მოვლენების ფონზე ვითარდება. ფასების ვარდნა შესაძლოა იყოს ნიშანი იმისა, რომ ბაზარი უფრო სტაბილური ხდება, თუმცა რეგიონში არსებული დაძაბულობა კვლავ აქტუალურია.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "cfeb5303066492e1",
+      "title": "Rollins (ROL) Stock May Look Reasonable On Cash Flow While Earnings Stay Rich",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUndVVVNIRU9QVnZ4VEFpY1NrWGx0aF9qbEszQmlGSGtRbXhmdExpbWt0dmNpVU9zUkRfRzlHTW4wN2VGMmQtZ1FFSkljZEtGcW5SSENzaWR1TDk3V3ZSY1VVUGpTeS1GZVhobllSN2s4dGg1TzhpWGtnY1A2WUxMVE90bjg2R2l2d3A2SWtGTUUwWXh1UlE?oc=5",
+      "publishedAt": "2026-07-26T21:07:32.000Z",
+      "titleKa": "Rollins (ROL) აქციები შესაძლოა მიმზიდველი იყოს ფულადი ნაკადების ფონზე, მაშინ როცა მოგებები მაღალი რჩება",
+      "summaryKa": "Rollins-ის აქციები შესაძლოა მიმზიდველი იყოს ფულადი ნაკადების გათვალისწინებით.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "6c758c1699af1e9a",
