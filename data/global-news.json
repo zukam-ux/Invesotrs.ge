@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-07-26T17:42:20.929Z",
+  "updatedAt": "2026-07-26T18:40:55.333Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "5b3e74fbd7f32575",
+      "title": "Which Is the Better Investment: Crypto or the Moon?",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
+      "publishedAt": "2026-07-26T18:02:38.000Z",
+      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
+      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "4d98bfd575218967",
       "title": "Did Citigroup's Latest Earnings Change the Investment Case?",
@@ -26,17 +37,6 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "5b3e74fbd7f32575",
-      "title": "Which Is the Better Investment: Crypto or the Moon?",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
-      "publishedAt": "2026-07-26T16:32:38.000Z",
-      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
-      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "1ce64b9f32af0ed7",
       "title": "Bitcoin’s 40% Decline Reveals Why BTCI’s 15% Yield May Not Last",
       "source": "Yahoo Finance",
@@ -44,6 +44,17 @@
       "publishedAt": "2026-07-26T16:12:35.000Z",
       "titleKa": "ბიტკოინის 40%-იანი ვარდნა აჩვენებს, რატომ შეიძლება BTCI-ის 15%-იანი შემოსავალი არ გაგრძელდეს",
       "summaryKa": "ბიტკოინის 40%-იანი ვარდნა მიუთითებს, რომ BTCI-ის 15%-იანი შემოსავალი შესაძლოა არ გაგრძელდეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "51668c9f27429f73",
+      "title": "Oil Market's Glut Narrative Just Blew Up",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcTlHaTd3dzd5V0NBcmRQWWxyTnE2aHhweEpYNzBXeWl6dUZ6eTdEbWhzejNRa2pUeVF2a28yOWJQMmlSejBjMGE3REpqUUYxejdVU3lJR3R0a2Mwb1kwMFp6bGItcHF2Qmx6UTRNYm9KV1lITHJfQnFNQ3RNRkQtOHB2U1kxcEpUZk94UEdwYXRadw?oc=5",
+      "publishedAt": "2026-07-26T16:00:00.000Z",
+      "titleKa": "ნავთობის ბაზრის ჭარბი მიწოდების ნარატივი ახლახან დაიშალა",
+      "summaryKa": "ნავთობის ბაზრის ჭარბი მიწოდების ნარატივი შეიცვალა.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
