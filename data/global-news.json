@@ -1,8 +1,41 @@
 {
-  "updatedAt": "2026-07-25T23:39:29.973Z",
+  "updatedAt": "2026-07-26T01:12:08.171Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "c6d1e92c5c599dae",
+      "title": "Iraq to Sign Agreement with Syria on Building of Oil Pipelines",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWp3Vm9ZbVI5NV9YdGdxYXpBelhhM3h0dGpZcjhnRXlaRUF0WGdSYjV3Y1Y2N2R3OXNyNjBlQjVVQlN5aWdpNzZSSDBTYVZYT2sxZ0VreWl2dllZRi1WZmVOVUtLTjJOVDFWZlV3dV9hNWFjS0RJM3dXUXJIR1NTelF6TmttNWdSVXl5MTFXem16YUFUZU81bkQ2RXhfb1VrdlRFaHp5Uk5PY0MxeWVlbFhjVQ?oc=5",
+      "publishedAt": "2026-07-25T23:34:54.000Z",
+      "titleKa": "Irakმა სირიასთან მოაწერა შეთანხმება ნავთობის მილების მშენებლობაზე",
+      "summaryKa": "Irakმა სირიასთან შეთანხმება მოაწერა ნავთობის მილების მშენებლობაზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e1a30c6d77db2fa5",
+      "title": "How Do the Vanguard S&P 500 Growth ETF and the State Street Small Cap Growth ETF Compare?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQazByaTl3cFBTd2c2MDgybmlwQU01eVUxRHJZYWo1b2FjY3ZPVnhqdDBpQlI0QW9OdEpWUkRrTF9vYzRZNmoxN216MGtaMjB1RXJPZllZdUhzRDY4MDNYYVIwRVpIdFBkWGp1R2h3UmtBUGFxc0xOblB1ZVFET3JxX1M3UjJ3SFQwb1FOaDhMNTBTMVdC?oc=5",
+      "publishedAt": "2026-07-25T23:10:01.000Z",
+      "titleKa": "როგორ შედარებულია Vanguard S&P 500 Growth ETF და State Street Small Cap Growth ETF?",
+      "summaryKa": "Vanguard S&P 500 Growth ETF და State Street Small Cap Growth ETF შედარებულია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1db37a2d63baa226",
+      "title": "Freshworks (FRSH) Stock Looks Above Fair Value Despite Lower Earnings Pricing",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdEtZUzE3cXY0SjdUZkJramowWDB1TzRTR3kzbHl2UjJIalNqZ2JlOFVGWV9NNmw2bDhKckNCb0tFZU9ZT19zLWFKZXF6aWNzRklUdVp6bkh4OXFZbERJMnZhQW5VSDRXTGhLdGpXblloZ3Y5dWthNkRiZS03dGRJam9McWpvWXRVX0xtMFNHcmNTRWJxbXVDUFpmV3dJZ2c?oc=5",
+      "publishedAt": "2026-07-25T23:08:49.000Z",
+      "titleKa": "Freshworks (FRSH) აქციები გამოიყურება სამართლიან ფასზე მაღლა, მიუხედავად დაბალი მოგების ფასის",
+      "summaryKa": "Freshworks (FRSH) აქციები სამართლიან ფასზე მაღლა გამოიყურება, მიუხედავად დაბალი მოგების ფასის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "0b9c48283847596e",
       "title": "Figma vs. IBM: What Revenue Growth Trends Tell Investors About the Young Software Design Company and the Veteran Artificial Intelligence Tech Giant",
@@ -48,6 +81,17 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "1f0236db94f18936",
+      "title": "Top 3 US Stock Market Stories From This Week",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVThNWDVmTVBUbEpEM2gyWklxV2xCZU1meTh6bFBodzNiZ3ZVaXBkalNyWUdIOXNHZ0JyTkl3NW9PYjMtc2lNeXJTYUpOdWJNWmJ5NlRDRUJQVEllWHd1aVUzNG9mQTdXUmhfcmhMZHJ6QzZXZFhVeWN6ZkpMUGEwTUk5ckF5SWNjTDRLbjJVWQ?oc=5",
+      "publishedAt": "2026-07-25T21:41:17.000Z",
+      "titleKa": "ამ კვირის აშშ-ის საფონდო ბაზრის 3 მთავარი ამბავი",
+      "summaryKa": "ამ კვირაში აშშ-ის საფონდო ბაზარზე სამი მთავარი ამბავი მოხდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "88ca3e0c503d47ec",
       "title": "Nebius vs. Strategy: Comparing Revenue Trends Between an Artificial Intelligence Company and a Bitcoin Giant",
       "source": "Yahoo Finance",
@@ -56,6 +100,17 @@
       "titleKa": "Nebius და სტრატეგია: შედარება შემოსავლების ტენდენციების შორის ხელოვნური ინტელექტის კომპანიასა და Bitcoin-ის გიგანტს შორის",
       "summaryKa": "Nebius და Bitcoin-ის გიგანტი შედარებულია შემოსავლების ტენდენციების მიხედვით.",
       "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f0d396b615651aa1",
+      "title": "Trump Says 'We're Leading China' in Crypto, But Beijing Would 'Love to Take That Over'",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSXUxT3FXOW0xZGRUMzVEY0MybDBiek9vanlSOHF1cHU2bFZITHg2RUpwRkdJc2xKY1FyVEQtc3kzWHU0WUQ5Z3FaYmNjMXVJNEVoT001YUhzUHhpZlZMWmVUQU5scHRMOHBvdnV2a1RHTDBCMFNQUGdPWnhIR3NlM1QwSm1mVkhnWEotRElIa1pKMnNlNmZpMmVn?oc=5",
+      "publishedAt": "2026-07-25T21:30:15.000Z",
+      "titleKa": "ტრომპი ამბობს, რომ 'ჩვენ ვხელმძღვანელობთ ჩინეთს' კრიპტოში, მაგრამ პეკინი 'მოუთმენლად სურს ამის ხელში ჩაგდება'",
+      "summaryKa": "ტრომპი აცხადებს, რომ აშშ კრიპტოში ჩინეთს ხელმძღვანელობს, თუმცა პეკინი ამის ხელში ჩაგდებას მოითხოვს.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
