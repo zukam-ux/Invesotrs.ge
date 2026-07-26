@@ -1,8 +1,52 @@
 {
-  "updatedAt": "2026-07-26T14:43:51.806Z",
+  "updatedAt": "2026-07-26T15:45:44.215Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "d4b7390ccff772da",
+      "title": "Is Amalgamated Financial (AMAL) Fully Priced After Strong Earnings And A New Buyback?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0dpWXVobTExMXpoWkU3M005ZFhINW9TVV9WbzJFeE1EX2wySEVDOXIzRTFxTXBmVzNpeWRXNzFEMk1pWk9xSTlkZVdUSGpqS2pVTTA1LXlaNW9BQVlzbERWWlVvZDRJeGYzRkoyVHNnSHZPTTM3dnhiVURwWUIzN3p3RXo1dGE0ZTJNLVJyem5Nc1diWTMzY0ZuekpFc0JZVU94M2J2QQ?oc=5",
+      "publishedAt": "2026-07-26T15:14:28.000Z",
+      "titleKa": "ამალგამატედ ფაინანშლ (AMAL) სრულად არის ფასიანი ძლიერი მოგების და ახალი დაბრუნების პროგრამის შემდეგ?",
+      "summaryKa": "ამალგამატედ ფაინანშლმა გამოაცხადა ძლიერი მოგება და ახალი დაბრუნების პროგრამა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5b3e74fbd7f32575",
+      "title": "Which Is the Better Investment: Crypto or the Moon?",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
+      "publishedAt": "2026-07-26T15:02:38.000Z",
+      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
+      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4909a903074540d6",
+      "title": "Cincinnati Financial Has Raised Its Dividend for 65 Straight Years. At 10 Times Earnings, Is the Dividend King a Buy?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUWFwV0Y2SGhRYmtJZnhyWXYwNEF1LU1GZFNDYUk1NDFSM3hWVU4yelAxRXdHZV9YazRDeEp1M3V3M0l2YXl4d195UVdxMHFpVTdYYzRpaDlId1ptNnVzblZNM0NkNEpQRGdjUnFERkF1QzJrOGJzQngtbWIyMU1WbWpMWUJ2R3lUWTQtc1JVcktpNWFudHl4WWNiTHFjQVpGWUtWZVMzVQ?oc=5",
+      "publishedAt": "2026-07-26T14:35:00.000Z",
+      "titleKa": "სინსინატის ფაინანშლმა 65 წლის განმავლობაში გაზარდა თავისი დივიდენდი. 10-ჯერ მოგებაზე, არის თუ არა დივიდენდის მეფე შესაძენი?",
+      "summaryKa": "სინსინატის ფაინანშლმა 65 წლის განმავლობაში გაზარდა თავისი დივიდენდი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "77b0fdba0d5561c7",
+      "title": "Elizabeth Warren says House stock trading ban has 'major loopholes' — 48% of Congress still owns individual stocks",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHh2cUduM1QxYjRzVDVxcXZkLVYtemwzdElOaXR0TWJjSWJDZ3N0NkNUMDI2S1ZjZ295ZzhFM2IxOHpnYTRyYlE1eTY1TWJQOVg5X08tV0NKTzF2RFhSSllDM1k3bGk1cUdxdldfaVBqU3VUdDJ5d3NHRjA2bTFNRF9CSFNvUnA1YjJSV3RfUWlBMmZQOHZtOWU0VWxTM0U?oc=5",
+      "publishedAt": "2026-07-26T14:30:00.000Z",
+      "titleKa": "ელიზაბეთ უორენი აცხადებს, რომ წარმომადგენელთა პალატის აქციების ვაჭრობის აკრძალვა 'მნიშვნელოვან ხარვეზებს' შეიცავს — 48% კონგრესის წევრებს კვლავ აქვთ ინდივიდუალური აქციები",
+      "summaryKa": "ელიზაბეთ უორენი აცხადებს, რომ 48% კონგრესის წევრებს აქვთ ინდივიდუალური აქციები.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "52137b52420a6708",
       "title": "The S&P 500’s earnings growth has gone bonkers thanks to one company",
@@ -15,6 +59,17 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "40872eaf2a52d1bc",
+      "title": "Traders Are Getting a New Tool to Wager on the Biggest US Stocks",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQVlLaTVCbVJNSmhFRTBOODZkM1FvY2g2VWNrejZ3SGpmNEw2NndIQlhHdUVkWGVyd3lMd1RoTGJYRXdNTHZKbnVIZmc2bzJUSDNkYVB3MnJCMFdySVV4TVk4V3ZNaWhlU2FIUDYydWFSd2pwYzFTT0loZ01NZ0N1SHV4U0Q5YmlTdmY2WkxmV1ltR0J5NzBqNXQxcTBHckg0eXJaZXUtRVBlbXQ3eHVuVWdlOXRsUQ?oc=5",
+      "publishedAt": "2026-07-26T14:00:00.000Z",
+      "titleKa": "ვაჭრები იღებენ ახალ ხელსაწყოს აშშ-ის ყველაზე დიდ აქციებზე ფსონის დასადებად",
+      "summaryKa": "ვაჭრებს მიაწვდეს ახალი ხელსაწყო აშშ-ის ყველაზე დიდ აქციებზე ფსონის დასადებად.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "109755996de2f982",
       "title": "Bloom Energy's Next Earnings Report on July 28 Could Send the Stock Soaring. Here's Why.",
       "source": "Yahoo Finance",
@@ -23,17 +78,6 @@
       "titleKa": "Bloom Energy-ის მომავალი მოგების ანგარიში 28 ივლისს შეიძლება გაზარდოს აქციების ფასი.",
       "summaryKa": "Bloom Energy-ის მომავალი მოგების ანგარიში 28 ივლისს გაიმართება.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "5b3e74fbd7f32575",
-      "title": "Which Is the Better Investment: Crypto or the Moon?",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
-      "publishedAt": "2026-07-26T13:32:38.000Z",
-      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
-      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
-      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
