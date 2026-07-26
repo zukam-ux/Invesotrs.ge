@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-07-26T10:57:58.436Z",
+  "updatedAt": "2026-07-26T11:58:31.305Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines are translated into Georgian and summarized from headline facts only. Full articles are not copied.",
   "articles": [
+    {
+      "id": "22e7f17143d713c5",
+      "title": "Robert Half (RHI) Falls On Earnings And Guidance But Is The Valuation Now Compelling",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjAzN1VsTGtyVFZ2Um8tSzloTE9zZ3o2STR5NDZhYnBMd0RhSi1UcGx6WEhHZWRzQlJnYkVKbDJ3NVhDNW1GNW1xLTluUW5xSHprdDZ2U3pTNndGQU8tUkZFb2RId3ptOEpYN2dtQThoS3dnaWNRamRKYURwM1NoUW1VY0ozOGxxXzVHTzVtUWpUUzkyWm8xaktBNA?oc=5",
+      "publishedAt": "2026-07-26T11:09:11.000Z",
+      "titleKa": "რობერტ ჰაფი (RHI) ვარდდება მოგების და პროგნოზების გამო, მაგრამ ახლა ფასის შეფასება მიმზიდველია?",
+      "summaryKa": "რობერტ ჰაფის (RHI) აქციები ვარდება მოგების და პროგნოზების გამო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4040df3bc57cc5c8",
+      "title": "Capital Economics Warns Foreign Buying Boom Could Signal Risks for the S&P 500",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWVGU05ud3BGbnBPUmZxQllEX0hVakxMVWNMOHhDcWFuaGN4Y0NGajRma3dLSDUyUVNYMWRhZFlwbUhTeThUYVFXVS1VYThWb1JVR0JSZkpqRUgzbVJ1d1RJTWRrLXlId0ZHRTFMZktmOXNUclR4Z3ppOVJwMlJMZ2NJQUZMSGVKNXpiRDBnb2pPR0JaZk8wbUNkNDZ5YmdxTDl2SkNR?oc=5",
+      "publishedAt": "2026-07-26T11:04:00.000Z",
+      "titleKa": "კაპიტალ ეკონომიქსი აფრთხილებს, რომ უცხოური შესყიდვების ბუმი S&P 500-ისთვის რისკების სიგნალი შეიძლება იყოს",
+      "summaryKa": "კაპიტალ ეკონომიქსი აფრთხილებს, რომ უცხოური შესყიდვების ბუმი S&P 500-ისთვის რისკების სიგნალი შეიძლება იყოს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "a1b5a620656d8486",
       "title": "SpaceX vs. Nvidia: Which Trillion-Dollar Artificial Intelligence (AI) Stock Is the Better Buy After the Recent Pullback?",
