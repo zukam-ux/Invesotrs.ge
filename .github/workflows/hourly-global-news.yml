@@ -33,7 +33,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_SMOKE_TEST: ${{ inputs.smoke_test }}
-        run: node scripts/update-news.mjs
+        run: |
+          if ! node scripts/update-news.mjs; then
+            echo "Initial collection failed; retrying the full collection in 45 seconds"
+            sleep 45
+            node scripts/update-news.mjs
+          fi
       - name: Publish changed news data
         run: |
           if git diff --quiet -- data/global-news.json; then
