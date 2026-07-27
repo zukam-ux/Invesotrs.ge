@@ -1,8 +1,132 @@
 {
-  "updatedAt": "2026-07-27T18:12:19.049Z",
+  "updatedAt": "2026-07-27T19:53:34.913Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "3f69271e58c44048",
+      "title": "Nvidia drops 4%, leading chip stocks lower amid renewed worries of circular financing",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ2JOXzd6WEM0R1hjc0d1YWdnWEpjWnd3Sm1OMGdPdmNGWjlGSG45VVVBeTJLcS1ZUnNFakNFaEYycW9lWnh6NHBGdXZKNVZ3TUJraldNOTNmVk8yVlFLc25oYlkwLXJuV0tDaW5qLTFpSWhUdkRBR1licTJZdDdyTWNNdGxJX3BGWGVEQ0JLa2sxTnRXa1EyaWZqOVpTZkl2VXp2ZnRYRGcwQ1htc3VWckpVNk56QnZYZDNXcUh4aW1RRklHWk4xNndUZlVkOU1ldzVKWVYzYw?oc=5",
+      "publishedAt": "2026-07-27T19:33:09.000Z",
+      "titleKa": "Nvidia 4%-ით დაეცა, რაც ჩიპების აქციების ვარდნას იწვევს",
+      "summaryKa": "Nvidia-ის აქციები 4%-ით დაეცა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "333f16ab187ed2ef",
+      "title": "Therapeutics Stocks Q1 Highlights: Moderna (NASDAQ:MRNA)",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFBJX29NejZXS05fLTRDZ1hyY28wNWlFdHhSTTcwNlVUMTBVSE13QVFiQ1NoeTg2RS12SmR3U0s3QU5faEhGM2R1Q2RhS2c0MjJvMFM5dWN3amtJaWhySThqYnJtaktCOC13X3VwQjZxSHJSUlZoemRsQzFUQjZpcXR1Y043NFpBXzBCRlBXQmQ5T1hBS1R4bVc0aF9QZkFNZ0lvRg?oc=5",
+      "publishedAt": "2026-07-27T18:45:02.000Z",
+      "titleKa": "თერაპიული აქციების Q1-ის მთავარი მოვლენები: Moderna (NASDAQ:MRNA)",
+      "summaryKa": "Moderna-ს აქციები Q1-ის განმავლობაში განხილულია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/healthcare/articles/therapeutics-stocks-q1-highlights-moderna-184502737.html",
+      "bodyKa": "## Moderna-ს Q1-ის შედეგები\n\nModerna (NASDAQ:MRNA) გამოირჩეოდა Q1-ის ფინანსური შედეგებით, რაც აჩვენებს კომპანიის ძლიერი ზრდის ტენდენციას. კომპანიამ $389 მილიონი დოლარის შემოსავალი მიიღო, რაც 260%-ით მეტია წინა წლის ანალოგიური პერიოდისგან და 55.8%-ით აღემატება ანალიტიკოსების პროგნოზებს. ეს შედეგი მიუთითებს იმაზე, რომ Moderna-ს საქმიანობა წარმატებით ვითარდება, განსაკუთრებით COVID-19 ვაქცინის წარმატების შემდეგ.\n\n## ბაზრის რეაქცია\n\nModerna-ს აქციების ფასი გაიზარდა 23.7%-ით, რაც მიუთითებს ინვესტორების ნდობაზე. ამჟამად, აქციების ფასი $56.85-ია. კომპანიის CEO, Stéphane Bancel, აღნიშნავს, რომ Moderna-ს გუნდმა წარმატებით დაიწყო წელი, რაც გამოიხატება როგორც შემოსავლის ზრდაში, ასევე ხარჯების შემცირებაში.\n\n## კონკურენცია და გამოწვევები\n\nთერაპიული კომპანიები, მათ შორის Moderna, წინაშე არიან როგორც შესაძლებლობების, ასევე გამოწვევების. მიუხედავად იმისა, რომ ახალი ტექნოლოგიები და მკურნალობის მოთხოვნა იზრდება, კომპანიები ასევე უნდა გაუმკლავდნენ წამლების ფასების ზრდის და რეგულაციების გაურკვევლობის გამოწვევებს. Moderna-ს შემთხვევაში, კომპანიამ მიიღო ორი პროდუქტის დამტკიცება ევროპაში, მათ შორის მსოფლიოში პირველი გრიპისა და COVID-19-ის კომბინირებული ვაქცინა, mCOMBRIAX.\n\n## სხვა კომპანიების შედეგები\n\nModerna-ს გარდა, სხვა თერაპიული კომპანიები, როგორიცაა Novavax (NASDAQ:NVAX) და United Therapeutics (NASDAQ:UTHR), ასევე გამოაქვეყნეს თავიანთი ფინანსური შედეგები. Novavax-ის შემოსავალი $139.5 მილიონი იყო, რაც 79.1%-ით ნაკლებია წინა წლის ანალოგიური პერიოდისგან, თუმცა 84.5%-ით აღემატება ანალიტიკოსების პროგნოზებს. United Therapeutics-ის შემთხვევაში, შემოსავალი $781.5 მილიონი იყო, რაც 1.6%-ით ნაკლებია წინა წლის მონაცემებზე და 1.9%-ით ჩამორჩება ანალიტიკოსების პროგნოზებს.\n\n## დასკვნა\n\nQ1-ის შედეგები აჩვენებს, რომ Moderna და სხვა თერაპიული კომპანიები წარმატებით ვითარდებიან, თუმცა ბაზარზე არსებული გამოწვევები და კონკურენცია კვლავ აქტუალურია. Moderna-ს ძლიერი ფინანსური შედეგები და ინოვაციური პროდუქტები, როგორიცაა mCOMBRIAX, მიუთითებს იმაზე, რომ კომპანია მზად არის მომავალ გამოწვევებთან გასამკლავებლად.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "14f5d851a89b31f9",
+      "title": "Norwegian Cruise Line Is Down 19% This Year and Reports Earnings July 30. Is Now the Time to Buy?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc3hVTDJTVUtHTW1FYzBMYkNSelk5bjhBQWZGVi1jM21yTERTRTdNR3dTcFBiRVJCSWV4LVRlQWVxN0h3Qnl6QkNrdUlLSENja3dySVRRNjZrb1JnQUVzZ1ZCbDBLU1J0ZjZzWHc4RTYydlNJaUVOUndMX19RWkVYZldwb2NTMkFmNHRkaTZXMW5yRjh2RU5XSE53?oc=5",
+      "publishedAt": "2026-07-27T18:35:00.000Z",
+      "titleKa": "Norwegian Cruise Line 19%-ით დაეცა წელს და ანგარიშვალდებულებას 30 ივლისს გამოაქვეყნებს.",
+      "summaryKa": "Norwegian Cruise Line 19%-ით დაეცა წელს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "cd26af51586ab3ef",
+      "title": "Macquarie Sees Oil Glut Risk on US-Iran Deal Before Midterms",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcFBtWGdDR2gzR3J0YkdZU2RwZzR3b2JQbUI5SGplNUpQOWEyUHZjMkZ0bDl2RnB3aGhCeWlzWGxJRkRuMk1mSV95MjAxSjVUa3lHZl9MeXJTbmxBVkJfS3FjUmxMNlkxcXJFVkRDNjFDTFdITno3Y2dXcU9IM3RKeDFaVGhkOTBxUEpBYkdZNjJpVHdGWkFDblI4Tm9xQkowa0NGdDlFVkpNZ0N4VWFidTVYX2M?oc=5",
+      "publishedAt": "2026-07-27T18:32:23.000Z",
+      "titleKa": "Macquarie ხედავს ნავთობის ჭარბის რისკს აშშ-ირანის შეთანხმების გამო არჩევნების წინ",
+      "summaryKa": "Macquarie პროგნოზირებს ნავთობის ჭარბის რისკს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "272eb572ce75b4af",
+      "title": "Q1 Earnings Highs And Lows: Angi (NASDAQ:ANGI) Vs The Rest Of The Gig Economy Stocks",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSkdqWW1uNlBFQmliTUx3WFAyT2FnNUF6N19fc2RtaUtLblFGdHBsSWxkU1hWODBkc3o0ZkRCbVRxdTFOdnZwX2Z6by1KUlM1dDFFa29rbTRvLUF6Umt5UnZ1bUh4Q1EtUWRsS2g2OEgyeDRTV3Zic003U1M0VldDUmhuWW5COFNsLW1yLVBzNnlnOEdPaDl3?oc=5",
+      "publishedAt": "2026-07-27T18:29:02.000Z",
+      "titleKa": "Q1-ის მოგების მაღალი და დაბალი მაჩვენებლები: Angi (NASDAQ:ANGI) და სხვა გიგ ეკონომიკის აქციები",
+      "summaryKa": "Angi-ს და სხვა გიგ ეკონომიკის აქციების Q1-ის მოგებები განხილულია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4685a3a2f3b4401a",
+      "title": "Q1 Earnings Roundup: Wayfair (NYSE:W) And The Rest Of The Online Retail Segment",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOel9IOEF6NHY2ZzlhWTV3ck1xTU90dkh5S0phTW1zVVdFTmVLR1lSeGlXRkpXX1NNaE94T1JGV0pJYXRYVUZMb3lPZlVnS0pXWnBFcFp6QTVHZkotdlVSZWtPZkhKbThKanFPYmVwNHdsUG0wUUJUWDZUcVJ1NHc4ckw1YW1oVURDckhhZ2VORUNYRUZCa29sTVNzQnlaUQ?oc=5",
+      "publishedAt": "2026-07-27T18:21:02.000Z",
+      "titleKa": "Q1-ის მოგების მიმოხილვა: Wayfair (NYSE:W) და ონლაინ საცალო ვაჭრობის სხვა სექტორი",
+      "summaryKa": "Wayfair-ის Q1-ის მოგება განხილულია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2b11e28282d7c619",
+      "title": "Consumer Discretionary - Leisure Facilities Stocks Q1 Recap: Benchmarking Dave & Buster's (NASDAQ:PLAY)",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMU1STEJiUVJSRHpUX0h0QUR4OEpVWkN4eld4TjJKTHNhUG41b05LYW9DYklEeUd0SjR4SVBaTHZVRmEtWWNNSGIza1lwaUk0T0FpTENBUWY2djBUSFZUVEszb1ZhTlBoV3NxNkNGRlQtVXNDa2g5ZURfaDRZRWd6TGdTN0hzeXp4aHBuR1I3emNMdUZkRXlzV09MajZRTnQ3bTF5UmRJNm5BYTFDUG9DWE1kRQ?oc=5",
+      "publishedAt": "2026-07-27T18:13:02.000Z",
+      "titleKa": "კონსუმერული დისკრეციული - გასართობი ობიექტების აქციების Q1-ის მიმოხილვა: Dave & Buster's (NASDAQ:PLAY)",
+      "summaryKa": "Dave & Buster's-ის Q1-ის შედეგები განხილულია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5bf86cf0011ae45b",
+      "title": "EXL (EXLS) To Report Earnings Tomorrow: Here Is What To Expect",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc2lFTWhQME9BNFhDSmt4Mmh0RGxoVktyWmJpcV9oOW4zU1Zzbmh1UktTWlk4NlJYd0VLXzg4OFNQcGRCYk1VMjFRdkRRUDk0MDFlVERIdnhUYkhHanAxV2RHdFhaYzFuaThFdzBKWV9ya0lKUkFmel9WLVVEYkFGaFpad3Ntamg4QkVoeFlkRUU2LWdwcU0wVGwySU9MTDg?oc=5",
+      "publishedAt": "2026-07-27T18:05:02.000Z",
+      "titleKa": "EXL (EXLS) ხვალ ანგარიშვალდებულებას გამოაქვეყნებს: რას უნდა ველოდოთ",
+      "summaryKa": "EXL ხვალ ანგარიშვალდებულებას გამოაქვეყნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "44924546cfc20bd6",
+      "title": "Ethereum Whales Buy the Bottom as ETF Inflows Return: Is $2,438 Next?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1ByM1FJcXJ5Y1plQTVWUThLbWxDakVwY2thSHBWLVQ4RUVndWxwY1VKOVh1Mkdldm5tbjg4NEpfeTJjSDRzVkhwUF9fR2VnNGZXcDZFaEJXWnFUTlc0Y1lmQlZtWVNPV3FhemhPaGx4ajh5bEJUU19MUEVCZEpJOHo3OE92V2FZWC1oeXctN0FxWFNnMFhPcU5Xbw?oc=5",
+      "publishedAt": "2026-07-27T18:00:00.000Z",
+      "titleKa": "Ethereum-ის ვეშაპები ბაზრის დაბალ წერტილზე ყიდულობენ, როდესაც ETF-ის ნაკადები ბრუნდება: $2,438 იქნება შემდეგი?",
+      "summaryKa": "Ethereum-ის ვეშაპები ბაზრის დაბალ წერტილზე ყიდულობენ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b6500f0c93fb8a57",
+      "title": "‘Further Upside Ahead’: J.P. Morgan Says Buy These 2 Stocks",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNFpoeFZXaTU2VkdYaGdac1k1SzhaLUZlM3lWckdzWmhOMVF1bjBnS1lSVFR6WjJQX1FxYTE5VTZveWZJSWxpemZiUkJha0htVVZMSG04N3FYOWxjYlJSZVhiZlhqN2lVOFBKRzFHeXRsNkkwOVIySnVod01lcEo3cEFiem5XY1FsV09WWmlhVmFMMm8?oc=5",
+      "publishedAt": "2026-07-27T17:58:00.000Z",
+      "titleKa": "‘მეტი ზრდა მოსალოდნელია’: J.P. Morgan ამბობს, რომ უნდა იყიდოთ ეს 2 აქცია",
+      "summaryKa": "J.P. Morgan-ის მიერ ორი აქციის შეძენის რეკომენდაციაა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "169703d85820ef75",
+      "title": "Wall Street giants back $15M push to quantum-proof Bitcoin as the CLARITY Act nears a do-or-die deadline",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1feWkyM0hOVTd2Qm5jMDR5NjRLNEM3amp5cklCSEM2X0NRb1Q5dC1DLUlCWXlqVEUyZjRNUzVCSFQ0aHlXeVp5dnhEcFlZb0h2Y081UlRiQmFmME9JOThqbmFjZ0EyZm1NT0hWenJUNmEtUEVUcnJ4WEJyRzhWQnM?oc=5",
+      "publishedAt": "2026-07-27T17:57:10.000Z",
+      "titleKa": "Wall Street-ის გიგანტები $15M-ის ინვესტიციას ახორციელებენ Bitcoin-ის კვანტური დაცულობისთვის, რადგან CLARITY აქტის ვადა ახლოვდება",
+      "summaryKa": "Wall Street-ის გიგანტები $15M-ის ინვესტიციას ახორციელებენ Bitcoin-ის კვანტური დაცულობისთვის.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "f39732ca56198138",
       "title": "JPMorgan Sees S&P 500 Poised to Rally as New Buy Signal Flashes",
