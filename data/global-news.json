@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-07-27T11:51:15.620Z",
+  "updatedAt": "2026-07-27T14:04:53.818Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "88d835dca41395f0",
+      "title": "Ethereum leads way as most big cryptocurrencies post gains",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdWRWNDZ3OGkwaURkMHhNUVQ3ck5odnhzalkyZW9ZN3pvQk4xb0QwS3lBYkhNZWxyVDNoeFJLY2dxcW1LREhFQXk3ZWdqN1hyU2RiYXhmYkJjZ1RaeUd1WGJkRDgtbF9KQ1BrNUswLVNLOEV0SjdXT0NwLWJ4bEVsdkxMUUxwY1o1TWd3TWpCT01pSG5NTWljNWJkeVZxWEhWcGREaC03TENsMlk2czBvTkNLbUZEMXRYaGc?oc=5",
+      "publishedAt": "2026-07-27T14:00:00.000Z",
+      "titleKa": "ეთერიუმი ლიდერობს, რადგან უმეტესობა დიდი კრიპტოვალუტების ფასები იზრდება",
+      "summaryKa": "ეთერიუმი არის კრიპტოვალუტა, რომელიც ლიდერობს ფასების ზრდაში.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3c19ef61c0a1df45",
+      "title": "The S&P 500 is echoing its 2021 setup, according to Morgan Stanley",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcUtkMXRhUnN3R0JKRUJXN29hQ0hmcXc0UEF0R2JZcGx1OWE0SnYxU19yOThIYUZxVG5UV1EtWU9tMmJhWE9yNW5SMDVEeWFmUDZFeFdKZ1g1NklXNS1iVGZ4Y0xac3JsaWhzTDJ0M3VnbDMxOV9POFBzRDBNSVZyald3RjhXOHZER3Jya0twTktMSWxSUnh5N1lvV2tVSlNBYUZ6eGhhR3JOWG9l?oc=5",
+      "publishedAt": "2026-07-27T13:51:00.000Z",
+      "titleKa": "S&P 500 2021 წლის სქემას იმეორებს, მორგან სტენლის მიხედვით",
+      "summaryKa": "S&P 500 იმეორებს 2021 წლის სქემას.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3a116e049795da50",
+      "title": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZGs4cnhKUC1TU1dmQzN2X01ZQ3V1bWN1TkdBMjJ6dmUydUF5T1JVTmFKM0ZZaTUycTRGTnE2b0w4OEljRFFENFVkclFsYXQyWUJ4d2tYbUdDcExMVHdhMGJkRHBYNDZLQnJTUlNtQ3NWN3FJRDU2dWxPSWVSNHRGVTI2a3hFOEZPa08wc3k3SGhsOG5WS01Z?oc=5",
+      "publishedAt": "2026-07-27T13:46:11.000Z",
+      "titleKa": "ტექნოლოგიური აქციები დღეს: დიდი ტექნოლოგიური კომპანიების მოგება ამ კვირაში AI ვაჭრობისთვის გადამწყვეტ მომენტს წარმოადგენს",
+      "summaryKa": "დიდი ტექნოლოგიური კომპანიების მოგება ამ კვირაში AI ვაჭრობისთვის მნიშვნელოვანია.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "49c4df1a7d78fa5f",
+      "title": "Strategy Climbs 3%, BitMine Surges 7%, SharpLink Rises 5% as Crypto Stocks Bounce Back Toward $65K Bitcoin",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2Y5aWdhMmVHU052NXF1Qld3NlNvcTFqRGJvWHNweEN4ZVJzZmtoc0V0ZTBEMHJJS19rQTVPS2FxSUlTZVJTbHRZQlBoTHNNVzhpejJiRUVaM1pMR25yTUhNbXZJczRRSl9VbHZwdE9uZVlnbE9vcExFeWVXNFgxc3FGRHVHU0F1dGFZMjZIWlg0UHNDMHlmVmVRYXhfZw?oc=5",
+      "publishedAt": "2026-07-27T13:38:08.000Z",
+      "titleKa": "სტრატეგია 3%-ით იზრდება, BitMine 7%-ით იზრდება, SharpLink 5%-ით იზრდება, რადგან კრიპტო აქციები $65K ბიტკოინისკენ ბრუნდება",
+      "summaryKa": "კრიპტო აქციები ბრუნდება $65K ბიტკოინისკენ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ed30d4a22b9c9f34",
+      "title": "Bitmine Buys Another 10,000 Ethereum",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMkpnSkk2RkFKWmt6aXNqOFFBMWR6ZUhwcllGUkFBZE02VElxMVdlWlBic2xRTFpZMXB6ZWxPT29UN083dGVHbHZ2UmNzVHNlOW9DR3hCTjdzZ3pwbkx5RUd6Z29CX2thV2c0MW9qcnJHdmVXR19pOHpka1JESUhoTjFfWEYxZ1I2WFo1a1pKRnBKTEliMjdz?oc=5",
+      "publishedAt": "2026-07-27T13:35:00.000Z",
+      "titleKa": "Bitmine ყიდულობს კიდევ 10,000 ეთერიუმს",
+      "summaryKa": "Bitmine ყიდულობს 10,000 ეთერიუმს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "82cfa20c7e451f48",
+      "title": "The S&P 500 Is On Track to Post Record Q2 Profits — But There’s a Catch",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzdtOF92X3FTS01Vc2RvMG9TWk1oMWZpRGdwdDV6NWs1VENEUnZOZ2FGTTlsYkpUT09KT21FVjdlUkc1U2QwckNObnFZTlB4RWdKU0RRNFJYSjFaTnQ5MGtRNzlod3k5TDBBd25TZ0trS0pxQTNhUHpYOGtfYjdEOHBXYmpSNmJPOVBla2FqaWNYdw?oc=5",
+      "publishedAt": "2026-07-27T13:33:52.000Z",
+      "titleKa": "S&P 500 რეკორდულ Q2 მოგებაზეა, მაგრამ არის ერთი პრობლემა",
+      "summaryKa": "S&P 500 რეკორდულ Q2 მოგებაზეა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "537174f396621680",
+      "title": "3 Profitable Stocks We Keep Off Our Radar",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNnRhSGhFSGFNRG9uZ1hKWUJLaDZOS21leTlEbzAxTGdPbkhyRzNxbi1rQVlVLXo0MUlJNzR4cWs4SGJDYmE5eXdxUFRoT1pWcEUzSzg3TUl0OGFlUEEybzZpem1VRUJkM0dKXzkyaTJGWW1XS2xzZWFGTG9VeEJJMjlXMHVsRkplbnNaM0ZrdG1kb1RTdGV2OQ?oc=5",
+      "publishedAt": "2026-07-27T13:33:02.000Z",
+      "titleKa": "3 მომგებიანი აქცია, რომლებიც ჩვენ არ გვყავს რადარზე",
+      "summaryKa": "არსებობს 3 მომგებიანი აქცია, რომლებიც არ არის რადარზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "49d4e3ce1dac543f",
+      "title": "Bitcoin and ethereum prices today, Monday, July 27, 2026: Can positive price trends hold this week?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMTJMMm9oUllYYlFDNmFSc1dUWGpEek41cm0zVXdhbjFzMHBNZ3RsZGVVdm5KS1c0WWpzUEJydnJHcDRORnFDeXNyTkVzWmJpWThjeXZ2MnpXdHRSclVkdHlvQm1pclNCNWwyc241TzNKQTFoQWVrYzhTX3JKNy1tOTRsajNKdUUyMkVkU0xSMTY3WnRkUmdEQ0JJYVV5Y2wzclU1cVZtbHFmQ3BDTExOZmNGam1NTjlrOXFBdVI0YVU3b1NzdFlGU3JwTGc5OWk2RU1TSm8wNG1tOVRORHBhVWNiUEFYS2F0N2ZZS1p2bXk1Ry0tRjZmNTF4RFlrRkk?oc=5",
+      "publishedAt": "2026-07-27T13:27:57.000Z",
+      "titleKa": "ბიტკოინის და ეთერიუმის ფასები დღეს, 2026 წლის 27 ივლისს: შეძლებს დადებითი ფასების ტენდენციები ამ კვირაში შენარჩუნდეს?",
+      "summaryKa": "ბიტკოინის და ეთერიუმის ფასები დღეს 27 ივლისს არის.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "dde1c8f80a728aee",
+      "title": "Investors Turn To Bitcoin Amid Fears Of U.S. Dollar Devaluation",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaF9KbEdUVFN6cUpJU2pyWjlQYTd0WF8wTnRNaGpKNFVYMl9BVUdVa2ZBU253MkVFc0dER3FJbTAyUFNIQ2FZd1ZNN3dnemxvWTNzRWdLNG1UQ2VrSUFiTWY1SmZZWGpNMElkRlg5RUkzbVVCSlBkbmgyUF9MUG1xc2hoaHg1dENZRDhoNUFvdE9ZS0kxNV81OUNhZmdXQ1k?oc=5",
+      "publishedAt": "2026-07-27T13:27:00.000Z",
+      "titleKa": "მოსახლებები ბიტკოინისკენ მიმართავენ აშშ დოლარის დევალვაციის შიშით",
+      "summaryKa": "მოსახლებები მიმართავენ ბიტკოინისკენ აშშ დოლარის დევალვაციის შიშით.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3057fbe07d5e173f",
+      "title": "Strategy Again Boosts Cash Reserves And Leaves Bitcoin Unchanged",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUTZISHlCZU0tdUdQZ01NZkJWdXlzNWQtNU93NmFtVW9nZTNzb2FiMmc0ay1xeFhjUDJhbVZWTlJCSG1CRXVRVWNBSGJ1MkJhM0xsczlQenZNX2ZoQ2F0TUg3U0VMT3B1RXRjbFRVRlRYWWNxRzRrVkVwN1NlVVdrZzVsUGUyaWViM2dTXzhwazRQUUZHanB4NlZhdTlOd3V5OGc?oc=5",
+      "publishedAt": "2026-07-27T13:26:00.000Z",
+      "titleKa": "სტრატეგია კვლავ ზრდის ნაღდი ფულის რეზერვებს და ბიტკოინი უცვლელია",
+      "summaryKa": "სტრატეგია ზრდის ნაღდი ფულის რეზერვებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b2436a69d3ee42ca",
+      "title": "3 Market-Beating Stocks with Competitive Advantages",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1duS1FjWDh4b1RfRGR3ckZRSkgzdzRyREpiTno2LWlTcmxsVXlFSkZ6bDV5VkdvaGhvU2ZNUVY5Q3FFWEtvcVJfMV9QVU04SXUwa3RZdWxrajRzdTQ2ZVdLelI0eGE4OWRCazItRHd2NWZKc3YtWVFDVFlWU3pwNTl3N1dqM0V0MkFpbnVuNUlLR2h3SWhLTFlxVGNVdVpxWGc?oc=5",
+      "publishedAt": "2026-07-27T13:17:02.000Z",
+      "titleKa": "3 ბაზრის დამარცხების აქცია კონკურენტული უპირატესობებით",
+      "summaryKa": "არსებობს 3 ბაზრის დამარცხების აქცია, რომლებიც კონკურენტული უპირატესობებით გამოირჩევიან.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b8fd3fc8760a418a",
+      "title": "D-Wave leads quantum stocks higher as AT&T expands computing deal",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjh0cm4yOURBeDhDT3BIZ04zX3NtcTQ5RWNBZk9fOUQ0dEhNa3JxQ1hrZ0NkaVdIckpxOUpVWEVLR0JkQi1UWFFEYWwtTkU2MF80Q3lrbjgyaEppczRwakNBM0FtUnJ5OUp0aDNiVGd6Zm16RTdGSDgxUnR2NXlFWFA0RmFYVjVwSm1BZEx5VDZRU25NZUtGRmF0WlNQeW40TzU2UFQ1d1QzVGIwMXZad1FpMTRLSTZScVlUU2ln?oc=5",
+      "publishedAt": "2026-07-27T13:13:36.000Z",
+      "titleKa": "D-Wave ლიდერობს კვანტური აქციების ზრდაში, რადგან AT&T კომპიუტერული გარიგების გაფართოებას ახორციელებს",
+      "summaryKa": "D-Wave ლიდერობს კვანტური აქციების ზრდაში.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "026ea3cb5a3485d2",
       "title": "Shipping Upheaval Suggests Oil’s Selloff Won’t Last",
