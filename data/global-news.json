@@ -1,8 +1,124 @@
 {
-  "updatedAt": "2026-07-27T04:59:55.873Z",
+  "updatedAt": "2026-07-27T08:30:43.305Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "1e16940d5a8a1698",
+      "title": "Huron Earnings: What To Look For From HURN",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOanJ6RWJ4LVRicW1mT0tvMUtHZF9DNU9UWDJVTXQ3RkFCZEp6dVdFR3FEc3U5eFcxOFRWNXBhcXZyZWx4VXlhSDdHc0hYb0F4VEc2NmpfUkR1SThxdmFkczlYY1RjWTZhcUtpVzNxZlVycDNsYzVYZzROYVpIdWNLTjJlaF9GSnJ4bVltRl9fZGFVSjg?oc=5",
+      "publishedAt": "2026-07-27T08:05:02.000Z",
+      "titleKa": "ჰურონის მოგება: რას უნდა ველოდოთ HURN-ისგან",
+      "summaryKa": "ჰურონის მოგების ანგარიშზე ყურადღების ცენტრში იქნება რამდენიმე მნიშვნელოვანი ფაქტორი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/huron-earnings-look-hurn-080502578.html",
+      "bodyKa": "## ჰურონის ფინანსური შედეგები\n\nჰურონ კონსალტინგ ჯგუფი (NASDAQ:HURN) ამ კვირის სამშაბათს გამოაქვეყნებს თავის ფინანსურ ანგარიშს. ბოლო კვარტალში კომპანიამ მოახერხა ანალიტიკოსების მოსალოდნელი შემოსავლის პროგნოზების გადაჭარბება, რაც $451.8 მილიონი დოლარის შემოსავალით დასრულდა, რაც 11.8%-ით მეტია წინა წლის ანალოგიურ პერიოდთან შედარებით.\n\n## კვარტალური პროგნოზები\n\nამ კვარტალში ბაზარი ელოდება, რომ ჰურონის შემოსავალი კვლავ 11.8%-ით გაიზრდება წელიწადში, რაც უკეთესია წინა წლის 8.1%-იანი ზრდისგან. ანალიტიკოსები, რომლებიც კომპანიას აფასებენ, ბოლო 30 დღის განმავლობაში ძირითადად კვლავ ადასტურებენ თავიანთ პროგნოზებს, რაც მიუთითებს იმაზე, რომ ისინი ელოდებიან, რომ ბიზნესი სტაბილურად გაგრძელდება.\n\n## კონკურენტების შედეგები\n\nჰურონის კონკურენტების, როგორიცაა Concentrix და ManpowerGroup, შედეგები უკვე გამოქვეყნდა. Concentrix-მა 1.9%-იანი წლიური ზრდა დააფიქსირა, რაც ანალიტიკოსების პროგნოზებს შეესაბამება, ხოლო ManpowerGroup-მა 7.5%-იანი ზრდა დააფიქსირა, რაც 2.9%-ით გადააჭარბა პროგნოზებს. Concentrix-ის აქციები 11.2%-ით დაეცა შედეგების გამოქვეყნების შემდეგ, ხოლო ManpowerGroup-ის აქციები 34.1%-ით გაიზარდა.\n\n## ინვესტორების განწყობა\n\nპროფესიონალური მომსახურების სექტორში ინვესტორების განწყობა სტაბილურია, რადგან ბოლო ერთი თვის განმავლობაში აქციების საშუალო ფასები 1.1%-ით გაიზარდა. ჰურონის აქციები 17.4%-ით გაიზარდა იმავე პერიოდში და ახლა მიემართება ფინანსური ანგარიშის გამოქვეყნებისკენ საშუალო ანალიტიკოსების ფასის მიზნის $184.25-ის დონეზე, რაც მიმდინარე ფას $112.30-ს შეესაბამება.\n\n## დასკვნა\n\nჰურონის ფინანსური შედეგები და მათი გავლენა ბაზარზე მნიშვნელოვანი იქნება, რადგან კომპანიამ ბოლო პერიოდში წარმატებით მოახერხა ანალიტიკოსების პროგნოზების გადაჭარბება. თუმცა, ბოლო ორი წლის განმავლობაში ჰურონი რამდენჯერმე ვერ შეძლო Wall Street-ის შემოსავლის პროგნოზების შესრულება. ინვესტორები ყურადღებით აკვირდებიან, როგორ განვითარდება მოვლენები მომავალ კვირაში.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "3b3c042e2a9e5bb4",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil tumbles, investors brace for busy week",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWE4UE55cjJKTXFET0xKNElSblpHdnRaZW92RlhpUzFnRER6WkUtMy0yTjVHMm9fLUxJWGphcTRTb2oyd2lPRkd4Q2tSd1JCaldHR3Q4ZFVESFl5T1R4SzB1M3d3V0JSbHVZbjBBM3FLdjFSX0NxUm1fTkczR0NET0M1ald1OTdjd1pHTVJLdnJCWmdYZGJQdGwzcVI0bFQ0bVZRSUJSbEI?oc=5",
+      "publishedAt": "2026-07-27T08:04:12.000Z",
+      "titleKa": "ბირჟის დღე: Dow, S&P 500, Nasdaq-ის ფიუჩერსები იზრდება, ხოლო ნავთობის ფასები ეცემა, ინვესტორები აქტიურ კვირას ელოდებიან",
+      "summaryKa": "Dow, S&P 500 და Nasdaq-ის ფიუჩერსები იზრდება, ხოლო ნავთობის ფასები ეცემა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-27-dow-sp-500-nasdaq-080412540.html",
+      "bodyKa": "## ბირჟის დღე: Dow, S&P 500 და Nasdaq-ის ფიუჩერსების ზრდა\n\nამერიკული საფონდო ბაზრების ფიუჩერსები ორშაბათის დილით გაიზარდა, რაც იმ ფონზე მოხდა, როდესაც ნავთობის ფასები მნიშვნელოვნად დაეცა. Dow Jones Industrial Average-ის (YM=F) ფიუჩერსები 0.8%-ით გაიზარდა, ხოლო S&P 500-ის (ES=F) ფიუჩერსებიც 0.8%-ით მოიმატა. Nasdaq-100-ის (NQ=F) კონტრაქტები კი 1.4%-ით გაიზარდა, რაც მოხდა კვირის განმავლობაში, როდესაც ინდექსები შემცირდა.\n\n## ნავთობის ფასების ვარდნა\n\nბაზრის განწყობა შაბათ-კვირის განმავლობაში გაუმჯობესდა, რადგან აშშ და ირანი შეაჩერეს საბრძოლო მოქმედებები, რაც იმედებს აღძრავს, რომ მშვიდობის მოლაპარაკებები შეიძლება განახლდეს ორი კვირის თავდასხმების შემდეგ. ნავთობის ფასები 6%-ით დაეცა, ხოლო Brent-ის ნავთობის ფიუჩერსები ბოლო მონაცემებით 5%-ით შემცირდა და 87 დოლარის ქვემოთ ვაჭრობდა.\n\n## ფედერალური რეზერვის გადაწყვეტილება\n\nნავთობის ფასების გაგრძელებული ვარდნა შესაძლოა შეამციროს წნეხი ფედერალურ რეზერვზე, რომელიც ოთხშაბათს განახორციელებს საპროცენტო განაკვეთის გადაწყვეტილებას. ცენტრალური ბანკი სავარაუდოდ, განაკვეთს უცვლელად დატოვებს, რადგან ოფიციალური პირები ინფლაციის პროგრესს აკვირდებიან, თუმცა განაკვეთის ზრდა არ არის გამორიცხული, რაც ერთ-ერთი ყველაზე ნაკლებად პროგნოზირებადი გადაწყვეტილებაა ბოლო წლებში.\n\n## დიდი ტექნოლოგიური კომპანიების ანგარიშები\n\nამ კვირაში ყურადღება მიექცევა დიდი ტექნოლოგიური კომპანიების ანგარიშების ნაკადს, მათ შორის Microsoft-ის (MSFT), Meta Platforms-ის (META), Apple-ის (AAPL) და Amazon-ის (AMZN) ანგარიშებს. განსაკუთრებით მნიშვნელოვანი იქნება კაპიტალური ხარჯების პროგნოზი და ხელოვნური ინტელექტის მონეტიზაცია, რაც Alphabet-ის (GOOG, GOOGL) და Tesla-ს (TSLA) კაპექსის გამო ტექნოლოგიური სექტორის კრიზისს გამოიწვია. \n\n## სხვა კომპანიების ანგარიშები\n\nკვირის ანგარიშების კალენდარი იწყება AstraZeneca-ს (AZN) და Nucor Corporation-ის (NUE) ანგარიშებით, ხოლო მასში შედის SK Hynix (SKHY), Coca-Cola (KO), Starbucks (SBUX), Procter & Gamble (PG) და Arm Holdings (ARM), და კვირა დასრულდება ExxonMobil-ის (XOM) და Chevron-ის (CVX) ანგარიშებით.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "2504e9fe618c2097",
+      "title": "Kazimir Says ECB Must Hike at Least Once More to Quell Inflation",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3RRN01leVZsb0N0T28xTFFDR04yc0hBZzBmWkNfYkVvUGN4NkpJX20zNVhOeFg1WF9vMktPUVEwMExpWEtVX0RqbzhMSEUtcTFFQVZDTllBQzBiaTk4Q3lEeTFDdEdSNEsyZC1IOWRnMzYtc0RhZEw2b1RsUlVPZDlId0VhT0dmN3ZKZ0J2cU1JQXBhd2h4T1pHQjBMQ1JIckducVM1dU9sNlcyTDRJektUcVRDZw?oc=5",
+      "publishedAt": "2026-07-27T08:00:00.000Z",
+      "titleKa": "კაზიმირი ამბობს, რომ ECB უნდა გაზარდოს განაკვეთი მინიმუმ ერთხელ, რათა ინფლაცია შეაჩეროს",
+      "summaryKa": "კაზიმირი აცხადებს, რომ ECB უნდა გაზარდოს განაკვეთი მინიმუმ ერთხელ ინფლაციის შესაჩერებლად.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "50759b9fc896d7cd",
+      "title": "PACCAR Earnings: What To Look For From PCAR",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc2JHTE5EdGN4MVFqTFRkODVmaEE3REVzbVRWMzZ0ajNYT2RDMU9GTnlKaW90UWRMbkxLZjJ1bjFDR3FzcUxLaUM1X2NqT3ZDUWNvaG5wYW44VGxSNDF3eEQ1NDJyWTZ5YkNzUktnNFVnbkpmZ1djZ2p1a1JlR1NwM25IaWJQT3Jjc0E0U3QwNWNUNkhN?oc=5",
+      "publishedAt": "2026-07-27T07:49:02.000Z",
+      "titleKa": "PACCAR-ის მოგება: რას უნდა ველოდოთ PCAR-ისგან",
+      "summaryKa": "PACCAR-ის მოგების ანგარიშზე ყურადღების ცენტრში იქნება რამდენიმე მნიშვნელოვანი ფაქტორი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "0ecfaf60aa320639",
+      "title": "AT&T Stock Posts Largest Weekly Outperformance Versus S&P 500 In 25 Years: Wall Street Hikes Price Targets",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWElKMENoNzJtTlFvYVFocDduYVVRODhlWkFJUXBXRFAzbEU5TEVpZzhXbFJDQU1uT1U0a1MtQ2F2eS1nT0lHOHh5ZzQ3eWNfbDZDcS1ycGF4ZmxzM3JMSzUyVFI1RkprMEYyVE92TnhNVl9PcVFiVjJEZmxVMERKWDc0WWFVOGtzVXgwTDdseWVNdDJ6VXhLMg?oc=5",
+      "publishedAt": "2026-07-27T07:46:13.000Z",
+      "titleKa": "AT&T-ის აქციები 25 წლის განმავლობაში S&P 500-ის წინააღმდეგ ყველაზე დიდი კვირის შესრულებით გამოირჩევა: Wall Street-ი ფასების მიზნებს ზრდის",
+      "summaryKa": "AT&T-ის აქციები 25 წლის განმავლობაში S&P 500-ის წინააღმდეგ ყველაზე დიდი კვირის შესრულებით გამოირჩევა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2868a37670793772",
+      "title": "Veralto (VLTO) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFR2YmV3SEJUdUFObXF1dXJhM3h1aHIyQUlIZTNwVDRGRVhwYWlQdHltQUtrb2tjWlNmdGpFbVEtV1ZTZ04wV1JaOTdPY19obTJGTFlZd1FPSlIwQ2hMUFJCVGJfa3pMalJXU1ZTYmQ3WWt0QU5BeDdreThIWFh1OWotQ0lXbmN5UndYSnFfazZxYTJZRW1MLUw2MC0weUc3?oc=5",
+      "publishedAt": "2026-07-27T07:41:02.000Z",
+      "titleKa": "Veralto (VLTO) Q2-ის ანგარიშს აქვეყნებს: ყველაფერი, რაც უნდა იცოდეთ მოგების ანგარიშამდე",
+      "summaryKa": "Veralto Q2-ის ანგარიშზე ყურადღების ცენტრში იქნება რამდენიმე მნიშვნელოვანი ფაქტორი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5b3e74fbd7f32575",
+      "title": "Which Is the Better Investment: Crypto or the Moon?",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
+      "publishedAt": "2026-07-27T07:32:38.000Z",
+      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
+      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f3ced981ea32ebe0",
+      "title": "Repligen (RGEN) Q2 Earnings: What To Expect",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQmtrUWZKWmdwSUxmSWx6QWo2UzlVWEVlcUNJaFlSRkIycHJiSkxyd181SnlVOGFsajl4Vm1Ld1RfTDZEMFI1eDAzZEdZcFpHT1BZNFhkbGZkUVBxTEJYRWk5UkpXTzJRQmE0QlZjaHhvTVZTZUdwYVhKMEVibEZSWVF6WjhHQVNVS3BmUU5STERqcDFseXJ4RFRkZ3hwUQ?oc=5",
+      "publishedAt": "2026-07-27T07:17:02.000Z",
+      "titleKa": "Repligen (RGEN) Q2-ის მოგება: რას უნდა ველოდოთ",
+      "summaryKa": "Repligen-ის Q2-ის მოგების ანგარიშზე ყურადღების ცენტრში იქნება რამდენიმე მნიშვნელოვანი ფაქტორი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f2afedba2b6a1bcd",
+      "title": "What To Expect From Caesars Entertainment’s (CZR) Q2 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdjNSUlFxUzJENzJHR0trMUNaX2pEM08zYWVFVHJ4Y0Y0SVloY21fWENvY3NEd1kxVG9uXzdJNzhQaVkyTnZEakd2UmRyZ19ObENwSFVOMHA0UHoxdWxPTzZEek9uRnBReGZuTHdYT0I4bjRBOTBEM2pnVzFvY3pNaGZrSnFQbjRRV2t1VDZucEFZaThYTUd4QTBmbUdBSnJRb0E?oc=5",
+      "publishedAt": "2026-07-27T06:53:00.000Z",
+      "titleKa": "რას უნდა ველოდოთ Caesars Entertainment-ის (CZR) Q2-ის მოგებისგან",
+      "summaryKa": "Caesars Entertainment-ის Q2-ის მოგების ანგარიშზე ყურადღების ცენტრში იქნება რამდენიმე მნიშვნელოვანი ფაქტორი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f9f85645de24d6c8",
+      "title": "What To Expect From Centene’s (CNC) Q2 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY1ozY2NRTWUzVml6SDMyOFRxRW1uU2tyYThteXMzT0RyeWIyMDlQbXhYNExGWEFRdzJYOTdGX0VwbDRjOHFabkxkWlBQSFFYbWRzM016eWZtZ1ZiOWVKWm5aQ2lDRHNlenQxYTZ4a0dIek1GZ2tad0NlUEEyMk82V1NtNExCSlp6dXlueHQtdVlpcFNOTGc?oc=5",
+      "publishedAt": "2026-07-27T06:37:00.000Z",
+      "titleKa": "რას უნდა ველოდოთ Centene-ის (CNC) Q2-ის მოგებისგან",
+      "summaryKa": "Centene-ის Q2-ის მოგების ანგარიშზე ყურადღების ცენტრში იქნება რამდენიმე მნიშვნელოვანი ფაქტორი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "b1d0556342509338",
       "title": "Bitcoin ETFs End Inflow Streak as Fed Rate Concerns Mount",
@@ -12,17 +128,6 @@
       "titleKa": "ბიტკოინის ETF-ების ინვესტიციების ნაკადი შეჩერდა ფედერალური სარეზერვო განაკვეთის შეშფოთების ფონზე",
       "summaryKa": "ბიტკოინის ETF-ების ინვესტიციების ნაკადი შეჩერდა.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "5b3e74fbd7f32575",
-      "title": "Which Is the Better Investment: Crypto or the Moon?",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
-      "publishedAt": "2026-07-27T04:32:38.000Z",
-      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
-      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
-      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
