@@ -1,8 +1,41 @@
 {
-  "updatedAt": "2026-07-26T23:38:36.452Z",
+  "updatedAt": "2026-07-27T01:16:25.699Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "5b3e74fbd7f32575",
+      "title": "Which Is the Better Investment: Crypto or the Moon?",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
+      "publishedAt": "2026-07-27T00:02:38.000Z",
+      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
+      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1294ced132f303c9",
+      "title": "Takaichi’s Support Ratings Tumble as Inflation Concern Lingers",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFpIdUwzNDF3UEtGMXFjSll3VWY5OUhzWC1YTXU1NDhQZ2FQa01QdUE5Y2xRLVgyckxNR1paOVVfcGgyT2pWUTRZdGhoN0ZaSnNlR0x6RXJHdEVxbngzSlFjWDFCLWRPRnhMWDh5ekVTbi1LSkE0Rk5sTVZ1SlBRN3Q3MDJUOWVUOXByZkhUaEJxeU9RVmNoQklsTnR2a3JKSXVLN3ZBdU9GUHNtQjR3cmkxRQ?oc=5",
+      "publishedAt": "2026-07-27T00:02:00.000Z",
+      "titleKa": "ტაკაიჩის მხარდაჭერის რეიტინგები შემცირდა ინფლაციის შეშფოთების ფონზე",
+      "summaryKa": "ტაკაიჩის მხარდაჭერის რეიტინგები შემცირდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a5cc953f9737c7c4",
+      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWlMTm54Smw1ZFJQbGptYTdjcjkxS3hZQVhNWFpZa1AtNGRnSG1TNmcxelJ4ZUFrOFAyMHZjYXNnUGtsZGdaNDk1WWhSelhVXzhRcG1QcEtDdFRLM3o2TDZaNmlPUFhPV25NcnoxVVRRZVdTNlMxOUxTMHJ5SkFlRmFjSEh5aXRNd01nV215UjluRjQxTXFVSVhOMHhJZHRuR1pJSEZiMF9GMFdzZU9ZdXpkVHgyMU9hQW1lZWp4ZG5saklQM3c3aHJISEZUY3BXeDRn?oc=5",
+      "publishedAt": "2026-07-26T23:45:00.000Z",
+      "titleKa": "ნავთობის ფასები ეცემა, აქციების ფიუჩერსები იზრდება აშშ-ისა და ირანის თავდასხმების შეწყვეტის ფონზე, უოლ სტრიტი დაკავებულ კვირას ელოდება",
+      "summaryKa": "ნავთობის ფასები ეცემა აშშ-ისა და ირანის თავდასხმების შეწყვეტის ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "d0c3fa394aa03f59",
       "title": "Gold Climbs After Pause in Mideast Fighting Cuts Inflation Fears",
@@ -12,17 +45,6 @@
       "titleKa": "ოქრო იზრდება ახლო აღმოსავლეთში ბრძოლების შეწყვეტის შემდეგ, რაც ინფლაციის შიშებს ამცირებს",
       "summaryKa": "ოქროს ფასები იზრდება ახლო აღმოსავლეთში ბრძოლების შეწყვეტის ფონზე.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "5b3e74fbd7f32575",
-      "title": "Which Is the Better Investment: Crypto or the Moon?",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
-      "publishedAt": "2026-07-26T22:32:38.000Z",
-      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
-      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
-      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -38,17 +60,6 @@
       "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/t-beat-earnings-announced-10-222500597.html",
       "bodyKa": "## AT&T-ის მოგება და აქციების დაბრუნება\n\nAT&T (NYSE: T) გამოაცხადა, რომ მისი მეორე კვარტლის მოგება 2.3%-ით გაიზარდა წინა წლის ანალოგიურ პერიოდთან შედარებით და შეადგინა $31.6 მილიარდი. თუმცა, ინვესტორები ძირითადად აქციების დაბრუნების გეგმას ელოდებიან, რაც კომპანიამ $10 მილიარდამდე გაზარდა.\n\n## აქციების დაბრუნების გეგმა\n\nAT&T-ის მმართველობამ 2026 წლისთვის აქციების დაბრუნების გეგმა $8 მილიარდიდან $10 მილიარდამდე გაზარდა. აქციების დაბრუნება და დივიდენდები, რომლებიც $1.11-ს შეადგენს თითო აქციაზე, საერთო ჯამში $18 მილიარდი იქნება, რაც თითქმის მთლიანად მოიცავს კომპანიის თავისუფალ ფულს.\n\n## ფინანსური მაჩვენებლები\n\nკომპანიის არაოფიციალური მოგება თითო აქციაზე $0.65-ს შეადგენს, რაც 20%-იანი ზრდაა წინა წლის ანალოგიურ პერიოდთან შედარებით. თავისუფალი ფულის ნაკადი მეორე კვარტალში $4.7 მილიარდი იყო, რაც $4.4 მილიარდზე მეტია წინა წლის მონაცემებთან შედარებით.\n\n## ვალის მდგომარეობა\n\nAT&T-ის წმინდა ვალი მეორე კვარტლის ბოლოს $126.4 მილიარდი იყო, რაც 2.68-ჯერ აღემატება კორექტირებულ EBITDA-ს. მმართველობა პროგნოზირებს, რომ ეს მაჩვენებელი გაიზრდება 3.2-ჯერ, როდესაც EchoStar-თან გარიგება დასრულდება.\n\n## ინვესტორების პერსპექტივა\n\nAT&T-ის აქციები დაახლოებით 8-ჯერ ვაჭრობენ მოგებაზე, რაც ინვესტორებისთვის საინტერესო შესაძლებლობას წარმოადგენს. თუმცა, კომპანიის შემოსავალი მხოლოდ 2%-ით იზრდება ყოველ წელს, რაც შეიძლება ინვესტორებისათვის შეშფოთების მიზეზი იყოს. \n\nAT&T-ის მმართველობა აცხადებს, რომ მათი მიზანია მომავალი წლებში თავისუფალი ფულის ნაკადი $19 მილიარდზე მეტი იყოს 2027 წელს და $21 მილიარდზე მეტი 2028 წელს.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
-    },
-    {
-      "id": "a5cc953f9737c7c4",
-      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
-      "source": "MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWlMTm54Smw1ZFJQbGptYTdjcjkxS3hZQVhNWFpZa1AtNGRnSG1TNmcxelJ4ZUFrOFAyMHZjYXNnUGtsZGdaNDk1WWhSelhVXzhRcG1QcEtDdFRLM3o2TDZaNmlPUFhPV25NcnoxVVRRZVdTNlMxOUxTMHJ5SkFlRmFjSEh5aXRNd01nV215UjluRjQxTXFVSVhOMHhJZHRuR1pJSEZiMF9GMFdzZU9ZdXpkVHgyMU9hQW1lZWp4ZG5saklQM3c3aHJISEZUY3BXeDRn?oc=5",
-      "publishedAt": "2026-07-26T22:16:00.000Z",
-      "titleKa": "ნავთობის ფასები ეცემა, აქციების ფიუჩერსები იზრდება აშშ-ისა და ირანის თავდასხმების შეწყვეტის ფონზე, უოლ სტრიტი დაკავებულ კვირას ელოდება",
-      "summaryKa": "ნავთობის ფასები ეცემა აშშ-ისა და ირანის თავდასხმების შეწყვეტის ფონზე.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "0ef4a49c72ac5622",
@@ -91,6 +102,31 @@
       "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-26/latest-oil-market-news-and-analysis-for-july-27",
       "bodyKa": "## ნავთობის ფასების ვარდნა\n\nამ კვირის დასაწყისში ნავთობის ფასები მნიშვნელოვნად დაეცა, რაც გამოწვეულია აშშ-ის მიერ ირანის წინააღმდეგ თავდასხმების შეჩერებით. ეს გადაწყვეტილება ხელს უწყობს ენერგეტიკული მიწოდების რისკების შემცირებას ახლო აღმოსავლეთში, რაც ბაზარზე დადებითად აისახება.\n\n## რეგიონული დაძაბულობის შემცირება\n\nბოლო პერიოდში რეგიონში არსებული დაძაბულობა, რომელიც ირანისა და აშშ-ის შორის კონფლიქტით იყო გამოწვეული, ახლა შემცირებულია. აშშ-ის გადაწყვეტილება თავდასხმების შეჩერების შესახებ, როგორც ჩანს, დადებითად მოქმედებს ნავთობის ბაზარზე, რაც ფასების ვარდნას იწვევს.\n\n## ჰუთების თავდასხმები\n\nთუმცა, მიუხედავად აშშ-ის გადაწყვეტილებისა, ჰუთების ჯგუფმა განაცხადა, რომ ისინი კვლავ განაგრძობენ თავდასხმებს საუდის არაბეთის მიზნების წინააღმდეგ. ეს ფაქტი შესაძლოა მომავალში კვლავ გააღვივოს დაძაბულობა რეგიონში, თუმცა ამჟამად ბაზარი ამ ინფორმაციას ნაკლებად რეაგირებს.\n\n## ბაზრის რეაქცია\n\nნავთობის ფასების ვარდნა, რომელიც კვირის დასაწყისში შეინიშნება, შესაძლოა იყოს დროებითი. ბაზრის მონაწილეები ყურადღებით აკვირდებიან მოვლენების განვითარებას და იმაზე, თუ როგორ იმოქმედებს ეს გადაწყვეტილება ენერგეტიკული ბაზრის სტაბილურობაზე.\n\n## დასკვნა\n\nამჟამად, ნავთობის ბაზარი აშშ-ის და ირანის შორის მიმდინარე მოვლენების ფონზე ვითარდება. ფასების ვარდნა შესაძლოა იყოს ნიშანი იმისა, რომ ბაზარი უფრო სტაბილური ხდება, თუმცა რეგიონში არსებული დაძაბულობა კვლავ აქტუალურია.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "6bcfbe6afe006b6a",
+      "title": "Forget IonQ, Rigetti Computing, and D-Wave Quantum. This Trillion-Dollar Artificial Intelligence (AI) Stock Is the Best Quantum Computing Opportunity, and It's Currently Trading at a 7-Year Valuation Low.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXVUU3ZmOG1yeEphY3pjNm53Wm1SWEFWOHo4THpiZzBWODl1bnVzX0JCc0JqYmxoMDBFdG11b1ZKQzhoTkdVMGs4cGI5NzdiMFBPTFNQSEF3ME9oZmF2bVRBZDRJckQ2S0JTcjdheHlScGZnZnpQZHBtbENZR1k0Y1hET0NrLWJOekFGNHY4V092Y0xxblI3dmVzZw?oc=5",
+      "publishedAt": "2026-07-26T21:43:00.000Z",
+      "titleKa": "დავიწყეთ IonQ, Rigetti Computing და D-Wave Quantum. ეს ტრილიონ დოლარიანი ხელოვნური ინტელექტის (AI) აქცია საუკეთესო შესაძლებლობაა კვანტური კომპიუტერების სფეროში და ამჟამად 7 წლის დაბალი შეფასებით ვაჭრდება.",
+      "summaryKa": "ეს ტრილიონ დოლარიანი AI აქცია საუკეთესო შესაძლებლობაა კვანტური კომპიუტერების სფეროში.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/forget-ionq-rigetti-computing-d-214300737.html",
+      "bodyKa": "## კვანტური კომპიუტერების შესაძლებლობები\n\nკვანტური კომპიუტერები წარმოადგენენ ძირითადი ცვლილების ნიშანს კლასიკური სისტემებისგან, რომლებიც მონაცემებს ბინარული ბიტების გამოყენებით ამუშავებენ. კვანტური მანქანები იყენებენ კუბიტებს, რომლებიც სუპერპოზიციის თვისებას ფლობენ, რაც მათ საშუალებას აძლევს ერთდროულად შეაფასონ უამრავი შესაძლებლობა. ეს უნარი განსაკუთრებით პერსპექტიულია ხელოვნური ინტელექტისთვის (AI), რადგან კვანტური კომპიუტერები შეუძლიათ სწრაფად მოიძიონ პასუხები რთულ ოპტიმიზაციის პრობლემებზე.\n\n## ბაზრის მდგომარეობა\n\nIonQ (NYSE: IONQ), Rigetti Computing (NASDAQ: RGTI) და D-Wave Quantum (NYSE: QBTS) არიან ძირითადი საჯარო კომპანიები, რომლებიც კვანტური კომპიუტერების ტექნოლოგიაზე არიან ორიენტირებული. IonQ იყენებს დახურული იონების კუბიტებს, ხოლო Rigetti - სუპერ გამტარ კუბიტებს. ორივე კომპანია სთავაზობს პლატფორმებს ღრუბლოვანი გარემოს მეშვეობით, რაც მათ საშუალებას აძლევს ინტეგრირდნენ Microsoft Azure, Amazon Web Services და Google Cloud-ის ინფრასტრუქტურებთან.\n\n## ფინანსური მდგომარეობა\n\nამ კომპანიების ფინანსური მდგომარეობა საკმაოდ რთულია. მიუხედავად იმისა, რომ ისინი გარკვეულ შემოსავალს იღებენ და სახელმწიფო სუბსიდიების მხარდაჭერასაც იღებენ, ყველა მათგანი მნიშვნელოვან ოპერაციულ დანაკარგებს განიცდის. ისინი მუდმივად ეყრდნობიან აქციების გამართვას კვლევისა და განვითარების დაფინანსებისთვის, რაც აქციონერების დილუციას იწვევს.\n\n## შეფასებები და პერსპექტივები\n\nკვანტური კომპანიების შეფასებები უკიდურესად სპეკულაციური ხასიათისაა. IonQ-ს გაყიდვების მიმართ ფასის (P/S) რიცხვი დაახლოებით 58-ს შეადგენს, ხოლო Rigetti და D-Wave ორივე 480-ის გარშემო მყოფი P/S მრავლობითობით გამოირჩევა. ეს შეფასებები მიუთითებს იმაზე, რომ კომპანიები ჯერ კიდევ შორს არიან მოგების მიღებისგან.\n\n## დასკვნა\n\nკვანტური კომპიუტერების სფერო კვლავ აქტიური კვლევის პროცესშია, თუმცა მისი პოტენციალი და შესაძლებლობები მომავალში დიდ მნიშვნელობას შეიძენს. McKinsey & Company-ის მიხედვით, კვანტური კომპიუტინგი 2035 წლისთვის მსოფლიო ეკონომიკაში $2.7 ტრილიონი ღირებულების დამატებას შეძლებს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "88bc1cde67c44897",
+      "title": "Republic Bancorp (RBCA.A) Could Be Fully Valued After Strong Q2 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3Q5QlNnTEZUazMwbVU4d3lxdFZxOW85N2ZlZVV3UTdRUzVORnlLRGhQRm1mYVNXeG5zNE95ZjJWVUIwOXpLRmpxRWFHTFNVUjZGRHFtU0FPSk9pRHdVSXhydVBjT0tPdEIxcVdPRXhITTJwOEFhU0VPcDZRS1JZMzNteHVZSXotYk1Bb3lwZkhFcm01YlFWLVl2YUhiNG8?oc=5",
+      "publishedAt": "2026-07-26T21:08:18.000Z",
+      "titleKa": "რესპუბლიკური ბანკი (RBCA.A) შესაძლოა სრულად შეფასდეს ძლიერი Q2 შემოსავლის შემდეგ",
+      "summaryKa": "რესპუბლიკური ბანკი შესაძლოა სრულად შეფასდეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "cfeb5303066492e1",
