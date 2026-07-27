@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-07-27T08:30:43.305Z",
+  "updatedAt": "2026-07-27T11:51:15.620Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "026ea3cb5a3485d2",
+      "title": "Shipping Upheaval Suggests Oil’s Selloff Won’t Last",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRm41enRGY1BzR3dZU1haNnJmMVdwVVNzdDAzeHh5RFpFMllYMXVXRTlWV3JULTNSLVVuaW1lSFd6S3dvR3RrblUyeUpHS1U3MkdVc2dXekZmS1VSb0dETG1TRFJ3eV9yaE1JQlY5bENuTFg4bHFsaFlxaTNfM3NsSlZ1MEtsY0MtQXoxTzdiQUNxSldBQlp0X210RkhCSXptcXRFQnRn?oc=5",
+      "publishedAt": "2026-07-27T11:41:12.000Z",
+      "titleKa": "გადაზიდვების არეულობა მიუთითებს, რომ ნავთობის გაყიდვა არ გაგრძელდება",
+      "summaryKa": "გადაზიდვების არეულობა მიუთითებს, რომ ნავთობის გაყიდვა არ გაგრძელდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "58da989aaea3274a",
+      "title": "Crypto to Data Centers: Treasury Model Bust Has Firms Chasing AI",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYlZTMExQS3UzOXQ1b0xqM2tsLW5zMXlkQWxEQS1sQk5LRE1SNEwxRVU5cVZZamdiYjd3R3B1Mkt3QkJVX3VmM1Bzd2F0TWt1ZVRibnBoZHJvLTFVV0hHRkwtSTRRMnRIWDBhal9RcGd4S0FQU1VHYzhuQzllY1ctY0xQNlRXRExabndWcTRVRllldFdNOXpkMjdKU3cxOEhGQm5oMk9nV09zZEc2djBrcGYtRi0?oc=5",
+      "publishedAt": "2026-07-27T11:14:22.000Z",
+      "titleKa": "კრიპტო მონაცემთა ცენტრებისთვის: ფინანსთა მოდელის კრახი კომპანიებს AI-ისკენ უბიძგებს",
+      "summaryKa": "ფინანსთა მოდელის კრახი კომპანიებს AI-ისკენ უბიძგებს.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b34dd1a8aaf0b090",
+      "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGRBbERDcVZiWEQ3NkkxZGRiaW1uTjRjWXJzb2JvUWFGZ1NKaHphRjFIeC02bEhsMUcxVnlaWG1RYVdRZldVVGI4dlFlTkZTZU9RQ181dVp0a2k5ZlFHMnpKUXNzdldva1lRZWJlU09VdV8zaVFmNTVUQ01yQXZKN2lQdTlNeXpTYkUzVkhxejFWdjZjU0pZSU1FVEdaSWN0c2o1TUFoYzJnQ0lqejJhVUVR?oc=5",
+      "publishedAt": "2026-07-27T11:12:22.000Z",
+      "titleKa": "აშშ-ის აქციები იზრდება, რადგან ნავთობი იკლებს ირანის კონფლიქტის შეჩერების ფონზე",
+      "summaryKa": "აშშ-ის აქციები იზრდება, რადგან ნავთობი იკლებს ირანის კონფლიქტის შეჩერების ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d8ca20050d0fb8d7",
+      "title": "Chemed (CHE) Q2 Earnings: What To Expect",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWNEdS1FLU1LNlVnWC1RS0x1b1huTWY5ZkhHNTBZeVdiZmhtU0tnNkZ2QzY3RUVqNlRZV1MzWElaQjlhRlZpcUcxUEtMUWZsYlNxYW1laHRlUEtDTmw4OHVyb3N2cHJINjhzVUo0eDM5OFlyN05JR0prc2doNmJBLWJDb1BvU29FaGRxekx4UTV1YWRqZlg5UVFR?oc=5",
+      "publishedAt": "2026-07-27T11:09:02.000Z",
+      "titleKa": "Chemed (CHE) Q2 მოგება: რას უნდა ველოდოთ",
+      "summaryKa": "Chemed (CHE) Q2 მოგება და მისი მოლოდინები განიხილება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "bd114bad49e4742e",
+      "title": "Zodiac Gold Commences Inaugural Drilling of up to 5,000m at Lewis Target, Todi Gold Project, Liberia",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSWFyekxGV1pFTXFZWDFtX2dWLThuZ293djlwVURlSWlENzZvYmJ3TXBOZHhpcHN2ck5TOXU4VFZ1dl9EdFM5SEFYTFN0VndYMkpVc0hNc3U4SERTRHI3VGVEb3pHTllFWXZFSldjWHlkLW1TeHVHNmpfOUZRc2g3bWE4Y2M2MUJkamJHYkZiNUsyR2RkaHFINHpUUHdfemREQThiTFZ4cENqenNZa2Yw?oc=5",
+      "publishedAt": "2026-07-27T11:00:00.000Z",
+      "titleKa": "Zodiac Gold იწყებს 5,000 მ-მდე პირველი ბურღვის Lewis Target-ზე, Todi Gold პროექტში, ლიბერიაში",
+      "summaryKa": "Zodiac Gold იწყებს 5,000 მ-მდე პირველი ბურღვის Lewis Target-ზე, Todi Gold პროექტში, ლიბერიაში.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "13475d72a4da3f6e",
+      "title": "Goldman Sachs leads oil and gas M&A advisory by value in H1 2026",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzZPamFnT0p3U3lXcnA3WVlfY051SGliVDNWYUsyVUdPdUd4bUEyZHUtaXlOaHZEQWQ4T1RlSnFwVEU1eHN4UFdfNmdsVUViRGlVMVFXOEpnMWJQZFNYa0JwRVN2ajJjV0tMbVZBeVg4OTg1TGhjNl9mMVJ6QWtNRlFzRlMySXZzS0xGTg?oc=5",
+      "publishedAt": "2026-07-27T10:47:19.000Z",
+      "titleKa": "Goldman Sachs ლიდერობს ნავთობისა და გაზის M&A საკონსულტაციო მომსახურებაში H1 2026-ში",
+      "summaryKa": "Goldman Sachs ლიდერობს ნავთობისა და გაზის M&A საკონსულტაციო მომსახურებაში H1 2026-ში.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1ee958751aed71c3",
+      "title": "Camden National Bank Earnings: What To Look For From CAC",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObDhDT2VOa1BHM2YwWmFCdHRmVFRudWdESEYzN3dmWDFpeTBSZEFQaUY5c1ZKWlFicjhmUFVWMDVuSVIzYWZZVXBNT0UwQUxNMk5lbjcyYUNrQnpPbmRteXpTN085WGRTWXltRkVRUzhrbVJEeDFYTmMyOFM1UXFGdk5RMkhObEpDSm10T0Z3aVdJR2xTSERkUTlpX1YxX2I4?oc=5",
+      "publishedAt": "2026-07-27T10:45:02.000Z",
+      "titleKa": "Camden National Bank-ის მოგება: რას უნდა ველოდოთ CAC-ისგან",
+      "summaryKa": "Camden National Bank-ის მოგება და მისი მოლოდინები განიხილება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6e2d2cc203d0f3eb",
+      "title": "Whipsawing Oil Prices Muddy Traders’ Outlook on Fed Meeting",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjZFTjF6d1lZa3RVNTlULVBrZkkyZjRITlF6YmgwOHNEV2E1MTVIelFJM05BR3VxYjBPTW5MMDd2THRRVHYtT1dDYmx4QVN5dHdVSVVFNU9ORTk3ZEFjVkg1WXV4QjI0cTc1dGJmQUw1bnljQ193dnNhU3pWQ1RqSVk2VzBjdEk0WnVOY2ZmSV9TSVNQY1F0Ykt5TFdDUmFGVHZYQTdKeVdtVXI3eVR3NzRn?oc=5",
+      "publishedAt": "2026-07-27T10:43:31.000Z",
+      "titleKa": "ნავთობის ფასების მერყეობა მუქარას ქმნის ვაჭრების მოლოდინებზე ფედერალური შეხვედრის მიმართ",
+      "summaryKa": "ნავთობის ფასების მერყეობა მუქარას ქმნის ვაჭრების მოლოდინებზე ფედერალური შეხვედრის მიმართ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5b3e74fbd7f32575",
+      "title": "Which Is the Better Investment: Crypto or the Moon?",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
+      "publishedAt": "2026-07-27T10:32:38.000Z",
+      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
+      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e287b3687ef25f25",
+      "title": "Cynthia Lummis Says Crypto Act Will Strengthen Sanctions Compliance Against North Korea-Based Hackers and Other Bad Actors",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWDNkd2lTTEFjYzlNWHpzd25GdllhNG9tUUtFeHQ3cEE4TjdPTlprSnFzQXhUNE1KTXV6cU1pYjRIS2FYNjFhYVpMeDA5c1VSeVlXZUZhdVMwRkxKbnF0c19hcG0zeUtobHVZOEdPWFM2REdpT3RvNmVQWWZqTEczUXUtQklYcGEycnBtS2ozTnRINm8xUy1neWRIUQ?oc=5",
+      "publishedAt": "2026-07-27T10:29:50.000Z",
+      "titleKa": "Cynthia Lummis აცხადებს, რომ კრიპტო აქტები გააძლიერებს სანქციების შესრულებას ჩრდილოეთ კორეის ჰაკერების წინააღმდეგ",
+      "summaryKa": "Cynthia Lummis აცხადებს, რომ კრიპტო აქტები გააძლიერებს სანქციების შესრულებას ჩრდილოეთ კორეის ჰაკერების წინააღმდეგ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2b3a5745a2e9b2b0",
+      "title": "What To Expect From Varonis Systems’s (VRNS) Q2 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeThqYVpnajVhZEFYMTZJaWttQmZNX1UxWUt1NFlkR2lObzZKSzM5UWh2dzMtcWhWMW9LMVZhLVdfU0JqNWhtdkdEb0NTdC1EMEZmOE9aNFk2X0dPWmc3djhXN0RfVTlkN19vMGJUbXdyWk9ERkMwTC1RTUVwUTU0RWl0OUxSeWJqUzZfZVU0cUpQVWNXZFVRTi1vaw?oc=5",
+      "publishedAt": "2026-07-27T10:29:02.000Z",
+      "titleKa": "რას უნდა ველოდოთ Varonis Systems-ის (VRNS) Q2 მოგებიდან",
+      "summaryKa": "Varonis Systems-ის (VRNS) Q2 მოგება და მისი მოლოდინები განიხილება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c4fc0f13c848b787",
+      "title": "Asia’s Biggest IPO of 2026 Puts Crypto Shadow Market to the Test",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNFFHNTR6Y2duLTd3TjVRLTREc2Q5NmxfS0VHQ2dBMFFEV1BRV1JtYmEzd25aUDk5eFNQbkZkLXNrY2lXU3ZpSzdqc2ZBVk5HeEd6aTFrUFdFMU9kdm5pbEV2c1ZMSlY5OTdvVXVnU0dxY2xwenlCdDVTZjd1TDgybGI5S0dLMnRkcTd6eVprT1c4Rlg2eXg5czZaNUh2MGlrbmd3NU9DRnM3X0J2VVo5cTNGQXlQZw?oc=5",
+      "publishedAt": "2026-07-27T10:17:34.000Z",
+      "titleKa": "აზიის ყველაზე დიდი IPO 2026-ში კრიპტო ჩრდილოვან ბაზარს გამოცდის",
+      "summaryKa": "აზიის ყველაზე დიდი IPO 2026-ში კრიპტო ჩრდილოვან ბაზარს გამოცდის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "1e16940d5a8a1698",
       "title": "Huron Earnings: What To Look For From HURN",
@@ -73,17 +205,6 @@
       "titleKa": "Veralto (VLTO) Q2-ის ანგარიშს აქვეყნებს: ყველაფერი, რაც უნდა იცოდეთ მოგების ანგარიშამდე",
       "summaryKa": "Veralto Q2-ის ანგარიშზე ყურადღების ცენტრში იქნება რამდენიმე მნიშვნელოვანი ფაქტორი.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "5b3e74fbd7f32575",
-      "title": "Which Is the Better Investment: Crypto or the Moon?",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2ZIM0lna3lXcmhRQjBmQ1JyclR2c2NrNHdLamJBNUdISjhzcEJST08yM1RIYnlnUW5NeGtiay15U3V2VHZqLXhkSGxGVlBaRmktVV9LdU9aMlBuejM1WVBXR19neERNTXdFdHNyMlIyRDlua19lcC1BZ3lWcGhUSkpfQjJCVE9VclpaaEtKaEd2amVGVENCOTRpME1UM25LSzlJOWpCRnN5dw?oc=5",
-      "publishedAt": "2026-07-27T07:32:38.000Z",
-      "titleKa": "რომელი არის უკეთესი ინვესტიცია: კრიპტო თუ მთვარე?",
-      "summaryKa": "კითხვა ეხება კრიპტოსა და მთვარეზე ინვესტირების შედარებას.",
-      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
