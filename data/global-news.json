@@ -1,8 +1,91 @@
 {
-  "updatedAt": "2026-07-27T22:03:50.534Z",
+  "updatedAt": "2026-07-27T23:19:14.504Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "dd2b71b4ed4a152a",
+      "title": "2 of Wall Street’s Favorite Stocks Worth Your Attention and 1 We Question",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMXlneW9UTURvMGxVZ3hwUjV0Y19MWnFsMVJsUC1fZVlHclF1WnU1RkVkVkZGUG94R25UZmcxTExYOC04dzRXZGhmc3NsM2Z1amdhZXNjNW52ekdYSXduYThBaVZHWmxuNDgyNWlfelVQa25oMlRORFk0aVRFSEVRNERHanhUcjRGVmd0cUUtQlQ5dGdBQUhZTzlB?oc=5",
+      "publishedAt": "2026-07-27T23:01:02.000Z",
+      "titleKa": "უოლ სტრიტის 2 საყვარელი აქცია, რომელიც ყურადღებას იმსახურებს და 1, რომელსაც ვეკითხებით",
+      "summaryKa": "უოლ სტრიტზე ორი საყვარელი აქციაა, რომელიც ყურადღებას იმსახურებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/2-wall-street-favorite-stocks-230102845.html",
+      "bodyKa": "## უოლ სტრიტის საყვარელი აქციები\nუოლ სტრიტზე ორი აქცია გამოირჩევა, რომლებიც ინვესტორების ყურადღებას იმსახურებს. ორივე კომპანია აჩვენებს დადებით პროგნოზებს და ზრდის პოტენციალს, თუმცა ერთი მათგანი, Vontier (NYSE:VNT), გარკვეულ გამოწვევებს აწყდება.\n\n## Vontier-ის გამოწვევები\nVontier, რომელიც ელექტრონულ პროდუქტებს და სისტემებს აწვდობს ტრანსპორტის, ავტომობილების და წარმოების სექტორებისთვის, ბოლო ორი წლის განმავლობაში ორგანული გაყიდვების ზრდის მხრივ დაბალი შედეგებით გამოირჩევა. კომპანიას პროგნოზირებული აქვს 12 თვის განმავლობაში 2.1%-იანი შემოსავლების შემცირება, რაც მიუთითებს მოთხოვნის მკვეთრ ვარდნაზე. ბოლო ხუთ წელიწადში მისი EPS მხოლოდ 1.2%-ით გაიზარდა, რაც სექტორის საშუალო მაჩვენებელს ჩამორჩება. Vontier-ის აქციის ფასი 30.78 დოლარია, რაც 8.8x წინასწარი P/E-ს შეესაბამება.\n\n## Rocket Lab-ის წარმატება\nRocket Lab (NASDAQ:RKLB) გახდა პირველი კერძო კომპანია სამხრეთ ნახევარსფეროში, რომელმაც კოსმოსში გასვლა მოახერხა. კომპანიის წლიური შემოსავლების ზრდა ბოლო ორი წლის განმავლობაში 55.1%-ით გაიზარდა, რაც ბაზრის წილის ზრდას მიუთითებს. ოპერაციული მარჟის გაუმჯობესება 111.4 პროცენტული პუნქტით ბოლო ხუთ წელიწადში აჩვენებს კომპანიის ეფექტურ ზრდას. Rocket Lab-ის აქციის ფასი 63.51 დოლარია, რაც 39.2x წინასწარი ფასის მიმართ შემოსავლის მაჩვენებელს შეესაბამება.\n\n## BGC Group-ის წარმატებული ზრდა\nBGC Group (NASDAQ:BGC) არის გლობალური ბროკერინგისა და ფინანსური ტექნოლოგიის პლატფორმა, რომელიც facilitates ვაჭრობას ფიქსირებული შემოსავლის, უცხოურ ვალუტაში, აქციებში, ენერგიასა და საქონელების ბაზრებზე. კომპანიის წლიური შემოსავლების ზრდა ბოლო ორი წლის განმავლობაში 24.8%-ით გაიზარდა, რაც მიუთითებს ბაზრის წილის ზრდაზე. BGC-ის EPS ბოლო ორი წლის განმავლობაში 24.6%-ით გაიზარდა, რაც მისი კონკურენტების შედეგებს აჭარბებს. BGC-ის აქციის ფასი 11.73 დოლარია, რაც 8.3x წინასწარი P/E-ს შეესაბამება.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "92d9bfae09560c0a",
+      "title": "3 Unprofitable Stocks That Fall Short",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObWNCN0FXaUVZUlBrTHhMcGtUaWJ4dHpQaUpmSUM4TjFTZ2k3Mk15akN6NUdqNzU0STFuLU5sa1VQemQ1d2Y0SUl5S1lLbG5wR2xpLWpKSlhicGZ2TDd5eUc4bUdEbmJ6c1Fqc0djMkJvd0ZPd1hRS1VRclIxbWpnS1ZlVW03YlNpSG53cUt3TkdPcXVnd2F1LV9pTzN4dw?oc=5",
+      "publishedAt": "2026-07-27T22:45:02.000Z",
+      "titleKa": "3 არამომგებიანი აქცია, რომლებიც ვერ აკმაყოფილებენ",
+      "summaryKa": "არსებობს სამი არამომგებიანი აქცია, რომლებიც ვერ აკმაყოფილებენ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/3-unprofitable-stocks-fall-short-224502938.html",
+      "bodyKa": "## არამომგებიანი კომპანიები\n\nბაზარზე არსებობს სამი კომპანია, რომლებიც ვერ აკმაყოფილებენ მოგების მოთხოვნებს და მათი ფინანსური მდგომარეობა არ არის დამაკმაყოფილებელი. ეს კომპანიები, მიუხედავად იმისა, რომ გარკვეულ სფეროებში აქტიურად მუშაობენ, ვერ ახერხებენ ეფექტური ზრდის მიღწევას.\n\n## Purple (NASDAQ:PRPL)\n\nPurple, რომელიც დაარსდა ორი ძმის მიერ, აწარმოებს ძილის და სახლის კომფორტის პროდუქტებს, მათ შორის მატრასებს და ბალიშებს. ბოლო ხუთ წელიწადში კომპანიის გაყიდვები 8.4%-ით შემცირდა, რაც მიუთითებს იმაზე, რომ მომხმარებელთა ინტერესები შემცირდა. \n\nკომპანიის ფინანსური მდგომარეობა ასევე არ არის დამაკმაყოფილებელი, რადგან მისი კაპიტალის დაბრუნება უარყოფითია, რაც მენეჯმენტის წარსული და მიმდინარე ინვესტიციების ეფექტურობას აჩვენებს. Purple-ის აქციის ფასი 7.63 დოლარია, რაც 12.7x-forward EV-to-EBITDA-ს შეადგენს.\n\n## Myriad Genetics (NASDAQ:MYGN)\n\nMyriad Genetics, რომელიც 1991 წელს დაარსდა, სპეციალიზირებულია გენეტიკური ტესტების განვითარებაში, რომლებიც დაავადების რისკებს აფასებენ. ბოლო ორი წლის განმავლობაში კომპანიის წლიური შემოსავალი 3.5%-ით გაიზარდა, თუმცა ეს ზრდა უფრო ნელი იყო, ვიდრე მისი ჯანმრთელობის სექტორის კონკურენტების.\n\nკომპანიის აქციის ფასი 5.69 დოლარია, რაც 49x-forward P/E-ს შეადგენს. Myriad Genetics-ის მენეჯმენტის მიერ განხორციელებული ინვესტიციები არ აღმოჩნდა წარმატებული, რაც უარყოფით კაპიტალის დაბრუნებას იწვევს.\n\n## Baxter International (NYSE:BAX)\n\nBaxter International, რომელიც 1931 წელს დაარსდა, აწარმოებს ჯანმრთელობის პროდუქტებს, მათ შორის დიალიზის თერაპიებს და IV გადაწყვეტილებებს. ბოლო ორი წლის განმავლობაში კომპანიის მუდმივი ვალუტის ზრდა დაბალი იყო, რაც მიუთითებს იმაზე, რომ საჭიროა პროდუქტის გაუმჯობესება.\n\nბაზარზე Baxter-ის აქციის ფასი 22.40 დოლარია, რაც 11.4x-forward P/E-ს შეადგენს. კომპანიის ფინანსური შედეგები ბოლო ხუთ წელიწადში უარყოფითი იყო, რადგან მისი მოგება 7.2%-ით შემცირდა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "5cf00543ba8b420a",
+      "title": "3 Profitable Stocks We’re Skeptical Of",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUF9hd0pJNVJJUU93aTh6dThieDU2b0taVXgzNmxEVEZnVTl3NVBmV2hrY0d0YjRvVHlQYmxFUDlqam9rV2pOZS0wdmkyaDVhZm0wWlphal9BZGtXcW5VYUtuVWxlTDV2NmhzM2IwUnZHd2tVZ2pGMlFvdGpRQnhqRUJRcHhyLXYyNVRLYW1qYWZ0b3NzN0JjN0FB?oc=5",
+      "publishedAt": "2026-07-27T22:29:02.000Z",
+      "titleKa": "3 მომგებიანი აქცია, რომელთა მიმართ სკეპტიკურად ვართ",
+      "summaryKa": "არსებობს სამი მომგებიანი აქცია, რომელთა მიმართ სკეპტიკურად ვართ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5015088554db2376",
+      "title": "3 Consumer Stocks We Approach with Caution",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjdFX01YUGs4ckdyQnJfOENiUGNBUUo5eWNlRVFpSEEweDJaNG1vWFItTkVodUUzdlVNRm43T3JGcnlmdUU2TWQ5NUpyT0diYmlGTlRYNDVvUDJtaVotdWFIX1pOQ3dLaFprTVVFMXZ3amhyODhQN2VoYnBjUExURVViV0FRMHA5Tm9XWmlrOEduSUlhU3VRVVZEU3VpS1RI?oc=5",
+      "publishedAt": "2026-07-27T22:13:02.000Z",
+      "titleKa": "3 მომხმარებლის აქცია, რომელთა მიმართ სიფრთხილით ვეკიდებით",
+      "summaryKa": "არსებობს სამი მომხმარებლის აქცია, რომელთა მიმართ სიფრთხილით ვეკიდებით.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b6614635943840f4",
+      "title": "NSJ Gold Corp. (NSJ) (9PZ) Announces Flow-Thru Financing for Exploration on Its Antimony 2.0 Property",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUHo2NDV1RkplTnBhcUhJd2FHVTFsQVNPcUwzTHpxSXM0Mmd6YnlhNlAyX285TzdTSzdqTXNUMGFzUjcyeWFmYnFHZlhIcmM3VElSUDE1UHRTU3RockJFQVFnS0NyVG9NREcwMUNmMjNjNW9RTVIzLWI5a3ZCM0JhSG1lQzU3eVo4UWx6SFR2aUhvd1IxTkE?oc=5",
+      "publishedAt": "2026-07-27T22:07:00.000Z",
+      "titleKa": "NSJ Gold Corp. (NSJ) (9PZ) აცხადებს ფლოუ-თრუდი დაფინანსების შესახებ ანტიმონის 2.0 საკუთრებაზე კვლევისათვის",
+      "summaryKa": "NSJ Gold Corp. აცხადებს ფლოუ-თრუდი დაფინანსების შესახებ კვლევისათვის.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9430e39466e50bb2",
+      "title": "2 Financials Stocks with Promising Prospects and 1 We Question",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVBYZktyS1B5THFNWS12MFhPMm82YmpBd1k3VHhQdVNJU2tCU28zdGo3cjdwQjNXdHhuS1VpeGNHanRiMmhyVU1UT0dSeE11c0x5MG9aLWZkNDRoWHFhNi1lZjZfYTFIRldRQVF5RG9seHVWczdNOVlfX3BLbVhXTFphYkUxU1NQRUo0b1NtaXNxYnhYZGJfMXBjTUpsVjM2T0lrN0dCOA?oc=5",
+      "publishedAt": "2026-07-27T22:05:02.000Z",
+      "titleKa": "2 ფინანსური აქცია, რომლებიც პერსპექტიულია და 1, რომელსაც ვეკითხებით",
+      "summaryKa": "არსებობს ორი ფინანსური აქცია, რომლებიც პერსპექტიულია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7febe30c7341cde0",
+      "title": "3 Stocks Under $50 We Steer Clear Of",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN3lDbmlGendQZ0x3UFBfMzZ2YjJndTN1d1pWZEFRRHdrZ2JfeGJ6OXdyYUpZOEkwaWFmYlhDdktUa2lpazcxWGVjQWF2VHJ5dFE5Z1dycy1PWjFzZnZBbFo0SVJ6WkNFX3UxTWp1OVFRM0tLMzJTX1VEVWg1eVZnaWxhTUkxVzYydnpPaVpGNHFOQQ?oc=5",
+      "publishedAt": "2026-07-27T21:57:02.000Z",
+      "titleKa": "3 აქცია, რომლებიც 50 დოლარამდეა და რომლებსაც ვერიდებით",
+      "summaryKa": "არსებობს სამი აქცია, რომლებიც 50 დოლარამდეა და რომლებსაც ვერიდებით.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "6ccbec71225c7ac3",
       "title": "3 Cash-Heavy Stocks with Questionable Fundamentals",
@@ -16,6 +99,17 @@
       "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/3-cash-heavy-stocks-questionable-214902311.html",
       "bodyKa": "## ფინანსური მდგრადობა და საეჭვო საფუძვლები\n\nბაზარზე არსებული კომპანიები, რომლებსაც მეტი თანხა აქვთ ვიდრე ვალი, ხშირად ფინანსურად მდგრადები არიან, თუმცა ეს არ ნიშნავს, რომ ისინი ყველა ძლიერი ინვესტიცია არიან. ზოგიერთი მათგანი ვერ ახერხებს ზრდას ან მუდმივი მოგების გენერირებას, რაც მათ მიმზიდველ მსესხებლებს ხდის.\n\n## Regeneron Pharmaceuticals (NASDAQ:REGN)\n\nRegeneron Pharmaceuticals, რომელიც დაარსდა მეცნიერების მიერ, რომლებიც სურდათ, რომ შექმნან კომპანია, სადაც მეცნიერება განვითარდებოდა, აწარმოებს და კომერციალობს წამლებს სერიოზული დაავადებების წინააღმდეგ. ბოლო ორი წლის განმავლობაში, კომპანიის წლიური გაყიდვების ზრდა 6.7% იყო, რაც მისი ჯანმრთელობის სექტორის კონკურენტებისგან ჩამორჩება.\n\nკომპანიის თავისუფალი თანხის ნაკადის მარჟა ბოლო ხუთ წელიწადში 20.4 პროცენტული პუნქტით შემცირდა, რაც მიუთითებს იმაზე, რომ Regeneron უფრო მეტ კაპიტალს ხარჯავს კონკურენტუნარიანობის შენარჩუნებისთვის. ასევე, კაპიტალის შემცირებული დაბრუნება მიუთითებს იმაზე, რომ მზარდი კონკურენცია კომპანიის მოგებას აზარალებს.\n\nRegeneron-ის აქციების ფასი $656.01-ია, რაც 13.7x წინასწარი P/E-ზე ვაჭრობს.\n\n## WSFS Financial (NASDAQ:WSFS)\n\nWSFS Financial, რომელიც დაარსდა 1832 წელს, ერთ-ერთი ყველაზე ძველი ბანკია ამერიკაში, რომელიც კვლავაც ფუნქციონირებს თავისი თავდაპირველი სახელით. კომპანიის გაყიდვების ტენდენციები ბოლო ორი წლის განმავლობაში არ იყო შთამბეჭდავი, რადგან მისი წლიური ზრდა 4.1% იყო, რაც ბანკების საშუალო მაჩვენებელს ქვემოთაა.\n\nმომავალი 12 თვის განმავლობაში, ნეტო საპროცენტო შემოსავლის ზრდა 3.2% პროგნოზირდება, რაც მიუთითებს იმაზე, რომ მოთხოვნა შემცირდება. ბოლო ხუთ წელიწადში კომპანიის შემოსავლების ზრდა 2.1%-ით იყო, რაც მისი მოგების ზრდას ჩამორჩება.\n\nWSFS Financial-ის აქციების ფასი $79.84-ია, რაც 1.4x წინასწარი P/B-ზე ვაჭრობს.\n\n## Origin Bancorp (NYSE:OBK)\n\nOrigin Bancorp, რომელიც დაარსდა 1912 წელს, ფინანსური ჰოლდინგური კომპანიაა, რომელიც პერსონალიზებულ საბანკო მომსახურებას სთავაზობს ბიზნესებს, მუნიციპალიტეტებს და ინდივიდებს. ბოლო ხუთ წელიწადში კომპანიის წლიური შემოსავლების ზრდა 8.7% იყო, რაც ბანკების სექტორის სტანდარტების ქვემოთაა.\n\nწლიური მოგების ზრდა 1.5% იყო, რაც კომპანიის შემოსავლების ზრდას ჩამორჩება. მომავალი 12 თვის განმავლობაში, tangible book value-ის ზრდა 8.4% პროგნოზირდება, რაც მიუთითებს იმაზე, რომ მომგებიანობა შემცირდება.\n\nOrigin Bancorp-ის აქციების ფასი $53-ია, რაც 1.2x წინასწარი P/B-ზე ვაჭრობს.\n\n## დასკვნა\n\nაღნიშნული კომპანიები, მიუხედავად იმისა, რომ მათ აქვთ დიდი თანხები, საეჭვო ფინანსური საფუძვლებით გამოირჩევიან. მათი ზრდის ტენდენციები და მოგების გენერაციის უნარი არ აკმაყოფილებს ბაზრის სტანდარტებს, რაც მათ ინვესტორებისთვის ნაკლებად მიმზიდველს ხდის.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "5f5932e5ec4528fa",
+      "title": "Simpson Manufacturing (SSD) Beats Q2 Earnings and Revenue Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVB0OGxCQXVJN0xLYk1LMVJSYUo2dUJZc1Q0a0Y0RTlHYjZFRS1PblBNcWE0RGdSLTV3bmNWX1BEZmQ0eUVJOC1HbnhvV3FCTDVZXzhOLUpmWTlzejhXay1VQ2RsaTRveGVFS0Mxcnd5TUtRb053aVdWdG91NHZpaWJzSlFPejdlY0FUUEJhYU9TbXhxSk9ibU5xek9fZFIx?oc=5",
+      "publishedAt": "2026-07-27T21:35:04.000Z",
+      "titleKa": "Simpson Manufacturing (SSD) აღემატება Q2-ის მოგებას და შემოსავლის პროგნოზებს",
+      "summaryKa": "Simpson Manufacturing (SSD) აღემატება Q2-ის მოგებას და შემოსავლის პროგნოზებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "9982f28287e2dec7",
@@ -135,6 +229,17 @@
       "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/rivian-automotives-next-earnings-report-204001108.html",
       "bodyKa": "## Rivian Automotive-ის ფინანსური ანგარიში\n\nRivian Automotive (NASDAQ:RIVN) 30 ივლისს გამოაქვეყნებს თავის ფინანსურ ანგარიშს, რაც შეიძლება მნიშვნელოვანი გავლენა მოახდინოს კომპანიის აქციის ფასზე. ამ მომენტისთვის Rivian-ის წარმატება დამოკიდებულია R2 SUV-ის წარმოებისა და გაყიდვების ზრდაზე, რაც კომპანიას საშუალებას მისცემს მიაწვდოს უფრო ფართო აუდიტორია.\n\n## R2 SUV-ის მნიშვნელობა\n\nRivian-მა წელს ოფიციალურად დაიწყო R2 SUV-ის წარმოება, რომელიც არის პირველი მოდელი, რომლის ფასი 50,000 აშშ დოლარიდან ნაკლებია. ეს ნაბიჯი მნიშვნელოვანია, რადგან 69% ამერიკელების სურვილია, რომ მათი მომავალი ავტომობილი 50,000 აშშ დოლარამდე იყოს. ამ მოდელის ბაზარზე გამოშვება საშუალებას მისცემს Rivian-ს მიაწვდოს ახალი მომხმარებლები, რაც კომპანიის ზრდისთვის კრიტიკულად მნიშვნელოვანია.\n\n## გაყიდვების პროგნოზი\n\nRivian-ის მიერ 2026 წლისთვის გაყიდვების პროგნოზი გაიზარდა 65,000-70,000 ავტომობილამდე, რაც უფრო მაღალია, ვიდრე ადრე გათვალისწინებული 62,000-67,000. მეორე კვარტალში კომპანიამ 12,194 ავტომობილი გაყიდა, რაც აღემატება წინასწარ გათვალისწინებულ 9,000-11,000-ს. ამჟამინდელი პროგნოზით, წელს დაახლოებით 20,000-25,000 R2 უნდა გაიყიდოს.\n\n## ანალიტიკოსების შეფასებები\n\nPiper Sandler-ის ანალიტიკოსი ალექსანდრ პოტერი მიიჩნევს, რომ Rivian-ის ფინანსური ანგარიში დადებით ინფორმაციას მოიტანებს. მან 27 ივლისს Rivian-ის აქციების რეიტინგი გაზარდა \"overweight\"-ზე, ფასის მიზანი კი 18 აშშ დოლარიდან 20 აშშ დოლარამდე მოიმატა. პოტერი მიიჩნევს, რომ R2-ის გაყიდვების ზრდა და საწვავის მაღალი ფასები ხელს შეუწყობს Rivian-ის წარმატებას.\n\n## ფინანსური ზრდა\n\nRivian-მა ასევე მოახერხა 1.25 მილიარდი აშშ დოლარის დაფინანსების მოპოვება, რაც დაეხმარება კომპანიას ზრდის დაფინანსებაში და რისკების შემცირებაში. პოტერი აღნიშნავს, რომ Rivian-ის ელექტრონული მართვის სისტემები და ბეჭდური სქემები, რომლებიც ავტომობილებისათვის კრიტიკულია, კომპანიას საშუალებას მისცემს იყოს ძლიერი მოთამაშე ავტონომიური ავტომობილების ბაზარზე.\n\nRivian-ის ფინანსური ანგარიში 30 ივლისს იქნება მნიშვნელოვანი მომენტი, რომელიც შეიძლება გამოიწვიოს აქციის ფასის ზრდა, თუ კომპანიამ მოახერხა დადებითი შედეგების წარმოჩენა.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "d8fd66f384ce9387",
+      "title": "Saylor's Strategy faces its toughest Q2 earnings as Bitcoin crashes 50% from all-time highs",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRkNTdEYyTkdfclQzTGo2TTZoWGdpcXNtemQtRkRGRVlScWRMRUIzOEpieklOYUp1bDVSWjRuN2liM1NhTWMzdGZybnRHS0lvRDVIemxmNlFobEptRDNCUm9NZlh5bTZkb19XWGQ4Uks5QndBOXNxcm10Q2owUjAxQ2lCdXVfMjloM2hCMFoyU082azFlTnpkNWlTZ05ja1dW?oc=5",
+      "publishedAt": "2026-07-27T20:33:17.000Z",
+      "titleKa": "Saylor-ის სტრატეგია Q2-ის მოგების toughest გამოწვევის წინაშე დგას, რადგან Bitcoin 50%-ით დაეცა ისტორიულ მაქსიმუმებზე",
+      "summaryKa": "Saylor-ის სტრატეგია Q2-ის მოგების toughest გამოწვევის წინაშე დგას.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "cdd4c8655f99408b",
