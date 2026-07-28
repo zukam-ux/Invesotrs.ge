@@ -1,8 +1,146 @@
 {
-  "updatedAt": "2026-07-28T11:08:32.294Z",
+  "updatedAt": "2026-07-28T13:02:12.686Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "4c57c8ecb1632dc1",
+      "title": "Micron, SK Hynix stocks fall as chip sell-off deepens",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSkFQY1lVaGpEWnR5bExIMlk3Q3NBb0k4eW5sNjNYeThOMHdEY0RmM3NDZ3NKWVc3SktSQXE3TXNURDkzLWhtc3NTNXBYQVhCalp0bkp5dGcydmtDNURaZ0lPWFRpSkNkQ3NrQlFQeHdoeGlGWkFvdXMxSnd3cWxKOEtPdnlIMWhSWXFtM1ppUG44Unp3Q2hnUTlJTWlPbXlVWkJSQUtFQVd2eWlFUEE?oc=5",
+      "publishedAt": "2026-07-28T12:56:22.000Z",
+      "titleKa": "Micron და SK Hynix-ის აქციები ვაჭრობის გაღრმავების გამო დაეცა",
+      "summaryKa": "Micron და SK Hynix-ის აქციები ვაჭრობის გაღრმავების გამო დაეცა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-fall-as-chip-sell-off-deepens-125622548.html",
+      "bodyKa": "## მიკრონის და SK Hynix-ის აქციების ვარდნა\n\nმიკრონის (MU) და SK Hynix-ის (SKHY) აქციები მნიშვნელოვნად დაეცა, რაც გამოწვეულია სემიკონდუქტორების ბაზარზე გაღრმავებული ვაჭრობის შედეგად. ბოლო დღეებში, PHLX სემიკონდუქტორების ინდექსი ( ^SOX ) 2%-ზე მეტი დაეცა, რაც კიდევ უფრო გააღრმავა ინვესტორების შეშფოთება.\n\n## ბაზრის მდგომარეობა\n\nამერიკულ ბაზრებზე, მეხსიერების და შენახვის ლიდერების, როგორიცაა Micron და SK Hynix, აქციები 5%-ზე მეტი დაეცა. გარდა ამისა, სხვა სემიკონდუქტორების მწარმოებლები, როგორიცაა Nvidia (NVDA), AMD (AMD), Broadcom (AVGO), Intel (INTC), Marvell (MRVL) და Qualcomm (QCOM), ასევე 2%-ზე მეტი ვარდნა განიცადეს.\n\n## საერთაშორისო გავლენა\n\nსამხრეთ კორეაში, SK Hynix-ის აქციები 14%-ზე მეტი დაეცა, ხოლო Samsung Electronics (005930.KS) 13%-ზე მეტი დაკარგა. ევროპულ ბაზრებზე სემიკონდუქტორების აქციები ასევე დაეცა, რაც გამოწვეულია ჩინური კონკურენციის გაღრმავებული შეშფოთებით და ფინანსური პრობლემების გამო.\n\n## ინვესტორების შეშფოთება\n\nინვესტორები განსაკუთრებით შეშფოთებულნი არიან ჩინური მეხსიერების მწარმოებლის CXMT-ის IPO-ს გამო, რომელიც შანხაიში გაიმართა. ეს მოვლენები კიდევ უფრო ზრდის შეშფოთებას, რომ სწრაფი გაფართოება შეიძლება მეხსიერების ჩიპების ფასებზე უარყოფითად იმოქმედოს.\n\n## მომავალი პერსპექტივები\n\nამერიკული ტექნოლოგიური კომპანიების, როგორიცაა Microsoft (MSFT), Amazon (AMZN) და Meta (META), შემოსავლების ანგარიშების მოლოდინში ინვესტორები ყურადღებით აკვირდებიან, რადგან ისინი აპირებენ AI ინფრასტრუქტურის ხარჯების გაზრდას. თუმცა, თუ რაიმე slowdown-ის ნიშნები გამოჩნდება, ეს სერიოზული პრობლემები შეიძლება შექმნას სემიკონდუქტორების მწარმოებლებისთვის.\n\n## დასკვნა\n\nსემიკონდუქტორების სექტორი წელს AI ვაჭრობის ცენტრში იყო, თუმცა ბოლო პერიოდში აქციების ვარდნა 20%-ზე მეტი შეადგინა. ინვესტორები ახლა უფრო სკეპტიკურად უყურებენ AI ინფრასტრუქტურაში ინვესტიციების დაბრუნების შესაძლებლობას, რაც ბაზრის განწყობაზე უარყოფითად მოქმედებს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "ea999411616d0c39",
+      "title": "Bitcoin and ethereum prices today, Tuesday, July 28, 2026: Crypto prices slide ahead of Fed meeting",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNclVvRWwwb2R1dUh2ank4Ui1KNHFRNlV4QzdXSHF0dUQ1enlDaGJwQVdyektBTUlLV1g2bmhaZUFQNXRSakU5V3dQbFRRUUVXb2tPeWx3YzdMdExiYzByMXlZdmRDMEw3aloxa2RUUi1QZ0d1aVUzRXEtQlczOW1RZXhjdnQxcWg2Y1F0dV8zUER4VXQxYTFyRml2M1RoQUVOTS1Qd0k4eElxMDBWSW4tckthTkhhREVhTXQxNDludnpwWG8xZ0tDVWxGaG4yRk9QX2dscVN5bkI5ZnNzVktsX0cwci1pQXhNcENyRkRmSDRJOUFNNm9DX3hzWjlUbmhR?oc=5",
+      "publishedAt": "2026-07-28T12:52:10.000Z",
+      "titleKa": "ბიტკოინის და ეთერიუმის ფასები დღეს, 2026 წლის 28 ივლისს: კრიპტო ფასები შემცირდა ფედერალური შეხვედრის წინ",
+      "summaryKa": "ბიტკოინის და ეთერიუმის ფასები შემცირდა ფედერალური შეხვედრის წინ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-28-2026-crypto-prices-slide-ahead-of-fed-meeting-125210301.html",
+      "bodyKa": "## ბიტკოინის და ეთერიუმის ფასების ცვლილება\n\n2026 წლის 28 ივლისს, ბიტკოინის (BTC-USD) ფასი 63,706.66 აშშ დოლარით გაიხსნა, რაც 2.5%-ით ნაკლებია ორშაბათის გახსნის ფასზე. ამ დილის 8:34 საათისთვის, ბიტკოინის ფასი 63,327.39 აშშ დოლარამდე შემცირდა.\n\nეთერიუმის (ETH-USD) ფასი კი 1,890.67 აშშ დოლარით გაიხსნა, რაც 3.2%-ით ნაკლებია ორშაბათის გახსნის ფასზე. ამ დილის 8:34 საათისთვის, ეთერიუმის ფასი 1,877.71 აშშ დოლარამდე დაეცა.\n\n## ფედერალური შეხვედრის გავლენა\n\nბიტკოინის და ეთერიუმის ფასების შემცირება დაკავშირებულია დღეს დაწყებულ ფედერალური რეზერვის ორი დღის შეხვედრასთან. ანალიტიკოსების თქმით, ეს შეხვედრა ერთ-ერთი ყველაზე რთულად პროგნოზირებადი იქნება ბოლო წლების განმავლობაში. CME Group-ის FedWatch ინსტრუმენტის მიხედვით, არსებობს 35.8%-იანი შანსი, რომ ფედერალური რეზერვი განაახლებს საპროცენტო განაკვეთებს შეხვედრის დასრულების შემდეგ, რაც გასულ კვირასთან შედარებით 25.7%-ით გაიზარდა.\n\n## კრიპტო ბაზრის ვოლატილობა\n\nკრიპტო ბაზარზე ვოლატილობა კვლავ გაგრძელდება, რადგან ინვესტორები აფასებენ ახლანდელ ვითარებას ახლო აღმოსავლეთში და ხელოვნური ინტელექტის დაფინანსების უარყოფითი სიახლეების ზეწოლას. \n\n## ისტორიული ფასები\n\nბიტკოინის ისტორიული მაქსიმუმი 128,198.07 აშშ დოლარი იყო 2025 წლის 6 ოქტომბერს, ხოლო ისტორიული მინიმუმი 0.04865 აშშ დოლარი 2010 წლის 14 ივლისს. ეთერიუმის ისტორიული მაქსიმუმი 4,953.73 აშშ დოლარი იყო 2025 წლის 24 აგვისტოს, ხოლო ისტორიული მინიმუმი 0.4209 აშშ დოლარი 2015 წლის 21 ოქტომბერს.\n\n## კრიპტოვალუტების განვითარება\n\nბიტკოინი, ეთერიუმი და სხვა კრიპტოვალუტები სწრაფად ვითარდება. ეთერიუმი არის ბლოკჩეინი, ხოლო ეთერი არის კრიპტოვალუტა, რომელიც მასზე მუშაობს. ინვესტორები სხვადასხვა სტრატეგიებს იყენებენ, ზოგიერთი მოკლევადიან ვაჭრობას აკეთებს, ზოგი კი ნელ-ნელა აგროვებს აქტივებს. ეთერი, როგორც ეთერიუმის პლატფორმის ადგილობრივი კრიპტოვალუტა, ბევრ ინვესტორთან შედარებით მნიშვნელოვნად უფრო ვოლატილურია, ვიდრე S&P 500.\n\nბიტკოინის და ეთერიუმის ფასების ცვლილებები და მათი ისტორია მნიშვნელოვანია როგორც ახალბედებისთვის, ისე გამოცდილ კრიპტო ინვესტორებისთვის.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "2c8c80062d3abba5",
+      "title": "Coca-Cola raises earnings guidance as CFO says Diet Coke is having 'a moment'",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLUZDeTZWTTRhU0tFMHRSSXQ5QXFUSHA2ZExrT3U4Q0VvaWdhMXU4TXJzb3phQzVua1lid1lPU1VudHd1V0NFUnEtTEpJSFFKZm5PQ2IwcXpueFN5MmJRMDdSNjZjMzlYQWxUbms0NzQ0V0NHUWIxVnZoQnRCV1VXUWRzZ0JQWjVraG5ucDVXUHhKbGRMeXdoQkd4Z2hTWWF0d1RjUGNWWUZDVFplUXEyMktsOGRpWXFEVmdFc1prUHZTd19fM0VRY0xVX2s0VmJ6MjV5bEJB?oc=5",
+      "publishedAt": "2026-07-28T12:26:38.000Z",
+      "titleKa": "Coca-Cola ზრდის მოგების პროგნოზს, რადგან CFO ამბობს, რომ Diet Coke 'მომენტშია'",
+      "summaryKa": "Coca-Cola ზრდის მოგების პროგნოზს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3488563eaaee6e32",
+      "title": "Bitcoin Weakens in Asia Trading as Fed Rate Decision Looms",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDZVdVJLcUlHZlNFYnNmUGV5cTVRZDVlZVZjbzZNZldYOWFOQ0FuVEhwcFpnQ1Y2d3lvbnhLQ1g0NjdYUlNvZWRiYTRyT1o3MmUzWVNhSjd4UWpnN3Q1SFRBdnRfWDNWb2VNYVlZLUJNQjBSZTdELVB2V282bmFBZkJsLVBXZ2lfMU5fTTM4ODd1UGx5amdabktlTEUyak1ZOV9IX05kVjIxNFJsLVE?oc=5",
+      "publishedAt": "2026-07-28T12:23:35.000Z",
+      "titleKa": "ბიტკოინი აზიურ ვაჭრობაში სუსტდება, რადგან ფედერალური რეზერვის საპროცენტო განაკვეთის გადაწყვეტილება ახლოვდება",
+      "summaryKa": "ბიტკოინი აზიურ ვაჭრობაში სუსტდება.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6b9a6f134ab380d1",
+      "title": "Corning Shares Slide Despite Second-Quarter Earnings Beat as Guidance Disappoints",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQm9lV25zVmMtT2RSZkVrRk00aUNMNE1hTEUtR2I3NjRXNHFsNEJVUk5QTjl1bE4tUHM2VEJxcjhxTU5vZkI5TjlQaHM0ekVCd2dSSTVJdktGamJaWmZBV2IwdG9TOUdudzhGQ09rdXNjRGdhN3Vaa0hFRTlDTU1RSlhGT3pYdnFVSUZ5a3FkRGVLNUxfMWlQRk01SGNEYk9QT2c?oc=5",
+      "publishedAt": "2026-07-28T12:21:09.000Z",
+      "titleKa": "Corning-ის აქციები დაეცა მეოთხე კვარტლის მოგების მიუხედავად, რადგან პროგნოზი იმედგაცრუებულია",
+      "summaryKa": "Corning-ის აქციები დაეცა მეოთხე კვარტლის მოგების მიუხედავად.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f2ef5b6cc765efe5",
+      "title": "Opinion: Forget oil. A surging El Niño could kill Fed rate cuts — and these stocks stand to win.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYmNWLXMyNDFfMHRWZUV5NndPVno4UzBxak42WUJVcUF1WUVITjF3X0U5NGdKVDZidGVyVXFrVXhZZjZjNk5rN2I5dlNFQV8zaU9tUFczTHU3aGpJZThRZnd2Ny1DZjZ2S29IX1FIdnNSbTBiOWo4QVB3SVlxRVR0alhNN2ZaUnp2S2NWa0lUOTJrWUU0WXRUUDNkN1RFdE5UUUJtazF4cnlTdGlQNnd3VlhLQzdFMm9ESmtIVTRoa25HcGVk?oc=5",
+      "publishedAt": "2026-07-28T12:15:00.000Z",
+      "titleKa": "მოსაზრება: დაივიწყეთ ნავთობი. მზარდი El Niño შეიძლება გააუქმოს ფედერალური განაკვეთის შემცირება — და ეს აქციები მოგებას მოიტანენ.",
+      "summaryKa": "მზარდი El Niño შეიძლება გააუქმოს ფედერალური განაკვეთის შემცირება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c4a7cd93a23c4265",
+      "title": "Brazil Inflation Slowed More Than Expected Ahead of Rate Meeting",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdXFCREpYa25nelUteVlxOVg0OGRObVhPNURLdk0wRm9ENHV3X2ZzOWZQemdiTmczLTRuZEcwLXdscWkwWlBaTlJ4OEtTbkRhRktIU2xQQVNsc2w0NlNaOENUS3Z3WW1Ub3k1UmlLZnZ6SHAwY1ZjcWNzX3Q0TUVNS2xmTHNTR1BEV0p2N0hGS2xGX0RZcmV2UXpHS21Rd2s4MlE2RDRaSUprNndkaUtJcXA5UmRsUQ?oc=5",
+      "publishedAt": "2026-07-28T12:14:08.000Z",
+      "titleKa": "ბრაზილიის ინფლაცია შემცირდა უფრო მეტად, ვიდრე მოსალოდნელი იყო, განაკვეთის შეხვედრის წინ",
+      "summaryKa": "ბრაზილიის ინფლაცია შემცირდა უფრო მეტად, ვიდრე მოსალოდნელი იყო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5ddf4109bf0eab24",
+      "title": "Meta Q2 Earnings Preview: What To Expect From Upcoming Report",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWdDWHpjWGgtQV9yd0Vmc1BkbzQ0VldDZGxRbkszc2ZhTHhJSm1LQlhOd2Y0YXEzUmc3RWZCbWxpUEl4b0RKVlRoeXU1SC0yY3RnNGpXWDhlb1FDOVB0SDlRWjV2cWRYNVdhblUydTFtcVowSzFJcFJBNFU1dVVSbHpmSkxGVDhNZG9sa2hvNVFZNzhkM25ZX1BMRDQ?oc=5",
+      "publishedAt": "2026-07-28T12:13:43.000Z",
+      "titleKa": "Meta Q2 მოგების პროგნოზი: რა უნდა ველოდოთ მომავალი ანგარიშიდან",
+      "summaryKa": "Meta Q2 მოგების პროგნოზი გამოქვეყნდება.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6afeeb04e2cbddd6",
+      "title": "Meta to report Q2 earnings amid AI investing concerns",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRWw5ZmpQbWFTV3FfVkxPY1BDZUFzdEhtcjNsQ3dQY0ZuRlBseXljbTRtMzdPaXowaFN0WnZNNEJ5X09GVk8xY2RJbUpkZEF4Nk1qOXJ5ZDJETURfVUJXY1lUbVZkcUtlM1B0SzF3UUhNdGdDR0pDLXFNcEhyQm5GVnpWZ2FRZW9DdmdTbjREWFdIbjZEMC11eW5CMExOZHNN?oc=5",
+      "publishedAt": "2026-07-28T12:13:25.000Z",
+      "titleKa": "Meta Q2 მოგების ანგარიშს გამოაქვეყნებს AI ინვესტირების შეშფოთების ფონზე",
+      "summaryKa": "Meta Q2 მოგების ანგარიში გამოაქვეყნდება AI ინვესტირების შეშფოთების ფონზე.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d63d3db2ce3687a4",
+      "title": "3 Bullish Ethereum Signals and 1 Reason to Stay Careful",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkptRmRuRVRoeGxyUnJnVWlVQm1nVExlMHJzU2FxTXB0Y0F0NUl3Q0VlZ01CWW0ybVpYQldVcEpCUnVMMEVRdG9KNEpfV08wVWFrOHBxZVpVM1RNX0Z5SHF1Y3pPM2J3X21vdzg5Q1dtZ3RSNXNVQWxXdlowVTdaX0NaODh2WjFTRk90dEhmdm4xXzgtQUh2bQ?oc=5",
+      "publishedAt": "2026-07-28T12:12:54.000Z",
+      "titleKa": "3 ოპტიმისტური ეთერიუმის სიგნალი და 1 მიზეზი, რომ ფრთხილად იყოთ",
+      "summaryKa": "არსებობს 3 ოპტიმისტური ეთერიუმის სიგნალი.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e6c374a6d39f984e",
+      "title": "Textron Beats Earnings Estimates but Guidance and Funding Risks Weigh on Shares",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc0F6endVTDM0UThNMDd1aDJkNjN2eUdFN0ZibGJyM1d1NDNZM0VqTWRDekhIUGFzQUdhMVdfdDZGNjlKUHRBSjJiSkpVbzN5eTdOeUEwNG1Fa3pEdkdEdFV5RGllRXZ4Y19vSDljeUdVWWNvaXhoZ0JveGE2bGpYWWVSdENxMGZjSV9NNDBjZ2dSeXVJejVCZkdWdGJEV2t2YVdqazV5S2NUdw?oc=5",
+      "publishedAt": "2026-07-28T12:11:46.000Z",
+      "titleKa": "Textron-მა გადააჭარბა მოგების პროგნოზებს, მაგრამ პროგნოზი და დაფინანსების რისკები აქციებზე წნეხს ახდენს",
+      "summaryKa": "Textron-მა გადააჭარბა მოგების პროგნოზებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d66d39be5dc29215",
+      "title": "MGIC Investment (MTG) Reports Earnings Tomorrow: What To Expect",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnV6WkZOYWZWYlE3ZVVJQ2JhdGtHUUo2aU5UdFNIMUEtZ05iNVJuOEdJTDVwQXk4djhOUHFSRzZhSzcwcWtYQTJwRmhBUG1NanFEanV3N3BDSmQ5aGJpaExieWNtTUUtYWM1YUpEWjM2TEhVUUduUWZEZDVEX0VLMDVmYUNjMTFISGE1XzU3VG9leDQxQUFpMGdYeDA5WVZMS2ZJ?oc=5",
+      "publishedAt": "2026-07-28T12:05:02.000Z",
+      "titleKa": "MGIC Investment (MTG) ხვალ მოგებას გამოაქვეყნებს: რა უნდა ველოდოთ",
+      "summaryKa": "MGIC Investment (MTG) ხვალ მოგებას გამოაქვეყნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "fb13e097624fe07d",
       "title": "VDC vs. FTXG: Which Defensive ETF Is the Better Buy?",
@@ -95,17 +233,6 @@
       "titleKa": "HSBC-ის Kettner-ის აზრით, მოგება და შეფასებები რისკიან აქტივებს აძლიერებს",
       "summaryKa": "HSBC-ის Kettner-ის აზრით, მოგება და შეფასებები რისკიან აქტივებს აძლიერებს.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "3488563eaaee6e32",
-      "title": "Bitcoin Weakens in Asia Trading as Fed Rate Decision Looms",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDZVdVJLcUlHZlNFYnNmUGV5cTVRZDVlZVZjbzZNZldYOWFOQ0FuVEhwcFpnQ1Y2d3lvbnhLQ1g0NjdYUlNvZWRiYTRyT1o3MmUzWVNhSjd4UWpnN3Q1SFRBdnRfWDNWb2VNYVlZLUJNQjBSZTdELVB2V282bmFBZkJsLVBXZ2lfMU5fTTM4ODd1UGx5amdabktlTEUyak1ZOV9IX05kVjIxNFJsLVE?oc=5",
-      "publishedAt": "2026-07-28T10:14:25.000Z",
-      "titleKa": "ბიტკოინი აზიურ ვაჭრობაში სუსტდება, რადგან ფედერალური რეზერვის საპროცენტო განაკვეთის გადაწყვეტილება ახლოვდება",
-      "summaryKa": "ბიტკოინი აზიურ ვაჭრობაში სუსტდება.",
-      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
