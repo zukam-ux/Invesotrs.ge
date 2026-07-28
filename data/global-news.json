@@ -1,8 +1,132 @@
 {
-  "updatedAt": "2026-07-28T18:42:51.148Z",
+  "updatedAt": "2026-07-28T20:06:22.805Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "65a6fa0f0dd1218b",
+      "title": "Australia Doesn’t Need a White Elephant Oil Refinery",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYlJDRlhHNHBUU2JKVGV4c2M2VHRSQnBnVmdwdS16ckxWcXJUdnJCeGhDUWdGNS1ESTRBWVNWMzVNYTdBSXZPVS1sQ2p2TVctSWp3V1ZNNEpVVWVFUUdDOUZsU0lSbGFPOTE0ay1rTWtNYktKTnZPWG1iclFDNFU0d0MtMkJOWlR4cWVzOUlqZE9RVjllYkdyQXBVVzlDVWpXWUlkeUtBczE0RFpldTlMN1l1ZkNtbFJ0Q3N6ZHVDYWI4Y1R0dFJHNDNIRGNrUQ?oc=5",
+      "publishedAt": "2026-07-28T20:00:22.000Z",
+      "titleKa": "ავსტრალიას თეთრი სპილო ნავთობის გადამამუშავებელი ქარხანა არ სჭირდება",
+      "summaryKa": "ავსტრალიას არ სჭირდება თეთრი სპილო ნავთობის გადამამუშავებელი ქარხანა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e2553824acae102e",
+      "title": "3 of Wall Street’s Favorite Stocks with Questionable Fundamentals",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUFlNYnhCc19PODdGbFJuNzN1OHV2cjBjMjBZVW1NVGZ3THJma2g3dDE5ZEF5QncwMlpPeDJUODRBLWV6OVBRX2dmM0tIX05pYno4c0dJaTY2SFNKTi1qS3dEZjFhYkRHVFJCcHI0MWFVSXlVamZrVDdyLUpmQ1JHbzlmTkpGdFViVV9LcEg5amNVWlNCT0N1S3FR?oc=5",
+      "publishedAt": "2026-07-28T19:49:02.000Z",
+      "titleKa": "უოლ სტრიტის 3 საყვარელი აქცია questionable fundamentals-ით",
+      "summaryKa": "უოლ სტრიტის 3 საყვარელი აქცია questionable fundamentals-ით გამოირჩევა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-194902743.html",
+      "bodyKa": "## უოლ სტრიტის საყვარელი აქციები\n\nუოლ სტრიტი სამი აქციის მიმართ პოზიტიურად არის განწყობილი, თუმცა მათი ფინანსური საფუძვლები კითხვების ქვეშ დგას. ანალიტიკოსები ხშირად არ აქვეყნებენ გაყიდვის რეკომენდაციებს, რაც ნაწილობრივ იმით არის გამოწვეული, რომ მათი კომპანიები, რომლებიც ისინი აფასებენ, შესაძლოა სხვა ბიზნესის მიღწევას ცდილობენ.\n\n## Salesforce (NYSE:CRM)\n\nSalesforce, რომელიც ცნობილია თავისი CRM პლატფორმით, ბოლო წლის განმავლობაში საშუალო გაყიდვების ზრდა 10.5%-ით გამოირჩეოდა, რაც საკმაოდ დაბალი მაჩვენებელია. ეს მიუთითებს იმაზე, რომ კომპანიას შესაძლოა ფასების შემცირება მოუწიოს, რათა მოთხოვნა გააქტიუროს. მომავალი წლისთვის მოსალოდნელი გაყიდვების ზრდა 10%-ით არის შეფასებული, რაც კიდევ უფრო აძლიერებს კითხვებს მოთხოვნის სტაბილურობაზე.\n\nკომპანიის ოპერაციული მოგება გაიზარდა, რაც მიუთითებს იმაზე, რომ ის უფრო ეფექტურად მართავს ფიქსირებულ ხარჯებს. თუმცა, Salesforce-ის აქციის ფასი $173.83-ია, რაც 3x forward price-to-sales შეფასებას წარმოადგენს.\n\n## B&G Foods (NYSE:BGS)\n\nB&G Foods, რომელიც ამერიკული შეფუთული საკვების კომპანიაა, ბოლო სამი წლის განმავლობაში გაყიდვები 5.4%-ით შემცირდა. ეს მიუთითებს იმაზე, რომ მომხმარებელთა ტენდენციები კომპანიას წინააღმდეგ მუშაობს. აქციების ფასი $3.60-ია, რაც 6.1x forward P/E შეფასებას წარმოადგენს. კომპანიის მოგება თითო აქციაზე შემცირდა, რაც ნაწილობრივ აქციონერების დილუციას უკავშირდება.\n\n## Mayville Engineering Company (NYSE:MEC)\n\nMayville Engineering, რომელიც მეტალის დამუშავებაში სპეციალიზდება, ბოლო ორი წლის განმავლობაში გაყიდვები 4.3%-ით შემცირდა. კომპანიის მოგება თითო აქციაზე ასევე შემცირდა, რაც ინვესტორების შეშფოთებას იწვევს. Mayville Engineering-ის აქციის ფასი $29.44-ია, რაც 55.3x forward P/E შეფასებას წარმოადგენს. მაღალი ნედლეულის ვალის და EBITDA-ს თანაფარდობა 5x ზრდის რისკს, რომ კომპანიამ შესაძლოა აქტივების forced გაყიდვა ან დილუციური ფინანსირება მოითხოვოს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "77f0fb598aa7814a",
+      "title": "Sector Update: Financial Stocks Rise Late Afternoon",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmxJeG42S1U5bXgxNEs0TDlUWE9OMEhKanBHc0g5R043MkEwUFZkRDlncUxJaEc0N0NXNVpsZ0pFaGdEU2NJRXBQZlpKN2ttWjNnNS1SM1ZXcUozVzhfdTE5SXdHbEhjU3NGRFlHdWVaMmlrSlBKVWxpYWdCYmUzNTVlbF93SlNwNGY1OFlrWk5YbGpfQjNvTE01WVpQNkYyVi0zM2V3?oc=5",
+      "publishedAt": "2026-07-28T19:46:57.000Z",
+      "titleKa": "სექტორის განახლება: ფინანსური აქციები გვიან შუადღეს იზრდება",
+      "summaryKa": "ფინანსური აქციები გვიან შუადღეს იზრდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "44de1081d2e2a1c7",
+      "title": "3 Overrated Stocks We Keep Off Our Radar",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDI1Qlg1MGhmdDNrM3hFOVNkdGFJYUZIQUd3c0xoeE9xRWhJS3lvSFk5TW5JQkhlanJxNlZ5dEdobGI2bFIyVGo2V0F1ck5DeEZaaW9tcGw4RUxyTkZ6TW1DbVpZTm1rU2UtRGJla0ZoYXAtTmVzUjVIbGpYc0pVcEVJOU8wcVZYVjBGSWsyMUhrVXUtcmZR?oc=5",
+      "publishedAt": "2026-07-28T19:41:02.000Z",
+      "titleKa": "3 გადაჭარბებული აქცია, რომლებიც ჩვენ არ ვაკვირდებით",
+      "summaryKa": "ჩვენ არ ვაკვირდებით 3 გადაჭარბებულ აქციას.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7171589f5377a0e0",
+      "title": "Sector Update: Healthcare Stocks Gain Late Afternoon",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOblJzZmxsV0Y1NDZnejRpamFaVWFDMHJLVWduX1N1Uld5TnpUeGVmUjR2SXZhekJuVDI1QnJ4QTV2R2I0NmloYmt6aWtSM01aMlpNbVdWQ2dwZEd4Sk55cmM4QmNjWFBfN1gwcU5Dc3VVQVZLOHE2MmpxdG9COVMxdkxvOHhnNGprbkZRNkpEWHoyT251U28xdU9RVGxBTjdubkE?oc=5",
+      "publishedAt": "2026-07-28T19:39:54.000Z",
+      "titleKa": "სექტორის განახლება: ჯანდაცვის აქციები გვიან შუადღეს იზრდება",
+      "summaryKa": "ჯანდაცვის აქციები გვიან შუადღეს იზრდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "0279d58e2b121e62",
+      "title": "Michael Saylor: Bitcoin Code Is a Constitution, Changes Are Attacks on 'Economic Rights'",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU1ZNNDczOVBDaHNoUy12eGhwUk51VE41VjhrUEF6WWlFYlJNT0hEajdydTd3UWhDOTlUWjh4REROdlI2N3h1Y01OYzRTMWNuUEw0RmV1RV9EUUotVnp1VVpXNkRvejhWY3NzaFdmcGNBQUcwbm9ibFNvdzdnYWFPTTg4ZXp5TnBINkNQZk9FZFJqdE5RbEYta211aUM3amJjTmI5UkpCR0k?oc=5",
+      "publishedAt": "2026-07-28T19:36:03.000Z",
+      "titleKa": "მაიკლ სეილორი: ბიტკოინის კოდი კონსტიტუციაა, ცვლილებები 'ეკონომიკურ უფლებებზე' თავდასხმებია",
+      "summaryKa": "მაიკლ სეილორი აცხადებს, რომ ბიტკოინის კოდი კონსტიტუციაა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c4658f2629f440a2",
+      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc3VLWHEwVVVtcW1xNFhia3FRTGoxSjVRMld4SmpEbTlhN2VQV0dMM25UMEZ0Mm5oQTh2N2ZNY0ZNdnFnRlo0aW12QUFEclBkVGNoc3hwRlpLa0lKczJIUEpzV3BTQUNmTEVhbFlPem02YW51WmpwOWdHblJSb0JPMkFUY0FUTEw4em92S0hmakJubmpLME95dmUtS1pYNms?oc=5",
+      "publishedAt": "2026-07-28T19:31:44.000Z",
+      "titleKa": "სექტორის განახლება: ტექნოლოგიური აქციები გვიან შუადღეს ვარდება",
+      "summaryKa": "ტექნოლოგიური აქციები გვიან შუადღეს ვარდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "12ed13144a7362f9",
+      "title": "2 Momentum Stocks on Our Watchlist and 1 We Ignore",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzB4VjlON2VwcURabnZPYkZNcmc2aV93ZDVyUnVOcWNGZDFEQXp3eGRWNDN1S3RETEdXaUFtdHI2V2FpOVRrYzF4NE94YzR3WF9zeGNXbGRiYzdVQlp0anhuS2ZsY1dJOUE1U2JaMzhmanhUaU54bkI1R3ZJZi1lTG1xM2NabGVtZEhSZnBmRnlPNDRDTW1Wak5B?oc=5",
+      "publishedAt": "2026-07-28T19:25:02.000Z",
+      "titleKa": "2 მოლოდინის აქცია ჩვენს სიისთვის და 1, რომელსაც ვივიწყებთ",
+      "summaryKa": "ჩვენს სიისთვის 2 მოლოდინის აქცია და 1, რომელსაც ვივიწყებთ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b3291862ce57543a",
+      "title": "3 of the Best Dividend Growth Stocks to Buy and Hold for Decades",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ3VpenRodS1zRkdCTUwzbkdxdVFjTkdfck9QVWpGc2h3dkhXNTBQOEswLUNfMm5aTFVaWHBoM19hamZNRjZmS3N5SGotYnRzV1lWYndyX0R0RktqS0ppZ2RhYnFpUWM3OXJnRU1Pd3ZuMUpYUnNuNWw5bXVpOExPS0FnRzM2b0stZEpYWXNRMU5FaGtrbm9wcl9B?oc=5",
+      "publishedAt": "2026-07-28T19:15:40.000Z",
+      "titleKa": "3 საუკეთესო დივიდენდური ზრდის აქცია, რომლებსაც ათწლეულების განმავლობაში უნდა ვიყიდოთ და შევინახოთ",
+      "summaryKa": "საუკეთესო 3 დივიდენდური ზრდის აქცია, რომლებსაც ათწლეულების განმავლობაში უნდა ვიყიდოთ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1e86ff7717fb76e5",
+      "title": "Impinj (PI) To Report Earnings Tomorrow: Here Is What To Expect",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPczdVd1lkRW8tSU0xRE9LQ0h0Y2JTa3NrX3I1RzduQnFSdWxBMmVLeDR2ZWpwbFEzeUVGeDJtbXVUY1YwSFdLYW02RlZsUy1DMWpUb0V1VWNDSzltU3Zrc2FWVzE2S0lmTUlpZ0IxOTk2Z1VYbHFqNHFCamdsa0RtTGtWejJHdHl1VjhQbVNRVDRyT1ZNeFJBNWJFUVRCc2VY?oc=5",
+      "publishedAt": "2026-07-28T18:37:02.000Z",
+      "titleKa": "Impinj (PI) ხვალ მოგების ანგარიშს წარადგენს: აქ არის, რაც უნდა ველოდოთ",
+      "summaryKa": "Impinj (PI) ხვალ მოგების ანგარიშს წარადგენს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4346f96b5a1f1480",
+      "title": "Morgan Stanley Launches Ethereum and Solana ETPs With 0.14% Fees",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSVFWZkVWQW1FQzF1U1QyWXdCV3hSRDcyZG1reVY5VEQwWVdJUXVIaWFZcFpzRUUtRkdVZWJ4aDFqYlNZMEZnNWFGblJQYlpUdWpLbHh6SjhRak5ra1JwSDhvZkhNSGsyc1Q1NU4wOHJjWm5HeTdfZHEtM3E0cGNJaEh6STQ0a0VjeDNUMDJKMGgzakpmMGg0TVpJRExkeVVFekJSVHB6QQ?oc=5",
+      "publishedAt": "2026-07-28T18:26:00.000Z",
+      "titleKa": "Morgan Stanley-მა Ethereum და Solana ETP-ები 0.14% საფასურით დაიწყო",
+      "summaryKa": "Morgan Stanley-მა Ethereum და Solana ETP-ები 0.14% საფასურით დაიწყო.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "91539092bc3a04cf",
       "title": "Lemonade (LMND) To Report Earnings Tomorrow: Here Is What To Expect",
