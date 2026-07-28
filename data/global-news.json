@@ -1,8 +1,55 @@
 {
-  "updatedAt": "2026-07-27T23:19:14.504Z",
+  "updatedAt": "2026-07-28T00:15:51.820Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "43efe3d59b131047",
+      "title": "If you had invested $1,000 in gold instead of Bitcoin five years ago, here is what each is worth today",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEpSMnBxWk5MNjB3ZElOSUhCellMZng5bjY3R0tiaVVtckx6U3RsckJEX1NzVkh5WTd0c0xhbE1BRGtRZk9vd2V5M0I5dnJMQUNCVEhSYjhzSE1uRFUyTFVYNVZJX1FMU01SWk9ZSzZCNUlXNTBud0RiVmNFLWZDWk1VX2tmVTd2WjZhc2FsX3JpcjdWQ1JjeQ?oc=5",
+      "publishedAt": "2026-07-27T23:30:00.000Z",
+      "titleKa": "თუ ხუთი წლის წინ 1,000 დოლარი ოქოში დააბანდეთ, დღეს თითოეული მათგანის ღირებულება ასეთია",
+      "summaryKa": "ოქოს და ბიტკოინის დღევანდელი ღირებულება შედარებულია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/commodities/articles/had-invested-1-000-gold-233000269.html",
+      "bodyKa": "## ოქოსა და ბიტკოინის შედარება\n\n2021 წლის ივლისში, თუ თქვენ 1,000 დოლარი ბიტკოინში დააბანდეთ, დღეს ეს თანხა 1,911 დოლარად არის შეფასებული, რაც 91%-იანი დაბრუნებაა. იმავე პერიოდში, 1,000 დოლარის ინვესტიცია ოქოში 1,834 დოლარად არის შეფასებული, რაც 83%-იანი დაბრუნებაა. \n\n## ბიტკოინის გზა\n\n2021 წლის ივლისში ბიტკოინის ფასი დაახლოებით 34,000 დოლარი იყო. იმ პერიოდში, 1,000 დოლარად შეგიძლიათ შეიძინოთ დაახლოებით 0.0294 BTC. თუმცა, ამ ინვესტიციის ისტორია რთულია. 2022 წელს ბიტკოინის ფასი 69,000 დოლარიდან 15,476 დოლარამდე დაეცა, რაც 77%-იანი დაცემა იყო. ეს დაცემა გამოწვეული იყო Terra Luna-ს და FTX-ის კრიზისით.\n\n2024 წლის იანვარში ETF-ის დამტკიცების შემდეგ, ბიტკოინი კვლავ გაიზარდა და 2025 წლის ოქტომბერში 126,000 დოლარამდე მიაღწია, თუმცა შემდეგ კვლავ დაეცა.\n\n## ოქოს სტაბილურობა\n\nოქოს ფასი 2021 წლის ივლისში დაახლოებით 1,800 დოლარი იყო. 1,000 დოლარად შეგიძლიათ შეიძინოთ დაახლოებით 0.556 უნცია. დღეს ოქოს ფასი დაახლოებით 3,300 დოლარია. ოქოს გზა შედარებით მშვიდი იყო, რადგან არ ყოფილა 77%-იანი დაცემები ან რეგულატორული გაურკვევობები. \n\nოქოს ფასი თანდათან გაიზარდა გეოპოლიტიკური დაძაბულობის, აშშ-ირანის სამხედრო შეტევების და მუდმივი ინფლაციის ფონზე. წელს ოქოს ფასი 3,500 დოლარს გადააჭარბა, თუმცა შემდეგ კვლავ დაეცა.\n\n## შედეგები\n\nბიტკოინის დაბრუნება 91% იყო, ხოლო ოქოს 83%. ეს განსხვავება 8 პროცენტული პუნქტია. მიუხედავად იმისა, რომ ორივე მხარე იმედოვნებდა, რომ მათი არჩევანი უკეთესი იქნებოდა, რეალობა აჩვენებს, რომ ამ კონკრეტულ ხუთწლიან პერიოდში, ბიტკოინისა და ოქოს შორის არჩევანი უფრო ახლოს იყო, ვიდრე ვინმეს სურდა აღიარება.\n\nოქოს ინვესტორი, რომელიც 2021 წლის ივლისში ოქოში ინვესტირებას მოახდენდა, ბევრად მშვიდად ეძინა, რადგან არ უწევდა ფასების მუდმივი შემოწმება და რეგულატორული პრობლემების გადაჭრა. თუმცა, საბოლოო შედეგი დამოკიდებულია თავად ინვესტორზე.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "6682046bdde667c2",
+      "title": "Gold Holds Gain as Trump Sounds Optimism Over US-Iran Talks",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2tobDJEZjd6SmxKYzJ5NTU3TGpZZ1pzQkdITHB4VHFkVHduTVhFWm5MVE1GWlRfNW5oOHlTRlN2TnQ1STNzYUJGLWFXZUtaWGxUV2lOSENvOE90VmJXZGV3eXQ3U01Za29tZmgtR2FDdi1rMkpOcXpzXzdsTF9zSDhsWlZEY29mNnJZbUpDN3N0aDVWTU90eGdMenBPclRNZ2gtMTJ3ZzA1WWN1T0s0?oc=5",
+      "publishedAt": "2026-07-27T23:21:45.000Z",
+      "titleKa": "ოქო იზრდება, რადგან ტრამპი ოპტიმიზმს გამოხატავს აშშ-ირანის მოლაპარაკებების შესახებ",
+      "summaryKa": "ტრამპის ოპტიმიზმი აშშ-ირანის მოლაპარაკებების მიმართ ოქოს ფასზე დადებითად მოქმედებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ef5d67ffab11d704",
+      "title": "3 of Wall Street’s Favorite Stocks We Approach with Caution",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanBHVXBsZm5sd1VoOHFvZWVtdk8zWWQtVE9ZLTNibDZraWhSblRoN0l3V1dtZ2J5RFZVVDFaQXdTUkpDbTZha0hrMGF1b0xkRERRczUwRlpBd0k3TDR3dmktNHN2SGJLSUw1WEI4eWRMa29uWXBEUUJKZktRdVJBbDRNWjhLcUs5UXZ4cmVielhFdWNSaTllMS1n?oc=5",
+      "publishedAt": "2026-07-27T23:17:02.000Z",
+      "titleKa": "უოლ სტრიტის სამი საყვარელი აქცია, რომელთა მიმართაც სიფრთხილე გვაქვს",
+      "summaryKa": "ამ სტატიაში განხილულია სამი აქცია, რომელთა მიმართაც სიფრთხილე უნდა გამოვიჩინოთ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "00f41a14f03e5ac6",
+      "title": "1 of Wall Street’s Favorite Stocks with Exciting Potential and 2 We Ignore",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2ZWVnN2THh0dzdrakUwWkxwZ1Q0eWhGN2lrZjIxTEJLeHM4OWwtM0ViY1BqcndlUHUtdGIzdEZhQ0xRU0pIZ0N6bVNDZ2RfQkNYTHctUFFaeUdIaWRvUElaeEJ4dHpvUExIWk5mZWQ2VHV2dzJYMUNiZms1czIxaFN4ckZ0NXJKZjNDN1BwTFVIRlhKV2EyNVFB?oc=5",
+      "publishedAt": "2026-07-27T23:09:02.000Z",
+      "titleKa": "უოლ სტრიტის საყვარელი აქცია, რომელსაც საინტერესო პოტენციალი აქვს და ორი, რომელსაც ვივიწყებთ",
+      "summaryKa": "სტატია ეხება ერთ აქციას, რომელსაც პოტენციალი აქვს, და ორ, რომლებიც იგნორირდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "dd2b71b4ed4a152a",
       "title": "2 of Wall Street’s Favorite Stocks Worth Your Attention and 1 We Question",
@@ -30,6 +77,50 @@
       "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/3-unprofitable-stocks-fall-short-224502938.html",
       "bodyKa": "## არამომგებიანი კომპანიები\n\nბაზარზე არსებობს სამი კომპანია, რომლებიც ვერ აკმაყოფილებენ მოგების მოთხოვნებს და მათი ფინანსური მდგომარეობა არ არის დამაკმაყოფილებელი. ეს კომპანიები, მიუხედავად იმისა, რომ გარკვეულ სფეროებში აქტიურად მუშაობენ, ვერ ახერხებენ ეფექტური ზრდის მიღწევას.\n\n## Purple (NASDAQ:PRPL)\n\nPurple, რომელიც დაარსდა ორი ძმის მიერ, აწარმოებს ძილის და სახლის კომფორტის პროდუქტებს, მათ შორის მატრასებს და ბალიშებს. ბოლო ხუთ წელიწადში კომპანიის გაყიდვები 8.4%-ით შემცირდა, რაც მიუთითებს იმაზე, რომ მომხმარებელთა ინტერესები შემცირდა. \n\nკომპანიის ფინანსური მდგომარეობა ასევე არ არის დამაკმაყოფილებელი, რადგან მისი კაპიტალის დაბრუნება უარყოფითია, რაც მენეჯმენტის წარსული და მიმდინარე ინვესტიციების ეფექტურობას აჩვენებს. Purple-ის აქციის ფასი 7.63 დოლარია, რაც 12.7x-forward EV-to-EBITDA-ს შეადგენს.\n\n## Myriad Genetics (NASDAQ:MYGN)\n\nMyriad Genetics, რომელიც 1991 წელს დაარსდა, სპეციალიზირებულია გენეტიკური ტესტების განვითარებაში, რომლებიც დაავადების რისკებს აფასებენ. ბოლო ორი წლის განმავლობაში კომპანიის წლიური შემოსავალი 3.5%-ით გაიზარდა, თუმცა ეს ზრდა უფრო ნელი იყო, ვიდრე მისი ჯანმრთელობის სექტორის კონკურენტების.\n\nკომპანიის აქციის ფასი 5.69 დოლარია, რაც 49x-forward P/E-ს შეადგენს. Myriad Genetics-ის მენეჯმენტის მიერ განხორციელებული ინვესტიციები არ აღმოჩნდა წარმატებული, რაც უარყოფით კაპიტალის დაბრუნებას იწვევს.\n\n## Baxter International (NYSE:BAX)\n\nBaxter International, რომელიც 1931 წელს დაარსდა, აწარმოებს ჯანმრთელობის პროდუქტებს, მათ შორის დიალიზის თერაპიებს და IV გადაწყვეტილებებს. ბოლო ორი წლის განმავლობაში კომპანიის მუდმივი ვალუტის ზრდა დაბალი იყო, რაც მიუთითებს იმაზე, რომ საჭიროა პროდუქტის გაუმჯობესება.\n\nბაზარზე Baxter-ის აქციის ფასი 22.40 დოლარია, რაც 11.4x-forward P/E-ს შეადგენს. კომპანიის ფინანსური შედეგები ბოლო ხუთ წელიწადში უარყოფითი იყო, რადგან მისი მოგება 7.2%-ით შემცირდა.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "325af53bf4b8e68b",
+      "title": "3 Unprofitable Stocks We’re Skeptical Of",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdTlJVDV2a2w1VjFXdlAwOTZvcDMxb3c1VkYtOW9GTGRicExqcFR3RGRrSjJiRUpBcXBfYUhUeWJjaS0waUoyQ2FHaEczQUtKcFpEM0EwTUNfTG9mZi1CM25MZlZ1eTh1cHFyS1RjbjlNS2d1Q2VIVTVXV1FXT2dwcUY4N3UyaTlPMW1pM1NJekliUjRfLXhmSWtFckw?oc=5",
+      "publishedAt": "2026-07-27T22:37:02.000Z",
+      "titleKa": "სამი არამომგებიანი აქცია, რომელთა მიმართაც სკეპტიკურად ვართ განწყობილნი",
+      "summaryKa": "ამ სტატიაში განხილულია სამი არამომგებიანი აქცია, რომელთა მიმართაც სკეპტიციზმი არსებობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ef999f6e4f9410f5",
+      "title": "Principal Financial (PFG) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ1lYeW5iM3RnYmRSVWFiX0U0S3RqLV84VVhhaDdncGxlcGhDblZKSVJaY3VVelVOWDI0YXh6Ti0wTU9ZdDRqQUpuRzg3Ui10QjlucXNXS0JIbHMzR3Y1Nkt3cnk2OFdtUVQ0M0RvUDZ2ZTdFaWlacWdUSGNidXBsYnFpZmMtNElqYktSeGFXMGltZ0ZKeVkxcGM3WEtGQlFEeHc?oc=5",
+      "publishedAt": "2026-07-27T22:30:02.000Z",
+      "titleKa": "Principal Financial (PFG) Q2 მოგება: ძირითადი მაჩვენებლების შედარება პროგნოზებთან",
+      "summaryKa": "სტატია ეხება Principal Financial-ის მეორე კვარტლის მოგებას და ძირითადი მაჩვენებლების შედარებას პროგნოზებთან.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a292f22574e83637",
+      "title": "Park National (PRK) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMEk0RXhIZTY3WFlhQkM1MXdBQ0JuS2FCZUJjcUlabU42RnYzN0F2bl9ETkpFRFJGZTNTcVpFa28wMlRjT3lYNkNaZzYzbFF6cGozVzNjMWk3aUxKak5BSzBab0RXVzhNOFlqaXd5LTg2YllVS19MWHlfSzhyYU9PTHJFc05BN2NkN2I4VVFUN1NXbWFxbl9ISkhn?oc=5",
+      "publishedAt": "2026-07-27T22:30:01.000Z",
+      "titleKa": "Park National (PRK) Q2 მოგება: ძირითადი მაჩვენებლების შედარება პროგნოზებთან",
+      "summaryKa": "სტატია ეხება Park National-ის მეორე კვარტლის მოგებას და ძირითადი მაჩვენებლების შედარებას პროგნოზებთან.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3fc788b7ce1a9d52",
+      "title": "Dow Ends Higher On Support From Weak Oil, But AI Concerns Weigh On Nasdaq, S&P 500 — ASML, MSFT, NVDA, AMZN, PSKY In Focus",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXJzbmxsU2lPQWlZdEZsWlAwQUxlT1NYZVdNcklUYlJXRTVhVmZJNGZUcGdXRXBoY2QxR0k0RnVZTFJXc2pLeTJiT2VWckQ4SW5nMVR6ZldHODBUeDRPVUlrbFlSMzY1TUNNTk1fNGlIejlpWGNHYTB6endZdmNFZFJWTEcxZGpobmdMWWVaTkdJX1RLRzd2MA?oc=5",
+      "publishedAt": "2026-07-27T22:29:03.000Z",
+      "titleKa": "Dow იზრდება სუსტ ნავთობზე მხარდაჭერით, მაგრამ AI-ის შეშფოთება Nasdaq-სა და S&P 500-ზე მოქმედებს — ASML, MSFT, NVDA, AMZN, PSKY ყურადღების ცენტრში",
+      "summaryKa": "Dow Jones-ის ინდექსი იზრდება, თუმცა AI-ის შეშფოთება Nasdaq-სა და S&P 500-ზე უარყოფითად მოქმედებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "5cf00543ba8b420a",
