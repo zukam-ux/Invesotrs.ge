@@ -1,8 +1,135 @@
 {
-  "updatedAt": "2026-07-28T06:15:17.649Z",
+  "updatedAt": "2026-07-28T08:51:16.407Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "1655ef8e32e37af6",
+      "title": "Earnings To Watch: Peabody Energy (BTU) Reports Q2 Results Tomorrow",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc1BhSTBNTkNsRDRwSWw4Z2JsT1dicUNhcWNLbGd3Ym83UXk0S3pTQk9uSkd1NFFrSmZoOXloZmVlbU55V0pIWHZQQVQ1Sy1UTHlaVEowOTFlTDhjTGl4RHZqWkhFcEdWY2Fzb2FZNXZLWHdDeVhvTVVhQTlKdGhXcURyNkZMSXlLNDFhY3V3UlRIQjJ2NUZnelEyWjFqYWs?oc=5",
+      "publishedAt": "2026-07-28T08:29:02.000Z",
+      "titleKa": "შემოსავლები, რომლებიც უნდა ვაკვირდეთ: Peabody Energy (BTU) ხვალ Q2 შედეგებს გამოაქვეყნებს",
+      "summaryKa": "Peabody Energy (BTU) ხვალ გამოაქვეყნებს Q2 შედეგებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-peabody-energy-btu-082902796.html",
+      "bodyKa": "## Peabody Energy-ის Q2 შედეგები\n\nPeabody Energy (NYSE:BTU) ხვალ, ოთხშაბათს, ბაზრის გახსნამდე გამოაქვეყნებს Q2 ფინანსურ შედეგებს. კომპანიამ გასულ კვარტალში მოახერხა ანალიტიკოსების მიერ პროგნოზირებული შემოსავლების გადაჭარბება, რაც $973.3 მილიონი დოლარი იყო, რაც 3.9%-ით მეტია წინა წლის ანალოგიურ პერიოდთან შედარებით. თუმცა, ეს კვარტალი კომპანიისთვის შედარებით სუსტია, რადგან EPS-ის პროგნოზები მნიშვნელოვნად ვერ შესრულდა, ხოლო სხვა წარმოების მოცულობა 26.6%-ით შემცირდა.\n\n## შემოსავლების პროგნოზი\n\nამ კვარტალში ბაზარი ელოდება Peabody Energy-ის შემოსავლების 12.8%-ით ზრდას წინა წლის ანალოგიურ პერიოდთან შედარებით, რაც არის ცვლილება წინა კვარტალში დაფიქსირებული 14.6%-იანი შემცირებიდან. ანალიტიკოსები, რომლებიც კომპანიის გაწვდას აკვირდებიან, ბოლო 30 დღის განმავლობაში ძირითადად კვლავ ადასტურებენ თავიანთ პროგნოზებს, რაც მიუთითებს იმაზე, რომ ისინი ელოდებიან კომპანიის სტაბილურობას ფინანსური შედეგების გამოქვეყნების დროს.\n\n## კონკურენტების შედეგები\n\nPeabody Energy-ის კონკურენტებმა, რომლებიც მუშაობენ upstream & integrated სექტორში, უკვე გამოაქვეყნეს თავიანთი Q2 შედეგები, რაც საშუალებას გვაძლევს ვნახოთ, რა შეიძლება ველოდოთ. Weatherford-ის შემოსავლები 8.2%-ით შემცირდა წელიწადში, თუმცა ანალიტიკოსების პროგნოზები 3.4%-ით გადააჭარბა. World Kinect-ის შემოსავლები კი 50.3%-ით გაიზარდა, რაც 27.7%-ით გადააჭარბა პროგნოზებს. Weatherford-ის აქციები 4.5%-ით გაიზარდა შედეგების გამოქვეყნების შემდეგ, ხოლო World Kinect-ის აქციები 5.2%-ით გაიზარდა.\n\n## ინვესტორების განწყობა\n\nბაზარზე პოზიტიური განწყობაა upstream & integrated სექტორში, რადგან აქციების საშუალო ფასები ბოლო ერთი თვის განმავლობაში 2.2%-ით გაიზარდა. თუმცა, Peabody Energy-ის აქციები 1.3%-ით შემცირდა იმავე პერიოდში და ფინანსური შედეგების გამოქვეყნების წინ საშუალო ანალიტიკოსების ფასის მიზანი $32.58-ია, რაც მიმდინარე აქციის ფას $22.98-ს შეადგენს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "3b4bc675a0a8d294",
+      "title": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMkZsQXlQVWtDVFpoZFFSUndsZzdOUTk4U2FUS3BlZ2NWZ3pVczhfcTBZbTJqZzEyRXVIdlhJZ2o3SGNqUnl2anRJTjlBTmpNRDg2clIzeVpSV2pBWTVRWGZzdkVSaUIyWHpNQm9mWVFTMm1fcjBCT1lYTFoyWXJkRGRsMG8zaVNMYWdnb0hBOGJIMDAzUVVETjBRT2dteWZ6YVVldUw5VHprdw?oc=5",
+      "publishedAt": "2026-07-28T08:28:32.000Z",
+      "titleKa": "დღევანდელი საფონდო ბაზარი: S&P 500, Nasdaq-ის ფიუჩერსები ეცემა ჩიპების გაყიდვების გაღრმავების ფონზე",
+      "summaryKa": "S&P 500 და Nasdaq-ის ფიუჩერსები ეცემა ჩიპების გაყიდვების გაღრმავების ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html",
+      "bodyKa": "## საფონდო ბაზრის მდგომარეობა\nდღეს, 2023 წლის 10 ოქტომბერს, აშშ-ის ტექნოლოგიური აქციები მნიშვნელოვნად დაეცა, რაც კორპორაცია SK Hynix-ისა და Samsung Electronics-ის მიერ მეხსიერების ჩიპების გაყიდვების გაღრმავების ფონზე მოხდა. Nasdaq-100-ის ფიუჩერსები (NQ=F) 0.9%-ით შემცირდა, რაც მიუთითებს ტექნოლოგიების ინდექსზე დამატებითი დანაკარგების შესახებ, ხოლო S&P 500-ის ფიუჩერსები (ES=F) 0.2%-ით დაეცა. თუმცა, Dow Jones Industrial Average-ის ფიუჩერსები (YM=F) 0.1%-ით გაიზარდა.\n\n## სამხრეთ კორეის ბაზრის გავლენა\nსამხრეთ კორეის საფონდო ინდექსი Kospi (^KS11) 10%-ზე მეტი დაეცა, რადგან ინვესტორებმა დაიწყეს SK Hynix-ის (SKHY, 000660.KS) და Samsung Electronics-ის (005930.KS) აქციების მასიური გაყიდვა, რაც გამოიწვია მათი ფასების 14%-ით და 13%-ით შემცირება შესაბამისად. ეს მოვლენები აჩენს შეშფოთებას, რომ AI-ის სფეროში კონკურენცია ჩინური კომპანიების მხრიდან იზრდება, რაც აშშ-ის კომპანიების პერსპექტივებზე უარყოფითად მოქმედებს.\n\n## AI-ის სფეროში შეშფოთება\nAI-ის სფეროში განწყობა გაუარესდა, რადგან Nvidia (NVDA) განიხილავს $250 მილიარდიანი დაფინანსების შესაძლებლობას OpenAI-ის (OPAI.PVT) მხარდასაჭერად. ეს ორი კომპანია ერთმანეთთან უფრო მჭიდროდ არის დაკავშირებული, რაც ზრდის შეშფოთებას ციკლური დაფინანსების შესახებ.\n\n## ნავთობის ფასები\nნავთობის ფასები კვლავ მცირდება, რადგან აშშ და ირანი აქტიური ბრძოლების შეწყვეტაზე შეთანხმდნენ, ხოლო პრეზიდენტმა ტრამპმა განაცხადა, რომ მხარეები დიპლომატიურ მოლაპარაკებებზე არიან. \"არსებობს კარგი შანსი, რომ რამე მოხდეს, და თუ ასე იქნება, კარგი იქნება,\" - განაცხადა ტრამპმა.\n\n## ფედერალური რეზერვის შეხვედრა\nდღეს იწყება ფედერალური რეზერვის ორი დღის პოლიტიკის შეხვედრა, რაც ერთ-ერთი ყველაზე რთული გადაწყვეტილებაა ბაზრისთვის ბოლო წლებში. სავაჭრო ოპერატორების პროგნოზები მიუთითებს, რომ ფედერალური რეზერვი შესაძლოა განაკვეთის შენარჩუნებაზე გადავიდეს, თუმცა არ არსებობს მტკიცე რწმენა, რომ ეს ასე მოხდება, და შესაძლოა განაკვეთის ზრდაც განიხილებოდეს.\n\n## შემოსავლების ანგარიში\nშემოსავლების ანგარიში კვლავ აქტუალურია. ინვესტორები ელოდებიან SK Hynix-ის შედეგებს, რომლებიც 8 საათზე საღამოს ET-ზე უნდა გამოქვეყნდეს, რაც AI-ის სფეროში მეხსიერების გაყიდვების შესახებ დამატებითი ინფორმაციის წყაროს წარმოადგენს. ასევე, მრავალი ცნობილი კომპანია, მათ შორის Visa (V), Coca-Cola (KO), Boeing (BA), Ford (F) და PayPal (PYPL), ასევე გამოაქვეყნებს თავის შედეგებს. ეკონომიკურ ფრონტზე, ინვესტორები 10 საათზე ET-ზე მომხმარებელთა ნდობის განახლებას დააკვირდებიან.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "732241e3d170e976",
+      "title": "Houlihan Lokey Earnings: What To Look For From HLI",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVl1VmllOGdfMEc2SVA0WHFIXzVrNm1ZWUNlak52MU55dHV2cklWRDAxSkluR3VfUXEyc0Z3R3RtdWRxekpoTTVCazJxZWlxekdoWkowLS1vX1l5NDg0VjA1Z18zLU0yRmMtSDB2TmJYeWQ4UXFmR1VYaDJzNkxuZkNRRW5jYllqdE5xZ3JkN1JQRnBxTFU2SGx6cGdvZw?oc=5",
+      "publishedAt": "2026-07-28T08:21:02.000Z",
+      "titleKa": "Houlihan Lokey-ის შემოსავლები: რა უნდა ველოდოთ HLI-სგან",
+      "summaryKa": "Houlihan Lokey-ის შემოსავლების შესახებ ინფორმაცია მალე გახდება ცნობილი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "dc71ce0e8a7f62d4",
+      "title": "What To Expect From Vulcan Materials’s (VMC) Q2 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjYzSzU4V05rVU16NF9qWTJwVHZrVXFKdmxKNlI2dW1vVXpoQUYzTWQ5YzI2cHBPZVdlUGtfVUZIZ1hRejJvTXJZR2JWMGE0Yl9abTg1YjUyM0R1MTlFV2QtRTJ0Z292ZnhFZ0V0eEVxSm5DTWFER0ROTFYyYXA0MlI2QmxTT0h3czk4OERBWW1fVEszQkNSU21TZw?oc=5",
+      "publishedAt": "2026-07-28T08:13:02.000Z",
+      "titleKa": "რა უნდა ველოდოთ Vulcan Materials-ის (VMC) Q2 შემოსავლებისგან",
+      "summaryKa": "Vulcan Materials (VMC) Q2 შემოსავლების შესახებ ინფორმაცია მალე გახდება ცნობილი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6a9de883ccf99df1",
+      "title": "CBRE (CBRE) Reports Earnings Tomorrow: What To Expect",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSFJPU3pRMmxKM3hvM3JBQXhhbzcxVlJVUDNoSVIwNk0xR0dMckZoZXF1UF9NUTZFLW51Wk9hdGlEQXlrTkpTWXhINlF5QXR2MlI1TzlGRDVpaWNuRlUzdlpOY0FjN3hrZUZCNUtCSWlfYU1xWHFzZzh0Y1RRcDE5MHJ0LVRBSHZlYk1MZ1pobjJTLUlFRnVQSHRLYlM5a1JPUGc?oc=5",
+      "publishedAt": "2026-07-28T08:05:02.000Z",
+      "titleKa": "CBRE (CBRE) ხვალ გამოაქვეყნებს შემოსავლებს: რა უნდა ველოდოთ",
+      "summaryKa": "CBRE (CBRE) ხვალ გამოაქვეყნებს თავის შემოსავლებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3719423bb7646696",
+      "title": "Rush Street Interactive (RSI) Reports Earnings Tomorrow: What To Expect",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVBpT2NjSFQyQzhyelJxVDN2TzdMTERmTDdJNGludmNTNWpoRmNsN2tzXzdLdTNxb3V6Vmd2OVgtX19kbG9EMnZGYW5iRm1Wamo3bkpQTzg2UE9qNWhBaG9nelVTSE1IUnpzSU9yR0g1Mml5a0JyMng1d2xRV21zSDBkeGJ4MkJZcTFJVnQyNWhKS0F6NzRIU1FWNVJUVUozcnc?oc=5",
+      "publishedAt": "2026-07-28T07:57:02.000Z",
+      "titleKa": "Rush Street Interactive (RSI) ხვალ გამოაქვეყნებს შემოსავლებს: რა უნდა ველოდოთ",
+      "summaryKa": "Rush Street Interactive (RSI) ხვალ გამოაქვეყნებს თავის შემოსავლებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c1db11fb0b923b9f",
+      "title": "Moelis (MC) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTE5aR3lrUHVIcmg1eDhkdVF2UmpEUm8zMWNRNlUtU1d0SThsbjVfNlhWbXdmODhYMU93UHFGUHY5cVdIVmJZc1dBYXpIX1Vvd01DOXZXUVF3T0R2cHRZZlhwUWJDenBXazhXeDRKUWRjS2daU2l1blZtVEdya3pXUlNQMGRuNDRTeXFXX3VaUE5hbmJ3UFE4eXZicVU?oc=5",
+      "publishedAt": "2026-07-28T07:49:02.000Z",
+      "titleKa": "Moelis (MC) Q2-ის ანგარიშის შესახებ: ყველაფერი, რაც უნდა იცოდეთ შემოსავლების წინ",
+      "summaryKa": "Moelis (MC) Q2-ის ანგარიშის შესახებ ინფორმაცია მალე გახდება ცნობილი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6e2d2cc203d0f3eb",
+      "title": "Whipsawing Oil Prices Muddy Traders’ Outlook on Fed Meeting",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjZFTjF6d1lZa3RVNTlULVBrZkkyZjRITlF6YmgwOHNEV2E1MTVIelFJM05BR3VxYjBPTW5MMDd2THRRVHYtT1dDYmx4QVN5dHdVSVVFNU9ORTk3ZEFjVkg1WXV4QjI0cTc1dGJmQUw1bnljQ193dnNhU3pWQ1RqSVk2VzBjdEk0WnVOY2ZmSV9TSVNQY1F0Ykt5TFdDUmFGVHZYQTdKeVdtVXI3eVR3NzRn?oc=5",
+      "publishedAt": "2026-07-28T07:44:42.000Z",
+      "titleKa": "ნავთობის ფასების მერყეობა მუქარას ქმნის ვაჭრების მოლოდინებზე ფედერალური შეხვედრის მიმართ",
+      "summaryKa": "ნავთობის ფასების მერყეობა მუქარას ქმნის ვაჭრების მოლოდინებზე ფედერალური შეხვედრის მიმართ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "dc3000239423f8b0",
+      "title": "Chipotle (CMG) Q2 Earnings Report Preview: What To Look For",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUMzUDRxSjZHd1ppcFo2dk9tOGV1V2ZLamtzNkU2T3lWcDhPQ1c5b3I4TVJSOFdRazNKc05jNm5za0hMeDliUFJTT3doNUkzRWlWOHdRUm1vaXhOeVFicXJaeXg1UFNGa3c0NDJnSkZiRUY0LXdJXzRiSGRmVi1hTlhfRmZZX2EzTXhzajVwZ1FKN2poRHA2ME1rX0c?oc=5",
+      "publishedAt": "2026-07-28T07:41:02.000Z",
+      "titleKa": "Chipotle (CMG) Q2-ის შემოსავლების ანგარიშის წინასწარი მიმოხილვა: რა უნდა ველოდოთ",
+      "summaryKa": "Chipotle (CMG) Q2-ის შემოსავლების ანგარიში მალე გახდება ცნობილი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3488563eaaee6e32",
+      "title": "Bitcoin Weakens in Asia Trading as Fed Rate Decision Looms",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDZVdVJLcUlHZlNFYnNmUGV5cTVRZDVlZVZjbzZNZldYOWFOQ0FuVEhwcFpnQ1Y2d3lvbnhLQ1g0NjdYUlNvZWRiYTRyT1o3MmUzWVNhSjd4UWpnN3Q1SFRBdnRfWDNWb2VNYVlZLUJNQjBSZTdELVB2V282bmFBZkJsLVBXZ2lfMU5fTTM4ODd1UGx5amdabktlTEUyak1ZOV9IX05kVjIxNFJsLVE?oc=5",
+      "publishedAt": "2026-07-28T06:35:00.000Z",
+      "titleKa": "ბიტკოინი აზიურ ვაჭრობაში სუსტდება, რადგან ფედერალური რეზერვის საპროცენტო განაკვეთის გადაწყვეტილება ახლოვდება",
+      "summaryKa": "ბიტკოინი აზიურ ვაჭრობაში სუსტდება.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d2342b96c5edd6ea",
+      "title": "Dogecoin Ready to Soar 150%? Crypto Analyst Says a Breakout Above This 'Major Resistance' Can 'Clear the Way'",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVY5QV9aSndHWXpXN2NXUlNfd0R5NmtCMFBneXpHMDhVN1hJRm5BYlpmS0c1aVVmUFBZQWN5Q0JNeHFGZkdjRjlfVjU0cEdzdjV0NEVyaWRBV0RDSGJpZngtQzBmTk53RHVWR1c1RGE0Qk0wNVpKWXlCdk1BWVFGX0h6T0VsNllQMVVSREJZY3JTYVJhOHdYbFlZbw?oc=5",
+      "publishedAt": "2026-07-28T06:21:00.000Z",
+      "titleKa": "Dogecoin მზადაა 150%-ით გაიზარდოს? კრიპტო ანალიტიკოსი ამბობს, რომ 'მნიშვნელოვანი წინააღმდეგობის' გადალახვა 'გზას გაათავისუფლებს'",
+      "summaryKa": "კრიპტო ანალიტიკოსი აცხადებს, რომ Dogecoin-ის ზრდა შესაძლებელია.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "9cd3692479f97cbe",
       "title": "HD Hyundai Earnings Up In Q2; Shares Fall",
@@ -120,6 +247,17 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "73cf1117b85dc721",
+      "title": "Anthony Scaramucci Keeps ‘Fingers Crossed’ on Crypto Bill, But Reiterates Democrats Are Acting Out of Trump ‘Dislike’ Rather Than ‘Doing What’s Right'",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS29jeVFqOVF2dzEtLV9NaUMyM290cGJLempXbmdlN1JGcUUyNHhFVklLVFVOY1RkRFJkVzZseWFPNlV1Z2Jma2hzbnNLMEZ3bkhORGNMQ19pS2xaUWN0alJCYldJN1NRWTNIN3E3dl84blN6MklkaVY1bTV0VThlV29lUjlnNFcySGlkYXlldWV6QUx2bi03ck1ENFpZdUNfbjhieHpqWFc?oc=5",
+      "publishedAt": "2026-07-28T03:34:00.000Z",
+      "titleKa": "Anthony Scaramucci იმედოვნებს კრიპტო კანონპროექტზე, მაგრამ აღნიშნავს, რომ დემოკრატები მოქმედებენ ტრამპის 'არასიყვარულის' გამო",
+      "summaryKa": "Anthony Scaramucci აღნიშნავს, რომ დემოკრატები მოქმედებენ ტრამპის 'არასიყვარულის' გამო.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "b0e2b8e29bb08aa0",
       "title": "Morgan Stanley sees a troubling S&P 500 repeat",
       "source": "Yahoo Finance",
@@ -233,17 +371,6 @@
       "titleKa": "Q1 შემოსავლების მაქსიმუმები და მინიმუმები: რალფ ლორენი (NYSE:RL) და სხვა მომხმარებელთა არჩევითი - ტანსაცმლის და აქსესუარების აქციები",
       "summaryKa": "რალფ ლორენის და სხვა მომხმარებელთა არჩევითი აქციების Q1 შემოსავლების მიმოხილვა.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "3488563eaaee6e32",
-      "title": "Bitcoin Weakens in Asia Trading as Fed Rate Decision Looms",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDZVdVJLcUlHZlNFYnNmUGV5cTVRZDVlZVZjbzZNZldYOWFOQ0FuVEhwcFpnQ1Y2d3lvbnhLQ1g0NjdYUlNvZWRiYTRyT1o3MmUzWVNhSjd4UWpnN3Q1SFRBdnRfWDNWb2VNYVlZLUJNQjBSZTdELVB2V282bmFBZkJsLVBXZ2lfMU5fTTM4ODd1UGx5amdabktlTEUyak1ZOV9IX05kVjIxNFJsLVE?oc=5",
-      "publishedAt": "2026-07-28T01:20:00.000Z",
-      "titleKa": "ბიტკოინი აზიურ ვაჭრობაში სუსტდება, რადგან ფედერალური რეზერვის საპროცენტო განაკვეთის გადაწყვეტილება ახლოვდება",
-      "summaryKa": "ბიტკოინი აზიურ ვაჭრობაში სუსტდება.",
-      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -1307,17 +1434,6 @@
       "publishedAt": "2026-07-27T10:45:02.000Z",
       "titleKa": "Camden National Bank-ის მოგება: რას უნდა ველოდოთ CAC-ისგან",
       "summaryKa": "Camden National Bank-ის მოგება და მისი მოლოდინები განიხილება.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "6e2d2cc203d0f3eb",
-      "title": "Whipsawing Oil Prices Muddy Traders’ Outlook on Fed Meeting",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjZFTjF6d1lZa3RVNTlULVBrZkkyZjRITlF6YmgwOHNEV2E1MTVIelFJM05BR3VxYjBPTW5MMDd2THRRVHYtT1dDYmx4QVN5dHdVSVVFNU9ORTk3ZEFjVkg1WXV4QjI0cTc1dGJmQUw1bnljQ193dnNhU3pWQ1RqSVk2VzBjdEk0WnVOY2ZmSV9TSVNQY1F0Ykt5TFdDUmFGVHZYQTdKeVdtVXI3eVR3NzRn?oc=5",
-      "publishedAt": "2026-07-27T10:43:31.000Z",
-      "titleKa": "ნავთობის ფასების მერყეობა მუქარას ქმნის ვაჭრების მოლოდინებზე ფედერალური შეხვედრის მიმართ",
-      "summaryKa": "ნავთობის ფასების მერყეობა მუქარას ქმნის ვაჭრების მოლოდინებზე ფედერალური შეხვედრის მიმართ.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
