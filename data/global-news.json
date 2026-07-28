@@ -1,8 +1,118 @@
 {
-  "updatedAt": "2026-07-28T20:06:22.805Z",
+  "updatedAt": "2026-07-28T21:20:09.773Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "173225cc93351daf",
+      "title": "Crypto’s Clarity Act Faces Longer Odds Despite Industry’s Push",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT05vM281RVlaN1h0N2YtTUZFSXZEUXV3N090dE9UaUoyV3pFcTluSFJyZ0FCeFhCcVRTWllWX3V3eWxGMFBHdmJNSGFNQTQwd01nR0RacVlfdXZGQ01aY3RnalJEMjdKdml4MFpzNkxBQld5d2VBWTJ3dTdJOUoyeGxaZWVxUXMwbHNPN2pzSHpMNUxkWjdXZ3o3TmY2bGlDOFo5Z1dkbzZtTEM0VV84NTJjVm5ocGs?oc=5",
+      "publishedAt": "2026-07-28T21:00:01.000Z",
+      "titleKa": "კრიპტოს სისწრაფის აქტი უფრო დიდი სირთულეების წინაშე დგას ინდუსტრიის მხარდაჭერის მიუხედავად",
+      "summaryKa": "ინდუსტრია ცდილობს კრიპტოს სისწრაფის აქტის მიღებას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4d2ff8254a2b5cc3",
+      "title": "Nasdaq-100 is on the edge of correction territory as semiconductor stocks take another beating",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVkNFd2lWVnF2UmJKb290SkNHb0JfTEQ5NEZHb0VlTzFmd3htUkljN1ctTXY0VnhzWHhaeHlwZWhENTZRa21ha0hoNktlUXVXMFVXUGZhVnFYdDhZanRsN1duZlVSdWJfMUlCdl9Pb2hqWURnNTdrWXFuQ3VNWTZEajZOdFI1Y2N2NDZYeWpPRC13SzlKb1RGQU5MX29SMUNCQWpWcF80YWxxSFp2NHdHdG01R2EzR2p5OXVDd1g5UWR6cGNNVnFER21kdGhfRlFwX3Nj?oc=5",
+      "publishedAt": "2026-07-28T20:46:00.000Z",
+      "titleKa": "Nasdaq-100 კორექციის ზღვარზეა, რადგან ნახევარგამტარების აქციები კვლავ ეცემა",
+      "summaryKa": "Nasdaq-100 კორექციის ზღვარზეა ნახევარგამტარების აქციების ვარდნის გამო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6597745dc5f095b1",
+      "title": "Space stocks are falling hard — but SpaceX doesn’t deserve all of the blame",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUXctNF82Z2pCOTlmYlZxb3VvSlcxWW1MdmQ2Qmt5OHc3aG4yaWNEQ0Rfbjc4bGw4WDZJNUpsaTc3QmFxbklTYjluN1ktV0RBUmFNR2pmV0RkUjNnT3VqbGd1dTVTX0Rrc0o5SGRjWU15UUxXQXU0M1d6Z2gzWHhEQnJWMUkzdUlBb255RE8yU01CTW1QYW5ZZ09zRGl3LWxuSHQtRi1ydkt2V0ZoZXZxdV9HdE4wQQ?oc=5",
+      "publishedAt": "2026-07-28T20:43:00.000Z",
+      "titleKa": "კოსმოსური აქციები მკვეთრად ეცემა - თუმცა SpaceX-ის ბრალი არ არის მთლიანად",
+      "summaryKa": "კოსმოსური აქციები მკვეთრად ეცემა, მაგრამ SpaceX-ის ბრალი არ არის მთლიანად.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ebcc1b43eca51903",
+      "title": "Earnings To Watch: Watsco (WSO) Reports Q2 Results Tomorrow",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNUUwWU1EMXk1a21Ta25lWVdRRlh4OEFuQTl3RC1WVzgwYkZlSmVidnZvdUxDRm91M3FSX3RxSDR3cFoybU9IZ2wxTFFQOHJhZUFFcTBrZVJiQ05aejVORVFiWWlRdndERG5ET21YMzNpWWZWUWk5R05zd2tTU0lEaWlTbXRhU19VaDY4V21abUNhVGF5MlJCWEM0WEhMR2c?oc=5",
+      "publishedAt": "2026-07-28T20:37:02.000Z",
+      "titleKa": "შემოსავლები, რომლებიც უნდა ვნახოთ: Watsco (WSO) ხვალ Q2 შედეგებს გამოაქვეყნებს",
+      "summaryKa": "Watsco (WSO) ხვალ Q2 შედეგებს გამოაქვეყნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3977bd2164f91344",
+      "title": "The Degens are Winning in Oil ETFs",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOG9sOXBvX1dFcU9FSTBZcU1lOEhkLXR5SlRLeHlpN2NaOWdFcjhqLXZFU3g4Uk1iQlBtTTZiaDB5NkR3c04zSEVoc0JJWG95QXp4U283ZVNTR3VZX0dYQmFkSXlTQ1dpZG15UWZfQXNJbXE4bHl5YUlrY0JPSHZQNV9zMFhZaFZBV0lEaUs2dEE4RVZFcHRvUA?oc=5",
+      "publishedAt": "2026-07-28T20:32:41.000Z",
+      "titleKa": "Degens-ები Oil ETFs-ში იგებენ",
+      "summaryKa": "Degens-ები Oil ETFs-ში წარმატებას აღწევენ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "95a2e3f9bfc4a362",
+      "title": "Update: Dow Extends Advance Following Strong Earnings Reports",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFZEemRPLWRMTmwwZjJyRHg2WWRJbkxPaC1DRV9Ldjlzc2JWT25rR1pSRnlRTnlPVjdaUXN1WXEwTjhzbDBCOFptTlhlVXphYjRTYnk4WFZiZ05DQzNhTGctcG83MzJuSkhDMDYxUlhMUW04YnFNV2RLekZ5SnRDZWVlUFdhMUk1VWdXQVpyVmJDRWpQcDItb1FKREhKYXRFdzNZ?oc=5",
+      "publishedAt": "2026-07-28T20:32:02.000Z",
+      "titleKa": "განახლება: Dow-მა ზრდა გააგრძელა ძლიერი შემოსავლების ანგარიშების შემდეგ",
+      "summaryKa": "Dow-მა ზრდა გააგრძელა ძლიერი შემოსავლების ანგარიშების შემდეგ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "975040310623c896",
+      "title": "Renasant Corporation Announces Earnings for the Second Quarter of 2026",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVzcwRElMVFZtdHNNVEFOMFB5YXZyRVkzckNWNHRoSXh1NEh1R2gtR3FOQkVmRF9TQWVFblBicHZHYUt2eEhfS0ItaUxJYXNoMEZBeHhucUZ2cXd0MGdNUjZjVm9PY3I2bGsyaG80cmJBLVJ2RHZVY19zakxGQzlDcV90c2dWSUZGbFpwb1FTZ29BbE1FMDlsTmdwVmQ3aXBqaWItWXk3NV83TVZpWGUwbg?oc=5",
+      "publishedAt": "2026-07-28T20:31:00.000Z",
+      "titleKa": "Renasant Corporation-მა 2026 წლის მეორე კვარტლის შემოსავლები გამოაცხადა",
+      "summaryKa": "Renasant Corporation-მა 2026 წლის მეორე კვარტლის შემოსავლები გამოაცხადა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "97b8a3fb881d443b",
+      "title": "Mondelez’s (NASDAQ:MDLZ) Q2 CY2026 Sales Beat Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVDd5U0l2bHdBVXRvbzhiQ3YxN0ExdmI1Rms2c0dzRzJyem9CVTlRRG1LZXdIcGxod0IwY0xYN2VaU0Z3aE9YRnZIeFFza1RRTC0zczhCRTRCM2htdzJ3akRLM0JpMkdZRXVhbU5qQVMyRXl3QTBSRXFPaDd1Qkw1cnZFanNTM2FwcHJNQ194dzRuZ2Ryb05BREVyTQ?oc=5",
+      "publishedAt": "2026-07-28T20:17:43.000Z",
+      "titleKa": "Mondelez-ის (NASDAQ:MDLZ) Q2 CY2026 გაყიდვები პროგნოზებს გადააჭარბებს",
+      "summaryKa": "Mondelez-ის Q2 CY2026 გაყიდვები პროგნოზებს გადააჭარბებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "db427f9821eb65e7",
+      "title": "Saudi Arabia has a new, and pricier, workaround to export its oil",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORWZMZ0w4aTh1X3BtaGJ4NnNvQk1KVENyV2hzNEZ6MU9qSERvLUhzQ2JGZlhMbTk2TG1zWG1FV3haUk53UEhTT0t2VjB3dllxUlItRXNiR0E5Z1BiZEo5MzN5MzB5MVdoM29NZE43RTd2WmFHUHZOb3RlRUZ4SEJ3dmNvczltVVd4YlhMNXBsQi1ybnBYZVdobHNodl8tUGUyM2Z2cllVbW1sQQ?oc=5",
+      "publishedAt": "2026-07-28T20:12:00.000Z",
+      "titleKa": "საუდის არაბეთს ახალი და უფრო ძვირი გამოსავალი აქვს თავისი ნავთობის ექსპორტისთვის",
+      "summaryKa": "საუდის არაბეთს ახალი და უფრო ძვირი გამოსავალი აქვს თავისი ნავთობის ექსპორტისთვის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "aa85273e6a47cea6",
+      "title": "Ford Raises Earnings Outlook on Strong Sales of Profit-Rich SUVs",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNktPb0F6V1lNOE9COFZwazZZVGtFRVhxSjRQOHREU3VNWmtLZy1BcVJiWmFzTF9LdG5Kd0lRZmxYV2xxTGpFc0pCR2k2dEx4anNPVlcwRncwTEpPeEllOHlGaXI1Z3VQYkJneUZhcFVqYlNFYWJOODkxUHk5Nmxhakt5ZWdZNzVtbGlFNDRabFBWVVRmOFRzMmZ4MVVZeFVBcllFRnJMQXNpNWo3YUJCb1g5Q05tZw?oc=5",
+      "publishedAt": "2026-07-28T20:08:44.000Z",
+      "titleKa": "Ford-მა შემოსავლების პროგნოზი გაზარდა მომგებიანი SUV-ების ძლიერი გაყიდვების გამო",
+      "summaryKa": "Ford-მა შემოსავლების პროგნოზი გაზარდა SUV-ების ძლიერი გაყიდვების გამო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "65a6fa0f0dd1218b",
       "title": "Australia Doesn’t Need a White Elephant Oil Refinery",
