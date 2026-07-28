@@ -1,8 +1,118 @@
 {
-  "updatedAt": "2026-07-28T21:20:09.773Z",
+  "updatedAt": "2026-07-28T22:30:56.439Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "9e8f5b85426cd248",
+      "title": "Oil Holds Three-Day Drop as Tensions in the Middle East Cool",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd01nRzZiajFieWd0QVZDQmNnbE9Za1Eyb0Fodm5LeUVzSzBxYU9sdTdkeVNPbFEwNTB1TUdaM0pURVUxN2tsS0dqLTlTdUhOLXMzZTVYSVhZSHJBWlZ5eXoyT003c3NjU3VWMk91eXdxcFAwOW5TRjc4WkpxVy1nalUzSC1PTXltQ1lRMlZ2QVBpenpuWWNaUVRMUEJRNnc?oc=5",
+      "publishedAt": "2026-07-28T22:01:33.000Z",
+      "titleKa": "ნავთობი სამი დღის ვარდნას ინარჩუნებს, რადგან ახლო აღმოსავლეთში დაძაბულობა მცირდება",
+      "summaryKa": "ნავთობის ფასები სამი დღის განმავლობაში ვარდნას ინარჩუნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9b80688e09cea3f3",
+      "title": "Markets brace for Fed decision and Big Tech earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOGRITWtmSE1KMUU1TkhGYXE2MjBwRHFES08waHEwV05wX3JhczdZWDZybHJFNl9EZ3NjNUo5RllqdkFQUUlqWkhLS1lKZ1RmZDhhQkQ2TmJEN1FJV0tHVzVDWTBkemgzM2NjM3B1MXlzNmpyT1RFWGZNWk52a2c4RkIycw?oc=5",
+      "publishedAt": "2026-07-28T22:00:00.000Z",
+      "titleKa": "ბაზრები ფედერალური რეზერვის გადაწყვეტილებასა და დიდი ტექნოლოგიური კომპანიების შემოსავლებს ელოდებიან",
+      "summaryKa": "ბაზრები ელოდებიან ფედერალური რეზერვის გადაწყვეტილებას და დიდი ტექნოლოგიური კომპანიების შემოსავლების ანგარიშებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "17d416c8616db471",
+      "title": "UFP Industries (UFPI) Q2 Earnings Report Preview: What To Look For",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2RybEJUaEdPZGYtZWNHT2lHblVUOXVxM0RrV0V3SllhUG1ZVjQybGxMOEhhcEhkTVdfWFU4bkFTN1NFUEpfR1JLR2V4eUdkVFdzem1nV0NBY2huVFdjUGt3aFNYa1c4UlZYRGdtZThSckhHTVZ6UnUzbjYySC1fWmE2RVhhWlZzVF9aLXo2bWM5eUZXTnljMExyM2Y?oc=5",
+      "publishedAt": "2026-07-28T21:57:02.000Z",
+      "titleKa": "UFP Industries (UFPI) Q2 შემოსავლების ანგარიშის წინასწარი მიმოხილვა: რისი მოლოდინი უნდა გვქონდეს",
+      "summaryKa": "UFP Industries-ის Q2 შემოსავლების ანგარიშის წინასწარი მიმოხილვა მიმდინარეობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "24c958943daab34c",
+      "title": "Militias in Iraq Attack Saudi Oil Facilities for a Second Day",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWklaVU5Oa0VGT0JRNkQ4RU5RWVV6cS1rdG81LWJKeXFoSWxVQ1FLSmZHTzFlbUFNbzVJQ19SbnlSXzY1QlRpZlB4SVhka0d6TkJMWmloWDhiVVlDMnI0Sk9RTjV4VzYxOFp0Um1HMk1xeXNUdzN0NU1yLXBMYzlsekxQc0ZtZG9XUUEwYmE1d2kzTUE4LWFlcVRnU3dZRlpxM0xJU2xNSURuYUg5OEZDMTdhWnlKMmg1aTBZYnZB?oc=5",
+      "publishedAt": "2026-07-28T21:51:31.000Z",
+      "titleKa": "მილიციები ერაყში საუდის არაბეთის ნავთობის ობიექტებზე მეორე დღესაც თავდასხმას ახორციელებენ",
+      "summaryKa": "ერაყში მილიციები საუდის არაბეთის ნავთობის ობიექტებზე თავდასხმას მეორე დღესაც ახორციელებენ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c7c2d09123044dad",
+      "title": "Investors Bail on Chipmakers Ahead of Earnings Week",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUdaTDZ6R1lIRFpSczJiVWhQT1dCUHJVZDB0UnUydllrbFdyMFpraWk3TU1acHNQM0VaZXc5OVEzbXduY0EwYy1GMlZaVV8tTVYwb0VDa0hkODN6YUI4RC1hOXlpTWt6LUM3TlJ1bk5GaG5NVDdOUUlleVRUZjZieE95WHMzYkF6QmdZeFZUTHVDNHd1UFZoNW9SdWJJUk5qTmJTS1VNUGs?oc=5",
+      "publishedAt": "2026-07-28T21:40:04.000Z",
+      "titleKa": "მომხმარებლები ჩიპების მწარმოებლებს ტოვებენ შემოსავლების კვირის წინ",
+      "summaryKa": "მომხმარებლები ჩიპების მწარმოებლებს ტოვებენ შემოსავლების კვირის წინ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5109d879e2a7c203",
+      "title": "Exxon Mobil's Next Earnings Report on July 31 Could Send the Stock Soaring. Here's Why.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc2R6bXNuM0thbDFFZTJWLUFzNzdoV20wSXRlNnYzVXlydXM2LVh4b2RKMWMtRThSTXdFZ29LcDlBYnNvTnpEeWhIdmVHU2VBSFJfeEl2MjhrNFh2c242VXJpUTA5VllXOXpURHlDaWs2S0pleFZDNnFReHBldldqUjlZODB0eF9HLVJQZUo1Njd1Mk1kazlpc3pmT3RfRjA?oc=5",
+      "publishedAt": "2026-07-28T21:35:01.000Z",
+      "titleKa": "Exxon Mobil-ის მომავალი შემოსავლების ანგარიში 31 ივლისს შეიძლება აქციების ზრდას გამოიწვიოს. აი რატომ.",
+      "summaryKa": "Exxon Mobil-ის მომავალი შემოსავლების ანგარიში 31 ივლისს უნდა გამოქვეყნდეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2ee0663cc323c975",
+      "title": "First Busey (NASDAQ:BUSE) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0NlY3d4akZsQ1V2XzNYeThtQUhsajBZNENnaVNDN2xLRm5wdjhSQnRiZjJrdlJsdWxwWDNJTDJlaXNBaTNqaWZQYXJSbklTb3VvNURtWjhpNnAtSjExaWgtb2RXd0JwN0V0SElLU2FndTc4dGRvNm56TW90MkQ4S091NU5vX0NValFkdlRmZURoR2NYemlxWDYxTWw?oc=5",
+      "publishedAt": "2026-07-28T21:33:34.000Z",
+      "titleKa": "First Busey (NASDAQ:BUSE) Q2-ში გაყიდვები ანალიტიკოსების პროგნოზებს ქვემოთ დარჩა",
+      "summaryKa": "First Busey-ის Q2 გაყიდვები ანალიტიკოსების პროგნოზებს ქვემოთ დარჩა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c4e86c01ef0c5fe3",
+      "title": "Acadia Healthcare (NASDAQ:ACHC) Posts Better-Than-Expected Sales In Q2 CY2026",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUVNtdTdGTTU2U0tGbVBjVzZHOXFaTVgwZzBWQlBQaVhoVXZTa0RTS05Pc09ORUg1WkZOOU1sOEN3WGhxWUIwOWFXdGFocUt6QnBiNHAwaXozR2t2U0h3ZVZqa0dQNXZDcThHeHF5b1RZX0RvbEFBSFk4ZXBUN2gxZlNhdVVCU2hhdjhmeXVOQkJYN0hKVXpIMTg2QlFpcGlhZmc?oc=5",
+      "publishedAt": "2026-07-28T21:33:22.000Z",
+      "titleKa": "Acadia Healthcare (NASDAQ:ACHC) Q2-ში უკეთესი გაყიდვები გამოაქვეყნა, ვიდრე მოსალოდნელი იყო",
+      "summaryKa": "Acadia Healthcare-ის Q2 გაყიდვები უკეთესი აღმოჩნდა, ვიდრე მოსალოდნელი იყო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f17d928ac232b31a",
+      "title": "Hexcel (HXL) To Report Earnings Tomorrow: Here Is What To Expect",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3dyZUxPa3QwOXc0NmcwSVlyRW5MdEFvekVTLUR1YTFZaHJLVFVqcVZiMGRRZzFXQ3BpaUpBamVQc0d1SmpVNEhBa0FqMFVvWm1CajBQaHpwbFRMX2ZsX3BTbTh1QTlwMV9STE5kYnZlX2NZTFNCQUJYdHhZNVhpd3FWVTNpQUFRS1NyemJQOU5KREhDcGJScnU5UV9UVFp1MGc?oc=5",
+      "publishedAt": "2026-07-28T21:33:02.000Z",
+      "titleKa": "Hexcel (HXL) ხვალ შემოსავლების ანგარიშს გამოაქვეყნებს: აი რას უნდა ველოდოთ",
+      "summaryKa": "Hexcel ხვალ შემოსავლების ანგარიშს გამოაქვეყნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4f0dc3ae312bdff5",
+      "title": "Losses From Crypto Hacks Topped $1 Billion In Year’s First Half",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzZfal9aTU9BamhzRF8tamVSRGxEdXkzYThTdXdkR09rZEFndzU4dzd1a2RFWHVXWi1ibFl1Q0FSLUVPekFkLXRKWVR2Y1dyVFAwR0VPbml5NDNxQzdxWUctVkIyakFSeG9PeGRrMExIWWVCZUwyT2RLTm5ZVjJ5X2swbHRPRTZxWXFlZU9HZkFGODh6YjllOA?oc=5",
+      "publishedAt": "2026-07-28T21:18:00.000Z",
+      "titleKa": "კრიპტო ჰაკებისგან ზარალი წლის პირველ ნახევარში 1 მილიარდ დოლარს გადააჭარბა",
+      "summaryKa": "კრიპტო ჰაკებისგან ზარალი წლის პირველ ნახევარში 1 მილიარდ დოლარს გადააჭარბა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "173225cc93351daf",
       "title": "Crypto’s Clarity Act Faces Longer Odds Despite Industry’s Push",
@@ -89,6 +199,17 @@
       "titleKa": "Mondelez-ის (NASDAQ:MDLZ) Q2 CY2026 გაყიდვები პროგნოზებს გადააჭარბებს",
       "summaryKa": "Mondelez-ის Q2 CY2026 გაყიდვები პროგნოზებს გადააჭარბებს.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "63e4251946a6d732",
+      "title": "Coinbase (COIN) Ties AI To Crypto And Warns China Is Pulling Ahead",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOWJqaXRxMjNablBNV1g1WHhuam1fakdDb29LZGZ2NnVqalZYbldQZGc4NkJVVERTUHlHcEFvZWl3NnlsSndMbUNaeG5EVFpOemtkOU9kaGN4RHNJM3dndWFmT193aGE5eTM3TWwwX2RoTnpfMV9OUnlaTlAxVzdYOWk3aFp0RTBRWWw4YzFqcTFJOEpURVM3aw?oc=5",
+      "publishedAt": "2026-07-28T20:12:11.000Z",
+      "titleKa": "Coinbase (COIN) AI-ს კრიპტოს უკავშირებს და აფრთხილებს, რომ ჩინეთი წინ მიიწევს",
+      "summaryKa": "Coinbase AI-ს კრიპტოს უკავშირებს და აფრთხილებს, რომ ჩინეთი წინ მიიწევს.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
