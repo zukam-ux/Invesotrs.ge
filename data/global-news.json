@@ -1,8 +1,91 @@
 {
-  "updatedAt": "2026-07-28T22:30:56.439Z",
+  "updatedAt": "2026-07-28T23:38:05.286Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "bb447b8dd05ba8aa",
+      "title": "Rio Profit Rises, Data Center Fight, RBA Eyes Inflation",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemdIU193NTlZTlMycERrNV8zMDU1MjZ2T09FOVFhMU50THdwSEJzd3kxOXBLT2s5ZlJRRVZXdW5namFSSlF0bDVMakhLdVRJZ1UyRHM2bGJWdHBuM2JsX1pQNUFRTkxta3IzcFd3cUM2Wm5zXzZFYkdJZ2tzeHkzWXFpcEZIYXRPLXhWN2x5TTNhY3J3U19XWDdoRzNYRVZrZXhR?oc=5",
+      "publishedAt": "2026-07-28T23:20:47.000Z",
+      "titleKa": "რიოს მოგება იზრდება, მონაცემთა ცენტრის ბრძოლა, RBA ინფლაციას აკვირდება",
+      "summaryKa": "რიოს მოგება იზრდება, ხოლო RBA ინფლაციის მიმართ ყურადღებით არის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-28/rio-profit-data-center-fight-rba-eyes-inflation",
+      "bodyKa": "## რიოს მოგება იზრდება\n\n2026 წლის 28 ივლისს, რიოს (RIO:LN) მოგება გაიზარდა, რაც დადებითად აისახა კომპანიის ფინანსურ შედეგებზე. ეს ზრდა მიუთითებს იმაზე, რომ კომპანია წარმატებით ახორციელებს თავის ბიზნეს სტრატეგიას და ახერხებს კონკურენციის პირობებში პოზიციების გაძლიერებას.\n\n## მონაცემთა ცენტრის ბრძოლა\n\nამ დროისთვის, მონაცემთა ცენტრების ბაზარზე კონკურენცია მკვეთრად გაიზარდა. კომპანიები, რომლებიც ამ სექტორში ოპერირებენ, ცდილობენ მიაწვდონ უფრო მაღალი ხარისხის სერვისები და ტექნოლოგიები, რაც მომხმარებელთა მოთხოვნებს აკმაყოფილებს. რიო, როგორც ერთ-ერთი წამყვანი მოთამაშე, აქტიურად მონაწილეობს ამ პროცესში, რაც მის ფინანსურ შედეგებზე დადებითად აისახება.\n\n## RBA ინფლაციას აკვირდება\n\nავსტრალიის ცენტრალური ბანკი (RBA) ყურადღებით აკვირდება ინფლაციის დონეს ქვეყანაში. ინფლაციის ზრდა შეიძლება გავლენა მოახდინოს ეკონომიკურ პოლიტიკაზე და ფინანსურ ბაზრებზე. RBA-ს მიზანია, რომ ინფლაციის კონტროლი მოახდინოს, რაც მნიშვნელოვანია ქვეყნის ეკონომიკური სტაბილურობისთვის.\n\n## დასკვნა\n\nრიოს წარმატება და მონაცემთა ცენტრების ბაზარზე კონკურენცია, ასევე RBA-ს ყურადღება ინფლაციის მიმართ, ქმნის საინტერესო ვითარებას ფინანსურ ბაზრებზე. კომპანიების მიერ განხორციელებული ინიციატივები და სტრატეგიები, რომლებიც მიმართულია ბაზრის მოთხოვნების დაკმაყოფილებისკენ, შესაძლოა მომავალში კიდევ უფრო გააძლიეროს მათი პოზიციები.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "19e46ab9743bf0ac",
+      "title": "3 Out-of-Favor Stocks That Fall Short",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNazRxSGF4T1RkbXphR0ROaHp1emZqakhxd1c1WXFuMm1tQUxzanZ3anJ6LUlrM0l4U3UwSjFOWC1hcGl5dElVYkYzU09RT0RGaUY1U3czU19pNXVpQ1FHd1ZUZmxYT2FhVXNwc2F1VTVFa2pXV0FGdEJQWW84TmlVdDg1NGprTTRTV3llVDZnVzc0bGJX?oc=5",
+      "publishedAt": "2026-07-28T23:17:02.000Z",
+      "titleKa": "3 არაპოპულარული აქცია, რომლებიც არ აკმაყოფილებს მოლოდინებს",
+      "summaryKa": "არსებობს სამი აქცია, რომლებიც არ აკმაყოფილებს მოლოდინებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/3-favor-stocks-fall-short-231702139.html",
+      "bodyKa": "## 3 არაპოპულარული აქცია, რომლებიც არ აკმაყოფილებს მოლოდინებს\n\nბოლო 12 თვის განმავლობაში, სამი აქცია მნიშვნელოვნად დაეცა და ახლა ინვესტორები უნდა გადაწყვიტონ, არის თუ არა ეს ფასდაკლებები თუ უბრალოდ ცუდი ინვესტიცია. \n\n## Shutterstock (NYSE:SSTK)\n\nShutterstock, რომელიც თავდაპირველად დაარსდა ჯონ ორლინგერის ფოტოებით, ახლა ციფრული პლატფორმაა, სადაც მომხმარებლები შეუძლიათ ლიცენზირება და გამოიყენონ ასობით მილიონი კონტენტი. თუმცა, კომპანიის შემოსავალი საშუალოდ 87.9%-ით შემცირდა წელიწადში, რაც მიუთითებს, რომ მონეტიზაციის პროცესში პრობლემები არსებობს. \n\nმომავალი 12 თვის განმავლობაში, გაყიდვები სავარაუდოდ გაჩერდება, რაც ნიშნავს, რომ მოთხოვნა შემცირდება. ბოლო სამი წლის განმავლობაში, კომპანიის მოგება თითო აქციაზე 31.2%-ით შემცირდა, რაც მიუთითებს, რომ მისი ზრდა ნაკლებად მომგებიანი იყო. \n\nShutterstock-ის აქციის ფასი 5.94 დოლარია, რაც 0.4x-ის ფასის მიმართების მაჩვენებელს აჩვენებს.\n\n## Celsius (NASDAQ:CELH)\n\nCelsius, რომელიც იყენებს თავის მფლობელურ MetaPlus ფორმულას, აწვდავს ენერგეტიკულ სასმელებს, რომლებიც შეიცავს ბუნებრივ ინგრედიენტებს და მიზნად ისახავს ფიტნესისა და წონის მართვას. თუმცა, კომპანიის ხარჯები გაიზარდა, რაც გამოიხატება ოპერაციული მარჟის 1.7%-ით შემცირებაში. \n\nთავისუფალი ფულადი ნაკადის მარჟა 5.6%-ით შემცირდა, რაც მიუთითებს, რომ კომპანიას აქვს სირთულეები მომგებიანი ზრდის შესაძლებლობების მოძიებაში. Celsius-ის აქციის ფასი 28.82 დოლარია, რაც 16.5x-ის ფასის მიმართების მაჩვენებელს აჩვენებს.\n\n## Kroger (NYSE:KR)\n\nKroger, რომელიც ოპერირებს 2,400-ზე მეტ ადგილას და აწვდავს ციფრულ შეკვეთების მომსახურებას, აწვდავს სუპერმარკეტებს, აფთიაქებს და საწვავის ცენტრებს 35 შტატში. კომპანიის მენეჯმენტი კონსერვატიულად უდგება ახალ მაღაზიების დამატებას, რაც მიუთითებს, რომ ისინი ცდილობენ გააუმჯობესონ არსებული ადგილების შესრულება. \n\nთუმცა, კონკურენცია და ფართოდ ხელმისაწვდომი პროდუქტები ქმნიან 23.9%-იან დაბალ bruto მარჟას, რაც უნდა იყოს კომპენსირებული უფრო მაღალი გაყიდვების საშუალებით. ბოლო სამი წლის განმავლობაში, კომპანიის მოგება თითო აქციაზე 20.9%-ით შემცირდა. Kroger-ის აქციის ფასი 58.04 დოლარია, რაც 10.8x-ის ფასის მიმართების მაჩვენებელს აჩვენებს.\n\nამ სამი კომპანიის ფინანსური მდგომარეობა მიუთითებს, რომ ისინი სერიოზულ გამოწვევებთან არიან გამკლავებაში, რაც ინვესტორებს მოუწოდებს ყურადღებით შეაფასონ მათი პოტენციალი.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "9528a5aedc02cee2",
+      "title": "2 Value Stocks to Target This Week and 1 We Brush Off",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmZHUE42dnNiSXU0b3I3MVN2VkxCUU5VS1BwMkFNLVRmQnMzc2xYbFViaGxBYUlfekRfaU5Yb0N2UVF6V2ZBc2JxTVNHeUtJWW5GU1lCeDE1bF9JcS1IcFZqN2lvQTFhUEJYWHpqQmc0VU9qLVd3LXF2RkZxZzlFaGVzYkFvaG5Ld3hPMTZCYVkxeXY1dGc?oc=5",
+      "publishedAt": "2026-07-28T23:09:02.000Z",
+      "titleKa": "2 ღირებულების აქცია, რომლებსაც ამ კვირაში უნდა მივაქციოთ ყურადღება და 1, რომელსაც ვუღალატებთ",
+      "summaryKa": "ამ კვირაში ორი ღირებულების აქციაა, რომლებსაც ყურადღება უნდა მიექცეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e509dd9d8e6e0227",
+      "title": "3 Financials Stocks on Our Watchlist",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSEtZZU1hbHRUckhOZXczT0xzYUc5WVBoZW9PdGRSd2RTMWZTczJlVDRvS2M1VGxCRmdHSDV5bTVJUWkwYXdPUkhWRGtFRWlRZHpIUkhWdk5Cei15Y0RQMzZqZFIyY3VKVmNlbGdrbHU4RWxhN3F2QnpvSzJ0Rzgwb3QwR1pwOUpFN3FpeC1RVWJ6VGRzOHY5dHlR?oc=5",
+      "publishedAt": "2026-07-28T23:01:02.000Z",
+      "titleKa": "3 ფინანსური აქცია ჩვენს დაკვირვების სიაში",
+      "summaryKa": "ჩვენი დაკვირვების სიაში სამი ფინანსური აქციაა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f3a73ad74230fdb2",
+      "title": "Burnham Faces £24 Billion Squeeze From UK Inflation, NIESR Says",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNk42V19KUWVoR0tXdVVWcHM4TjUxbHQ5RUJyOFRkUjJ5U2ozUHZiQWZLWXFJQ2t0VEhEWlloQnFsSVN3aFVlWDdwY19KaThMYUdhald3V0lmbVJIdVRGMm9GUm5MOVVlRWVXQjMzOFRWUlFIMXNibFE5SGdHOTFZS01oT0RWZE1lNVhsV2ZIT1NCVHBDTDYyNkViOHo3ZTZWa3hkaENSblJTMnF4Y2h4U01B?oc=5",
+      "publishedAt": "2026-07-28T23:01:00.000Z",
+      "titleKa": "ბერნჰემი £24 მილიარდის ზეწოლის წინაშე დგას ბრიტანეთის ინფლაციის გამო, NIESR ამბობს",
+      "summaryKa": "ბერნჰემი £24 მილიარდის ზეწოლის წინაშე დგას ბრიტანეთის ინფლაციის გამო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d22f8066a30d290a",
+      "title": "3 Financials Stocks Worth Investigating",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEdqX2FNdW1oU1BpVGdsOTltWjlhdXB0b2tUQ3ZoZzlVNlA3YUdlbzA4NnF1a29XajFvQzZSMFROcG1LdWs2RERqTmlDVTZNbVFtcTB2TU56S3dCY25lT1N4akIwdnNock4yNHJOaU9URkVob3RBSmtCMVlhTkVQWkdkek5hU2F2SjdFa0t1ckdJdFNLVndGVEd1YXdCTk9oQVVRdzR6SQ?oc=5",
+      "publishedAt": "2026-07-28T22:45:02.000Z",
+      "titleKa": "3 ფინანსური აქცია, რომლებიც შესასწავლად ღირს",
+      "summaryKa": "არსებობს სამი ფინანსური აქცია, რომლებიც შესასწავლად ღირს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c7c2d09123044dad",
+      "title": "Investors Bail on Chipmakers Ahead of Earnings Week",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUdaTDZ6R1lIRFpSczJiVWhQT1dCUHJVZDB0UnUydllrbFdyMFpraWk3TU1acHNQM0VaZXc5OVEzbXduY0EwYy1GMlZaVV8tTVYwb0VDa0hkODN6YUI4RC1hOXlpTWt6LUM3TlJ1bk5GaG5NVDdOUUlleVRUZjZieE95WHMzYkF6QmdZeFZUTHVDNHd1UFZoNW9SdWJJUk5qTmJTS1VNUGs?oc=5",
+      "publishedAt": "2026-07-28T22:02:05.000Z",
+      "titleKa": "მომხმარებლები ჩიპების მწარმოებლებს ტოვებენ შემოსავლების კვირის წინ",
+      "summaryKa": "მომხმარებლები ჩიპების მწარმოებლებს ტოვებენ შემოსავლების კვირის წინ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "9e8f5b85426cd248",
       "title": "Oil Holds Three-Day Drop as Tensions in the Middle East Cool",
@@ -11,6 +94,17 @@
       "publishedAt": "2026-07-28T22:01:33.000Z",
       "titleKa": "ნავთობი სამი დღის ვარდნას ინარჩუნებს, რადგან ახლო აღმოსავლეთში დაძაბულობა მცირდება",
       "summaryKa": "ნავთობის ფასები სამი დღის განმავლობაში ვარდნას ინარჩუნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ecf8cc927d0c8fd9",
+      "title": "Western New England Bancorp (WNEB) Q2 Earnings Miss Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHd2NlpsbHppakZQb3pqa1YtamZFdE91ZzlPeS1BTlc5LWVHOVo1LUdsT1dfYUxJMDZRVk9RM0YtaFlBZV93YVR5elc5MVJkZ0ZZNzk2N2dHS3ZINGtNMXBsYVZiQ29DNEFvcWRsR3hLV3VpV0JCRVAxcE01OUs3dVMzOE41RzM4cUtZZzd4OUMzV21UY0w3UDdvTE8?oc=5",
+      "publishedAt": "2026-07-28T22:00:15.000Z",
+      "titleKa": "Western New England Bancorp (WNEB) Q2 მოგება მოლოდინებს ვერ აკმაყოფილებს",
+      "summaryKa": "Western New England Bancorp (WNEB) Q2 მოგება მოლოდინებს ვერ აკმაყოფილებს.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -44,17 +138,6 @@
       "publishedAt": "2026-07-28T21:51:31.000Z",
       "titleKa": "მილიციები ერაყში საუდის არაბეთის ნავთობის ობიექტებზე მეორე დღესაც თავდასხმას ახორციელებენ",
       "summaryKa": "ერაყში მილიციები საუდის არაბეთის ნავთობის ობიექტებზე თავდასხმას მეორე დღესაც ახორციელებენ.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "c7c2d09123044dad",
-      "title": "Investors Bail on Chipmakers Ahead of Earnings Week",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUdaTDZ6R1lIRFpSczJiVWhQT1dCUHJVZDB0UnUydllrbFdyMFpraWk3TU1acHNQM0VaZXc5OVEzbXduY0EwYy1GMlZaVV8tTVYwb0VDa0hkODN6YUI4RC1hOXlpTWt6LUM3TlJ1bk5GaG5NVDdOUUlleVRUZjZieE95WHMzYkF6QmdZeFZUTHVDNHd1UFZoNW9SdWJJUk5qTmJTS1VNUGs?oc=5",
-      "publishedAt": "2026-07-28T21:40:04.000Z",
-      "titleKa": "მომხმარებლები ჩიპების მწარმოებლებს ტოვებენ შემოსავლების კვირის წინ",
-      "summaryKa": "მომხმარებლები ჩიპების მწარმოებლებს ტოვებენ შემოსავლების კვირის წინ.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
