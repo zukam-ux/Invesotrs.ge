@@ -1,8 +1,135 @@
 {
-  "updatedAt": "2026-07-29T15:31:30.616Z",
+  "updatedAt": "2026-07-29T16:51:21.004Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "aedf213c87854943",
+      "title": "Bonds Are Bearing the Cost of AI Boom That Has Yet to Bust",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFhJQ2FHbEFYb0xPd1kwaEwyYnJMb19yYzhvWkpJUE03VVBOR093dHdCM3VYMzFIQ2FZamNOZnotbDJTVGIzNFlnTGl0RVc4UERkREpLcEYyamhTSVpKdGRPR0NYdWhfREZtNXlaV2NVUl80R0JWMEdmVDA1WlFSOTBObXhTUkxRR2dTVmpfLVhVTWdOQ3dzWGZERzBLSFdUMDNxTzc1SmpROG9wcHc1VVkycw?oc=5",
+      "publishedAt": "2026-07-29T16:40:55.000Z",
+      "titleKa": "ბონდები იმედოვნებენ, რომ ხელოვნური ინტელექტის ბუმი მალე დასრულდება",
+      "summaryKa": "ბონდები იმყოფებიან ხელოვნური ინტელექტის ბუმის გავლენის ქვეშ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-29/bonds-are-bearing-the-cost-of-ai-boom-that-has-yet-to-burst",
+      "bodyKa": "## ხელოვნური ინტელექტის ბუმი და მისი გავლენა ბონდებზე\n\nბონდების ბაზარი განიცდის ხელოვნური ინტელექტის (AI) ბუმის გავლენას, რომელიც ჯერ კიდევ არ დასრულებულა. მიუხედავად იმისა, რომ ტექნოლოგიური ინოვაციები და AI-ის განვითარება აჩქარებს ბაზრის ზრდას, ეს პროცესები ასევე ქმნის გამოწვევებს ბონდების ინვესტორებისთვის.\n\n## ბონდების ბაზრის მდგომარეობა\n\nბონდების ფასები და მათი შემოსავლიანობა პირდაპირ დამოკიდებულია ეკონომიკურ გარემოზე, რომელიც AI-ის განვითარებით იცვლება. AI-ის ტექნოლოგიების სწრაფი გაწვდვა და მათი ინტეგრაცია ბიზნეს პროცესებში, შესაძლოა, გამოიწვიოს ეკონომიკური ზრდა, თუმცა ეს ზრდა ასევე მოითხოვს ფინანსური რესურსების უფრო დიდ ხარჯვას, რაც შეიძლება გავლენა მოახდინოს ბონდების ფასებზე.\n\n## ინვესტორების რეაქცია\n\nბონდების ინვესტორები ახლა უფრო მეტად ყურადღებით აკვირდებიან AI-ის განვითარებას და მის გავლენას ბაზარზე. ისინი ცდილობენ გააანალიზონ, როგორ შეიძლება AI-ის ტექნოლოგიების გამოყენება და მათი ეფექტი ფინანსურ ინსტრუმენტებზე, რაც მათ საშუალებას აძლევს მიიღონ უკეთესი გადაწყვეტილებები.\n\n## მომავალი პერსპექტივები\n\nმიუხედავად იმისა, რომ AI-ის ბუმი ჯერ კიდევ აქტიურია, ინვესტორები უნდა იყვნენ მზად სხვადასხვა სცენარებისათვის. თუ AI-ის ბაზარი არ გაწვდება, ეს შეიძლება გამოიწვიოს ბონდების ფასების ვარდნა და შემოსავლიანობის ზრდა. თუმცა, თუ AI-ის ტექნოლოგიები წარმატებით გააგრძელებენ განვითარებას, ეს შეიძლება დადებითად იმოქმედოს ეკონომიკაზე და, შესაბამისად, ბონდების ბაზარზე.\n\n## დასკვნა\n\nბონდების ბაზარი იმყოფება ხელოვნური ინტელექტის ბუმის გავლენის ქვეშ, რაც ქმნის როგორც შესაძლებლობებს, ისე გამოწვევებს ინვესტორებისთვის. მნიშვნელოვანია, რომ ინვესტორებმა ყურადღებით დააკვირდნენ ამ პროცესებს და იყვნენ მზად სწრაფად რეაგირებისთვის, რათა მაქსიმალურად გამოიყენონ არსებული შესაძლებლობები.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "1f638dc74ec1b3f5",
+      "title": "ETF Intel Q&A: Nomura Asset Management",
+      "source": "Nasdaq",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTUDZtdTQ4REhydTZuN3NFZ2hvdVlERE0wZk9qNUV2bHBQekhOQndCcDdQTmpBbHMxbktDMU1YUkZwMkpEWDIzVTB5UUxLS2hiOGl5a2ZiLVQ2ZmtBdWQxWEIwcG9iN2ZKb0VtQVhPdmQ3UW5vSXVn?oc=5",
+      "publishedAt": "2026-07-29T16:35:19.000Z",
+      "titleKa": "ETF Intel Q&A: Nomura Asset Management",
+      "summaryKa": "Nomura Asset Management-ის შესახებ კითხვები და პასუხები.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/etf-intel-qa-nomura-asset-management",
+      "bodyKa": "## Nomura Asset Management-ის ინოვაციური მიდგომა\n\nNomura Asset Management-მა, რომელიც აქტიურად მუშაობს აშშ-ის ETF პლატფორმის გაფართოებაზე, हाल ही में $1 მილიარდი მიაღწია ETF აქტივების მართვაში (AUM). კომპანიის მიზანია ინვესტიციების შესრულება და გრძელვადიანი მდგრადი ზრდა, რაც მათ სწრაფი აქტივების შეგროვების ნაცვლად, კვლევაზე დაფუძნებულ ინვესტირებაზე ორიენტირდება.\n\n## ინოვაციის ტალღები და მათი მნიშვნელობა\n\nBrad Warden, CFA, Nomura Transformational Technologies ETF-ის (FRWD) უფროსი პორტფელის მენეჯერი, აღნიშნავს, რომ ბაზარი მუდმივად ამცირებს ინოვაციის მნიშვნელობას. ინოვაციის ტალღები, როგორიცაა ხელოვნური ინტელექტი, ქმნის მნიშვნელოვან შესაძლებლობებს აქტიური მენეჯერებისთვის, რომლებიც შეძლებენ გაარჩიონ რეალური ტრანსფორმაციული ინოვაცია და დროებითი იდეები.\n\n## ორიენტირებული მიდგომა\n\nNomura Asset Management-ის მიდგომა მოიცავს ორ ძირითად ანალიზს: ინოვაციის თემების ანალიზი და კომპანიის სპეციფიური შეფასება. პირველი ეტაპი მოიცავს ინოვაციის ხანგრძლივობას, ბაზრის შესაძლებლობებს და ეკონომიკურ მოგებას, ხოლო მეორე ეტაპი - ბიზნეს მოდელის გამძლეობას, მენეჯმენტის ხარისხსა და შეფასებას. ორივე თვალსაზრისი უნდა იყოს თანხვედრაში, რათა კომპანია პორტფელში მოხვდეს.\n\n## აქტიური მართვის მნიშვნელობა\n\nWarden-ის თქმით, ახლა ვართ კრიტიკულ ეტაპზე, დაახლოებით ხელოვნური ინტელექტის ტალღის მესამე წელს. ეს პერიოდი მოითხოვს აქტიურ პოზიციონირებას, რადგან ინფრასტრუქტურის და მიღების ფენები განსხვავებულად ვითარდება. Nomura-ს გუნდი აქტიურად მართავს ამ დინამიკას, რათა განსაზღვროს, რომელი კომპანიები და თემები ლიდერობენ თითოეულ ეტაპზე.\n\n## FRWD-ის სტრატეგია\n\nFRWD ETF ჩვეულებრივ 20-30 კომპანიის აქციებს ინახავს, რაც მათ უმაღლესი რწმენის იდეებია. Nomura Asset Management-ი მიიჩნევს, რომ ინოვაცია უნდა იყოს გრძელვადიანი პორტფელების ძირითადი კომპონენტი, არა მხოლოდ სატელიტური პოზიცია. მათი მიზანია, რომ ინვესტორები მაქსიმალურად ისარგებლონ ინოვაციის ძალებით, რაც მათთვის ყველაზე მაღალი დაბრუნების პოტენციალს ქმნის.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "933db6894f38cb27",
+      "title": "All Eyes Are on Kevin Warsh: 1 Reason the Federal Reserve's Actions Don't Matter to Long-Term Investors.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0FKTTM4VjFDaXNmbHh1b2E1VEdBT1dGMmJlQzZPb1VCanFXOFJIRTEwTXJNOTdXMUNIb2xKa1VjbHhZV2hhd21mVDhHZFE3WmFaOXBXWkxLeVNuQmRLU1pPdXZ0U3QwT0hTblF5bHlRQ3Q3Sl9LQ2hucFU1aWFoMkZRTnhIRXRwVi02UHplckxVWUls?oc=5",
+      "publishedAt": "2026-07-29T16:30:00.000Z",
+      "titleKa": "ყველა ყურადღება კევინ ვარშზეა: 1 მიზეზი, რის გამოც ფედერალური რეზერვის მოქმედებები არ აინტერესებს გრძელვადიან ინვესტორებს.",
+      "summaryKa": "კევინ ვარშზე ყურადღება გამახვილებულია, რადგან ფედერალური რეზერვის მოქმედებები გრძელვადიან ინვესტორებზე გავლენას არ ახდენს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "074a5872c5ebc6a4",
+      "title": "Rivian (RIVN) Q2 Earnings: What To Expect",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnhtMDBmSnM4Q2x3Z2F1WjdERFF0SUQzLXVxaVJxa0MxLVN5M1RCeUtBY2p0Mk1tQ2oxUEp3MHRMMDhTUDQ0MXRBc1BPZks2OTNSTVFpTEx3Q21OTnktTWZ4VjVkdmNwNjQyVTBlOTIzdEJtdzBNT0taNnJFUTY1b25tNFIyYndOTVJjaEZoY3BJMzV4ZG5qTjRBNA?oc=5",
+      "publishedAt": "2026-07-29T16:21:02.000Z",
+      "titleKa": "Rivian (RIVN) Q2 შემოსავლები: რას უნდა ველოდოთ",
+      "summaryKa": "Rivian-ის Q2 შემოსავლების შესახებ ინფორმაცია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "cf32465203357fe4",
+      "title": "Why Goldman Sachs, BlackRock, & other Wall Street giants have endorsed crypto's CLARITY Act",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0hnZTZVY0F2ck9iLWVGcmVHWVpHeG1uNVRaMEUtbjB4X0tVVTBrenc0OEpJdk1tUm1pV3pqOHFoR3BvSkN2UGlQZkVhVGRKUjZGNDRKcy1ocVEtNGJUQmhfX3pfMXB4M0l5dDEwY1JtakJFWkRHWjBTQ1dpT28wUTRHdnEwUTA?oc=5",
+      "publishedAt": "2026-07-29T16:20:00.000Z",
+      "titleKa": "რატომ დაუჭირეს მხარი Goldman Sachs, BlackRock და სხვა უოლ სტრიტის გიგანტებმა კრიპტოს CLARITY აქტს",
+      "summaryKa": "Goldman Sachs და BlackRock მხარს უჭერენ კრიპტოს CLARITY აქტს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6d2eb56283f26c11",
+      "title": "Hope Bancorp (HOPE) Could Be 2% Below Fair Value After Its Earnings Beat",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFduTmd4RnlBaFZJLTJDamdQWXlLbHZScndSaDFINDRqbjd0dUNpMHF6QTNqd1VlWHgwbXo0bk0tVnR6ZmlXYjZUQ3dKeHIwcG1JYVVDdkQ2U2gwS3ZGUnYxOUszNE9UYUpYWDBCNDVRUmNlWVg5bHJpSFJJQnlLakZHd0JSUThDNTEzTkxud1dqU0Rr?oc=5",
+      "publishedAt": "2026-07-29T16:09:25.000Z",
+      "titleKa": "Hope Bancorp (HOPE) შეიძლება იყოს 2%-ით დაბლა სამართლიან ფასზე შემოსავლების შემდეგ",
+      "summaryKa": "Hope Bancorp-ის შემოსავლების შემდეგ მისი ფასის შეფასება 2%-ით დაბლაა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "97d6530abfb362dc",
+      "title": "Qualcomm Q3 earnings to highlight AI's impact on smartphone market, data center plans",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYTN4TjBFZVJpRnpvQjRhMGkyVVVRMnltYnR5aUZKSlRqal8wblNqQTVVSWxBMVdYRjkzSlNUMEUtX1dSdDlHSXYtdG5JZUtrMFBya1NJSWpyLTdaOGdXMVVJbVJfamhheUNwel9kZDVHLVJNZnBPeVpUTXI0SnpsSGdxVjBpaG1jWWhMUWpwb1Y5Umk1VF9xbFF2cmktYXJYOGdqMmZLV2FfMmgyTmxXTVZPcU9SdUNYTmJnRURHX0ZHclg0b2hNOGFVMzlxSmxtRmM1TzdDSUJNVlU?oc=5",
+      "publishedAt": "2026-07-29T16:05:09.000Z",
+      "titleKa": "Qualcomm-ის Q3 შემოსავლები ხაზს უსვამს ხელოვნური ინტელექტის გავლენას სმარტფონების ბაზარზე და მონაცემთა ცენტრების გეგმებზე",
+      "summaryKa": "Qualcomm-ის Q3 შემოსავლები აჩვენებს ხელოვნური ინტელექტის გავლენას.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5dff2b8a0c85a1a2",
+      "title": "A key cryptocurrency bill could flop because of Trump’s crypto ventures and banks’ objections",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeDJZLVJsZlMwX01hVUltQUlBNDUtZ09JbnF6Z05GaGEwSlBiWUQ3LUd2aG93ZWdxNnp5S1RYQ29HMExRWEt5ampXVWZhMjNIdVlQUl9xblpDTi1Rd1dhaFZzQnNuU1BXVExiNVZmQXNqYVliWUVEbTF4dWVSaGtwa19tVjREQUxMR2paWEpWRUxzMjg3ZmxSM0xJczBESEtiMjhuZzVKLW4zd1o2M29EZUlYdnFxajhxTmdYODZYREtuRjlnR1RuOVdRRUFMZDA?oc=5",
+      "publishedAt": "2026-07-29T16:03:00.000Z",
+      "titleKa": "მნიშვნელოვანი კრიპტოვალუტის კანონპროექტი შეიძლება ჩავარდეს ტრამპის კრიპტო პროექტებისა და ბანკების წინააღმდეგობის გამო",
+      "summaryKa": "კრიპტოვალუტის კანონპროექტი შესაძლოა ჩავარდეს ბანკების წინააღმდეგობის გამო.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e0897ec6b805d40b",
+      "title": "Amneal (AMRX) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeEZ4cGUyNHFHWWVjc19FYlVRVE5teVJNY25hZDFOM182TjFSTVN0WWp4alVicnhLTGhpdkM0eVVvS09KX1R2bGgwbE5jT0s3ckp0NWNENk54QVRQYmlhdTNDT3drWE1za3ZMNTV6RGMzQks2V0pRQ0VLM1o2blNOeU5MNEp5Z1VEdUpZZEdPaFd2SHltS2sxbDZlbUx1YnM?oc=5",
+      "publishedAt": "2026-07-29T15:57:02.000Z",
+      "titleKa": "Amneal (AMRX) Q2 ანგარიშის შესახებ: ყველაფერი, რაც უნდა იცოდეთ შემოსავლების წინ",
+      "summaryKa": "Amneal-ის Q2 ანგარიშის დეტალები.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "fcdd8fdce6e89dbf",
+      "title": "European Stocks Close Mixed Wednesday; Oil Stocks Surge on Middle East Fighting",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSklGd2xKVF9DeFRtbVdISnhOVndQRzJwOWtfUWtSQnViZlJvVktETEY4S2pGWEl0elVHa2hONjZUWHpUYWtlM1hpSm1MSVBlN01KZGo2VjJZanh5LUtWcjFMS0o5MzhycTJvR05ZYmRSTGhlcGtySW1YdUtvdm02bkhoYWJULWhTMUtEalJHZnZoN3Q2Yzk5ZmF5clFIdjAycVRwZHlQbHROek91VWc?oc=5",
+      "publishedAt": "2026-07-29T15:56:01.000Z",
+      "titleKa": "ევროპული აქციები შაბათს შერეული შედეგებით დაიხურა; ნავთობის აქციები გაიზარდა ახლო აღმოსავლეთში ბრძოლების გამო",
+      "summaryKa": "ევროპული აქციები შერეული შედეგებით დაიხურა, ხოლო ნავთობის აქციები გაიზარდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f2c037153a8192e1",
+      "title": "Prediction: Meta Stock Will Pop After Q2 Earnings. 3 Reasons Why",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFV6aVVIS1hkUjBNQW5Sb1o3RkxackhZWGNCNWZ0RGVSYUVqSlJtRzhjaWVWcTV4LUhEemxCbWIxLTRuR2pkZWR0RF9HWVFvTmVRdElfZjZsay1QQTU1QndKZ29sN2R0dEFKTWVmSmJxWmFtOXNjR0RlTURMeDYwWU5VLXlxVWdzOVhFbEhFeEZ4c2hScjd4QQ?oc=5",
+      "publishedAt": "2026-07-29T15:54:54.000Z",
+      "titleKa": "წინასწარმეტყველება: Meta-ის აქციები გაიზრდება Q2 შემოსავლების შემდეგ. 3 მიზეზი რატომ",
+      "summaryKa": "Meta-ის აქციების ზრდის პროგნოზი Q2 შემოსავლების შემდეგ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "453c0883f0d3ae4d",
       "title": "SpaceX stock back under pressure as Q2 earnings approach",
@@ -30,6 +157,17 @@
       "sourceUrl": "https://finance.yahoo.com/energy/articles/dow-tumbles-over-850-points-151130257.html",
       "bodyKa": "## Dow Jones-ის ინდექსის მკვეთრი ვარდნა\n\nDow Jones-ის ინდექსი 850 პუნქტზე მეტით დაეცა, რაც აშშ-ის პრეზიდენტის დონალდ ტრამპის ირანის მიმართ ახალი გაფრთხილების შედეგია. ეს ვარდნა მოხდა მას შემდეგ, რაც ირანის ისლამური რევოლუციური გვარდიის კორპუსმა (IRGC) აშშ-ის სამხედრო სამიზნეების წინააღმდეგ თავდასხმები განახორციელა.\n\n## ნავთობის ფასების ზრდა\n\nნავთობის ფასები მკვეთრად გაიზარდა, რაც დაკავშირებულია რეგიონში მიმდინარე დაძაბულობასთან. აშშ-ის დასავლეთ ტეხასის საშუალო ნავთობის ფიუჩერსები სექტემბერში 6.62%-ით გაიზარდა და $84.51-თან მიახლოვდა. ბრენტის ნავთობის ფიუჩერსები ასევე გაიზარდა 6.01%-ით, $87.01-ის დონეზე.\n\n## ბაზრების რეაქცია\n\nაშშ-ის საფონდო ბაზრები ვარდნას განიცდიან. S&P 500 ინდექსი 0.9%-ით შემცირდა, ხოლო Nasdaq Composite 1.1%-ით დაეცა. Invesco QQQ Trust (QQQ) კი თითქმის 11%-ით შემცირდა, რაც ბოლო მაქსიმუმზე $748.65-ის შემდეგ მოხდა.\n\n## ირანის სამხედრო მზადყოფნა\n\nირანის არმიის ვიცე-კომანდანტმა, ადმირალმა ჰაბიბოლა საიარიმ განაცხადა, რომ ჰორმუზის სრუტეში მოძრაობა მხოლოდ ირანის ხელისუფლების ნებართვით იქნება შესაძლებელი. ირანის სამხედრო ძალები მზადყოფნაში არიან და სრულ კონტროლს ახორციელებენ აღმოსავლეთ ჰორმუზის სრუტეზე.\n\n## ფედერალური სარეზერვო სისტემის გადაწყვეტილება\n\nფედერალური ღია ბაზრის კომიტეტი (FOMC) დღეს უნდა გამოაცხადოს თავისი საპროცენტო განაკვეთის გადაწყვეტილება. მოსალოდნელია, რომ ფედერალური სარეზერვო სისტემა საპროცენტო განაკვეთს არ შეცვლის, თუმცა ინფლაციის მაღალი დონე და გეოპოლიტიკური დაძაბულობა პოლიტიკის პერსპექტივას რთულს ხდის. CME FedWatch-ის მონაცემების მიხედვით, საპროცენტო განაკვეთის უცვლელობის ალბათობა 66.3%-ია.\n\n## დასკვნა\n\nამ მოვლენების ფონზე, ბაზრების რეაქცია და ნავთობის ფასების ზრდა ნათლად აჩვენებს, რომ გეოპოლიტიკური ფაქტორები მნიშვნელოვან გავლენას ახდენენ ფინანსურ ბაზრებზე. ინვესტორები ყურადღებით აკვირდებიან ვითარებას, რადგან ეს შეიძლება გავლენა მოახდინოს როგორც ადგილობრივ, ისე საერთაშორისო ეკონომიკაზე.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "6daf94237662de13",
+      "title": "Coinbase CEO Brian Armstrong's Bold Fix for America's $39.7 Trillion Debt Crisis (Hint: It Involves Bitcoin.)",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWg4NGVnakZ6bXEyNlE3Ym9obGREa0FKTVZJTjZSM0dqTE42enFJYWMzRC1WOWlYQWg4TjNrT2VvSnlERnR6bUU2aU5HOEpWNzRLZnV4amtVOGNiM0xEeFFrSm11LWo4STFtd1Y5UHhQRFZOaGJhTEQzZnQzLTJ2Z01fYl9IemdPak92TEhPQUFra28ydGZxaEEySVBRNDVh?oc=5",
+      "publishedAt": "2026-07-29T15:03:00.000Z",
+      "titleKa": "Coinbase-ის CEO ბრაიან არმსტრონგის თამამი გადაწყვეტა ამერიკის $39.7 ტრილიონიანი ვალის კრიზისისთვის (მნიშვნელობა: ეს ბიტკოინს ეხება.)",
+      "summaryKa": "Coinbase-ის CEO ბრაიან არმსტრონგი სთავაზობს გადაწყვეტას ვალის კრიზისისთვის, რაც ბიტკოინს ეხება.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "d70ffcc0379a038a",
