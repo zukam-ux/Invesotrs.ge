@@ -1,8 +1,47 @@
 {
-  "updatedAt": "2026-07-29T22:37:26.426Z",
+  "updatedAt": "2026-07-29T23:40:33.633Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "410ae7f7e43c4dec",
+      "title": "Gold Advances After Federal Reserve Keeps Interest Rates on Hold",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3V5TEY4Snd6ZERyQ0FJUEtLSGVWQnVyQzhyRjNWVWhJTHZkWHNicGlTckRwYzVNaGZrTTNCZ2xDMW5teDZQNVBBZlZtbGllVVpnN2U1MUZyM0NMLTdwWFpYTnMxSnpUYVR1NmpYaDRqdXNyN25QdklZcVUxWXN2bUs0cFJLNk9pU3UyZHNYdVRmMnRwTHY0UlM0Rkdlc2YtWG52T3FiWWF2UGJIdk02aFlRQVdGZw?oc=5",
+      "publishedAt": "2026-07-29T23:24:57.000Z",
+      "titleKa": "ოქრო იზრდება, რადგან ფედერალური რეზერვი საპროცენტო განაკვეთებს უცვლელად ინარჩუნებს",
+      "summaryKa": "ფედერალური რეზერვის მიერ საპროცენტო განაკვეთების შენარჩუნების შემდეგ, ოქროს ფასი გაიზარდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-29/gold-advances-after-federal-reserve-keeps-interest-rates-on-hold",
+      "bodyKa": "## ოქროს ფასების ზრდა\n\nამერიკის შეერთებული შტატების ფედერალური რეზერვის მიერ საპროცენტო განაკვეთების შენარჩუნების შემდეგ, ოქროს ფასი გაიზარდა. ეს გადაწყვეტილება, რომელიც 2026 წლის 29 ივლისს იქნა მიღებული, გამოიწვია ინფლაციის რისკების ზრდამ, რაც დაკავშირებულია ახლო აღმოსავლეთში მიმდინარე ომთან.\n\n## ინფლაციის გავლენა\n\nფედერალური რეზერვი, რომელიც პასუხისმგებელია ქვეყნის მონეტარული პოლიტიკის მართვაზე, მუდმივად აკვირდება ეკონომიკურ პირობებს. ამჯერად, მიუხედავად იმისა, რომ ინფლაციის დონე იზრდება, რეზერვი არ აპირებს საპროცენტო განაკვეთების გაზრდას. ეს გადაწყვეტილება, როგორც ჩანს, დადებითად მოქმედებს ოქროს ბაზარზე, რადგან ინვესტორები ეძებენ უსაფრთხო თავშესაფარს.\n\n## ოქროს ბაზრის რეაქცია\n\nოქროს ფასების ზრდა, რომელიც მოხდა ფედერალური რეზერვის განცხადების შემდეგ, მიუთითებს იმაზე, რომ ინვესტორები უფრო მეტად ინტერესდებიან ოქროთი, როგორც აქტივით, რომელიც შეიძლება დაიცვას მათ კაპიტალი ეკონომიკური არასტაბილურობის დროს. ოქრო ისტორიულად ითვლება უსაფრთხო აქტივად, რაც განსაკუთრებით მნიშვნელოვანია მაშინ, როდესაც ბაზარზე გაურკვევლობაა.\n\n## მომავალი პერსპექტივები\n\nმომავალში, თუ ფედერალური რეზერვი კვლავ შეინარჩუნებს განაკვეთებს, შეიძლება ველოდოთ, რომ ოქროს ფასები კიდევ უფრო გაიზრდება. თუმცა, ინვესტორები უნდა იყვნენ ყურადღებით, რადგან ეკონომიკური პირობები სწრაფად იცვლება და შეიძლება გავლენა მოახდინოს ოქროს ბაზარზე.\n\n## დასკვნა\n\nამჟამად, ოქროს ფასების ზრდა არის მნიშვნელოვანი ინდიკატორი, რომელიც ასახავს ინვესტორების ნდობას და ბაზრის მდგომარეობას. ფედერალური რეზერვის გადაწყვეტილება, რომელიც საპროცენტო განაკვეთების შენარჩუნებას ეხება, შესაძლოა, კიდევ უფრო გააძლიეროს ოქროს პოზიცია ბაზარზე.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "33f87fb687628fab",
+      "title": "Patterson-UTI (NASDAQ:PTEN) Posts Better-Than-Expected Sales In Q2 CY2026",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMVhpaldhWFlKZGlKTUluY09XYTNxTXdMRDAwLWJNM2ZmT3hDdzhqemQ1RkUxTUtUT1B5TDV5QnpSSFlObElydFM2Z04xQmdfLUo1WXhWTmE0dkhvbENLOGp2NTk0WjBXX3NwT0wyWm5BY011SXJ4cnpBT2FOb2xpaUFnVDhvVVNBczRGdmJlUTFNbzMxNlZHcnRnRXc?oc=5",
+      "publishedAt": "2026-07-29T22:40:10.000Z",
+      "titleKa": "Patterson-UTI (NASDAQ:PTEN) Q2 CY2026-ში უკეთესი გაყიდვების შედეგები გამოაქვეყნა",
+      "summaryKa": "Patterson-UTI-მ Q2 CY2026-ის გაყიდვების შედეგები უკეთესი, ვიდრე მოსალოდნელი, გამოაქვეყნა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/patterson-uti-nasdaq-pten-posts-224010420.html",
+      "bodyKa": "## Patterson-UTI-ის გაყიდვების შედეგები\n\nPatterson-UTI (NASDAQ:PTEN) კომპანიამ Q2 CY2026-ის გაყიდვების შედეგები გამოაქვეყნა, რაც Wall Street-ის მოლოდინებზე უკეთესი აღმოჩნდა. გაყიდვები 1.23 მილიარდი დოლარი იყო, რაც წინა წლის ანალოგიური პერიოდის შედეგებთან შედარებით უცვლელი დარჩა, თუმცა ანალიტიკოსების პროგნოზებს 5.9%-ით გადააჭარბა.\n\n## ფინანსური მაჩვენებლები\n\nკომპანიის კორექტირებული EBITDA 231.9 მილიონი დოლარი იყო, რაც 218.8 მილიონ დოლარიან პროგნოზზე 6%-ით მეტი აღმოჩნდა. EBITDA-ს მარჟა 18.9%-ით განისაზღვრა, რაც წინა წლის იმავე კვარტლის მაჩვენებელს შეესაბამება. თავისუფალი ფულადი ნაკადი 52.62 მილიონი დოლარი იყო, რაც წინა წლის -4.46 მილიონ დოლარიან მაჩვენებელზე მნიშვნელოვანი ზრდაა.\n\n## კომპანიის საქმიანობა\n\nPatterson-UTI ოპერირებს 135 Tier-1 სუპერ-სპეციალური რიგით, რომლებიც ინდუსტრიის ყველაზე რთულ საბურღ პროექტებს ახორციელებენ. კომპანიის CEO, Andy Hendricks, აღნიშნავს, რომ მეოთხე კვარტალში აქტივობის ზრდა და პოზიტიური დინამიკა შეინიშნებოდა.\n\n## ხანგრძლივი ზრდის ტენდენცია\n\nPatterson-UTI-ის გაყიდვები ბოლო ხუთ წელიწადში 37.3%-იანი კომპონენტური წლიური ზრდის ტემპით გაიზარდა. თუმცა, ბოლო ათ წელიწადში კომპანიის წლიური გაყიდვების ზრდა 14.9%-ით შემცირდა, რაც მიუთითებს, რომ მოთხოვნა მაინც კარგია.\n\n## თავისუფალი ფულადი ნაკადის სტაბილურობა\n\nPatterson-UTI-ის თავისუფალი ფულადი ნაკადის მარჟა 4.3%-ით განისაზღვრა, რაც წინა წლის იმავე კვარტლის 4.7%-ით მაღალია. კომპანიის თავისუფალი ფულადი ნაკადის ცვალებადობა WTI ნავთობის ფასების ცვალებადობასთან შედარებით 9.7 იყო, რაც მიუთითებს, რომ კომპანია შედარებით დაცულია საქონლის ფასების ცვლილებებისგან.\n\n## დასკვნა\n\nPatterson-UTI-ის ბოლო კვარტლის შედეგები აჩვენებს, რომ კომპანია წარმატებით ახერხებს გაყიდვების ზრდას და EBITDA-ს მარჟის შენარჩუნებას, თუმცა თავისუფალი ფულადი ნაკადის მაჩვენებლები კვლავ დაბალია. მიუხედავად ამისა, კომპანიის შედეგები დადებითად შეფასდა, რაც ინვესტორების ყურადღებას მიიპყრობს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "6eb0ba4e036f1db1",
+      "title": "Asian Stocks to Fall as Fed Keeps Rates on Hold: Markets Wrap",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWJmVzRKLU00TG5WVm1kTks3TXNQak1mcG96YlNpMTJwTm1Lb3B3QnhzNTdaWC1sM3RYYUh1UjUxVWRhZUJiU093T09pcXZid1dhWm4xSndDZl9Yb3dKLV9qWlBLTHRIVmN2MkhDVmF4WTJfVWhWczVRV05DbjhSc0FqeW9lXzhTeTlLU2k3Tkt6TERn?oc=5",
+      "publishedAt": "2026-07-29T22:11:13.000Z",
+      "titleKa": "აზიური აქციები დაეცემა, რადგან ფედერალური რეზერვი განაკვეთებს უცვლელად ინარჩუნებს: ბაზრების მიმოხილვა",
+      "summaryKa": "ფედერალური რეზერვის მიერ განაკვეთების შენარჩუნების გამო, აზიური აქციების ვარდნა პროგნოზირებულია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "984acc9302287808",
       "title": "Crypto Exchange Luno Cuts 20% Of Staff",
@@ -30,6 +69,50 @@
       "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/bel-fuse-nasdaq-belfa-q2-220300602.html",
       "bodyKa": "## Bel Fuse-ის Q2 CY2026 გაყიდვები\n\nBel Fuse (NASDAQ:BELFA) გამოაცხადა, რომ Q2 CY2026-ის გაყიდვები 25.2%-ით გაიზარდა წელიწადში და მიაღწია $210.7 მილიონს, რაც გადააჭარბა Wall Street-ის პროგნოზებს. ანალიტიკოსების მიერ პროგნოზირებული გაყიდვები $207.4 მილიონი იყო, რაც 1.6%-ით ნაკლებია რეალურ შედეგზე.\n\n## მომავალი კვარტლის მოლოდინები\n\nკომპანიის მენეჯმენტი პროგნოზირებს, რომ Q3 CY2026-ის გაყიდვები $215 მილიონი იქნება, რაც 4.5%-ით აღემატება ანალიტიკოსების პროგნოზირებულ $205.7 მილიონს. ეს მოლოდინი მიუთითებს იმაზე, რომ Bel Fuse-ის გაყიდვების ზრდა გაგრძელდება.\n\n## ფინანსური მაჩვენებლები\n\nBel Fuse-ის კორექტირებული EBITDA $48.87 მილიონი იყო, რაც 23.2%-იანი მარჟით და 2.2%-ით აღემატება ანალიტიკოსების პროგნოზებს. თავისუფალი ფულის ნაკადის მარჟა 7.4%-ია, რაც წინა წლის იმავე კვარტლთან შედარებით შემცირებულია 10%-დან.\n\n## კომპანიის ზრდის ტენდენციები\n\nBel Fuse-ის ხანგრძლივი გაყიდვების ზრდა 8.7%-ია ბოლო ხუთ წელიწადში, რაც ინდუსტრიის საშუალო მაჩვენებელს ოდნავ აღემატება. ბოლო ორი წლის განმავლობაში, კომპანიის წლიური გაყიდვების ზრდა 15.3%-ია, რაც მიუთითებს იმაზე, რომ მოთხოვნა ბოლო დროს გაიზარდა.\n\n## მოგების მაჩვენებლები\n\nQ2-ის განმავლობაში, Bel Fuse-ის კორექტირებული EPS $2.76 იყო, რაც 20.8%-ით აღემატება ანალიტიკოსების პროგნოზებს. წინა წლის იმავე კვარტლში EPS $1.58 იყო. Wall Street-ის პროგნოზით, მომავალი 12 თვის განმავლობაში Bel Fuse-ის EPS 6.2%-ით გაიზრდება $8.01-დან $8.51-მდე.\n\nBel Fuse-ის მენეჯმენტი აღნიშნავს, რომ მეოთხე კვარტალი წარმატებული იყო, რაც გამოწვეული იყო თავდაცვისა და მონაცემთა გადაწყვეტილებების მოთხოვნით. კომპანიის ოპერაციული მარჟა 18.2%-ია, რაც სტაბილური ხარჯების სტრუქტურას მიუთითებს.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "30808db11796c120",
+      "title": "Stocks and bonds see wild ‘Fed Day’ swings as Wall Street’s ‘crash cushion’ evaporates",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYXE1RWRka2VKcmVtbE5ZeVVDUzRzNjVuUGJ4bjV5Yk9NRmlhZUZseUQxZ1NUN3FfbHlfNmM5X1JSU2htdjctQS1nRjBWa2Y0Sk54ZGhlbnRuOXpEaTA3ZjBlR01HMktTeEdoU0JiVUpiUTNicnlJOTB0YWU5M041bnlLR0hRVlBmYnZ1VWF0cnIySllQZmhmWEpRVVA0a2F3U2c3UWlVTTBUTXNGcEprcXhHOEx6UUI4anFKZ1FhcW90dw?oc=5",
+      "publishedAt": "2026-07-29T21:56:00.000Z",
+      "titleKa": "აქციები და ვალდებულებები ველური 'ფედერალური დღის' რყევების სექრეტში, რადგან Wall Street-ის 'კრაშის ბუფერი' გაქრა",
+      "summaryKa": "Wall Street-ზე 'ფედერალური დღის' დროს აქციები და ვალდებულებები მკვეთრი რყევების სექრეტში აღმოჩნდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "263391bc413e23d3",
+      "title": "Endeavour Silver: Q2 Earnings Snapshot",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVl9hbWc1WklXVnNkVzRBb28wT1lxZjQ3eldRZnMwTkV4aW9LbGc0Qmtvb1V3NFV0Mmktck9BaTJzV0ZHN2JLR2NUYmIzSFo3ZGk1d3dfbkFsVkh3dEtGVHBISi13b2UydmlCVzNVeVRiQk1DNl9ETWtVRFJZOXR5ZExJeldkalc4WlZDV1NLeDFUYWZfbmVhUnBzYW83WGNfbmFjcQ?oc=5",
+      "publishedAt": "2026-07-29T21:46:43.000Z",
+      "titleKa": "Endeavour Silver: Q2-ის მოგების სურათი",
+      "summaryKa": "Endeavour Silver-ის Q2-ის მოგების შედეგები გამოქვეყნდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "18cb19379698b535",
+      "title": "Vista Gold: Q2 Earnings Snapshot",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0MxUzVybGtMS1A2NU1HQXY1Q0NUdWp1LVQ0azJaSmZna0Q1a1BfTjRWWkZqNmxCa1dMZzd4TTYzS0xWSEUtZU51WU9fSnJDNDBnU0lPS0hZWUNkMzBtaFJSSlU1blp1NG5NdUJmTm9JSjBCaEhJUFJyR3FyMi1adi0zaXNFQWZhRFp3ZXY0Nnc5aHpDR1QxUUZhTDY?oc=5",
+      "publishedAt": "2026-07-29T21:46:29.000Z",
+      "titleKa": "Vista Gold: Q2-ის მოგების სურათი",
+      "summaryKa": "Vista Gold-ის Q2-ის მოგების შედეგები გამოქვეყნდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d6b43c069fc3e497",
+      "title": "Alamos Gold: Q2 Earnings Snapshot",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV2ZYTVd5MklZUDk1ekUwMUU5R0lhbkRsVnNZVmlmVFlISGZyY0FLRUZNVEprcnVlN0JnYzg2aVNnb3BiR2IwZFhrQlJIN0FUdEFDWGVUcW9OWlNVTkRXeUJRU3Z2Zy1DcTMwUk96YjVodUJQNXFnc2tsR3dNelFZa3dfd2ZRcVhLLWZvcTlLV3hCTGwwb1JvRWJiY2FFQQ?oc=5",
+      "publishedAt": "2026-07-29T21:46:29.000Z",
+      "titleKa": "Alamos Gold: Q2-ის მოგების სურათი",
+      "summaryKa": "Alamos Gold-ის Q2-ის მოგების შედეგები გამოქვეყნდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "0fd535efaa9e2e85",
