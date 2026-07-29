@@ -1,8 +1,58 @@
 {
-  "updatedAt": "2026-07-29T21:34:02.423Z",
+  "updatedAt": "2026-07-29T22:37:26.426Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "984acc9302287808",
+      "title": "Crypto Exchange Luno Cuts 20% Of Staff",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2ZQYlpacmhVWlNyNXFQcXM3MjV2cExXZDZZRDB2UjFfX1pHcmR0TFA4Q05JeGxMWEhBMFFhbEdseFpBdTIyb01zRlZJYnYwQnI3bHUzQmtybUVjYTg0V0ZCVUlSWmhnYVhLb3JHR1JqSzUwU1ZFRHphTGdybjFUbUx3VE9Fam02TElValJPQ1N6RGVOTE4weQ?oc=5",
+      "publishedAt": "2026-07-29T22:06:00.000Z",
+      "titleKa": "კრიპტო ბირჟა Luno 20%-ით ამცირებს პერსონალს",
+      "summaryKa": "კრიპტო ბირჟა Luno ამცირებს 20%-ით პერსონალს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/crypto/articles/crypto-exchange-luno-cuts-20-220600753.html",
+      "bodyKa": "## Luno-ს პერსონალის 20%-იანი შემცირება\n\nკრიპტო ბირჟა Luno აცხადებს, რომ იგი 20%-ით ამცირებს თავის გლობალურ პერსონალს, რაც უკავშირდება მიმდინარე ბაზრის პირობებს და ციფრული აქტივების, მათ შორის Bitcoin-ის (CRYPTO: $BTC) ფასების შემცირებას. Luno-ს გენერალური დირექტორი, ჯეიმს ლანიგანი, აღნიშნავს, რომ ეს ცვლილებები აუცილებელია კომპანიის სტრუქტურის გადახედვის პროცესში.\n\n## თანამშრომლების რაოდენობა უცნობია\n\nLuno-მ არ გაამჟღავნა, რამდენი თანამშრომელი იქნება დაზარალებული ამ ცვლილებების შედეგად. თუმცა, კომპანიამ აღნიშნა, რომ restructuring-ის პროცესის მიზანია გააძლიეროს თავისი ინფრასტრუქტურა და შექმნას ახალი პროდუქტები, რაც საბოლოოდ საშუალებას მისცემს მათ, რომ ფართო შეთავაზებები გაუწვდონ ინსტიტუციონალურ ინვესტორებს.\n\n## ბაზრის მდგომარეობა\n\nბაზრის მდგომარეობა, რომელიც ბოლო პერიოდში არასტაბილურია, გავლენას ახდენს კრიპტო აქტივების ფასებზე. Bitcoin-ის, Ethereum-ის (CRYPTO: $ETH), Solana-ს (CRYPTO: $SOL) და სხვა ტოკენების ფასები თანდათანობით შემცირდა გასული წლის შემოდგომიდან და მათი აღდგენა ნელა მიმდინარეობს. Luno-ს განცხადებით, restructuring-ის პროცესში ისინი გეგმავენ, რომ გამოიყენონ ინსტიტუციონალური სესხების ბიზნესი, რათა შეამცირონ თანხების გადატანის ხარჯები და სირთულეები საზღვრებს შორის კრიპტო გზებით.\n\n## Luno-ს მიზნები\n\nLuno, რომელიც დაარსდა სამხრეთ აფრიკაში და ახლა მდებარეობს ლონდონში, აცხადებს, რომ მისი მიზანია, უზრუნველყოს არამატერიალური სტაბილური მონეტები განვითარებად ბაზრებზე. კომპანიას აქვს 16 მილიონი მომხმარებელი მთელს მსოფლიოში, რაც მიუთითებს მის ფართო გავლენაზე კრიპტო ბაზარზე.\n\n## კრიპტო ზამთარი\n\nLuno არის ბოლო კრიპტო ბირჟა, რომელიც restructuring-ის პროცესშია, რაც მიუთითებს იმაზე, რომ მრავალი კრიპტო კომპანია ცდილობს გადაერთოს უფრო სტაბილურ შემოსავლებზე, როგორიცაა ინსტიტუციონალური კლიენტები, გადახდები, ფინანსური ინფრასტრუქტურა და ხელოვნური ინტელექტი (A.I.) მონაცემთა ცენტრები.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "d9da062e7481fc25",
+      "title": "Bel Fuse’s (NASDAQ:BELFA) Q2 CY2026 Sales Top Estimates, Guides for Strong Sales Next Quarter",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxPRW9DNWs1eUtCT29vdnRPemV0QTBNdngxemJUX2hoMDcyUmNJM3haWFVFSzFMVVVyUUtDUlpOWlRQa0hXV2h3ZzVZR01ZYThCLWhfYU9Ld3dXR0lQWFN0Um1uVHpiNzJxNm9RRnFZa29DM3BuQnR6djlTajBJRERVNjFFaXhFeXlpR1QzTXZKNDQ?oc=5",
+      "publishedAt": "2026-07-29T22:03:00.000Z",
+      "titleKa": "Bel Fuse-ის (NASDAQ:BELFA) Q2 CY2026 გაყიდვები გადააჭარბებს პროგნოზებს, მომავალი კვარტლისთვის ძლიერი გაყიდვების მოლოდინი",
+      "summaryKa": "Bel Fuse-ის Q2 CY2026 გაყიდვები გადააჭარბებს პროგნოზებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/bel-fuse-nasdaq-belfa-q2-220300602.html",
+      "bodyKa": "## Bel Fuse-ის Q2 CY2026 გაყიდვები\n\nBel Fuse (NASDAQ:BELFA) გამოაცხადა, რომ Q2 CY2026-ის გაყიდვები 25.2%-ით გაიზარდა წელიწადში და მიაღწია $210.7 მილიონს, რაც გადააჭარბა Wall Street-ის პროგნოზებს. ანალიტიკოსების მიერ პროგნოზირებული გაყიდვები $207.4 მილიონი იყო, რაც 1.6%-ით ნაკლებია რეალურ შედეგზე.\n\n## მომავალი კვარტლის მოლოდინები\n\nკომპანიის მენეჯმენტი პროგნოზირებს, რომ Q3 CY2026-ის გაყიდვები $215 მილიონი იქნება, რაც 4.5%-ით აღემატება ანალიტიკოსების პროგნოზირებულ $205.7 მილიონს. ეს მოლოდინი მიუთითებს იმაზე, რომ Bel Fuse-ის გაყიდვების ზრდა გაგრძელდება.\n\n## ფინანსური მაჩვენებლები\n\nBel Fuse-ის კორექტირებული EBITDA $48.87 მილიონი იყო, რაც 23.2%-იანი მარჟით და 2.2%-ით აღემატება ანალიტიკოსების პროგნოზებს. თავისუფალი ფულის ნაკადის მარჟა 7.4%-ია, რაც წინა წლის იმავე კვარტლთან შედარებით შემცირებულია 10%-დან.\n\n## კომპანიის ზრდის ტენდენციები\n\nBel Fuse-ის ხანგრძლივი გაყიდვების ზრდა 8.7%-ია ბოლო ხუთ წელიწადში, რაც ინდუსტრიის საშუალო მაჩვენებელს ოდნავ აღემატება. ბოლო ორი წლის განმავლობაში, კომპანიის წლიური გაყიდვების ზრდა 15.3%-ია, რაც მიუთითებს იმაზე, რომ მოთხოვნა ბოლო დროს გაიზარდა.\n\n## მოგების მაჩვენებლები\n\nQ2-ის განმავლობაში, Bel Fuse-ის კორექტირებული EPS $2.76 იყო, რაც 20.8%-ით აღემატება ანალიტიკოსების პროგნოზებს. წინა წლის იმავე კვარტლში EPS $1.58 იყო. Wall Street-ის პროგნოზით, მომავალი 12 თვის განმავლობაში Bel Fuse-ის EPS 6.2%-ით გაიზრდება $8.01-დან $8.51-მდე.\n\nBel Fuse-ის მენეჯმენტი აღნიშნავს, რომ მეოთხე კვარტალი წარმატებული იყო, რაც გამოწვეული იყო თავდაცვისა და მონაცემთა გადაწყვეტილებების მოთხოვნით. კომპანიის ოპერაციული მარჟა 18.2%-ია, რაც სტაბილური ხარჯების სტრუქტურას მიუთითებს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "0fd535efaa9e2e85",
+      "title": "Woodward’s (NASDAQ:WWD) Q2 CY2026 Earnings Results: Revenue In Line With Expectations But Stock Drops",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3V3Zk1CNXFVS09vdFpCc2QxQ3hHdDZtQU5JYVpmaEpMZnU3YWp5YmJqRjJVWU5id3ZkU092NlMzU0Foa1pFT2szVnFJa18tOFhSdTczV2xTdWhUS1B3NDJPLWpqMlQzSXNIM1ZQdzhpdi1lSUxTOE1WWGVkV3RreVdIb3hPdmtYcVF6ZkY0UmFMTUxtTU1TSlJB?oc=5",
+      "publishedAt": "2026-07-29T21:45:37.000Z",
+      "titleKa": "Woodward-ის (NASDAQ:WWD) Q2 CY2026 მოგების შედეგები: შემოსავალი მოლოდინების შესაბამისად, მაგრამ აქციები ეცემა",
+      "summaryKa": "Woodward-ის Q2 CY2026 მოგების შედეგები მოლოდინების შესაბამისად იყო, თუმცა აქციები ეცემა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f957dfaa6a77f505",
+      "title": "Stock Market Today, July 29: Stocks Slide on Hawkish Fed and Increased Middle East Tensions",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcEVONzJ2NUFBa3NnWjJDeENJNFdKWlNfcWNSN1gtUHJDOUdGY1hXWFg2VzZQTGpSbDJLaTRIbVZ6TDY3OVNyS05KVHpzNjZKcFNoc3RjMVRTcElRTDh6WHhUV1lTMWJvRUFucFgyR2RHenRCMHg4aDN6ZF9WUEViaWo1Zy0tdFAzRFJDTDlPbVFlWFl3TFE?oc=5",
+      "publishedAt": "2026-07-29T21:21:35.000Z",
+      "titleKa": "ბირჟა დღეს, 29 ივლისი: აქციები ეცემა მჭიდრო ფედერალური პოლიტიკისა და გაზრდილი ახლო აღმოსავლეთის დაძაბულობის ფონზე",
+      "summaryKa": "აქციები ეცემა მჭიდრო ფედერალური პოლიტიკისა და გაზრდილი ახლო აღმოსავლეთის დაძაბულობის ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "72180a3aa72e90ae",
       "title": "Morningstar (NASDAQ:MORN) Beats Q2 CY2026 Sales Expectations",
@@ -16,6 +66,39 @@
       "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/morningstar-nasdaq-morn-beats-q2-211209486.html",
       "bodyKa": "## Morningstar-ის წარმატება Q2 CY2026-ში\n\nMorningstar (NASDAQ:MORN) გამოაცხადა, რომ Q2 CY2026-ის გაყიდვები 9.6%-ით გაიზარდა წელიწადში და მიაღწია $663.2 მილიონს, რაც აღემატება Wall Street-ის მოლოდინებს. ანალიტიკოსების პროგნოზი $648.7 მილიონი იყო, რაც Morningstar-ის შედეგების 2.2%-იანი გადაჭარბებაა.\n\n## მოგება და ფინანსური ზრდა\n\nMorningstar-ის GAAP მოგება თითო აქციაზე $2.83 იყო, რაც 14.6%-ით აღემატება ანალიტიკოსების საშუალო პროგნოზებს. კომპანიის CEO, Kunal Kapoor, აღნიშნავს, რომ ისინი აგრძელებენ მომგებიანი ზრდის მიწოდებას, რაც ოპერაციული და თავისუფალი ფულადი ნაკადების მნიშვნელოვანი ზრდით არის გამოწვეული.\n\n## კომპანიის ისტორია\n\nMorningstar-ის დაარსება მოხდა 1984 წელს Joe Mansueto-ს მიერ, როდესაც მან მხოლოდ $80,000 საკუთარი დანაზოგი გამოიყენა. კომპანია უზრუნველყოფს დამოუკიდებელ საინვესტიციო მონაცემებს, კვლევას და ანალიზის ინსტრუმენტებს, რაც ინვესტორებს, მრჩევლებს და ინსტიტუციებს ეხმარება ინფორმირებული ფინანსური გადაწყვეტილებების მიღებაში.\n\n## გრძელვადიანი ზრდა\n\nMorningstar-ის ხანგრძლივი გაყიდვების შესრულება მიუთითებს კომპანიის საერთო ხარისხზე. ბოლო ხუთ წელიწადში, Morningstar-ის შემოსავალი 10.7%-ით გაიზარდა ყოველწლიურად. ეს ზრდა ოდნავ აღემატება საშუალო ფინანსური კომპანიების მაჩვენებელს და აჩვენებს, რომ მათი შეთავაზებები მომხმარებლებისათვის საინტერესოა.\n\n## ბოლო შედეგები\n\nამ კვარტალში, Morningstar-ის წლიური შემოსავალი 9.6%-ით გაიზარდა, რაც $663.2 მილიონი იყო და Wall Street-ის მოლოდინებს 2.2%-ით გადააჭარბა. კომპანიის წლიური შემოსავლის ზრდა ბოლო ორი წლის განმავლობაში 8.8%-ია, რაც ხუთწლიანი ტენდენციის ქვემოთაა, თუმცა შედეგები მაინც დასაფასებელია.\n\n## დასკვნა\n\nMorningstar-ის ბოლო კვარტლის შედეგები აჩვენებს კომპანიის ძლიერი პოზიციების შენარჩუნებას და ზრდის გაგრძელებას. მიუხედავად იმისა, რომ აქციების ფასი $199.53 დარჩა, კომპანიის ფინანსური მდგომარეობა და ზრდის ტენდენციები ინვესტორების ყურადღების ცენტრშია.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "36a0aab48f576d15",
+      "title": "Goldman Sachs (GS) Launches Retail Private Markets Fund As CEO Backs Crypto Bill",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmlLU2EyMXJVMGFLQzRpNHVtQWtCdU51ZkF1dThoYktBcjhCR2JxQV9OcTN3d2tQblgtcktmLXhXLWNzRzIzQlMyb0l3X09Sb3pZSzBYSDZvcTVhS2ZKazkxUnZkSlNrb21vSFdoQzFJeVpuWlhTRlR5aXdramtVVE5IeDBseC1xNEtGMTZkNmUzQk9ZY2tqTV8yUE4zdw?oc=5",
+      "publishedAt": "2026-07-29T21:10:37.000Z",
+      "titleKa": "Goldman Sachs (GS) იწყებს საცალო კერძო ბაზრების ფონდს, CEO მხარს უჭერს კრიპტო კანონპროექტს",
+      "summaryKa": "Goldman Sachs იწყებს საცალო კერძო ბაზრების ფონდს.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a7afbcd39306de93",
+      "title": "Meta Platforms (META) Lags Q2 Earnings Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0hVM1IzbU5NY1h6T2tCXzBseGE3eTNNNXpUdXpHOVE5cjZpNHdoMnhtTmIxUFQ3eHBpdVBhRFA3U2x1WWpxT1lXbkVnOGdXTVA1OW9uVm5fMnpyUDZZYWZOdzVGNkFYYlRHVWpBeHhwbjI0WWhCR2R3OFI1Mk5jdnFaVVc1N05lLS1FdDA3dEpLM3N3RUo0?oc=5",
+      "publishedAt": "2026-07-29T21:10:02.000Z",
+      "titleKa": "Meta Platforms (META) Q2 მოგების პროგნოზებს ჩამორჩება",
+      "summaryKa": "Meta Platforms Q2 მოგების პროგნოზებს ჩამორჩება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "07b63456b06e5f3b",
+      "title": "McGraw Hill (MH) Stock Looks Pricey On Earnings While Its 33% Drop Draws Interest",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHNTMzlBbVp2amZ4RElrWHZsMzhLb3laeEpuVU5aU1p6aTFDbmMwOUFJSndFeFZ5YUxrVnNvRzg0MVlMeXZCS0doQ3dMU2JKdFg2RmFxZnE5SXYwNjJZNzN2V3hHQ1JZWVZuc1RYQk9sQi1wQXp3Q05LTHhwazdOTWVnMno0cGFrVm05d2UtM3FJSFdoWUE?oc=5",
+      "publishedAt": "2026-07-29T21:08:51.000Z",
+      "titleKa": "McGraw Hill (MH) აქციები ძვირად ფასობს მოგებებზე, ხოლო 33%-იანი ვარდნა ინტერესს იწვევს",
+      "summaryKa": "McGraw Hill-ის აქციები ძვირად ფასობს მოგებებზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "8d6815675e8aa524",
@@ -39,6 +122,17 @@
       "publishedAt": "2026-07-29T21:06:00.000Z",
       "titleKa": "IGM ფინანსური ანგარიშები მეორე კვარტლის მოგებას",
       "summaryKa": "IGM-მა გამოაქვეყნა მეორე კვარტლის ფინანსური ანგარიშები.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ba92391feed6711d",
+      "title": "Robinhood, Arm, Carvana: Stocks moving on earnings in after-hours",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcE15TUx1ODdoUVQ1NEZHWkl1WGxoeTI1eXZ1NGQ2MVRSbExPdldNeWp3eUdxTTZtUWRPWmtLbFRyQ29OdFJOaHlFZHZsMXRuUVJVQnF5WTduQWIyZ1Rvaks0ckpzbUlyYVFpcmNYc1lRRWp5ejRDalBuVjNjd0ZvaVhZUmlrdlFOUHc?oc=5",
+      "publishedAt": "2026-07-29T21:02:16.000Z",
+      "titleKa": "Robinhood, Arm, Carvana: აქციები, რომლებიც მოგებებზე მოძრაობენ შემდეგ საათებში",
+      "summaryKa": "Robinhood, Arm და Carvana აქციები მოგებებზე მოძრაობენ შემდეგ საათებში.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
