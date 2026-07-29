@@ -1,8 +1,113 @@
 {
-  "updatedAt": "2026-07-29T07:15:38.774Z",
+  "updatedAt": "2026-07-29T09:50:55.111Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "739d664043dfe1de",
+      "title": "Tech Selloff Spreads With Asian Stocks Falling Post SK Hynix Earnings",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa3RfbVpmQWQwdWNFUHlGYVlQSUF1TzhOdFlFd3ZOSjBvT19vVEpoX0cwUjljQ3FObVlFb0RtNTZ2c2Rwejh5NXZ1M3VxV0gzUjM1RWtBUlo0emFNbzBLcnl6YmgxUTVUMV9rWVhocm5JSlFvYVppS0pWM1FxZEVrRWdzRUVBaVdXUVBmYm9NRkt6Zmh6WlhTS08wU0s3MjNJQVlYUnlBeHd4ZUVKaEE?oc=5",
+      "publishedAt": "2026-07-29T09:42:14.000Z",
+      "titleKa": "ტექნოლოგიური გაყიდვები ვრცელდება, აზიური აქციები SK Hynix-ის მოგების შემდეგ ეცემა",
+      "summaryKa": "აზიური აქციების ფასები SK Hynix-ის მოგების ანგარიშის შემდეგ შემცირდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-29/sk-hynix-earnings-worsen-ai-jitters-global-tech-selloff",
+      "bodyKa": "## SK Hynix-ის მოგება და აზიური ბაზრების რეაქცია\n\nSK Hynix-ის მიერ გამოქვეყნებული ფინანსური ანგარიშის შემდეგ, აზიური აქციების ფასები მნიშვნელოვნად შემცირდა. კომპანიამ გამოაცხადა, რომ მეოთხე კვარტალში მისი მოგება 1.5 ტრილიონ კორეულ ვონზე (1.1 მილიარდი აშშ დოლარი) შემცირდა, რაც 60%-ით ნაკლებია წინა წლის ანალოგიური პერიოდის მაჩვენებელზე. \n\n## ტექნოლოგიური სექტორის გაყიდვები\n\nSK Hynix-ის შედეგები ტექნოლოგიური სექტორის ფართო გაყიდვების ფონზე მოხდა. ინვესტორები შეშფოთებულნი არიან, რომ ტექნოლოგიური კომპანიების მოგებები შესაძლოა კიდევ უფრო შემცირდეს, რაც გამოიწვევს უფრო ფართო ბაზრის კორექციას. \n\n## ბაზრის რეაქცია\n\nაზიური აქციების ფასები, მათ შორის SK Hynix-ის აქციები, 3%-ით დაეცა. ეს ტენდენცია ასევე შეეხო სხვა ტექნოლოგიურ კომპანიებს, რაც მიუთითებს იმაზე, რომ ინვესტორები უფრო მეტად ფრთხილობენ ტექნოლოგიური სექტორის მიმართ. \n\n## მომავალი პერსპექტივები\n\nმიუხედავად იმისა, რომ SK Hynix-ის შედეგები უარყოფითი იყო, კომპანიამ აღნიშნა, რომ მომავალში გეგმავს ინვესტიციების გაზრდას და ახალი ტექნოლოგიების განვითარებას. თუმცა, ბაზრის რეაქცია აჩვენებს, რომ ინვესტორები ჯერ კიდევ სკეპტიკურად უყურებენ ტექნოლოგიური სექტორის მომავალს.\n\n## დასკვნა\n\nSK Hynix-ის ფინანსური შედეგები და აზიური ბაზრების რეაქცია კიდევ ერთხელ ადასტურებს, რომ ტექნოლოგიური სექტორი კვლავ გამოწვევების წინაშე დგას. ინვესტორები ყურადღებით აკვირდებიან ბაზრის ცვლილებებს და მზად არიან რეაგირება მოახდინონ ნებისმიერ ახალ ინფორმაციაზე.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "2b9a192dd9922f92",
+      "title": "Is Southern (SO) Fully Priced As Earnings And Battery Storage Hopes Build?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX18xbmxuUF9LbUdLcTlVV09xbUhWd21sYkhxNGxjUjdYb2s0X2RkWHFBSThjbDdfaXk4b2t2RG83cUtZcktJMkxzOU1zM0NRWm5ZckZWd1JvUVN6eG5LdW5rejdVeGxFOFpNOFk4QUxoWHJFUm1fbm9UUkFvSXUzaGRWYUZVZDhObWFUaGVoSFRlZVk3V0RmRndEYVpyZlN0VFNLQkdn?oc=5",
+      "publishedAt": "2026-07-29T09:10:14.000Z",
+      "titleKa": "არის თუ არა Southern (SO) სრულად ფასიანი, რადგან მოგებები და ბატარეების შენახვის იმედები იზრდება?",
+      "summaryKa": "Southern-ის ფასის შეფასება დაკავშირებულია მოგებების და ბატარეების შენახვის იმედების ზრდასთან.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/southern-fully-priced-earnings-battery-091014550.html",
+      "bodyKa": "## Southern-ის ფასის ზრდა\n\nSouthern (SO) კვლავ ყურადღების ცენტრშია, რადგან მოსალოდნელი მოგებები და ახალი ბატარეების შენახვის პროექტები ინვესტორების ინტერესს იწვევს. კომპანიის აქციების ფასი 2023 წლის დასაწყისიდან 11.01%-ით გაიზარდა და ახლა $96.78-ს შეადგენს. ამასთან, ბოლო სამი წლის განმავლობაში, აქციონერების საერთო დაბრუნება 50.87%-ია, რაც მიუთითებს სტაბილურ გრძელვადიან მოგებებზე.\n\n## ბაზრის შეფასება\n\nSouthern-ის აქციების ფასი $96.78-ია, რაც ოდნავ დაბალია ყველაზე გავრცელებული სამართლიანი ფასის შეფასებისგან, რომელიც დაახლოებით $101.34-ს შეადგენს. ეს ფაქტი ხაზს უსვამს კომპანიის მოგების ძალას და გრძელვადიანი კაპიტალის გეგმებს.\n\n## ელექტრიფიკაციის პროექტები\n\nდიდი მასშტაბის ელექტრიფიკაციის პროექტების გაფართოება, მათ შორის ჰიპერსკალერ მონაცემთა ცენტრებისა და ინდუსტრიული განვითარების, მნიშვნელოვნად ზრდის Southern-ის დატვირთვის პერსპექტივას. ეს გამოიწვია რეგულატორული დამტკიცებები და განაცხადები 10 GW ახალი გენერაციისთვის და $13 მილიარდი დამატებითი კაპიტალური ინვესტიციისთვის, რაც გრძელვადიან მოგებას და ტარიფების ზრდას უწყობს ხელს.\n\n## ფინანსური მაჩვენებლები\n\nSouthern-ის მიმდინარე P/E მაჩვენებელი 25x-ია, რაც უფრო მაღალია აშშ-ის ელექტროენერგიის კომუნალური სექტორის საშუალო მაჩვენებელზე 22.2x და თანატოლების საშუალოზე 21.1x. თუმცა, ეს მაჩვენებელი ახლოსაა სამართლიანი მაჩვენებლის 25.7x-თან. ეს კომბინაცია ქმნის კითხვას ინვესტორებისთვის, თუ რამდენი ზრდა დარჩა მიმდინარე ფასში.\n\n## რისკები და შესაძლებლობები\n\nSouthern-ის მაღალი კაპიტალური გეგმა და ახალი აქციების საჭიროება შეიძლება დააწვინოს მოგებები და შეასუსტოს მიმდინარე undervaluation-ის narativ. მიუხედავად იმისა, რომ სამართლიანი ფასის narativ მიუთითებს, რომ Southern ოდნავ undervalued-ია, ინვესტორებმა უნდა განიხილონ რისკები და შესაძლებლობები, რომლებიც დაკავშირებულია ამ ფასებთან.\n\nამ სტატიაში წარმოდგენილი ინფორმაცია მხოლოდ ზოგადი ხასიათისაა და არ წარმოადგენს ფინანსურ რჩევას. ინვესტორებს ურჩევენ, რომ თავად შეისწავლონ დეტალები და შექმნან საკუთარი აზრი.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "8a095d4bed8cb2fe",
+      "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGFDU3BQSFhZa21ISHY0Wm92OVIxTXZSTmRUVWJNdkdmTnVRdEd0dHpSMWRyTVFxOURFZDhfTTFYMkhOdERpYzVyZUFuMWdza2NPLUhWQlY2VXM4OEkycXR1MHdJWWlEZUxNNWFob2RsSkV6STFBRUhEWUpucEVfbkFKNTJzZ3RNdkVhZWhzVEwzRDBBdHh4UTNxbkw?oc=5",
+      "publishedAt": "2026-07-29T09:08:00.000Z",
+      "titleKa": "ბირჟის ინვესტორებს ცუდი ინფორმაცია აქვთ პრეზიდენტ ტრამპის ეკონომიკის შესახებ. ეს მიუთითებს S&P 500 და Nasdaq-ის დიდი ცვლილების შესაძლო შესაძლებლობაზე.",
+      "summaryKa": "პრეზიდენტ ტრამპის ეკონომიკის შესახებ გავრცელებული ინფორმაცია ბირჟის ინვესტორებისთვის უარყოფითი იყო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "10d17bf83c2e727d",
+      "title": "Emerging-Market Stocks Sink Further as Asian Tech Slide Deepens",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWtjNE9QUVA3S1U3WG04REtLbURjdl9OODNNZmlnbnJ1M3YwT2YwaTZSUEd0VHBWdk5CMFFPZHo0ME05SnFRWTRoSG9KUEI2T3h6bldDMmw0MkN1Mng1NVhkMVEtaTBfcnUzUV9wdWdyLWpzbVI2aUtpQUhKN3REMjdUNUQ2VUM3VkgxSTJsb2pKUllpZjJZSDh2V0h2b0haaFRiSklBWTl4dWtHQU1YbWVBaGQ?oc=5",
+      "publishedAt": "2026-07-29T08:53:32.000Z",
+      "titleKa": "მომავალი ბაზრების აქციები კიდევ უფრო ეცემა, რადგან აზიური ტექნოლოგიების დაცემა ღრმავდება",
+      "summaryKa": "აზიური ტექნოლოგიური აქციების დაცემა გავლენას ახდენს მომავალი ბაზრების აქციებზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f14bd6a5dce8641d",
+      "title": "Watch AI Still Driving Earnings Strength in Europe, Morgan Stanley Says",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkpJQUJNZlNCN2tBajhGODNkSnBzcVNTNVdWclZwYzhBb1pXVTgyOFZVTXB0MS1kX09WTjJ6bHpZRVZwdXRUb2FsbjR5N1NSb1lMNEZzVnpmZ3VBR3NnMlRHM2xTVGFPT21kNlZpd1pUX1lNeWxYRDJ1MXFKU1dGb0RPTmZnTUFfaVJibUdIWXQ1RjZRTTVoQW15T1pNS00wWWJZR0s1ekJIbjNm?oc=5",
+      "publishedAt": "2026-07-29T08:52:54.000Z",
+      "titleKa": "მოითხოვეთ, რომ AI კვლავ მართავს მოგების ზრდას ევროპაში, ამბობს Morgan Stanley",
+      "summaryKa": "Morgan Stanley აცხადებს, რომ ხელოვნური ინტელექტი ევროპაში მოგების ზრდას მართავს.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a3e9fdc1e290e170",
+      "title": "Korean Stocks Tumble a Second Day as SK Hynix Results Disappoint",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlNzQnExMnhTZXRvQWNQNGVfNmctMFlScFJfVnQzeUl6UWt5d1BadTNfdnQ5WU1DV0x4SDc3WjB0cFp6S0Q4OGdvOVlXOVZKbHFVdVIxNFl5VzZqNThjRlA3TG1Pa1ljLTVqanJ6TEFvTllCblNNajR4Tnk1OWVUWWN5VEs4d0FaOGpXOG8zLUpqN2FFOXdIR09jOTBKNWhNbnZwNzlTN1I5NVQxb0I3cHBHODcwdw?oc=5",
+      "publishedAt": "2026-07-29T08:43:18.000Z",
+      "titleKa": "კორეის აქციები მეორე დღესაც დაეცა, რადგან SK Hynix-ის შედეგები იმედგაცრუებულია",
+      "summaryKa": "SK Hynix-ის შედეგები არ გაამართლა, რაც კორეის აქციების ვარდნას გამოიწვია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b484dddc29a129af",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures steady after Korean stocks fall, Iran resumes attacks",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWVHcDBlVjd0RHprWXNCa29VSEdUNm1FUFhDS2ZDeFI0VjQ1a0YyTjRwVFlQaXRTbG5sTzRjdHJWT2VKcWppWERZYzZ0djJuWnkxdnU2ZHRKY3NxMTNHbmJNUFlKbjEtdmhMcTZ1elhIYjI3N0Q5RGFPbWZ3b25yekpES1pITldwdHdMMl9BSFhtT1gtNFNsS3E5NVdKWm5lMjAyVnFCMzl6X0FG?oc=5",
+      "publishedAt": "2026-07-29T08:20:09.000Z",
+      "titleKa": "ბირჟა დღეს: Dow, S&P 500, Nasdaq-ის ფიუჩერსები სტაბილურია კორეის აქციების დაცემის შემდეგ, ირანი თავდასხმებს განაახლებს",
+      "summaryKa": "Dow, S&P 500 და Nasdaq-ის ფიუჩერსები სტაბილურია კორეის აქციების დაცემის ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c7c2d09123044dad",
+      "title": "Investors Bail on Chipmakers Ahead of Earnings Week",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUdaTDZ6R1lIRFpSczJiVWhQT1dCUHJVZDB0UnUydllrbFdyMFpraWk3TU1acHNQM0VaZXc5OVEzbXduY0EwYy1GMlZaVV8tTVYwb0VDa0hkODN6YUI4RC1hOXlpTWt6LUM3TlJ1bk5GaG5NVDdOUUlleVRUZjZieE95WHMzYkF6QmdZeFZUTHVDNHd1UFZoNW9SdWJJUk5qTmJTS1VNUGs?oc=5",
+      "publishedAt": "2026-07-29T08:12:24.000Z",
+      "titleKa": "მომხმარებლები ჩიპების მწარმოებლებს ტოვებენ შემოსავლების კვირის წინ",
+      "summaryKa": "მომხმარებლები ჩიპების მწარმოებლებს ტოვებენ შემოსავლების კვირის წინ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e380c6f166bfcb76",
+      "title": "Humana (HUM) Could Be 83% Overvalued On Medicare Advantage Study And Earnings Focus",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcmdGU05Sd3JUdEY2ZkJzNG1uRHYzcGY1VTdCNU9XRm10WGpnZ3o2cGFIWmI1MmRSRHBhTnpMTmlieFJoYlpvT0NnTkN0TzEwaU9WWGhRLW9ZVEJfMmMtckxETnN4bWc3dzBxVjYwMWhOYUhJNENmdTFVWlVXblAxTzZDUTZIUWdRZGJTUGxKY2pmV3B3RHc?oc=5",
+      "publishedAt": "2026-07-29T08:10:04.000Z",
+      "titleKa": "Humana (HUM) შესაძლოა 83%-ით ზედმეტად ფასიანი იყოს Medicare Advantage-ის კვლევის და მოგების ყურადღების გამო",
+      "summaryKa": "Humana შესაძლოა ზედმეტად ფასიანი იყოს Medicare Advantage-ის კვლევის საფუძველზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "514fdf2dac2b86e2",
       "title": "UBS and Deutsche Bank Deliver Strong Earnings",
@@ -54,17 +159,6 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "a3e9fdc1e290e170",
-      "title": "Korean Stocks Tumble a Second Day as SK Hynix Results Disappoint",
-      "source": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlNzQnExMnhTZXRvQWNQNGVfNmctMFlScFJfVnQzeUl6UWt5d1BadTNfdnQ5WU1DV0x4SDc3WjB0cFp6S0Q4OGdvOVlXOVZKbHFVdVIxNFl5VzZqNThjRlA3TG1Pa1ljLTVqanJ6TEFvTllCblNNajR4Tnk1OWVUWWN5VEs4d0FaOGpXOG8zLUpqN2FFOXdIR09jOTBKNWhNbnZwNzlTN1I5NVQxb0I3cHBHODcwdw?oc=5",
-      "publishedAt": "2026-07-29T05:51:00.000Z",
-      "titleKa": "კორეის აქციები მეორე დღესაც დაეცა, რადგან SK Hynix-ის შედეგები იმედგაცრუებულია",
-      "summaryKa": "SK Hynix-ის შედეგები არ გაამართლა, რაც კორეის აქციების ვარდნას გამოიწვია.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "ddbdd21e59375fd6",
       "title": "Porsche Earnings Climb After Focusing on Selling Pricier Cars",
       "source": "Bloomberg",
@@ -87,13 +181,13 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "c7c2d09123044dad",
-      "title": "Investors Bail on Chipmakers Ahead of Earnings Week",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUdaTDZ6R1lIRFpSczJiVWhQT1dCUHJVZDB0UnUydllrbFdyMFpraWk3TU1acHNQM0VaZXc5OVEzbXduY0EwYy1GMlZaVV8tTVYwb0VDa0hkODN6YUI4RC1hOXlpTWt6LUM3TlJ1bk5GaG5NVDdOUUlleVRUZjZieE95WHMzYkF6QmdZeFZUTHVDNHd1UFZoNW9SdWJJUk5qTmJTS1VNUGs?oc=5",
-      "publishedAt": "2026-07-29T05:12:24.000Z",
-      "titleKa": "მომხმარებლები ჩიპების მწარმოებლებს ტოვებენ შემოსავლების კვირის წინ",
-      "summaryKa": "მომხმარებლები ჩიპების მწარმოებლებს ტოვებენ შემოსავლების კვირის წინ.",
+      "id": "b937d0b780d901ab",
+      "title": "Breaking: Oil Prices Spike 5% as US-Saudi Strikes Iran-Aligned Targets in Iraq, Bitcoin Slips",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaEs2akkxYW1tVWdpcnVxRF9Qam9YOVk1Nm1kTUIwSWdicVZyREJGVlpzSlBaNmZnUkRSRk92QlJoQkdDMlExQW9mM0M4d1FUMHVKYzVTTzJlYmVVVm01enJialQzeWoxUGlLNmFOWTFLbVlLYUpSdERjUE50WkRxczFKcUR0cXZTRTVOYg?oc=5",
+      "publishedAt": "2026-07-29T05:25:00.000Z",
+      "titleKa": "ბრეკინგი: ნავთობის ფასები 5%-ით იზრდება აშშ-სა და საუდის არაბეთის თავდასხმების ფონზე ირანის მიმართ, Bitcoin ეცემა",
+      "summaryKa": "ნავთობის ფასები 5%-ით გაიზარდა აშშ-სა და საუდის არაბეთის ირანის მიმართ თავდასხმების შედეგად.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
