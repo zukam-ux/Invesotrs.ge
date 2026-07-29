@@ -1,8 +1,124 @@
 {
-  "updatedAt": "2026-07-29T01:07:06.405Z",
+  "updatedAt": "2026-07-29T04:28:05.490Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "a5ca940b0a583d87",
+      "title": "Stocks making big moves yesterday: Zoom, TransDigm, Elastic, Rocket Lab, and Tyson Foods",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU04tNTAyeGRQcW1sMnhTWkFBVmNZRDBKSmliLWtMNGM0TlVZMU5UR2JaOHJJMWpzR2FZcGxvUVpsMy1uTlF1YS1NVVhCblNxSm5jcmZWMnM3VU51QzUtTTdDZ1pGQ3VVZzRnSUViQzdqdXI0UllVeEhaeW40emVXOUF4SFhCbXpjYXFDM0tranlOeFU4QkpMUVJMZnJJMTg?oc=5",
+      "publishedAt": "2026-07-29T04:13:00.000Z",
+      "titleKa": "აქციები, რომლებიც დიდი მოძრაობები განახორციელეს გუშინ: Zoom, TransDigm, Elastic, Rocket Lab და Tyson Foods",
+      "summaryKa": "გუშინ რამდენიმე აქცია მნიშვნელოვანი ცვლილებების ქვეშ მოექცა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-041302750.html",
+      "bodyKa": "## მნიშვნელოვანი ცვლილებები აქციებში\n\nგუშინ, 2023 წლის 23 ოქტომბერს, რამდენიმე კომპანიის აქციებმა მნიშვნელოვანი ზრდა განიცადა, რაც ინვესტორების ყურადღების ცენტრში მოექცა.\n\n## Zoom-ის ზრდა\n\nZoom (NASDAQ:ZM) - ვიდეო კომუნიკაციების პლატფორმა, 3.6%-ით გაიზარდა. კომპანიამ გამოაცხადა, რომ API წვდომა ყველა მომხმარებლისთვის, მათ შორის საცდელი ანგარიშებისთვის, გახსნა, რაც მისი ინტეგრაციის გაფართოებას ნიშნავს ავტომატიზაციის პლატფორმა Zapier-თან.\n\n## TransDigm-ის წარმატება\n\nTransDigm (NYSE:TDG) - საჰაერო და თავდაცვის კომპანია, 4.1%-ით გაიზარდა. კომპანიამ გამოაცხადა, რომ 1.066 მილიარდ დოლარად Prince & Izant-ის შეძენის შეთანხმება გააფორმა.\n\n## Elastic-ის ინოვაცია\n\nElastic (NYSE:ESTC) - ძიების AI პლატფორმის მიმწვდელი, 5.2%-ით გაიზარდა. კომპანიამ ახალი ინიციატივა Jina On-Prem დაიწყო, რაც ბიზნესებს საშუალებას აძლევს, Jina AI მოდელები უსაფრთხო ადგილებში განავითარონ.\n\n## Rocket Lab-ის წარმატება\n\nRocket Lab (NASDAQ:RKLB) - საჰაერო და თავდაცვის კომპანია, 1.9%-ით გაიზარდა. კომპანიამ აშშ-ის კოსმოსური ძალებისათვის 266 მილიონ დოლარიანი მრავალჯერადი გაშვების კონტრაქტი მოიპოვა, რაც მისი ყველაზე დიდი კონტრაქტია.\n\n## Tyson Foods-ის ზრდა\n\nTyson Foods (NYSE:TSN) - ხორცის კომპანია, 6.4%-ით გაიზარდა. აშშ-ის სოფლის მეურნეობის დეპარტამენტმა (USDA) განაცხადა, რომ მექსიკიდან საქონლის იმპორტი კვლავ დაიწყება, რაც დადებითად იმოქმედებს კომპანიაზე, ასევე ახალი ტარიფების შესახებ კანადური პროდუქციის მიმართ.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "5a8d186c30daf9f0",
+      "title": "Another Critical Oil Waterway Is About to Close",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaXMxZloxenlxWl9lb0l1VlNadGFseHBwSVVnS2hyUU9BSGxlWTJRMkl6dzZGS3VHeVNiWFRXN1VmeGN1VmNTeWJId2dfcWo5V2lGT2hSZ3RZSEx0UDNmOFNXS3hmU3NMbjB2eDlwVlhNdld5NXJjbEFodHlMWVgxYU5FNGc2X0V4V0lyVFhaYWFYdUE4QnUtSUJMTjJ3VGZXNXFiS19xZjFfMEtYX1BscE4yUXZJaGdtcTZTOQ?oc=5",
+      "publishedAt": "2026-07-29T03:30:00.000Z",
+      "titleKa": "მეორე კრიტიკული ნავთობის წყალი მალე დაიხურება",
+      "summaryKa": "მოახლოებული დახურვა ნავთობის მნიშვნელოვანი გზის შესახებ არის მოსალოდნელი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.bloomberg.com/opinion/articles/2026-07-29/the-rhine-is-the-latest-critical-oil-waterway-in-danger-of-closing",
+      "bodyKa": "## კრიტიკული ნავთობის გზების დახურვა\n\nმოახლოებული დახურვა ნავთობის მნიშვნელოვანი გზის შესახებ არის მოსალოდნელი. ბოლო დროს, ნავთობის ტრანსპორტირების რამდენიმე მნიშვნელოვანი გზა დაიხურა, რაც მსოფლიო ენერგეტიკის ბაზარზე სერიოზულ გავლენას ახდენს. ამჯერად, ყურადღება მიექცევა რაინს, რომელიც ერთ-ერთი ყველაზე მნიშვნელოვანი ნავთობის გზაა ევროპაში.\n\n## რაინი და მისი მნიშვნელობა\n\nრაინი, როგორც მდინარე, წარმოადგენს მნიშვნელოვან სატრანსპორტო არხს, რომელიც ევროპაში ნავთობის და სხვა საქონლის ტრანსპორტირებისთვის გამოიყენება. მისი დახურვა მნიშვნელოვნად შეამცირებს ნავთობის მიწოდებას და შეიძლება გამოიწვიოს ფასების ზრდა. ამჟამად, მსოფლიო ენერგეტიკის ბაზარი უკვე განიცდის პრობლემებს, რაც გამოწვეულია სხვა კრიტიკული წყლების დახურვით, როგორიცაა ჰორმუზის სრუტე და შავი ზღვის პორტები.\n\n## ენერგეტიკული კრიზისი\n\nბოლო წლებში, ენერგეტიკული კრიზისი გაღრმავდა, რაც გამოიწვია გლობალური მოთხოვნის ზრდამ და მიწოდების პრობლემებმა. დახურვები, რომლებიც უკვე მოხდა, და რაინზე მოსალოდნელი პრობლემები, კიდევ უფრო გაამწვავებს სიტუაციას. ენერგეტიკის ექსპერტები აღნიშნავენ, რომ ეს შეიძლება გამოიწვიოს არასტაბილურობა ბაზრებზე, რაც გავლენას მოახდენს როგორც მწარმოებლებზე, ისე მომხმარებლებზე.\n\n## მომავალი პერსპექტივები\n\nმომავალი დღეები და კვირები კრიტიკულად მნიშვნელოვანია, რადგან ენერგეტიკული ბაზრის მონაწილეები ცდილობენ მოიძიონ ალტერნატიული გზები და წყაროები. თუმცა, რაინზე მოსალოდნელი დახურვა შეიძლება იყოს კიდევ ერთი სერიოზული დარტყმა, რაც უკვე დაზარალებულ ბაზარს კიდევ უფრო გაართულებს. \n\n## დასკვნა\n\nრაინი, როგორც კრიტიკული ნავთობის გზა, მალე შეიძლება დაიხუროს, რაც კიდევ უფრო გაამწვავებს გლობალურ ენერგეტიკულ კრიზისს. ამ ვითარებაში, ენერგეტიკის სექტორის წარმომადგენლებმა უნდა მოიძიონ ახალი გზები და სტრატეგიები, რათა შეამცირონ შესაძლო ზარალი და უზრუნველყონ სტაბილური მიწოდება.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "a3e9fdc1e290e170",
+      "title": "Korean Stocks Tumble a Second Day as SK Hynix Results Disappoint",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlNzQnExMnhTZXRvQWNQNGVfNmctMFlScFJfVnQzeUl6UWt5d1BadTNfdnQ5WU1DV0x4SDc3WjB0cFp6S0Q4OGdvOVlXOVZKbHFVdVIxNFl5VzZqNThjRlA3TG1Pa1ljLTVqanJ6TEFvTllCblNNajR4Tnk1OWVUWWN5VEs4d0FaOGpXOG8zLUpqN2FFOXdIR09jOTBKNWhNbnZwNzlTN1I5NVQxb0I3cHBHODcwdw?oc=5",
+      "publishedAt": "2026-07-29T03:15:18.000Z",
+      "titleKa": "კორეის აქციები მეორე დღესაც დაეცა, რადგან SK Hynix-ის შედეგები იმედგაცრუებულია",
+      "summaryKa": "SK Hynix-ის შედეგები არ გაამართლა, რაც კორეის აქციების ვარდნას გამოიწვია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e1a6d6e74f1238dc",
+      "title": "Seacoast Banking Corporation of Florida (SBCF) After Mixed Q2 Earnings And An Undervalued Narrative",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdU9jVHN3eGVIcWktU1ViMGFhTzZTVE96MGN5TlFDNjJTdHpYek1HSFFfaU9ac0FWRDlUU19WMW9YNEZfOUc1UkczRVJlREMxelA0ZkFXTXhRZFpSdzZudU5ONE9iV01fS1FReGc5RWpaZlBEN3NtYUlhQ0VuVDNIbHRseU42bTNkWXpKRTNIRnVmejU3UUVDS2NKTEQ1NEpOMEN1dTB1cWF4QQ?oc=5",
+      "publishedAt": "2026-07-29T03:13:00.000Z",
+      "titleKa": "Seacoast Banking Corporation of Florida (SBCF) შერეული Q2 შემოსავლების შემდეგ და undervalued narative",
+      "summaryKa": "SBCF-ის Q2 შემოსავლები შერეული იყო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "dd32ae14f3823e07",
+      "title": "AllianceBernstein Holding (AB) Following Q2 Earnings The Fair Value Debate Is Still Open",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUxEemNFTzNSM2xxX0YtTXBuTEhaNE0zSkZHMEFON19PZVJjLXBxLW5uc1hfTThQRElRaXpLc1NnZElaRjdMMFVtSWdmaXB6aDd1SHdXX2tPb1dIcUQ3UVBObW1OdTgwYWxRbkdfazFXSUk3SmY4NDFUbnA4c0JaajM1dUg1WHFodFBZRDFiUURHbGJpQlZHSUdqUzEzaXBRSFhoOWFJNVEyQQ?oc=5",
+      "publishedAt": "2026-07-29T03:12:00.000Z",
+      "titleKa": "AllianceBernstein Holding (AB) Q2 შემოსავლების შემდეგ სამართლიანი ღირებულების დებატები კვლავ ღიაა",
+      "summaryKa": "AB-ის Q2 შემოსავლების შემდეგ სამართლიანი ღირებულების საკითხზე დებატები გრძელდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a4a80b5ad49c8169",
+      "title": "HK Finance Stocks Eye Best Month in Two Years as Tech Hopes Wane",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaG5GNVJsWGJFZGpUdURmclU0cUNfNjhzZUx1eWQ1SDZ0WkpxWGZENUtNQnR4dlRNV0JpNklJZXVURVJVRjhjT2F3b3BGMTl2WEZrVHdGWWxPQmtPRmdQZGFwYnJrdWE0TGZ6X19nQnk3U3hHQVhSMWE0RXdUck1NT1hxTnJ0SmdnYy13Snc5UjBxVFVSNDd1VlZKQjZQZldqcnF1ZzRhWXJDeEJGRFVKUE8zcnJqdw?oc=5",
+      "publishedAt": "2026-07-29T02:49:00.000Z",
+      "titleKa": "HK ფინანსური აქციები ორი წლის განმავლობაში საუკეთესო თვეს ელოდებიან, რადგან ტექნოლოგიური იმედები მცირდება",
+      "summaryKa": "HK ფინანსური აქციები საუკეთესო თვის მიღწევას ცდილობენ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "682fd605d0f16151",
+      "title": "Alkane Resources lifts Storheden gold resource to 212,000oz",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHhoYzBJZHlMRmpObWMzOE5jbVRGWVh0NFVIUzFkSWEyTmctTi1nTENCVHJYRC1nRDVhZlpxeXhlRVNnMkVDbmY4ZFctOEZ1SXJhTlViMGxQc3VOVVRheW9KNk9LYllIbzdYaTJSdXhlZnR5YWR3TGh1Nk1HTXFqTk5nWlNKV3ZKX1BLcw?oc=5",
+      "publishedAt": "2026-07-29T02:49:00.000Z",
+      "titleKa": "Alkane Resources-მა Storheden-ის ოქროს რესურსი 212,000 უნციამდე გაზარდა",
+      "summaryKa": "Alkane Resources-მა ოქროს რესურსი გაზარდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f965ca422a553976",
+      "title": "Indian Software Stocks Regain Investor Favor as AI Trade Falters",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTzhwaXdTaFNITnIwaTFDdkwwbnZsdUpvcnhiVXpVNy1NX0M3cWlaZWNjVlJiM3BDa2RoVENqTnQ3ajEySE5MOHRSNzU5cTZOdTRfd3Fzb0o1RmFXZVctNnJXQmtvRjdibGkzWkFFVTVXelU0clN0ZVZWT2ZYVHV5TjN4NTQtblEybEVOa0E3dGNSMUlfVHhMcERDX2JEMnVkUklQRl9TaklIVjNRN1U4d2owU04?oc=5",
+      "publishedAt": "2026-07-29T02:30:00.000Z",
+      "titleKa": "ინდური პროგრამული უზრუნველყოფის აქციები ინვესტორების ინტერესს უბრუნდებიან, რადგან AI ვაჭრობა სუსტდება",
+      "summaryKa": "ინდური პროგრამული უზრუნველყოფის აქციები კვლავ ინვესტორების ყურადღების ცენტრშია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1e07cbfac21171f6",
+      "title": "Q1 Earnings Highs And Lows: Dell (NYSE:DELL) Vs The Rest Of The Hardware & Infrastructure Stocks",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWklSNmJOZkw0QzlZTk01c0luQjBjRnB3QWlIWWVobVN4d1Q4YzZ6d29QT0c1T0hiVEZPQ1kwYXpLbE5TWGIxam5DNFNWVTF0WW9IbnMtUVI5SHdrV3lfYW94ZldvcVlaOVNGLTREeEIxWWtRQkltYVpTbDF1MnpYUkpITEJqR3E3ZlpiM2JDV0o3MzNvOVE4?oc=5",
+      "publishedAt": "2026-07-29T02:29:00.000Z",
+      "titleKa": "Q1 შემოსავლების მაღალი და დაბალი: Dell (NYSE:DELL) წინააღმდეგ სხვა ჰარდვერისა და ინფრასტრუქტურის აქციების",
+      "summaryKa": "Dell-ის Q1 შემოსავლები სხვა ჰარდვერისა და ინფრასტრუქტურის აქციებთან შედარებით შეფასდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7470e8eb8cd4ca93",
+      "title": "One SK Hynix Stock Trade Blew Up $60 Million in Crypto Bets",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMW01YTdDa3FEclkxdkJ2WDBQcDJOUDBpUk5wNTB4VDlKSG9ROWh5cW8taXl6aV9TMUF6bnhCQmJpNWpCcnBLd19SNVdEeG1iUTFYQ2Jndk1CM0ZzSVRtWEJncEVjRG1rQjBHaWdPUTBxWEVIUzN4SGttQUVTRlB6emkxY3hMNXlFUGxTbHVOWXM5RFBDZVM3YzU3WkpMMmpaOHZYRjJYV3duckU?oc=5",
+      "publishedAt": "2026-07-29T01:20:00.000Z",
+      "titleKa": "ერთი SK Hynix-ის აქციის ვაჭრობა $60 მილიონი კრიპტო ფსონების აფეთქებას გამოიწვია",
+      "summaryKa": "SK Hynix-ის ერთ-ერთი ვაჭრობა მნიშვნელოვანი კრიპტო ფსონების აფეთქებას გამოიწვია.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "db427f9821eb65e7",
       "title": "Saudi Arabia has a new, and pricier, workaround to export its oil",
@@ -299,6 +415,17 @@
       "titleKa": "კრიპტო ჰაკებისგან ზარალი წლის პირველ ნახევარში 1 მილიარდ დოლარს გადააჭარბა",
       "summaryKa": "კრიპტო ჰაკებისგან ზარალი წლის პირველ ნახევარში 1 მილიარდ დოლარს გადააჭარბა.",
       "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c9587f40dfc10176",
+      "title": "Watch Future of Finance Will Run on 'Crypto Rails': VanGrack",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQTBSWkN4V25yWTdZbm9sRG5PU3RRQUcxQVZxblhoOUIwV2lDR0VjYmhHalpjUU5RS1NnMUFmanJaYjBqRHNEVklTcUkzd2hyZGVXZXhobTFPWmdPbEtTei14NXNxckdxWjRzTTJhNkhPYzhoZDBaMTVYOGs4aUtBZjI1YnJaZ0dxeUVWc3I2V1BKY29XR3BaaDBpTHNmVEZrQXRKU0hxX3Nndw?oc=5",
+      "publishedAt": "2026-07-28T21:16:59.000Z",
+      "titleKa": "მოიწვიეთ ფინანსების მომავალი 'კრიპტო რკინებზე' იმუშავებს: VanGrack",
+      "summaryKa": "VanGrack-ის თქმით, ფინანსების მომავალი კრიპტო ტექნოლოგიებზე იქნება დამოკიდებული.",
+      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
