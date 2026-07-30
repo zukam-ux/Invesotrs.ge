@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T23:40:33.633Z",
+  "updatedAt": "2026-07-30T01:01:21.433Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -18,6 +18,39 @@
       "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
+      "id": "263dda6b9ba31886",
+      "title": "T. Rowe Price’s Push Into Private Markets And Crypto Could Be A Game Changer For T. Rowe Price Group (TROW)",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLTJFcWZES1NaUXlHci1uMHhXNjVrV0JzR1NEN1A5emkxblJFOFZtdFFfUk9DTzVybXpEN1k2X2ctTG9DTkdMTEFyMHV2R19sbHJZU1JZUFBDalJVb28yTFpDMlNSTmdoYXg3X3NhMnMtTnBUTGZYdFBLdUgzQWdHM0EtZWRUVDlWXzZVOFVrb2o3M2VR?oc=5",
+      "publishedAt": "2026-07-29T23:13:11.000Z",
+      "titleKa": "T. Rowe Price-ის კერძო ბაზრებში და კრიპტოში შესვლის მცდელობა T. Rowe Price Group-ის (TROW)თვის შეიძლება გარდამტეხი იყოს",
+      "summaryKa": "T. Rowe Price ჯგუფი გეგმავს კერძო ბაზრებში და კრიპტოში შესვლას.",
+      "category": "ტექნოლოგიები და AI | ბაზრები და ეკონომიკა | კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a2104eb843f1416e",
+      "title": "Lithia Motors (LAD) Stock Looks Near Fair Value While Earnings Look Cheap",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjdqOS1PR292RjR2VXE4V3NoZXNCRmdfdEpQQW1uei1WbTR3Y1Vnbk53YTJqMnRsNzNDX3Q3RU83WWwwMlB1aDJFWHp3enE3QnR4NXdCQW1Ib0xFSFV1X3N0bkNLX25ycERmaEtyV1VnT3VCb25SdzhJam5RdkdienZtN1hqMm1UWUZReE1BSDdCXzFrR3JHQzl3?oc=5",
+      "publishedAt": "2026-07-29T23:11:02.000Z",
+      "titleKa": "Lithia Motors (LAD) აქციები ახლოს არიან სამართლიან ფასთან, ხოლო მოგება დაბალია",
+      "summaryKa": "Lithia Motors-ის აქციები მიახლოებულია სამართლიან ფასთან.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "be67941dcfa33141",
+      "title": "Dow Sees Worst Day In Over A Year, Nasdaq Enters Correction Territory As Fed Decision Piques Inflation Concerns — SPCX, CAT, ADBE, SOFI, HIMS Stock In Focus",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVJrNXg4TzktRlBfNnBObXlPeFBOQnRjSjExVVBXazcwbEViN1AxOThBYUdIRHpWY2RFc1pmTUdjbzJMcEkxTEZrYl9peW9YaGxxQ3NCcm5jdnJxRjFyaHVJYzk0Y25OZjFZdWR3VHBUcVd6bE9laGxsVGpNYjd6UTA5QU5EX3RxcE15Q2pXQWJzZw?oc=5",
+      "publishedAt": "2026-07-29T23:00:13.000Z",
+      "titleKa": "Dow-ს ყველაზე ცუდი დღე აქვს წელიწადზე მეტი ხნის განმავლობაში, Nasdaq კორექციის ტერიტორიაში შედის, რადგან Fed-ის გადაწყვეტილება ინფლაციის შეშფოთებას იწვევს — SPCX, CAT, ADBE, SOFI, HIMS აქციები ყურადღების ცენტრშია",
+      "summaryKa": "Dow ინდექსი ყველაზე ცუდ დღეს განიცდის წელიწადზე მეტი ხნის განმავლობაში.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "33f87fb687628fab",
       "title": "Patterson-UTI (NASDAQ:PTEN) Posts Better-Than-Expected Sales In Q2 CY2026",
       "source": "Yahoo Finance",
@@ -30,6 +63,83 @@
       "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/patterson-uti-nasdaq-pten-posts-224010420.html",
       "bodyKa": "## Patterson-UTI-ის გაყიდვების შედეგები\n\nPatterson-UTI (NASDAQ:PTEN) კომპანიამ Q2 CY2026-ის გაყიდვების შედეგები გამოაქვეყნა, რაც Wall Street-ის მოლოდინებზე უკეთესი აღმოჩნდა. გაყიდვები 1.23 მილიარდი დოლარი იყო, რაც წინა წლის ანალოგიური პერიოდის შედეგებთან შედარებით უცვლელი დარჩა, თუმცა ანალიტიკოსების პროგნოზებს 5.9%-ით გადააჭარბა.\n\n## ფინანსური მაჩვენებლები\n\nკომპანიის კორექტირებული EBITDA 231.9 მილიონი დოლარი იყო, რაც 218.8 მილიონ დოლარიან პროგნოზზე 6%-ით მეტი აღმოჩნდა. EBITDA-ს მარჟა 18.9%-ით განისაზღვრა, რაც წინა წლის იმავე კვარტლის მაჩვენებელს შეესაბამება. თავისუფალი ფულადი ნაკადი 52.62 მილიონი დოლარი იყო, რაც წინა წლის -4.46 მილიონ დოლარიან მაჩვენებელზე მნიშვნელოვანი ზრდაა.\n\n## კომპანიის საქმიანობა\n\nPatterson-UTI ოპერირებს 135 Tier-1 სუპერ-სპეციალური რიგით, რომლებიც ინდუსტრიის ყველაზე რთულ საბურღ პროექტებს ახორციელებენ. კომპანიის CEO, Andy Hendricks, აღნიშნავს, რომ მეოთხე კვარტალში აქტივობის ზრდა და პოზიტიური დინამიკა შეინიშნებოდა.\n\n## ხანგრძლივი ზრდის ტენდენცია\n\nPatterson-UTI-ის გაყიდვები ბოლო ხუთ წელიწადში 37.3%-იანი კომპონენტური წლიური ზრდის ტემპით გაიზარდა. თუმცა, ბოლო ათ წელიწადში კომპანიის წლიური გაყიდვების ზრდა 14.9%-ით შემცირდა, რაც მიუთითებს, რომ მოთხოვნა მაინც კარგია.\n\n## თავისუფალი ფულადი ნაკადის სტაბილურობა\n\nPatterson-UTI-ის თავისუფალი ფულადი ნაკადის მარჟა 4.3%-ით განისაზღვრა, რაც წინა წლის იმავე კვარტლის 4.7%-ით მაღალია. კომპანიის თავისუფალი ფულადი ნაკადის ცვალებადობა WTI ნავთობის ფასების ცვალებადობასთან შედარებით 9.7 იყო, რაც მიუთითებს, რომ კომპანია შედარებით დაცულია საქონლის ფასების ცვლილებებისგან.\n\n## დასკვნა\n\nPatterson-UTI-ის ბოლო კვარტლის შედეგები აჩვენებს, რომ კომპანია წარმატებით ახერხებს გაყიდვების ზრდას და EBITDA-ს მარჟის შენარჩუნებას, თუმცა თავისუფალი ფულადი ნაკადის მაჩვენებლები კვლავ დაბალია. მიუხედავად ამისა, კომპანიის შედეგები დადებითად შეფასდა, რაც ინვესტორების ყურადღებას მიიპყრობს.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "5f98b36efeb39cc9",
+      "title": "Tyler Technologies (TYL) Tops Q2 Earnings Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTBWbkZTZWJBTC1zR1FqVFB1NmE4UWEtMXQ4WHE5SG0wM21qT0M0elBoY2ZKNnJtMjJmTThrWlJZZjFkc0FnZENONjc3Y3NlaEhTNFVIWEx3SXhNb1dQa2RxN1lyajJ0ek41V3NVd3JtRENtNUR1TElCTmhlVXRNZUxjdHEzb0E0SmFRb0s0WXRuUi1kS1VWcXZxRQ?oc=5",
+      "publishedAt": "2026-07-29T22:25:17.000Z",
+      "titleKa": "Tyler Technologies (TYL) Q2 მოგება პროგნოზებს აღემატება",
+      "summaryKa": "Tyler Technologies-ის Q2 მოგება პროგნოზებს გადააჭარბა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "70b2deb61a844333",
+      "title": "Tenable (TENB) Tops Q2 Earnings and Revenue Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1VDU0JaZS1STWEydUdiclFESVhucU9lRm1RTzhCN1RXbHBTNVBzTjJjS2ZUVGphZ3J1b0ZsaGxDNW5VZDRhcGltenJKTWtOdENyWGgzbUhnNkRXZEpkeHRleEVkc0pUbVV5X091SmlkbThweWdQd2M1UzBKMEh2Q3lMWDRaLUVKN3dhdHZ5UlJfTHlDZWpDb0xR?oc=5",
+      "publishedAt": "2026-07-29T22:25:17.000Z",
+      "titleKa": "Tenable (TENB) Q2 მოგება და შემოსავალი პროგნოზებს აღემატება",
+      "summaryKa": "Tenable-ის Q2 მოგება და შემოსავალი პროგნოზებს გადააჭარბა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "cfde3f7358589d16",
+      "title": "Sensata (ST) Tops Q2 Earnings and Revenue Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQm9aLWluclZfMTR2dktENndCSGNEQ1hqYlo5ckptQlpOQkdMc3VCNGl3c0NKSWo4VFdxNDFrakMtd1g2VklDVFZPN2h2cUtBU0RFVVpFZkRSNzdhQldLcm5qZVVMUVFnTG1jUTZVdGRVNmhXVXpUN1pKaVMzeUJQRzlObjF5blpQSU9CcV9MNkNKd3V5S24w?oc=5",
+      "publishedAt": "2026-07-29T22:25:16.000Z",
+      "titleKa": "Sensata (ST) Q2 მოგება და შემოსავალი პროგნოზებს აღემატება",
+      "summaryKa": "Sensata-ის Q2 მოგება და შემოსავალი პროგნოზებს გადააჭარბა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "16af66b17b774b17",
+      "title": "Seacor Marine (SMHI) Tops Q2 Earnings and Revenue Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObEQzV1Q0Z0JjYmhQVlllblFma3ZNWGZGYlhVajdjSVBvdzdJbjZ3eGFCY2xrZGtQZDZFUm5LWTl5Z1NqR3VhMWlFQ3hxbE1aanJkdEdoX3ZXbHp2dER2ck9DLThnMDF2VnNweFF3LXhoVHhjd0xHM01JTjk3d3ZjdGJuWUpTaWpPekdpbHNndlRMa3BHcXc?oc=5",
+      "publishedAt": "2026-07-29T22:25:16.000Z",
+      "titleKa": "Seacor Marine (SMHI) Q2 მოგება და შემოსავალი პროგნოზებს აღემატება",
+      "summaryKa": "Seacor Marine-ის Q2 მოგება და შემოსავალი პროგნოზებს გადააჭარბა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "89450a681b9a0162",
+      "title": "Spok Holdings (SPOK) Q2 Earnings and Revenues Surpass Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMEM3THpPVE1ENDBLaFZGQllnMmN5U2NSQjVLU2xrMGtpQzA5RWMySU0tWVFlZFFxUzVYcDNKcjBJTGtrN0pxM1NqbUxVN243NS1RNTZiSWlSSURaRzVWR2R6akktSTgydEdGVm9MS3lRQUhBQzN2Y09TUzFpUTctT3hUMkIzY3ZURHdnb3JkaFBHa0k0TGN3QVZUYw?oc=5",
+      "publishedAt": "2026-07-29T22:25:16.000Z",
+      "titleKa": "Spok Holdings (SPOK) Q2 მოგება და შემოსავალი პროგნოზებს აღემატება",
+      "summaryKa": "Spok Holdings-ის Q2 მოგება და შემოსავალი პროგნოზებს გადააჭარბა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f626482867fc9ca6",
+      "title": "Sonos (SONO) Q3 Earnings and Revenues Beat Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3BQWW5kZDdjbmRDR3lqX2RzX3ZHY2s1RU1JQjNzeFc4cnpQRGlfb2ZmQXJPYTg5UFo1VHhhSWJJUzdkVFQxbm1Sb1VURTFreHE1VDBabXRkVC1KbGw5YW5FX3JjejJhbGdFckZFam9vb2ZHMGdIb0dJaFd4UU1hbktSNmdtS1Q0MGJOeml5Vk5hTzlLa2gxNDlfUzI?oc=5",
+      "publishedAt": "2026-07-29T22:25:16.000Z",
+      "titleKa": "Sonos (SONO) Q3 მოგება და შემოსავალი პროგნოზებს აღემატება",
+      "summaryKa": "Sonos-ის Q3 მოგება და შემოსავალი პროგნოზებს გადააჭარბა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6431fbd45d6a1a73",
+      "title": "Rush Street Interactive, Inc. (RSI) Q2 Earnings Match Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkp1UWk3bHNFWWVGOGZvaVpHemdaRXhBMm9SUlRGODEzdUZHeVVKa2luS3JEaEQ4UFYwdEZqT2c0c29yaDZDOHVZeUd5WjFuVnlReUZHR25OUHAzazFxcElkd19nZVlvN1VwYjV1RnBzUThTUzItd1pHSkxZM1h1ekQycVoxYTVPWWJsQVAwUXptaVZnazRESE5vSmU?oc=5",
+      "publishedAt": "2026-07-29T22:25:15.000Z",
+      "titleKa": "Rush Street Interactive, Inc. (RSI) Q2 მოგება პროგნოზებს ემთხვევა",
+      "summaryKa": "Rush Street Interactive-ის Q2 მოგება პროგნოზებს ემთხვევა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "6eb0ba4e036f1db1",
