@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-07-30T22:54:14.996Z",
+  "updatedAt": "2026-07-30T23:50:50.192Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "6e9f86d19d8a0850",
+      "title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft’s earnings",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbnZNUUV6X19kTWN2LUZMOU96M3B6emNqRE1VY0xwcURXdXMzaXliQzYxRjl5V2Nod2dHcjNRWXBfR3pkLWFSeThrWVVwN2FZbXpwRjZNTHJTbGNreUVkVGtUX3JpaWQ4bDJVQmtrTVIwWm5kSkxnTmpuQ3B3Z01wUkxmLWlNRzZXMzJhTlY5Uk1POGxvYWtwS3ZjT0xXNHJzd3VtcG1pcXlyNExNVGhpSU03MW5nMnBCOXgzeV9GaVFCdTdMc1RuN0R1NA?oc=5",
+      "publishedAt": "2026-07-30T20:26:00.000Z",
+      "titleKa": "Micron, Sandisk და სხვა ჩიპების აქციები Microsoft-ის შემოსავლების შემდეგ მნიშვნელოვან ზრდას იღებენ",
+      "summaryKa": "Micron, Sandisk და სხვა ჩიპების აქციები Microsoft-ის შემოსავლების შემდეგ მნიშვნელოვან ზრდას იღებენ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "410ae7f7e43c4dec",
       "title": "Gold Advances After Federal Reserve Keeps Interest Rates on Hold",
@@ -141,17 +152,6 @@
       "publishedAt": "2026-07-30T17:46:32.000Z",
       "titleKa": "Nasdaq-მა საუკეთესო დღე ივნისში Microsoft Azure-ის შემოსავლის ზრდის გამო",
       "summaryKa": "Nasdaq-მა საუკეთესო დღე ივნისში Microsoft Azure-ის შემოსავლის ზრდის გამო დაფიქსირდა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "6e9f86d19d8a0850",
-      "title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft’s earnings",
-      "source": "MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbnZNUUV6X19kTWN2LUZMOU96M3B6emNqRE1VY0xwcURXdXMzaXliQzYxRjl5V2Nod2dHcjNRWXBfR3pkLWFSeThrWVVwN2FZbXpwRjZNTHJTbGNreUVkVGtUX3JpaWQ4bDJVQmtrTVIwWm5kSkxnTmpuQ3B3Z01wUkxmLWlNRzZXMzJhTlY5Uk1POGxvYWtwS3ZjT0xXNHJzd3VtcG1pcXlyNExNVGhpSU03MW5nMnBCOXgzeV9GaVFCdTdMc1RuN0R1NA?oc=5",
-      "publishedAt": "2026-07-30T17:36:00.000Z",
-      "titleKa": "Micron, Sandisk და სხვა ჩიპების აქციები Microsoft-ის შემოსავლების შემდეგ მნიშვნელოვან ზრდას იღებენ",
-      "summaryKa": "Micron, Sandisk და სხვა ჩიპების აქციები Microsoft-ის შემოსავლების შემდეგ მნიშვნელოვან ზრდას იღებენ.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
