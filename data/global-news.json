@@ -1,8 +1,132 @@
 {
-  "updatedAt": "2026-07-30T16:57:41.013Z",
+  "updatedAt": "2026-07-30T18:10:12.552Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "681283085d0477bf",
+      "title": "Microsoft's and Meta's results send stocks in opposite directions",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2kyYzl3b1dFazBMTmVwQjFBaXlOSVE2REx2a21aWGl1OEFMQm12Y1ZOek1rZ1NNV0ZxR0V6bmo4amhHaUFvMUVTTE5jdHNqUXNuRXI1MjRVUHd6R25NNEFYaGJrUk5BaEJvbTFZN2kwVGxSSS03WDQxazFHd2t0NGVGSlFQeUtaaGxabDFhemRwWkVnU0pkMUtYdzNidGViOGNicDYxTGh3aldzOWtRSUlNT2lSRE9qT0lidkhrUUM?oc=5",
+      "publishedAt": "2026-07-30T18:00:06.000Z",
+      "titleKa": "Microsoft-ის და Meta-ს შედეგები აქციების მიმართულებებს განსხვავებულად განსაზღვრავს",
+      "summaryKa": "Microsoft-ის და Meta-ს შედეგები აქციების მიმართულებებს განსხვავებულად განსაზღვრავს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+      "bodyKa": "## Microsoft-ის წარმატება\nMicrosoft-ის (MSFT) მეოთხე კვარტლის შედეგები, რომელიც 15%-ით გაიზარდა, ინვესტორების ყურადღების ცენტრში მოექცა. კომპანიის შემოსავალი და მოგება მოლოდინზე უკეთესი აღმოჩნდა, რაც Azure-ის 43%-იანი ზრდით იყო გამოწვეული. Azure-ის შემოსავალი პირველად გადააჭარბა 100 მილიარდ დოლარს, ხოლო Microsoft-ის პროგნოზით, პირველ კვარტალში გაყიდვები 45%-ით გაიზრდება. Microsoft 365 Copilot-ის მომხმარებელთა რაოდენობამ 30 მილიონს გადააჭარბა.\n\nMicrosoft-ის ფინანსური დირექტორის, ეიმი ჰუდის განცხადებით, კომპანია ზრდას კიდევ უფრო აჩქარებს 2027 წლის პირველ ნახევარში. ეს ინფორმაცია ინვესტორებისთვის სასიამოვნო იყო, განსაკუთრებით იმ ფონზე, რომ Microsoft-ის აქციები გასულ წელს 20%-ით შემცირდა.\n\n## ხარჯების კონტროლი\nკომპანიის მიერ ხარჯების კონტროლის შესახებ განცხადებამ ასევე დადებითი გავლენა მოახდინა აქციების ფასზე. ჰუდმა აღნიშნა, რომ Microsoft-ის მონაცემთა ცენტრებისა და ოფისების გამოყენების ვადა 15 წლიდან 25 წლამდე გაიზრდება, რაც მომავალში ფინანსური ლიზინგების ოპერაციულ ლიზინგებზე გადაყვანას გულისხმობს. ეს ცვლილება კაპიტალური ხარჯების შემცირებას შეუწყობს ხელს.\n\n## Meta-ს გამოწვევები\nმეორეს მხრივ, Meta (META) ვერ შეძლო მოლოდინების გამართვა. კომპანიის მოგება აქციაზე მოლოდინზე დაბალი აღმოჩნდა, რაც სამართლებრივი და განთავისუფლების ხარჯების შედეგი იყო. თავისუფალი ფულადი ნაკადი 8.5 მილიარდიდან 784 მილიონ დოლარამდე შემცირდა, რაც მიუთითებს იმაზე, რომ Meta კვლავ ინვესტირებას ახორციელებს AI ტექნოლოგიების განვითარებაში.\n\nMeta-ს ხელმძღვანელმა, მარკ ცუკერბერგმა, არ გაწვდილი 2027 წლის კაპიტალური ხარჯების პროგნოზი ინვესტორების უკმაყოფილებას გამოიწვია. Wall Street-ის წარმომადგენლები მოელოდნენ მეტ ინფორმაციას Meta-ს AI შესაძლებლობების გაქირავების გეგმებზე, თუმცა კონკრეტული პასუხები არ გაწვდილა.\n\n## ინვესტორების რეაქცია\nამჟამად, Microsoft-ის წარმატება Wall Street-ის აღიარებას იმსახურებს, ხოლო Meta კი ინვესტორების კრიტიკის ქვეშ იმყოფება. AI-ის ბაზარზე არსებული მერყეობა კი მომავალში სიტუაციის ცვლილებას შეიძლება გამოიწვიოს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "12dddc280d34f5fb",
+      "title": "Update: Equities Rise Intraday as Microsoft's Post-Earnings Rally Lifts Tech Sector",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOFlXZUI3RTl6ZnFQc3h3QUVDdnlCa1p0YW1LcHBKWnBzbmY0MC1HY1JhUW5VSmFxZnZGNUttX3VBSjdGT2dDNERSZkJwTWxXXy1RazBhX1Vqa0FwUnVrczdEYUJzclFnWkV3Skl6SDlkOUFGeFB2Mlp5d1pPZWFoNWx2MmREODMxc0hNYV9NMWZObndDemZidklyc0pMVzhDZWJITA?oc=5",
+      "publishedAt": "2026-07-30T17:49:18.000Z",
+      "titleKa": "განახლება: აქციები დღის განმავლობაში იზრდება, რადგან Microsoft-ის შემოსავლების შემდეგი ზრდა ტექნოლოგიურ სექტორს აძლიერებს",
+      "summaryKa": "Microsoft-ის შემოსავლების შემდეგი ზრდა ტექნოლოგიურ სექტორს აძლიერებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6e9f86d19d8a0850",
+      "title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft’s earnings",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbnZNUUV6X19kTWN2LUZMOU96M3B6emNqRE1VY0xwcURXdXMzaXliQzYxRjl5V2Nod2dHcjNRWXBfR3pkLWFSeThrWVVwN2FZbXpwRjZNTHJTbGNreUVkVGtUX3JpaWQ4bDJVQmtrTVIwWm5kSkxnTmpuQ3B3Z01wUkxmLWlNRzZXMzJhTlY5Uk1POGxvYWtwS3ZjT0xXNHJzd3VtcG1pcXlyNExNVGhpSU03MW5nMnBCOXgzeV9GaVFCdTdMc1RuN0R1NA?oc=5",
+      "publishedAt": "2026-07-30T17:36:00.000Z",
+      "titleKa": "Micron, Sandisk და სხვა ჩიპების აქციები Microsoft-ის შემოსავლების შემდეგ მნიშვნელოვან ზრდას იღებენ",
+      "summaryKa": "Micron, Sandisk და სხვა ჩიპების აქციები Microsoft-ის შემოსავლების შემდეგ მნიშვნელოვან ზრდას იღებენ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "80bf211eceab52d8",
+      "title": "Sector Update: Healthcare Stocks Decline Thursday Afternoon",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnlsOWhnT2tXSVZuSDJYV3hPdWFBdzN2YmJFYzd0UVZXcjBPZW9Qdjl1WDZxanpaa3ZYUlI4b0g5QWxKR2wwdlFtcDJ1RjIxdk05MjJhT0xYc2xxd1ZVY3ZqXzdKd1NIQ1puWWNBdEFGNFBMdmFwY2ZoZnVNZXVfWl9CNUJBVC1oanIySTFaaklNV2hNc21Sam1lb3Z0VVpvUnBScw?oc=5",
+      "publishedAt": "2026-07-30T17:35:31.000Z",
+      "titleKa": "სექტორის განახლება: ჯანდაცვის აქციები ხუთშაბათს საღამოს იკლებს",
+      "summaryKa": "ჯანდაცვის აქციები ხუთშაბათს საღამოს იკლებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "46050e6c84f62ec9",
+      "title": "A New $400 Million Investment From Citadel Securities Values Crypto.com at $20 Billion. Here's What That Means For Crypto.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkRfQVMtMlkzS0hycVdWTXV5cmZwa25BQnZuRFlDamhhVzRLcy02MTJlbVVKWEJObFd4MGZpRHdmVzU0dnpwem8zckdOZlB3cTN2S0lGS1Z5dWhWQTFGc1BlLWx5Mi1NY0tONlFiYWRnLXlQLUxHRmo5Q3VUak9TVC1RWEExRW1vQ2t2TGxNR2w3YlpIcWFIb3NRUVQzclExdTZWaVhENHN2QQ?oc=5",
+      "publishedAt": "2026-07-30T17:13:13.000Z",
+      "titleKa": "ახალი $400 მილიონიანი ინვესტიცია Citadel Securities-ისგან Crypto.com-ის ღირებულებას $20 მილიარდად აფასებს. ეს რას ნიშნავს კრიპტოსთვის.",
+      "summaryKa": "Citadel Securities-ის ახალი $400 მილიონიანი ინვესტიცია Crypto.com-ის ღირებულებას $20 მილიარდად აფასებს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c1915e1c7a8724a0",
+      "title": "Visa vs PayPal: The Post Earnings Winner",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYTRJOXFPX3VDdVBRalNXTThreWp6d0YwclFzNGxIZ1ZhaEFsMGFGbW93UkNEbV9FWV9TSDBBYk0zN3Q3Qk1mdWdEMWY2WktJREFDUnN6T20yeDc1dzFJaEtWdGt4M2JkLWNkR2w3WWoyZUpnckdhc25qQ2dSXzZYSElUclpUQUZ4aU9OT0p2bXZqZjkxX3pTeA?oc=5",
+      "publishedAt": "2026-07-30T17:00:16.000Z",
+      "titleKa": "Visa vs PayPal: შემოსავლების შემდეგი გამარჯვებული",
+      "summaryKa": "Visa და PayPal-ის შემოსავლების შემდეგი გამარჯვებული განიხილება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a50340d877e40299",
+      "title": "Apple Faces a Closely Watched Earnings Test",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTW9vQUJTdVhsN0VfZEFlT3V3a2dQSlhsQ3ZmMzcteThKMmMta2NjZkRoRS1KZVQ3RFBKQWREQjliTkJSd3pTWXJTUnd4QUYtTjROTFAzY2RuZjFEZHVNMjd4b0cxakhENDVWZmRIWUpkeUx2R3RPWVhMMElUNERWdVdGRmRqY0RZQmwwR1MzSGJaMTJwcU8zYnh1VGUzbVZONGN3?oc=5",
+      "publishedAt": "2026-07-30T16:54:36.000Z",
+      "titleKa": "Apple-ისთვის ყურადღებით დაკვირვებული შემოსავლების გამოცდა",
+      "summaryKa": "Apple-ისთვის ყურადღებით დაკვირვებული შემოსავლების გამოცდა მიმდინარეობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "357d1c5d740c5074",
+      "title": "Stock Market Midday, July 30: Microsoft Soars 15%, Boosting Tech Stocks",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlBjZWlLUFdHTlZOQ05tRlBXUDhUYjdxT0FIS0Z6eHRUX1VFeUxUSGx6TlZNaG5oQ1JMbUNaVktPM0hlWjJzMGkxMlNManRwYml6Y0JUUU1mN3Q1R3R1T2FPY3ZEdEx4S1B2clVjZXYyM0lMMHlTbF9rRXJGUmdNcjBrbE0wdExGVjU3a1hLOGlVSFBaRUJZ?oc=5",
+      "publishedAt": "2026-07-30T16:52:24.000Z",
+      "titleKa": "აქციების ბაზარი შუადღისას, 30 ივლისი: Microsoft 15%-ით იზრდება, ტექნოლოგიური აქციები იზრდება",
+      "summaryKa": "Microsoft 15%-ით იზრდება, რაც ტექნოლოგიური აქციების ზრდას იწვევს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "af1825cabae9fc77",
+      "title": "A New Crypto Index Just Launched. Here's Why That's Bullish for Ethereum, Solana, and Hyperliquid.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlhwMnMwcGhVZll2VFRmTG1XVG1SOUozRmpXS1B3dlJFR0xvczFiOVJJVDJLWjc0NnNzcHdic3lOVmdrd2x0S3p2c3BvbHpkLWU5ZFg5c3V4c052LXhPdTY4cS1wbUI1Y0dGV1Qxa1VYSVhkYUJkS2RJRE9nYzFfZVpscGpDRTY4WkpqbDM2ZlduRzZTYVRHdm5SSVVFUQ?oc=5",
+      "publishedAt": "2026-07-30T16:50:00.000Z",
+      "titleKa": "ახალი კრიპტო ინდექსი ახლახან გაწვდილი გახდა. ეს რატომ არის პოზიტიური Ethereum-ის, Solana-ს და Hyperliquid-ისთვის.",
+      "summaryKa": "ახალი კრიპტო ინდექსი ახლახან გაწვდილი გახდა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4e3121c2d4f99afe",
+      "title": "PPC Q2 Earnings Miss Estimates on Commodity Pricing Pressure",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZEtxY2h3RnZGRldad05RV2IzVWFhUEZ4Z2NxbTJoNzUxOWl4NDRzQzczYjhzaExVUW54cUt1bEVUbTlSVGY1Yl85REVfQ2hVbG1hbGpsQzNDRUszUzRBRHh1NkpRRDlENVZlem90aFlmeE5EUG5hYU5uUjZqRU1KcTFaY3pZTFFCSksweFpYZFRxYlE1b0J4N1lkaw?oc=5",
+      "publishedAt": "2026-07-30T16:42:00.000Z",
+      "titleKa": "PPC-ის Q2 შემოსავლები პროგნოზებს ვერ აკმაყოფილებს საქონლის ფასების ზეწოლის გამო",
+      "summaryKa": "PPC-ის Q2 შემოსავლები პროგნოზებს ვერ აკმაყოფილებს საქონლის ფასების ზეწოლის გამო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "df7e0db37c419b3a",
+      "title": "Revvity to Report Q2 Earnings: What's in Store for the Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSmlxcDlKNldaZ2JxQ1gxdjVzbjk3MVJoXzF6cG9pcnYzMm91YlY4djZNbHJXemEtNlZvc2JrRURyQ29lZjVPSHZhaHVhTzZZQnlqMVo0WGR1VkpxZUZlemV5X1dvazBObzRPaHhvM0JIeVdyM0pNYlAxTjRaSlJ6QXRvcnpoZ1BHcG5iMlBSdGZoSTJwLUNyU05YUk1qQQ?oc=5",
+      "publishedAt": "2026-07-30T16:40:00.000Z",
+      "titleKa": "Revvity Q2 შემოსავლების ანგარიშს წარადგენს: რა არის მოსალოდნელი აქციისთვის?",
+      "summaryKa": "Revvity Q2 შემოსავლების ანგარიშს წარადგენს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "e5093a4cba5a3f59",
       "title": "Jeff Currie’s Post-Goldman Trajectory Takes Him Toward Offshore Oil IPO",
