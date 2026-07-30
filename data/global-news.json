@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-07-30T19:48:46.335Z",
+  "updatedAt": "2026-07-30T22:54:14.996Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "410ae7f7e43c4dec",
+      "title": "Gold Advances After Federal Reserve Keeps Interest Rates on Hold",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3V5TEY4Snd6ZERyQ0FJUEtLSGVWQnVyQzhyRjNWVWhJTHZkWHNicGlTckRwYzVNaGZrTTNCZ2xDMW5teDZQNVBBZlZtbGllVVpnN2U1MUZyM0NMLTdwWFpYTnMxSnpUYVR1NmpYaDRqdXNyN25QdklZcVUxWXN2bUs0cFJLNk9pU3UyZHNYdVRmMnRwTHY0UlM0Rkdlc2YtWG52T3FiWWF2UGJIdk02aFlRQVdGZw?oc=5",
+      "publishedAt": "2026-07-30T20:25:15.000Z",
+      "titleKa": "ოქრო იზრდება, რადგან ფედერალური რეზერვი საპროცენტო განაკვეთებს უცვლელად ინარჩუნებს",
+      "summaryKa": "ფედერალური რეზერვის მიერ საპროცენტო განაკვეთების შენარჩუნების შემდეგ, ოქროს ფასი გაიზარდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-29/gold-advances-after-federal-reserve-keeps-interest-rates-on-hold",
+      "bodyKa": "## ოქროს ფასების ზრდა\n\nამერიკის შეერთებული შტატების ფედერალური რეზერვის მიერ საპროცენტო განაკვეთების შენარჩუნების შემდეგ, ოქროს ფასი გაიზარდა. ეს გადაწყვეტილება, რომელიც 2026 წლის 29 ივლისს იქნა მიღებული, გამოიწვია ინფლაციის რისკების ზრდამ, რაც დაკავშირებულია ახლო აღმოსავლეთში მიმდინარე ომთან.\n\n## ინფლაციის გავლენა\n\nფედერალური რეზერვი, რომელიც პასუხისმგებელია ქვეყნის მონეტარული პოლიტიკის მართვაზე, მუდმივად აკვირდება ეკონომიკურ პირობებს. ამჯერად, მიუხედავად იმისა, რომ ინფლაციის დონე იზრდება, რეზერვი არ აპირებს საპროცენტო განაკვეთების გაზრდას. ეს გადაწყვეტილება, როგორც ჩანს, დადებითად მოქმედებს ოქროს ბაზარზე, რადგან ინვესტორები ეძებენ უსაფრთხო თავშესაფარს.\n\n## ოქროს ბაზრის რეაქცია\n\nოქროს ფასების ზრდა, რომელიც მოხდა ფედერალური რეზერვის განცხადების შემდეგ, მიუთითებს იმაზე, რომ ინვესტორები უფრო მეტად ინტერესდებიან ოქროთი, როგორც აქტივით, რომელიც შეიძლება დაიცვას მათ კაპიტალი ეკონომიკური არასტაბილურობის დროს. ოქრო ისტორიულად ითვლება უსაფრთხო აქტივად, რაც განსაკუთრებით მნიშვნელოვანია მაშინ, როდესაც ბაზარზე გაურკვევლობაა.\n\n## მომავალი პერსპექტივები\n\nმომავალში, თუ ფედერალური რეზერვი კვლავ შეინარჩუნებს განაკვეთებს, შეიძლება ველოდოთ, რომ ოქროს ფასები კიდევ უფრო გაიზრდება. თუმცა, ინვესტორები უნდა იყვნენ ყურადღებით, რადგან ეკონომიკური პირობები სწრაფად იცვლება და შეიძლება გავლენა მოახდინოს ოქროს ბაზარზე.\n\n## დასკვნა\n\nამჟამად, ოქროს ფასების ზრდა არის მნიშვნელოვანი ინდიკატორი, რომელიც ასახავს ინვესტორების ნდობას და ბაზრის მდგომარეობას. ფედერალური რეზერვის გადაწყვეტილება, რომელიც საპროცენტო განაკვეთების შენარჩუნებას ეხება, შესაძლოა, კიდევ უფრო გააძლიეროს ოქროს პოზიცია ბაზარზე.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "33922704cd40b966",
       "title": "Update: US Equity Indexes Surge as Microsoft's Quarterly Results Spark Rebound in Chipmakers Ahead of Amazon's Earnings",
@@ -11,6 +25,17 @@
       "publishedAt": "2026-07-30T19:32:20.000Z",
       "titleKa": "განახლება: აშშ-ის აქციების ინდექსები იზრდება, რადგან Microsoft's კვარტალური შედეგები ჩიპმწარმოებლების აღდგენის მიზეზი ხდება Amazon-ის მოგების წინ",
       "summaryKa": "Microsoft-ის კვარტალური შედეგები ჩიპმწარმოებლების აღდგენის მიზეზი გახდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9dbe757885b187c5",
+      "title": "Oil Holds Gain as Trump Vows to Hit Iran and US Stockpiles Slump",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGxpOXNQM2t1RE9CVzd4SFgzTFkyb1UxLTlkakhEVXJfNkxPUGJSWWJLSlB4RHFQa2IzVFNKc2xBdFZIRVpwUC1BRWpnZ1BnenFZU2Z0cnR4clE3Ym5rbEN6eHZiQ2hHSW5kd1FBbVlYVXI3d0hCVjZkblhITGx2Q2cwbTJ0VFMzQWx5QnRrZUpxQkVzQUFmODhWaWJGZTA?oc=5",
+      "publishedAt": "2026-07-30T19:19:43.000Z",
+      "titleKa": "ნავთობი ინარჩუნებს ზრდას, რადგან ტრამპი ირანს ემუქრება და აშშ-ის მარაგები მცირდება",
+      "summaryKa": "ნავთობის ფასები იზრდება, რადგან ტრამპი ირანს ემუქრება და აშშ-ის მარაგები მცირდება.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -926,20 +951,6 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "410ae7f7e43c4dec",
-      "title": "Gold Advances After Federal Reserve Keeps Interest Rates on Hold",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3V5TEY4Snd6ZERyQ0FJUEtLSGVWQnVyQzhyRjNWVWhJTHZkWHNicGlTckRwYzVNaGZrTTNCZ2xDMW5teDZQNVBBZlZtbGllVVpnN2U1MUZyM0NMLTdwWFpYTnMxSnpUYVR1NmpYaDRqdXNyN25QdklZcVUxWXN2bUs0cFJLNk9pU3UyZHNYdVRmMnRwTHY0UlM0Rkdlc2YtWG52T3FiWWF2UGJIdk02aFlRQVdGZw?oc=5",
-      "publishedAt": "2026-07-30T05:59:00.000Z",
-      "titleKa": "ოქრო იზრდება, რადგან ფედერალური რეზერვი საპროცენტო განაკვეთებს უცვლელად ინარჩუნებს",
-      "summaryKa": "ფედერალური რეზერვის მიერ საპროცენტო განაკვეთების შენარჩუნების შემდეგ, ოქროს ფასი გაიზარდა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-29/gold-advances-after-federal-reserve-keeps-interest-rates-on-hold",
-      "bodyKa": "## ოქროს ფასების ზრდა\n\nამერიკის შეერთებული შტატების ფედერალური რეზერვის მიერ საპროცენტო განაკვეთების შენარჩუნების შემდეგ, ოქროს ფასი გაიზარდა. ეს გადაწყვეტილება, რომელიც 2026 წლის 29 ივლისს იქნა მიღებული, გამოიწვია ინფლაციის რისკების ზრდამ, რაც დაკავშირებულია ახლო აღმოსავლეთში მიმდინარე ომთან.\n\n## ინფლაციის გავლენა\n\nფედერალური რეზერვი, რომელიც პასუხისმგებელია ქვეყნის მონეტარული პოლიტიკის მართვაზე, მუდმივად აკვირდება ეკონომიკურ პირობებს. ამჯერად, მიუხედავად იმისა, რომ ინფლაციის დონე იზრდება, რეზერვი არ აპირებს საპროცენტო განაკვეთების გაზრდას. ეს გადაწყვეტილება, როგორც ჩანს, დადებითად მოქმედებს ოქროს ბაზარზე, რადგან ინვესტორები ეძებენ უსაფრთხო თავშესაფარს.\n\n## ოქროს ბაზრის რეაქცია\n\nოქროს ფასების ზრდა, რომელიც მოხდა ფედერალური რეზერვის განცხადების შემდეგ, მიუთითებს იმაზე, რომ ინვესტორები უფრო მეტად ინტერესდებიან ოქროთი, როგორც აქტივით, რომელიც შეიძლება დაიცვას მათ კაპიტალი ეკონომიკური არასტაბილურობის დროს. ოქრო ისტორიულად ითვლება უსაფრთხო აქტივად, რაც განსაკუთრებით მნიშვნელოვანია მაშინ, როდესაც ბაზარზე გაურკვევლობაა.\n\n## მომავალი პერსპექტივები\n\nმომავალში, თუ ფედერალური რეზერვი კვლავ შეინარჩუნებს განაკვეთებს, შეიძლება ველოდოთ, რომ ოქროს ფასები კიდევ უფრო გაიზრდება. თუმცა, ინვესტორები უნდა იყვნენ ყურადღებით, რადგან ეკონომიკური პირობები სწრაფად იცვლება და შეიძლება გავლენა მოახდინოს ოქროს ბაზარზე.\n\n## დასკვნა\n\nამჟამად, ოქროს ფასების ზრდა არის მნიშვნელოვანი ინდიკატორი, რომელიც ასახავს ინვესტორების ნდობას და ბაზრის მდგომარეობას. ფედერალური რეზერვის გადაწყვეტილება, რომელიც საპროცენტო განაკვეთების შენარჩუნებას ეხება, შესაძლოა, კიდევ უფრო გააძლიეროს ოქროს პოზიცია ბაზარზე.",
-      "articleNotice": "Original Georgian overview based on the credited publisher source"
-    },
-    {
       "id": "5971df880ca50795",
       "title": "South Korea’s Toolkit Comes Into Focus as Stocks Extend Selloff",
       "source": "Bloomberg.com",
@@ -947,17 +958,6 @@
       "publishedAt": "2026-07-30T05:38:00.000Z",
       "titleKa": "სამხრეთ კორეის ინსტრუმენტები ყურადღების ცენტრშია, რადგან აქციები ვარდნას განაგრძობს",
       "summaryKa": "სამხრეთ კორეის ეკონომიკური ინსტრუმენტები ყურადღების ცენტრშია აქციების ვარდნის ფონზე.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "9dbe757885b187c5",
-      "title": "Oil Holds Gain as Trump Vows to Hit Iran and US Stockpiles Slump",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGxpOXNQM2t1RE9CVzd4SFgzTFkyb1UxLTlkakhEVXJfNkxPUGJSWWJLSlB4RHFQa2IzVFNKc2xBdFZIRVpwUC1BRWpnZ1BnenFZU2Z0cnR4clE3Ym5rbEN6eHZiQ2hHSW5kd1FBbVlYVXI3d0hCVjZkblhITGx2Q2cwbTJ0VFMzQWx5QnRrZUpxQkVzQUFmODhWaWJGZTA?oc=5",
-      "publishedAt": "2026-07-30T05:13:00.000Z",
-      "titleKa": "ნავთობი ინარჩუნებს ზრდას, რადგან ტრამპი ირანს ემუქრება და აშშ-ის მარაგები მცირდება",
-      "summaryKa": "ნავთობის ფასები იზრდება, რადგან ტრამპი ირანს ემუქრება და აშშ-ის მარაგები მცირდება.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
