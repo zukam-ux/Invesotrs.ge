@@ -1,8 +1,55 @@
 {
-  "updatedAt": "2026-07-30T18:10:12.552Z",
+  "updatedAt": "2026-07-30T19:48:46.335Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "33922704cd40b966",
+      "title": "Update: US Equity Indexes Surge as Microsoft's Quarterly Results Spark Rebound in Chipmakers Ahead of Amazon's Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFc5TUdCUlFaYloxZWRoc1htMHcyY3RrbFd3Ny12QTFRZkVZRjd3aGFVV3BUc2hPMm9xVlFZam45endkbVFodHE2eXItV2FCbmp6NWtRZy0zSE0tRkIwaUV2d29ZVjBMUkZWYXdEV0VHUm1LZDRZaFJQY2Z0LVktdXZZUjRtTnNnYVFYVXJTRHlBTG01ZWxMUktMaWNTaXc?oc=5",
+      "publishedAt": "2026-07-30T19:32:20.000Z",
+      "titleKa": "განახლება: აშშ-ის აქციების ინდექსები იზრდება, რადგან Microsoft's კვარტალური შედეგები ჩიპმწარმოებლების აღდგენის მიზეზი ხდება Amazon-ის მოგების წინ",
+      "summaryKa": "Microsoft-ის კვარტალური შედეგები ჩიპმწარმოებლების აღდგენის მიზეზი გახდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "369a378d1caf3d86",
+      "title": "3 AI Stocks That Could Reward Patient Investors for Years to Come",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVGVsYlNxMXhDX3Zsa2kxQ1V0cndwUHZnUEwyMmhRMXQ2VnlZOWNJUlhnU0I2UlJfSUxNdkZhZEFjUUVrTGRTdTNVaE1lV1FEa1p4NDduMllIcVczckZNckk5VGpZLU41Z3dnZG1aOFQzRGxpbnRCOWwwUEpMc00yMFZ1Y0ZCd1d1RW5heUUzT004Zw?oc=5",
+      "publishedAt": "2026-07-30T18:30:26.000Z",
+      "titleKa": "3 AI აქცია, რომლებიც შეიძლება დააჯილდოვოს მოთმინებული ინვესტორები მრავალი წლის განმავლობაში",
+      "summaryKa": "ამ სტატიაში განხილულია სამი AI აქცია, რომლებიც ინვესტორებს შესაძლოა დიდი სარგებელი მოუტანოს.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-could-reward-183026612.html",
+      "bodyKa": "## AI აქციების მიმოხილვა\n\n2026 წლის მონაცემებით, IonQ, D-Wave Quantum და Rigetti Computing, სამი კომპანია, რომლებიც ხელოვნური ინტელექტის (AI) სფეროში ოპერირებენ, ინვესტორებისთვის საინტერესო შესაძლებლობებს წარმოადგენენ. მიუხედავად იმისა, რომ მათი აქციები წელს 30%-ზე მეტი შემცირდა, კომპანიების ფინანსური მაჩვენებლები და ზრდის პერსპექტივები კვლავ მიმზიდველია.\n\n## IonQ-ის ფინანსური შედეგები\n\nIonQ-ის აქცია ამჟამად $31.99 ღირს, რაც 28.71%-ით არის შემცირებული 2026 წლის განმავლობაში. თუმცა, კომპანიის Q1 2026-ის შემოსავალი 755%-ით გაიზარდა წელიწადში და მიაღწია $64.67 მილიონს. IonQ-ის ხელმძღვანელობამ 2026 წლის მთლიანი შემოსავლის პროგნოზი $260-$270 მილიონამდე გაზარდა. კომპანიის CEO, Niccolo de Masi, აღნიშნავს, რომ ეს იყო \"ჩვენი კომპანიის ისტორიაში ყველაზე დიდი კვარტალი\".\n\n## D-Wave Quantum-ის ზრდა\n\nD-Wave Quantum-ის აქცია $17.11 ღირს, რაც 38.13%-ით არის შემცირებული წელს. მიუხედავად ამისა, კომპანიის Q1 შემოსავალი $2.86 მილიონი იყო, თუმცა შეკვეთები $33.4 მილიონამდე გაიზარდა, რაც Florida Atlantic University-ის სისტემის წყალობით მოხდა. D-Wave-ის CEO, Alan Baratz, აცხადებს, რომ D-Wave არის \"ერთ-ერთი ერთადერთი კვანტური კომპიუტერული კომპანია, რომელიც მუშაობს როგორც ანილირების, ისე კარიბჭის მოდელზე\".\n\n## Rigetti Computing-ის შესაძლებლობები\n\nRigetti Computing-ის აქცია $13.73 ღირს, რაც 40.32%-ით არის შემცირებული 2026 წლის განმავლობაში. კომპანიის Q1 შემოსავალი $4.40 მილიონი იყო, რაც თითქმის სამჯერ გაიზარდა. Rigetti-ის 108-qubit სისტემა უკვე ხელმისაწვდომია AWS Braket-ზე და Azure Quantum-ზე. კომპანიის CEO, Subodh Kulkarni, აღნიშნავს, რომ \"მნიშვნელოვანი ზრდა მოხდა წელიწადში\".\n\n## ინვესტორების პერსპექტივები\n\nყველა სამი კომპანია Wall Street-ის მიერ დადებით შეფასებებს იღებს, რაც ნიშნავს, რომ ინვესტორებს საშუალება აქვთ, რომ მომავალი წლის განმავლობაში მნიშვნელოვანი მოგება მიიღონ. IonQ-ის საშუალო მიზანი $68.41, D-Wave-ის $37.05 და Rigetti-ის $29.65-ია. თუმცა, ინვესტორებმა უნდა გაითვალისწინონ, რომ ამ კომპანიების აქციები მაღალი ვოლატილობით ხასიათდება, რაც ნიშნავს, რომ რისკები არსებობს.\n\n## დასკვნა\n\nAI და კვანტური კომპიუტინგი ინვესტორებისთვის საინტერესო სფეროებია, თუმცა მათ უნდა იყვნენ მზად, რომ მოითმინონ და გაუმკლავდნენ ბაზრის ცვლილებებს. IonQ, D-Wave და Rigetti, მიუხედავად მიმდინარე გამოწვევებისა, ინვესტორებს შესაძლებლობას აძლევენ, რომ მომავალში მნიშვნელოვანი სარგებელი მიიღონ.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "4c022bf43fd1a056",
+      "title": "Should You Buy Automatic Data Processing (ADP) On Post-Earnings Dip?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVjJzd3FHMEZwYWtfd3FjcUl2d0xxNk9FcmxSRE5VS3VuRnlGbEdSdkY4S3YzdEFhR2lhTEV0ZkRSOWwyTHJ2ZnBlVXFZVmQwOUxSUEJRbVJlVjlqM2FOVzlDWFRIVkVuYXpVMlZPMnVTVE9YaHdISnNLdE9EM1NPSEZabnhTdTBuUWZadmhKOW1vVDh2TVJkemFvNlRfNlE?oc=5",
+      "publishedAt": "2026-07-30T18:20:20.000Z",
+      "titleKa": "უნდა იყიდოთ Automatic Data Processing (ADP) მოგების შემდეგი ვარდნის დროს?",
+      "summaryKa": "სტატია ეხება Automatic Data Processing-ის (ADP) აქციის შეძენის შესაძლებლობას მოგების შემდეგ ვარდნის დროს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a11eec2178a35490",
+      "title": "Want to trade stocks 23 hours a day? The SEC is looking into how to make it work.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOE1CbnB2aGpJM0dRdlpFbnlMYVc2QnBqcXhnZkYtUzYxTjZfTWNRY3hjZFJ0ajhyVndFZEhMS3ZPY2FWa2NQLVBNZmdsVVhnWU1hbG95akJIOFRDazQtdGJlU1pvOWdIZVJtclFldHBLdjY4ajlCb1FUWHRBV0Vyb25DZ3ZkWmVNTnphSW9WTTdGekNGMzdTZlZTSVNENHVBTHRoUmMwOVhEb0RLQ1FaNTFlMkhPQWN5UGpIWW9DOXJsclpMSm9TNW9RczNLSGg2QXc?oc=5",
+      "publishedAt": "2026-07-30T18:18:27.000Z",
+      "titleKa": "გსურთ ვაჭრობა აქციებით 23 საათის განმავლობაში? SEC სწავლობს, როგორ უნდა გააკეთოს ეს შესაძლებელი.",
+      "summaryKa": "SEC სწავლობს, როგორ შეიძლება შესაძლებელი გახდეს აქციებით 23 საათის განმავლობაში ვაჭრობა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "681283085d0477bf",
       "title": "Microsoft's and Meta's results send stocks in opposite directions",
@@ -18,6 +65,39 @@
       "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
+      "id": "e4a2abc9206d4240",
+      "title": "Microsoft and Meta’s results send stocks in opposite directions",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR3VERHJpeUdQNUdCdV90LUdLMC1YMGJoYS0xb29oNkdqODJjX2tDZllHdWU1d3BETHNFaDVoVlhMUTR4YWZaMTNZLXNlZzVKLU1rYTJzMlRuVlRnLVFmZHRrMFV3VnllcWI2WjB5N3FfbDBKdDZNZm5RSk5DVWNzUTI2VFdRMEFzeVdrVl91NGtUcUdmN1UzVDBFNWdXVmRWNnN3S0Fwa25EMGFzNmhUWndNTkFfdXFERWZJaG1R?oc=5",
+      "publishedAt": "2026-07-30T18:00:06.000Z",
+      "titleKa": "Microsoft-ის და Meta-ს შედეგები აქციებს საპირისპირო მიმართულებით უძღვნის",
+      "summaryKa": "Microsoft-ის და Meta-ს შედეგები აქციების მოძრაობას საპირისპირო მიმართულებით ახდენს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "689ddf7c8af0f615",
+      "title": "Bitcoin’s Final Bear Leg: History Says $35,000, On-Chain Data Disagrees",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHE4RTM4N0Q2eFowa0JkZERETDUtd2VWYmV2N2drN1hQc1VPSnBabEc0Yzl1bnRQek1RN2pRb3gzN25NUlhJRVdqVms4Nm8tQ1hBTjVuVDQ1RTJsZy05Z1c2MFhYZWFMeWZGRWNRVTFIR21RM2FfbnREdWZGU1ZpTjRPRUhLaGdvTndzUzcxLThDbzhqLVdPNDRNYw?oc=5",
+      "publishedAt": "2026-07-30T18:00:00.000Z",
+      "titleKa": "Bitcoin-ის ბოლო მტრის ეტაპი: ისტორია ამბობს $35,000, On-Chain მონაცემები არ ეთანხმება",
+      "summaryKa": "Bitcoin-ის ბოლო მტრის ეტაპზე ისტორია $35,000-ს პროგნოზირებს, თუმცა On-Chain მონაცემები განსხვავდება.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5b5f5420f853d9a8",
+      "title": "Nasdaq 100's Best Day Since May 2025: 10 Stocks Driving the Move",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORHhuOGJHc0pOWDZhSklGekhpdTIxNHB0enAyWmo0TTdUX0FZel82bGpYVkQ4WlBqVjFuRWdlQ1N6WGNjSTFST1B1ZHEwTjVpelpBVDB1OFVPLXFOUW4teDlkaGZac0lvUDk3bVVmbU05aDdaOHdOT1g4NEVYWXBQWGhmaWk1TDJDdTFVWXdjeTdKbEhLeFE?oc=5",
+      "publishedAt": "2026-07-30T17:56:53.000Z",
+      "titleKa": "Nasdaq 100-ის საუკეთესო დღე მაისის შემდეგ: 10 აქცია, რომლებიც მოძრაობას მართავენ",
+      "summaryKa": "Nasdaq 100-ის საუკეთესო დღე მაისის შემდეგ დაფიქსირდა, რაც 10 აქციის მიერ იყო გაწვდილი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "12dddc280d34f5fb",
       "title": "Update: Equities Rise Intraday as Microsoft's Post-Earnings Rally Lifts Tech Sector",
       "source": "Yahoo Finance",
@@ -25,6 +105,17 @@
       "publishedAt": "2026-07-30T17:49:18.000Z",
       "titleKa": "განახლება: აქციები დღის განმავლობაში იზრდება, რადგან Microsoft-ის შემოსავლების შემდეგი ზრდა ტექნოლოგიურ სექტორს აძლიერებს",
       "summaryKa": "Microsoft-ის შემოსავლების შემდეგი ზრდა ტექნოლოგიურ სექტორს აძლიერებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "63d269b07f448a01",
+      "title": "Nasdaq Posts Best Day Since June on Microsoft Azure Revenue Surge",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1BsQ1Y5TF91a25qcDZaUngzN2FFa2V5XzFqbUFreXQ0cTM3RTRNWUNQcmNjblR1ZFNkZDZlb1luOTRaaEtWZ0ZoZmNscUtIYTFmS2Zyc280MUprZElSU3NXb3hGdzI4aTdGNXhFNnpNM25BUzZGTXdMZHBMclIwV19xLUhsU285cDNlc0VZQ0NiNzVWZU5F?oc=5",
+      "publishedAt": "2026-07-30T17:46:32.000Z",
+      "titleKa": "Nasdaq-მა საუკეთესო დღე ივნისში Microsoft Azure-ის შემოსავლის ზრდის გამო",
+      "summaryKa": "Nasdaq-მა საუკეთესო დღე ივნისში Microsoft Azure-ის შემოსავლის ზრდის გამო დაფიქსირდა.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
