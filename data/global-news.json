@@ -1,8 +1,116 @@
 {
-  "updatedAt": "2026-07-30T04:17:49.114Z",
+  "updatedAt": "2026-07-30T07:08:21.656Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "4db28d0fb3ed977e",
+      "title": "3 Growth Stocks with Open Questions",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQk5MUnpUTW00c3p2eVJkSE9IUVZfbERPZExTZWtoOUJVanVXbDFyQzAydUxBMF9fS0p4UUZuYmJ5MDZWakNkeGpoZlVVYkZPU1NVU1k5Y2RFTkNoVGR3MmVvR2FBZmwtSGNQdmlsaVV4NWJGWjV4Uk9EUlJrSmJRSlhscjJxZW81bktiTTc5VjdiRFZNU0NsTlU0TQ?oc=5",
+      "publishedAt": "2026-07-30T06:45:02.000Z",
+      "titleKa": "3 ზრდის აქციები ღია კითხვებით",
+      "summaryKa": "სტატია ეხება სამი აქციის ზრდას, რომელთა შესახებ კითხვები არსებობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-open-questions-064502848.html",
+      "bodyKa": "## ზრდის აქციები და გამოწვევები\n\nბაზარზე არსებული ზრდის აქციები ხშირად მიიჩნევა ინვესტორების მიერ მიმზიდველად, თუმცა მათი მდგრადობა ხშირად კითხვის ნიშნის ქვეშ დგას. ბოლო წლებში, რამდენიმე კომპანია, რომელიც ზრდის პოტენციალს ფლობს, აწყდება სერიოზულ გამოწვევებს, რაც ინვესტორებისთვის მნიშვნელოვანი საკითხია.\n\n## First American Financial (NYSE:FAF)\n\nFirst American Financial, რომელიც 1889 წელს დაარსდა, აშშ-ის და საერთაშორისო უძრავი ქონების ტრანზაქციებისთვის უზრუნველყოფს სათაურის დაზღვევას და რისკის გადაწყვეტის სერვისებს. ბოლო ხუთი წლის განმავლობაში, კომპანიის წმინდა პრემიის წლიური შემცირება 1.9% შეადგენს, რაც მიუთითებს იმაზე, რომ პოლიტიკის გაყიდვები ამ ციკლში გაწვდილი იყო. \n\nკომპანიის წილი $78.19-ის ფასით ვაჭრობს, რაც 1.3x წინასწარი P/B-ის შეფასებას აჩვენებს. \n\n## TowneBank (NASDAQ:TOWN)\n\nTowneBank, რომელიც 1998 წელს დაარსდა, ვირჯინიისა და ჩრდილოეთ კაროლინას რეგიონში საზოგადოებაზე ორიენტირებული ბანკინგის სერვისებს სთავაზობს. ბოლო ხუთი წლის განმავლობაში, კომპანიის წლიური შემოსავალი 5.6%-ით შემცირდა, რაც მიუთითებს, რომ მოთხოვნა ბანკინგის სფეროში მისი კონკურენტების მიმართ გაწვდილი იყო. \n\nTowneBank-ის წილი $38.64-ის ფასით ვაჭრობს, რაც 1.1x წინასწარი P/B-ის შეფასებას აჩვენებს.\n\n## Northwest Bancshares (NASDAQ:NWBI)\n\nNorthwest Bancshares, რომელიც 1896 წელს დაარსდა, პენსილვანიის, ნიუ-იორკის, ოჰაიოსა და ინდიანას ტერიტორიებზე მოქმედებს. ბოლო ხუთი წლის განმავლობაში, კომპანიის წმინდა საპროცენტო შემოსავალი 7.1%-ით შემცირდა, რაც მიუთითებს, რომ მოთხოვნა ბანკინგის სფეროში მისი კონკურენტების მიმართ გაწვდილი იყო. \n\nNorthwest Bancshares-ის წილი $15.98-ის ფასით ვაჭრობს, რაც 1.1x წინასწარი P/B-ის შეფასებას აჩვენებს.\n\n## დასკვნა\n\nზრდის აქციების შეფასება და მათი მდგრადობის განსაზღვრა რთულია, განსაკუთრებით იმ კომპანიების შემთხვევაში, რომლებიც ბოლო წლებში მნიშვნელოვან გამოწვევებს აწყდებიან. ინვესტორებმა უნდა იყვნენ ყურადღებით და გააანალიზონ თითოეული კომპანიის ფინანსური მაჩვენებლები, რათა მიიღონ ინფორმირებული გადაწყვეტილებები.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "267ef7998b939b2a",
+      "title": "3 Russell 2000 Stocks We Steer Clear Of",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZm05SDduQmdQc2ZIVExpQlhaWTdmRXZIQk1panQ4RmhuYnJxQ0Z4LXg1N1JoZDNQd0F3c05yX3Y1RTBuZmtCYy1LekVXeWFEbzFyZzVXeTY4X2Zyb0VaZUM0Y1k4NlJ6S0FkZVJVbmpzRTZWNmZyREJDREc0dnlfck9GQzB0OV9QNGgyTG1HOGV4U2l5N0Rr?oc=5",
+      "publishedAt": "2026-07-30T06:21:00.000Z",
+      "titleKa": "3 Russell 2000 აქცია, რომლებსაც ვერიდებით",
+      "summaryKa": "სტატია ეხება სამი Russell 2000 აქციის შესახებ, რომლებსაც ავტორები ერიდებიან.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/3-russell-2000-stocks-steer-062102006.html",
+      "bodyKa": "## Russell 2000-ის აქციები, რომლებსაც ერიდებიან\n\nბაზარზე მცირე კაპიტალიზაციის აქციები, როგორიცაა Russell 2000 (^RUT), ინვესტორებისთვის შეიძლება იყოს მომგებიანი, თუმცა ამ კომპანიებს უფრო მეტი გამოწვევები აქვთ, ვიდრე დიდ კაპიტალიზაციის კომპანიებს. ამ სტატიაში განხილულია სამი კომპანია, რომლებსაც ინვესტორები უნდა ერიდონ.\n\n## Dave & Buster's (NASDAQ:PLAY)\n\nDave & Buster's, რომელიც ოპერირებს გასართობი ცენტრების ქსელს, ბოლო ორი წლის განმავლობაში ცუდი გაყიდვების შედეგებით გამოირჩევა. კომპანიის მიერ გაწვდილი მონაცემები მიუთითებს იმაზე, რომ ახალი მომხმარებლების მოზიდვა უჭირს. \n\nკომპანიის კაპიტალის დაბრუნების მაჩვენებელი უკვე დაბალ დონეზეა, რაც ნიშნავს, რომ არც წარსული და არც მიმდინარე ინვესტიციები წარმატებული არ ყოფილა. გარდა ამისა, კომპანიის არასახარბიელო ლიკვიდობის მდგომარეობა შესაძლოა საჭირო გახდეს დამატებითი აქციების გამოშვება, რაც აქციონერების წილს შეამცირებს. კომპანიის აქციის ფასი $10.44-ია, რაც 8.2x-forward EV-to-EBITDA-ის შეფასების მაჩვენებელია.\n\n## Surgery Partners (NASDAQ:SGRY)\n\nSurgery Partners, რომელიც ოპერირებს ქვეყნის მასშტაბით ამბულატორიული ქირურგიული ცენტრების ქსელს, ბოლო ორი წლის განმავლობაში გაყიდვების შემცირებას განიცდის. კომპანიის პროგნოზით, მომავალი 12 თვის განმავლობაში გაყიდვების ზრდა 3.3%-ით შემცირდება, რაც მიუთითებს, რომ მოთხოვნა შემცირდება.\n\nკომპანიის 7-ჯერ მეტი წმინდა ვალის და EBITDA-ს თანაფარდობა ნიშნავს, რომ კრედიტორები ნაკლებად არიან მზად დამატებითი კაპიტალის გაწვდისთვის, რაც შესაძლოა საჭირო გახდეს აქციების გამოშვება. კომპანიის აქციის ფასი $15.58-ია, რაც 30.8x-forward P/E-ის შეფასების მაჩვენებელია.\n\n## Flagstar Financial (NYSE:FLG)\n\nFlagstar Financial, რომელიც 2024 წელს New York Community Bancorp-ის სახელით იყო ცნობილი, ბანკის ჰოლდინგური კომპანიაა, რომელიც კომერციულ და მომხმარებელთა საბანკო მომსახურებებს სთავაზობს. ბოლო ხუთ წელიწადში 7.5%-იანი წმინდა საპროცენტო შემოსავლის ზრდა უფრო ნელი იყო, ვიდრე მისი კონკურენტების.\n\nკომპანიის წმინდა საპროცენტო მარჟა 2%-ია, რაც ნიშნავს, რომ დაბალი მომგებიანობის კომპენსირება უფრო მაღალი სესხების გაწვდით უნდა მოხდეს. ბოლო ხუთ წელიწადში კომპანიის წილის მოგება 52.6%-ით შემცირდა, რაც მიუთითებს, რომ მისი შემოსავლები ნაკლებად მომგებიანი იყო. კომპანიის აქციის ფასი $13.95-ია, რაც 0.7x-forward P/B-ის შეფასების მაჩვენებელია.\n\n## დასკვნა\n\nამ სამი კომპანიის შესახებ ინფორმაცია მიუთითებს, რომ მათთან დაკავშირებული რისკები მაღალია. ინვესტორებმა უნდა იყვნენ ყურადღებით და განიხილონ ალტერნატიული შესაძლებლობები, სანამ გადაწყვეტილებებს მიიღებენ.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "0fd7edbcf231f6fe",
+      "title": "3 Out-of-Favor Stocks We Keep Off Our Radar",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQjVtOEs5MXpfSnlYSUoxTVlKTldJRjNpM01CRUFOXzgxQTNQT3VjTXlVVFhvdmFMbHZyRHhQaVFQQ3pnTmZWeUJZRXkwYlpfSWs1Zk1Ub2F4OTlidXY4QVBHc3gzblo5WGRTVzNCS1ZKSUZ0aGJqdk1Qd1dCWHQ3NGg5blFyQzcwSFVuMHBXRWpBdw?oc=5",
+      "publishedAt": "2026-07-30T06:13:00.000Z",
+      "titleKa": "3 არაპოპულარული აქცია, რომლებსაც არ ვაკვირდებით",
+      "summaryKa": "სტატია ეხება სამი არაპოპულარული აქციის შესახებ, რომლებსაც ავტორები არ აკვირდებიან.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d08967d1112c44cb",
+      "title": "Shell Reports Profit Surge as Oil Trading and Refining Boom",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSV9fWFRIeFZiaUYtSVRvOE1Jc2syNDRVNkNOQTFjazJmdkI4Vk1RcVdjY0dYQkJfTEZIdktRalMxTjFqUWtIUEVlMF9MenJ3Q0lzV1d0UXo4S0Z0ZEZJdG5NNVpEZldXVS1yQ0piRmhKTW5aNXpia1NXODRqdHE0VzBfZ0lBMXF6alpvdC1SV2JYTUlHWGoxZFljeTI2ZFBYWHRoWFZ5Q0RMWGFOMW9Z?oc=5",
+      "publishedAt": "2026-07-30T06:05:00.000Z",
+      "titleKa": "Shell-ის მოგება გაიზარდა ნავთობის ვაჭრობისა და რეფინირების ბუმის შედეგად",
+      "summaryKa": "Shell-მა გამოაცხადა მოგების ზრდა ნავთობის ვაჭრობისა და რეფინირების ბუმის ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1df6b0fd88d67e59",
+      "title": "Central Banks Bought Far Less Gold Than Thought at Start of Year",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVdkanRpWE1sb1F4TjM1MHFmUVhpVW5qTF9YQ1U4dXNoOERMeVlnalRWdUlHLXg3SlFtMnpxUDd0NjU3TWp6NlRqQVBwNm9zZTZMR2Y5N0FKeUM0amJVUG11dFoxTldXLURTeEUtUzRNMjVNZE4tNTdNdXNsVllQRXpJS3ZqejkyemxfSENvSERPVW1hSi1LQ2pKT3dEakMtdXNsSWtlWE1PYzdTaDE2LTB5NTZ1UQ?oc=5",
+      "publishedAt": "2026-07-30T06:00:00.000Z",
+      "titleKa": "ცენტრალური ბანკები ოქროს გაცილებით ნაკლებად ყიდულობენ, ვიდრე წლის დასაწყისში ითვლებოდა",
+      "summaryKa": "ცენტრალური ბანკების მიერ ოქროს შეძენა ნაკლებად მოხდა, ვიდრე თავდაპირველად მოსალოდნელი იყო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "410ae7f7e43c4dec",
+      "title": "Gold Advances After Federal Reserve Keeps Interest Rates on Hold",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3V5TEY4Snd6ZERyQ0FJUEtLSGVWQnVyQzhyRjNWVWhJTHZkWHNicGlTckRwYzVNaGZrTTNCZ2xDMW5teDZQNVBBZlZtbGllVVpnN2U1MUZyM0NMLTdwWFpYTnMxSnpUYVR1NmpYaDRqdXNyN25QdklZcVUxWXN2bUs0cFJLNk9pU3UyZHNYdVRmMnRwTHY0UlM0Rkdlc2YtWG52T3FiWWF2UGJIdk02aFlRQVdGZw?oc=5",
+      "publishedAt": "2026-07-30T05:59:00.000Z",
+      "titleKa": "ოქრო იზრდება, რადგან ფედერალური რეზერვი საპროცენტო განაკვეთებს უცვლელად ინარჩუნებს",
+      "summaryKa": "ფედერალური რეზერვის მიერ საპროცენტო განაკვეთების შენარჩუნების შემდეგ, ოქროს ფასი გაიზარდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-29/gold-advances-after-federal-reserve-keeps-interest-rates-on-hold",
+      "bodyKa": "## ოქროს ფასების ზრდა\n\nამერიკის შეერთებული შტატების ფედერალური რეზერვის მიერ საპროცენტო განაკვეთების შენარჩუნების შემდეგ, ოქროს ფასი გაიზარდა. ეს გადაწყვეტილება, რომელიც 2026 წლის 29 ივლისს იქნა მიღებული, გამოიწვია ინფლაციის რისკების ზრდამ, რაც დაკავშირებულია ახლო აღმოსავლეთში მიმდინარე ომთან.\n\n## ინფლაციის გავლენა\n\nფედერალური რეზერვი, რომელიც პასუხისმგებელია ქვეყნის მონეტარული პოლიტიკის მართვაზე, მუდმივად აკვირდება ეკონომიკურ პირობებს. ამჯერად, მიუხედავად იმისა, რომ ინფლაციის დონე იზრდება, რეზერვი არ აპირებს საპროცენტო განაკვეთების გაზრდას. ეს გადაწყვეტილება, როგორც ჩანს, დადებითად მოქმედებს ოქროს ბაზარზე, რადგან ინვესტორები ეძებენ უსაფრთხო თავშესაფარს.\n\n## ოქროს ბაზრის რეაქცია\n\nოქროს ფასების ზრდა, რომელიც მოხდა ფედერალური რეზერვის განცხადების შემდეგ, მიუთითებს იმაზე, რომ ინვესტორები უფრო მეტად ინტერესდებიან ოქროთი, როგორც აქტივით, რომელიც შეიძლება დაიცვას მათ კაპიტალი ეკონომიკური არასტაბილურობის დროს. ოქრო ისტორიულად ითვლება უსაფრთხო აქტივად, რაც განსაკუთრებით მნიშვნელოვანია მაშინ, როდესაც ბაზარზე გაურკვევლობაა.\n\n## მომავალი პერსპექტივები\n\nმომავალში, თუ ფედერალური რეზერვი კვლავ შეინარჩუნებს განაკვეთებს, შეიძლება ველოდოთ, რომ ოქროს ფასები კიდევ უფრო გაიზრდება. თუმცა, ინვესტორები უნდა იყვნენ ყურადღებით, რადგან ეკონომიკური პირობები სწრაფად იცვლება და შეიძლება გავლენა მოახდინოს ოქროს ბაზარზე.\n\n## დასკვნა\n\nამჟამად, ოქროს ფასების ზრდა არის მნიშვნელოვანი ინდიკატორი, რომელიც ასახავს ინვესტორების ნდობას და ბაზრის მდგომარეობას. ფედერალური რეზერვის გადაწყვეტილება, რომელიც საპროცენტო განაკვეთების შენარჩუნებას ეხება, შესაძლოა, კიდევ უფრო გააძლიეროს ოქროს პოზიცია ბაზარზე.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "5971df880ca50795",
+      "title": "South Korea’s Toolkit Comes Into Focus as Stocks Extend Selloff",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUzdHSDRBLVBvMG1XbG56dzF1MzN5Vndmemg5ZXl1NjNkRlRhSHI0WEVjMUtPc3NUZTRTR1FaR1VoSDd1MlZCZXVDcXZ2MzF1bVBIUVZyaXVGUm1iVkZrNXlqa2pvUl9fUmFuZlVXRTJCcWZrTDFHZUVTUWlRX0JuTURQb0tlaUpVUWxMN1lSTVFpYW5yeUE5alRZNVR4elFva2U0a2p6RXU5MDJJa2ZMODFINEI?oc=5",
+      "publishedAt": "2026-07-30T05:38:00.000Z",
+      "titleKa": "სამხრეთ კორეის ინსტრუმენტები ყურადღების ცენტრშია, რადგან აქციები ვარდნას განაგრძობს",
+      "summaryKa": "სამხრეთ კორეის ეკონომიკური ინსტრუმენტები ყურადღების ცენტრშია აქციების ვარდნის ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9dbe757885b187c5",
+      "title": "Oil Holds Gain as Trump Vows to Hit Iran and US Stockpiles Slump",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGxpOXNQM2t1RE9CVzd4SFgzTFkyb1UxLTlkakhEVXJfNkxPUGJSWWJLSlB4RHFQa2IzVFNKc2xBdFZIRVpwUC1BRWpnZ1BnenFZU2Z0cnR4clE3Ym5rbEN6eHZiQ2hHSW5kd1FBbVlYVXI3d0hCVjZkblhITGx2Q2cwbTJ0VFMzQWx5QnRrZUpxQkVzQUFmODhWaWJGZTA?oc=5",
+      "publishedAt": "2026-07-30T05:13:00.000Z",
+      "titleKa": "ნავთობი ინარჩუნებს ზრდას, რადგან ტრამპი ირანს ემუქრება და აშშ-ის მარაგები მცირდება",
+      "summaryKa": "ნავთობის ფასები იზრდება, რადგან ტრამპი ირანს ემუქრება და აშშ-ის მარაგები მცირდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4ac44843c25c6a98",
+      "title": "Earnings Growth And Steady Dividend Could Be A Game Changer For Ameriprise Financial (AMP)",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQanFCblVVR2ZtdUxVZThpYjdJeVo1cE85UThvUE96U2MtQXpfb2dpaDNYQ1M5X2ZVOWhpcjZMNFg5OF9vNFdldW5mLTV4TV81YlZoWko0SHFTMk0wV3B0THotTkZfLUZIOXpZcHJNeDRMdjFrZXlDWlczdHU5VmdnLUFkajVuNTZWdWVubGhtWmxLUzd3Y01jOGR1RDJ0a3oyNGJibw?oc=5",
+      "publishedAt": "2026-07-30T05:08:00.000Z",
+      "titleKa": "შემოსავლების ზრდა და სტაბილური დივიდენდები Ameriprise Financial-ის (AMP)თვის გარდამტეხი შეიძლება იყოს",
+      "summaryKa": "Ameriprise Financial-ის შემოსავლების ზრდა და სტაბილური დივიდენდები შესაძლოა მნიშვნელოვანი იყოს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "fa3747b14ad08248",
       "title": "Korean Stocks Decline After Samsung Results, New ETF Curbs",
@@ -129,20 +237,6 @@
       "summaryKa": "იაპონია ამცირებს თავის ეკონომიკურ პროგნოზს ნავთობის ფასების ზრდის გამო.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "410ae7f7e43c4dec",
-      "title": "Gold Advances After Federal Reserve Keeps Interest Rates on Hold",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3V5TEY4Snd6ZERyQ0FJUEtLSGVWQnVyQzhyRjNWVWhJTHZkWHNicGlTckRwYzVNaGZrTTNCZ2xDMW5teDZQNVBBZlZtbGllVVpnN2U1MUZyM0NMLTdwWFpYTnMxSnpUYVR1NmpYaDRqdXNyN25QdklZcVUxWXN2bUs0cFJLNk9pU3UyZHNYdVRmMnRwTHY0UlM0Rkdlc2YtWG52T3FiWWF2UGJIdk02aFlRQVdGZw?oc=5",
-      "publishedAt": "2026-07-29T23:24:57.000Z",
-      "titleKa": "ოქრო იზრდება, რადგან ფედერალური რეზერვი საპროცენტო განაკვეთებს უცვლელად ინარჩუნებს",
-      "summaryKa": "ფედერალური რეზერვის მიერ საპროცენტო განაკვეთების შენარჩუნების შემდეგ, ოქროს ფასი გაიზარდა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-29/gold-advances-after-federal-reserve-keeps-interest-rates-on-hold",
-      "bodyKa": "## ოქროს ფასების ზრდა\n\nამერიკის შეერთებული შტატების ფედერალური რეზერვის მიერ საპროცენტო განაკვეთების შენარჩუნების შემდეგ, ოქროს ფასი გაიზარდა. ეს გადაწყვეტილება, რომელიც 2026 წლის 29 ივლისს იქნა მიღებული, გამოიწვია ინფლაციის რისკების ზრდამ, რაც დაკავშირებულია ახლო აღმოსავლეთში მიმდინარე ომთან.\n\n## ინფლაციის გავლენა\n\nფედერალური რეზერვი, რომელიც პასუხისმგებელია ქვეყნის მონეტარული პოლიტიკის მართვაზე, მუდმივად აკვირდება ეკონომიკურ პირობებს. ამჯერად, მიუხედავად იმისა, რომ ინფლაციის დონე იზრდება, რეზერვი არ აპირებს საპროცენტო განაკვეთების გაზრდას. ეს გადაწყვეტილება, როგორც ჩანს, დადებითად მოქმედებს ოქროს ბაზარზე, რადგან ინვესტორები ეძებენ უსაფრთხო თავშესაფარს.\n\n## ოქროს ბაზრის რეაქცია\n\nოქროს ფასების ზრდა, რომელიც მოხდა ფედერალური რეზერვის განცხადების შემდეგ, მიუთითებს იმაზე, რომ ინვესტორები უფრო მეტად ინტერესდებიან ოქროთი, როგორც აქტივით, რომელიც შეიძლება დაიცვას მათ კაპიტალი ეკონომიკური არასტაბილურობის დროს. ოქრო ისტორიულად ითვლება უსაფრთხო აქტივად, რაც განსაკუთრებით მნიშვნელოვანია მაშინ, როდესაც ბაზარზე გაურკვევლობაა.\n\n## მომავალი პერსპექტივები\n\nმომავალში, თუ ფედერალური რეზერვი კვლავ შეინარჩუნებს განაკვეთებს, შეიძლება ველოდოთ, რომ ოქროს ფასები კიდევ უფრო გაიზრდება. თუმცა, ინვესტორები უნდა იყვნენ ყურადღებით, რადგან ეკონომიკური პირობები სწრაფად იცვლება და შეიძლება გავლენა მოახდინოს ოქროს ბაზარზე.\n\n## დასკვნა\n\nამჟამად, ოქროს ფასების ზრდა არის მნიშვნელოვანი ინდიკატორი, რომელიც ასახავს ინვესტორების ნდობას და ბაზრის მდგომარეობას. ფედერალური რეზერვის გადაწყვეტილება, რომელიც საპროცენტო განაკვეთების შენარჩუნებას ეხება, შესაძლოა, კიდევ უფრო გააძლიეროს ოქროს პოზიცია ბაზარზე.",
-      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "263dda6b9ba31886",
