@@ -1,8 +1,52 @@
 {
-  "updatedAt": "2026-08-04T22:51:06.172Z",
+  "updatedAt": "2026-08-04T23:51:43.957Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "a9600816d9afa731",
+      "title": "SpaceX Reveals AI Splurge in First Earnings Report Since IPO",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUVvRmtCdjFlZ1oyd0t1aUg4V1NhcC1uZTNZbTNyejBaZElpT3RCVWVKMFBnSURSNmVzbW5sWmhTOXZoWlR4Sm9ZUUtXcG5pRWNjR0Y0VlczOC1TOUxfOS1SVHRfSkQ0cHVWZWhGMUl4OHBNNEMwMVVXZXVBdzVhRGV6bEVKbUx2ZXgzNWdIa2JuUG15UUZOX194UXBiZk9CSWtPdldMNlNMNXZnQTVpRQ?oc=5",
+      "publishedAt": "2026-08-04T23:25:36.000Z",
+      "titleKa": "SpaceX-მა IPO-ს შემდეგ პირველ ფინანსურ ანგარიშში AI-ზე გაწეული დიდი ხარჯები გაამჟღავნა",
+      "summaryKa": "IPO-ს შემდგომ გამოქვეყნებულ თავის პირველ ფინანსურ ანგარიშში კომპანია SpaceX-მა ხელოვნურ ინტელექტზე (AI) გაწეული დიდი ხარჯები გამოავლინა.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a25d4918095511a7",
+      "title": "Oil Holds Two-Day Drop on Signs of Progress Toward Hormuz Deal",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSldwSGlqM2UyQkNEWXNUbVNLNGUxZ2xMVUsxVFR3TmI0TElkazcwWnhLbFByNE05OWhNbU93MWNGQUZYNGkyYi1qWTNmZEV0M1MyMVY1ZWZiQ2szbDlIQlJJVm5OalNYbnhiOVVDYk01bzRUTmc3VFVtNGVGUmctejBrSUZQY3F1a1ROMjJJN0RFaHFpZjlUZzlHZGY?oc=5",
+      "publishedAt": "2026-08-04T23:02:00.000Z",
+      "titleKa": "ნავთობის ფასი ორდღიან კლებას ინარჩუნებს ჰორმუზის შეთანხმებისკენ პროგრესის ნიშნების ფონზე",
+      "summaryKa": "ჰორმუზის შეთანხმებისკენ მიღწეული პროგრესის ნიშნების ფონზე, ნავთობი ზედიზედ მეორე დღეა კლებას ინარჩუნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "00cffecbaf9f5869",
+      "title": "SoftBank Earnings to Test Appetite for AI Bets Beyond ChatGPT",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaEN6UDE1eWRhcEtXNkplVUpqWV9LaFJzRmtLTWV2TjlweHZMTXdhVTl2dG5RcXdqeGZiR1ZyLTZiWFVETlhzcDB0bThkUWF4dklhemNPUi00bmZTWlZJV2tub3VLTHRVRU5VajNZczlrUndSdWhWWU9sMW5BNmlzdjhWaGcxWjFocUVvTEtwNThTZ2JwejZYV3BmQVpXTm5kRkNwdUdzaDItdFVoRFlDbTdB?oc=5",
+      "publishedAt": "2026-08-04T23:00:00.000Z",
+      "titleKa": "SoftBank-ის შემოსავლები გამოცდის ინტერესს ChatGPT-ის მიღმა არსებული AI პროექტების მიმართ",
+      "summaryKa": "SoftBank-ის ფინანსური შედეგები გამოავლენს, თუ რამდენად დიდია ინტერესი ChatGPT-ის მიღმა არსებულ ხელოვნური ინტელექტის (AI) პროექტებში ინვესტირების მიმართ.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "19fa956f61d9a6da",
+      "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONURUTE5zZnZBaXlvdVdKZUh4emthdUNfX0J2OUtxYVNyN205UkVEOUpWNmI2RzlINjVaRG56UnlBclc0Vy10Uzc0YlR1U3EyRnpkRnRUSXlXczRfY2pRQ1V0enpLQ1Rqc3U2S1ZneGlaOGlPcEJsS0FVR21JQWNUMjRtUHhlZkw5dHBDbFk0b0lLejdiSk1ROUFJVFo?oc=5",
+      "publishedAt": "2026-08-04T22:46:03.000Z",
+      "titleKa": "ბიტკოინის ხიდმა მუშაობა შეაჩერა, რადგან AI ხარვეზებს ზედმეტად სწრაფად პოულობდა",
+      "summaryKa": "ბიტკოინის ხიდმა მუშაობა თავად შეაჩერა იმის გამო, რომ ხელოვნური ინტელექტი (AI) სისტემაში არსებულ ხარვეზებს ზედმეტად სწრაფად აღმოაჩენდა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "32a652e2824b03a3",
       "title": "Asian Stocks Set to Advance on Hormuz Deal Hopes: Markets Wrap",
@@ -55,6 +99,17 @@
       "publishedAt": "2026-08-04T21:00:00.000Z",
       "titleKa": "ტრეიდერები ოფციონებს იყენებენ აქციების სწრაფი აღდგენისათვის ფეხის ასაყოლებლად, რაც ბაზარს კიდევ უფრო მაღლა წევს",
       "summaryKa": "ტრეიდერები იყენებენ ოფციონებს აქციების სწრაფი ზრდის დევნისთვის, რაც ბაზარს კიდევ უფრო მაღლა უბიძგებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "abd95d88d33e08eb",
+      "title": "A Fresh Record Looms for the Unsinkable S&P 500",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVI5bVZWWGJCa2k4RFVKSTc4T25wUDdua0h4N2k0Q09IM2tnMjJEelRndGlCNnpnclgtbFFieEJud3JvVF95MDdwZGNHU2N6Ykt2OGxzNzJWXzJmY2RXX0x2LUw2OHdqT3A3QjI2QVdZeG9VSm8xaVhTLW9tRFhVcWNuT1M2bWlpMjRBVDFmWkY2cGZOdFc0X1JBVzZpOHBUTUZr?oc=5",
+      "publishedAt": "2026-08-04T20:53:29.000Z",
+      "titleKa": "„ჩაუძირავი“ S&P 500-ისთვის ახალი რეკორდი ახლოვდება",
+      "summaryKa": "ინდექს S&P 500-ს, რომელსაც ჩაუძირავს უწოდებენ, ახალი რეკორდული ნიშნული უახლოვდება.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -121,17 +176,6 @@
       "publishedAt": "2026-08-04T20:19:00.000Z",
       "titleKa": "SpaceX-მა საჯარო კომპანიის სტატუსით პირველ კვარტალურ ფინანსურ ანგარიშში არაერთგვაროვანი შედეგები წარადგინა",
       "summaryKa": "SpaceX-მა, როგორც საჯარო კომპანიამ, თავის პირველ კვარტალურ ფინანსურ ანგარიშში შერეული შედეგები აჩვენა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "abd95d88d33e08eb",
-      "title": "A Fresh Record Looms for the Unsinkable S&P 500",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVI5bVZWWGJCa2k4RFVKSTc4T25wUDdua0h4N2k0Q09IM2tnMjJEelRndGlCNnpnclgtbFFieEJud3JvVF95MDdwZGNHU2N6Ykt2OGxzNzJWXzJmY2RXX0x2LUw2OHdqT3A3QjI2QVdZeG9VSm8xaVhTLW9tRFhVcWNuT1M2bWlpMjRBVDFmWkY2cGZOdFc0X1JBVzZpOHBUTUZr?oc=5",
-      "publishedAt": "2026-08-04T20:18:21.000Z",
-      "titleKa": "„ჩაუძირავი“ S&P 500-ისთვის ახალი რეკორდი ახლოვდება",
-      "summaryKa": "ინდექს S&P 500-ს, რომელსაც ჩაუძირავს უწოდებენ, ახალი რეკორდული ნიშნული უახლოვდება.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
