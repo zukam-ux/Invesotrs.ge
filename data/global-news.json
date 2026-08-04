@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-08-04T09:22:05.821Z",
+  "updatedAt": "2026-08-04T09:48:07.719Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "d6a9daa685de88e5",
+      "title": "Bayer Earnings Beat Estimates on Crop Science Strength",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1A4S3EyU1FNdHFPbF92VEp2N3RTZUtDMW5LTUU1NFRJQ1Z3Zk5Wd3NnX0ZNYkhZTFdDcjNGSHhFT24zLW14NjNnSC1EN1Bva3VYbFRxUGJUYjR4ZFRtUlBrYjhqSUllVUdXazFRMWQ3RkM4YVJOTC0yMXU2bjc2XzAwTXRldlVQU28wa3RCaVVUR3hBZmFrOXJjdmlRNnd5Rm1KbHRac3Y?oc=5",
+      "publishedAt": "2026-08-04T09:07:02.000Z",
+      "titleKa": "Bayer-ის შემოსავლებმა გადააჭარბა პროგნოზებს Crop Science-ის მიმართულების სიძლიერის წყალობით",
+      "summaryKa": "კომპანია Bayer-ის შემოსავლებმა გადააჭარბა მოლოდინებს, რასაც ხელი შეუწყო მისი სოფლის მეურნეობის მეცნიერების განყოფილების ძლიერმა მაჩვენებლებმა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "d75ca4c6c39b6c85",
       "title": "Bank of Korea Minutes Back More Hikes on Inflation, Growth",
@@ -33,17 +44,6 @@
       "publishedAt": "2026-08-04T07:42:53.000Z",
       "titleKa": "ევროპული კომპანიების შემოსავლები ბევრად უფრო ძლიერია, ვიდრე ერთი შეხედვით ჩანს",
       "summaryKa": "ევროპული კომპანიების ფინანსური შემოსავლები რეალურად ბევრად უფრო ძლიერ მაჩვენებლებს აჩვენებს, ვიდრე ეს გარეგნულად ჩანს.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "d6a9daa685de88e5",
-      "title": "Bayer Earnings Beat Estimates on Crop Science Strength",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1A4S3EyU1FNdHFPbF92VEp2N3RTZUtDMW5LTUU1NFRJQ1Z3Zk5Wd3NnX0ZNYkhZTFdDcjNGSHhFT24zLW14NjNnSC1EN1Bva3VYbFRxUGJUYjR4ZFRtUlBrYjhqSUllVUdXazFRMWQ3RkM4YVJOTC0yMXU2bjc2XzAwTXRldlVQU28wa3RCaVVUR3hBZmFrOXJjdmlRNnd5Rm1KbHRac3Y?oc=5",
-      "publishedAt": "2026-08-04T07:12:54.000Z",
-      "titleKa": "Bayer-ის შემოსავლებმა გადააჭარბა პროგნოზებს Crop Science-ის მიმართულების სიძლიერის წყალობით",
-      "summaryKa": "კომპანია Bayer-ის შემოსავლებმა გადააჭარბა მოლოდინებს, რასაც ხელი შეუწყო მისი სოფლის მეურნეობის მეცნიერების განყოფილების ძლიერმა მაჩვენებლებმა.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
