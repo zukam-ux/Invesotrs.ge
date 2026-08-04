@@ -1,8 +1,63 @@
 {
-  "updatedAt": "2026-08-04T20:40:52.758Z",
+  "updatedAt": "2026-08-04T21:53:14.267Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "d69e82a61a11e666",
+      "title": "Oil Slumps on Prospects for Hormuz Reopening Deal",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb2RMNzl6MHREd0tzUnh4S2xCYUVkMTJqa1ZOUjJ2OVhzT2tPYzNlTnZyWEx6ZHhxRFNJbllZcUxjQWxnVGNNNVIyU2JsNkxjcXR6N2dTUVVrNl9nbnFpV25DXzhxYnVUcU9CMnpOUEVYVUh1YXhVcURBbjgwaVV4VnVpMVBGamlEVlB3Qm9JNVp0bXJibXBjUFZBcnV0cmVOdjVwU0dB?oc=5",
+      "publishedAt": "2026-08-04T21:32:15.000Z",
+      "titleKa": "ნავთობის ფასი ეცემა ჰორმუზის სრუტის გახსნის შეთანხმების პერსპექტივების ფონზე",
+      "summaryKa": "ნავთობის ფასები შემცირდა ჰორმუზის სრუტის გახსნასთან დაკავშირებული შეთანხმების შესაძლო პერსპექტივების გამო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "70c7ce5a173fa968",
+      "title": "Traders are using options to chase a runaway rebound in stocks, pushing the market even higher",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMV9nY25GdERjTmxiQzdDMDJVTEpVT1JyeG9oZnBpSjdJUWRxSHh2X1l2OVVNak05bHZUR21SaXJXTHJLTzRsREZmRHkwQ1NvQ1h1dEh0d2tPMzdmdkF2M2F3TmhHNUlRTU5FUTE1MFlhemFtcEdRVHhyYjg3bDVLVUlheGVGbDEwcndJN3BuVzJXdFJSSU9ZUEVBT0VJV3hoeEFHV21wR1V3Q1B5THJvLW45bWV0aGlDbHMzaWlCTkRTeUZiYXdzM2QtcUVESnNFZnc?oc=5",
+      "publishedAt": "2026-08-04T21:00:00.000Z",
+      "titleKa": "ტრეიდერები ოფციონებს იყენებენ აქციების სწრაფი აღდგენისათვის ფეხის ასაყოლებლად, რაც ბაზარს კიდევ უფრო მაღლა წევს",
+      "summaryKa": "ტრეიდერები იყენებენ ოფციონებს აქციების სწრაფი ზრდის დევნისთვის, რაც ბაზარს კიდევ უფრო მაღლა უბიძგებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "982d2c9d3b238a6b",
+      "title": "'This was not an exceptional result': Strategist talks AMD earnings & 'shocking' capex",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDc0U29SS2k4dWlFZDlISmwwdmxiT05lUFdCbXBxTFNSd2pTR0Y3LTF5eFBiaGt4X191bjlqS0tLZ2RFT05DRlJQWWpqa2JYaGRKR25ENER6eUFvUGFlbDI4ZFRxSDJDYk1ZVlM3Yl9Qb2hNT1p1VThLMHJfS2wwcnh1alRoX1BHbC1UYWN3bEhDNS1ySVRURG9vUDRtakZDT0Jzc2hTZXd2X3JEQmJEeVlZUjZSSUJIdG9wWGlIMWVrM0xzZVE?oc=5",
+      "publishedAt": "2026-08-04T20:52:54.000Z",
+      "titleKa": "„ეს არ ყოფილა გამორჩეული შედეგი“: სტრატეგი საუბრობს AMD-ის შემოსავლებზე და „შოკისმომგვრელ“ კაპიტალურ ხარჯებზე",
+      "summaryKa": "სტრატეგმა განიხილა AMD-ის შემოსავლები და მისი „შოკისმომგვრელი“ კაპიტალური ხარჯები და აღნიშნა, რომ ეს არ ყოფილა გამორჩეული შედეგი.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "88f5d2a1e421c057",
+      "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat—Crypto Twitter Is Thrilled",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHNlWWttNTdUOW9aTFRpbG00Uk1jOXV1OTFjNWxXc1hxN1FmSHpIZWdUTjVMV1RzR0oxSC1XRV9mRlFsRWZGTWozQXFsN01SZURpTENNYUh3X2o3d01vZ0VTYUxxQXg5MGxOcDJudlA5UmtJMi1XZnVoQnJOdTJ5akZRdldRcjhFeWtyWHJCYThudzRCeHhQc2FnN1M?oc=5",
+      "publishedAt": "2026-08-04T20:45:18.000Z",
+      "titleKa": "ჯიმ კრამერი ყიდის თავის ბიტკოინს კვანტური საფრთხის გამო — კრიპტო ტვიტერი აღფრთოვანებულია",
+      "summaryKa": "ჯიმ კრამერი ყიდის თავის ბიტკოინს კვანტური საფრთხის მიზეზით, რამაც კრიპტო ტვიტერის სივრცეში აღფრთოვანება გამოიწვია.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9f0358b0ab442470",
+      "title": "AMD posted Q2 earnings on Tuesday.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTjJURTEzZ05ybXlRLVdRbkw5a2tYMzJ4LWNDS0ZSeTRsaHd3akNKYlJLMXZfUjA2ZG9DM2JKeWdGUTQzWU4zOFB3cXk5Q212NGpMWGk4UlRYQm01QTJXLXVTV1Y0Ym0yYUFBX2VjUnY1bWhlZUY2UWw5T3IzRXJBSHd0bklHX2hZRm02NW5QT2hMRnZSb2hZdTFZMUdDaEx1NnRvVlJRa0piZHU2dE83YXBPdU91UzdKRUVDU0gtTmtJY2ZXMkh6V2JyVVJ4Z2otcjJ5R2ZDQlNTc3VHTzJZYlJzd0htQQ?oc=5",
+      "publishedAt": "2026-08-04T20:20:04.000Z",
+      "titleKa": "სამშაბათს AMD-მ მეორე კვარტლის ფინანსური შედეგები გამოაქვეყნა",
+      "summaryKa": "კომპანია AMD-მ სამშაბათს გამოაქვეყნა თავისი მეორე კვარტლის შემოსავლების ანგარიში.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "f9722ff66097301c",
       "title": "SpaceX delivers mixed results in first quarterly earnings report as a public company",
@@ -15,6 +70,17 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "abd95d88d33e08eb",
+      "title": "A Fresh Record Looms for the Unsinkable S&P 500",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVI5bVZWWGJCa2k4RFVKSTc4T25wUDdua0h4N2k0Q09IM2tnMjJEelRndGlCNnpnclgtbFFieEJud3JvVF95MDdwZGNHU2N6Ykt2OGxzNzJWXzJmY2RXX0x2LUw2OHdqT3A3QjI2QVdZeG9VSm8xaVhTLW9tRFhVcWNuT1M2bWlpMjRBVDFmWkY2cGZOdFc0X1JBVzZpOHBUTUZr?oc=5",
+      "publishedAt": "2026-08-04T20:18:21.000Z",
+      "titleKa": "„ჩაუძირავი“ S&P 500-ისთვის ახალი რეკორდი ახლოვდება",
+      "summaryKa": "ინდექს S&P 500-ს, რომელსაც ჩაუძირავს უწოდებენ, ახალი რეკორდული ნიშნული უახლოვდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "83b8012c7efc92f3",
       "title": "SpaceX Exceeds Revenue Estimates in First Earnings Since IPO",
       "source": "Bloomberg.com",
@@ -22,6 +88,17 @@
       "publishedAt": "2026-08-04T20:04:57.000Z",
       "titleKa": "SpaceX-მა IPO-ს შემდეგ პირველ ფინანსურ ანგარიშში შემოსავლების პროგნოზებს გადააჭარბა",
       "summaryKa": "კომპანია SpaceX-მა პირველ ფინანსურ ანგარიშში, რომელიც IPO-ს შემდეგ გამოაქვეყნა, შემოსავლების მოლოდინებს გადააჭარბა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c61ba4470bb044da",
+      "title": "Oil prices rise after vessel reports being hit in Strait of Hormuz",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMG10SmJKbGp6UjNZY1lIN0Vpcnp5WnBWbFQ5VS0zRXpkRUplVnZGeFhNMTUxWTlLVmpIQmRjSzNpYldSbkJsQldPZUdTX3dWcDVPanRkTHEzQTB5bUJocUQ4c2RQcjVIQjNBVXRTalQxbkdPU1Y0b0lIYzgtSVBxdURjNmJSM1A3VGRqNGhONUM1b2lGYVJobllQTjE3Qmw0bkpDRlRORGlBVTRsOFE?oc=5",
+      "publishedAt": "2026-08-04T19:46:00.000Z",
+      "titleKa": "ნავთობის ფასები იზრდება მას შემდეგ, რაც გავრცელდა ინფორმაცია ჰორმუზის სრუტეში გემზე თავდასხმის შესახებ",
+      "summaryKa": "ნავთობის ფასები გაიზარდა მას შემდეგ, რაც გავრცელდა ცნობა ჰორმუზის სრუტეში გემზე თავდასხმის შესახებ.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -99,17 +176,6 @@
       "publishedAt": "2026-08-04T18:00:24.000Z",
       "titleKa": "ლევერიჯირებული ETF კრახის ჰეჯირების ETF",
       "summaryKa": "სტატია ეხება ლევერიჯირებულ ETF-ებს და კრახის ჰეჯირების ETF-ს.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "abd95d88d33e08eb",
-      "title": "A Fresh Record Looms for the Unsinkable S&P 500",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVI5bVZWWGJCa2k4RFVKSTc4T25wUDdua0h4N2k0Q09IM2tnMjJEelRndGlCNnpnclgtbFFieEJud3JvVF95MDdwZGNHU2N6Ykt2OGxzNzJWXzJmY2RXX0x2LUw2OHdqT3A3QjI2QVdZeG9VSm8xaVhTLW9tRFhVcWNuT1M2bWlpMjRBVDFmWkY2cGZOdFc0X1JBVzZpOHBUTUZr?oc=5",
-      "publishedAt": "2026-08-04T17:53:29.000Z",
-      "titleKa": "„ჩაუძირავი“ S&P 500-ისთვის ახალი რეკორდი ახლოვდება",
-      "summaryKa": "ინდექს S&P 500-ს, რომელსაც ჩაუძირავს უწოდებენ, ახალი რეკორდული ნიშნული უახლოვდება.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -364,17 +430,6 @@
       "titleKa": "აშშ-ში პირველი ბიტკოინ ETF იხურება",
       "summaryKa": "აშშ-ში პირველი ბიტკოინ ETF მუშაობას წყვეტს და იხურება.",
       "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "c61ba4470bb044da",
-      "title": "Oil prices rise after vessel reports being hit in Strait of Hormuz",
-      "source": "MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMG10SmJKbGp6UjNZY1lIN0Vpcnp5WnBWbFQ5VS0zRXpkRUplVnZGeFhNMTUxWTlLVmpIQmRjSzNpYldSbkJsQldPZUdTX3dWcDVPanRkTHEzQTB5bUJocUQ4c2RQcjVIQjNBVXRTalQxbkdPU1Y0b0lIYzgtSVBxdURjNmJSM1A3VGRqNGhONUM1b2lGYVJobllQTjE3Qmw0bkpDRlRORGlBVTRsOFE?oc=5",
-      "publishedAt": "2026-08-04T13:22:00.000Z",
-      "titleKa": "ნავთობის ფასები იზრდება მას შემდეგ, რაც გავრცელდა ინფორმაცია ჰორმუზის სრუტეში გემზე თავდასხმის შესახებ",
-      "summaryKa": "ნავთობის ფასები გაიზარდა მას შემდეგ, რაც გავრცელდა ცნობა ჰორმუზის სრუტეში გემზე თავდასხმის შესახებ.",
-      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
