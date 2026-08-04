@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-08-04T13:30:58.944Z",
+  "updatedAt": "2026-08-04T15:56:01.651Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "c77eb7583997b955",
+      "title": "Top India Oil, Gas Producer Beats Profit Estimate on Price Surge",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGlOTHFIbHNVcFVWMUxfN3RRVXplN25VbGx2NkRfU0NVaWhrU2NpM3VuUk05S0JzU3NjVjJPd05jYUpYa2V4UElWQmtNYlRJWkE3MXpYWDJpMlJlTjZINkZyVW5ZWjNMMjRkYmUyZE5sRWNXc1d1eVdwc3kwbFNuUHBHMVFGTVk5aGQxOEdCOFItcnpjcXYwUC1BUThyRDZHanVtV3dETzd4cFhQeVdfWnlSalo?oc=5",
+      "publishedAt": "2026-08-04T15:13:37.000Z",
+      "titleKa": "ინდოეთის ნავთობისა და გაზის უმსხვილესმა მწარმოებელმა ფასების ზრდის ფონზე პროგნოზირებულზე მეტი მოგება მიიღო",
+      "summaryKa": "ინდოეთის ნავთობისა და გაზის წამყვანმა მწარმოებელმა, ფასების მკვეთრი ზრდის წყალობით, გადააჭარბა საპროგნოზო მოგების მაჩვენებელს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c3d57d5c22263919",
+      "title": "Intuit, BILL, Workiva, Elastic, and Autodesk Stocks Trade Up, What You Need To Know",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVW9ZdlhiQml5THhmTldrV3VqTGpoZ1g5ckw4bngwZF9VM1ZnaHEwaE5ISjRsZ0s3TGpKTWotbEF4NjF3TU5LSkpIcmd1dlFHZ0V3dEtVR2IxSWVyTGctNVR3VHA2U3VJcEo5aWNQZ1ZIa1Q2d0FFcG1TSTY0TTVudzJsUnczZy16YlpZZUZIYjBMLUNLSkk2cmFCS1RVVTFRVmpB?oc=5",
+      "publishedAt": "2026-08-04T15:01:22.000Z",
+      "titleKa": "Intuit-ის, BILL-ის, Workiva-ს, Elastic-ისა და Autodesk-ის აქციები გაიზარდა: რა უნდა ვიცოდეთ",
+      "summaryKa": "კომპანიების – Intuit, BILL, Workiva, Elastic და Autodesk – აქციები გაიზარდა და წარმოდგენილია ინფორმაცია, რომელიც ამის შესახებ უნდა იცოდეთ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "592a4f77b1a41d63",
+      "title": "Treasuries Rise as Falling Oil Prices Trim Fed Rate-Hike Wagers",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1lNYXF5TW5mT0xWdGNGVFBuZmNfYmlQdVp5aElmU2RsSW5kRTFPZ2F3NFVqeEF6d0VrYjh0ZEswUjdGenpBdTNMV3N2WVZ5RWRUM0hPYXB5UWZPVWNvUnUyMkFhQ2ZRbURKZm8zUzAxMTVuV0s5b2VQNWV2VmpPZFh5RU9TaDFfVFAxS0U0dzJMaDdXZTdMajRwQ2o4SGZSZHpPdUtRZVg1eUlaUTR5bUlfMEw?oc=5",
+      "publishedAt": "2026-08-04T15:00:14.000Z",
+      "titleKa": "სახაზინო ობლიგაციების ფასები იზრდება, რადგან ნავთობზე ფასების კლებამ Fed-ის მიერ განაკვეთების გაზრდაზე ფსონები შეამცირა",
+      "summaryKa": "აშშ-ის სახაზინო ობლიგაციების ფასები იზრდება, რადგან ნავთობზე ფასების კლებამ ფედერალური სარეზერვო სისტემის მიერ საპროცენტო განაკვეთების გაზრდის მოლოდინები შეამცირა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ab5abc5cb9d52335",
+      "title": "Yen intervention rattles Japan as global stocks barely notice: AlphaCheck",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzJ5eFhCRkVCbG84LWkxdThZQ3BjMlZkTUIxR3Y5OXFnbTZ1dXFiS1NOV25jWFZ2S0g4NnpqUjdmOGF4MUhpVU5tSUwydkpUd1RuS2FaOXFWUjlrdVh2a1kxT0RkWWtYcWtiX0VhZDdBeV9sWjVseF96Y2dSeFc2X2JmTTE0VUt2dF9uOE5jTDR5cVo2Vkt1dlJjbXB5c0R5ejRuQ3pEYUh4Z0g0bmR3ZF90dm9BclVtUFNldlpNbS1qTzQtTllOeQ?oc=5",
+      "publishedAt": "2026-08-04T14:08:41.000Z",
+      "titleKa": "იენის ინტერვენციამ იაპონია შეაშფოთა, თუმცა გლობალურმა აქციებმა ეს თითქმის ვერ შეამჩნიეს: AlphaCheck",
+      "summaryKa": "AlphaCheck-ის თანახმად, იენის კურსის მხარდასაჭერად განხორციელებულმა ინტერვენციამ იაპონია შეაშფოთა, მაშინ როდესაც გლობალურ საფონდო ბირჟებს ამაზე თითქმის რეაქცია არ ჰქონიათ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "90b1b5c5696ede0e",
+      "title": "ROKU to Report Q2 Earnings: What's in the Cards for the Stock?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQUdQSWtEdjJ1cmdmY2tPLVJ6STlOVFF3cE96U19hLWN2Y1NTWmtYVVN5QlhYUENpMUpMek5yRWZpdjB3SXNya2xkQ214cGUzTUpDbUNKRThnSWZaRFU0b0hMdUlkZWJ3eU1EdDBzVWh5VXVvUnA0Smw1RVJsQWdLelJpbGRIRl83WlI0YW1KZUk5cnZhOHQ3RjRB?oc=5",
+      "publishedAt": "2026-08-04T13:48:00.000Z",
+      "titleKa": "ROKU მეორე კვარტლის ფინანსურ შედეგებს გამოაქვეყნებს: რა ელის მის აქციებს?",
+      "summaryKa": "კომპანია ROKU წარადგენს მეორე კვარტლის ფინანსურ შედეგებს და განიხილება, თუ რა ელის მის აქციებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2359321250f441bc",
+      "title": "Freenome Rings the Nasdaq Stock Market Opening Bell",
+      "source": "Nasdaq",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXVBOG1yOGlvMU9XV2ppSUpESGhuakxuaFlWdlBrNkQzeGJTanhzeVdzN0FFLTVjdWZxamVUSEZSRFlKbXlIZVppdW14RVhLVTJ4ZEU0QUpPVW00bElISkp2NzNWTEdmdHJrcnFKdHRJVzRvMUV0eWpwOTg2c1gwYy1pQQ?oc=5",
+      "publishedAt": "2026-08-04T13:40:14.000Z",
+      "titleKa": "Freenome-მა Nasdaq-ის საფონდო ბირჟის გახსნის ზარი ჩამოჰკრა",
+      "summaryKa": "კომპანია Freenome-მა საზეიმოდ ჩამოჰკრა Nasdaq-ის საფონდო ბირჟის გახსნის ზარი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9d3dca566c7d288d",
+      "title": "Philadelphia Fed president says she's keeping an 'open mind' on rates, watching inflation",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMEdXd1pXOUtRUGRiRGxFNXlpcmFpQmk3TEVpU25IcVlMN2lWckRSVkRtUU5INUxoQ2dKQU1Db00zWC00WHZ2NHlZQjI1YlFOOWFHOXpKS3ZmRkd2RzJmb0RkRkd6WTJ3NDVacjNqWW5LSXJXdEsxc0FzV2U0VVh2S3FZbXZqb3pUdlhwaDUzVHhGWVo0LUpfZzZkN1ZtNFlHaXRPNHVuYmpELUk2NVpRb1U0VklhaU1pZEkxVFlrSkpXb2drRmV4dmczS2FyNmZnUlM5bWF6ZU1MZlRVNno0Z3oyTQ?oc=5",
+      "publishedAt": "2026-08-04T13:34:24.000Z",
+      "titleKa": "ფილადელფიის ფედერალური სარეზერვო ბანკის პრეზიდენტი აცხადებს, რომ საპროცენტო განაკვეთებთან დაკავშირებით გადაწყვეტილებას მოგვიანებით მიიღებს და ინფლაციას აკვირდება",
+      "summaryKa": "ფილადელფიის ფედერალური სარეზერვო ბანკის პრეზიდენტი აცხადებს, რომ საპროცენტო განაკვეთებთან დაკავშირებით გადაწყვეტილებას მოგვიანებით მიიღებს და ყურადღებით აკვირდება ინფლაციის მაჩვენებლებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "94dcfd850ebd2bd3",
+      "title": "SpaceX’s First Earnings Offer a Chance to Reverse Stock’s Plunge",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2ZqQlNxQml5WjZIUWo0cDVhWWxqeFF1OWg4ckdEZzhfZTlmTTVsNE1HdEhqbUViOFRhQlZDdllmdWVHc1JCdVVQNXp3d0VwYUNrMXFSNFJHYXRfendfQ3BaTkt6TUtobFpPWFU4N2V6bm1yam9BRXV0QjllTlZjaHluNzNKMkNBeklBYm5vZUxKMmI1TG9xVlZqUEF2ZjlwTENxUGtCSEh0RGZEcXg0VTQwcWtKUQ?oc=5",
+      "publishedAt": "2026-08-04T13:33:56.000Z",
+      "titleKa": "SpaceX-ის პირველი ფინანსური შედეგები აქციების ვარდნის ტენდენციის შემობრუნების შანსს იძლევა",
+      "summaryKa": "SpaceX-ის პირველი ფინანსური შედეგები იძლევა შესაძლებლობას, რომ მისი აქციების ვარდნის ტენდენცია შემობრუნდეს.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a38d93b14c40cb1a",
+      "title": "Bitmine Accelerates Stock Buybacks And Continues Buying Ethereum",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0ZCMno5NEZpU0xhdTZjRF9SY0FpTklsOWllMjB1ZHh5VE1qMW8zeW5lcTBEMVlnakZGY0VyNFY1d1pvVFNOWlVaWkJ5S1pZTnpQellrU1lGa2pDYlAwMU5OajFsdDRpZy1WVEdIREpBbENQdVNWdlQxckF3Vkxna2JTeEl4UlA2V1ZtellNenVmdGNJY092T1RNUzc2OEVQNlhoRm1NQWREVDdqSWc?oc=5",
+      "publishedAt": "2026-08-04T13:30:00.000Z",
+      "titleKa": "Bitmine აქციების გამოსყიდვას აჩქარებს და Ethereum-ის შეძენას აგრძელებს",
+      "summaryKa": "კომპანია Bitmine საკუთარი აქციების გამოსყიდვას აჩქარებს და კვლავ აგრძელებს Ethereum-ის შეძენას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3aeccf2b6eea370e",
+      "title": "American Bitcoin’s President Resigns",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXRTZXNYSUNfem5SQVhqbDhiREJ5UElzSXBXbG5RY191MGx1bDcyVVFFS1NZUlhObjY3X054SlhPV1N6SmZpZktVSmxIdFRrdG1WTzdpWWE2cTQzN0F0RmtiellDbzJmTzM4allEQUtxVmtDWWc0MHRablAzeGpubFI1a0NYbk5qbkVuLVJleUdkVU8zaFYwY3NkX3otdVhn?oc=5",
+      "publishedAt": "2026-08-04T13:27:00.000Z",
+      "titleKa": "American Bitcoin-ის პრეზიდენტი გადადგა",
+      "summaryKa": "კომპანია American Bitcoin-ის პრეზიდენტი თანამდებობიდან გადადგა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ddacef5d7defd593",
+      "title": "First U.S. Bitcoin ETF To Close",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTUM1ZnEwREV1QkVQRGpzOGVOLUtmSmJ2NTRLUkk3dk5lTUJyWDdneUpnWjRGYWFnZVFGRjFkdlJ2U21LN1NYLWc3OWptVFljS2otc1BsNTJ3dW4xZXdsem1ma0hTbDZ3SGVDYTRaQTJyS0Q1aFVoQk9sUWN5RlU1NnBST3AtYm9YejdOR2hMeElpVklQ?oc=5",
+      "publishedAt": "2026-08-04T13:25:00.000Z",
+      "titleKa": "აშშ-ში პირველი ბიტკოინ ETF იხურება",
+      "summaryKa": "აშშ-ში პირველი ბიტკოინ ETF მუშაობას წყვეტს და იხურება.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c61ba4470bb044da",
+      "title": "Oil prices rise after vessel reports being hit in Strait of Hormuz",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMG10SmJKbGp6UjNZY1lIN0Vpcnp5WnBWbFQ5VS0zRXpkRUplVnZGeFhNMTUxWTlLVmpIQmRjSzNpYldSbkJsQldPZUdTX3dWcDVPanRkTHEzQTB5bUJocUQ4c2RQcjVIQjNBVXRTalQxbkdPU1Y0b0lIYzgtSVBxdURjNmJSM1A3VGRqNGhONUM1b2lGYVJobllQTjE3Qmw0bkpDRlRORGlBVTRsOFE?oc=5",
+      "publishedAt": "2026-08-04T13:22:00.000Z",
+      "titleKa": "ნავთობის ფასები იზრდება მას შემდეგ, რაც გავრცელდა ინფორმაცია ჰორმუზის სრუტეში გემზე თავდასხმის შესახებ",
+      "summaryKa": "ნავთობის ფასები გაიზარდა მას შემდეგ, რაც გავრცელდა ცნობა ჰორმუზის სრუტეში გემზე თავდასხმის შესახებ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "41fcbe4f69a48c02",
       "title": "Bitcoin and ethereum prices today, Tuesday, August 4, 2026: Investors closely monitoring Clarity Act progress",
@@ -122,17 +254,6 @@
       "titleKa": "American Bitcoin-მა მეტ პრუსაკის წასვლის შემდეგ დროებით ფინანსურ დირექტორად პოლ საქსი დანიშნა",
       "summaryKa": "American Bitcoin-მა მეტ პრუსაკის წასვლის შემდეგ დროებითი ფინანსური დირექტორის (CFO) თანამდებობაზე პოლ საქსი დანიშნა.",
       "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "c61ba4470bb044da",
-      "title": "Oil prices rise after vessel reports being hit in Strait of Hormuz",
-      "source": "MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMG10SmJKbGp6UjNZY1lIN0Vpcnp5WnBWbFQ5VS0zRXpkRUplVnZGeFhNMTUxWTlLVmpIQmRjSzNpYldSbkJsQldPZUdTX3dWcDVPanRkTHEzQTB5bUJocUQ4c2RQcjVIQjNBVXRTalQxbkdPU1Y0b0lIYzgtSVBxdURjNmJSM1A3VGRqNGhONUM1b2lGYVJobllQTjE3Qmw0bkpDRlRORGlBVTRsOFE?oc=5",
-      "publishedAt": "2026-08-04T10:39:00.000Z",
-      "titleKa": "ნავთობის ფასები იზრდება მას შემდეგ, რაც გავრცელდა ინფორმაცია ჰორმუზის სრუტეში გემზე თავდასხმის შესახებ",
-      "summaryKa": "ნავთობის ფასები გაიზარდა მას შემდეგ, რაც გავრცელდა ცნობა ჰორმუზის სრუტეში გემზე თავდასხმის შესახებ.",
-      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
