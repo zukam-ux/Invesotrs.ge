@@ -1,8 +1,107 @@
 {
-  "updatedAt": "2026-08-04T09:48:07.719Z",
+  "updatedAt": "2026-08-04T11:53:29.232Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "a17fded548a4b413",
+      "title": "Oil Prices Can’t Fall Fast Enough for Asia to Keep Its Lights On",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLVNLTFRYZVJjLU5vcFFuazJPNHJnUnhHeGZyLVRqLXROazctdEJpZ2ZIcHJGTFVBc0t1RmpsUWxSTjZJbkxkbENEeUhMZ3Rmd0JmblQ2N3JPSlg1MHNLMTZwV1p0bTJrcFYzSWVwRFlLQ2RTMzlzQTVZN3R2bkE1OW10NmlSMGU2bzhmYU1xMXJNY2NnZERMWUVmdzJlLUV2XzAxblRhSW9xV1d5LXF2dy0yUTEzZTRFWmQ3TldubWlpYXktWFFhNTFrODlIc3ZqZy1UVlh3?oc=5",
+      "publishedAt": "2026-08-04T11:00:01.000Z",
+      "titleKa": "ნავთობის ფასები საკმარისად სწრაფად ვერ ეცემა იმისთვის, რომ აზიამ ელექტროენერგიის მიწოდება შეინარჩუნოს",
+      "summaryKa": "ნავთობის ფასები იმდენად სწრაფად ვერ იკლებს, რომ აზიამ შეძლოს ელექტროენერგიის მიწოდების უზრუნველყოფა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "88c2c3bf078122c9",
+      "title": "Stocks Hold Near Record Highs Ahead of SpaceX Earnings Debut",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX0owMjRBY0FaZWJBd3RQT0RuUTRDcXBlRHJlUThEWXdVR1UtU2R3NlFieVFQLWFwVUtLZmQ5MVVsVC0zZ2VkM2ZKb3liVVVCeG1kWWpUQ2tla0d4bV9ic21PN2c4UW50bjZkQUhGc1Nya1Nyd094OUQ5UDlpNVp0OHdCaTRVT1J3ejQyX1Q1bkxXNEh5b3Y1aFhJMUhpdVVUejVnSGp4UmVsSGpJV0NxamI0ZlA?oc=5",
+      "publishedAt": "2026-08-04T10:52:16.000Z",
+      "titleKa": "აქციები რეკორდულ მაქსიმუმებთან ახლოს ნარჩუნდება SpaceX-ის მოგების ანგარიშის დებიუტის წინ",
+      "summaryKa": "აქციები რეკორდულ მაქსიმუმებთან ახლოს ნარჩუნდება მანამ, სანამ SpaceX საკუთარი მოგების ანგარიშის დებიუტს წარადგენს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3c61dc6fc6b3bcac",
+      "title": "Caterpillar Profit Tops Estimates as AI Boosts Power Sales",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFdPUTVhc1NXWlFkSEtESjFlLWNPQmpSSkZBU3FxcEJRY0w2bTFuMFdJLUdhTGU1NkJjX1JkTkhWalRMVC1FcjhnUFY4c19oa1RPS0Y3Q3YxNkJjSkZqczgtT1BxbkRDVE83c0R0UzZ1Umw1NE45eEdFVHdaczBfUDlBZFk2d21yU1BwZ2NsMmdmUjlzcmhHNGFocThNWlNVMGdNSFQ2N3ZSS2FMclA1RHhxNA?oc=5",
+      "publishedAt": "2026-08-04T10:42:05.000Z",
+      "titleKa": "Caterpillar-ის მოგებამ მოლოდინს გადააჭარბა, რადგან ხელოვნურმა ინტელექტმა ენერგიის გაყიდვები გაზარდა",
+      "summaryKa": "Caterpillar-ის მოგებამ პროგნოზებს გადააჭარბა მას შემდეგ, რაც ხელოვნურმა ინტელექტმა ენერგიის გაყიდვების ზრდა გამოიწვია.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c61ba4470bb044da",
+      "title": "Oil prices rise after vessel reports being hit in Strait of Hormuz",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMG10SmJKbGp6UjNZY1lIN0Vpcnp5WnBWbFQ5VS0zRXpkRUplVnZGeFhNMTUxWTlLVmpIQmRjSzNpYldSbkJsQldPZUdTX3dWcDVPanRkTHEzQTB5bUJocUQ4c2RQcjVIQjNBVXRTalQxbkdPU1Y0b0lIYzgtSVBxdURjNmJSM1A3VGRqNGhONUM1b2lGYVJobllQTjE3Qmw0bkpDRlRORGlBVTRsOFE?oc=5",
+      "publishedAt": "2026-08-04T10:39:00.000Z",
+      "titleKa": "ნავთობის ფასები იზრდება მას შემდეგ, რაც გავრცელდა ინფორმაცია ჰორმუზის სრუტეში გემზე თავდასხმის შესახებ",
+      "summaryKa": "ნავთობის ფასები გაიზარდა მას შემდეგ, რაც გავრცელდა ცნობა ჰორმუზის სრუტეში გემზე თავდასხმის შესახებ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6455228d06c41896",
+      "title": "Emerging Markets Stay Under Pressure as Iran Impasse Lifts Oil",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSy00T3N6d3dwVFdtQ3pvSXF4UEtnU0pUc0VDcnRBbWhNQVg5TU9BOW5TR19SRS16RlpwMTl1VXgwRng1TTFRY2RpdnN2eC0tN3BZQ2Vsbnlib1RZQzNnWmhnaFFTSGxUdHJjNGZfNzFDUXhaSy1qaVRqQjJqWmJmQ3JqekNBMGdpY0poN0NtbXRiek5nVHpiZjMtaFc3U2RkV0twNHpsUzZqVkZFQzFwSUpzWEV4WG5JdnlmMy05VFlIY0ZFdU50M3ZCX2hLTWkwWXc?oc=5",
+      "publishedAt": "2026-08-04T10:34:56.000Z",
+      "titleKa": "განვითარებადი ბაზრები ზეწოლის ქვეშ რჩება, რადგან ირანის გარშემო არსებული ჩიხი ნავთობის ფასს ზრდის",
+      "summaryKa": "ირანთან დაკავშირებული ჩიხური მდგომარეობა ნავთობის ფასებს ზრდის, რის გამოც განვითარებადი ბაზრები კვლავ ზეწოლის ქვეშ რჩება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e24e912d24676f92",
+      "title": "Brunswick Targets Record Revenue, Doubled Earnings by 2030",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRlBZQjh2cUdJakxpNnhrclUxbjZNX2FmSjg5TGJ4bUR2bzVwR0QzQnlXZkRiWEtyZTJqRzc5Y3l2OEhTX0l1M3N4RmlkcVNuNkh5REtocFVkT2lqcVEzQ3dOb0NMVjBNSWd5eXRURnJHUTc1ZmxhM3BhZDFfZ0FSTGVqOWxmNXNQUVBqNDY5VW55T3BlOHVId2hySW9qeWtQbGkyZVVzZlFYLVVq?oc=5",
+      "publishedAt": "2026-08-04T10:28:04.000Z",
+      "titleKa": "Brunswick 2030 წლისთვის რეკორდულ შემოსავალსა და გაორმაგებულ მოგებას გეგმავს",
+      "summaryKa": "კომპანია Brunswick მიზნად ისახავს 2030 წლისთვის რეკორდულ შემოსავალს მიაღწიოს და მოგება გააორმაგოს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "abd95d88d33e08eb",
+      "title": "A Fresh Record Looms for the Unsinkable S&P 500",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVI5bVZWWGJCa2k4RFVKSTc4T25wUDdua0h4N2k0Q09IM2tnMjJEelRndGlCNnpnclgtbFFieEJud3JvVF95MDdwZGNHU2N6Ykt2OGxzNzJWXzJmY2RXX0x2LUw2OHdqT3A3QjI2QVdZeG9VSm8xaVhTLW9tRFhVcWNuT1M2bWlpMjRBVDFmWkY2cGZOdFc0X1JBVzZpOHBUTUZr?oc=5",
+      "publishedAt": "2026-08-04T10:21:52.000Z",
+      "titleKa": "„ჩაუძირავი“ S&P 500-ისთვის ახალი რეკორდი ახლოვდება",
+      "summaryKa": "ინდექს S&P 500-ს, რომელსაც ჩაუძირავს უწოდებენ, ახალი რეკორდული ნიშნული უახლოვდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "56e0738a47e7b80e",
+      "title": "SpaceX Earnings: Investors Should Focus on Starship, Not Quarterly Results",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQTJyak11cW9QNGMwRHZ0ZTgwb2FPQ25DNWxGSGI0clFaQkhvODJVdDk1RS1pd2lld2N0Z0RycVBJV0hiUzV5VWZQal93bWpQRDd4d28wbDloZ1V3RDNWc3pTamFBaE9qdnloUy1aWWZIWF81SGM1NS0xNWRxWTV5cXdVeXdsaGpqeEpCZ18wUWNKMDdKWkVOMkg5UVpySE5wQlBsTlBtVnV3VHlHbnlHcGpCWl9EX2V5dzJQVktoRUNheGhE?oc=5",
+      "publishedAt": "2026-08-04T10:00:02.000Z",
+      "titleKa": "SpaceX-ის მოგება: ინვესტორები Starship-ზე უნდა ფოკუსირდნენ და არა კვარტალურ შედეგებზე",
+      "summaryKa": "SpaceX-ის მოგების შესახებ საუბრისას აღნიშნულია, რომ ინვესტორებმა ყურადღება Starship-ზე უნდა გაამახვილონ და არა კვარტალურ შედეგებზე.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "199ab5e99ebb47d3",
+      "title": "Best Growth Stocks to Buy for August 4th",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmFsYUNHbW0zMUl5ekhlTWJpVS1vbjFKV25GN01QSF9nS1JzRWZ1bUNfaFRrVUpRbU1tSmZuUXh1cVhnS1VfcURoNzVIc2o3aVczYWtVUzg1WVA0MEc3N3pwUEpLMS1MM2JLMnY0MDUwdWFjMnBvM1UtcWk2SEsxWXJONEM1M0ctWVFQb1FSSDZPRHR1RW5DUWV3?oc=5",
+      "publishedAt": "2026-08-04T09:24:00.000Z",
+      "titleKa": "საუკეთესო ზრდადი აქციები 4 აგვისტოსთვის შესაძენად",
+      "summaryKa": "წარმოდგენილია საუკეთესო ზრდადი აქციები, რომლებიც 4 აგვისტოსთვის უნდა შეიძინოთ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "d6a9daa685de88e5",
       "title": "Bayer Earnings Beat Estimates on Crop Science Strength",
