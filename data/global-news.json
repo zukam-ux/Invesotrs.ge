@@ -1,8 +1,85 @@
 {
-  "updatedAt": "2026-08-04T11:53:29.232Z",
+  "updatedAt": "2026-08-04T13:30:58.944Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "41fcbe4f69a48c02",
+      "title": "Bitcoin and ethereum prices today, Tuesday, August 4, 2026: Investors closely monitoring Clarity Act progress",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWnlVRXpBX3R2ZmdlOF9WVUNMUzZTQ3pLQTcwMWtJTUNFLVFrUW9uWmpfR21pVU50V3hVSk1aN1gtOHd2M3ZZVGhJVkpuX1BRT3Z2MmlKMjYwYVhSbk56bnoxYjNDeGtmcmFTdVY5SDB6WnExd1dvQUVQRnhpb213X2FDR0hHZVRrVDZZejZJVHNhNWpvWFRQX0EzUkEyM3hwNUp3QXFWT2FYMWtoMmQ5M0k0NS0xMk1UV0s1djMwNlBWTFpqNWR3OW9zelNtY0RaTmZnb2NpME5FbmZfRFBGX2tVMkpjYkVndmRTN2JvUWU0Z2w2cmthTjJ4b3JiZzlTOU1aMWZFV0o3SnpNVlE?oc=5",
+      "publishedAt": "2026-08-04T13:15:34.000Z",
+      "titleKa": "ბიტკოინისა და ეთერიუმის ფასები დღეს, სამშაბათს, 2026 წლის 4 აგვისტოს: ინვესტორები ყურადღებით აკვირდებიან Clarity Act-ის პროგრესს",
+      "summaryKa": "დღეს, სამშაბათს, 2026 წლის 4 აგვისტოს, ინვესტორები ყურადღებით აკვირდებიან Clarity Act-ის პროგრესს ბიტკოინისა და ეთერიუმის ფასების ფონზე.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "45b95d349bf48e1e",
+      "title": "Canada Posts Fourth Straight Trade Surplus on Gold Shipments",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2tuSzJYcXVjcWRBejljdGhCVE85eE1GcWkyVWhoOTItWHhnY3RJVmlyc1hSMERwLTh5UTJ0U3F4Mm93eE5ySGdJMlN1WFMtcjYzejVYQ2pzRmpmNUNUTlUxUEtlV29iU2hXbFZkNk9kN3IzaWpVV19pWFJ2VnpSeGw5XzhYNUFIX0FyYkpVVDRjZDNiZUdkbWJSSFZwSW00NmxsS0wxS0x1REplczQxYg?oc=5",
+      "publishedAt": "2026-08-04T12:30:53.000Z",
+      "titleKa": "კანადა ოქროს მიწოდების წყალობით ზედიზედ მეოთხე სავაჭრო პროფიციტს აფიქსირებს",
+      "summaryKa": "კანადამ ოქროს გადაზიდვების შედეგად ზედიზედ მეოთხე სავაჭრო პროფიციტი დააფიქსირა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "579de1dc03021324",
+      "title": "Gold prices today, Tuesday, August 4, 2026: Gold remains above $4,100 with Iran threats looming",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPc0tadUpuWWV0ZW1wcVljdHRJRGZmaWJCcTIwWFJXYVVvYU9tREQ2UkFtTk9EZkF3U05wRWU4RFg4UmZYZjRWSklKVHRaR2l4dHYwQzlmZEh4ZFcxRGQtUFp6TWcwNFpfaGxXQlBIYVhKbU9oV09SbXlXYTBoUWpwdlJKR2V4RVB6UlBSXzFJdUw1UVdOSmVKMlRBdmhPUU1sUXhBSXZyM3pxOEgzWkRwSmcySFM1bzhZMm5TVm9YVm9MQXVxWUJTRGphU1NmaFRZRnJHWWVQVjJhdXAxeENkcGJtYTQwSHFOUTZFZW1IOFQ2ZmdMNDY0OA?oc=5",
+      "publishedAt": "2026-08-04T12:21:38.000Z",
+      "titleKa": "ოქროს ფასები დღეს, სამშაბათს, 2026 წლის 4 აგვისტოს: ირანის მხრიდან მზარდი საფრთხეების ფონზე ოქროს ფასი $4,100-ზე ზემოთ ნარჩუნდება",
+      "summaryKa": "დღეს, სამშაბათს, 2026 წლის 4 აგვისტოს, ირანის მხრიდან მომდინარე საფრთხეების ფონზე ოქროს ფასი $4,100-ზე მაღლა ნარჩუნდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "053bee7d533f9aa7",
+      "title": "Why Palantir stock is ripping higher after earnings: AlphaSpace stat of the morning",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQWlVREJxRWQ1YlRJTjY0SnVPNzRIU3lwazdDNV8zMWFkM0hyNUttTWhDWjRqRnZma0VrUWFINVRURGUxRUJxcVFBdnJieUQwYU8tOUJRZkRCQ3ExeUN1TnBKX3hfNk5yUFBRZjFaYWMtT3lYMjh4bDF4UGJ0WS1UUldEUER4OS1aRkZaRmNlVmNEYWxKZnhXb2dTdm5yT2ZFMlhTdnd1Z2p6bXN6UGl2MW1Ob3ZuSWp1S201SEh0RHVZMmxDRlR3Um5IZzhmNG8xQWtNVEt2SWJsR09mTG44?oc=5",
+      "publishedAt": "2026-08-04T12:10:06.000Z",
+      "titleKa": "რატომ იზრდება Palantir-ის აქციები მკვეთრად ფინანსური შედეგების გამოქვეყნების შემდეგ: AlphaSpace-ის დილის სტატისტიკა",
+      "summaryKa": "AlphaSpace-ის დილის სტატისტიკა განმარტავს, თუ რატომ იზრდება Palantir-ის აქციების ფასი მკვეთრად ფინანსური შედეგების გამოცხადების შემდეგ.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5281c16f28f8634e",
+      "title": "SpaceX's first-ever earnings report comes with stock under pressure: Q2 preview",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc3dIOWhWU0hyT013RlQ1TUNvX1R4U3RFa0thX25vOHhqMy1HUnFEdXk2dW16VXZiZm1HUkhGTWdNUUROSmdTdGd5Zy1WaVNCekhKdDVNWkhoY0tZRmNhcTZTUmdVN2FyUHlXTl9yemRGanltZmo5SDRGb3hUb1I5TDhaVWFJMG45RnF4X01GZWxPS2ZyeGFEcU9iUEdYUzhUd1lIcjZ6RmhMQTBSZkt4dmNJcDQ4ZEtTdGhrMHoxdng5TEs4ME1OMTVpUW9teDREclZj?oc=5",
+      "publishedAt": "2026-08-04T12:02:51.000Z",
+      "titleKa": "SpaceX-ის პირველი ფინანსური ანგარიში აქციებზე ზეწოლის ფონზე ქვეყნდება: მე-2 კვარტლის მიმოხილვა",
+      "summaryKa": "მეორე კვარტლის მიმოხილვის თანახმად, SpaceX-ის ისტორიაში პირველი ფინანსური ანგარიშის წარდგენა მისი აქციების ფასზე ზეწოლის ფონზე ხდება.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8d403526b81688f5",
+      "title": "Fed’s Paulson Says She Keeps an ‘Open Mind’ on Interest Rates",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3NqMHIzbmloX0gtRi1uNWtqaTlHRkd1NnB6VHI3YTJlNk54aThYU25OYmkwaWZzRjFnSFRnXzBWZ01yVllteVB5MmdLWjdRLVpQaGRHbmxycFVFNFZxLTRWODBzWjJzbTRLUF9wTTd4RXdVNVZiLVVWTVJkYy14OW1Mdy1CWXBsekdKaGo5eFMtcG5QQTYzRF9TMTVTbVZ1VG40a3g1NEtqQk1wR0tB?oc=5",
+      "publishedAt": "2026-08-04T12:00:30.000Z",
+      "titleKa": "ფედ-ის წარმომადგენელი პოლსონი აცხადებს, რომ საპროცენტო განაკვეთებთან დაკავშირებით „ღია პოზიციას“ ინარჩუნებს",
+      "summaryKa": "ფედერალური სარეზერვო სისტემის წარმომადგენელმა პოლსონმა განაცხადა, რომ საპროცენტო განაკვეთებთან დაკავშირებით „ღია პოზიციას“ ინარჩუნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ec881a8227804727",
+      "title": "AI-linked chip stocks rebound; Powell Industries tumbles premarket",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDhORGttaTg2OXFVUzNyVjMxV2lpNzd6ZWFBNDZNQU92SjF2LXBOMnV3Y1hQWnczd3J6X2ZfSTJEaGF3bmhzWWQzVU1KVnFhOF9rcnRKZnV6NVNFOUlHc1pSS2YzSzdRbWdocVF1NGZveXRuS0twZm1XVmtnWUpMa25CeTlVSjVXa2hUcjdOaFl0VWJHQVNpVTRB?oc=5",
+      "publishedAt": "2026-08-04T11:33:11.000Z",
+      "titleKa": "ხელოვნურ ინტელექტთან დაკავშირებული ჩიპების მწარმოებლების აქციები აღდგა; Powell Industries-ის აქციები წინასაბაზრო ვაჭრობაში ეცემა",
+      "summaryKa": "ხელოვნურ ინტელექტთან დაკავშირებული ჩიპების მწარმოებელი კომპანიების აქციები გაიზარდა, ხოლო Powell Industries-ის აქციების ფასმა წინასაბაზრო ვაჭრობაში კლება განიცადა.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "a17fded548a4b413",
       "title": "Oil Prices Can’t Fall Fast Enough for Asia to Keep Its Lights On",
@@ -34,6 +111,17 @@
       "titleKa": "Caterpillar-ის მოგებამ მოლოდინს გადააჭარბა, რადგან ხელოვნურმა ინტელექტმა ენერგიის გაყიდვები გაზარდა",
       "summaryKa": "Caterpillar-ის მოგებამ პროგნოზებს გადააჭარბა მას შემდეგ, რაც ხელოვნურმა ინტელექტმა ენერგიის გაყიდვების ზრდა გამოიწვია.",
       "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6038ea15e1f409f5",
+      "title": "American Bitcoin Names Paul Sacks Interim CFO Following Matt Prusak’s Exit",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2NtTHZIRGtrQmlkRmlEaHRuODR6alNjM0VlMlZWSG5QUzZoeHBIZXJVZEZBT2paRnZnd3ZKVTVtODI3YTBRdHF0TVpMdkZUTTdRWVp3SzBtY0FVZWtyOFY2QWdHYXpNVThXbmp1SzNZbU5TejBjWTJiOHZmRlo2ellRdzItTnZ1X0l1RFhlN21KQUxsX2ZzYUlFOGZNak0?oc=5",
+      "publishedAt": "2026-08-04T10:39:17.000Z",
+      "titleKa": "American Bitcoin-მა მეტ პრუსაკის წასვლის შემდეგ დროებით ფინანსურ დირექტორად პოლ საქსი დანიშნა",
+      "summaryKa": "American Bitcoin-მა მეტ პრუსაკის წასვლის შემდეგ დროებითი ფინანსური დირექტორის (CFO) თანამდებობაზე პოლ საქსი დანიშნა.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -70,11 +158,22 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "27faf3b102b08169",
+      "title": "Strategy Taps Bitcoin Reserves to Service Preferred Stock as STRC Trades Below Par",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1ZNY1JPWU4xTWlXUGtsLXhGTW9EOThNcGNxVVY0R1gtbTdXdTVQeXpNZWpVc1lwZGpHMTk4LWxlSmpvbmIzQzRJWEJheGxXWGI5Qk1XdTVnRG1QeGltQ3hkRzNyQTZWSFhiVVFpWVAwR2dxeGNHUDIyUFpPa3k3UG5mUjY5bElFMWtjYldKSlVZZ0drMjBuWDlWSE95aVdlM3JxSlBsMTY?oc=5",
+      "publishedAt": "2026-08-04T10:27:44.000Z",
+      "titleKa": "Strategy იყენებს ბიტკოინის რეზერვებს პრივილეგირებული აქციების მოსამსახურებლად, როდესაც STRC ნომინალზე დაბალ ფასად ივაჭრება",
+      "summaryKa": "კომპანია Strategy იყენებს თავის ბიტკოინის რეზერვებს პრივილეგირებული აქციების მომსახურებისთვის, რადგან STRC ნომინალურ ღირებულებაზე დაბალ ფასად ივაჭრება.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "abd95d88d33e08eb",
       "title": "A Fresh Record Looms for the Unsinkable S&P 500",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVI5bVZWWGJCa2k4RFVKSTc4T25wUDdua0h4N2k0Q09IM2tnMjJEelRndGlCNnpnclgtbFFieEJud3JvVF95MDdwZGNHU2N6Ykt2OGxzNzJWXzJmY2RXX0x2LUw2OHdqT3A3QjI2QVdZeG9VSm8xaVhTLW9tRFhVcWNuT1M2bWlpMjRBVDFmWkY2cGZOdFc0X1JBVzZpOHBUTUZr?oc=5",
-      "publishedAt": "2026-08-04T10:21:52.000Z",
+      "publishedAt": "2026-08-04T10:23:28.000Z",
       "titleKa": "„ჩაუძირავი“ S&P 500-ისთვის ახალი რეკორდი ახლოვდება",
       "summaryKa": "ინდექს S&P 500-ს, რომელსაც ჩაუძირავს უწოდებენ, ახალი რეკორდული ნიშნული უახლოვდება.",
       "category": "ბაზრები და ეკონომიკა",
