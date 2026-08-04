@@ -1,8 +1,52 @@
 {
-  "updatedAt": "2026-08-04T15:56:01.651Z",
+  "updatedAt": "2026-08-04T17:27:32.644Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "269044350ccbd3f0",
+      "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzVkeTZ3UkRzZk5Od0JlZTU0S3JaWEtGeVRKX2VxRGFibEFzQ0lwbVVvZ2JjeUZHOEEwOEl0N2VVbm5EcFRHdTlDTV9YX0RSX1I3Z2Nabl9zT1Q3STY0ZXp6WW4wYWxNUVZHa1N4QXVOTk9tNkYxQ0lNMVYtVk9OSjJQbWJjN0trWV84NjNTWGVNVXhsSndhcklEOGFJRHFWaVJsWmRCd0dNZXFaNWk1SEFvXzIzakZOVXZiZ1BIcjB1MWlkc0g4Q2FCc3lxeFVPV3JqVmlDSGRuOWxnS1E?oc=5",
+      "publishedAt": "2026-08-04T17:22:16.000Z",
+      "titleKa": "Marvell, Sandisk და SK Hynix ლიდერობენ ნახევარგამტარების აქციების ზრდას, როდესაც S&P 500 რეკორდულ ნიშნულზე ივაჭრება",
+      "summaryKa": "ნახევარგამტარების აქციების ზრდას სათავეში უდგანან Marvell, Sandisk და SK Hynix, იმ ფონზე, როდესაც S&P 500 ინდექსი რეკორდულად მაღალ დონეზე ივაჭრება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4521fc2162dd923c",
+      "title": "‘All hat, no cattle’: Markets question Fed’s inflation credibility amid elevated bond yields",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0U2TnlYYTByU250UEhiTTQ0bm9xZDZRVElEbDZZak9FQVE0ZFMxZDFVVXlEX1BsRnA2QVg3N1ZjdTlvajRRWWpmamljeTBzQnk1XzdsRzBkTGV1QlFiZVZ6QTJfb282QV9mTWsxNUJHTXdIR3paaTQxcXlha2NBd21uQkVtMmlBbkctSUN0anRmQXhmWVluVk14ZDBWTDlCZ1hkR0JaMWtXcmVqdHdJQ2JMcVVEMVVyM0ppUjhuTHFWbU1CMWI4dTVJel90QQ?oc=5",
+      "publishedAt": "2026-08-04T16:40:28.000Z",
+      "titleKa": "„All hat, no cattle“: ბაზრები კითხვის ნიშნის ქვეშ აყენებენ ფედ-ის რეპუტაციას ინფლაციასთან დაკავშირებით ობლიგაციების მომატებული შემოსავლიანობის ფონზე",
+      "summaryKa": "ობლიგაციების მომატებული შემოსავლიანობის ფონზე, ბაზრები კითხვის ნიშნის ქვეშ აყენებენ ფედერალური სარეზერვო სისტემის სანდოობას ინფლაციასთან ბრძოლაში და მას ახასიათებენ როგორც „All hat, no cattle“.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b2103da5e5879863",
+      "title": "Wall Street Is Deepening Its Crypto Grip and Rewiring the Market",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMkIxYS1lLWZlM1JoTFp1YU5rZ0NQWWZQd0lxcWxFd2g4NVdoT01FMUhtM3poZG1mM1gwSTdHdGYwMkJEbk1NVHdWbmNpVGg4SHpqRFlmbm1VSlpIN05WdThPS0xDdmRfVEVob25MY2dkVjVzSnE5OEQ0dHBiS195S0RkbFg1LXYwZnJSdmZQWEx1R1lUcVgyc3oxd0lTQ3g4aUxPSDVuQlpCTTk3bWtMejBaOHBQUQ?oc=5",
+      "publishedAt": "2026-08-04T15:43:13.000Z",
+      "titleKa": "უოლ სტრიტი აძლიერებს თავის გავლენას კრიპტოზე და ბაზარს ხელახლა აწყობს",
+      "summaryKa": "უოლ სტრიტი სულ უფრო მეტად ამყარებს თავის კონტროლს კრიპტოვალუტის სექტორზე და ამით ბაზრის სტრუქტურას თავიდან აყალიბებს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "446fe58e84014a82",
+      "title": "Stacks Founder Proposes Bitcoin Fund to Reimburse Coldcard Hack Victims",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMXpHZlozanRpWllfSk13Q19UZC1Va2trVGJ6N3VYQkplVC05SnFIS01OZk5QUDd3Z1pJX0NqQW1yZzB2dmswYnFoT2xrX184OUZYS2dlZEs5bF9qRndQMjZfcERyMVFEbnNsOEtmM3NJSElxd19vZ0dGR1FWV2hDRmUwXzNCUVlqOGVvbjlrRGxoWFA1b1VhT2Q3aC04VEpob19N?oc=5",
+      "publishedAt": "2026-08-04T15:16:00.000Z",
+      "titleKa": "Stacks-ის დამფუძნებელი სთავაზობს ბიტკოინის ფონდის შექმნას Coldcard-ის ჰაკერული თავდასხმის მსხვერპლთათვის ზარალის ასანაზღაურებლად",
+      "summaryKa": "Stacks-ის დამფუძნებელი გამოდის ინიციატივით, შეიქმნას ბიტკოინის ფონდი Coldcard-ის ჰაკერული თავდასხმის შედეგად დაზარალებულთათვის ზარალის ასანაზღაურებლად.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "c77eb7583997b955",
       "title": "Top India Oil, Gas Producer Beats Profit Estimate on Price Surge",
@@ -12,6 +56,28 @@
       "titleKa": "ინდოეთის ნავთობისა და გაზის უმსხვილესმა მწარმოებელმა ფასების ზრდის ფონზე პროგნოზირებულზე მეტი მოგება მიიღო",
       "summaryKa": "ინდოეთის ნავთობისა და გაზის წამყვანმა მწარმოებელმა, ფასების მკვეთრი ზრდის წყალობით, გადააჭარბა საპროგნოზო მოგების მაჩვენებელს.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "48fe526fb2bb803a",
+      "title": "BNY Taps Galaxy Digital to Add Staking to Crypto Custody Platform",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUlJMcGpLOGZLX2dKSnpfZ0R5TF9PVEVaYXYwWklsUXdtdF9vdkxOQll3U2dVeG9DSGxBVWVWOUVaOUV4TmxsaS1NOS1wc2xXZTdScUtXOEpFQjhnZ09NSk13cW5FNGstMlJsTzQxdTBHMlpxbE43UC15YWhFZzBxTG9xdll3TTBfREdQNUtOdy0xMWN4bnU4?oc=5",
+      "publishedAt": "2026-08-04T15:11:00.000Z",
+      "titleKa": "BNY იყენებს Galaxy Digital-ს თავის კრიპტო მეურვეობის პლატფორმაზე სტეიკინგის დასამატებლად",
+      "summaryKa": "BNY თანამშრომლობს Galaxy Digital-თან, რათა საკუთარ კრიპტო მეურვეობის პლატფორმაში სტეიკინგის ფუნქცია დაამატოს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "0ee949a02d7ce389",
+      "title": "Bitdeer Lands $4.7B AI Data Center Deal, Expands Beyond Bitcoin Mining",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeFhvQXExaUFFbVo2N2RHZEkwREctdmpJNUcwcjJidmV3NFZteHNNVXNyZm9MdllQTkNGRnVqSGs1amtkZzBtbEw2SGFjMDl2UmtBQjFLa3ZUbDhqY1hFU3YtckZQMDZmeTZ2NGNSMlhwU0JkaGk5N05kUUlHSnhYcEhrOXRwNDVHcUFtX0dn?oc=5",
+      "publishedAt": "2026-08-04T15:04:45.000Z",
+      "titleKa": "Bitdeer აფორმებს $4.7 მილიარდიან ხელშეკრულებას AI მონაცემთა ცენტრის შესახებ და საქმიანობას ბიტკოინის მაინინგის მიღმა აფართოებს",
+      "summaryKa": "კომპანია Bitdeer-მა გააფორმა ხელშეკრულება 4.7 მილიარდი დოლარის ღირებულების ხელოვნური ინტელექტის მონაცემთა ცენტრის შესახებ, რითაც საქმიანობას ბიტკოინის მაინინგის მიღმაც აფართოებს.",
+      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -34,6 +100,39 @@
       "titleKa": "სახაზინო ობლიგაციების ფასები იზრდება, რადგან ნავთობზე ფასების კლებამ Fed-ის მიერ განაკვეთების გაზრდაზე ფსონები შეამცირა",
       "summaryKa": "აშშ-ის სახაზინო ობლიგაციების ფასები იზრდება, რადგან ნავთობზე ფასების კლებამ ფედერალური სარეზერვო სისტემის მიერ საპროცენტო განაკვეთების გაზრდის მოლოდინები შეამცირა.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "abd95d88d33e08eb",
+      "title": "A Fresh Record Looms for the Unsinkable S&P 500",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVI5bVZWWGJCa2k4RFVKSTc4T25wUDdua0h4N2k0Q09IM2tnMjJEelRndGlCNnpnclgtbFFieEJud3JvVF95MDdwZGNHU2N6Ykt2OGxzNzJWXzJmY2RXX0x2LUw2OHdqT3A3QjI2QVdZeG9VSm8xaVhTLW9tRFhVcWNuT1M2bWlpMjRBVDFmWkY2cGZOdFc0X1JBVzZpOHBUTUZr?oc=5",
+      "publishedAt": "2026-08-04T14:53:28.000Z",
+      "titleKa": "„ჩაუძირავი“ S&P 500-ისთვის ახალი რეკორდი ახლოვდება",
+      "summaryKa": "ინდექს S&P 500-ს, რომელსაც ჩაუძირავს უწოდებენ, ახალი რეკორდული ნიშნული უახლოვდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a94574288402e06a",
+      "title": "Strategy Sold Some Bitcoin…Again",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUU1ucXlveFFkN3VHSVNQMlc3RU1ta3JtY3U3UVU3RjRPcjJZNFJRQ0xJZGxnZ1VOWTBmeC02TjFsY0paalc4RDlIZE90SENOUFJsUXZjbHVENjFrbzZOMGh5OWsteUZyd2dYdXRLUkoyeGc3aHFpYmJabVpEdTBOTkc4VDBnWk1lQm1lTkN6VnRxVVB5TkFJ?oc=5",
+      "publishedAt": "2026-08-04T14:43:20.000Z",
+      "titleKa": "Strategy-მ კვლავ გაყიდა ბიტკოინის ნაწილი",
+      "summaryKa": "კომპანია Strategy-მ კიდევ ერთხელ გაყიდა თავისი ბიტკოინების გარკვეული ნაწილი.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7aabcac74acbcf1d",
+      "title": "Got $100? This Is the Best Crypto ETF to Buy Right Now",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ1BYbkwwN0Z2NzRjRzczMmItVTJPVk1Gc2MwQ3JWcGNwT0poc2pNM0pDM1pMbmp5eU56WVJWQVp1SUdrd0hKR3VvdGU2LWhhZ3J4S3FjTlIzaUFLNllxdEJ0QmhrbjJkSXJON0o5SmprRlZaRXByQjNTTVpYVV9iZHM4WTk0cWtGSnBBUk9hcl9iUQ?oc=5",
+      "publishedAt": "2026-08-04T14:25:00.000Z",
+      "titleKa": "გაქვთ $100? ეს არის საუკეთესო კრიპტო ETF, რომლის შეძენაც ახლა შეგიძლიათ",
+      "summaryKa": "სტატია განიხილავს საუკეთესო კრიპტო ETF-ს, რომლის ყიდვაც ახლავე არის შესაძლებელი 100 დოლარად.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -287,17 +386,6 @@
       "titleKa": "Strategy იყენებს ბიტკოინის რეზერვებს პრივილეგირებული აქციების მოსამსახურებლად, როდესაც STRC ნომინალზე დაბალ ფასად ივაჭრება",
       "summaryKa": "კომპანია Strategy იყენებს თავის ბიტკოინის რეზერვებს პრივილეგირებული აქციების მომსახურებისთვის, რადგან STRC ნომინალურ ღირებულებაზე დაბალ ფასად ივაჭრება.",
       "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "abd95d88d33e08eb",
-      "title": "A Fresh Record Looms for the Unsinkable S&P 500",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVI5bVZWWGJCa2k4RFVKSTc4T25wUDdua0h4N2k0Q09IM2tnMjJEelRndGlCNnpnclgtbFFieEJud3JvVF95MDdwZGNHU2N6Ykt2OGxzNzJWXzJmY2RXX0x2LUw2OHdqT3A3QjI2QVdZeG9VSm8xaVhTLW9tRFhVcWNuT1M2bWlpMjRBVDFmWkY2cGZOdFc0X1JBVzZpOHBUTUZr?oc=5",
-      "publishedAt": "2026-08-04T10:23:28.000Z",
-      "titleKa": "„ჩაუძირავი“ S&P 500-ისთვის ახალი რეკორდი ახლოვდება",
-      "summaryKa": "ინდექს S&P 500-ს, რომელსაც ჩაუძირავს უწოდებენ, ახალი რეკორდული ნიშნული უახლოვდება.",
-      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
