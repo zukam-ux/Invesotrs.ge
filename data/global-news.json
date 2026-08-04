@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-08-04T19:03:54.422Z",
+  "updatedAt": "2026-08-04T20:40:52.758Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "f9722ff66097301c",
+      "title": "SpaceX delivers mixed results in first quarterly earnings report as a public company",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ1RXdTJpdnJZM29CV19FNjUxTi1tSld4NEdGNnNLZjljQTdBQ1VneHFRLTNLZkFWYzU3Z3pqUW9rZ3N3YkNYUzdiNE13UXRxNjN1WVNPeXUwZ09GMzlxczd5Q3RzMGJHVW1nUXlrRGRHZ0YtOWdrb2Q3eDhWdld6dmYtSkFVeHFuc0E?oc=5",
+      "publishedAt": "2026-08-04T20:19:00.000Z",
+      "titleKa": "SpaceX-მა საჯარო კომპანიის სტატუსით პირველ კვარტალურ ფინანსურ ანგარიშში არაერთგვაროვანი შედეგები წარადგინა",
+      "summaryKa": "SpaceX-მა, როგორც საჯარო კომპანიამ, თავის პირველ კვარტალურ ფინანსურ ანგარიშში შერეული შედეგები აჩვენა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "83b8012c7efc92f3",
+      "title": "SpaceX Exceeds Revenue Estimates in First Earnings Since IPO",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYlpYNS1YaU02ckdmeTFmS3M4a1pRLUVtRWxLamRzbE52RGZRcDM3U2ZkV2tMcXh2V3ktbHEzc3RlNnJYMjAyZWkzakdnUFNDR0I1RUZwa0ozd0IzSFYtV3psU1dfb1ZqckN5ODFqZDlRSTEtZlZUR0NsY0QtbzhNZmVMUTNJTGxrOGxmbHlxUmNCQnBPZnZQYW9wR21adllkY3ViU2pZalZkWUdtcEFHMw?oc=5",
+      "publishedAt": "2026-08-04T20:04:57.000Z",
+      "titleKa": "SpaceX-მა IPO-ს შემდეგ პირველ ფინანსურ ანგარიშში შემოსავლების პროგნოზებს გადააჭარბა",
+      "summaryKa": "კომპანია SpaceX-მა პირველ ფინანსურ ანგარიშში, რომელიც IPO-ს შემდეგ გამოაქვეყნა, შემოსავლების მოლოდინებს გადააჭარბა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6e37e8a9dbd1f6cd",
+      "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNREpMRHVWRlFUcVZCMHhmNEwtczJjT3Q0RU0tYi01ZlkyUGhjQzJIM2FFZ21jRGlocFhITy1nUEc1VVl2QWNnRkJyNWMtZ0ZTdENaRm5lM1l3WU8wUEdkZzNQU3NKRGx4Vy1WdzZ5b0d4TEZmZGJ2Z2VrWmVtRHdxcUJsT0E0VkotaGpMWVYtWlJVQWY0emdGMkNqLXVNYnpLYjhhVnpZbEJrcnVqeGtrTXFLLWxyT0QxbUpWOW1pZ0lwZ3JELUM2a3hoWXhibGQxYlViejhlQUhnd2FtdGRBX2pB?oc=5",
+      "publishedAt": "2026-08-04T19:33:00.000Z",
+      "titleKa": "აქციები რეკორდულ ნიშნულებს უბრუნდება: ინვესტორები, რომლებმაც ბოლო კოლაფსის დროს სიმშვიდე შეინარჩუნეს, ჯილდოვდებიან",
+      "summaryKa": "აქციები რეკორდულ მაქსიმუმებს უბრუნდება, რაც იმ ინვესტორებს აჯილდოებს, რომლებმაც ბოლოდროინდელი კოლაფსის დროს პოზიციები შეინარჩუნეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "716e832146736cb8",
+      "title": "Watch Hackers Steal Bitcoin, Visa Outlines Stablecoin Plans | Bloomberg Crypto 8/4/2026",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHhUN1BXLTlzbU9YNGNjb1NmVWQwQ09faVNEQjlwTW5zTkhMNW1GWW41azE5QVV3WnNRQ1JYbU5ER2oxSFQ2bXVZclFqQ3ZvSURDczFBQ19WWW9Vem5tT0d6anRjZmNWQnROTC05TlY4bzdxYXVqNjlYRk84dlhLSUNaZFM2QUE?oc=5",
+      "publishedAt": "2026-08-04T19:17:15.000Z",
+      "titleKa": "უყურეთ, როგორ იპარავენ ჰაკერები ბიტკოინს, Visa წარადგენს სტაბილკოინის გეგმებს | Bloomberg Crypto 8/4/2026",
+      "summaryKa": "Bloomberg Crypto-ს 2026 წლის 4 აგვისტოს გამოშვება ასახავს ჰაკერების მიერ ბიტკოინის მოპარვას და Visa-ს გეგმებს სტაბილკოინებთან დაკავშირებით.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a552814ed69f0baf",
+      "title": "AI’s Great Reverse Run On The Bank",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDNyM0tUNUJhclZXQmE4UFVyTXNlWmtzRTNoREVyWm82eFFjSUFYVzlIRDN5LWNLSFdmN1p6cmNBTkwwOG9rSXV4YWJiNXgwMEJHNE5tNmNIWldJM21GWEdvZl80dGhRMURzOW5ZNEhBODVoYUVvd0JKRV9fYUpxWDdWQXVJSDdtbFF4akRqWXJKdw?oc=5",
+      "publishedAt": "2026-08-04T19:02:23.000Z",
+      "titleKa": "AI-ის დიდი საპირისპირო საბანკო პანიკა",
+      "summaryKa": "სტატია აღწერს ხელოვნური ინტელექტის (AI) დიდ საპირისპირო საბანკო პანიკას.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "78ffa0e06bfe3de1",
+      "title": "AI Boom Is ‘Trickling Down’ to Old-Line Stocks, Wells Fargo Says",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS04yUHlwWTVwYkd5SXBqZk84SmpoOFlRcjlQTHRnRVV5cHBmMlNoMDNVS1B1Y20zemdjbzBRbE9RcEl0QnpMRGFGUzgwRzFnTWdMbFU3WlVBMGVQVHljR2J5UFFZSy1kajFpdEUyeC16NEdmWUNINGZLQWQ4WlFBckIwel8tdWF0N2FZajA2ZHJkbGtseDJoTFptaEs2dUg3WjlZM2d1MU14YUV2RFFFNjRR?oc=5",
+      "publishedAt": "2026-08-04T19:02:22.000Z",
+      "titleKa": "ხელოვნური ინტელექტის ბუმი ტრადიციულ აქციებზეც ვრცელდება, აცხადებს Wells Fargo",
+      "summaryKa": "Wells Fargo-ს განცხადებით, ხელოვნური ინტელექტის ბუმი თანდათან ვრცელდება ძველი ხაზის, ტრადიციულ აქციებზეც.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "b89ed789d19f968e",
       "title": "These charts suggest the S&P 500 is looking like a bargain. Take them with a grain of salt.",
@@ -19,7 +85,7 @@
       "title": "Watch Higher Oil Prices to Spur Production Investments: API CEO",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWENsbWlMam05dVJsX0NiS0dRanA3dEZZWlVKTl84d2UtbndHM0NaQVdHc3FIVUZkcW1VbGpoUWRLZko5ZExqTHYwQkh3TXVJN3MyUjYwZHBqR2hkUnFxZ2tuVWNIVjBrT2ZBVjVMeTAycjlhcHJFUFdpS212OWZJNXRNTmpaNHV5ZWJHWFVPM1ZWS2lYcGFGOE9UbVZjMkpQWlFaMFMzMXlqNWVoeklJ?oc=5",
-      "publishedAt": "2026-08-04T18:00:53.000Z",
+      "publishedAt": "2026-08-04T18:06:08.000Z",
       "titleKa": "დააკვირდით ნავთობის მაღალ ფასებს წარმოების ინვესტიციების სტიმულირებისთვის: API-ის გენერალური დირექტორი",
       "summaryKa": "API-ის გენერალური დირექტორის განცხადებით, ნავთობის მაღალი ფასები წარმოებაში ინვესტიციების სტიმულირებას მოახდენს.",
       "category": "ბაზრები და ეკონომიკა",
@@ -33,6 +99,17 @@
       "publishedAt": "2026-08-04T18:00:24.000Z",
       "titleKa": "ლევერიჯირებული ETF კრახის ჰეჯირების ETF",
       "summaryKa": "სტატია ეხება ლევერიჯირებულ ETF-ებს და კრახის ჰეჯირების ETF-ს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "abd95d88d33e08eb",
+      "title": "A Fresh Record Looms for the Unsinkable S&P 500",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVI5bVZWWGJCa2k4RFVKSTc4T25wUDdua0h4N2k0Q09IM2tnMjJEelRndGlCNnpnclgtbFFieEJud3JvVF95MDdwZGNHU2N6Ykt2OGxzNzJWXzJmY2RXX0x2LUw2OHdqT3A3QjI2QVdZeG9VSm8xaVhTLW9tRFhVcWNuT1M2bWlpMjRBVDFmWkY2cGZOdFc0X1JBVzZpOHBUTUZr?oc=5",
+      "publishedAt": "2026-08-04T17:53:29.000Z",
+      "titleKa": "„ჩაუძირავი“ S&P 500-ისთვის ახალი რეკორდი ახლოვდება",
+      "summaryKa": "ინდექს S&P 500-ს, რომელსაც ჩაუძირავს უწოდებენ, ახალი რეკორდული ნიშნული უახლოვდება.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -77,17 +154,6 @@
       "publishedAt": "2026-08-04T16:40:28.000Z",
       "titleKa": "„All hat, no cattle“: ბაზრები კითხვის ნიშნის ქვეშ აყენებენ ფედ-ის რეპუტაციას ინფლაციასთან დაკავშირებით ობლიგაციების მომატებული შემოსავლიანობის ფონზე",
       "summaryKa": "ობლიგაციების მომატებული შემოსავლიანობის ფონზე, ბაზრები კითხვის ნიშნის ქვეშ აყენებენ ფედერალური სარეზერვო სისტემის სანდოობას ინფლაციასთან ბრძოლაში და მას ახასიათებენ როგორც „All hat, no cattle“.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "abd95d88d33e08eb",
-      "title": "A Fresh Record Looms for the Unsinkable S&P 500",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVI5bVZWWGJCa2k4RFVKSTc4T25wUDdua0h4N2k0Q09IM2tnMjJEelRndGlCNnpnclgtbFFieEJud3JvVF95MDdwZGNHU2N6Ykt2OGxzNzJWXzJmY2RXX0x2LUw2OHdqT3A3QjI2QVdZeG9VSm8xaVhTLW9tRFhVcWNuT1M2bWlpMjRBVDFmWkY2cGZOdFc0X1JBVzZpOHBUTUZr?oc=5",
-      "publishedAt": "2026-08-04T16:23:29.000Z",
-      "titleKa": "„ჩაუძირავი“ S&P 500-ისთვის ახალი რეკორდი ახლოვდება",
-      "summaryKa": "ინდექს S&P 500-ს, რომელსაც ჩაუძირავს უწოდებენ, ახალი რეკორდული ნიშნული უახლოვდება.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
