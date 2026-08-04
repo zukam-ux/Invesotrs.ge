@@ -25,6 +25,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+Georgian:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="shared.css?v=20260724-live-quotes">
+  <link rel="stylesheet" href="landing-redesign.css?v=20260804-editorial-cover">
   <script type="application/ld+json">
   {
     "@context":"https://schema.org",
@@ -426,6 +427,7 @@
     async function refreshLive(){
       try{
         const data=await getLiveData(),btc=data.crypto?.bitcoin,eth=data.crypto?.ethereum,usd=data.fx?.usd;
+        if(!document.getElementById('btcCardPrice')) return;
         if(btc?.usd){
           const price='$'+Number(btc.usd).toLocaleString('en-US',{maximumFractionDigits:2}),change=signed(btc.usd_24h_change||0)+' · 24სთ';
           btcCardPrice.textContent=price;btcCardChange.textContent=change;btcCardChange.className='delta '+((btc.usd_24h_change||0)>=0?'up':'down');
@@ -447,6 +449,7 @@
         }
         document.querySelector('.date').innerHTML=`<span class="live-dot"></span>განახლდა ${new Date(data.fetchedAt).toLocaleTimeString('ka-GE',{hour:'2-digit',minute:'2-digit'})} · წყაროები აქტიურია`;
       }catch(_){
+        if(!document.getElementById('btcCardPrice')) return;
         btcCardPrice.textContent='მიუწვდომელია';btcCardChange.textContent='განახლება შეფერხებულია';btcCardChange.className='delta down';
         ethCardPrice.textContent='მიუწვდომელია';ethCardChange.textContent='განახლება შეფერხებულია';ethCardChange.className='delta down';
         gelCardPrice.textContent='მიუწვდომელია';gelCardChange.textContent='განახლება შეფერხებულია';gelCardChange.className='delta down';
@@ -455,5 +458,6 @@
     }
     refreshLive();setInterval(refreshLive,60000);
   </script>
+  <script src="landing-redesign.js?v=20260804-editorial-cover"></script>
 </body>
 </html>
