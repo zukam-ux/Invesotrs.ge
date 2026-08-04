@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-08-04T21:53:14.267Z",
+  "updatedAt": "2026-08-04T22:51:06.172Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "32a652e2824b03a3",
+      "title": "Asian Stocks Set to Advance on Hormuz Deal Hopes: Markets Wrap",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1Y4OXR3S0xmWV93UmlSQW5CX3NPclgxWGV6QnBKdUN4LUpuNXV0cWV3b25jdXhWQU9VMlBNWlJmSjJTY1g1QWtrUDFZeWtXLWdhZG52VW12cTk1VE9XYUR5azNDVERyRU04VDlqN3ZBbENKWmp6akN6b1Q0MDJJbVRPZDZzbkN2UzR0RE5SamhjV292?oc=5",
+      "publishedAt": "2026-08-04T22:11:08.000Z",
+      "titleKa": "აზიური აქციები, ჰორმუზის შეთანხმების იმედით, ზრდისთვის ემზადება: ბაზრების მიმოხილვა",
+      "summaryKa": "აზიური აქციების ფასები, სავარაუდოდ, გაიზრდება ჰორმუზის შეთანხმებასთან დაკავშირებული იმედების გამო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "bb97f0f2d1b7dfdc",
+      "title": "Sandisk bulls are probably eyeing this number on earnings day: AlphaSpace stat of the evening",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRkRQZlUtNU5NV1ItOU1UTkxmSkN6VURzT1ctSTF2MUdwVlRpVGJHMkM5SW1xZFgyZEwyR3ZqRjRONXdnTlI3V091SEtSV1N4WlBlMzNLRnlfSnZyM0w0cERlYTdMX3VfSVdmRFBGQzVLd0l3aDVDc3lObTNSZVpPMDBLTE16U3FDVFAxNjdQMEQ4VE1PSTFIRVg3Z3VKSW1fZWRDTVMxZVUtdnU0bTlXVWZ6UmpfZjNJbS1qOWpmS2ZTVE93NG9UQ3BaQUlidnhFWUhoNlRYR3FhMUFNYTM5dVpJNA?oc=5",
+      "publishedAt": "2026-08-04T22:00:00.000Z",
+      "titleKa": "Sandisk-ის ხარები, სავარაუდოდ, ამ ციფრს აკვირდებიან შემოსავლების გამოქვეყნების დღეს: საღამოს AlphaSpace-ის სტატისტიკა",
+      "summaryKa": "Sandisk-ის აქციების ზრდის მომხრეები, სავარაუდოდ, აქტიურად დააკვირდებიან კონკრეტულ მაჩვენებელს კომპანიის შემოსავლების ანგარიშგების დღეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "d69e82a61a11e666",
       "title": "Oil Slumps on Prospects for Hormuz Reopening Deal",
@@ -11,6 +33,17 @@
       "publishedAt": "2026-08-04T21:32:15.000Z",
       "titleKa": "ნავთობის ფასი ეცემა ჰორმუზის სრუტის გახსნის შეთანხმების პერსპექტივების ფონზე",
       "summaryKa": "ნავთობის ფასები შემცირდა ჰორმუზის სრუტის გახსნასთან დაკავშირებული შეთანხმების შესაძლო პერსპექტივების გამო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ea3ed9a20cf9a601",
+      "title": "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY01lZ2l2cUwwYXlaay02d2Z5UzEtaFFTejVYNk5YRzU0Ylhpbms4VVV4V3puR3ZFb2J5OXBmTGVOUDVBbzJLZFI2N19mUDVMTU8zUVpxNnFfTTNOSlAwbGQxNXVvdjZqa2ptNXBmaHRPOHF4OWlnOVBpQ21WZkFjWnh5eTQzc1hELU5iaTI0czd4RzRoX0dlVzBua1lGM1k0STQwX0RhbXBXdXJ1RlBWZGJUUDVsdzA4cWFQTmYtaUR4YjBSeFpTalJUZExJUG14aTNVQ3EzWQ?oc=5",
+      "publishedAt": "2026-08-04T21:25:00.000Z",
+      "titleKa": "აქციები ყველაზე სუსტი სეზონური პერიოდის წინაშე დგას: რატომ შეიძლება შეზღუდოს გაყიდვები ინვესტორთა უკიდურესმა პესიმზმმა",
+      "summaryKa": "აქციები წლის ყველაზე სუსტი სეზონური პერიოდის წინაშე დგას, თუმცა ინვესტორების უკიდურესმა პესიმიზმმა შესაძლოა შეზღუდოს აქციების აქტიური გაყიდვა.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -33,6 +66,28 @@
       "publishedAt": "2026-08-04T20:52:54.000Z",
       "titleKa": "„ეს არ ყოფილა გამორჩეული შედეგი“: სტრატეგი საუბრობს AMD-ის შემოსავლებზე და „შოკისმომგვრელ“ კაპიტალურ ხარჯებზე",
       "summaryKa": "სტრატეგმა განიხილა AMD-ის შემოსავლები და მისი „შოკისმომგვრელი“ კაპიტალური ხარჯები და აღნიშნა, რომ ეს არ ყოფილა გამორჩეული შედეგი.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ab54a80691b30ab1",
+      "title": "'This was not an exceptional result': Strategist talks AMD earnings & 'shocking' capex",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVVhMcmtWOU9ybHBrTkZlcm5jUVFiNzNZWVJTWDJtZWZtYlpzVXJsM1lHSTdzNkFWOV9fcGM3c1RBbGtPX0VITExvUElNSUdxd05uTzlER1lrbEQ1WWhRMmpEVFpnN2t5a2JUU1ozbXZDdWdzYmdDOEFHbUhZVDIxOW5Xb2ZRMThRQ3dMMG1hRQ?oc=5",
+      "publishedAt": "2026-08-04T20:52:54.000Z",
+      "titleKa": "'ეს არ იყო გამორჩეული შედეგი': სტრატეგი AMD-ის შემოსავლებზე და 'შოკისმომგვრელ' კაპიტალურ დანახარჯებზე საუბრობს",
+      "summaryKa": "სტრატეგი აცხადებს, რომ AMD-ის ფინანსური შედეგები არ ყოფილა გამორჩეული, და საუბრობს კომპანიის შოკისმომგვრელ კაპიტალურ დანახარჯებზე.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3897a7967ed326d1",
+      "title": "SpaceX's Q2 results top estimates but stock drops on AI capex costs",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGlQQjg4SXdrMWR0b3d4ODhUNGFlMWlNSGtYeDZRaUFIUFBzQTBLeWFnMjdPRTZmN1FkUklNQWVvV0pWczF1ejMxUGdUMTFWUEFqQmh5S2dXaDMzSEF4aGVQbVlJTl9CZURLMTJpYUZHelJ5Q0JQZ19NUFozcHZPMlg3Z2RuSGJ0WWhyNHA1WWRpaVZiYnNLMWVkSWs3V2NNQlpiZEY2Ny1IN05EZ1lnWFo0VXpNTjRMOURLUFNtZjlsT05H?oc=5",
+      "publishedAt": "2026-08-04T20:47:18.000Z",
+      "titleKa": "SpaceX-ის მეორე კვარტლის შედეგებმა მოლოდინებს გადააჭარბა, თუმცა აქციების ფასი ხელოვნური ინტელექტის კაპიტალური ხარჯების გამო შემცირდა",
+      "summaryKa": "მიუხედავად იმისა, რომ SpaceX-ის მეორე კვარტლის ფინანსურმა მაჩვენებლებმა პროგნოზებს გადააჭარბა, კომპანიის აქციები ხელოვნური ინტელექტის კაპიტალური დანახარჯების გამო გაუფასურდა.",
       "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -114,6 +169,17 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "74689259830cfbfe",
+      "title": "If you bought SpaceX stock and Bitcoin on launch, here is what each is worth today",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0lCNUVXV1hCOXc4MWFreUR3TFFrbUE0SzctOE95M0V0bUhUMS1JVXB1UUN3Vjh3S1BrYW1IOWhuSGFTQ1VIU0NhbXdueTR1OXRUaTJ0Y3lYLW9vZHZRcTJqSEswZE5oTVAwREtZUkJ6aEJvTVVoczgxQjhuRUVobDk4M2xlblJWV0JnNHItQTE0MDc1TTcyS3ExM044MzVy?oc=5",
+      "publishedAt": "2026-08-04T19:30:00.000Z",
+      "titleKa": "თუკი SpaceX-ის აქციები და Bitcoin მათი გამოშვებისთანავე შეიძინეთ, აი, რა ღირს თითოეული მათგანი დღეს",
+      "summaryKa": "სტატია გვიჩვენებს, თუ რა ღირებულებას მიაღწევდა დღეს SpaceX-ის აქციები და Bitcoin, მათი საწყისი გამოშვებისას შეძენის შემთხვევაში.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "716e832146736cb8",
       "title": "Watch Hackers Steal Bitcoin, Visa Outlines Stablecoin Plans | Bloomberg Crypto 8/4/2026",
       "source": "Bloomberg.com",
@@ -121,6 +187,17 @@
       "publishedAt": "2026-08-04T19:17:15.000Z",
       "titleKa": "უყურეთ, როგორ იპარავენ ჰაკერები ბიტკოინს, Visa წარადგენს სტაბილკოინის გეგმებს | Bloomberg Crypto 8/4/2026",
       "summaryKa": "Bloomberg Crypto-ს 2026 წლის 4 აგვისტოს გამოშვება ასახავს ჰაკერების მიერ ბიტკოინის მოპარვას და Visa-ს გეგმებს სტაბილკოინებთან დაკავშირებით.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "96fa818564b202e3",
+      "title": "The First Spot Bitcoin ETF Is About to Shut Down. Here's What Crypto Investors Need to Know",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3lLaGZWbFUyOTdtNlVPdmlOc0Vibml2Y2w3aG5pRHJ3YjRJZUllY2N1VWw2am92ME1IR3pEWUUyRTRTOHF4WUR0OWZQMHNnc2o0UXVMVjZHWFNCMTdxb2tvcWhNT3FLa3JNSW1qSWdsTjVkbXhsUlZLSFhBQ3N4N0d2SW5uYWJMM01jU2xnelpzejB2TWpZ?oc=5",
+      "publishedAt": "2026-08-04T19:17:01.000Z",
+      "titleKa": "პირველი სპოტ Bitcoin ETF იხურება: აი, რა უნდა იცოდნენ კრიპტოინვესტორებმა",
+      "summaryKa": "პირველი სპოტ Bitcoin ETF-ის მოსალოდნელ დახურვასთან დაკავშირებით, კრიპტოინვესტორებისთვის მნიშვნელოვანი დეტალები ხდება ცნობილი.",
       "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
