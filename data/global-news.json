@@ -1,8 +1,63 @@
 {
-  "updatedAt": "2026-08-05T04:35:17.384Z",
+  "updatedAt": "2026-08-05T07:22:10.278Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "a92928cfaa02c227",
+      "title": "Oil Drops on Signs of Progress Toward Deal to Reopen Hormuz",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0JCdElnUzMxb3FZdmUtenF6cmhWMzJOWENLTG9TY1FudTQxMlBYN0JFbFczNUMxaUxnazEwQ1VteGhlOU1qNHkzaVVfWXBYanlJc0NWNWlhRUZwbWRTYVVTY2NEZlhUdE1qQndZaVZvemRtbFpNdWxzMXhGNzdzd0FNNGlPMVZ4aEJzcGJJWEhHUUtqamtLaHIxZ3FwS2tJazhiX3NlZktobXdXbFhwdGpxTQ?oc=5",
+      "publishedAt": "2026-08-05T05:38:00.000Z",
+      "titleKa": "ნავთობის ფასი ეცემა ჰორმუზის სრუტის გახსნის შეთანხმების მიღწევის პროგრესის ნიშნების ფონზე",
+      "summaryKa": "ნავთობის ფასები მცირდება იმ ნიშნების გამო, რომლებიც ჰორმუზის სრუტის ხელახლა გახსნის შესახებ შეთანხმების მიღწევისკენ მიმართულ პროგრესზე მიუთითებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5acef2c07257760b",
+      "title": "Philippine Inflation Slows a Third Month, Easing Pressure for Rate Hike",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTlh2ZWY2RzJLRld5UmY4bU9jQzBtUlVUM21Melo1ME1XY1B6M05JZUpZSEoxUFhiRkRtQmVDbUMyU2hsR1kxWWJ0R2d1MHdlYWI1M3NObkVoM0tJMml6VVltSFBxTzBab2ZGVVF5MDlJbzQ4UC00ZS1JbzN4dm9IemxndXFXZE56ak1LXzFlUHF6ZzNlUndUUGZaRkozQ0xoN1k0YmstSjZUY1IwNmloVS1iSGZKLWV2bVhFc2d3?oc=5",
+      "publishedAt": "2026-08-05T05:27:00.000Z",
+      "titleKa": "ფილიპინების ინფლაცია ზედიზედ მესამე თვეა ნელდება, რაც ამცირებს საპროცენტო განაკვეთის გაზრდის წნეხს",
+      "summaryKa": "ფილიპინებში ინფლაციის ტემპი მესამე თვეა ნელდება, რაც საპროცენტო განაკვეთის გაზრდის საჭიროების წნეხს ამცირებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c3e087ac2c983c9e",
+      "title": "Hacked Bitcoin Wallet Maker Warns of AI Failure to Detect Bug",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaHJaSGJMVVN5blJBT0hWUFF5OTh3MzdDNzNvLWRHUWtQLWVELUtQeTR1X3hmekU1ekRlUlJYbjZET3djOTl3eEI1b0NSUEdCQnFiMWtRV1NJYWNvbFY0ZUdXVURUYUtxajVOWEFRdTk5OWlKWmdER2xkOWFKNHR3UHlndHc0Z080OHBDRlZadkVtWXNYWHluenlLMUQzbVBHRGxMTFFmZ3ZNR3oySXlNN2x3?oc=5",
+      "publishedAt": "2026-08-05T04:47:00.000Z",
+      "titleKa": "ჰაკერული თავდასხმის მსხვერპლი ბიტკოინის საფულის მწარმოებელი აფრთხილებს, რომ ხელოვნურმა ინტელექტმა ხარვეზი ვერ აღმოაჩინა",
+      "summaryKa": "ჰაკერული თავდასხმის ქვეშ მოქცეული ბიტკოინის საფულის შემქმნელი აფრთხილებს მომხმარებლებს, რომ ხელოვნურმა ინტელექტმა ვერ შეძლო ხარვეზის აღმოჩენა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "20fb03eeb6bbc18b",
+      "title": "EOG Resources Doubles Q2 Profit as Oil Prices and Production Rise",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMzNtMWxRWHJIMlJ3ckE1MDZHdGk1aXFsZ0thZlBqTUh4TTJjaS1lb1Y1UVNrZ2NrRV83OW05aVBuVXUzemE5RVQ2b3pVOGlNWmk4QlFLNFBNMkttZm5fVENGUFYwYldtNU5WM095dk1UTUliQzRIRkt6VklvVGwxZnpSdFNFd2NQQ3E2U1pQV3VMZw?oc=5",
+      "publishedAt": "2026-08-05T04:45:00.000Z",
+      "titleKa": "EOG Resources-მა მეორე კვარტლის მოგება გააორმაგა ნავთობის ფასებისა და მოპოვების ზრდის ფონზე",
+      "summaryKa": "კომპანია EOG Resources-ის მეორე კვარტლის მოგება გაორმაგდა, რაც ნავთობის ფასებისა და წარმოების ზრდამ გამოიწვია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a25d4918095511a7",
+      "title": "Oil Holds Two-Day Drop on Signs of Progress Toward Hormuz Deal",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSldwSGlqM2UyQkNEWXNUbVNLNGUxZ2xMVUsxVFR3TmI0TElkazcwWnhLbFByNE05OWhNbU93MWNGQUZYNGkyYi1qWTNmZEV0M1MyMVY1ZWZiQ2szbDlIQlJJVm5OalNYbnhiOVVDYk01bzRUTmc3VFVtNGVGUmctejBrSUZQY3F1a1ROMjJJN0RFaHFpZjlUZzlHZGY?oc=5",
+      "publishedAt": "2026-08-05T04:28:00.000Z",
+      "titleKa": "ნავთობის ფასი ორდღიან კლებას ინარჩუნებს ჰორმუზის შეთანხმებისკენ პროგრესის ნიშნების ფონზე",
+      "summaryKa": "ჰორმუზის შეთანხმებისკენ მიღწეული პროგრესის ნიშნების ფონზე, ნავთობი ზედიზედ მეორე დღეა კლებას ინარჩუნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "b8178c3ba6951984",
       "title": "‘Oil in Our Time’ May Be as Good as This Gets",
@@ -26,13 +81,13 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "a25d4918095511a7",
-      "title": "Oil Holds Two-Day Drop on Signs of Progress Toward Hormuz Deal",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSldwSGlqM2UyQkNEWXNUbVNLNGUxZ2xMVUsxVFR3TmI0TElkazcwWnhLbFByNE05OWhNbU93MWNGQUZYNGkyYi1qWTNmZEV0M1MyMVY1ZWZiQ2szbDlIQlJJVm5OalNYbnhiOVVDYk01bzRUTmc3VFVtNGVGUmctejBrSUZQY3F1a1ROMjJJN0RFaHFpZjlUZzlHZGY?oc=5",
-      "publishedAt": "2026-08-05T02:44:00.000Z",
-      "titleKa": "ნავთობის ფასი ორდღიან კლებას ინარჩუნებს ჰორმუზის შეთანხმებისკენ პროგრესის ნიშნების ფონზე",
-      "summaryKa": "ჰორმუზის შეთანხმებისკენ მიღწეული პროგრესის ნიშნების ფონზე, ნავთობი ზედიზედ მეორე დღეა კლებას ინარჩუნებს.",
+      "id": "c68876044fd936c1",
+      "title": "Hyperscaler Rally: 4 Stocks to Buy Before It's Too Late",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFY4cWRMNFFWUDRkNVFWMWJlLTZZdG03NndMcE1JOGFTMUg3R2YwTlk0MHJOMkJKLWZRdHRKbXdHaTBZblJfT3U1bFZjYmk5UXVicG9faVU3aWpyMUIxV3R3UUVhV1VsTF82WFZHQlFDYU9wSHg2bWVzcjJ6UEszUkpWdVVwOG1KNHFIZmsxOHBhd2dIRWZUODdIQQ?oc=5",
+      "publishedAt": "2026-08-05T03:20:00.000Z",
+      "titleKa": "ჰიპერსკეილერების რალი: 4 აქცია, რომელიც უნდა შეიძინოთ, სანამ გვიან არ არის",
+      "summaryKa": "სათაური მიუთითებს ჰიპერსკეილერების აქციების ზრდაზე და წარმოადგენს ოთხ აქციას, რომელთა შეძენასაც გვირჩევს, სანამ გვიან არ იქნება.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -59,13 +114,13 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "5acef2c07257760b",
-      "title": "Philippine Inflation Slows a Third Month, Easing Pressure for Rate Hike",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTlh2ZWY2RzJLRld5UmY4bU9jQzBtUlVUM21Melo1ME1XY1B6M05JZUpZSEoxUFhiRkRtQmVDbUMyU2hsR1kxWWJ0R2d1MHdlYWI1M3NObkVoM0tJMml6VVltSFBxTzBab2ZGVVF5MDlJbzQ4UC00ZS1JbzN4dm9IemxndXFXZE56ak1LXzFlUHF6ZzNlUndUUGZaRkozQ0xoN1k0YmstSjZUY1IwNmloVS1iSGZKLWV2bVhFc2d3?oc=5",
-      "publishedAt": "2026-08-05T01:19:00.000Z",
-      "titleKa": "ფილიპინების ინფლაცია ზედიზედ მესამე თვეა ნელდება, რაც ამცირებს საპროცენტო განაკვეთის გაზრდის წნეხს",
-      "summaryKa": "ფილიპინებში ინფლაციის ტემპი მესამე თვეა ნელდება, რაც საპროცენტო განაკვეთის გაზრდის საჭიროების წნეხს ამცირებს.",
+      "id": "947b085d114366eb",
+      "title": "Asia shares surge on tech mood swing, oil retreats",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN0dxRmkzQTlVQk1qZzRUQXE4SzdKcWUzcGp6Y3JEQXJTWTZtMEtFVU8zcFF6YktJQTQ3OU9jOFVqb1loVC12NHA1VllNN1RDRDYwTlhyOVdJZzFxRWdqLW1mdF9xYWs5NW9IMWdqX2hCWkNYY0kxb2p1dlBramc4UW8zcm82Vkd0WnNEZEJ4dEUyRHFZNFBfNmJfMnhlYi1T?oc=5",
+      "publishedAt": "2026-08-05T01:41:00.000Z",
+      "titleKa": "აზიური აქციები იზრდება ტექნოლოგიურ სექტორში განწყობის ცვლილების ფონზე, ნავთობის ფასი კი მცირდება",
+      "summaryKa": "ტექნოლოგიურ სექტორში განწყობის ცვლილების გამო აზიური აქციების ფასები მკვეთრად გაიზარდა, ხოლო ნავთობის ფასმა კლება დაიწყო.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
