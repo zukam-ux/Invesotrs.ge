@@ -51,6 +51,7 @@ document.querySelectorAll('[data-ticker]').forEach(el=>el.innerHTML=tickerMarkup
   const path=location.pathname.split('/').pop()||'index.html';
   const items=[
     ['index.html','მთავარი'],
+    ['georgia.html','საქართველო'],
     ['markets.html','ბაზრები'],
     ['news.html','სიახლეები'],
     ['learn.html','სწავლა'],
@@ -189,10 +190,12 @@ function translationNote(article){
 }
 function newsSectionKey(article){
   const text=`${article.title||""} ${article.titleKa||""} ${article.summaryKa||""} ${article.category||""}`.toLowerCase();
+  if(article.category==="საქართველო"||["BM.GE","Entrepreneur.ge","Marketer.ge"].includes(article.source))return "georgia";
   if(/\b(ai|artificial intelligence|technology|tech|chip|semiconductor|software|cloud|robot|openai|anthropic|nvidia|amd|intel)\b|ხელოვნურ ინტელექტ|ტექნოლოგ|ჩიპ|ნახევარგამტარ|პროგრამულ|ღრუბლოვან/.test(text))return "tech-ai";
   return "markets-economy";
 }
 function newsSectionLabel(article){
+  if(newsSectionKey(article)==="georgia")return "საქართველო";
   return newsSectionKey(article)==="tech-ai"?"ტექნოლოგიები და AI":"ბაზრები და ეკონომიკა";
 }
 function editorialScore(article){

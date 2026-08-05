@@ -2,6 +2,11 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { createHash } from "node:crypto";
 import decoderPackage from "google-news-url-decoder";
 import { Agent } from "undici";
+import {
+  georgianSummary,
+  isEligibleGeorgianStory,
+  normalizeGeorgianSource,
+} from "./georgia-news-policy.mjs";
 
 const { GoogleDecoder } = decoderPackage;
 
@@ -37,6 +42,25 @@ const FALLBACK_FEEDS = [
     source: "MarketWatch",
   },
 ];
+const georgianQuery = '("ინვესტიციები" OR "ობლიგაციები" OR "ფასიანი ქაღალდები") when:90d';
+const GEORGIAN_FEEDS = ["bm.ge", "entrepreneur.com/ka"].map((domain) => ({
+  url: `https://news.google.com/rss/search?${new URLSearchParams({
+    q: `site:${domain} ${georgianQuery}`,
+    hl: "ka",
+    gl: "GE",
+    ceid: "GE:ka",
+  })}`,
+  source: domain === "bm.ge" ? "BM.GE" : "Entrepreneur.ge",
+}));
+GEORGIAN_FEEDS.push({
+  url: "https://www.marketer.ge/feed/",
+  source: "Marketer.ge",
+});
+const BM_TAG_URLS = [
+  "https://bm.ge/tag/investitsiebi",
+  "https://bm.ge/tag/obligatsiebi",
+  "https://bm.ge/tag/fasiani-qaghaldebi",
+];
 const OUTPUT_PATH = new URL("../data/global-news.json", import.meta.url);
 const token = process.env.GITHUB_TOKEN;
 const geminiApiKey = process.env.GEMINI_API_KEY;
@@ -45,6 +69,7 @@ const FEED_TIMEOUT_MS = 12_000;
 const ARTICLE_TIMEOUT_MS = 15_000;
 const ARTICLE_ENRICH_LIMIT = 2;
 const requestedBackfillId = process.env.ARTICLE_BACKFILL_ID?.trim();
+const georgiaOnly = process.env.GEORGIA_ONLY === "true";
 const publisherAgent = new Agent({ maxHeaderSize: 128 * 1024 });
 
 if (!token) throw new Error("GITHUB_TOKEN is required for Georgian translation");
@@ -56,6 +81,8 @@ function decode(value = "") {
     .replace(/&amp;/g, "&")
     .replace(/&quot;/g, '"')
     .replace(/&#39;|&apos;/g, "'")
+    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number(code)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCodePoint(Number.parseInt(code, 16)))
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
     .replace(/\s+/g, " ")
@@ -81,6 +108,7 @@ function parseFeed(xml, defaultSource) {
         source,
         url,
         publishedAt,
+        description: tag(match[1], "description"),
       };
     })
     .filter((item) => item.title && item.url.startsWith("https://"))
@@ -194,6 +222,62 @@ async function fetchFeed(feed, feedNumber) {
     }
   }
   throw new Error(`Feed ${feedNumber} failed after ${FEED_MAX_ATTEMPTS} attempts: ${lastStatus}`);
+}
+
+async function fetchBmTag(tagUrl) {
+  let response;
+  let lastError;
+  for (let attempt = 1; attempt <= 3; attempt += 1) {
+    try {
+      response = await fetch(tagUrl, {
+        headers: { "user-agent": "Mozilla/5.0 (compatible; Investors.ge Georgian news monitor/1.0)" },
+        signal: AbortSignal.timeout(20_000),
+      });
+      if (response.ok) break;
+      lastError = new Error(`BM.GE tag returned ${response.status}`);
+    } catch (error) {
+      lastError = error;
+    }
+    if (attempt < 3) await wait(attempt * 2_000);
+  }
+  if (!response?.ok) throw lastError || new Error("BM.GE tag unavailable");
+  const html = await response.text();
+  const candidates = [...html.matchAll(/<a[^>]+href="(https:\/\/bm\.ge\/news\/[^"]+)"[^>]*>([\s\S]*?)<\/a>/gi)]
+    .map((match) => ({ url: decode(match[1]), title: decode(match[2]) }))
+    .filter((item) => item.title && isEligibleGeorgianStory({ ...item, source: "BM.GE" }))
+    .filter((item, index, rows) => rows.findIndex((row) => row.url === item.url) === index)
+    .slice(0, 10);
+  return Promise.all(candidates.map(async (candidate) => {
+    try {
+      const articleResponse = await fetch(candidate.url, {
+        headers: { "user-agent": "Mozilla/5.0 (compatible; Investors.ge Georgian news monitor/1.0)" },
+        signal: AbortSignal.timeout(10_000),
+      });
+      const articleHtml = articleResponse.ok ? await articleResponse.text() : "";
+      const published = articleHtml.match(/article:published_time["'][^>]*content=["']([^"']+)/i)?.[1]
+        || articleHtml.match(/["']datePublished["']\s*:\s*["']([^"']+)/i)?.[1];
+      const description = articleHtml.match(/<meta[^>]+(?:name|property)=["'](?:description|og:description)["'][^>]+content=["']([^"']+)/i)?.[1] || candidate.title;
+      return {
+        id: createHash("sha256").update(candidate.url).digest("hex").slice(0, 16),
+        title: candidate.title,
+        description: decode(description),
+        source: "BM.GE",
+        url: candidate.url,
+        publishedAt: published && !Number.isNaN(Date.parse(published)) ? new Date(published).toISOString() : "",
+        dateVerified: Boolean(published && !Number.isNaN(Date.parse(published))),
+      };
+    } catch {
+      return {
+        id: createHash("sha256").update(candidate.url).digest("hex").slice(0, 16),
+        title: candidate.title,
+        description: candidate.title,
+        source: "BM.GE",
+        url: candidate.url,
+        publishedAt: "",
+        dateVerified: false,
+      };
+    }
+  }));
 }
 
 async function translateWithGithub(items) {
@@ -522,6 +606,21 @@ if (failedFeeds.length) {
     `Continuing with ${successfulFeeds.length} healthy global news feeds`,
   );
 }
+const { successful: healthyGeorgianFeeds, failed: failedGeorgianFeeds } = await collectFeeds(
+  GEORGIAN_FEEDS,
+  "Georgia",
+);
+if (failedGeorgianFeeds.length) {
+  console.warn(`Continuing with ${healthyGeorgianFeeds.length} healthy Georgian publisher feeds`);
+}
+const bmTagResults = await Promise.allSettled(BM_TAG_URLS.map(fetchBmTag));
+const bmTagItems = bmTagResults.flatMap((result) => result.status === "fulfilled" ? result.value : []);
+const georgianItems = [...healthyGeorgianFeeds.flat(), ...bmTagItems]
+  .map((item) => ({ ...item, source: normalizeGeorgianSource(item.source, item.url) }))
+  .filter(isEligibleGeorgianStory)
+  .filter((item, index, rows) => rows.findIndex((row) => row.title === item.title) === index)
+  .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
+  .slice(0, 18);
 const trustedSources = new Set([
   "Yahoo Finance",
   "Google Finance",
@@ -558,10 +657,10 @@ const selectedItems = [...cryptoItems, ...stockItems, ...macroItems];
 selectedItems.push(
   ...feedItems.filter((item) => !selectedIds.has(item.id)).slice(0, 12 - selectedItems.length),
 );
-const items = selectedItems
+const items = (georgiaOnly ? [] : selectedItems)
   .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
   .slice(0, 12);
-if (items.length < 3) throw new Error("Global news feed returned too few usable stories");
+if (!georgiaOnly && items.length < 3) throw new Error("Global news feed returned too few usable stories");
 
 if (process.env.GEMINI_SMOKE_TEST === "true") {
   const smokeTest = await translateWithGemini(items.slice(0, 2));
@@ -576,6 +675,7 @@ try {
 } catch {}
 const previousById = new Map(previous.articles.map((item) => [item.id, item]));
 const newItems = items.filter((item) => !previousById.has(item.id));
+const newGeorgianItems = georgianItems.filter((item) => !previousById.has(item.id));
 let translated = new Map();
 if (newItems.length && !requestedBackfillId) {
   try {
@@ -602,14 +702,35 @@ const refreshedArticles = items
     };
   })
   .filter(Boolean);
+const refreshedGeorgianArticles = georgianItems.map((item) => {
+  const existing = previousById.get(item.id);
+  if (existing) return {
+    ...existing,
+    ...(item.dateVerified ? { publishedAt: item.publishedAt } : {}),
+    description: decode(item.description || existing.description || ""),
+    summaryKa: decode(georgianSummary(item)),
+  };
+  return {
+    id: item.id,
+    title: item.title,
+    source: item.source,
+    url: item.url,
+    publishedAt: item.publishedAt || new Date().toISOString(),
+    description: item.description,
+    titleKa: decode(item.title),
+    summaryKa: decode(georgianSummary(item)),
+    category: "საქართველო",
+    translationNotice: "",
+  };
+});
 
-if (refreshedArticles.length < 3) {
+if (!georgiaOnly && refreshedArticles.length < 3 && previous.articles.length < 3) {
   throw new Error(
     `Translation produced too few usable stories; input=${items.length}, new=${newItems.length}, translated=${translated.size}, ids=${[...translated.keys()].join(",")}`,
   );
 }
 const articlesById = new Map(
-  [...previous.articles, ...refreshedArticles].map((article) => [article.id, article]),
+  [...previous.articles, ...refreshedArticles, ...refreshedGeorgianArticles].map((article) => [article.id, article]),
 );
 let articles = [...articlesById.values()].sort(
   (a, b) => new Date(b.publishedAt) - new Date(a.publishedAt),
@@ -627,6 +748,12 @@ if (requestedBackfillId) {
     true,
   );
 }
+if (!georgiaOnly && refreshedArticles.length < 3) {
+  console.warn("No newly translated global batch; preserving the existing archive and continuing with Georgian publisher updates");
+}
+newGeorgianItems.forEach((item) =>
+  queueForEnrichment(articles.find((article) => article.id === item.id)),
+);
 newItems.forEach((item) =>
   queueForEnrichment(articles.find((article) => article.id === item.id)),
 );

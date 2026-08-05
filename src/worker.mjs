@@ -37,6 +37,9 @@ const trustedSources = new Set([
   "Bloomberg",
   "Bloomberg.com",
   "MarketWatch",
+  "BM.GE",
+  "Entrepreneur.ge",
+  "Marketer.ge",
 ]);
 const financeTerms =
   /\b(stock|stocks|market|shares|earnings|investor|bitcoin|crypto|ethereum|ETF|bond|treasur|interest rate|federal reserve|fed\b|inflation|oil|gold|bank|finance|nasdaq|s&p|dow|IPO|acquisition|technology|artificial intelligence|AI|chip|semiconductor|cloud|software)\b/i;
@@ -400,7 +403,7 @@ async function serveNews(env) {
     `SELECT id, title, title_ka, summary_ka, source, url,
             published_at, category, translation_notice
      FROM articles
-     WHERE source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch')
+     WHERE source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch', 'BM.GE', 'Entrepreneur.ge', 'Marketer.ge')
      ORDER BY published_at DESC LIMIT 2000`,
   ).all();
   const articles = result.results
@@ -444,7 +447,7 @@ async function serveNewsArticle(request, env, articleId) {
             published_at, category, translation_notice
      FROM articles
      WHERE id = ?
-       AND source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch')
+       AND source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch', 'BM.GE', 'Entrepreneur.ge', 'Marketer.ge')
      LIMIT 1`,
   )
     .bind(articleId)
@@ -469,7 +472,7 @@ async function serveNewsArticle(request, env, articleId) {
      FROM articles
      WHERE id != ?
        AND category = ?
-       AND source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch')
+       AND source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch', 'BM.GE', 'Entrepreneur.ge', 'Marketer.ge')
      ORDER BY published_at DESC
      LIMIT 3`,
   )

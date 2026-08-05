@@ -6,9 +6,14 @@ const worker = await readFile(new URL("../src/worker.mjs", import.meta.url), "ut
 const shared = await readFile(new URL("../shared.js", import.meta.url), "utf8");
 const homepage = await readFile(new URL("../index.html", import.meta.url), "utf8");
 const newsPage = await readFile(new URL("../news.html", import.meta.url), "utf8");
+const georgiaPage = await readFile(new URL("../georgia.html", import.meta.url), "utf8");
 
 for (const source of ["Yahoo Finance", "Google Finance", "Nasdaq", "Bloomberg", "MarketWatch"]) {
   assert.ok(collector.includes(`"${source}"`), `${source} must be approved by the collector`);
+  assert.ok(worker.includes(source), `${source} must be approved by the live API`);
+}
+for (const source of ["BM.GE", "Entrepreneur.ge", "Marketer.ge"]) {
+  assert.ok(collector.includes(source), `${source} must be configured by the Georgian collector`);
   assert.ok(worker.includes(source), `${source} must be approved by the live API`);
 }
 for (const blocked of ["Reuters", "CNBC", "CoinDesk", "Business Insider"]) {
@@ -17,6 +22,9 @@ for (const blocked of ["Reuters", "CNBC", "CoinDesk", "Business Insider"]) {
 }
 assert.ok(shared.includes('return "tech-ai"'));
 assert.ok(shared.includes('return "markets-economy"'));
+assert.ok(shared.includes('return "georgia"'));
+assert.ok(shared.includes("['georgia.html','საქართველო']"));
+assert.ok(georgiaPage.includes('data-news-category="georgia"'));
 assert.ok(homepage.includes('data-news-category="tech-ai"'));
 assert.ok(homepage.includes('data-news-category="markets-economy"'));
 assert.ok(newsPage.includes('id="tech-ai"'));
