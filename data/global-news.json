@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-08-04T23:51:43.957Z",
+  "updatedAt": "2026-08-05T01:16:29.136Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "208ae3375d7218e7",
+      "title": "AMD and SpaceX Earnings: Good or Bad?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcGJyaHpJZll3c2RQZm5qdUtrNW1IczRGT2RkQXgtbld3UDRTYVVmTDFrZFdUNng1cmh0SGpoQkY0bUFjRFItR2w2M1FhSDk0T0ZOZFl1bThmajdkaWZNd0N6bDliWlJoaTRhcVRFV1RydWhjVWR4eEZGSk5QQUgxbnJjdlFaZVVGUW9RXzZXOUhrR2VpaUZMYw?oc=5",
+      "publishedAt": "2026-08-04T23:55:00.000Z",
+      "titleKa": "AMD-ისა და SpaceX-ის შემოსავლები: კარგია თუ ცუდი?",
+      "summaryKa": "სტატია განიხილავს AMD-ისა და SpaceX-ის ფინანსურ შემოსავლებს და სვამს კითხვას, კარგია თუ ცუდი ეს შედეგები.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "a9600816d9afa731",
       "title": "SpaceX Reveals AI Splurge in First Earnings Report Since IPO",
@@ -48,6 +59,28 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "6e37e8a9dbd1f6cd",
+      "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNREpMRHVWRlFUcVZCMHhmNEwtczJjT3Q0RU0tYi01ZlkyUGhjQzJIM2FFZ21jRGlocFhITy1nUEc1VVl2QWNnRkJyNWMtZ0ZTdENaRm5lM1l3WU8wUEdkZzNQU3NKRGx4Vy1WdzZ5b0d4TEZmZGJ2Z2VrWmVtRHdxcUJsT0E0VkotaGpMWVYtWlJVQWY0emdGMkNqLXVNYnpLYjhhVnpZbEJrcnVqeGtrTXFLLWxyT0QxbUpWOW1pZ0lwZ3JELUM2a3hoWXhibGQxYlViejhlQUhnd2FtdGRBX2pB?oc=5",
+      "publishedAt": "2026-08-04T22:40:00.000Z",
+      "titleKa": "აქციები რეკორდულ ნიშნულებს უბრუნდება: ინვესტორები, რომლებმაც ბოლო კოლაფსის დროს სიმშვიდე შეინარჩუნეს, ჯილდოვდებიან",
+      "summaryKa": "აქციები რეკორდულ მაქსიმუმებს უბრუნდება, რაც იმ ინვესტორებს აჯილდოებს, რომლებმაც ბოლოდროინდელი კოლაფსის დროს პოზიციები შეინარჩუნეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "26ba37668ce8ae5a",
+      "title": "Suncor Tops Profit Estimates as High Oil Prices Boost Refining Margins",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlJJelBDT3ZNNnljTGFOV3MwS0F0Z01obVJpQlgwdXJmWGM1NXZTUTNXYW5vMWtlWTBBdzFsSkVzUzBNRF9ERGRvTVhyMF9VSHIteTJJaU5rT0FSNS1nODdGaGZPWTJ0NWd2TDlibFdCbUViTzVvUGRZTWJ3LUt4a0RQY0hibDBEdm4wQ2tCZEFMM2tj?oc=5",
+      "publishedAt": "2026-08-04T22:31:56.000Z",
+      "titleKa": "Suncor-მა გადააჭარბა მოგების პროგნოზებს, რადგან ნავთობის მაღალმა ფასებმა გადამუშავების მარჟები გაზარდა",
+      "summaryKa": "ნავთობის მაღალმა ფასებმა გაზარდა გადამუშავების მარჟები, რის წყალობითაც Suncor-ის მოგებამ მოლოდინს გადააჭარბა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "32a652e2824b03a3",
       "title": "Asian Stocks Set to Advance on Hormuz Deal Hopes: Markets Wrap",
       "source": "Bloomberg.com",
@@ -59,6 +92,17 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "0d35cd6ce8aec793",
+      "title": "Morgan Stanley (MS) Stock May Be Slightly Overvalued Following New Crypto ETF Launch",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTy1nZkphTnVtTmN4U0JHbk5tRUxMaXdXd2lLWUdlU3pBRU1UQ0ItX3BWeW4wdHZhTVFjNzhjbkd1ZXh0Nk9McDdsVURlUnN2eld5TnNfS1oweW1XZW1vcDFva1ZTQVpfYlZaNU92WUxBczI0UGJld3NDSEh2Y3BDaG5ncW81YkotajdlczRnWDF0Z01TQ0g0?oc=5",
+      "publishedAt": "2026-08-04T22:09:34.000Z",
+      "titleKa": "Morgan Stanley (MS)-ის აქციები შესაძლოა ოდნავ გადაფასებული იყოს ახალი კრიპტო ETF-ის გაშვების შემდეგ",
+      "summaryKa": "კრიპტო ETF-ის ახალი გაშვების ფონზე, Morgan Stanley (MS)-ის აქციები შესაძლოა ოდნავ გადაფასებული იყოს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "bb97f0f2d1b7dfdc",
       "title": "Sandisk bulls are probably eyeing this number on earnings day: AlphaSpace stat of the evening",
       "source": "Yahoo Finance",
@@ -66,6 +110,17 @@
       "publishedAt": "2026-08-04T22:00:00.000Z",
       "titleKa": "Sandisk-ის ხარები, სავარაუდოდ, ამ ციფრს აკვირდებიან შემოსავლების გამოქვეყნების დღეს: საღამოს AlphaSpace-ის სტატისტიკა",
       "summaryKa": "Sandisk-ის აქციების ზრდის მომხრეები, სავარაუდოდ, აქტიურად დააკვირდებიან კონკრეტულ მაჩვენებელს კომპანიის შემოსავლების ანგარიშგების დღეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7572014c620fd186",
+      "title": "Why Gold.com (GOLD) Outpaced the Stock Market Today",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYW9OLU5VeGJ0Qll5ZVc1MW1zTTY5cXRtRG5fYk56Vzd4Q3FrWGUzMTBtNThURkVmdXYycTRydlRMc3lFeGtLdWlJemNPSUpOd2JwZ1hLRjNVdWRITkQ0LU1VUlpxcmgyanZZaEZNRmxYVmhRQ19ySUEwdVJRMy1kVzFpRFNVdXVsckdfM3VqSjVaVGNVaXc?oc=5",
+      "publishedAt": "2026-08-04T21:45:02.000Z",
+      "titleKa": "რატომ გაუსწრო Gold.com (GOLD)-მა საფონდო ბაზარს დღეს",
+      "summaryKa": "სტატია ეხება იმ მიზეზებს, თუ რატომ აჩვენა Gold.com (GOLD)-მა დღეს საფონდო ბაზარზე უკეთესი შედეგი.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -198,17 +253,6 @@
       "publishedAt": "2026-08-04T19:46:00.000Z",
       "titleKa": "ნავთობის ფასები იზრდება მას შემდეგ, რაც გავრცელდა ინფორმაცია ჰორმუზის სრუტეში გემზე თავდასხმის შესახებ",
       "summaryKa": "ნავთობის ფასები გაიზარდა მას შემდეგ, რაც გავრცელდა ცნობა ჰორმუზის სრუტეში გემზე თავდასხმის შესახებ.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "6e37e8a9dbd1f6cd",
-      "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
-      "source": "MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNREpMRHVWRlFUcVZCMHhmNEwtczJjT3Q0RU0tYi01ZlkyUGhjQzJIM2FFZ21jRGlocFhITy1nUEc1VVl2QWNnRkJyNWMtZ0ZTdENaRm5lM1l3WU8wUEdkZzNQU3NKRGx4Vy1WdzZ5b0d4TEZmZGJ2Z2VrWmVtRHdxcUJsT0E0VkotaGpMWVYtWlJVQWY0emdGMkNqLXVNYnpLYjhhVnpZbEJrcnVqeGtrTXFLLWxyT0QxbUpWOW1pZ0lwZ3JELUM2a3hoWXhibGQxYlViejhlQUhnd2FtdGRBX2pB?oc=5",
-      "publishedAt": "2026-08-04T19:33:00.000Z",
-      "titleKa": "აქციები რეკორდულ ნიშნულებს უბრუნდება: ინვესტორები, რომლებმაც ბოლო კოლაფსის დროს სიმშვიდე შეინარჩუნეს, ჯილდოვდებიან",
-      "summaryKa": "აქციები რეკორდულ მაქსიმუმებს უბრუნდება, რაც იმ ინვესტორებს აჯილდოებს, რომლებმაც ბოლოდროინდელი კოლაფსის დროს პოზიციები შეინარჩუნეს.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
