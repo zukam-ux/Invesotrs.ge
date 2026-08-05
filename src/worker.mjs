@@ -333,7 +333,10 @@ async function syncPublishedNews(env) {
           url = excluded.url,
           published_at = excluded.published_at,
           category = excluded.category,
-          body_ka = COALESCE(excluded.body_ka, articles.body_ka),
+          body_ka = COALESCE(
+            CASE WHEN excluded.body_ka IS NULL OR LOWER(TRIM(excluded.body_ka)) IN ('', 'null', 'undefined') THEN NULL ELSE excluded.body_ka END,
+            CASE WHEN articles.body_ka IS NULL OR LOWER(TRIM(articles.body_ka)) IN ('', 'null', 'undefined') THEN NULL ELSE articles.body_ka END
+          ),
           source_url = COALESCE(excluded.source_url, articles.source_url)`,
       ).bind(
         article.id,
@@ -379,7 +382,10 @@ async function ingestNews(request, env) {
           url = excluded.url,
           published_at = excluded.published_at,
           category = excluded.category,
-          body_ka = COALESCE(excluded.body_ka, articles.body_ka),
+          body_ka = COALESCE(
+            CASE WHEN excluded.body_ka IS NULL OR LOWER(TRIM(excluded.body_ka)) IN ('', 'null', 'undefined') THEN NULL ELSE excluded.body_ka END,
+            CASE WHEN articles.body_ka IS NULL OR LOWER(TRIM(articles.body_ka)) IN ('', 'null', 'undefined') THEN NULL ELSE articles.body_ka END
+          ),
           source_url = COALESCE(excluded.source_url, articles.source_url)`,
       ).bind(
         article.id,

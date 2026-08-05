@@ -28,7 +28,10 @@ function formatPublishedAt(value) {
 }
 
 function renderArticleBody(value = "") {
-  return String(value)
+  if (value == null) return "";
+  const normalized = String(value).trim();
+  if (!normalized || ["null", "undefined"].includes(normalized.toLowerCase())) return "";
+  return normalized
     .split(/\n{2,}/)
     .map((block) => block.trim())
     .filter(Boolean)

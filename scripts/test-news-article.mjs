@@ -69,6 +69,19 @@ assert.ok(html.includes('<h2>მთავარი დეტალები</h2>
 assert.ok(html.includes("პირველი ფაქტობრივი აბზაცი"));
 assert.ok(!html.includes("<სათაური>"));
 
+for (const invalidBody of [null, "null", " NULL ", "undefined", "   "]) {
+  const invalidBodyHtml = renderNewsArticlePage(
+    { ...article, body_ka: invalidBody },
+    [],
+    "https://investors.ge/news/642ddbca2c89f924",
+  );
+  assert.ok(!invalidBodyHtml.includes("<p>null</p>"));
+  assert.ok(!invalidBodyHtml.includes("<p>undefined</p>"));
+  assert.ok(invalidBodyHtml.includes("სრული ქართული მიმოხილვა ჯერ მზად არ არის"));
+}
+assert.ok(worker.includes("LOWER(TRIM(excluded.body_ka))"));
+assert.ok(worker.includes("LOWER(TRIM(articles.body_ka))"));
+
 const missing = renderNewsNotFoundPage(
   "https://investors.ge/news/ffffffffffffffff",
 );
