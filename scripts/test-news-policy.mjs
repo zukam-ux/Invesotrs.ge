@@ -27,6 +27,8 @@ assert.ok(shared.includes("['georgia.html','საქართველო']"));
 assert.ok(georgiaPage.includes('data-news-category="georgia"'));
 assert.ok(homepage.includes('data-news-category="tech-ai"'));
 assert.ok(homepage.includes('data-news-category="markets-economy"'));
+assert.ok(homepage.includes('data-news-category="georgia"'));
+assert.ok(homepage.includes('href="georgia.html">ყველა ქართული ამბავი'));
 assert.ok(newsPage.includes('id="tech-ai"'));
 assert.ok(newsPage.includes('id="markets-economy"'));
 assert.ok(collector.includes("conflictNewsTerms"));
