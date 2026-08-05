@@ -1,8 +1,92 @@
 {
-  "updatedAt": "2026-08-05T15:09:29.975Z",
+  "updatedAt": "2026-08-05T16:20:41.017Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "1d5b3e21ed919f2f",
+      "title": "Watch Tech Melt-Up Drives $3.5T Nasdaq 100 Gain in Four Days",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmZJYzgwMVIteWtNTzVycVNybXlvN3h1bDlPN2tGYVJvMmJsWWZTRG5ISm1ObG1aNUs2clp5SExnRjN6QnNZMEw5NTNLQkNEX21Tb2gwaUdTQzBYTEw5YU1uWUpFdWJMNG9JdDM2ZUdiemkxUnFFOFh6eVROOWVrdWNXZnZGSUxtOENXT19lUXJjM2EyRmtfUHNqeXprZFRJZkM1MGdaakZ5R1hm?oc=5",
+      "publishedAt": "2026-08-05T15:24:24.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmZJYzgwMVIteWtNTzVycVNybXlvN3h1bDlPN2tGYVJvMmJsWWZTRG5ISm1ObG1aNUs2clp5SExnRjN6QnNZMEw5NTNLQkNEX21Tb2gwaUdTQzBYTEw5YU1uWUpFdWJMNG9JdDM2ZUdiemkxUnFFOFh6eVROOWVrdWNXZnZGSUxtOENXT19lUXJjM2EyRmtfUHNqeXprZFRJZkM1MGdaakZ5R1hm?oc=5\" target=\"_blank\">Watch Tech Melt-Up Drives $3.5T Nasdaq 100 Gain in Four Days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ტექნოლოგიური სექტორის მკვეთრი ზრდა ოთხ დღეში Nasdaq 100-ის 3.5 ტრილიონი დოლარით მატებას განაპირობებს",
+      "summaryKa": "ტექნოლოგიური სექტორის მკვეთრმა ზრდამ ოთხ დღეში Nasdaq 100-ს 3.5 ტრილიონი დოლარის მოგება მოუტანა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "dd12417b1875c916",
+      "title": "Kashkari Says Fed Should Raise Rates Now to Bring Down Inflation",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXBOVjdlWm1nZGJyMnR6anA5aHpVcThZOUpPZ0dBZXRnYUlRUU9ZMkI4QThFVUpZaVRQR1l1Mko5YThrNWNKMTZPaVB3X2dBVGlaMUhUMFFUeDhXVWJnQ0VGUXg5TjhRVkhZMzNMNHFpbGdVYkkwMUtYUlFSZEdEVFJ5SnN6YXFoTnlVeUFCU3VJcmlVZEpTUzZGTjdQZms2YXkwMlJ2d3dTYXYySE9mb3hBQ0hiUQ?oc=5",
+      "publishedAt": "2026-08-05T15:02:04.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXBOVjdlWm1nZGJyMnR6anA5aHpVcThZOUpPZ0dBZXRnYUlRUU9ZMkI4QThFVUpZaVRQR1l1Mko5YThrNWNKMTZPaVB3X2dBVGlaMUhUMFFUeDhXVWJnQ0VGUXg5TjhRVkhZMzNMNHFpbGdVYkkwMUtYUlFSZEdEVFJ5SnN6YXFoTnlVeUFCU3VJcmlVZEpTUzZGTjdQZms2YXkwMlJ2d3dTYXYySE9mb3hBQ0hiUQ?oc=5\" target=\"_blank\">Kashkari Says Fed Should Raise Rates Now to Bring Down Inflation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "კაშკარი აცხადებს, რომ ფედერალურმა რეზერვმა ინფლაციის შესამცირებლად განაკვეთები ახლავე უნდა გაზარდოს",
+      "summaryKa": "კაშკარი მიიჩნევს, რომ ფედერალურმა რეზერვმა ინფლაციის შესამცირებლად საპროცენტო განაკვეთები ახლავე უნდა გაზარდოს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "0e8b274b5e450c47",
+      "title": "How Big Tech earnings are testing ETF market inflows",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObHhyMUFERldyYjBBYi1KZTctdktzRkVneWpZOW9vZklWeFRZTUtsUkJCWkM5Z3NoTkFUOTBmWm1IMHpDSWdIb1h6UHdWMTZpRkpsOVQ2dnd0OHM0OEVMcFVxN3pmWGNMR0x2TG9seTdZRW5pQmNpNmdlb29CbVBJSGFR?oc=5",
+      "publishedAt": "2026-08-05T14:47:02.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxObHhyMUFERldyYjBBYi1KZTctdktzRkVneWpZOW9vZklWeFRZTUtsUkJCWkM5Z3NoTkFUOTBmWm1IMHpDSWdIb1h6UHdWMTZpRkpsOVQ2dnd0OHM0OEVMcFVxN3pmWGNMR0x2TG9seTdZRW5pQmNpNmdlb29CbVBJSGFR?oc=5\" target=\"_blank\">How Big Tech earnings are testing ETF market inflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "როგორ ცდის მსხვილი ტექნოლოგიური კომპანიების შემოსავლები ETF ბაზრის შემოდინებებს",
+      "summaryKa": "მსხვილი ტექნოლოგიური კომპანიების შემოსავლები გამოცდის წინაშე აყენებს ETF ბაზარზე კაპიტალის შემოდინებას.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d596191d49e3947f",
+      "title": "FTI Consulting Stock Declines 4.1% Since Q2 Earnings Beat",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXdnN1NBVGdSbS1LaURGVVlMcVB6Sk8zbFpST1JUQnRvTmVMTTlfSTJFSllZMkJRRmpPQXZONTE4amJrM3B3clpxeVE3NWV6cldhT0xUelZGbVdvOG13aGhnVmhXdkRQclpzbmNrZF93TWxfLXlObEFlNDNIR1JDRFR4XzFxejZNUURSWFE4RDBtZUpwTDJHd1AxWUU?oc=5",
+      "publishedAt": "2026-08-05T14:24:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXdnN1NBVGdSbS1LaURGVVlMcVB6Sk8zbFpST1JUQnRvTmVMTTlfSTJFSllZMkJRRmpPQXZONTE4amJrM3B3clpxeVE3NWV6cldhT0xUelZGbVdvOG13aGhnVmhXdkRQclpzbmNrZF93TWxfLXlObEFlNDNIR1JDRFR4XzFxejZNUURSWFE4RDBtZUpwTDJHd1AxWUU?oc=5\" target=\"_blank\">FTI Consulting Stock Declines 4.1% Since Q2 Earnings Beat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "FTI Consulting-ის აქციები 4.1%-ით შემცირდა მეორე კვარტლის მოსალოდნელზე უკეთესი ფინანსური შედეგების შემდეგ",
+      "summaryKa": "FTI Consulting-ის აქციების ფასი 4.1%-ით დაეცა მას შემდეგ, რაც კომპანიამ მეორე კვარტალში პროგნოზირებულზე მაღალი მოგება აჩვენა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ee276cd653180821",
+      "title": "Gold Holds Steady as Progress on Hormuz Trims Rate-Hike Bets",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXRXUl9CUEd6cFF4VzltRjBMU1B3ZzhuNXdIejEydThWcmFDOGFHdnFTVGkwLVNEOUZtYkVpeHl0ZVhlUHNfaVVfdTVnRXFiZlVDMm5MZGVLRVJzSjdmRDJxOWdwd0ppZVh6V212ZEZwWGItM0tJODhLUTdjMGdLVUlPSDN2MXpLMjUyXzB2RVFxMWVCUy1MYlpXdkl3WVRDdDloZUIxdEVXQzJYel91bA?oc=5",
+      "publishedAt": "2026-08-05T14:22:19.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXRXUl9CUEd6cFF4VzltRjBMU1B3ZzhuNXdIejEydThWcmFDOGFHdnFTVGkwLVNEOUZtYkVpeHl0ZVhlUHNfaVVfdTVnRXFiZlVDMm5MZGVLRVJzSjdmRDJxOWdwd0ppZVh6V212ZEZwWGItM0tJODhLUTdjMGdLVUlPSDN2MXpLMjUyXzB2RVFxMWVCUy1MYlpXdkl3WVRDdDloZUIxdEVXQzJYel91bA?oc=5\" target=\"_blank\">Gold Holds Steady as Progress on Hormuz Trims Rate-Hike Bets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ოქრო სტაბილურობას ინარჩუნებს, რადგან ჰორმუზის საკითხზე პროგრესი საპროცენტო განაკვეთების ზრდის მოლოდინს ამცირებს",
+      "summaryKa": "ოქროს ფასი სტაბილური რჩება, რადგან ჰორმუზის გარშემო არსებულმა პროგრესმა საპროცენტო განაკვეთების ზრდის შესახებ მოლოდინები შეამცირა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f807a438159575d3",
+      "title": "What Makes Magnolia Oil & Gas Corp. (MGY) a Strong Investment Bet?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3VubTNhZFhHU2FzMWJtRmdGSndRczFqNmF2U0hIYXpYQmpJb0pGSGVxYmpfUVY5RnExbENXc2dPQy1BdUU1WEVvSF9SUWhjck1sN3RnLWJlb0dIMFVVdVNaMEdMZ3FlZFlqS2V4dkRMU0x0SzloVFJ0YTFhZkhVNG9QNjlrMGdCdGdTTA?oc=5",
+      "publishedAt": "2026-08-05T14:18:38.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3VubTNhZFhHU2FzMWJtRmdGSndRczFqNmF2U0hIYXpYQmpJb0pGSGVxYmpfUVY5RnExbENXc2dPQy1BdUU1WEVvSF9SUWhjck1sN3RnLWJlb0dIMFVVdVNaMEdMZ3FlZFlqS2V4dkRMU0x0SzloVFJ0YTFhZkhVNG9QNjlrMGdCdGdTTA?oc=5\" target=\"_blank\">What Makes Magnolia Oil & Gas Corp. (MGY) a Strong Investment Bet?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "რა აქცევს Magnolia Oil & Gas Corp. (MGY)-ს ძლიერ საინვესტიციო არჩევნად?",
+      "summaryKa": "განხილულია ფაქტორები, რომლებიც Magnolia Oil & Gas Corp. (MGY)-ს საიმედო საინვესტიციო აქტივად აქცევს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f26f6b7dbd8ee3a9",
+      "title": "Gold Fields (JSE:GFI) Stock Fair Value Falls After Analysts Cut Targets",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT0h6NVNzbHNpZnpheFk4ZEhUTTFJVzd4U2hWUXNfaUUtTlUybTFyRGxqUWc4WGVTMklnMWVfY0xyQjUtUmFYcDJXdGd2NEhkdEYyRXU1TUJyVlZKcjZXLUVSOTdMd3E5SWJTTHZSc096VER4Wk1GWHV1cTZtWjk5YXFtRmp2bEZ1clNUbXgyNU1xZWJW?oc=5",
+      "publishedAt": "2026-08-05T14:10:23.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNT0h6NVNzbHNpZnpheFk4ZEhUTTFJVzd4U2hWUXNfaUUtTlUybTFyRGxqUWc4WGVTMklnMWVfY0xyQjUtUmFYcDJXdGd2NEhkdEYyRXU1TUJyVlZKcjZXLUVSOTdMd3E5SWJTTHZSc096VER4Wk1GWHV1cTZtWjk5YXFtRmp2bEZ1clNUbXgyNU1xZWJW?oc=5\" target=\"_blank\">Gold Fields (JSE:GFI) Stock Fair Value Falls After Analysts Cut Targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Gold Fields (JSE:GFI)-ის აქციების რეალური ღირებულება მას შემდეგ შემცირდა, რაც ანალიტიკოსებმა სამიზნე ფასები შეამცირეს",
+      "summaryKa": "Gold Fields (JSE:GFI)-ის აქციების სამართლიანი ფასი მას შემდეგ შემცირდა, რაც ანალიტიკოსებმა სამიზნე ნიშნულები შეამცირეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "1c1c6528ec941344",
       "title": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings",
@@ -16,6 +100,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "f2221fececd6acc9",
+      "title": "SpaceX Reports $540 Million Loss On Bitcoin Holdings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0pxNl9zdDFsRVZNdnpVNGxLU09iOExtcDVVY0FqNndvRFhuandfNUR6RXBGYW9MLWNKYzhMbU1Well2RjJxSnI0OFRsN3ZxdWxHSDQ1YVhMN3h6ekQ0VFVQTFBFV3l4aUUya3BEOWMyZmdQNHBPeldHbjFVMVRJaDFydHpxTng4Rmx6TDQwR3VFWGhMWVJTeE4zWkk?oc=5",
+      "publishedAt": "2026-08-05T13:42:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0pxNl9zdDFsRVZNdnpVNGxLU09iOExtcDVVY0FqNndvRFhuandfNUR6RXBGYW9MLWNKYzhMbU1Well2RjJxSnI0OFRsN3ZxdWxHSDQ1YVhMN3h6ekQ0VFVQTFBFV3l4aUUya3BEOWMyZmdQNHBPeldHbjFVMVRJaDFydHpxTng4Rmx6TDQwR3VFWGhMWVJTeE4zWkk?oc=5\" target=\"_blank\">SpaceX Reports $540 Million Loss On Bitcoin Holdings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "SpaceX Bitcoin-ის მფლობელობაზე 540 მილიონი დოლარის ზარალს აცხადებს",
+      "summaryKa": "SpaceX-მა Bitcoin-ის პორტფელთან დაკავშირებით 540 მილიონი დოლარის ზარალი გამოაცხადა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "c5188216bbbebd7e",
       "title": "SpaceX stock declines post-earnings. Are investors worried about AI spending?",
       "source": "Yahoo Finance",
@@ -25,6 +121,18 @@
       "titleKa": "SpaceX-ის აქციები ფინანსური ანგარიშგების შემდეგ დაეცა: ხომ არ აშფოთებთ ინვესტორებს AI-ზე გაწეული ხარჯები?",
       "summaryKa": "SpaceX-ის აქციების ფასი ფინანსური შედეგების გამოქვეყნების შემდეგ შემცირდა, რამაც გააჩინა კითხვა, ხომ არ არიან ინვესტორები შეშფოთებულნი ხელოვნურ ინტელექტზე (AI) გაწეული ხარჯების გამო.",
       "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "789662faa031bd4a",
+      "title": "Oil Refiners Are Quietly Printing Money. This Company’s Earnings Jumped 975%",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNejBHcGtfaFJldXlXTWlKNXhQWXNuUGNVVHYwZy1EbkxjRGpzMnIyTDdrenFmWmRJUlFmR0dPczI4Rk1lSF9ZWk1ULXRIcHVIVXhOR2VPdEpsRXBSb0pPcTluVzFFQkM2cEVsZHV0cFNuNnJCMklUVnp0MUtvQm43bUxqT3B4anhLLW15RUdZaU5LZ0dSWGRV?oc=5",
+      "publishedAt": "2026-08-05T13:30:11.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNejBHcGtfaFJldXlXTWlKNXhQWXNuUGNVVHYwZy1EbkxjRGpzMnIyTDdrenFmWmRJUlFmR0dPczI4Rk1lSF9ZWk1ULXRIcHVIVXhOR2VPdEpsRXBSb0pPcTluVzFFQkM2cEVsZHV0cFNuNnJCMklUVnp0MUtvQm43bUxqT3B4anhLLW15RUdZaU5LZ0dSWGRV?oc=5\" target=\"_blank\">Oil Refiners Are Quietly Printing Money. This Company’s Earnings Jumped 975%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ნავთობგადამამუშავებელი ქარხნები ჩუმად ბეჭდავენ ფულს: ამ კომპანიის მოგება 975%-ით გაიზარდა",
+      "summaryKa": "ნავთობგადამამუშავებელი კომპანიები დიდ მოგებას ნახულობენ, ხოლო ერთ-ერთი მათგანის შემოსავალი 975%-ით გაიზარდა.",
+      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
