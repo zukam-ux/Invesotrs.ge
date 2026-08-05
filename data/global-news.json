@@ -1,8 +1,43 @@
 {
-  "updatedAt": "2026-08-05T16:20:41.017Z",
+  "updatedAt": "2026-08-05T18:00:51.966Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "2ac5e30ad3824ea6",
+      "title": "Sandisk stock steady ahead of AI highflier's earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZkVTMGc1aFZabzhWbER4SGR1WXFtNTZTTkJQVkxHOGdCdmRmbHJfM0R4ZlBWY2h5VExsaElQQVFJakJqSUdwZ2J2ajBvVHBxbUZOUjlmdGpIalpTUF9DSlE0NVp6bHl0ZG1Zcm5lMmN0dU1uczlFQTN6WVlBSWk2elZMYk15RHhaYk1Jck9ic1c4czdydHU3VjFkNmdQZzFsdkV4dklWODBOMU84QW93NU9odmtQZWc?oc=5",
+      "publishedAt": "2026-08-05T16:37:03.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPZkVTMGc1aFZabzhWbER4SGR1WXFtNTZTTkJQVkxHOGdCdmRmbHJfM0R4ZlBWY2h5VExsaElQQVFJakJqSUdwZ2J2ajBvVHBxbUZOUjlmdGpIalpTUF9DSlE0NVp6bHl0ZG1Zcm5lMmN0dU1uczlFQTN6WVlBSWk2elZMYk15RHhaYk1Jck9ic1c4czdydHU3VjFkNmdQZzFsdkV4dklWODBOMU84QW93NU9odmtQZWc?oc=5\" target=\"_blank\">Sandisk stock steady ahead of AI highflier's earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Sandisk-ის აქციები სტაბილურია AI-ის წამყვანი კომპანიის კვარტალური ანგარიშგების მოლოდინში",
+      "summaryKa": "Sandisk-ის აქციები სტაბილურობას ინარჩუნებს ხელოვნური ინტელექტის (AI) სფეროს ერთ-ერთი უმსხვილესი წარმომადგენლის ფინანსური შედეგების გამოქვეყნებამდე.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a3d662a674363886",
+      "title": "NUGT and AGQ Jump Big as Gold and Silver Rally",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPam9BSlZLTl9vQmdoZDlBZmRWTHVKbll4bGl4cEJ2Y0J0SHF3dUNjRHlfTk9UQnZqakthbUZUaXlZVlRJZ3dSMHFPZ1FNREhUWlY4anZfbjF1TzV1YWV5ZUFucGY1QzFmZTdXVU80RnZXRnFiNm1PVUtXaVQtemxQSGdXWDJKeHdQSS1MYndJektwSG90emtz?oc=5",
+      "publishedAt": "2026-08-05T15:57:20.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPam9BSlZLTl9vQmdoZDlBZmRWTHVKbll4bGl4cEJ2Y0J0SHF3dUNjRHlfTk9UQnZqakthbUZUaXlZVlRJZ3dSMHFPZ1FNREhUWlY4anZfbjF1TzV1YWV5ZUFucGY1QzFmZTdXVU80RnZXRnFiNm1PVUtXaVQtemxQSGdXWDJKeHdQSS1MYndJektwSG90emtz?oc=5\" target=\"_blank\">NUGT and AGQ Jump Big as Gold and Silver Rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "NUGT და AGQ მკვეთრად გაიზარდა ოქროსა და ვერცხლის ფასების მატების ფონზე",
+      "summaryKa": "ოქროსა და ვერცხლის ბაზარზე ფასების ზრდის პარალელურად, NUGT და AGQ აქტივების ღირებულებამ მნიშვნელოვანი ზრდა აჩვენა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a25d4918095511a7",
+      "title": "Oil Holds Two-Day Drop on Signs of Progress Toward Hormuz Deal",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSldwSGlqM2UyQkNEWXNUbVNLNGUxZ2xMVUsxVFR3TmI0TElkazcwWnhLbFByNE05OWhNbU93MWNGQUZYNGkyYi1qWTNmZEV0M1MyMVY1ZWZiQ2szbDlIQlJJVm5OalNYbnhiOVVDYk01bzRUTmc3VFVtNGVGUmctejBrSUZQY3F1a1ROMjJJN0RFaHFpZjlUZzlHZGY?oc=5",
+      "publishedAt": "2026-08-05T15:30:34.000Z",
+      "titleKa": "ნავთობის ფასი ორდღიან კლებას ინარჩუნებს ჰორმუზის შეთანხმებისკენ პროგრესის ნიშნების ფონზე",
+      "summaryKa": "ჰორმუზის შეთანხმებისკენ მიღწეული პროგრესის ნიშნების ფონზე, ნავთობი ზედიზედ მეორე დღეა კლებას ინარჩუნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "1d5b3e21ed919f2f",
       "title": "Watch Tech Melt-Up Drives $3.5T Nasdaq 100 Gain in Four Days",
@@ -25,6 +60,18 @@
       "titleKa": "კაშკარი აცხადებს, რომ ფედერალურმა რეზერვმა ინფლაციის შესამცირებლად განაკვეთები ახლავე უნდა გაზარდოს",
       "summaryKa": "კაშკარი მიიჩნევს, რომ ფედერალურმა რეზერვმა ინფლაციის შესამცირებლად საპროცენტო განაკვეთები ახლავე უნდა გაზარდოს.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5523da21bb15ba2d",
+      "title": "Why SpaceX Stock Crashed After Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaDRiaDEwby00YTU3Smo4M2h4MGlCamFRN0hDc1NlUlZVNUlPNWQ0a3VRWEk3Yy1kQWRwSjNXNmJ3aGo5a09UUUdTSTRKdzhTU21KY2UxTUhqVW5HUE16VFVvdFZhejN2TE9RcjZaVTRoeU9zRmptZ25haU41TGxOTTJoYWZzdnFVUHJKYmFyS2lsb1FaaUpKckZwZ0U0QjA?oc=5",
+      "publishedAt": "2026-08-05T14:59:10.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNaDRiaDEwby00YTU3Smo4M2h4MGlCamFRN0hDc1NlUlZVNUlPNWQ0a3VRWEk3Yy1kQWRwSjNXNmJ3aGo5a09UUUdTSTRKdzhTU21KY2UxTUhqVW5HUE16VFVvdFZhejN2TE9RcjZaVTRoeU9zRmptZ25haU41TGxOTTJoYWZzdnFVUHJKYmFyS2lsb1FaaUpKckZwZ0U0QjA?oc=5\" target=\"_blank\">Why SpaceX Stock Crashed After Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "რატომ დაეცა მკვეთრად SpaceX-ის აქციები ფინანსური ანგარიშგების შემდეგ",
+      "summaryKa": "სტატია განიხილავს მიზეზებს, რომლებმაც გამოიწვია SpaceX-ის აქციების ფასის მკვეთრი ვარდნა კომპანიის ფინანსური ანგარიშგების გამოქვეყნების შემდეგ.",
+      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -97,6 +144,18 @@
       "titleKa": "„ეს არ იყო განსაკუთრებული შედეგი“: რატომ დაეცა AMD-ის აქციები 5%-ით ფინანსური ანგარიშგების შემდეგ",
       "summaryKa": "AMD-ის აქციები ფინანსური შედეგების გამოქვეყნების შემდეგ 5%-ით დაეცა, რაც შეფასდა როგორც „არაგამორჩეული შედეგი“.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "09518492fae7f4f0",
+      "title": "First US Bitcoin ETF to be Delisted from NYSE After Just 2 Years",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZmEyYVd0cjAtX0lTRF9VT0pvcmo0VW0wb3FSUXNRNWE5czVOazJhSm5fZUJOVGI4TVJma3NqQXM3ckc1Sk9fNUNsNXZPbWVIM2h1Q2RySUVyUkhQOVAxUVRTVXJaR016UTRraXhSNDY5RTluWE92VHFJNFpxelpXMlE2VThDbFBlYzZONlMzYW9BNWxRUElHMTd3?oc=5",
+      "publishedAt": "2026-08-05T13:45:34.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQZmEyYVd0cjAtX0lTRF9VT0pvcmo0VW0wb3FSUXNRNWE5czVOazJhSm5fZUJOVGI4TVJma3NqQXM3ckc1Sk9fNUNsNXZPbWVIM2h1Q2RySUVyUkhQOVAxUVRTVXJaR016UTRraXhSNDY5RTluWE92VHFJNFpxelpXMlE2VThDbFBlYzZONlMzYW9BNWxRUElHMTd3?oc=5\" target=\"_blank\">First US Bitcoin ETF to be Delisted from NYSE After Just 2 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "აშშ-ის პირველი ბიტკოინ ETF ნიუ-იორკის საფონდო ბირჟიდან (NYSE) სულ რაღაც 2 წელიწადში მოიხსნება",
+      "summaryKa": "აშშ-ში პირველი ბიტკოინ ETF დელისტინგს დაექვემდებარება და ნიუ-იორკის საფონდო ბირჟიდან (NYSE) გაშვებიდან სულ რაღაც 2 წლის შემდეგ გაქრება.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -546,17 +605,6 @@
       "titleKa": "Taiyo Yuden-ი AI-ზე მოთხოვნის ფონზე ზრდის შემოსავლების პროგნოზსა და კაპიტალური ხარჯების გეგმებს",
       "summaryKa": "ხელოვნურ ინტელექტზე (AI) არსებული მოთხოვნის გამო, კომპანია Taiyo Yuden-მა გაზარდა თავისი შემოსავლების პროგნოზი და კაპიტალური დანახარჯების გეგმები.",
       "category": "ტექნოლოგიები და AI",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "a25d4918095511a7",
-      "title": "Oil Holds Two-Day Drop on Signs of Progress Toward Hormuz Deal",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSldwSGlqM2UyQkNEWXNUbVNLNGUxZ2xMVUsxVFR3TmI0TElkazcwWnhLbFByNE05OWhNbU93MWNGQUZYNGkyYi1qWTNmZEV0M1MyMVY1ZWZiQ2szbDlIQlJJVm5OalNYbnhiOVVDYk01bzRUTmc3VFVtNGVGUmctejBrSUZQY3F1a1ROMjJJN0RFaHFpZjlUZzlHZGY?oc=5",
-      "publishedAt": "2026-08-05T07:48:31.000Z",
-      "titleKa": "ნავთობის ფასი ორდღიან კლებას ინარჩუნებს ჰორმუზის შეთანხმებისკენ პროგრესის ნიშნების ფონზე",
-      "summaryKa": "ჰორმუზის შეთანხმებისკენ მიღწეული პროგრესის ნიშნების ფონზე, ნავთობი ზედიზედ მეორე დღეა კლებას ინარჩუნებს.",
-      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
