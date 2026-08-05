@@ -1,8 +1,56 @@
 {
-  "updatedAt": "2026-08-05T20:47:30.689Z",
+  "updatedAt": "2026-08-05T22:04:02.033Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "a6a57f415f10d834",
+      "title": "Aggressive options trading helped drive the S&P 500’s latest rally. What that means for investors.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObFZJRkdkaDZESUhyZi16SUpjd09FaWpTQldmcU1SYzZKdnA5SGJTQllJRllrVmtxZGdvd0FQY240eFhZazBCOHhzaTNFczN2ZXVYeVQyaUdENzNQOHFDbE1wYzJBbHVXU1ZteE1QaHlnOHU2NkJ5V1BXOXN1dUQxS0JoNzBCNHhSbjVQandWeGFEM09BelJybXA1YjV0bFVZVlpjM2FxaWxLaVFaMmMzQUcyaXd2WloxYndMMXpaZ3V2VVpSYlJmOWtYb2FJNU9NUmZxZQ?oc=5",
+      "publishedAt": "2026-08-05T20:51:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxObFZJRkdkaDZESUhyZi16SUpjd09FaWpTQldmcU1SYzZKdnA5SGJTQllJRllrVmtxZGdvd0FQY240eFhZazBCOHhzaTNFczN2ZXVYeVQyaUdENzNQOHFDbE1wYzJBbHVXU1ZteE1QaHlnOHU2NkJ5V1BXOXN1dUQxS0JoNzBCNHhSbjVQandWeGFEM09BelJybXA1YjV0bFVZVlpjM2FxaWxLaVFaMmMzQUcyaXd2WloxYndMMXpaZ3V2VVpSYlJmOWtYb2FJNU9NUmZxZQ?oc=5\" target=\"_blank\">Aggressive options trading helped drive the S&P 500’s latest rally. What that means for investors.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "titleKa": "ოპციონებით აგრესიულმა ვაჭრობამ ხელი შეუწყო S&P 500-ის ბოლო რალის: რას ნიშნავს ეს ინვესტორებისთვის",
+      "summaryKa": "ოპციონებით აგრესიულმა ვაჭრობამ ხელი შეუწყო S&P 500 ინდექსის ბოლო ზრდას და სტატია განიხილავს, თუ რას ნიშნავს ეს ინვესტორებისთვის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a6b65067061dd7f3",
+      "title": "AppLovin (NASDAQ:APP) Misses Q2 CY2026 Revenue Estimates, Stock Drops 21%",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1lzYmc1M1RqVVV0RkY3NUVHVkpzSDlPcFU2NERjQUlrRHc1VnNtdjBHendSV0JuY1hxOXU0VjdmbURvZ2prbjM3ZDZHV3BweWgwNjZVVmFjRjBPcFhxUGFFVGFDbXBwLXB4SkJjWkQtdHItUzdZLTVNenctcGpiYmU5YnljeTlfZktsLUVac3k4a2RUUVJDb2VB?oc=5",
+      "publishedAt": "2026-08-05T20:38:26.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1lzYmc1M1RqVVV0RkY3NUVHVkpzSDlPcFU2NERjQUlrRHc1VnNtdjBHendSV0JuY1hxOXU0VjdmbURvZ2prbjM3ZDZHV3BweWgwNjZVVmFjRjBPcFhxUGFFVGFDbXBwLXB4SkJjWkQtdHItUzdZLTVNenctcGpiYmU5YnljeTlfZktsLUVac3k4a2RUUVJDb2VB?oc=5\" target=\"_blank\">AppLovin (NASDAQ:APP) Misses Q2 CY2026 Revenue Estimates, Stock Drops 21%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "AppLovin (NASDAQ:APP) 2026 წლის მეორე კვარტლის შემოსავლების პროგნოზებს ვერ მიაღწია, აქციები 21%-ით დაეცა",
+      "summaryKa": "კომპანია AppLovin-მა (NASDAQ:APP) ვერ მიაღწია 2026 წლის მეორე კვარტლის საპროგნოზო შემოსავლებს, რის გამოც მისი აქციები 21%-ით შემცირდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "fb8872bbb11d5b5f",
+      "title": "Why this CIO sees the S&P 500 climbing above $8,000 by year-end",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LbXYtLUlETUpIQzNwbTQtYmpiaVNTc1JBRHcwSFlFeDNKWmZnSWdkWUQtSVRfdXBLdlY5ZkZudnBBTDFaQzhZdWd0ZDh0aHZzWWRadWFkTlJVNkdpdFlBMm03M0JLZFhmbmRzaUoxSkczWFU?oc=5",
+      "publishedAt": "2026-08-05T20:37:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5LbXYtLUlETUpIQzNwbTQtYmpiaVNTc1JBRHcwSFlFeDNKWmZnSWdkWUQtSVRfdXBLdlY5ZkZudnBBTDFaQzhZdWd0ZDh0aHZzWWRadWFkTlJVNkdpdFlBMm03M0JLZFhmbmRzaUoxSkczWFU?oc=5\" target=\"_blank\">Why this CIO sees the S&P 500 climbing above $8,000 by year-end</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "რატომ ელოდება ეს საინვესტიციო დირექტორი S&P 500-ის 8,000 დოლარზე მაღლა ასვლას წლის ბოლომდე",
+      "summaryKa": "საინვესტიციო დირექტორი განმარტავს საკუთარ პროგნოზს, რომლის მიხედვითაც S&P 500 ინდექსი წლის ბოლომდე 8,000 დოლარს გადააჭარბებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9d593b95ee8f4330",
+      "title": "SanDisk stock sinks as revenue forecast falls short of expectations",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYWlWLVZzUlhwR0dnVlBmX0xDN3RqSm9PVzFIU0ozY0tiUWJtRDM4YUxIbHVyUDlJU0k5MDVpS3NDU3FoZ3IyYzQyQmlYTXlGMDVKZTJfdEhtMWtpdC1WMDZ0MV9fc29ST0drR2swZFdTbkpmVmtoTkhWMnNJYzZ3d25qdHZpaF9nYXRUcUVzWDNja3VLWHVqem9XVzlXMk4wQzNvdlhwejlsZkdLQ0I3MUFCRHRoVWtzYlRLUm1rS1hqZXVBVDJSNnZjSQ?oc=5",
+      "publishedAt": "2026-08-05T20:22:23.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPYWlWLVZzUlhwR0dnVlBmX0xDN3RqSm9PVzFIU0ozY0tiUWJtRDM4YUxIbHVyUDlJU0k5MDVpS3NDU3FoZ3IyYzQyQmlYTXlGMDVKZTJfdEhtMWtpdC1WMDZ0MV9fc29ST0drR2swZFdTbkpmVmtoTkhWMnNJYzZ3d25qdHZpaF9nYXRUcUVzWDNja3VLWHVqem9XVzlXMk4wQzNvdlhwejlsZkdLQ0I3MUFCRHRoVWtzYlRLUm1rS1hqZXVBVDJSNnZjSQ?oc=5\" target=\"_blank\">SanDisk stock sinks as revenue forecast falls short of expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "SanDisk-ის აქციები ეცემა, რადგან შემოსავლების პროგნოზი მოლოდინებს ჩამორჩება",
+      "summaryKa": "კომპანია SanDisk-ის აქციების ფასი ეცემა, რადგან მისი შემოსავლების პროგნოზირებული მაჩვენებელი მოლოდინებზე ნაკლები აღმოჩნდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "f352ccb2662adad0",
       "title": "Fed governor Lisa Cook: 'I am prepared to act' on interest rates if inflation remains elevated",
@@ -40,6 +88,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "13e7b8c95dc4d88b",
+      "title": "Gold surges on strong China demand as Bitcoin takes a breather",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1drUDZYemFhVU5jekloamZ0RjZ4Y1ZUVnV1VUxjeXVfMklhNERrNVBoZXBhTEdydGdGT0laRU1OcVk5Si1OeWYtUTh6cUozTWRlbmtKb2ZCSEswQjIybzdpNGdKZGxDajZJeWtPRUdMdjJsYjhkdkRSY0dITGVoVWJJNmhmejhvMThKRDViN2gxWTlBWFNGVWtTYzZsQm1vb3A4?oc=5",
+      "publishedAt": "2026-08-05T19:38:19.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1drUDZYemFhVU5jekloamZ0RjZ4Y1ZUVnV1VUxjeXVfMklhNERrNVBoZXBhTEdydGdGT0laRU1OcVk5Si1OeWYtUTh6cUozTWRlbmtKb2ZCSEswQjIybzdpNGdKZGxDajZJeWtPRUdMdjJsYjhkdkRSY0dITGVoVWJJNmhmejhvMThKRDViN2gxWTlBWFNGVWtTYzZsQm1vb3A4?oc=5\" target=\"_blank\">Gold surges on strong China demand as Bitcoin takes a breather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ჩინეთის მხრიდან ძლიერი მოთხოვნის ფონზე ოქროს ფასი მკვეთრად იზრდება, მაშინ როდესაც ბიტკოინი პაუზას აკეთებს",
+      "summaryKa": "ჩინეთში არსებული ძლიერი მოთხოვნის გამო ოქროს ფასი მკვეთრად იზრდება, ხოლო ბიტკოინის ზრდა ამავდროულად შეჩერდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "a25d4918095511a7",
       "title": "Oil Holds Two-Day Drop on Signs of Progress Toward Hormuz Deal",
       "source": "Bloomberg.com",
@@ -48,6 +108,30 @@
       "titleKa": "ნავთობის ფასი ორდღიან კლებას ინარჩუნებს ჰორმუზის შეთანხმებისკენ პროგრესის ნიშნების ფონზე",
       "summaryKa": "ჰორმუზის შეთანხმებისკენ მიღწეული პროგრესის ნიშნების ფონზე, ნავთობი ზედიზედ მეორე დღეა კლებას ინარჩუნებს.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d43ec0707e94e05d",
+      "title": "Gold Breaks Out From a Downtrend That Started in January 2026, What’s Next?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONG44blNLUm0tem5DNWJsU3RCOUx3dDFLVGUxUWZOVFlaclRqMThKblBPNjZsMm5EV2hHc1hDU0g1ZEZCYXEzenhBTzFDYzBhcDBxMzAycFY3aUI0VGwwUU9PNTFQY016Uk14cFBIQ3ROMWp5ZV9Fb19uZ2xpcEhkNGhsdjRDWlJKSnVQc1plcXIxc2s4TUdnR09aWUFhNV9NQWtMS3A2OElwWlE?oc=5",
+      "publishedAt": "2026-08-05T18:59:35.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxONG44blNLUm0tem5DNWJsU3RCOUx3dDFLVGUxUWZOVFlaclRqMThKblBPNjZsMm5EV2hHc1hDU0g1ZEZCYXEzenhBTzFDYzBhcDBxMzAycFY3aUI0VGwwUU9PNTFQY016Uk14cFBIQ3ROMWp5ZV9Fb19uZ2xpcEhkNGhsdjRDWlJKSnVQc1plcXIxc2s4TUdnR09aWUFhNV9NQWtMS3A2OElwWlE?oc=5\" target=\"_blank\">Gold Breaks Out From a Downtrend That Started in January 2026, What’s Next?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ოქრო აღწევს თავს დაღმავალ ტრენდს, რომელიც 2026 წლის იანვარში დაიწყო: რა იქნება შემდეგ?",
+      "summaryKa": "ოქროს ფასმა დაძლია კლების ტენდენცია, რომელიც 2026 წლის იანვარში დაიწყო, და სტატია განიხილავს მის სამომავლო პერსპექტივებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6cd6e6e5aa7f4a5d",
+      "title": "Bitcoin Tests Market’s Patience as Zcash Gives Holders Hope: Analysis",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVJxUjU4R253WGIybFg4NjFhUF9nSkhZSVN5RFpUYWJ5UFNZMDl0Ni1RelM1YUlPbm5XQ21mTzJmZ0xKYU91a2VoMUFDOVdJTXpFd3djelBtNnRCcmV4SktEQ1Y2QWs4d2JIcWV5OF8wSlB6OEZybms2WjJWRVV4MXMtbkxzNmtFczBwbHZzVTh5cy1JVDVmTFB6SF90NGRrRGc?oc=5",
+      "publishedAt": "2026-08-05T18:33:34.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVJxUjU4R253WGIybFg4NjFhUF9nSkhZSVN5RFpUYWJ5UFNZMDl0Ni1RelM1YUlPbm5XQ21mTzJmZ0xKYU91a2VoMUFDOVdJTXpFd3djelBtNnRCcmV4SktEQ1Y2QWs4d2JIcWV5OF8wSlB6OEZybms2WjJWRVV4MXMtbkxzNmtFczBwbHZzVTh5cy1JVDVmTFB6SF90NGRrRGc?oc=5\" target=\"_blank\">Bitcoin Tests Market’s Patience as Zcash Gives Holders Hope: Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ბიტკოინი ბაზრის მოთმინებას ცდის, ხოლო Zcash მფლობელებს იმედს აძლევს: ანალიზი",
+      "summaryKa": "წარმოდგენილი ანალიზის თანახმად, ბიტკოინი ბაზრის მოთმინებას ცდის, ხოლო კრიპტოვალუტა Zcash თავის მფლობელებს იმედის საფუძველს აძლევს.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
