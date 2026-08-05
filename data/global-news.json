@@ -1,8 +1,55 @@
 {
-  "updatedAt": "2026-08-05T19:36:43.358Z",
+  "updatedAt": "2026-08-05T20:47:30.689Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "f352ccb2662adad0",
+      "title": "Fed governor Lisa Cook: 'I am prepared to act' on interest rates if inflation remains elevated",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV1czUFF0Zmpmd3VHcUUtZDJId0hCZlk1UUJsRzY5ckhwZnZrOEsxb3hudDdVTjdockppME9odzRzaW1IZ3hMNTZqVWR2NHdVLUU0NnhMdmllOTE0ZEJ4Q25IN2ZTbUVjVWFuaWVHYXlrRE0tR292ckctenl4aWNwOG9sYXhCLTZMQ0g4LWs4akJJdTJ0cW1ZRUFsazdfbXFfNnlmUGp6OENCNUNfQW82ME9MVUtKTllaMXJzRkNwYzlzVEVpdF9SSlFRdno5OWNMaEZOR3FXV3M4MU1BMUV2c0ZMNzlZdGU3SzZj?oc=5",
+      "publishedAt": "2026-08-05T20:13:09.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV1czUFF0Zmpmd3VHcUUtZDJId0hCZlk1UUJsRzY5ckhwZnZrOEsxb3hudDdVTjdockppME9odzRzaW1IZ3hMNTZqVWR2NHdVLUU0NnhMdmllOTE0ZEJ4Q25IN2ZTbUVjVWFuaWVHYXlrRE0tR292ckctenl4aWNwOG9sYXhCLTZMQ0g4LWs4akJJdTJ0cW1ZRUFsazdfbXFfNnlmUGp6OENCNUNfQW82ME9MVUtKTllaMXJzRkNwYzlzVEVpdF9SSlFRdno5OWNMaEZOR3FXV3M4MU1BMUV2c0ZMNzlZdGU3SzZj?oc=5\" target=\"_blank\">Fed governor Lisa Cook: 'I am prepared to act' on interest rates if inflation remains elevated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ფედერალური სარეზერვო სისტემის მმართველი ლიზა კუკი: „მზად ვარ ვიმოქმედო“ საპროცენტო განაკვეთებზე, თუ ინფლაცია მაღალ დონეზე დარჩება",
+      "summaryKa": "ფედერალური სარეზერვო სისტემის მმართველი ლიზა კუკი აცხადებს, რომ მზად არის მიიღოს ზომები საპროცენტო განაკვეთებთან დაკავშირებით, თუ ინფლაცია კვლავ მაღალი დარჩება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "28ca2c131c6e555d",
+      "title": "Fed’s Cook Says Ready to Raise Rates If Inflation Doesn’t Cool",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0tpZGZfOTlSMDI2MG5CUkhRSXFPQl91ZnpBUTZtdHozVDdrNDZ0N1djcFZ6LURxMXU0NFhrMTdlOUtYN3Y2cU85OExLYjQ1UjdraU5jTjFiaHdhSkRMMUxKR1dvaGV1ZXRKc0hEb0xzdXNnbVlrRVdTekpnd19QQlJVMW5FazlKTmgyVjRJdFpMc3dBbHNxaXBUV0RGSVlvYWJjSlRjZVpDSGhVZHpORUExcw?oc=5",
+      "publishedAt": "2026-08-05T20:05:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0tpZGZfOTlSMDI2MG5CUkhRSXFPQl91ZnpBUTZtdHozVDdrNDZ0N1djcFZ6LURxMXU0NFhrMTdlOUtYN3Y2cU85OExLYjQ1UjdraU5jTjFiaHdhSkRMMUxKR1dvaGV1ZXRKc0hEb0xzdXNnbVlrRVdTekpnd19QQlJVMW5FazlKTmgyVjRJdFpMc3dBbHNxaXBUV0RGSVlvYWJjSlRjZVpDSGhVZHpORUExcw?oc=5\" target=\"_blank\">Fed’s Cook Says Ready to Raise Rates If Inflation Doesn’t Cool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ფედ-ის კუკი აცხადებს, რომ მზად არის გაზარდოს განაკვეთები, თუ ინფლაცია არ შენელდება",
+      "summaryKa": "ფედერალური სარეზერვო სისტემის წარმომადგენელი კუკი გამოხატავს მზადყოფნას საპროცენტო განაკვეთების გაზრდის შესახებ იმ შემთხვევაში, თუ ინფლაცია არ შემცირდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "60bec2bbebc71246",
+      "title": "Bitcoin faces its toughest month: Can it rally in August?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYThna1huaXFGajVVREk1bldKWjRsTzJBMmVGLXE1X3o5dzM5czJ6RktmekZQT0pkSFFCQ1lPTThhX0pmeXdTT1RLTXZUS0pxSWV2em1vYkhMRGF3X1ctVFZLc3N3RENsTTl4eWFaRmltQnVBUW9rN0xqZ1loeVU4UVd0Tk1GQlE3?oc=5",
+      "publishedAt": "2026-08-05T19:41:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYThna1huaXFGajVVREk1bldKWjRsTzJBMmVGLXE1X3o5dzM5czJ6RktmekZQT0pkSFFCQ1lPTThhX0pmeXdTT1RLTXZUS0pxSWV2em1vYkhMRGF3X1ctVFZLc3N3RENsTTl4eWFaRmltQnVBUW9rN0xqZ1loeVU4UVd0Tk1GQlE3?oc=5\" target=\"_blank\">Bitcoin faces its toughest month: Can it rally in August?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ბიტკოინი ყველაზე რთული თვის წინაშე დგას: შეძლებს თუ არა ის გაზრდას აგვისტოში?",
+      "summaryKa": "ბიტკოინი წლის ყველაზე რთულ პერიოდს გადის და ისმის კითხვა, შეძლებს თუ არა ის ფასის აღდგენას აგვისტოს თვეში.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a25d4918095511a7",
+      "title": "Oil Holds Two-Day Drop on Signs of Progress Toward Hormuz Deal",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSldwSGlqM2UyQkNEWXNUbVNLNGUxZ2xMVUsxVFR3TmI0TElkazcwWnhLbFByNE05OWhNbU93MWNGQUZYNGkyYi1qWTNmZEV0M1MyMVY1ZWZiQ2szbDlIQlJJVm5OalNYbnhiOVVDYk01bzRUTmc3VFVtNGVGUmctejBrSUZQY3F1a1ROMjJJN0RFaHFpZjlUZzlHZGY?oc=5",
+      "publishedAt": "2026-08-05T19:20:43.000Z",
+      "titleKa": "ნავთობის ფასი ორდღიან კლებას ინარჩუნებს ჰორმუზის შეთანხმებისკენ პროგრესის ნიშნების ფონზე",
+      "summaryKa": "ჰორმუზის შეთანხმებისკენ მიღწეული პროგრესის ნიშნების ფონზე, ნავთობი ზედიზედ მეორე დღეა კლებას ინარჩუნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "c1c3d9c7bdc23b23",
       "title": "Ghana Made $1.9 Billion Loss on Gold Purchases in 2025, IMF Says",
@@ -40,6 +87,30 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "2ade0f8e678177ab",
+      "title": "Why Hasn’t XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOenJzb3pDV0tNbmQ2Nm5zZlFrOVprb0pEWHNhejBvdXlIcXlVT3lJU1pEV1hTWlhGQk15R3NyTGt5LS1ab1VQQld1WnYxZ2lBSy1lV3VaU3BwNUhkVkl2aHA0Si14UUlsMHVaSXpqc1NSQXQ4YWxMbHBZd2U2RVNVUW1QZF93SFF3OVVZ?oc=5",
+      "publishedAt": "2026-08-05T16:57:02.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOenJzb3pDV0tNbmQ2Nm5zZlFrOVprb0pEWHNhejBvdXlIcXlVT3lJU1pEV1hTWlhGQk15R3NyTGt5LS1ab1VQQld1WnYxZ2lBSy1lV3VaU3BwNUhkVkl2aHA0Si14UUlsMHVaSXpqc1NSQXQ4YWxMbHBZd2U2RVNVUW1QZF93SFF3OVVZ?oc=5\" target=\"_blank\">Why Hasn’t XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "რატომ არ მიუღწევია XRP-ს ახალი მაქსიმუმებისთვის ბიტკოინისა და Ethereum-ის მსგავსად, მიუხედავად იმისა, რომ Ripple წამყვანი ფინანსური ინსტიტუტი გახდა",
+      "summaryKa": "სათაურში დასმულია კითხვა, თუ რატომ ვერ მიაღწია XRP-მ ახალ მაქსიმალურ ნიშნულებს ბიტკოინისა და Ethereum-ის მსგავსად, მიუხედავად Ripple-ის წამყვან ფინანსურ ინსტიტუტად ქცევისა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "85c8206f67d6fb09",
+      "title": "Shell Q2 Earnings Beat Estimates as Higher Oil Prices Boost Results",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWMyLUtObFhLQXJWOFFNODJ4UEM2NGx2MV94dGVqVHB2WVhuSVJ4cUwzTXF5alVScmVvRGJIRDRwMFlYQ19oY1A3TFBLT2hSZFFDVlBZYkJnaUNLSWV4aHZvNHFPcWU3N1RKTUFVejNqT1I3TDRoTTNXNWtULWEwdGN0YnpJcDBfQVNTVjBvekpfdDg?oc=5",
+      "publishedAt": "2026-08-05T16:45:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWMyLUtObFhLQXJWOFFNODJ4UEM2NGx2MV94dGVqVHB2WVhuSVJ4cUwzTXF5alVScmVvRGJIRDRwMFlYQ19oY1A3TFBLT2hSZFFDVlBZYkJnaUNLSWV4aHZvNHFPcWU3N1RKTUFVejNqT1I3TDRoTTNXNWtULWEwdGN0YnpJcDBfQVNTVjBvekpfdDg?oc=5\" target=\"_blank\">Shell Q2 Earnings Beat Estimates as Higher Oil Prices Boost Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Shell-ის მე-2 კვარტლის მოგებამ მოლოდინს გადააჭარბა, რადგან ნავთობის მაღალმა ფასებმა შედეგები გააუმჯობესა",
+      "summaryKa": "ნავთობის მაღალი ფასების წყალობით, კომპანია Shell-ის მეორე კვარტლის ფინანსურმა მაჩვენებლებმა პროგნოზირებულზე უკეთესი შედეგი აჩვენა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "2ac5e30ad3824ea6",
       "title": "Sandisk stock steady ahead of AI highflier's earnings",
       "source": "Yahoo Finance",
@@ -49,6 +120,18 @@
       "titleKa": "Sandisk-ის აქციები სტაბილურია AI-ის წამყვანი კომპანიის კვარტალური ანგარიშგების მოლოდინში",
       "summaryKa": "Sandisk-ის აქციები სტაბილურობას ინარჩუნებს ხელოვნური ინტელექტის (AI) სფეროს ერთ-ერთი უმსხვილესი წარმომადგენლის ფინანსური შედეგების გამოქვეყნებამდე.",
       "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "87c8f0214c0a426e",
+      "title": "Stocks stall tracking earnings, oil dips on Iran-Oman Hormuz move",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVlFSNDB5c3o0OEItV1d2bFZJNU53ZjRVZHA0cGZsdnk3UUtqc1NVZWtHUmhLX29OeTlURW1kRmxCdW45VXBodndLV3hiTmNPcURVeWpSS1pyOGgzUVN2Uzdfb0pUSFU2bXBucEdxZkREaUZKd01YcFMzcTJGc2JKa2loWmQzMzVEOG5DRV9UanZKeDlMWE94RVRGaEFkTFB1V1lJcGNB?oc=5",
+      "publishedAt": "2026-08-05T16:23:13.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPVlFSNDB5c3o0OEItV1d2bFZJNU53ZjRVZHA0cGZsdnk3UUtqc1NVZWtHUmhLX29OeTlURW1kRmxCdW45VXBodndLV3hiTmNPcURVeWpSS1pyOGgzUVN2Uzdfb0pUSFU2bXBucEdxZkREaUZKd01YcFMzcTJGc2JKa2loWmQzMzVEOG5DRV9UanZKeDlMWE94RVRGaEFkTFB1V1lJcGNB?oc=5\" target=\"_blank\">Stocks stall tracking earnings, oil dips on Iran-Oman Hormuz move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "აქციების ზრდა შეფერხდა შემოსავლების ანგარიშების ფონზე, ხოლო ნავთობის ფასი შემცირდა ირან-ომანის ჰორმუზის ნაბიჯის გამო",
+      "summaryKa": "აქციების ზრდა კორპორატიული შემოსავლების პარალელურად შეჩერდა, ხოლო ნავთობის ფასმა დაიკლო ირანსა და ომანს შორის ჰორმუზის სრუტესთან დაკავშირებული ქმედებების გამო.",
+      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -64,13 +147,14 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "a25d4918095511a7",
-      "title": "Oil Holds Two-Day Drop on Signs of Progress Toward Hormuz Deal",
+      "id": "3cf03993646da02a",
+      "title": "Watch Stocks Rise on Earnings and Hopes for Hormuz Deal",
       "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSldwSGlqM2UyQkNEWXNUbVNLNGUxZ2xMVUsxVFR3TmI0TElkazcwWnhLbFByNE05OWhNbU93MWNGQUZYNGkyYi1qWTNmZEV0M1MyMVY1ZWZiQ2szbDlIQlJJVm5OalNYbnhiOVVDYk01bzRUTmc3VFVtNGVGUmctejBrSUZQY3F1a1ROMjJJN0RFaHFpZjlUZzlHZGY?oc=5",
-      "publishedAt": "2026-08-05T15:30:34.000Z",
-      "titleKa": "ნავთობის ფასი ორდღიან კლებას ინარჩუნებს ჰორმუზის შეთანხმებისკენ პროგრესის ნიშნების ფონზე",
-      "summaryKa": "ჰორმუზის შეთანხმებისკენ მიღწეული პროგრესის ნიშნების ფონზე, ნავთობი ზედიზედ მეორე დღეა კლებას ინარჩუნებს.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcWRCTHlTaXdQRm9MMVpRUkhWcnVzX2RPNEpoT254Y0ZyWF84dVZkZEV2cmdIcEtiX2s1Nnp3VTM1Z01aOVFqZVMycFZvZUVjUXR3OTFDZ1B4a0h2QXpqQkpGV3I1V0VxUVFSZi0zNV9TX1p1U3Y5RC13ZEVlVEJTd0xWU1l1MjROSW9xekkxTzBHd3FoVUVseUZvakFQc1NKaHpvamY5cw?oc=5",
+      "publishedAt": "2026-08-05T15:48:33.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcWRCTHlTaXdQRm9MMVpRUkhWcnVzX2RPNEpoT254Y0ZyWF84dVZkZEV2cmdIcEtiX2s1Nnp3VTM1Z01aOVFqZVMycFZvZUVjUXR3OTFDZ1B4a0h2QXpqQkpGV3I1V0VxUVFSZi0zNV9TX1p1U3Y5RC13ZEVlVEJTd0xWU1l1MjROSW9xekkxTzBHd3FoVUVseUZvakFQc1NKaHpvamY5cw?oc=5\" target=\"_blank\">Watch Stocks Rise on Earnings and Hopes for Hormuz Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "თვალი ადევნეთ აქციების ზრდას შემოსავლებისა და ჰორმუზის შეთანხმების იმედების ფონზე",
+      "summaryKa": "აქციების ზრდა განპირობებულია კომპანიების ფინანსური შემოსავლებითა და ჰორმუზის სრუტის შეთანხმების მიღწევის იმედებით.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -84,6 +168,18 @@
       "titleKa": "ტექნოლოგიური სექტორის მკვეთრი ზრდა ოთხ დღეში Nasdaq 100-ის 3.5 ტრილიონი დოლარით მატებას განაპირობებს",
       "summaryKa": "ტექნოლოგიური სექტორის მკვეთრმა ზრდამ ოთხ დღეში Nasdaq 100-ს 3.5 ტრილიონი დოლარის მოგება მოუტანა.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b2891f40e3943745",
+      "title": "Crypto's next big move: The catalysts investors should be watching",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1ItOUM0LVZsclZZb2h1T0NHcW4wektQTm1XMnExSERyQzE5ZkFQaFpkWUMyX21tN2lLSEN5ZW01OHMzYlRKX0FyNDA3Y0JuU2xKczVHVGEyem8taTE2bnRFTmFuSkhZRWFzMzNsZUlUN2t0U0o1VXhKWjBENnVHblRwSWo?oc=5",
+      "publishedAt": "2026-08-05T15:24:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1ItOUM0LVZsclZZb2h1T0NHcW4wektQTm1XMnExSERyQzE5ZkFQaFpkWUMyX21tN2lLSEN5ZW01OHMzYlRKX0FyNDA3Y0JuU2xKczVHVGEyem8taTE2bnRFTmFuSkhZRWFzMzNsZUlUN2t0U0o1VXhKWjBENnVHblRwSWo?oc=5\" target=\"_blank\">Crypto's next big move: The catalysts investors should be watching</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "კრიპტოვალუტის შემდეგი დიდი ნაბიჯი: კატალიზატორები, რომლებსაც ინვესტორები უნდა აკვირდებოდნენ",
+      "summaryKa": "სტატია ყურადღებას ამახვილებს იმ ძირითად კატალიზატორებზე, რომლებსაც ინვესტორები კრიპტობაზარზე შემდეგი მნიშვნელოვანი მოძრაობის მოლოდინში უნდა დააკვირდნენ.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
