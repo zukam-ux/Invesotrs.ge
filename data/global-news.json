@@ -1,8 +1,85 @@
 {
-  "updatedAt": "2026-08-05T01:16:29.136Z",
+  "updatedAt": "2026-08-05T04:35:17.384Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "b8178c3ba6951984",
+      "title": "‘Oil in Our Time’ May Be as Good as This Gets",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUtYbE1sLXB1YTN4RDJNUEp6UEY0aXRRMWVGc29mRGF3c1RLNG5YYUp3NmhFSURUc19zcXBBclZscTNyWDYtSkV1ajB3ODZEa2FpNkliUnBwWUdpSGlBdFpkTTZmLWRrem13cXJEWDBMS3BTbHVIelhOM01YTHprdzNPTzdtNks0b2x2cERFQmhveUlkX0RNdDFGN1RDNUY0eUprclQzWndjUGV1cEs5SA?oc=5",
+      "publishedAt": "2026-08-05T04:22:00.000Z",
+      "titleKa": "„'ნავთობი ჩვენს დროში' შეიძლება იმაზე უკეთესი აღარ გახდეს, რაც ახლა არის“",
+      "summaryKa": "სათაური გამოთქვამს მოსაზრებას, რომ „ნავთობი ჩვენს დროში“ შეიძლება საუკეთესო მდგომარეობაში იყოს და იმაზე უკეთესი აღარ გახდეს, რაც ახლა არის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1499f4e1c8fb4a2a",
+      "title": "Thai Inflation Eases to 1.95% in July, Slowing for Third Month",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWlPLWNUXzBkNDR4ZE00NFFFSWx0Qmx5VldNY0xMcHNrWlFxdFJjWkxfZTFSckdDU1FIa0stRzdHeU9XY2lRbEtOMENUQTRnX2oyWEpFZkNKNDVBTGk1cXVBeHlORl9NTlRlU2tKWTRIM2lEUmV2TnNaU2hhdnJBUDVSS0tlZjYwOEZFTHNrbmFPenFNZ2ExdGg1b2tHV1hGckV4WjJGY3g2azEyT2hiQg?oc=5",
+      "publishedAt": "2026-08-05T03:21:00.000Z",
+      "titleKa": "ტაილანდის ინფლაცია ივლისში 1.95%-მდე შემცირდა და ზედიზედ მესამე თვეა შენელდა",
+      "summaryKa": "ტაილანდში ინფლაციის მაჩვენებელი ივლისში 1.95%-მდე შემცირდა, რაც ზედიზედ მესამე თვეა შენელების ტენდენციას აჩვენებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a25d4918095511a7",
+      "title": "Oil Holds Two-Day Drop on Signs of Progress Toward Hormuz Deal",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSldwSGlqM2UyQkNEWXNUbVNLNGUxZ2xMVUsxVFR3TmI0TElkazcwWnhLbFByNE05OWhNbU93MWNGQUZYNGkyYi1qWTNmZEV0M1MyMVY1ZWZiQ2szbDlIQlJJVm5OalNYbnhiOVVDYk01bzRUTmc3VFVtNGVGUmctejBrSUZQY3F1a1ROMjJJN0RFaHFpZjlUZzlHZGY?oc=5",
+      "publishedAt": "2026-08-05T02:44:00.000Z",
+      "titleKa": "ნავთობის ფასი ორდღიან კლებას ინარჩუნებს ჰორმუზის შეთანხმებისკენ პროგრესის ნიშნების ფონზე",
+      "summaryKa": "ჰორმუზის შეთანხმებისკენ მიღწეული პროგრესის ნიშნების ფონზე, ნავთობი ზედიზედ მეორე დღეა კლებას ინარჩუნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1ad7cb63a791c31d",
+      "title": "AMD Earnings 'Were Good,' Says Analyst Even as Stock Sinks 9% After Hours: Wall Street Wanted a 'Blowout' Forecast",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXRsQklURDZWOGc4ZHhfQzZmMDFrY3VEYUFKY0J1bTAtbXZPUm5IWGV4ZVBZcm9jQ2YwdlNFYndSaDMxNU1iRGIxaVNldHphWmMzT2xLOEprcWJtWG1VYmQtV3IwWlZ2TTB6ZTlFYnNONTVIa0x6elY1bF9pR19MNjNwbWJIZjVMSjNTOFoxdTY4WndrMkYw?oc=5",
+      "publishedAt": "2026-08-05T01:57:00.000Z",
+      "titleKa": "AMD-ის შემოსავლები „კარგი იყო“, აცხადებს ანალიტიკოსი იმ ფონზეც კი, როდესაც აქციები მუშაობის შემდგომ საათებში 9%-ით დაეცა: უოლ სტრიტს „განსაცვიფრებელი“ პროგნოზი სურდა",
+      "summaryKa": "ანალიტიკოსის თქმით, AMD-ის შემოსავლები „კარგი იყო“, თუმცა აქციები მუშაობის შემდგომ საათებში 9%-ით დაეცა, ხოლო უოლ სტრიტს „განსაცვიფრებელი“ პროგნოზი სურდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6ce5174b33e6c425",
+      "title": "Institutions Now Drive 72% of Crypto’s OTC Flow, Wintermute Data Shows",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSGJCakJhMkVheUVWOTg0XzZtZ1lMVkxDTTRGZjlhaTBfMENIeU9nZFlqM0VEYmNqakFKdWZONll3endiREM1OEw2Z3ZKVzNUbVRVNEc2OWUxWUx1ZTdBMmxxWXExdVU5SlF3SURvNnNtZDF5T2JobGo4cGtsQUhySnNBZ0h6Slo1VTNTbFByQW01ZWVQSGdQOU9nV2Zhdw?oc=5",
+      "publishedAt": "2026-08-05T01:50:00.000Z",
+      "titleKa": "Wintermute-ის მონაცემებით, კრიპტოვალუტის OTC ნაკადების 72%-ს ახლა ინსტიტუციონალები მართავენ",
+      "summaryKa": "Wintermute-ის მონაცემები აჩვენებს, რომ კრიპტოვალუტის OTC ნაკადების 72%-ს ამჟამად ინსტიტუციონალური მოთამაშეები მართავენ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5acef2c07257760b",
+      "title": "Philippine Inflation Slows a Third Month, Easing Pressure for Rate Hike",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTlh2ZWY2RzJLRld5UmY4bU9jQzBtUlVUM21Melo1ME1XY1B6M05JZUpZSEoxUFhiRkRtQmVDbUMyU2hsR1kxWWJ0R2d1MHdlYWI1M3NObkVoM0tJMml6VVltSFBxTzBab2ZGVVF5MDlJbzQ4UC00ZS1JbzN4dm9IemxndXFXZE56ak1LXzFlUHF6ZzNlUndUUGZaRkozQ0xoN1k0YmstSjZUY1IwNmloVS1iSGZKLWV2bVhFc2d3?oc=5",
+      "publishedAt": "2026-08-05T01:19:00.000Z",
+      "titleKa": "ფილიპინების ინფლაცია ზედიზედ მესამე თვეა ნელდება, რაც ამცირებს საპროცენტო განაკვეთის გაზრდის წნეხს",
+      "summaryKa": "ფილიპინებში ინფლაციის ტემპი მესამე თვეა ნელდება, რაც საპროცენტო განაკვეთის გაზრდის საჭიროების წნეხს ამცირებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "89490c220dd3443d",
+      "title": "Ex-DOJ prosecutor Amanda Wick says crypto is Swift in reverse",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXM5WTVWS0tTSEdRbVZ4ZjdQZlBHbHZJcXQ0WGlhVU1jbWRzNVFkczExQkszYk16QU00ZEZMWndWMjlxZWp6bEVNRi1EdmFLM24tVnJqOEM0dlctUVNTdkhWVmE3UDZpM1pxX2dDZDlraGJ2eXFnN3RhM0YyeGRlWFdZZVlIZDNxTktrMGxrMEstd2pBTmZJbVFn?oc=5",
+      "publishedAt": "2026-08-05T00:57:00.000Z",
+      "titleKa": "იუსტიციის დეპარტამენტის ყოფილი პროკურორი ამანდა ვიკი აცხადებს, რომ კრიპტო არის Swift უკუღმა",
+      "summaryKa": "აშშ-ის იუსტიციის დეპარტამენტის ყოფილმა პროკურორმა ამანდა ვიკმა განაცხადა, რომ კრიპტოვალუტა არის Swift-ის სისტემა უკუღმა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "208ae3375d7218e7",
       "title": "AMD and SpaceX Earnings: Good or Bad?",
@@ -15,6 +92,28 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "f9d75ac6d2383cdb",
+      "title": "SpaceX beats Wall Street expectations in first earnings release",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkpsa2pFeVJPN0trR05QcVAzM1ZzUDVTWGNTU0VCcjAzdEtzSVBEYjVWYnNFSFFpWkpUZ0l6VXN1ZHFiSHBLTDVEWmN0S3lkZFhRallHYU83Znh0M0RXeDhLaDhRUVlMY1JEWEk3X0l3Nk5qbGh3NDNrSG9DMnNiQ01pR2toTElrMDhJN0dpTE1rN044S0t2TXBKZGNadlZLUUNJLQ?oc=5",
+      "publishedAt": "2026-08-04T23:54:34.000Z",
+      "titleKa": "SpaceX-მა პირველივე ფინანსურ ანგარიშში უოლ სტრიტის მოლოდინებს გადააჭარბა",
+      "summaryKa": "SpaceX-მა თავის პირველ ფინანსურ ანგარიშში გადააჭარბა უოლ სტრიტის მოლოდინებს.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8f77aaf6cf8830c3",
+      "title": "SpaceX exceeds revenue estimates in first earnings report since IPO",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLURMU2R0YVJwWnJUS3hmWFpIcnNXVnNLb3VETEVuX0N6dHJUajB0WDJ0YlNLMmZaODM5bjF3WHJ0ZVNydGx1M2poVXNrdkNVNHRwWGM0UnduTWJRdldxcXdjeG9FZEt0S0N4NGgyZG9jOVNKd0RlTVg2S29hNWVWZEN0ejk2WDdGU2RyMkpZdFFyWWljMmptMnZNbU1PYjdfVlMyNnY1eVhjak9DZUFia1ZEa1ZQMVM3bFhoSmxOM1FvakttNkRLcA?oc=5",
+      "publishedAt": "2026-08-04T23:49:37.000Z",
+      "titleKa": "SpaceX-მა IPO-ს შემდეგ პირველ ფინანსურ ანგარიშში შემოსავლების პროგნოზებს გადააჭარბა",
+      "summaryKa": "SpaceX-მა IPO-ს განხორციელების შემდეგ პირველ ფინანსურ ანგარიშში გადააჭარბა შემოსავლების შესახებ არსებულ პროგნოზებს.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "a9600816d9afa731",
       "title": "SpaceX Reveals AI Splurge in First Earnings Report Since IPO",
       "source": "Bloomberg.com",
@@ -23,17 +122,6 @@
       "titleKa": "SpaceX-მა IPO-ს შემდეგ პირველ ფინანსურ ანგარიშში AI-ზე გაწეული დიდი ხარჯები გაამჟღავნა",
       "summaryKa": "IPO-ს შემდგომ გამოქვეყნებულ თავის პირველ ფინანსურ ანგარიშში კომპანია SpaceX-მა ხელოვნურ ინტელექტზე (AI) გაწეული დიდი ხარჯები გამოავლინა.",
       "category": "ტექნოლოგიები და AI",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "a25d4918095511a7",
-      "title": "Oil Holds Two-Day Drop on Signs of Progress Toward Hormuz Deal",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSldwSGlqM2UyQkNEWXNUbVNLNGUxZ2xMVUsxVFR3TmI0TElkazcwWnhLbFByNE05OWhNbU93MWNGQUZYNGkyYi1qWTNmZEV0M1MyMVY1ZWZiQ2szbDlIQlJJVm5OalNYbnhiOVVDYk01bzRUTmc3VFVtNGVGUmctejBrSUZQY3F1a1ROMjJJN0RFaHFpZjlUZzlHZGY?oc=5",
-      "publishedAt": "2026-08-04T23:02:00.000Z",
-      "titleKa": "ნავთობის ფასი ორდღიან კლებას ინარჩუნებს ჰორმუზის შეთანხმებისკენ პროგრესის ნიშნების ფონზე",
-      "summaryKa": "ჰორმუზის შეთანხმებისკენ მიღწეული პროგრესის ნიშნების ფონზე, ნავთობი ზედიზედ მეორე დღეა კლებას ინარჩუნებს.",
-      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
