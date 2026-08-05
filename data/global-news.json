@@ -1,8 +1,118 @@
 {
-  "updatedAt": "2026-08-05T10:03:27.746Z",
+  "updatedAt": "2026-08-05T12:13:19.811Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "0450bcc93a6f2f2a",
+      "title": "S&P 500 Poised for Another Record as AI Spending Narrative Holds",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY1JlbEsyV1ZQV09acUc5bWtaVjdqM0NhSHRWak5QQzMweFJqc3FiYnAwajN6T1p5eVd6SWxjNmUwUFlSNG81d2QxdDFUVkJ0UkJOQ2ZjNmtoMENGUy1hZmtKUEpadktieFZHS1VjcUxSeEczLXFKREV4c0ZiOXlZT2dJNnZqRV91SkJITndXZVl4TWxlU3dqWHJ6blpHRTZfVEdlRTNkWHMwdTk1WFhkaWdORXB6VXZxZXFDajVMNmh1dnVsWW9NSnEtMUVZbE1tc3c?oc=5",
+      "publishedAt": "2026-08-05T11:52:30.000Z",
+      "titleKa": "S&P 500 მზად არის კიდევ ერთი რეკორდისთვის, რადგან AI-ზე ხარჯების შესახებ ნარატივი ნარჩუნდება",
+      "summaryKa": "S&P 500 მზად არის მორიგი რეკორდის დასამყარებლად, რადგან ხელოვნურ ინტელექტზე ხარჯების შესახებ ნარატივი კვლავ ძალაში რჩება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8251c4f06f9b3159",
+      "title": "'This was not an exceptional result': Why AMD stock tanked 10% after earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUHJRblZ1TV9YZkQ3Rld4SHIxYWdzUjdTNmZTTnlmOGphVE1ySWszU2d6bkRJMVp6OHVkTERNNmhpSFdMbTVsWmpTS3NtQ2pHOHdJRmtSMkNvYXRFeE5BNUNYaTcwY2g0ZDdKUk40bHNRS1FENC1wTU9Sb0Q2Mk0tWUZ4UXE4am81b3hQYzIzWUR2UmhjOTRyUWVVejM5R2Z4UzJYdU1ibkVWZnIxWU5PeVNmLTJKVmd2MDU1RkFXWkRVMzRUajhZUG9n?oc=5",
+      "publishedAt": "2026-08-05T11:21:24.000Z",
+      "titleKa": "„ეს არ იყო განსაკუთრებული შედეგი“: რატომ დაეცა AMD-ის აქციები 10%-ით ფინანსური შედეგების გამოქვეყნების შემდეგ",
+      "summaryKa": "AMD-ის აქციების ფასი ფინანსური ანგარიშგების გამოქვეყნების შემდეგ 10%-ით დაეცა, რაც შეფასდა როგორც „არაგამორჩეული შედეგი“.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3e292db4aff534e8",
+      "title": "Watch Oil Normalization to Take 'A Long Time,' Ashford Says",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTgyVGduRVlVczhqemMxLVd6dVBzWkJUazJxYTdGV0JhNHNQeHk5OEZwVUNLSFdOMnRobjlNNTM1OUUzYzdKRVQyRy1vSGhYMVV4Wng2akFTY3duOVk3ZEdpSklLdGFqUGt3QTl2eUVONjhQTkM3NDNvRUhPWmJEWFM5dTVGR3BNLWw3LW53ZVhjMkJjRXBZam9kU2Y4bk5DRDlvdkdvX3Q?oc=5",
+      "publishedAt": "2026-08-05T11:08:00.000Z",
+      "titleKa": "ნავთობის ნორმალიზაციის დაკვირვებას „დიდი დრო“ დასჭირდება, ამბობს Ashford",
+      "summaryKa": "აშფორდის განცხადებით, ნავთობის ნორმალიზაციის პროცესზე დაკვირვებას დიდი დრო დასჭირდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5ee9de666bc8eb76",
+      "title": "Keeping Your Bitcoin Riches Safe Has Never Been Harder",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNk9vb1RXRW05SUE1RUxnWmhYTmlHcDJkSXM5OTJHOGJOenh3cVBuT2UyRkR3NjJaeTNWYldOUFpqd2I4V182SkZLTXJIdWZzcUNaVTZ2UHhVVHJIMUdPYU1FTzYxSkpNMUxUaFBNOURWNW1BaWVtLVhTUmVrcWF2TzV4d2RGZ1RHYmI2d24wTkEyUGp3UUJHZ216LXlPTGV3SGl0QmtFTVBaWFZLY21KbGNDeHY?oc=5",
+      "publishedAt": "2026-08-05T11:00:09.000Z",
+      "titleKa": "თქვენი Bitcoin-ის სიმდიდრის უსაფრთხოდ შენახვა არასოდეს ყოფილა ასე რთული",
+      "summaryKa": "ბიტკოინის სახით დაგროვილი სიმდიდრის უსაფრთხოდ შენარჩუნება დღეს იმაზე რთულია, ვიდრე ოდესმე ყოფილა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3d55c2a23d0bbafb",
+      "title": "West Point Gold Drills 30.4 m of 2.31 g/t Au at Tyro Main Zone",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkxGSG82aVJLdXN2N2ZDYmNyN2hkeE9nVV9tdllVUWdrNFBYSjRuaG5IbE5TNnZGTGpUQ3J2b2NkanVGVU01bHIzODJWTDktd2R3OS1fU3VzS1l1aWpHSUtWcVgyS09FVXlKTGUyME5EeG5xUTZfeGh4MlhWdGYteW9jOS1lS1lFcC1tbldBNXRTdUVXWEpmdDdMRQ?oc=5",
+      "publishedAt": "2026-08-05T11:00:00.000Z",
+      "titleKa": "West Point Gold-მა 30.4 მეტრი სიგრძის 2.31 გ/ტ Au-ს შემცველობის საბადო გაბურღა Tyro Main Zone-ზე",
+      "summaryKa": "კომპანია West Point Gold-მა Tyro Main Zone-ზე გაბურღა 30.4 მეტრი სიგრძის მონაკვეთი 2.31 გ/ტ ოქროს შემცველობით.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "35a9a280633dd85b",
+      "title": "Pirate Gold Discovers Widespread Advanced Argillic Alteration at Clipper Brook",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0N6Ry12VnJtVDNlYnc1VjlqOHIyeENqeTJwd1AzXzg2RVJoUEhEYnFpM0pJcDhnSHRZaUNLWkpWeWExb1RtWE9BQ25Nc2NJbTUzaTNTbnhleXlxWktURFNUazdwaUVmdlg5SDFZYkdTbVRzcVJQdHNGc25kbkhtNlVQZFFYSGNkb3F2SC00VXFWSkVxaFY1Q2IzZHU5Q3BWN2w4QzlOdzBkNGtrd3lMMA?oc=5",
+      "publishedAt": "2026-08-05T11:00:00.000Z",
+      "titleKa": "Pirate Gold-მა Clipper Brook-ზე ფართოდ გავრცელებული მოწინავე არგილითური ცვლილებები აღმოაჩინა",
+      "summaryKa": "კომპანია Pirate Gold-მა Clipper Brook-ის ტერიტორიაზე ფართოდ გავრცელებული მოწინავე არგილითური ცვლილებები აღმოაჩინა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "aa6fef9c215e52c0",
+      "title": "Disney's Q3 earnings top estimates on demand for experiences, company exits A+E Media stake",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZkY5Z1pRMExIYlhoalhYQk5wTU9lZmV5SVJtSlVUYkdtN29mQ0tqT25tX1F4cThFMU9DY3VXR0xaTEFVZ3BCZHhlUFd3VTVpN3IxLWlvOG1NQzM3Z00xTzlxVGJWSVpCVUYwdXZfNkUzeU1PeTd0cHA4bDZIS0d2My15UlZMXzVqYkJLM25LYkhyaDgtVzhheEpxLTZ2aVBtUWNPZ2pWd0g3U1N5NUpNeUstNVNMenA5aEFXcDlIelZ6QWZycHU3UmdLbmc4N1IwRGFVWHl5Vy1HOUtKQmt0SVlNMzVseWs?oc=5",
+      "publishedAt": "2026-08-05T10:36:19.000Z",
+      "titleKa": "Disney-ის მე-3 კვარტლის შემოსავლებმა მოლოდინს გადააჭარბა შთაბეჭდილებებზე მოთხოვნის გამო, კომპანია ტოვებს A+E Media-ს წილს",
+      "summaryKa": "შთაბეჭდილებებზე არსებული მოთხოვნის წყალობით Disney-ის მესამე კვარტლის მოგებამ პროგნოზებს გადააჭარბა, ხოლო კომპანია A+E Media-ში თავის წილს ყიდის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1feb9a5fd840f414",
+      "title": "Circle Revenue Misses Estimates as Crypto Markets Mired in Rout",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGlzblp2Nk8xYTRmUGZIVjQ1bmdVdW8xYVF5czZfUDlHbzlwQ3hpUVlScnZ4YUpDTnJPTlZTOFFpQnFjUkFUdktDS2VPLWhHNDB1QjdoYnZlMGtsYjdRZk5kZ04wNU50UHRXb1l0aVBnYklDbklSbnlEUDZVLU4yTEhnS1FSMzZhRmlyNy1UMmxPVVRhekFmMWVWLVJMSjZjbzZRV1VER0g1ZWx2anZXX0NaU04?oc=5",
+      "publishedAt": "2026-08-05T10:10:53.000Z",
+      "titleKa": "Circle-ის შემოსავალმა მოლოდინებს ვერ მიაღწია, რადგან კრიპტო ბაზრები ვარდნაშია ჩაფლული",
+      "summaryKa": "კრიპტოვალუტის ბაზრებზე არსებული ვარდნის ფონზე, კომპანია Circle-ის შემოსავალმა პროგნოზირებულ მაჩვენებლებს ვერ მიაღწია.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d89421acc28c2e9e",
+      "title": "SpaceX’s first earnings reveal the cost of becoming an AI giant: Chart of the Day",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWUszVVFKTlQ0R0R0YVNtaUJiZjdvSVQtemx3TlFBN0o2MGxFZE5LYUVnbDlPLWZXM1NiTzFhUUpKRXFKdDBKcDBYNXhYdWxEUUNpUXdKMWhObXBXMVd4MTVpejBlZ0dWV2R0SVgyN01QN1pCWmJoUmlHaVg1NC1RanE4dDhkaDhGUTJWcncyLWNvenc4MmRBY29XcFEyZWhsYmlWNkFqZENBck1lWlI0dDdDMUlFMklMNEJRLUREN3hCX2w0X3BobDNYY1lxRE10SUE?oc=5",
+      "publishedAt": "2026-08-05T10:07:20.000Z",
+      "titleKa": "SpaceX-ის პირველი შემოსავლები აჩვენებს AI გიგანტად გახდომის ფასს: დღის დიაგრამა",
+      "summaryKa": "SpaceX-ის პირველი ფინანსური შედეგები ასახავს ხელოვნური ინტელექტის გიგანტად ჩამოყალიბების ხარჯებს.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "36dc29b3227089ed",
+      "title": "Carlyle Notches Highest Earnings Since 2022 on More PE Exits",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZkhSV2tTSlJzWTNvUUxIX3g4Yk9BVGtZMjNNeVRSdnRBcWxSNVhMd0I4cjIzMHJmcElrMWgtME5FOVloanlwZk4zQ2tFX3FXdFlEN1RCQ0NBQ2UzNFBzRnNlaVlRdDY1dEdUeUVpS2pNNjY4M1ZwdlEwVExLbzJUdFl1QWc5QTlWWUwwOHlhQ3FQWlNvVWZoakVRNEw5eVd5MXVDTWY4NXlJWlZ4cmV2OUxR?oc=5",
+      "publishedAt": "2026-08-05T10:01:00.000Z",
+      "titleKa": "Carlyle-მა 2022 წლის შემდეგ ყველაზე მაღალ შემოსავალს მიაღწია მეტი PE გასვლის ხარჯზე",
+      "summaryKa": "კომპანია Carlyle-მა კერძო კაპიტალის აქტივებიდან გაზრდილი გასვლების წყალობით 2022 წლის შემდეგ ყველაზე მაღალი შემოსავალი მიიღო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "136e7caff4b7ce90",
       "title": "Sandisk stock is bouncing — how to play earnings with limited risk: Alpha Options Playbook",
@@ -34,6 +144,17 @@
       "titleKa": "უყურეთ: RBC-ის ბელი სიფრთხილეს გამოხატავს ნავთობის ფასების ვარდნასთან დაკავშირებით",
       "summaryKa": "RBC-ის წარმომადგენელი ბელი სიფრთხილეს გამოხატავს ნავთობის ფასების კლებასთან დაკავშირებით.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f65eba33809b2aef",
+      "title": "Crypto Weekly: Coinbase feels crypto squeeze, South Africa's new rules",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNFhKTzFocUhTZVFjMF9vWjdac05BVERWSEIxcXUtZ1dvNkNWeG9iajI2QVZQM2FwVEtDS21hdGZQZkUxMlA2Y0NTV2xJbWpXYUNPaW0xNFFYTlpTcy0yeVgzeUQ3Rm5nMVZyZ2ZQbHFmMjY1Z1JiTVNwOU1PRUJXRlZOMDIwdGJReHc?oc=5",
+      "publishedAt": "2026-08-05T09:14:23.000Z",
+      "titleKa": "Crypto Weekly: Coinbase გრძნობს კრიპტო ზეწოლას, სამხრეთ აფრიკის ახალი წესები",
+      "summaryKa": "ყოველკვირეულ კრიპტო მიმოხილვაში განხილულია Coinbase-ის წინაშე არსებული ფინანსური წნეხი და სამხრეთ აფრიკის რესპუბლიკის ახალი წესები.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
