@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-05T13:56:30.511Z",
+  "updatedAt": "2026-08-05T14:31:39.376Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "1c1c6528ec941344",
+      "title": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnpDbmF1ZzlBRXRNaV94ODZreVE3VE0zRUkzWk1PMV9xblR6NmJ5aGwwYlFoTGU5NVRZY0cyclRWMDFRc1IzNnM1UHdqeW1FQjBqVHVmeXRObE9FTE56UjJUVGtSaFdCZ3VvRlQyalQxeEdoTTNOckhTYnJOYlBBNWVyUzFvbUtNazctYmdid3ZBUGpWNEJycVNkR29UajVMRkM4YjZiaEhFb2JRaDlWa05SN0xBYnR4aDF5UW5mLTZJZmYxYXgyUA?oc=5",
+      "publishedAt": "2026-08-05T13:58:10.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnpDbmF1ZzlBRXRNaV94ODZreVE3VE0zRUkzWk1PMV9xblR6NmJ5aGwwYlFoTGU5NVRZY0cyclRWMDFRc1IzNnM1UHdqeW1FQjBqVHVmeXRObE9FTE56UjJUVGtSaFdCZ3VvRlQyalQxeEdoTTNOckhTYnJOYlBBNWVyUzFvbUtNazctYmdid3ZBUGpWNEJycVNkR29UajVMRkM4YjZiaEhFb2JRaDlWa05SN0xBYnR4aDF5UW5mLTZJZmYxYXgyUA?oc=5\" target=\"_blank\">'This was not an exceptional result': Why AMD stock tanked 5% after earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "„ეს არ იყო განსაკუთრებული შედეგი“: რატომ დაეცა AMD-ის აქციები 5%-ით ფინანსური ანგარიშგების შემდეგ",
+      "summaryKa": "AMD-ის აქციები ფინანსური შედეგების გამოქვეყნების შემდეგ 5%-ით დაეცა, რაც შეფასდა როგორც „არაგამორჩეული შედეგი“.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "86ff7a3a30c2e45c",
       "title": "7 numbers from AMD earnings reveal an ultra-bullish future: AlphaSpace stats to know",
@@ -24,6 +36,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNDNxdklpcDNyTVZITG10clMzcDI1bERtTk1IQVZDRGRHQ3czaTViSXROTlVjRFJjSlNrLWNNMDNKOFpZM09KVFhqTkdDUmZ5UEZTdG1Id2JrazA4UGNIdENNZVV4b3BiMHRDcUhIU2dHbVlwVjRYWkxMU09YWEtsQlN0ZUp3SUZJMlR1b1d2WGtMck0taEFUY2dBVk9wazVzcVBRZi15ZVdmNzVKUjlDckl4ZjRmOHc?oc=5\" target=\"_blank\">3 reasons AMD’s stock is falling in the face of its latest earnings report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
       "titleKa": "3 მიზეზი, რის გამოც AMD-ის აქციები ეცემა მისი ბოლო შემოსავლების ანგარიშის ფონზე",
       "summaryKa": "გამოქვეყნდა სამი მიზეზი, რის გამოც AMD-ის აქციების ფასი ეცემა მისი უახლესი შემოსავლების ანგარიშის წარდგენის ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "0983e8fb18c27ffb",
+      "title": "Should You Invest in OKLO Stock Before Q2 Earnings Release?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWJ6dGd0bmNHeHR6V3JlZ2VlUlhBRTNTUGZuSGN5ejVOajJsOHR0Zm1NVG41c0FybThkM0pmeHRGeW1ydTkzS0hCTUtYZ1RuU2p5R19NNHlnN0xkYXQ5R3BzVWpucmZVNHNkaEhqbTRXdXhuM0JSVjdXeUtZQkVzdExLZXRFU3EyNWVvWTJXQ1dZRXVGeDZzU2ln?oc=5",
+      "publishedAt": "2026-08-05T12:57:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWJ6dGd0bmNHeHR6V3JlZ2VlUlhBRTNTUGZuSGN5ejVOajJsOHR0Zm1NVG41c0FybThkM0pmeHRGeW1ydTkzS0hCTUtYZ1RuU2p5R19NNHlnN0xkYXQ5R3BzVWpucmZVNHNkaEhqbTRXdXhuM0JSVjdXeUtZQkVzdExLZXRFU3EyNWVvWTJXQ1dZRXVGeDZzU2ln?oc=5\" target=\"_blank\">Should You Invest in OKLO Stock Before Q2 Earnings Release?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "უნდა ჩადოთ თუ არა ინვესტიცია OKLO-ს აქციებში მეორე კვარტლის ფინანსური ანგარიშგების გამოქვეყნებამდე?",
+      "summaryKa": "სათაური სვამს კითხვას, ღირს თუ არა OKLO-ს აქციებში ინვესტირება კომპანიის მეორე კვარტლის ფინანსური შედეგების გამოქვეყნებამდე.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -135,6 +159,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "448a215a409d488b",
+      "title": "Larry Lepard Says Bitcoin Is Still 'A Wild Animal' – But Institutional Buying Is Taming The Big Selloffs",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlFrVGpVck1IdEhhbnVsQUU3X1YzQVhDZWFFZDJxY0dCZ2Z6d3BWc1BudGwxRmF6ejhxVnNDNFQtdUFjNXJDeGczNzhpWVNjcWZhSHBuN1Bic3UwcVQwelJYQVNFeDBtemMxUTNZWXktdFdDYWl5algyMEhhclc4b21KOHNWQ0ZtOWI0X2dXN3B0RFlIREU4dW9teE0?oc=5",
+      "publishedAt": "2026-08-05T11:46:57.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlFrVGpVck1IdEhhbnVsQUU3X1YzQVhDZWFFZDJxY0dCZ2Z6d3BWc1BudGwxRmF6ejhxVnNDNFQtdUFjNXJDeGczNzhpWVNjcWZhSHBuN1Bic3UwcVQwelJYQVNFeDBtemMxUTNZWXktdFdDYWl5algyMEhhclc4b21KOHNWQ0ZtOWI0X2dXN3B0RFlIREU4dW9teE0?oc=5\" target=\"_blank\">Larry Lepard Says Bitcoin Is Still 'A Wild Animal' – But Institutional Buying Is Taming The Big Selloffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ლარი ლეპარდი ამბობს, რომ ბიტკოინი კვლავ „ველური ცხოველია“, თუმცა ინსტიტუციური შესყიდვები აკავებს დიდ გაყიდვებს",
+      "summaryKa": "ლარი ლეპარდის განცხადებით, ბიტკოინი კვლავ „ველურ ცხოველად“ რჩება, თუმცა ინსტიტუციური შესყიდვები მის მასშტაბურ გაყიდვებს აკავებს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "f2e2d281377e4f07",
       "title": "Walt Disney’s stock climbs as company cites ‘Toy Story 5’ for earnings growth",
       "source": "MarketWatch",
@@ -143,6 +179,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQW5qMHNQcVI0SXRPSk81VFI2Uk1VS1RiQUVoOUN2anl5OXZtOUQ1UE5rN1FwUGdtZXJodkZYblhmekpZMmRDYnBRRm5UMDllY0dkb29qejExM09GSXpyZTZ2Mm1may1YZVUtMkRaY29nUDl2bFZ1Y0pWVnVwdER2N3BNaFlVOWhEbjNiSUlCbmxycVZ2RmZQRVVydXBSLU9BUlpQV21PU25Xbl91dlBKS1hCaXZ2bWQy?oc=5\" target=\"_blank\">Walt Disney’s stock climbs as company cites ‘Toy Story 5’ for earnings growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
       "titleKa": "Walt Disney-ის აქციები იზრდება, რადგან კომპანია შემოსავლების ზრდას „სათამაშოების ისტორია 5“-ს უკავშირებს",
       "summaryKa": "კომპანია Walt Disney-ის აქციების ფასი გაიზარდა, რადგან კომპანია შემოსავლების ზრდას ფილმ „სათამაშოების ისტორია 5“-ს მიაწერს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "cbd857e818475d8c",
+      "title": "BRS Resources Ltd. Signs Definitive Agreement to Acquire High-Impact Gold-Silver Concessions in Sonora, Mexico",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNblk5ZVZOMkxLZHRGeEdQU3RNYlpSYjFoS2QtQ3kyVzBQSmNJY1BfRHZfenRlUWlpa3kwZ1dOV3JyNlNzWnZpek9RXzFhMHphMk1MSWJZaTJ1VXUzdFkwSWtGVHFrS1gzS2liLUx4R3NGaWIyN0FzRWF5al9BZUxfREIyMWI1MUtkY2MwYUJZQVdzY3RaQmF0YXdIbmdISGpFcHFqUlpTcw?oc=5",
+      "publishedAt": "2026-08-05T11:30:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNblk5ZVZOMkxLZHRGeEdQU3RNYlpSYjFoS2QtQ3kyVzBQSmNJY1BfRHZfenRlUWlpa3kwZ1dOV3JyNlNzWnZpek9RXzFhMHphMk1MSWJZaTJ1VXUzdFkwSWtGVHFrS1gzS2liLUx4R3NGaWIyN0FzRWF5al9BZUxfREIyMWI1MUtkY2MwYUJZQVdzY3RaQmF0YXdIbmdISGpFcHFqUlpTcw?oc=5\" target=\"_blank\">BRS Resources Ltd. Signs Definitive Agreement to Acquire High-Impact Gold-Silver Concessions in Sonora, Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "BRS Resources Ltd.-მა ხელი მოაწერა საბოლოო შეთანხმებას მექსიკაში, სონორაში მაღალი გავლენის მქონე ოქრო-ვერცხლის კონცესიების შესაძენად",
+      "summaryKa": "კომპანია BRS Resources Ltd.-მა ხელი მოაწერა საბოლოო ხელშეკრულებას მექსიკის შტატ სონორაში ოქროსა და ვერცხლის მოპოვების მაღალეფექტური კონცესიების შესაძენად.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -224,6 +272,18 @@
       "summaryKa": "თიბისის ინვესტიციების პლატფორმას ახალი საინვესტიციო ბაზარი – ლონდონის საფონდო […]",
       "category": "საქართველო",
       "translationNotice": ""
+    },
+    {
+      "id": "1d880bc49c0bc287",
+      "title": "Better Buy: iShares Bitcoin ETF vs. Morgan Stanley Bitcoin ETF",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbnMzWkdKVExzeFdqTktFY2lsaG43SG1ma1dkLU9hS1F2Y1g5MHRCV3hUbzJqOGI0Y2NidjNxOGNRVGpqZGR3bXZvdUwwMWgyWHM0UEdIM1BiU0pSNHhuNnRDcjhxVGd6bHc5dmxlQlE0REVUdHlBZXMyT3ViMVBnRVI1LVlzWWMxMExGRFFsVHBUSnFKODdxVEYzaw?oc=5",
+      "publishedAt": "2026-08-05T10:50:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbnMzWkdKVExzeFdqTktFY2lsaG43SG1ma1dkLU9hS1F2Y1g5MHRCV3hUbzJqOGI0Y2NidjNxOGNRVGpqZGR3bXZvdUwwMWgyWHM0UEdIM1BiU0pSNHhuNnRDcjhxVGd6bHc5dmxlQlE0REVUdHlBZXMyT3ViMVBnRVI1LVlzWWMxMExGRFFsVHBUSnFKODdxVEYzaw?oc=5\" target=\"_blank\">Better Buy: iShares Bitcoin ETF vs. Morgan Stanley Bitcoin ETF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "უკეთესი შენაძენი: iShares Bitcoin ETF-ი Morgan Stanley Bitcoin ETF-ის წინააღმდეგ",
+      "summaryKa": "სტატია ადარებს iShares Bitcoin ETF-სა და Morgan Stanley Bitcoin ETF-ს, რათა დაადგინოს, რომელი მათგანია უკეთესი შენაძენი.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "aa6fef9c215e52c0",
