@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T14:31:39.376Z",
+  "updatedAt": "2026-08-05T15:09:29.975Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -13,6 +13,18 @@
       "titleKa": "„ეს არ იყო განსაკუთრებული შედეგი“: რატომ დაეცა AMD-ის აქციები 5%-ით ფინანსური ანგარიშგების შემდეგ",
       "summaryKa": "AMD-ის აქციები ფინანსური შედეგების გამოქვეყნების შემდეგ 5%-ით დაეცა, რაც შეფასდა როგორც „არაგამორჩეული შედეგი“.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c5188216bbbebd7e",
+      "title": "SpaceX stock declines post-earnings. Are investors worried about AI spending?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTJnYXo4aE4ybmRYSEp3ZzhqUG82LUQxQXczY1R1REIwNE01MFRmY0ItRDZ0eURibndBdHJDVUZkck84azVWZ0ZUci11Wmd3b2c2eUxRQVNSVmoyajVZMkl0ekxYVlNIVWtRWGt0cVJwZFNQRlJ0TnNKUVdybGZfVXZvZkJhYVEwVkE?oc=5",
+      "publishedAt": "2026-08-05T13:30:53.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTJnYXo4aE4ybmRYSEp3ZzhqUG82LUQxQXczY1R1REIwNE01MFRmY0ItRDZ0eURibndBdHJDVUZkck84azVWZ0ZUci11Wmd3b2c2eUxRQVNSVmoyajVZMkl0ekxYVlNIVWtRWGt0cVJwZFNQRlJ0TnNKUVdybGZfVXZvZkJhYVEwVkE?oc=5\" target=\"_blank\">SpaceX stock declines post-earnings. Are investors worried about AI spending?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "SpaceX-ის აქციები ფინანსური ანგარიშგების შემდეგ დაეცა: ხომ არ აშფოთებთ ინვესტორებს AI-ზე გაწეული ხარჯები?",
+      "summaryKa": "SpaceX-ის აქციების ფასი ფინანსური შედეგების გამოქვეყნების შემდეგ შემცირდა, რამაც გააჩინა კითხვა, ხომ არ არიან ინვესტორები შეშფოთებულნი ხელოვნურ ინტელექტზე (AI) გაწეული ხარჯების გამო.",
+      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
