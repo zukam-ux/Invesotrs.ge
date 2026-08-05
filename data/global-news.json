@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-08-05T18:00:51.966Z",
+  "updatedAt": "2026-08-05T19:36:43.358Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "c1c3d9c7bdc23b23",
+      "title": "Ghana Made $1.9 Billion Loss on Gold Purchases in 2025, IMF Says",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPei1OLWJqQXNxdnFzNXBrdHpYSlJZV1A5aU9reG0zajRrLW93SmRsTVVScDZjYmMyS0dtelM0LWxPU2lER3dMVHZIb0NVQmFyVFVtc1lUb3FEQVZpTDdSeVRmMklBZG83QjBXYXRNd0lieU15dE81aUJnOEdtRFd2TWFRTDQwaGQ1UmdYSFZoQ0toOG1sckMtbE5wZ2hOcTlDWWZYcjdoeWNHMlJwRzFIdmZnQQ?oc=5",
+      "publishedAt": "2026-08-05T18:29:42.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPei1OLWJqQXNxdnFzNXBrdHpYSlJZV1A5aU9reG0zajRrLW93SmRsTVVScDZjYmMyS0dtelM0LWxPU2lER3dMVHZIb0NVQmFyVFVtc1lUb3FEQVZpTDdSeVRmMklBZG83QjBXYXRNd0lieU15dE81aUJnOEdtRFd2TWFRTDQwaGQ1UmdYSFZoQ0toOG1sckMtbE5wZ2hOcTlDWWZYcjdoeWNHMlJwRzFIdmZnQQ?oc=5\" target=\"_blank\">Ghana Made $1.9 Billion Loss on Gold Purchases in 2025, IMF Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "სსფ-ის განცხადებით, განამ 2025 წელს ოქროს შესყიდვებზე 1.9 მილიარდი დოლარის ზარალი განიცადა",
+      "summaryKa": "საერთაშორისო სავალუტო ფონდის განცხადებით, განამ 2025 წელს ოქროს შესყიდვებისას 1.9 მილიარდი დოლარის ზარალი ნახა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1c1c6528ec941344",
+      "title": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnpDbmF1ZzlBRXRNaV94ODZreVE3VE0zRUkzWk1PMV9xblR6NmJ5aGwwYlFoTGU5NVRZY0cyclRWMDFRc1IzNnM1UHdqeW1FQjBqVHVmeXRObE9FTE56UjJUVGtSaFdCZ3VvRlQyalQxeEdoTTNOckhTYnJOYlBBNWVyUzFvbUtNazctYmdid3ZBUGpWNEJycVNkR29UajVMRkM4YjZiaEhFb2JRaDlWa05SN0xBYnR4aDF5UW5mLTZJZmYxYXgyUA?oc=5",
+      "publishedAt": "2026-08-05T17:25:11.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnpDbmF1ZzlBRXRNaV94ODZreVE3VE0zRUkzWk1PMV9xblR6NmJ5aGwwYlFoTGU5NVRZY0cyclRWMDFRc1IzNnM1UHdqeW1FQjBqVHVmeXRObE9FTE56UjJUVGtSaFdCZ3VvRlQyalQxeEdoTTNOckhTYnJOYlBBNWVyUzFvbUtNazctYmdid3ZBUGpWNEJycVNkR29UajVMRkM4YjZiaEhFb2JRaDlWa05SN0xBYnR4aDF5UW5mLTZJZmYxYXgyUA?oc=5\" target=\"_blank\">'This was not an exceptional result': Why AMD stock tanked 5% after earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "„ეს არ იყო განსაკუთრებული შედეგი“: რატომ დაეცა AMD-ის აქციები 5%-ით ფინანსური ანგარიშგების შემდეგ",
+      "summaryKa": "AMD-ის აქციები ფინანსური შედეგების გამოქვეყნების შემდეგ 5%-ით დაეცა, რაც შეფასდა როგორც „არაგამორჩეული შედეგი“.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7a37f152b4a6a677",
+      "title": "Will These 3 Insurance Stocks Insure a Q2 Earnings Beat?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR04xM1NKMDV3X0ZxLW93VVBvLUV0Y3gyTGZPMjF2ZXg5ZFZJX0NucVdvOEJiODkxSURKYXJ1dDU4VHE4U3d1SzJNdFhZbGpsYWxMNTJOQUtuYlhZNEY3bzIzSlJPZXNxamF5bGxOelRiaC01VGNIUmRoWS0wSWg4OE1FcTQ5ZjRMUjVDN3ZQYjcwYmFLN0ZJYg?oc=5",
+      "publishedAt": "2026-08-05T17:01:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQR04xM1NKMDV3X0ZxLW93VVBvLUV0Y3gyTGZPMjF2ZXg5ZFZJX0NucVdvOEJiODkxSURKYXJ1dDU4VHE4U3d1SzJNdFhZbGpsYWxMNTJOQUtuYlhZNEY3bzIzSlJPZXNxamF5bGxOelRiaC01VGNIUmRoWS0wSWg4OE1FcTQ5ZjRMUjVDN3ZQYjcwYmFLN0ZJYg?oc=5\" target=\"_blank\">Will These 3 Insurance Stocks Insure a Q2 Earnings Beat?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "უზრუნველყოფს თუ არა ეს 3 სადაზღვევო აქცია მე-2 კვარტლის მოგების პროგნოზის გადაჭარბებას?",
+      "summaryKa": "სტატიაში დასმულია კითხვა, შეძლებს თუ არა მოცემული სამი სადაზღვევო აქცია მეორე კვარტლის ფინანსური შედეგების მოლოდინების გადაჭარბებას.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "2ac5e30ad3824ea6",
       "title": "Sandisk stock steady ahead of AI highflier's earnings",
@@ -48,6 +84,18 @@
       "titleKa": "ტექნოლოგიური სექტორის მკვეთრი ზრდა ოთხ დღეში Nasdaq 100-ის 3.5 ტრილიონი დოლარით მატებას განაპირობებს",
       "summaryKa": "ტექნოლოგიური სექტორის მკვეთრმა ზრდამ ოთხ დღეში Nasdaq 100-ს 3.5 ტრილიონი დოლარის მოგება მოუტანა.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d868afe69f27ceae",
+      "title": "Boerse Stuttgart Digital, Tradias Complete Merger to Build European Crypto Hub",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHdFTGZCdy10enhuV1ZGOE5nV2xwQ3RiUFNfVFZmUHYycHlrd2g4ay1FUTlaRTUyaExZTGpTdjRzV0FnM0wxTEZ0Ml85OG81dktrNndOZ0hMV2hpTktCTmZEcmVSSDJjRFpKY29vNG9YSmM5TTA1OG9acUZrYVgzSk5FcDZjYXNhalBVSVFrMVp4c2c2NWNYZVppMWVtaGY4OVlmRk9DMGdSdw?oc=5",
+      "publishedAt": "2026-08-05T15:20:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHdFTGZCdy10enhuV1ZGOE5nV2xwQ3RiUFNfVFZmUHYycHlrd2g4ay1FUTlaRTUyaExZTGpTdjRzV0FnM0wxTEZ0Ml85OG81dktrNndOZ0hMV2hpTktCTmZEcmVSSDJjRFpKY29vNG9YSmM5TTA1OG9acUZrYVgzSk5FcDZjYXNhalBVSVFrMVp4c2c2NWNYZVppMWVtaGY4OVlmRk9DMGdSdw?oc=5\" target=\"_blank\">Boerse Stuttgart Digital, Tradias Complete Merger to Build European Crypto Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Boerse Stuttgart Digital-მა და Tradias-მა ევროპული კრიპტო ჰაბის შესაქმნელად შერწყმა დაასრულეს",
+      "summaryKa": "კომპანიებმა Boerse Stuttgart Digital და Tradias დაასრულეს შერწყმის პროცესი ევროპული კრიპტო ჰაბის შესაქმნელად.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -131,18 +179,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNT0h6NVNzbHNpZnpheFk4ZEhUTTFJVzd4U2hWUXNfaUUtTlUybTFyRGxqUWc4WGVTMklnMWVfY0xyQjUtUmFYcDJXdGd2NEhkdEYyRXU1TUJyVlZKcjZXLUVSOTdMd3E5SWJTTHZSc096VER4Wk1GWHV1cTZtWjk5YXFtRmp2bEZ1clNUbXgyNU1xZWJW?oc=5\" target=\"_blank\">Gold Fields (JSE:GFI) Stock Fair Value Falls After Analysts Cut Targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "Gold Fields (JSE:GFI)-ის აქციების რეალური ღირებულება მას შემდეგ შემცირდა, რაც ანალიტიკოსებმა სამიზნე ფასები შეამცირეს",
       "summaryKa": "Gold Fields (JSE:GFI)-ის აქციების სამართლიანი ფასი მას შემდეგ შემცირდა, რაც ანალიტიკოსებმა სამიზნე ნიშნულები შეამცირეს.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "1c1c6528ec941344",
-      "title": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnpDbmF1ZzlBRXRNaV94ODZreVE3VE0zRUkzWk1PMV9xblR6NmJ5aGwwYlFoTGU5NVRZY0cyclRWMDFRc1IzNnM1UHdqeW1FQjBqVHVmeXRObE9FTE56UjJUVGtSaFdCZ3VvRlQyalQxeEdoTTNOckhTYnJOYlBBNWVyUzFvbUtNazctYmdid3ZBUGpWNEJycVNkR29UajVMRkM4YjZiaEhFb2JRaDlWa05SN0xBYnR4aDF5UW5mLTZJZmYxYXgyUA?oc=5",
-      "publishedAt": "2026-08-05T13:58:10.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnpDbmF1ZzlBRXRNaV94ODZreVE3VE0zRUkzWk1PMV9xblR6NmJ5aGwwYlFoTGU5NVRZY0cyclRWMDFRc1IzNnM1UHdqeW1FQjBqVHVmeXRObE9FTE56UjJUVGtSaFdCZ3VvRlQyalQxeEdoTTNOckhTYnJOYlBBNWVyUzFvbUtNazctYmdid3ZBUGpWNEJycVNkR29UajVMRkM4YjZiaEhFb2JRaDlWa05SN0xBYnR4aDF5UW5mLTZJZmYxYXgyUA?oc=5\" target=\"_blank\">'This was not an exceptional result': Why AMD stock tanked 5% after earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "„ეს არ იყო განსაკუთრებული შედეგი“: რატომ დაეცა AMD-ის აქციები 5%-ით ფინანსური ანგარიშგების შემდეგ",
-      "summaryKa": "AMD-ის აქციები ფინანსური შედეგების გამოქვეყნების შემდეგ 5%-ით დაეცა, რაც შეფასდა როგორც „არაგამორჩეული შედეგი“.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
