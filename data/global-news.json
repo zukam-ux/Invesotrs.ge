@@ -1,8 +1,92 @@
 {
-  "updatedAt": "2026-08-06T00:15:48.820Z",
+  "updatedAt": "2026-08-06T03:37:37.341Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "546d3401f3cad401",
+      "title": "Shell, BP, Exxon: Big Oil Is Bracing for Lower Prices — and Rightly So",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZW1tVG9rU3k5Z3I1ZWNhN3Q3Q1BOZVBZaWMxRy1aNHg4NmhNZGRXcDBrOUFscTFiM1hwVTRLdmpWLTAzdy16QVdWZnBDS245MGU5V3pzMWN0Z1AyZDR4dzJKSm1iSWZtbjE1OGp0emM1T0JZU0I0ZTJzRzlKdGtERVU2TTVWalRnQUx4bFFELVdZdHdOMnRfV3diM3lFY3V4NUpGZnIwTG8tOUY3NzVoS2hheUF2ZnZGVWpz?oc=5",
+      "publishedAt": "2026-08-06T03:30:16.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZW1tVG9rU3k5Z3I1ZWNhN3Q3Q1BOZVBZaWMxRy1aNHg4NmhNZGRXcDBrOUFscTFiM1hwVTRLdmpWLTAzdy16QVdWZnBDS245MGU5V3pzMWN0Z1AyZDR4dzJKSm1iSWZtbjE1OGp0emM1T0JZU0I0ZTJzRzlKdGtERVU2TTVWalRnQUx4bFFELVdZdHdOMnRfV3diM3lFY3V4NUpGZnIwTG8tOUY3NzVoS2hheUF2ZnZGVWpz?oc=5\" target=\"_blank\">Shell, BP, Exxon: Big Oil Is Bracing for Lower Prices — and Rightly So</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "Shell, BP, Exxon: მსხვილი ნავთობკომპანიები ფასების კლებისთვის ემზადებიან — და ეს მართებულიცაა",
+      "summaryKa": "მსხვილი ნავთობკომპანიები, როგორებიცაა Shell, BP და Exxon, ფასების მოსალოდნელი კლებისთვის ემზადებიან, რაც მართებულ ნაბიჯადაა მიჩნეული.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a39410a9ee421180",
+      "title": "Fed’s Daly Supported Rate Decision, Warns of Inflation Risks",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEFuRnJOSGpOZ3AwdUMzS21yU0tzRFlYUWxiaXUyR2p2MS01blI4cWNMaWtmZkRFOGRTSl9GVTFYUElRR1E2UWYzamk4MmRXUkhwQXdHejFLR0doSVZjbTZLYUZoWkVhWlUwekh0eGpQWkZGY244bFdPMzdPMUxDS1MxT1B2RVJUSzlaMEQxanlSa2puZDdac0Ntd3J0aXIwanJKbnBESmU1Y041eHhn?oc=5",
+      "publishedAt": "2026-08-06T02:04:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEFuRnJOSGpOZ3AwdUMzS21yU0tzRFlYUWxiaXUyR2p2MS01blI4cWNMaWtmZkRFOGRTSl9GVTFYUElRR1E2UWYzamk4MmRXUkhwQXdHejFLR0doSVZjbTZLYUZoWkVhWlUwekh0eGpQWkZGY244bFdPMzdPMUxDS1MxT1B2RVJUSzlaMEQxanlSa2puZDdac0Ntd3J0aXIwanJKbnBESmU1Y041eHhn?oc=5\" target=\"_blank\">Fed’s Daly Supported Rate Decision, Warns of Inflation Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ფედ-ის დეილიმ მხარი დაუჭირა საპროცენტო განაკვეთის შესახებ გადაწყვეტილებას და ინფლაციის რისკებზე გააკეთა გაფრთხილება",
+      "summaryKa": "ფედერალური სარეზერვო სისტემის წარმომადგენელმა დეილიმ მხარი დაუჭირა საპროცენტო განაკვეთთან დაკავშირებულ გადაწყვეტილებას და ამავდროულად ინფლაციის რისკების შესახებ გააფრთხილა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "35bcbb5cf0d7ce35",
+      "title": "AMG Critical Materials (ENXTAM:AMG) Is Up 17.4% After Strong Q2 Earnings And Steady Dividend Confirmation",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWlNuUEo5SF9leGRxTG9MNzA4OEl6dm5fUDNoVlltaUJsNjNSd2hVdE8tNmFtaGxkMGxLa1NxYU83QjRqb3JUdDJxQ25ZcU9aYnFuQlE2SXE0a25xN2RZbmxkM3E0TG1pS2U5UnQ1eDVxN1hJeGpCNHU4X0Yxem9vcVhsV2FwRDM3VnZiU3VsMkZycHNFQXUyOWVYUEJWeTA?oc=5",
+      "publishedAt": "2026-08-06T00:18:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWlNuUEo5SF9leGRxTG9MNzA4OEl6dm5fUDNoVlltaUJsNjNSd2hVdE8tNmFtaGxkMGxLa1NxYU83QjRqb3JUdDJxQ25ZcU9aYnFuQlE2SXE0a25xN2RZbmxkM3E0TG1pS2U5UnQ1eDVxN1hJeGpCNHU4X0Yxem9vcVhsV2FwRDM3VnZiU3VsMkZycHNFQXUyOWVYUEJWeTA?oc=5\" target=\"_blank\">AMG Critical Materials (ENXTAM:AMG) Is Up 17.4% After Strong Q2 Earnings And Steady Dividend Confirmation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "AMG Critical Materials-ის (ENXTAM:AMG) აქციები 17.4%-ით გაიზარდა მეორე კვარტლის ძლიერი შემოსავლებისა და სტაბილური დივიდენდების დადასტურების შემდეგ",
+      "summaryKa": "AMG Critical Materials-ის (ENXTAM:AMG) აქციების ფასი 17.4%-ით გაიზარდა მეორე კვარტლის ძლიერი ფინანსური შედეგებისა და სტაბილური დივიდენდის გადახდის დადასტურების შემდეგ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "eef64845f46ec7ba",
+      "title": "Philippine Bond Slump to Extend on Inflation Worry, Analysts Say",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWThXUlAxUk9jWndNMWVPeU1FLUU0SF9RQS0xZENEZHZpTUh0SWFITTNPdTk5c2g2NVZEOTFMYWV5bnlPNl93WTJPMk8yc1BxT0xsUF9IZzV5VU5RWWR3UnFWOUtwdGdJUEFkMlB4LW5DamZsekxIaW5CZUhTQUdTUVFFMk1wMTdnSl84UXdnLXotZ0d5ck1LTkdRb3dZTXp6Q1pMRGwwbTNlSGd5NndoWHlBajM?oc=5",
+      "publishedAt": "2026-08-06T00:10:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWThXUlAxUk9jWndNMWVPeU1FLUU0SF9RQS0xZENEZHZpTUh0SWFITTNPdTk5c2g2NVZEOTFMYWV5bnlPNl93WTJPMk8yc1BxT0xsUF9IZzV5VU5RWWR3UnFWOUtwdGdJUEFkMlB4LW5DamZsekxIaW5CZUhTQUdTUVFFMk1wMTdnSl84UXdnLXotZ0d5ck1LTkdRb3dZTXp6Q1pMRGwwbTNlSGd5NndoWHlBajM?oc=5\" target=\"_blank\">Philippine Bond Slump to Extend on Inflation Worry, Analysts Say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ფილიპინების ობლიგაციების ვარდნა ინფლაციის გამო გაგრძელდება, აცხადებენ ანალიტიკოსები",
+      "summaryKa": "ანალიტიკოსების განცხადებით, ფილიპინების სახელმწიფო ობლიგაციების ფასების კლება ინფლაციასთან დაკავშირებული შეშფოთების გამო კიდევ უფრო გაგრძელდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9901c4e256c7c8e7",
+      "title": "Gold Holds Gain as Progress on Hormuz Deal Lowers Rate-Hike Odds",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVhlV0tZUld1bXFMUUk5ZTBqZEtnaGdtN0NQZkNWSVdRNFB6ME5XZ253RzNvelFFdEIwY0xENTZOd2tqTWtBT2pVaWNWYWNGLVVkS0wwaE1sdlRDZ3JEMTlYM3JjaURkejNtNjBMUnFiTkhBV3I2cW1hOWFIZjUtMkFWb3ZfcjFGVm8wQjF2Y3ZBcUc1a2xzRDJDYl9iUEhoREhhRURNakh1UXhuRUctajh6MWpUQQ?oc=5",
+      "publishedAt": "2026-08-05T23:37:37.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVhlV0tZUld1bXFMUUk5ZTBqZEtnaGdtN0NQZkNWSVdRNFB6ME5XZ253RzNvelFFdEIwY0xENTZOd2tqTWtBT2pVaWNWYWNGLVVkS0wwaE1sdlRDZ3JEMTlYM3JjaURkejNtNjBMUnFiTkhBV3I2cW1hOWFIZjUtMkFWb3ZfcjFGVm8wQjF2Y3ZBcUc1a2xzRDJDYl9iUEhoREhhRURNakh1UXhuRUctajh6MWpUQQ?oc=5\" target=\"_blank\">Gold Holds Gain as Progress on Hormuz Deal Lowers Rate-Hike Odds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ოქრო ინარჩუნებს ზრდას, რადგან ჰორმუზის შეთანხმებაში პროგრესი ამცირებს საპროცენტო განაკვეთების გაზრდის ალბათობას",
+      "summaryKa": "ოქრო ინარჩუნებს ფასის ზრდას, ვინაიდან ჰორმუზის შეთანხმების მიმართულებით მიღწეული პროგრესი ამცირებს საპროცენტო განაკვეთების შემდგომი ზრდის ალბათობას.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "40c219ede9e237f3",
+      "title": "Bitcoin Miners are Leaving the Network. Will It Impact BTC Price?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmc3S2M1LVR5T3kyb2x2cUdMY0o2OFhxaWtiT0Y0NDJtNWlpUVhGZG84blE1YWhxbU9pR1NOanZNZDZYT0JkZUN6d0tldFFRS0NYendxaXUtZXRlbkRuaDRZMENFQVdzU2xYWHg2eldPSUJJaU1tMGtud2M4V0lxVnBBMzNwWnN4cGRSbDFyNzd5OUdIako2aFphTWYtUl9JTmllbg?oc=5",
+      "publishedAt": "2026-08-05T23:20:19.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmc3S2M1LVR5T3kyb2x2cUdMY0o2OFhxaWtiT0Y0NDJtNWlpUVhGZG84blE1YWhxbU9pR1NOanZNZDZYT0JkZUN6d0tldFFRS0NYendxaXUtZXRlbkRuaDRZMENFQVdzU2xYWHg2eldPSUJJaU1tMGtud2M4V0lxVnBBMzNwWnN4cGRSbDFyNzd5OUdIako2aFphTWYtUl9JTmllbg?oc=5\" target=\"_blank\">Bitcoin Miners are Leaving the Network. Will It Impact BTC Price?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ბიტკოინის მაინერები ტოვებენ ქსელს. იქონიებს თუ არა ეს გავლენას BTC-ის ფასზე?",
+      "summaryKa": "ბიტკოინის მაინერები ტოვებენ ქსელს, რაც აჩენს კითხვას, მოახდენს თუ არა ეს გავლენას BTC-ის საბაზრო ფასზე.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f5aaba26ce9ea300",
+      "title": "SoundHound AI (NASDAQ:SOUN) Reports Bullish Q2 CY2026, Stock Jumps 23.4%",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjlBWHhxODZ1SGh3T0VILXJaSVF3ejNCOEFzOFNTdVFXR1lLa25yMi1zclU5bnlITXh3aTQ4WjVjNUZGWjBWMnIyb2g3MXdfUnZGMkxjYjlaYlY2RmFISHR5T2NoYTJocWNKYzhqeUFIOTloZUpJUVNVbG9pWUNSUFFpMEFhLU5JaE1La1I1Y3U2Qy05NlU3d041eHdOdFk?oc=5",
+      "publishedAt": "2026-08-05T23:19:45.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjlBWHhxODZ1SGh3T0VILXJaSVF3ejNCOEFzOFNTdVFXR1lLa25yMi1zclU5bnlITXh3aTQ4WjVjNUZGWjBWMnIyb2g3MXdfUnZGMkxjYjlaYlY2RmFISHR5T2NoYTJocWNKYzhqeUFIOTloZUpJUVNVbG9pWUNSUFFpMEFhLU5JaE1La1I1Y3U2Qy05NlU3d041eHdOdFk?oc=5\" target=\"_blank\">SoundHound AI (NASDAQ:SOUN) Reports Bullish Q2 CY2026, Stock Jumps 23.4%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "SoundHound AI (NASDAQ:SOUN) აქვეყნებს ოპტიმისტურ ანგარიშს 2026 წლის მეორე კვარტლის შესახებ, აქციები 23.4%-ით გაიზარდა",
+      "summaryKa": "კომპანია SoundHound AI-მ (NASDAQ:SOUN) გამოაქვეყნა პოზიტიური ფინანსური ანგარიში 2026 წლის მეორე კვარტლისთვის, რის შემდეგაც მისი აქციების ფასი 23.4%-ით გაიზარდა.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "98997005ff7924d3",
       "title": "China’s Cheap AI Is Shifting Investors’ Focus to Internet Stocks",
@@ -13,6 +97,18 @@
       "titleKa": "ჩინეთის იაფი ხელოვნური ინტელექტი (AI) ინვესტორების ყურადღებას ინტერნეტ აქციებზე გადააქვს",
       "summaryKa": "ჩინეთის იაფი ხელოვნური ინტელექტი ხელს უწყობს ინვესტორების ინტერესის გადატანას ინტერნეტ აქციებისკენ.",
       "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "cd43b2e07acc7ed1",
+      "title": "Eric Trump-Led American Bitcoin To Adopt Michael Saylor’s Approach of Selling BTC to Support Economics? CEO Says…",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX21Ka0l1aVZQWURNa3BPN3VhN2VnSHVTb2s1UEd1U1B4bDc4ZkFrU2VKeHR2ZThCeDBmRFRRUTF0Y0dEaWRDd0ZDWVFMSktEQ1NuYkdxVjNlU3JuWnBXUkNKRVhOZGVmLXN3eG5fS3kxbUpJZFBscmQwQ2ZCUExwSzYyd0xJM1hWTjRTUUNEZGNfYTI4UlhFMjk2ZXQ?oc=5",
+      "publishedAt": "2026-08-05T22:31:20.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQX21Ka0l1aVZQWURNa3BPN3VhN2VnSHVTb2s1UEd1U1B4bDc4ZkFrU2VKeHR2ZThCeDBmRFRRUTF0Y0dEaWRDd0ZDWVFMSktEQ1NuYkdxVjNlU3JuWnBXUkNKRVhOZGVmLXN3eG5fS3kxbUpJZFBscmQwQ2ZCUExwSzYyd0xJM1hWTjRTUUNEZGNfYTI4UlhFMjk2ZXQ?oc=5\" target=\"_blank\">Eric Trump-Led American Bitcoin To Adopt Michael Saylor’s Approach of Selling BTC to Support Economics? CEO Says…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "მიიღებს თუ არა ერიკ ტრამპის ხელმძღვანელობით მოქმედი American Bitcoin მაიკლ სეილორის მიდგომას BTC-ის გაყიდვის შესახებ ეკონომიკის მხარდასაჭერად? აღმასრულებელი დირექტორი აცხადებს...",
+      "summaryKa": "ერიკ ტრამპის ხელმძღვანელობით მოქმედი კომპანიის American Bitcoin-ის აღმასრულებელი დირექტორი პასუხობს კითხვას, გამოიყენებენ თუ არა ისინი მაიკლ სეილორის მიდგომას BTC-ის გაყიდვის შესახებ ეკონომიკის მხარდასაჭერად.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
