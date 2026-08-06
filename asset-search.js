@@ -10,6 +10,8 @@ let catalogPromise;
     ["apple", "AAPL"],
     ["google", "GOOGL"],
     ["facebook", "META"],
+    ["spacex", "SPCX"],
+    ["space x", "SPCX"],
   ]);
 
   function escapeHtml(value = "") {
@@ -41,10 +43,6 @@ let catalogPromise;
     if (/preferred/i.test(asset.name) || /-P[A-Z]$/.test(asset.symbol)) return "preferred";
     if (/\bETF\b|\bFUND\b|\bTRUST\b/i.test(asset.name)) return "etf";
     return asset.exchange === "OTC" ? "otc" : "stock";
-  }
-
-  function isFalseSpaceXSecurity(asset) {
-    return asset.type === "security" && asset.symbol === "SPCX" && /spacex/i.test(asset.name);
   }
 
   export function scoreAsset(asset, rawQuery) {
@@ -83,7 +81,6 @@ let catalogPromise;
 
   export function rankAssets(assets, query, limit = 20) {
     return assets
-      .filter(asset => !isFalseSpaceXSecurity(asset))
       .map(asset => [asset, scoreAsset(asset, query)])
       .filter(([, value]) => value > 0)
       .sort((a, b) => b[1] - a[1] || a[0].name.localeCompare(b[0].name))
@@ -92,6 +89,7 @@ let catalogPromise;
   }
 
   function assetUrl(asset) {
+    if (asset.externalUrl) return asset.externalUrl;
     const params = new URLSearchParams({
       type: asset.type,
       symbol: asset.symbol,
@@ -105,7 +103,8 @@ let catalogPromise;
   }
 
   function renderResult(asset) {
-    const quoteSymbol = asset.type === "crypto" ? `${asset.symbol}-USD` : asset.symbol;
+    const quoteSymbol = asset.yahooSymbol || (asset.type === "crypto" ? `${asset.symbol}-USD` : asset.symbol);
+    const liveQuote = asset.yahooSymbol ? "" : ` <span data-live-quote="${escapeHtml(quoteSymbol)}"></span>`;
     const labels = {
       stock: `${asset.exchange || "აშშ"} · აქცია`,
       etf: `${asset.exchange || "აშშ"} · ETF / ფონდი`,
@@ -116,25 +115,25 @@ let catalogPromise;
       otc: "OTC ფასიანი ქაღალდი",
     };
     const kind = labels[assetKind(asset)] || "ფინანსური აქტივი";
-    return `<a class="asset-result" href="${escapeHtml(assetUrl(asset))}">
+    const resultMeta = asset.yahooSymbol ? asset.symbol : `${asset.symbol} · ${kind}`;
+    const typeLabel = asset.typeLabel || (assetKind(asset) === "stock" ? "Equity" : assetKind(asset) === "etf" ? "ETF" : asset.type === "crypto" ? "Cryptocurrency" : assetKind(asset).toUpperCase());
+    const external = asset.externalUrl ? ' target="_blank" rel="noopener"' : "";
+    return `<a class="asset-result" href="${escapeHtml(assetUrl(asset))}"${external}>
       <i>${escapeHtml(asset.symbol.slice(0, 4))}</i>
-      <span><b>${escapeHtml(asset.name)} <span data-live-quote="${escapeHtml(quoteSymbol)}"></span></b><small>${escapeHtml(asset.symbol)} · ${escapeHtml(kind)}</small></span>
-      <em>›</em>
+      <span><b>${escapeHtml(asset.name)}${liveQuote}</b><small>${escapeHtml(resultMeta)}</small></span>
+      <em class="asset-result-type"><b>${escapeHtml(typeLabel)}</b><small>${escapeHtml(asset.exchange || (asset.type === "crypto" ? "CoinGecko" : ""))}</small></em>
     </a>`;
   }
 
-  function renderGroup(title, assets) {
-    if (!assets.length) return "";
-    return `<section class="asset-result-group"><h3>${escapeHtml(title)}</h3>${assets.map(renderResult).join("")}</section>`;
+  function renderMatches(matches, query) {
+    return `<div class="asset-results-heading"><b>სიმბოლოები</b><span>ტიპი</span></div>${matches.slice(0, 10).map(renderResult).join("")}`;
   }
 
-  function renderMatches(matches, query) {
-    const securities = matches.filter(asset => asset.type === "security").slice(0, 6);
-    const crypto = matches.filter(asset => asset.type === "crypto").slice(0, 6);
-    const privateCompanyNote = /^(space\s*x|spacex)$/i.test(query)
-      ? '<div class="asset-search-note"><b>SpaceX კერძო კომპანიაა</b><span>საჯარო ბირჟაზე მისი აქცია ამჟამად არ ივაჭრება.</span></div>'
-      : "";
-    return `${renderGroup("აქციები და ETF-ები", securities)}${privateCompanyNote}${renderGroup("კრიპტოაქტივები", crypto)}`;
+  async function loadYahooMatches(query) {
+    const response = await fetch(`/api/asset-search?q=${encodeURIComponent(query)}`);
+    if (!response.ok) return [];
+    const data = await response.json();
+    return Array.isArray(data.assets) ? data.assets : [];
   }
 
   function attach(input) {
@@ -154,10 +153,10 @@ let catalogPromise;
       results.classList.add("open");
       results.innerHTML = '<div class="asset-search-state">იტვირთება…</div>';
       try {
-        const assets = await loadCatalog();
+        const [assets, yahooMatches] = await Promise.all([loadCatalog(), loadYahooMatches(query).catch(() => [])]);
         if (current !== request) return;
-        const matches = rankAssets(assets, query, 40);
-        results.innerHTML = matches.length || /^(space\s*x|spacex)$/i.test(query)
+        const matches = yahooMatches.length ? yahooMatches : rankAssets(assets, query, 20);
+        results.innerHTML = matches.length
           ? renderMatches(matches, query)
           : `<div class="asset-search-state">„${escapeHtml(input.value.trim())}“ ვერ მოიძებნა</div>`;
         window.refreshLiveQuotes?.(results);

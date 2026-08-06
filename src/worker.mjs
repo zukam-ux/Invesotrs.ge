@@ -657,6 +657,40 @@ async function serveQuotes(url) {
   );
 }
 
+async function serveAssetSearch(url) {
+  const query = (url.searchParams.get("q") || "").trim().slice(0, 80);
+  if (!query) return json({ assets: [] }, { headers: { "cache-control": "no-store" } });
+  const exchangeMap = { NMS: "NASDAQ", NGM: "NASDAQ", NYQ: "NYSE", PCX: "AMEX", BTS: "CBOE", NEO: "NEO" };
+  try {
+    const upstream = new URL("https://query2.finance.yahoo.com/v1/finance/search");
+    upstream.searchParams.set("q", query);
+    upstream.searchParams.set("quotesCount", "10");
+    upstream.searchParams.set("newsCount", "0");
+    upstream.searchParams.set("listsCount", "0");
+    const data = await fetchJson(upstream, 6000, { "user-agent": "Mozilla/5.0 Investors.ge" });
+    const assets = (data.quotes || [])
+      .filter(item => item?.symbol && ["EQUITY", "ETF", "CRYPTOCURRENCY"].includes(item.quoteType))
+      .map(item => {
+        const isCrypto = item.quoteType === "CRYPTOCURRENCY";
+        const exchangeCode = exchangeMap[item.exchange] || item.exchDisp || item.exchange || "";
+        const symbol = isCrypto ? item.symbol.replace(/-USD$/i, "") : item.symbol;
+        return {
+          type: isCrypto ? "crypto" : "security",
+          symbol,
+          yahooSymbol: item.symbol,
+          name: item.longname || item.shortname || item.symbol,
+          exchange: item.exchDisp || item.exchange || "",
+          kind: item.quoteType === "ETF" ? "etf" : isCrypto ? "crypto" : "stock",
+          typeLabel: item.typeDisp || item.quoteType,
+          ...(isCrypto ? { externalUrl: `https://finance.yahoo.com/quote/${encodeURIComponent(item.symbol)}` } : { tv: `${exchangeCode}:${item.symbol.replace(".", "-")}` }),
+        };
+      });
+    return json({ assets }, { headers: { "cache-control": "public, max-age=60" } });
+  } catch {
+    return json({ assets: [] }, { status: 502, headers: { "cache-control": "no-store" } });
+  }
+}
+
 async function serveMarketSeries(url) {
   const rangeKey = url.searchParams.get("range") || "1m";
   const selection = MARKET_SERIES_RANGES[rangeKey];
@@ -739,6 +773,7 @@ export default {
     if (url.pathname === "/data/global-news.json") return serveNews(env);
     if (url.pathname === "/api/market-data") return serveMarketData();
     if (url.pathname === "/api/market-series") return serveMarketSeries(url);
+    if (url.pathname === "/api/asset-search") return serveAssetSearch(url);
     if (url.pathname === "/api/news-quotes") return serveQuotes(url);
     const articleMatch = url.pathname.match(/^\/news\/([a-f0-9]{16})\/?$/i);
     if (articleMatch && request.method === "GET") {

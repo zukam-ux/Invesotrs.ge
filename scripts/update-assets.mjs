@@ -26,11 +26,8 @@ const exchangeMap = {
 const securityAliases = {
   "0001652044": "Google",
   "0001326801": "Facebook",
+  "0001181412": "SpaceX",
 };
-
-function isFalseSpaceXSecurity(name, ticker) {
-  return ticker === "SPCX" && /spacex/i.test(name);
-}
 
 function securityKind(name, ticker, exchange) {
   if (/warrant/i.test(name) || /-WT$|W$/.test(ticker)) return "warrant";
@@ -48,7 +45,6 @@ function cryptoKind(name) {
 
 const securities = sec.data
   .filter(([, name, ticker, exchange]) => name && ticker && exchange)
-  .filter(([, name, ticker]) => !isFalseSpaceXSecurity(name, ticker))
   .map(([cik, name, ticker, exchange]) => {
     const paddedCik = String(cik).padStart(10, "0");
     return {

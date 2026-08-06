@@ -17,8 +17,9 @@ assert.equal(first("eth")?.id, "ethereum", "ETH should find canonical Ethereum f
 assert.equal(rankAssets(assets, "btc", 10).some(asset => asset.id === "bitcoin"), true, "BTC results must retain canonical Bitcoin when an ETF shares the ticker");
 assert.equal(rankAssets(assets, "eth", 10).some(asset => asset.id === "ethereum"), true, "ETH results must retain canonical Ethereum when an ETF shares the ticker");
 assert.equal(first("apple")?.symbol, "AAPL", "Apple should find AAPL first");
-assert.equal(rankAssets(assets, "space x", 10).some(asset => asset.symbol === "SPCX"), false, "Search must not present a fabricated public SpaceX listing");
-assert.equal(rankAssets(assets, "spacex", 10).some(asset => asset.type === "security" && asset.symbol === "SPCX"), false, "SpaceX must not appear as a listed SPCX security");
+assert.equal(first("spacex")?.symbol, "SPCX", "SpaceX should find the listed SPCX equity first");
+assert.equal(first("spacex")?.type, "security", "SpaceX should prefer the Nasdaq equity over crypto namesakes");
+assert.equal(first("space x")?.symbol, "SPCX", "Space X spelling should find the listed SPCX equity first");
 assert.equal(rankAssets(assets, "spacex", 10).some(asset => asset.type === "crypto"), true, "Matching crypto assets remain available in their own category");
 assert.equal(rankAssets(assets, "definitely-not-an-asset", 10).length, 0, "Unmatched queries must return no results");
 
