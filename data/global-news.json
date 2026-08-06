@@ -1,8 +1,104 @@
 {
-  "updatedAt": "2026-08-06T09:06:38.523Z",
+  "updatedAt": "2026-08-06T11:31:33.313Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "9436010bb5a8bc56",
+      "title": "Hedge funds forced out of tech stocks may leave the market at the mercy of retail traders",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVjZ3bWxZYTlVR1VwQkRSV2dpOFloamFqNHN1bTJBT3hhMW53aWxLc0ZqMzZMZzZ1Q1FYOTNPWXRTaXRyaUJfd0MtY0JhMGdRSThNME9qdXRLX0FhX1cwSVpkX2JFcnc3OHhRUEFWVTVuNHlFZWpuYU10ZWlOWGlzQ2tWSFhISzNLbmpXWDF3d19FVlJITkZKQWpuSmNFNjdYdXBQSXFIVGFpRjVYRkhLdUZsdF9ZcE51ekhISGVlUXZsRTNjUGJIbmVYSGo?oc=5",
+      "publishedAt": "2026-08-06T11:06:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQVjZ3bWxZYTlVR1VwQkRSV2dpOFloamFqNHN1bTJBT3hhMW53aWxLc0ZqMzZMZzZ1Q1FYOTNPWXRTaXRyaUJfd0MtY0JhMGdRSThNME9qdXRLX0FhX1cwSVpkX2JFcnc3OHhRUEFWVTVuNHlFZWpuYU10ZWlOWGlzQ2tWSFhISzNLbmpXWDF3d19FVlJITkZKQWpuSmNFNjdYdXBQSXFIVGFpRjVYRkhLdUZsdF9ZcE51ekhISGVlUXZsRTNjUGJIbmVYSGo?oc=5\" target=\"_blank\">Hedge funds forced out of tech stocks may leave the market at the mercy of retail traders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "titleKa": "ტექნოლოგიური აქციებიდან იძულებით გამოსულმა ჰეჯ-ფონდებმა შესაძლოა ბაზარი საცალო ტრეიდერების ანაბარად დატოვონ",
+      "summaryKa": "ჰეჯ-ფონდების იძულებითმა გასვლამ ტექნოლოგიური სექტორის აქციებიდან შესაძლოა ბაზარი მთლიანად საცალო ტრეიდერების ნებაზე დატოვოს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "42752405d6773a05",
+      "title": "Sandisk is falling after earnings. Here’s what Wall Street says.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzhKNVliSmpvVU05UTVrSzZ4ak5XN1g3NllsZHZiMEtiSEZ3eVQtdHJ3WmU1S053TjlBQWFaeDFRYjc3b1JLZ3JNbnhWc1VwOEpWd2d4ZUlQekF1QUtqUFVWZWNmdnNpYTAwQ3R1OVUwbUV1bWEzaDFmQzJGQkhuZ0gxTmE1STBXT3Q0Tm9kTzRjMEJXQmJvbEwxd0RFcGlsUnkyU3BxSQ?oc=5",
+      "publishedAt": "2026-08-06T09:56:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzhKNVliSmpvVU05UTVrSzZ4ak5XN1g3NllsZHZiMEtiSEZ3eVQtdHJ3WmU1S053TjlBQWFaeDFRYjc3b1JLZ3JNbnhWc1VwOEpWd2d4ZUlQekF1QUtqUFVWZWNmdnNpYTAwQ3R1OVUwbUV1bWEzaDFmQzJGQkhuZ0gxTmE1STBXT3Q0Tm9kTzRjMEJXQmJvbEwxd0RFcGlsUnkyU3BxSQ?oc=5\" target=\"_blank\">Sandisk is falling after earnings. Here’s what Wall Street says.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "titleKa": "Sandisk-ის აქციები ფინანსური ანგარიშგების შემდეგ ეცემა: აი, რას ამბობს უოლ სტრიტი",
+      "summaryKa": "Sandisk-ის აქციების ფასი კვარტალური ფინანსური შედეგების გამოქვეყნების შემდეგ მცირდება, რაზეც უოლ სტრიტის ანალიტიკოსები საკუთარ მოსაზრებებს გამოთქვამენ.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b5201d7d3d0f4005",
+      "title": "Saudis Cut Main Oil Price to Asia Amid Talk of Hormuz Deal",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMldVUHhTNEI0dk4xNlh1UW5kb25FQ3dxLWlMa1hfWXJjUUdCamlfVE9uRGNNdVpwX0hLY09RNEdlWVhWdGJHZnJHUTQ5SXpOenJmbXBjQWQwWFpDMlRRV0laY2wwODdHUDlkRTJtR21RdUtwTXpBNHdjWFlZUGc3VWwwUHNQTG1JUk01V3hkaXRHS19RTXFna1RwRTRFUjJtYzl6aHBrWU9jeE1KVmc?oc=5",
+      "publishedAt": "2026-08-06T09:31:02.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQMldVUHhTNEI0dk4xNlh1UW5kb25FQ3dxLWlMa1hfWXJjUUdCamlfVE9uRGNNdVpwX0hLY09RNEdlWVhWdGJHZnJHUTQ5SXpOenJmbXBjQWQwWFpDMlRRV0laY2wwODdHUDlkRTJtR21RdUtwTXpBNHdjWFlZUGc3VWwwUHNQTG1JUk01V3hkaXRHS19RTXFna1RwRTRFUjJtYzl6aHBrWU9jeE1KVmc?oc=5\" target=\"_blank\">Saudis Cut Main Oil Price to Asia Amid Talk of Hormuz Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "საუდელები აზიაში ნავთობის ძირითად ფასს ამცირებენ ჰორმუზის შეთანხმების შესახებ საუბრების ფონზე",
+      "summaryKa": "საუდის არაბეთმა შეამცირა აზიისთვის ნავთობის ძირითადი ფასი ჰორმუზის შეთანხმების თაობაზე მიმდინარე საუბრების ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2cb46834e12d945e",
+      "title": "Strategy's Michael Saylor Is Making a Strong Case Against a Proposed New Bitcoin Upgrade. Here's What That Means for Bitcoin.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUlHT1EyclBKN2R4TEJlRnVNTEYwNUEwNzVzVDJ0U21MT0djVDA0cUdHWFNhSDFwcDQ4eTU3alhUZWxwUEJ5cHd1OTJHNHliY3A3VTdVX3dULTA5em83Q29ERkNsV3BRM3BvYjl6VEZ1SzZTbXJwT1ZBYTNjMTQwVG1xT1Yyb2s0VERncWdqVmpELWxVMjh3MEJPTTNEX1RaMGN2Wkxn?oc=5",
+      "publishedAt": "2026-08-06T09:15:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUlHT1EyclBKN2R4TEJlRnVNTEYwNUEwNzVzVDJ0U21MT0djVDA0cUdHWFNhSDFwcDQ4eTU3alhUZWxwUEJ5cHd1OTJHNHliY3A3VTdVX3dULTA5em83Q29ERkNsV3BRM3BvYjl6VEZ1SzZTbXJwT1ZBYTNjMTQwVG1xT1Yyb2s0VERncWdqVmpELWxVMjh3MEJPTTNEX1RaMGN2Wkxn?oc=5\" target=\"_blank\">Strategy's Michael Saylor Is Making a Strong Case Against a Proposed New Bitcoin Upgrade. Here's What That Means for Bitcoin.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Strategy-ის მაიკლ სეილორი აქტიურად ეწინააღმდეგება ბიტკოინის შემოთავაზებულ ახალ განახლებას: აი, რას ნიშნავს ეს ბიტკოინისთვის",
+      "summaryKa": "კომპანია Strategy-ის წარმომადგენელი მაიკლ სეილორი მტკიცე არგუმენტებს წარადგენს ბიტკოინის შემოთავაზებული ახალი განახლების წინააღმდეგ და განმარტავს ამ გადაწყვეტილების გავლენას კრიპტოვალუტაზე.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1b19eb82468df853",
+      "title": "Asian Tech Stocks Are Most Volatile Since Global Financial Crisis",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTcxcHFsb3R4UURzYmtmNXhUdW9YSkc5cjhNREFndnpibFNHZjFFZ3hqUnl4LWUyUHhneHpqOGc0bzUwV1pOeHU2RklHcVJjOHo5QkFnZXFaSmxfYUNpbld2ZDFVUVZDYmN5YUppUmFyajZKdUVIa0I5Q3l4OWZoMXB4YXRVYUNyanBvaVdsZ1FWX3JPMUlibk1yMVFaUXhqVE4tNm9wbWdpeXQwY2dzcUt2Z0M0QkVwOWx3?oc=5",
+      "publishedAt": "2026-08-06T09:10:05.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTcxcHFsb3R4UURzYmtmNXhUdW9YSkc5cjhNREFndnpibFNHZjFFZ3hqUnl4LWUyUHhneHpqOGc0bzUwV1pOeHU2RklHcVJjOHo5QkFnZXFaSmxfYUNpbld2ZDFVUVZDYmN5YUppUmFyajZKdUVIa0I5Q3l4OWZoMXB4YXRVYUNyanBvaVdsZ1FWX3JPMUlibk1yMVFaUXhqVE4tNm9wbWdpeXQwY2dzcUt2Z0M0QkVwOWx3?oc=5\" target=\"_blank\">Asian Tech Stocks Are Most Volatile Since Global Financial Crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "აზიური ტექნოლოგიური აქციები გლობალური ფინანსური კრიზისის შემდეგ ყველაზე მერყევია",
+      "summaryKa": "აზიის ტექნოლოგიური სექტორის კომპანიების აქციები გლობალური ფინანსური კრიზისის პერიოდის შემდეგ მერყეობის ყველაზე მაღალ დონეს აჩვენებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d92f23c33f7dde56",
+      "title": "Sheinbaum’s Approval Jumps as Mexico Inflation Cools to Five-Year Low",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2lIaDJ0VktMU1BHaHNaUFZsSlJVb3hFS3poLXNwdVdkUHVvT080V2V1Vmp3SUhIV2JMTVJyREZEZ20tNFoyZkFyTDF0dUNWTlRfMmlvZEFUOW0wTWxCaklnTWFETnk1VW8wV3d6UjZhMUgwZi1VT1o4LWRrUW1ITmRCWnJjbGE0TUdjbUJ1RC1NRi1BRnN5aFBneXhocXhqb1pheHVSeWdVN0h2Y2dwUUtvOA?oc=5",
+      "publishedAt": "2026-08-06T09:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2lIaDJ0VktMU1BHaHNaUFZsSlJVb3hFS3poLXNwdVdkUHVvT080V2V1Vmp3SUhIV2JMTVJyREZEZ20tNFoyZkFyTDF0dUNWTlRfMmlvZEFUOW0wTWxCaklnTWFETnk1VW8wV3d6UjZhMUgwZi1VT1o4LWRrUW1ITmRCWnJjbGE0TUdjbUJ1RC1NRi1BRnN5aFBneXhocXhqb1pheHVSeWdVN0h2Y2dwUUtvOA?oc=5\" target=\"_blank\">Sheinbaum’s Approval Jumps as Mexico Inflation Cools to Five-Year Low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "შეინბაუმის რეიტინგი მკვეთრად იზრდება, რადგან მექსიკაში ინფლაცია ხუთი წლის მინიმუმამდე შემცირდა",
+      "summaryKa": "მექსიკაში ინფლაციის ხუთწლიან მინიმუმამდე კლებასთან ერთად, შეინბაუმის მხარდაჭერისა და მოწონების მაჩვენებელი მკვეთრად გაიზარდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b52a149af7f7cd69",
+      "title": "Banxico to Hold Rates on Inflation and Growth Risks: Day Guide",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHR3RGJhdEVIVmhabnF3Mktfby1fTG1fVm9iV0JhbUFteEoxeDh0MF9MQmkxb3hKNmJ4VEJBbUtfUjJ0MEp1aTlkc0dJWUhqU2tsZ2lUVERwRV9iTGVVbWFnM1d4ckQ2Q21tSU5ORDFnSkxHWnJXUGFuaFdzUDY0MEs5MzRhbEN1aWdDcURZN1NhLTVucjJ0QXQ4UVZGaUFLcy1SenE2Z1RQejludmVkeFZn?oc=5",
+      "publishedAt": "2026-08-06T09:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHR3RGJhdEVIVmhabnF3Mktfby1fTG1fVm9iV0JhbUFteEoxeDh0MF9MQmkxb3hKNmJ4VEJBbUtfUjJ0MEp1aTlkc0dJWUhqU2tsZ2lUVERwRV9iTGVVbWFnM1d4ckQ2Q21tSU5ORDFnSkxHWnJXUGFuaFdzUDY0MEs5MzRhbEN1aWdDcURZN1NhLTVucjJ0QXQ4UVZGaUFLcy1SenE2Z1RQejludmVkeFZn?oc=5\" target=\"_blank\">Banxico to Hold Rates on Inflation and Growth Risks: Day Guide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "Banxico ინფლაციისა და ეკონომიკური ზრდის რისკების გამო საპროცენტო განაკვეთებს უცვლელად დატოვებს: დღის გზამკვლევი",
+      "summaryKa": "მექსიკის ცენტრალური ბანკი Banxico გეგმავს შეინარჩუნოს საპროცენტო განაკვეთები არსებულ დონეზე ინფლაციისა და ეკონომიკური ზრდის რისკებიდან გამომდინარე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3fdbb433af97aa39",
+      "title": "Gold Is Waking Up to the Warsh Fed",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1FsSTF3c2k3UzBNVG1lM180TkFWZmdzSUVTZnNpOUhkY3l4LWl6UFNKcGJoMXpGUHJBZE1oMFM3V19IMzRZRWZuSVlGejB6TERFel9LQTZXT2JmM3BHNWczUlZFd1Bhc0h3cTJKTGp2NmVxakc2bkUzOEFYV25CTUIyUUJVd0hCbm5WVURmSUk1bnVoN0E?oc=5",
+      "publishedAt": "2026-08-06T08:53:33.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1FsSTF3c2k3UzBNVG1lM180TkFWZmdzSUVTZnNpOUhkY3l4LWl6UFNKcGJoMXpGUHJBZE1oMFM3V19IMzRZRWZuSVlGejB6TERFel9LQTZXT2JmM3BHNWczUlZFd1Bhc0h3cTJKTGp2NmVxakc2bkUzOEFYV25CTUIyUUJVd0hCbm5WVURmSUk1bnVoN0E?oc=5\" target=\"_blank\">Gold Is Waking Up to the Warsh Fed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ოქრო იღვიძებს „Warsh Fed“-ის ფონზე",
+      "summaryKa": "ოქრო იწყებს გააქტიურებას „Warsh Fed“-ის ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "c8b0be996039e017",
       "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap",
@@ -12,6 +108,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPalBZaVhYZzF6cHlBTkI0ZEwyT012aU5LdUx5ZU1QRWRtTWsxam41QkJEWkZtNG5QYW1LRU1URzZpX25RZ0FrQkM4bjdfZnFxREFRWk9BLWZaSEpxT3FGVU9RV2RPZzlmQ1BPR2Q1QllNeVNsMF9kOVhnOHBIX2ZXcG9ZU3VhV3dXck1ZVGFyeGtpdDBL?oc=5\" target=\"_blank\">Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "აზიური აქციები კლებისთვის ემზადება, რადგან ხელოვნური ინტელექტის (AI) რალი ნელდება: ბაზრების მიმოხილვა",
       "summaryKa": "ხელოვნური ინტელექტის (AI) აქციების ზრდის ტემპის შენელების ფონზე, აზიური აქციები შემცირებისთვის ემზადება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f4de5b836be1b7e5",
+      "title": "US Stock Market Today: S&P 500 Futures Edge Higher As Inflation Worries Ease",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTzVtQ1hET0pTb0RrcndEZEl6Nl9TdklzaFFYbXdlZ3p2SDk4MXdaaGVNQ0lvdUlLZ3d1S0pQQlZ0VXVIX0ZkOVVEMGNKbmExRXM1Sm5ELVpFamZNZEhkM0lURnpKVWJFNzUwa1FQLWRRVHlmMVVBdXowaU1oUE5ES0l3TFR2ZHM0NU5aZU5ZU1p4QQ?oc=5",
+      "publishedAt": "2026-08-06T08:10:48.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTzVtQ1hET0pTb0RrcndEZEl6Nl9TdklzaFFYbXdlZ3p2SDk4MXdaaGVNQ0lvdUlLZ3d1S0pQQlZ0VXVIX0ZkOVVEMGNKbmExRXM1Sm5ELVpFamZNZEhkM0lURnpKVWJFNzUwa1FQLWRRVHlmMVVBdXowaU1oUE5ES0l3TFR2ZHM0NU5aZU5ZU1p4QQ?oc=5\" target=\"_blank\">US Stock Market Today: S&P 500 Futures Edge Higher As Inflation Worries Ease</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "აშშ-ის საფონდო ბაზარი დღეს: S&P 500-ის ფიუჩერსები ოდნავ იზრდება ინფლაციური შეშფოთების შესუსტების ფონზე",
+      "summaryKa": "აშშ-ის საფონდო ბაზარზე S&P 500-ის ფიუჩერსები მცირედით იზრდება, რაც გამოწვეულია ინფლაციასთან დაკავშირებული შიშების შემცირებით.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -28,15 +136,15 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "b5201d7d3d0f4005",
-      "title": "Saudis Cut Main Oil Price to Asia Amid Talk of Hormuz Deal",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMldVUHhTNEI0dk4xNlh1UW5kb25FQ3dxLWlMa1hfWXJjUUdCamlfVE9uRGNNdVpwX0hLY09RNEdlWVhWdGJHZnJHUTQ5SXpOenJmbXBjQWQwWFpDMlRRV0laY2wwODdHUDlkRTJtR21RdUtwTXpBNHdjWFlZUGc3VWwwUHNQTG1JUk01V3hkaXRHS19RTXFna1RwRTRFUjJtYzl6aHBrWU9jeE1KVmc?oc=5",
-      "publishedAt": "2026-08-06T07:41:05.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQMldVUHhTNEI0dk4xNlh1UW5kb25FQ3dxLWlMa1hfWXJjUUdCamlfVE9uRGNNdVpwX0hLY09RNEdlWVhWdGJHZnJHUTQ5SXpOenJmbXBjQWQwWFpDMlRRV0laY2wwODdHUDlkRTJtR21RdUtwTXpBNHdjWFlZUGc3VWwwUHNQTG1JUk01V3hkaXRHS19RTXFna1RwRTRFUjJtYzl6aHBrWU9jeE1KVmc?oc=5\" target=\"_blank\">Saudis Cut Main Oil Price to Asia Amid Talk of Hormuz Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "საუდელები აზიაში ნავთობის ძირითად ფასს ამცირებენ ჰორმუზის შეთანხმების შესახებ საუბრების ფონზე",
-      "summaryKa": "საუდის არაბეთმა შეამცირა აზიისთვის ნავთობის ძირითადი ფასი ჰორმუზის შეთანხმების თაობაზე მიმდინარე საუბრების ფონზე.",
-      "category": "ბაზრები და ეკონომიკა",
+      "id": "77297a1c1923fef8",
+      "title": "Galaxy Digital Stock Slides 14% as Crypto Prices Hit Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEJ0OHQzZVU5aWR6bXF3aVBoNVJyRUpnbHpCVllIbFlMZXNuRmhJOEItUHR6cHlvSTJnR1hMRzJ4emlSdEtTWlZZVFVCcUVyc0NVS1g4ODNzZVVXdGowWmZzSUtFcXRjVF9yU3AxY0N5UDZvWXkzUGp2NXV5dVNoR09NRjY4aFRuS3pfbzQtRE5ORDd1RVBxaGNabw?oc=5",
+      "publishedAt": "2026-08-06T06:40:10.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEJ0OHQzZVU5aWR6bXF3aVBoNVJyRUpnbHpCVllIbFlMZXNuRmhJOEItUHR6cHlvSTJnR1hMRzJ4emlSdEtTWlZZVFVCcUVyc0NVS1g4ODNzZVVXdGowWmZzSUtFcXRjVF9yU3AxY0N5UDZvWXkzUGp2NXV5dVNoR09NRjY4aFRuS3pfbzQtRE5ORDd1RVBxaGNabw?oc=5\" target=\"_blank\">Galaxy Digital Stock Slides 14% as Crypto Prices Hit Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Galaxy Digital-ის აქციები 14%-ით დაეცა, რადგან კრიპტო ფასებმა კომპანიის შემოსავლებზე უარყოფითი გავლენა იქონია",
+      "summaryKa": "კომპანია Galaxy Digital-ის აქციების ღირებულება 14%-ით შემცირდა მას შემდეგ, რაც კრიპტოვალუტების ფასების კლებამ მის ფინანსურ შემოსავლებზე იმოქმედა.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -84,18 +192,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPNzhVdzhCVUJzTzd5RlV4RHRmcFViel9xTHlyN29QZGt4dnJIOUhXZUtCMXJZX242U1IzTkVmVk84ekRtMjgySndIV0FtdDc3MzV3UHBKT3lhYVVmUVdDUnNHTEtFTXByYjhkb0twMktNcUR5aU1FWm95ZXdna2RIYVZMeWJDN1RWWFE?oc=5\" target=\"_blank\">APA Raises U.S. Oil Forecast as Second-Quarter Output Beats Guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "APA ზრდის აშშ-ის ნავთობის პროგნოზს, რადგან მეორე კვარტლის გამოშვებამ მოლოდინს გადააჭარბა",
       "summaryKa": "კომპანია APA-მ აშშ-ის ნავთობის მოპოვების პროგნოზი გაზარდა, რადგან მეორე კვარტლის წარმოებამ საორიენტაციო მაჩვენებლებს გადააჭარბა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "3fdbb433af97aa39",
-      "title": "Gold Is Waking Up to the Warsh Fed",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1FsSTF3c2k3UzBNVG1lM180TkFWZmdzSUVTZnNpOUhkY3l4LWl6UFNKcGJoMXpGUHJBZE1oMFM3V19IMzRZRWZuSVlGejB6TERFel9LQTZXT2JmM3BHNWczUlZFd1Bhc0h3cTJKTGp2NmVxakc2bkUzOEFYV25CTUIyUUJVd0hCbm5WVURmSUk1bnVoN0E?oc=5",
-      "publishedAt": "2026-08-06T04:00:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1FsSTF3c2k3UzBNVG1lM180TkFWZmdzSUVTZnNpOUhkY3l4LWl6UFNKcGJoMXpGUHJBZE1oMFM3V19IMzRZRWZuSVlGejB6TERFel9LQTZXT2JmM3BHNWczUlZFd1Bhc0h3cTJKTGp2NmVxakc2bkUzOEFYV25CTUIyUUJVd0hCbm5WVURmSUk1bnVoN0E?oc=5\" target=\"_blank\">Gold Is Waking Up to the Warsh Fed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ოქრო იღვიძებს „Warsh Fed“-ის ფონზე",
-      "summaryKa": "ოქრო იწყებს გააქტიურებას „Warsh Fed“-ის ფონზე.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -180,6 +276,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWThXUlAxUk9jWndNMWVPeU1FLUU0SF9RQS0xZENEZHZpTUh0SWFITTNPdTk5c2g2NVZEOTFMYWV5bnlPNl93WTJPMk8yc1BxT0xsUF9IZzV5VU5RWWR3UnFWOUtwdGdJUEFkMlB4LW5DamZsekxIaW5CZUhTQUdTUVFFMk1wMTdnSl84UXdnLXotZ0d5ck1LTkdRb3dZTXp6Q1pMRGwwbTNlSGd5NndoWHlBajM?oc=5\" target=\"_blank\">Philippine Bond Slump to Extend on Inflation Worry, Analysts Say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "ფილიპინების ობლიგაციების ვარდნა ინფლაციის გამო გაგრძელდება, აცხადებენ ანალიტიკოსები",
       "summaryKa": "ანალიტიკოსების განცხადებით, ფილიპინების სახელმწიფო ობლიგაციების ფასების კლება ინფლაციასთან დაკავშირებული შეშფოთების გამო კიდევ უფრო გაგრძელდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3d9c6eebb7130f16",
+      "title": "'Reasonable' to Allocate in US Given Earnings, Wytenus Says",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY1JNbm5vVHBqSHZVbDJ1aXMwSzl4Uk5tXzRwSmgyek5xYmY2bmxVNExuc2wwSVlhYkYwaS01YXBOYzJINnhMejNwNnl6d3JPSDBXUWVyNjE1d21yS1lzWXFLSEdmS1VwYWZpZDkzNTIxWXUyQXpQdy10NERXcWJBRlh2VlhOWVdqbmtIbVpRWXR5X1hfV3ZuUmN6UWxheTZ6dVJlMmFaZzQwc3c?oc=5",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY1JNbm5vVHBqSHZVbDJ1aXMwSzl4Uk5tXzRwSmgyek5xYmY2bmxVNExuc2wwSVlhYkYwaS01YXBOYzJINnhMejNwNnl6d3JPSDBXUWVyNjE1d21yS1lzWXFLSEdmS1VwYWZpZDkzNTIxWXUyQXpQdy10NERXcWJBRlh2VlhOWVdqbmtIbVpRWXR5X1hfV3ZuUmN6UWxheTZ6dVJlMmFaZzQwc3c?oc=5\" target=\"_blank\">'Reasonable' to Allocate in US Given Earnings, Wytenus Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "უაიტენუსის განცხადებით, მიღებული შემოსავლების გათვალისწინებით, აშშ-ში სახსრების განაწილება „გონივრულია“",
+      "summaryKa": "უაიტენუსი მიიჩნევს, რომ არსებული ფინანსური შემოსავლების გათვალისწინებით, ამერიკულ აქტივებში კაპიტალის განაწილება გონივრული ნაბიჯია.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
