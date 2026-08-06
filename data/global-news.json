@@ -1,17 +1,77 @@
 {
-  "updatedAt": "2026-08-06T03:37:37.341Z",
+  "updatedAt": "2026-08-06T06:15:23.166Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "c8b0be996039e017",
+      "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPalBZaVhYZzF6cHlBTkI0ZEwyT012aU5LdUx5ZU1QRWRtTWsxam41QkJEWkZtNG5QYW1LRU1URzZpX25RZ0FrQkM4bjdfZnFxREFRWk9BLWZaSEpxT3FGVU9RV2RPZzlmQ1BPR2Q1QllNeVNsMF9kOVhnOHBIX2ZXcG9ZU3VhV3dXck1ZVGFyeGtpdDBL?oc=5",
+      "publishedAt": "2026-08-06T05:53:12.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPalBZaVhYZzF6cHlBTkI0ZEwyT012aU5LdUx5ZU1QRWRtTWsxam41QkJEWkZtNG5QYW1LRU1URzZpX25RZ0FrQkM4bjdfZnFxREFRWk9BLWZaSEpxT3FGVU9RV2RPZzlmQ1BPR2Q1QllNeVNsMF9kOVhnOHBIX2ZXcG9ZU3VhV3dXck1ZVGFyeGtpdDBL?oc=5\" target=\"_blank\">Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "აზიური აქციები კლებისთვის ემზადება, რადგან ხელოვნური ინტელექტის (AI) რალი ნელდება: ბაზრების მიმოხილვა",
+      "summaryKa": "ხელოვნური ინტელექტის (AI) აქციების ზრდის ტემპის შენელების ფონზე, აზიური აქციები შემცირებისთვის ემზადება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3bca8a611def0af9",
+      "title": "Zurich Insurance Earnings Boosted by Global Data Center Demand",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXFMd1gwZGhhckY2Q0NJMndfR09jeVpGYlF5bkIybVlhZll2MUJnSkc4NE9RUjBfeU8zT3MyYzZFOVF6dmZGTUZ5c2pkR3dMMXZOYnIzTGZlcmF4ZUhEZTIzX2xtQ3kzX3d3UWd6TkFvSlhFTXNFcUFIRlZmdDJvLUdwZGtMUmRxa2loaU40SkZxd2JYSFYtWmhJU2tVWG5CM2FmWkRvRHFEdlZIejRodHozcw?oc=5",
+      "publishedAt": "2026-08-06T05:19:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXFMd1gwZGhhckY2Q0NJMndfR09jeVpGYlF5bkIybVlhZll2MUJnSkc4NE9RUjBfeU8zT3MyYzZFOVF6dmZGTUZ5c2pkR3dMMXZOYnIzTGZlcmF4ZUhEZTIzX2xtQ3kzX3d3UWd6TkFvSlhFTXNFcUFIRlZmdDJvLUdwZGtMUmRxa2loaU40SkZxd2JYSFYtWmhJU2tVWG5CM2FmWkRvRHFEdlZIejRodHozcw?oc=5\" target=\"_blank\">Zurich Insurance Earnings Boosted by Global Data Center Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "Zurich Insurance-ის მოგება გლობალურ მონაცემთა ცენტრებზე მოთხოვნამ გაზარდა",
+      "summaryKa": "გლობალურ მონაცემთა ცენტრებზე არსებულმა მოთხოვნამ Zurich Insurance-ის მოგების ზრდა გამოიწვია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a847434fe05a9e8c",
+      "title": "Siemens Raises Earnings Outlook on Software, Data Center Gains",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUVCSDUwSXN0M0dUZUc0akJCOTctbVVEWm5PRnRoc2VBY2tCc1Rqc1lJaENTNjdQbjM1Tkd6Z1FVNUxXSmx1VlJ4a0VONFhMUl9oMHVFWnhPMEJsLW5DbGs3MGdZZUctT0pMMlduYzJoWnkwbHpNd1NTcEI3cnpITXZ0ZlhwRXMzVmMwR3RPMEtqOC0zcVpRaVRDR3pXUFZ3OE5DR2dkNm5peEJrYVZIblRtdzhqelFESjRzZGJ6RlhOR2JxZEZxaHNZczBTdw?oc=5",
+      "publishedAt": "2026-08-06T05:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUVCSDUwSXN0M0dUZUc0akJCOTctbVVEWm5PRnRoc2VBY2tCc1Rqc1lJaENTNjdQbjM1Tkd6Z1FVNUxXSmx1VlJ4a0VONFhMUl9oMHVFWnhPMEJsLW5DbGs3MGdZZUctT0pMMlduYzJoWnkwbHpNd1NTcEI3cnpITXZ0ZlhwRXMzVmMwR3RPMEtqOC0zcVpRaVRDR3pXUFZ3OE5DR2dkNm5peEJrYVZIblRtdzhqelFESjRzZGJ6RlhOR2JxZEZxaHNZczBTdw?oc=5\" target=\"_blank\">Siemens Raises Earnings Outlook on Software, Data Center Gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "Siemens-ი მოგების პროგნოზს ზრდის პროგრამული უზრუნველყოფისა და მონაცემთა ცენტრებისგან მიღებული სარგებლის ფონზე",
+      "summaryKa": "კომპანია Siemens-მა გაზარდა თავისი მოგების პროგნოზი პროგრამული უზრუნველყოფისა და მონაცემთა ცენტრებიდან მიღებული სარგებლის გამო.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3fdbb433af97aa39",
+      "title": "Gold Is Waking Up to the Warsh Fed",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1FsSTF3c2k3UzBNVG1lM180TkFWZmdzSUVTZnNpOUhkY3l4LWl6UFNKcGJoMXpGUHJBZE1oMFM3V19IMzRZRWZuSVlGejB6TERFel9LQTZXT2JmM3BHNWczUlZFd1Bhc0h3cTJKTGp2NmVxakc2bkUzOEFYV25CTUIyUUJVd0hCbm5WVURmSUk1bnVoN0E?oc=5",
+      "publishedAt": "2026-08-06T04:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1FsSTF3c2k3UzBNVG1lM180TkFWZmdzSUVTZnNpOUhkY3l4LWl6UFNKcGJoMXpGUHJBZE1oMFM3V19IMzRZRWZuSVlGejB6TERFel9LQTZXT2JmM3BHNWczUlZFd1Bhc0h3cTJKTGp2NmVxakc2bkUzOEFYV25CTUIyUUJVd0hCbm5WVURmSUk1bnVoN0E?oc=5\" target=\"_blank\">Gold Is Waking Up to the Warsh Fed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ოქრო იღვიძებს „Warsh Fed“-ის ფონზე",
+      "summaryKa": "ოქრო იწყებს გააქტიურებას „Warsh Fed“-ის ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "546d3401f3cad401",
       "title": "Shell, BP, Exxon: Big Oil Is Bracing for Lower Prices — and Rightly So",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZW1tVG9rU3k5Z3I1ZWNhN3Q3Q1BOZVBZaWMxRy1aNHg4NmhNZGRXcDBrOUFscTFiM1hwVTRLdmpWLTAzdy16QVdWZnBDS245MGU5V3pzMWN0Z1AyZDR4dzJKSm1iSWZtbjE1OGp0emM1T0JZU0I0ZTJzRzlKdGtERVU2TTVWalRnQUx4bFFELVdZdHdOMnRfV3diM3lFY3V4NUpGZnIwTG8tOUY3NzVoS2hheUF2ZnZGVWpz?oc=5",
-      "publishedAt": "2026-08-06T03:30:16.000Z",
+      "publishedAt": "2026-08-06T03:30:00.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZW1tVG9rU3k5Z3I1ZWNhN3Q3Q1BOZVBZaWMxRy1aNHg4NmhNZGRXcDBrOUFscTFiM1hwVTRLdmpWLTAzdy16QVdWZnBDS245MGU5V3pzMWN0Z1AyZDR4dzJKSm1iSWZtbjE1OGp0emM1T0JZU0I0ZTJzRzlKdGtERVU2TTVWalRnQUx4bFFELVdZdHdOMnRfV3diM3lFY3V4NUpGZnIwTG8tOUY3NzVoS2hheUF2ZnZGVWpz?oc=5\" target=\"_blank\">Shell, BP, Exxon: Big Oil Is Bracing for Lower Prices — and Rightly So</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "Shell, BP, Exxon: მსხვილი ნავთობკომპანიები ფასების კლებისთვის ემზადებიან — და ეს მართებულიცაა",
       "summaryKa": "მსხვილი ნავთობკომპანიები, როგორებიცაა Shell, BP და Exxon, ფასების მოსალოდნელი კლებისთვის ემზადებიან, რაც მართებულ ნაბიჯადაა მიჩნეული.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8c2f47dc86ff931b",
+      "title": "Occidental Profit Jumps on Higher Oil Prices and Midstream Gains",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkxGamVIaVMtTHBwLUJkYjRlbFNxY0I3djdFVzhGQ2RhM1FVTldYWW8yamZVQkU0QUNQSXBqY0lkeWdHOTAxM2RZZk9qZzVGRjBkMjBYZzVKQ0pUVTcxY0QzT2V5SlVacklOckNkcVgzVHY2VW1iTlNBU2ZDNngyZi1rUGxWTlhjcHR1aFB2bXNoc0U2QXc?oc=5",
+      "publishedAt": "2026-08-06T03:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkxGamVIaVMtTHBwLUJkYjRlbFNxY0I3djdFVzhGQ2RhM1FVTldYWW8yamZVQkU0QUNQSXBqY0lkeWdHOTAxM2RZZk9qZzVGRjBkMjBYZzVKQ0pUVTcxY0QzT2V5SlVacklOckNkcVgzVHY2VW1iTlNBU2ZDNngyZi1rUGxWTlhjcHR1aFB2bXNoc0U2QXc?oc=5\" target=\"_blank\">Occidental Profit Jumps on Higher Oil Prices and Midstream Gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Occidental-ის მოგება მკვეთრად გაიზარდა ნავთობის მაღალი ფასებისა და midstream-დან მიღებული სარგებლის ფონზე",
+      "summaryKa": "კომპანია Occidental-ის მოგება გაიზარდა ნავთობის მაღალი ფასებისა და midstream სეგმენტიდან მიღებული სარგებლის შედეგად.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -48,6 +108,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWThXUlAxUk9jWndNMWVPeU1FLUU0SF9RQS0xZENEZHZpTUh0SWFITTNPdTk5c2g2NVZEOTFMYWV5bnlPNl93WTJPMk8yc1BxT0xsUF9IZzV5VU5RWWR3UnFWOUtwdGdJUEFkMlB4LW5DamZsekxIaW5CZUhTQUdTUVFFMk1wMTdnSl84UXdnLXotZ0d5ck1LTkdRb3dZTXp6Q1pMRGwwbTNlSGd5NndoWHlBajM?oc=5\" target=\"_blank\">Philippine Bond Slump to Extend on Inflation Worry, Analysts Say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "ფილიპინების ობლიგაციების ვარდნა ინფლაციის გამო გაგრძელდება, აცხადებენ ანალიტიკოსები",
       "summaryKa": "ანალიტიკოსების განცხადებით, ფილიპინების სახელმწიფო ობლიგაციების ფასების კლება ინფლაციასთან დაკავშირებული შეშფოთების გამო კიდევ უფრო გაგრძელდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "61d13edbd3908d1e",
+      "title": "WDC Stock Sinks 11% After-Hours Despite Earnings Beat — Retail Questions Selloff, Blames ‘Technicals And Algos’",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUkNZQjNEV0NRMGN5d29jMmJHb3hYek1yNDNEY3lzR1MxdXBEMkp0NEtib0tMY1pzQjdKek5makZVQjRueHYyZ0pPNUZDcDdkSTZuem4yczZYd0x3Xy04Z0J4YmNKQ3loTjlqS1M1RkVxWFYtNHhqamQ4RkpFTVBFa19mbFh5Q3BDNHhFeVE5TjJlOXc?oc=5",
+      "publishedAt": "2026-08-05T23:37:49.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPUkNZQjNEV0NRMGN5d29jMmJHb3hYek1yNDNEY3lzR1MxdXBEMkp0NEtib0tMY1pzQjdKek5makZVQjRueHYyZ0pPNUZDcDdkSTZuem4yczZYd0x3Xy04Z0J4YmNKQ3loTjlqS1M1RkVxWFYtNHhqamQ4RkpFTVBFa19mbFh5Q3BDNHhFeVE5TjJlOXc?oc=5\" target=\"_blank\">WDC Stock Sinks 11% After-Hours Despite Earnings Beat — Retail Questions Selloff, Blames ‘Technicals And Algos’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "WDC-ის აქციები არასამუშაო საათებში 11%-ით ეცემა, მიუხედავად პროგნოზზე უკეთესი მოგებისა — საცალო ინვესტორები კითხვის ნიშნის ქვეშ აყენებენ გაყიდვებს და ადანაშაულებენ „ტექნიკურ ფაქტორებსა და ალგორითმებს“",
+      "summaryKa": "WDC-ის აქციები არასამუშაო საათებში 11%-ით შემცირდა, მიუხედავად პროგნოზზე უკეთესი მოგებისა, რაშიც საცალო ინვესტორები „ტექნიკურ ფაქტორებსა და ალგორითმებს“ ადანაშაულებენ.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -112,6 +184,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "3ea87e6280eab4f7",
+      "title": "Peirce Says SEC Crypto Reform Can Continue Without CLARITY Act",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUU1ZdVdxbU53cERreGtxUl8xQ2I3LTAtR2ZEMUl2b0VlVk1CSDZySmZEekQwZVFEcEt5WTNQNnhZUG5wNnBTaVhFTXJIR1lRa1RyanlESUdtcXhkSWFSZEZRdXg4NWV5RHczMFVZcUxLWlhqYUd6TEVxQmZZVDE1WGlQU2pyVkNrLWtHTUZld3B4TTgySTVSVmpn?oc=5",
+      "publishedAt": "2026-08-05T22:13:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUU1ZdVdxbU53cERreGtxUl8xQ2I3LTAtR2ZEMUl2b0VlVk1CSDZySmZEekQwZVFEcEt5WTNQNnhZUG5wNnBTaVhFTXJIR1lRa1RyanlESUdtcXhkSWFSZEZRdXg4NWV5RHczMFVZcUxLWlhqYUd6TEVxQmZZVDE1WGlQU2pyVkNrLWtHTUZld3B4TTgySTVSVmpn?oc=5\" target=\"_blank\">Peirce Says SEC Crypto Reform Can Continue Without CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Peirce-ის განცხადებით, SEC-ის კრიპტო რეფორმა შეიძლება გაგრძელდეს CLARITY Act-ის გარეშე",
+      "summaryKa": "Peirce აცხადებს, რომ SEC-ის კრიპტო რეფორმის გაგრძელება შესაძლებელია CLARITY Act-ის გარეშე.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "a76b081ed9f9b9cc",
       "title": "Sandisk Corporation (SNDK) Beats Q4 Earnings and Revenue Estimates",
       "source": "Yahoo Finance",
@@ -120,18 +204,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPSThMekc1MzFOVWRBZzYxa0Q5cTE0QVNsWEpaZUdXeHduS1Fab0duS1FjQmg2VlNSdlh2bTczUkQwZ0YydWZBcjVYUHVFdTYxZHliWnRzYTg1ZjNzNnZqaEtHNnY2dGt1eVZQeU1TMldWdVBOQUNuQnJhcWJPWEZCYk41ODdfdlJpTU5XU0NDc1o4dkNtOXhLTnJJNzNMSk0?oc=5\" target=\"_blank\">Sandisk Corporation (SNDK) Beats Q4 Earnings and Revenue Estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "Sandisk Corporation (SNDK)-მა მეოთხე კვარტლის მოგებისა და შემოსავლების პროგნოზებს გადააჭარბა",
       "summaryKa": "კომპანია Sandisk Corporation (SNDK)-მა მეოთხე კვარტალში მოგებისა და შემოსავლების საპროგნოზო მაჩვენებლებს გადააჭარბა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "c8b0be996039e017",
-      "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPalBZaVhYZzF6cHlBTkI0ZEwyT012aU5LdUx5ZU1QRWRtTWsxam41QkJEWkZtNG5QYW1LRU1URzZpX25RZ0FrQkM4bjdfZnFxREFRWk9BLWZaSEpxT3FGVU9RV2RPZzlmQ1BPR2Q1QllNeVNsMF9kOVhnOHBIX2ZXcG9ZU3VhV3dXck1ZVGFyeGtpdDBL?oc=5",
-      "publishedAt": "2026-08-05T22:06:50.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPalBZaVhYZzF6cHlBTkI0ZEwyT012aU5LdUx5ZU1QRWRtTWsxam41QkJEWkZtNG5QYW1LRU1URzZpX25RZ0FrQkM4bjdfZnFxREFRWk9BLWZaSEpxT3FGVU9RV2RPZzlmQ1BPR2Q1QllNeVNsMF9kOVhnOHBIX2ZXcG9ZU3VhV3dXck1ZVGFyeGtpdDBL?oc=5\" target=\"_blank\">Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "აზიური აქციები კლებისთვის ემზადება, რადგან ხელოვნური ინტელექტის (AI) რალი ნელდება: ბაზრების მიმოხილვა",
-      "summaryKa": "ხელოვნური ინტელექტის (AI) აქციების ზრდის ტემპის შენელების ფონზე, აზიური აქციები შემცირებისთვის ემზადება.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
