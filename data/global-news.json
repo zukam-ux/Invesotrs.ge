@@ -1,18 +1,114 @@
 {
-  "updatedAt": "2026-08-06T11:31:33.313Z",
+  "updatedAt": "2026-08-06T13:18:30.945Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "e2c86a0e66d72400",
+      "title": "Gold prices today, Thursday, August 6, 2026: Gold prices surge as Hormuz inches closer to reopening",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY3ZsdVhWMXh2a0kxaUZWdUh5Z2pkZ2VXUEw3TTIzOTBwTTlIbTNPZERua1JhSi1uNUNZSlVFcVlIOTZkU2ZnUzQ1dEt1NWlETERoT0dDUDRCVXMwem1SQ0tPRjd3VHJHaFlzWHpSQXZkUG42TkpIZWo5YTMwa2wwV0lYUFg5Z2FNOVJtaWxZMmNwcndWdkc2R2JWU3R5cFVOV1RkOTdBYnIzSF8wQmJNMGNDTloxLWhQdkFsVmU5UEhHR2dFOVRKalRITVNQR0tBbWN3SWt4N1ZsaDBlRWEyRFc5MXZlMG8wRnptbUY0Y2llUk5RdWprTEV3N3owS1ph?oc=5",
+      "publishedAt": "2026-08-06T13:07:43.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPY3ZsdVhWMXh2a0kxaUZWdUh5Z2pkZ2VXUEw3TTIzOTBwTTlIbTNPZERua1JhSi1uNUNZSlVFcVlIOTZkU2ZnUzQ1dEt1NWlETERoT0dDUDRCVXMwem1SQ0tPRjd3VHJHaFlzWHpSQXZkUG42TkpIZWo5YTMwa2wwV0lYUFg5Z2FNOVJtaWxZMmNwcndWdkc2R2JWU3R5cFVOV1RkOTdBYnIzSF8wQmJNMGNDTloxLWhQdkFsVmU5UEhHR2dFOVRKalRITVNQR0tBbWN3SWt4N1ZsaDBlRWEyRFc5MXZlMG8wRnptbUY0Y2llUk5RdWprTEV3N3owS1ph?oc=5\" target=\"_blank\">Gold prices today, Thursday, August 6, 2026: Gold prices surge as Hormuz inches closer to reopening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ოქროს ფასები დღეს, ხუთშაბათს, 2026 წლის 6 აგვისტოს: ოქროს ფასები მკვეთრად იზრდება, რადგან ჰორმუზი გახსნას უახლოვდება",
+      "summaryKa": "2026 წლის 6 აგვისტოს, ხუთშაბათს, ოქროს ფასები მკვეთრად გაიზარდა, რადგან ჰორმუზი გახსნას უახლოვდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "9436010bb5a8bc56",
       "title": "Hedge funds forced out of tech stocks may leave the market at the mercy of retail traders",
       "source": "MarketWatch",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVjZ3bWxZYTlVR1VwQkRSV2dpOFloamFqNHN1bTJBT3hhMW53aWxLc0ZqMzZMZzZ1Q1FYOTNPWXRTaXRyaUJfd0MtY0JhMGdRSThNME9qdXRLX0FhX1cwSVpkX2JFcnc3OHhRUEFWVTVuNHlFZWpuYU10ZWlOWGlzQ2tWSFhISzNLbmpXWDF3d19FVlJITkZKQWpuSmNFNjdYdXBQSXFIVGFpRjVYRkhLdUZsdF9ZcE51ekhISGVlUXZsRTNjUGJIbmVYSGo?oc=5",
-      "publishedAt": "2026-08-06T11:06:00.000Z",
+      "publishedAt": "2026-08-06T12:47:00.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQVjZ3bWxZYTlVR1VwQkRSV2dpOFloamFqNHN1bTJBT3hhMW53aWxLc0ZqMzZMZzZ1Q1FYOTNPWXRTaXRyaUJfd0MtY0JhMGdRSThNME9qdXRLX0FhX1cwSVpkX2JFcnc3OHhRUEFWVTVuNHlFZWpuYU10ZWlOWGlzQ2tWSFhISzNLbmpXWDF3d19FVlJITkZKQWpuSmNFNjdYdXBQSXFIVGFpRjVYRkhLdUZsdF9ZcE51ekhISGVlUXZsRTNjUGJIbmVYSGo?oc=5\" target=\"_blank\">Hedge funds forced out of tech stocks may leave the market at the mercy of retail traders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
       "titleKa": "ტექნოლოგიური აქციებიდან იძულებით გამოსულმა ჰეჯ-ფონდებმა შესაძლოა ბაზარი საცალო ტრეიდერების ანაბარად დატოვონ",
       "summaryKa": "ჰეჯ-ფონდების იძულებითმა გასვლამ ტექნოლოგიური სექტორის აქციებიდან შესაძლოა ბაზარი მთლიანად საცალო ტრეიდერების ნებაზე დატოვოს.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b5201d7d3d0f4005",
+      "title": "Saudis Cut Main Oil Price to Asia Amid Talk of Hormuz Deal",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMldVUHhTNEI0dk4xNlh1UW5kb25FQ3dxLWlMa1hfWXJjUUdCamlfVE9uRGNNdVpwX0hLY09RNEdlWVhWdGJHZnJHUTQ5SXpOenJmbXBjQWQwWFpDMlRRV0laY2wwODdHUDlkRTJtR21RdUtwTXpBNHdjWFlZUGc3VWwwUHNQTG1JUk01V3hkaXRHS19RTXFna1RwRTRFUjJtYzl6aHBrWU9jeE1KVmc?oc=5",
+      "publishedAt": "2026-08-06T12:35:12.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQMldVUHhTNEI0dk4xNlh1UW5kb25FQ3dxLWlMa1hfWXJjUUdCamlfVE9uRGNNdVpwX0hLY09RNEdlWVhWdGJHZnJHUTQ5SXpOenJmbXBjQWQwWFpDMlRRV0laY2wwODdHUDlkRTJtR21RdUtwTXpBNHdjWFlZUGc3VWwwUHNQTG1JUk01V3hkaXRHS19RTXFna1RwRTRFUjJtYzl6aHBrWU9jeE1KVmc?oc=5\" target=\"_blank\">Saudis Cut Main Oil Price to Asia Amid Talk of Hormuz Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "საუდელები აზიაში ნავთობის ძირითად ფასს ამცირებენ ჰორმუზის შეთანხმების შესახებ საუბრების ფონზე",
+      "summaryKa": "საუდის არაბეთმა შეამცირა აზიისთვის ნავთობის ძირითადი ფასი ჰორმუზის შეთანხმების თაობაზე მიმდინარე საუბრების ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5d9a1ad51d13d828",
+      "title": "Why the Sandisk earnings sell-off looks absurd",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYnYtdTltaHhGUFNGV042ZnFuWFRVanRQcm5jZ1NsUTFoZ0lXMlN2al9WMTEzT1U5VS02b2wzeGJUVUc1SEo3X3dwMm1jc25UbzdIQXlLdHBuLVFyTXliZUdwbW1PSTVuTlY1UnlRb19lMUhzdldUNnlPakxTdTBZenpMRWdkSVBDTGNBaHI2WGdaUFlJc2dOSldoYWdaLWNSMlJYVExRaTF2dTJLeTJZ?oc=5",
+      "publishedAt": "2026-08-06T12:25:21.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYnYtdTltaHhGUFNGV042ZnFuWFRVanRQcm5jZ1NsUTFoZ0lXMlN2al9WMTEzT1U5VS02b2wzeGJUVUc1SEo3X3dwMm1jc25UbzdIQXlLdHBuLVFyTXliZUdwbW1PSTVuTlY1UnlRb19lMUhzdldUNnlPakxTdTBZenpMRWdkSVBDTGNBaHI2WGdaUFlJc2dOSldoYWdaLWNSMlJYVExRaTF2dTJLeTJZ?oc=5\" target=\"_blank\">Why the Sandisk earnings sell-off looks absurd</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "რატომ გამოიყურება აბსურდულად Sandisk-ის აქციების გაყიდვა შემოსავლების ანგარიშგების შემდეგ",
+      "summaryKa": "სტატიაში განხილულია, თუ რატომ გამოიყურება აბსურდულად Sandisk-ის აქციების გაყიდვა შემოსავლების ანგარიშგების წარდგენის შემდეგ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4f668bdefda57dab",
+      "title": "Why the Sandisk post-earnings sell-off looks absurd",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzlaTVpmNUNneDBraHhxWDE0RHAzTXZ5Uk90TmsybG9ES24xMXgxaGRSbmNPRHBqTWptaXI2WTNjVDVsZXhHVTYyNVFQbDhhb3J4TDNURTRXRnFxcF85WG5Id0V1M3E3dF85OFVVV09Na2JwanQyNGt3cmFqWDlhWUQxUWw0bzZ6clRud3hmeW9kLWlXUmtSd1dxaHgwVEZXRGVQaGRlMUlxQlFKbE85ZmRLdEtqZw?oc=5",
+      "publishedAt": "2026-08-06T12:25:21.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzlaTVpmNUNneDBraHhxWDE0RHAzTXZ5Uk90TmsybG9ES24xMXgxaGRSbmNPRHBqTWptaXI2WTNjVDVsZXhHVTYyNVFQbDhhb3J4TDNURTRXRnFxcF85WG5Id0V1M3E3dF85OFVVV09Na2JwanQyNGt3cmFqWDlhWUQxUWw0bzZ6clRud3hmeW9kLWlXUmtSd1dxaHgwVEZXRGVQaGRlMUlxQlFKbE85ZmRLdEtqZw?oc=5\" target=\"_blank\">Why the Sandisk post-earnings sell-off looks absurd</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "რატომ გამოიყურება აბსურდულად Sandisk-ის შემოსავლების შემდგომი აქციების გაყიდვა",
+      "summaryKa": "სტატიაში განხილულია, თუ რატომ გამოიყურება აბსურდულად Sandisk-ის შემოსავლების ანგარიშგების შემდგომი აქციების გაყიდვა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f21611b454dd8167",
+      "title": "PENN Entertainment (NASDAQ:PENN) Posts Q2 CY2026 Sales In Line With Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3gyR20tbkQyYkc3Y1gydndxWUVhZHh5MElzaFhzTTBWMHlHNnlVd3JMcjlIWXNCUk1jSy1zVkxFUm1DUHN1XzNpLUFEbHFnUnpDVllCSmNyN3Znekx0ZlZjZm9tLW1rZVN2bkZCRHpxdUVPN0dFbmVmMDdiQ3dPSUJramNXYk1ydEVjZl9ybEdKNnNTNDNBVlM2MTdEbGRXSF9N?oc=5",
+      "publishedAt": "2026-08-06T12:18:03.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3gyR20tbkQyYkc3Y1gydndxWUVhZHh5MElzaFhzTTBWMHlHNnlVd3JMcjlIWXNCUk1jSy1zVkxFUm1DUHN1XzNpLUFEbHFnUnpDVllCSmNyN3Znekx0ZlZjZm9tLW1rZVN2bkZCRHpxdUVPN0dFbmVmMDdiQ3dPSUJramNXYk1ydEVjZl9ybEdKNnNTNDNBVlM2MTdEbGRXSF9N?oc=5\" target=\"_blank\">PENN Entertainment (NASDAQ:PENN) Posts Q2 CY2026 Sales In Line With Estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "PENN Entertainment-მა (NASDAQ:PENN) 2026 წლის მეორე კვარტლის გაყიდვები პროგნოზების შესაბამისად დააფიქსირა",
+      "summaryKa": "კომპანია PENN Entertainment-მა (NASDAQ:PENN) გამოაქვეყნა 2026 წლის მეორე კვარტლის გაყიდვების მაჩვენებლები, რომლებიც პროგნოზებს დაემთხვა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c0b0a7cf807a4fe6",
+      "title": "Nasdaq heading lower on earnings falls for AppLovin, Western Digital and SanDisk",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQejctdGNVWG91SEsteTlrLW8zZy01OW1ocDZCNVNpcHlCeEkzNmxnRFRxSVVCSlpONjRhSy1tYmhZOXFLLWJMNEpLS1lfTWZoSWNMdExTNWk4VHd0M2lnZ1lGZVB3RHJ6WE1Xb25YTmZFdFhHczR4UnVjdGN0YU1FcEdnUkZYV2h1ZnFXcHdxbGxvdXFEaF81MmZCaVhXNUNFWFE?oc=5",
+      "publishedAt": "2026-08-06T12:12:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQejctdGNVWG91SEsteTlrLW8zZy01OW1ocDZCNVNpcHlCeEkzNmxnRFRxSVVCSlpONjRhSy1tYmhZOXFLLWJMNEpLS1lfTWZoSWNMdExTNWk4VHd0M2lnZ1lGZVB3RHJ6WE1Xb25YTmZFdFhHczR4UnVjdGN0YU1FcEdnUkZYV2h1ZnFXcHdxbGxvdXFEaF81MmZCaVhXNUNFWFE?oc=5\" target=\"_blank\">Nasdaq heading lower on earnings falls for AppLovin, Western Digital and SanDisk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Nasdaq მცირდება AppLovin-ის, Western Digital-ისა და SanDisk-ის შემოსავლების კლების ფონზე",
+      "summaryKa": "Nasdaq-ის ინდექსი ეცემა AppLovin-ის, Western Digital-ისა და SanDisk-ის შემოსავლების შემცირების გამო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d3c4ac2becb05e76",
+      "title": "Watch Tech Stocks Propel Markets to Record Highs",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdDFQbWlDNWFUdUZpaWplN255dnVFSGlSUkJMZDFpMDRfQk1YWHlsZExGb2VfZEZmaVJQSEpjNy1uWWItUE9HNV9UM3ZoQkRCc2FkdUFBLWRDeUJySkp2c2x6dUY4MFVZM2NmRE01bFdSZl9seXdPZlBOQlFjN25aTU1xVGx3eEh5N3lsMG5Ka280Z2Q0czZkX0ZOcENDZw?oc=5",
+      "publishedAt": "2026-08-06T12:09:56.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOdDFQbWlDNWFUdUZpaWplN255dnVFSGlSUkJMZDFpMDRfQk1YWHlsZExGb2VfZEZmaVJQSEpjNy1uWWItUE9HNV9UM3ZoQkRCc2FkdUFBLWRDeUJySkp2c2x6dUY4MFVZM2NmRE01bFdSZl9seXdPZlBOQlFjN25aTU1xVGx3eEh5N3lsMG5Ka280Z2Q0czZkX0ZOcENDZw?oc=5\" target=\"_blank\">Watch Tech Stocks Propel Markets to Record Highs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ნახეთ, როგორ უბიძგებენ ტექნოლოგიური აქციები ბაზრებს რეკორდული მაჩვენებლებისკენ",
+      "summaryKa": "ტექნოლოგიური აქციები ბაზრებს რეკორდულ ნიშნულებამდე ზრდის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "da91937eb85eaa9e",
+      "title": "The Search for New Measures of Value in the AI Era",
+      "source": "Nasdaq",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQTW9TdE9NSDVaRWFWZ1p3TVlwNElVRmNTeTY5OHg2b0N6S2FFM0pmXy02ZGg4NXRJb1YtcGdtSTR4eXI5WHBnLWt3eExadmVFQlhjU0d4Rm1hZkdFNk5qcGczcGpfOE1Kc2xSRWc3dy16YzhObGdLRXR0eFc5a2M?oc=5",
+      "publishedAt": "2026-08-06T12:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBQTW9TdE9NSDVaRWFWZ1p3TVlwNElVRmNTeTY5OHg2b0N6S2FFM0pmXy02ZGg4NXRJb1YtcGdtSTR4eXI5WHBnLWt3eExadmVFQlhjU0d4Rm1hZkdFNk5qcGczcGpfOE1Kc2xSRWc3dy16YzhObGdLRXR0eFc5a2M?oc=5\" target=\"_blank\">The Search for New Measures of Value in the AI Era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
+      "titleKa": "ღირებულების ახალი საზომების ძიება AI-ის ეპოქაში",
+      "summaryKa": "ხელოვნური ინტელექტის (AI) ეპოქაში მიმდინარეობს ღირებულების ახალი საზომების ძიება.",
+      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -25,18 +121,6 @@
       "titleKa": "Sandisk-ის აქციები ფინანსური ანგარიშგების შემდეგ ეცემა: აი, რას ამბობს უოლ სტრიტი",
       "summaryKa": "Sandisk-ის აქციების ფასი კვარტალური ფინანსური შედეგების გამოქვეყნების შემდეგ მცირდება, რაზეც უოლ სტრიტის ანალიტიკოსები საკუთარ მოსაზრებებს გამოთქვამენ.",
       "category": "ტექნოლოგიები და AI",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "b5201d7d3d0f4005",
-      "title": "Saudis Cut Main Oil Price to Asia Amid Talk of Hormuz Deal",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMldVUHhTNEI0dk4xNlh1UW5kb25FQ3dxLWlMa1hfWXJjUUdCamlfVE9uRGNNdVpwX0hLY09RNEdlWVhWdGJHZnJHUTQ5SXpOenJmbXBjQWQwWFpDMlRRV0laY2wwODdHUDlkRTJtR21RdUtwTXpBNHdjWFlZUGc3VWwwUHNQTG1JUk01V3hkaXRHS19RTXFna1RwRTRFUjJtYzl6aHBrWU9jeE1KVmc?oc=5",
-      "publishedAt": "2026-08-06T09:31:02.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQMldVUHhTNEI0dk4xNlh1UW5kb25FQ3dxLWlMa1hfWXJjUUdCamlfVE9uRGNNdVpwX0hLY09RNEdlWVhWdGJHZnJHUTQ5SXpOenJmbXBjQWQwWFpDMlRRV0laY2wwODdHUDlkRTJtR21RdUtwTXpBNHdjWFlZUGc3VWwwUHNQTG1JUk01V3hkaXRHS19RTXFna1RwRTRFUjJtYzl6aHBrWU9jeE1KVmc?oc=5\" target=\"_blank\">Saudis Cut Main Oil Price to Asia Amid Talk of Hormuz Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "საუდელები აზიაში ნავთობის ძირითად ფასს ამცირებენ ჰორმუზის შეთანხმების შესახებ საუბრების ფონზე",
-      "summaryKa": "საუდის არაბეთმა შეამცირა აზიისთვის ნავთობის ძირითადი ფასი ჰორმუზის შეთანხმების თაობაზე მიმდინარე საუბრების ფონზე.",
-      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
