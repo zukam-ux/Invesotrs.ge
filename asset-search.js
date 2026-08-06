@@ -43,6 +43,10 @@ let catalogPromise;
     return asset.exchange === "OTC" ? "otc" : "stock";
   }
 
+  function isFalseSpaceXSecurity(asset) {
+    return asset.type === "security" && asset.symbol === "SPCX" && /spacex/i.test(asset.name);
+  }
+
   export function scoreAsset(asset, rawQuery) {
     const query = normalized(rawQuery);
     const canonicalQuery = queryAliases.get(query) || query;
@@ -79,6 +83,7 @@ let catalogPromise;
 
   export function rankAssets(assets, query, limit = 20) {
     return assets
+      .filter(asset => !isFalseSpaceXSecurity(asset))
       .map(asset => [asset, scoreAsset(asset, query)])
       .filter(([, value]) => value > 0)
       .sort((a, b) => b[1] - a[1] || a[0].name.localeCompare(b[0].name))
@@ -118,6 +123,20 @@ let catalogPromise;
     </a>`;
   }
 
+  function renderGroup(title, assets) {
+    if (!assets.length) return "";
+    return `<section class="asset-result-group"><h3>${escapeHtml(title)}</h3>${assets.map(renderResult).join("")}</section>`;
+  }
+
+  function renderMatches(matches, query) {
+    const securities = matches.filter(asset => asset.type === "security").slice(0, 6);
+    const crypto = matches.filter(asset => asset.type === "crypto").slice(0, 6);
+    const privateCompanyNote = /^(space\s*x|spacex)$/i.test(query)
+      ? '<div class="asset-search-note"><b>SpaceX კერძო კომპანიაა</b><span>საჯარო ბირჟაზე მისი აქცია ამჟამად არ ივაჭრება.</span></div>'
+      : "";
+    return `${renderGroup("აქციები და ETF-ები", securities)}${privateCompanyNote}${renderGroup("კრიპტოაქტივები", crypto)}`;
+  }
+
   function attach(input) {
     const host = input.closest(".asset-search") || input.parentElement;
     const results = host.querySelector(".asset-search-results");
@@ -137,9 +156,9 @@ let catalogPromise;
       try {
         const assets = await loadCatalog();
         if (current !== request) return;
-        const matches = rankAssets(assets, query, 10);
-        results.innerHTML = matches.length
-          ? matches.map(renderResult).join("")
+        const matches = rankAssets(assets, query, 40);
+        results.innerHTML = matches.length || /^(space\s*x|spacex)$/i.test(query)
+          ? renderMatches(matches, query)
           : `<div class="asset-search-state">„${escapeHtml(input.value.trim())}“ ვერ მოიძებნა</div>`;
         window.refreshLiveQuotes?.(results);
       } catch {
