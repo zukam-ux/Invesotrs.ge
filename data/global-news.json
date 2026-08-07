@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T17:31:05.827Z",
+  "updatedAt": "2026-08-07T18:12:32.076Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -24,6 +24,30 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPcVhKckJwV2VwM3pjcEtwZmY1ZUlobnVkNUg4YjhBUlZwT19ydlQydHlNQzFlOGxiUzFoYlpablRyN2I0VlQ1c1pxdWRjQ1RpR0hreFNqbzdKa2FCSXVEdktIUS1hTHF0UDR5cm1HejM2UkRUZkx1VGRIMzZicjlRRVZZMjE3di1PaE5SUTJ3SVRpS0EyVHdkT1lFbw?oc=5\" target=\"_blank\">DUST Drops 13% as Gold Miners Rally Hard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "DUST-ი 13%-ით ეცემა ოქროს მომპოვებლების მკვეთრი ზრდის ფონზე",
       "summaryKa": "ოქროს მომპოვებელი კომპანიების მკვეთრი ზრდის ფონზე DUST-ი 13%-ით შემცირდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a10be3d6c013df6f",
+      "title": "US Consumers More Optimistic on Jobs, Inflation in NY Fed Survey",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYU05ZlotZ0R2Y3ZLVDFTRHFzOEx1UTlJVjBYc19pMTN0cTJOQ2RXWVhINHhpMXZRX2RrTERvU25zWENySjBoSnB1Rmt5b3psQkdldlhhTFRDdTNaeVdpVGxuTGJtLXBYSXJtV3hWS3B6NElSRGJOVHhXR001cjF3dzQ0dGkxVzVtVktQMWNOY3JRX0VINkpDbTAyZlZjQzJNNVRPbGV1YXpqQVNYX3VMLXpzLVY?oc=5",
+      "publishedAt": "2026-08-07T16:40:41.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNYU05ZlotZ0R2Y3ZLVDFTRHFzOEx1UTlJVjBYc19pMTN0cTJOQ2RXWVhINHhpMXZRX2RrTERvU25zWENySjBoSnB1Rmt5b3psQkdldlhhTFRDdTNaeVdpVGxuTGJtLXBYSXJtV3hWS3B6NElSRGJOVHhXR001cjF3dzQ0dGkxVzVtVktQMWNOY3JRX0VINkpDbTAyZlZjQzJNNVRPbGV1YXpqQVNYX3VMLXpzLVY?oc=5\" target=\"_blank\">US Consumers More Optimistic on Jobs, Inflation in NY Fed Survey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ნიუ-იორკის ფედერალური სარეზერვო ბანკის გამოკითხვის თანახმად, აშშ-ის მომხმარებლები უფრო ოპტიმისტურად არიან განწყობილნი სამუშაო ადგილებისა და ინფლაციის მიმართ",
+      "summaryKa": "ნიუ-იორკის ფედერალური სარეზერვო ბანკის გამოკითხვა აჩვენებს, რომ ამერიკელი მომხმარებლები უფრო მეტ ოპტიმიზმს გამოხატავენ დასაქმებისა და ინფლაციის მიმართ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "363a9d39190f5401",
+      "title": "Citadel’s Rubner says it’s time to start buying gold again",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVpqM1NEUjhrZWNVMlltdzdoVDlEbV9yWGttalZncy1NVzVPMG44Ul96QnJVZFJlX1JSVWFvUGFKd2NLd2RnLUZuYXdBbVFIVnlTa3A2cktmX1VCOEJHT1NoOG5vci1LcE1KNDBhQUZWbGlUbS12ZEFtZzNyMW5zMWNLOWdsbTdsakhZR1lFcXBmRjlUanc5a3BfYXdXRVZkdmc?oc=5",
+      "publishedAt": "2026-08-07T16:18:35.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVpqM1NEUjhrZWNVMlltdzdoVDlEbV9yWGttalZncy1NVzVPMG44Ul96QnJVZFJlX1JSVWFvUGFKd2NLd2RnLUZuYXdBbVFIVnlTa3A2cktmX1VCOEJHT1NoOG5vci1LcE1KNDBhQUZWbGlUbS12ZEFtZzNyMW5zMWNLOWdsbTdsakhZR1lFcXBmRjlUanc5a3BfYXdXRVZkdmc?oc=5\" target=\"_blank\">Citadel’s Rubner says it’s time to start buying gold again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Citadel-ის რაბნერი აცხადებს, რომ ოქროს ხელახლა ყიდვის დაწყების დროა",
+      "summaryKa": "Citadel-ის რაბნერის განცხადებით, კვლავ დადგა დრო, როდესაც ოქროს შეძენა უნდა დაიწყოს.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -100,18 +124,6 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "a10be3d6c013df6f",
-      "title": "US Consumers More Optimistic on Jobs, Inflation in NY Fed Survey",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYU05ZlotZ0R2Y3ZLVDFTRHFzOEx1UTlJVjBYc19pMTN0cTJOQ2RXWVhINHhpMXZRX2RrTERvU25zWENySjBoSnB1Rmt5b3psQkdldlhhTFRDdTNaeVdpVGxuTGJtLXBYSXJtV3hWS3B6NElSRGJOVHhXR001cjF3dzQ0dGkxVzVtVktQMWNOY3JRX0VINkpDbTAyZlZjQzJNNVRPbGV1YXpqQVNYX3VMLXpzLVY?oc=5",
-      "publishedAt": "2026-08-07T15:00:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNYU05ZlotZ0R2Y3ZLVDFTRHFzOEx1UTlJVjBYc19pMTN0cTJOQ2RXWVhINHhpMXZRX2RrTERvU25zWENySjBoSnB1Rmt5b3psQkdldlhhTFRDdTNaeVdpVGxuTGJtLXBYSXJtV3hWS3B6NElSRGJOVHhXR001cjF3dzQ0dGkxVzVtVktQMWNOY3JRX0VINkpDbTAyZlZjQzJNNVRPbGV1YXpqQVNYX3VMLXpzLVY?oc=5\" target=\"_blank\">US Consumers More Optimistic on Jobs, Inflation in NY Fed Survey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ნიუ-იორკის ფედერალური სარეზერვო ბანკის გამოკითხვის თანახმად, აშშ-ის მომხმარებლები უფრო ოპტიმისტურად არიან განწყობილნი სამუშაო ადგილებისა და ინფლაციის მიმართ",
-      "summaryKa": "ნიუ-იორკის ფედერალური სარეზერვო ბანკის გამოკითხვა აჩვენებს, რომ ამერიკელი მომხმარებლები უფრო მეტ ოპტიმიზმს გამოხატავენ დასაქმებისა და ინფლაციის მიმართ.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "0041172f5ce37b3e",
       "title": "Atlassian stock soars 34% after earnings boost: AlphaSpace chart analysis",
       "source": "Yahoo Finance",
@@ -168,6 +180,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNMV84SHV6ZU1pVkZ1MUYzRkZ5NWNsVGxKOVAxeHRFVmZFX0VXLWtsOTE2cGJNUkIxVkljWkxvT1RzN2hLVUZCUjhpYkRScjhQc1hRWmxHU1BsOWtEd21PajlhUzc1MEtGdEtxZFB6blUzUUItMk9iWXFHb1F5dkdzTlZjTlNFUGVlY3Z2UWpNd0lrTk5VbVE?oc=5\" target=\"_blank\">July Jobs Report Sends Fed Expectations Into Chaos, Can Crypto Capitalize?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "ივლისის დასაქმების ანგარიშმა Fed-ის მოლოდინები ქაოსში გახვია; შეძლებს თუ არა კრიპტო ამით სარგებლის მიღებას?",
       "summaryKa": "ივლისის დასაქმების ანგარიშმა ფედერალური რეზერვის მოლოდინებში ქაოსი შეიტანა, რის გამოც ჩნდება კითხვა, შეძლებს თუ არა კრიპტოვალუტა ამ სიტუაციით სარგებლობას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "abf7bfd28a8411c0",
+      "title": "'Nobody Is Stopping Crypto': CEO Brings Crypto.com Pay to Private Jet Charter Bookings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHBJdzZucFlyVm1ta3RoSUhOREhiV0tQcU5McWFHUUZob00tQ1BVWEFrSzVrX2Y1OTZ6MzNpQXhKeDUzNksyb1ZZdjJLeWZyaHVCU2k4bldUUHlMdGtuQmRVczR6SU5NZXpRdnhkSmpDNU9qUXg5YWU4cjlUZlBOeFp4LXJELS1NNHFLZmNFbTNjajFGbzZWaUQ2ZDVkVnc?oc=5",
+      "publishedAt": "2026-08-07T14:30:20.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHBJdzZucFlyVm1ta3RoSUhOREhiV0tQcU5McWFHUUZob00tQ1BVWEFrSzVrX2Y1OTZ6MzNpQXhKeDUzNksyb1ZZdjJLeWZyaHVCU2k4bldUUHlMdGtuQmRVczR6SU5NZXpRdnhkSmpDNU9qUXg5YWU4cjlUZlBOeFp4LXJELS1NNHFLZmNFbTNjajFGbzZWaUQ2ZDVkVnc?oc=5\" target=\"_blank\">'Nobody Is Stopping Crypto': CEO Brings Crypto.com Pay to Private Jet Charter Bookings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "„კრიპტოს ვერავინ შეაჩერებს“: აღმასრულებელმა დირექტორმა Crypto.com Pay კერძო თვითმფრინავების ჩარტერულ ჯავშნებში დანერგა",
+      "summaryKa": "კომპანიის აღმასრულებელმა დირექტორმა, რომლის განცხადებითაც კრიპტოვალუტას ვერავინ შეაჩერებს, Crypto.com Pay-ს მხარდაჭერა კერძო თვითმფრინავების ჩარტერულ ჯავშნებში დაამატა.",
       "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
