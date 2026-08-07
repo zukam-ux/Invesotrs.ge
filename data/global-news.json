@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T19:58:37.619Z",
+  "updatedAt": "2026-08-07T20:35:16.859Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -28,6 +28,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "7a44a8196064d7bd",
+      "title": "WonderFi Founder Says Canadian Crypto Rules Pushed Company Toward Robinhood",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEo1U2hLc25aaTBIazFNdmw4M0hqMzUyQkVxRXE4NmUwX1EtQkh1OExyQ2ZodFVUOG9ha3p5dFNNWkFMdWlBTThhMFBCWGhDNEk4S0dWUE1LeVVMbDhXbHpmc3Q0M3FRZEZSbk14MFlrOTlyaVB3d0RhVjA5MnRleUlJNWpQMW9xYW9IeHQ1ODltRnV0UHhqa0s2LXVROG5aem5Wcw?oc=5",
+      "publishedAt": "2026-08-07T17:34:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEo1U2hLc25aaTBIazFNdmw4M0hqMzUyQkVxRXE4NmUwX1EtQkh1OExyQ2ZodFVUOG9ha3p5dFNNWkFMdWlBTThhMFBCWGhDNEk4S0dWUE1LeVVMbDhXbHpmc3Q0M3FRZEZSbk14MFlrOTlyaVB3d0RhVjA5MnRleUlJNWpQMW9xYW9IeHQ1ODltRnV0UHhqa0s2LXVROG5aem5Wcw?oc=5\" target=\"_blank\">WonderFi Founder Says Canadian Crypto Rules Pushed Company Toward Robinhood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "WonderFi-ის დამფუძნებელი აცხადებს, რომ კანადის კრიპტო რეგულაციებმა კომპანია Robinhood-ისკენ უბიძგა",
+      "summaryKa": "WonderFi-ის დამფუძნებლის თქმით, კანადის კრიპტო წესებმა მათ კომპანიას Robinhood-ისკენ უბიძგა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "cea4834101918449",
       "title": "DraftKings Blasts Prediction Bets on Earnings Calls Comments",
       "source": "Bloomberg.com",
@@ -48,6 +60,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUklvVFZPczE2a0xSUkszYXNrWGxSOEMxbkVNdTAxLWJHZG1iYm9mdFZzRkdRdGp2Z0JFdmw5X2dEQVI0SE1vcmxVYnhkd0VuanFaUi0xc0g0RnIzRnQ3YWFCanRnLWcxR2M2T21lWlpqMVlSYU1sWF9zMExIaGc0RTNKc2pTOXk0Mkt0Z2p6VUcybWNSNXZn?oc=5\" target=\"_blank\">CRAI Q2 Earnings Beat on Broad-Based Growth, Revenue View Raised</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "CRAI-მ მეორე კვარტლის შემოსავლების პროგნოზს გადააჭარბა ფართომასშტაბიანი ზრდის ფონზე, ხოლო შემოსავლების პროგნოზი გაიზარდა",
       "summaryKa": "CRAI-მ მეორე კვარტალში ფართომასშტაბიანი ზრდის წყალობით მოლოდინს გადააჭარბა და შემოსავლების პროგნოზი გაზარდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "338a38eb524825b6",
+      "title": "Greg Abel concentrates 63% of Berkshire's $355B portfolio in 5 stocks",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT1ZOcXRIRWlXU2tHQTZuQnhkaUFuSnBLdS1GMU5VZ2pzYlZFUTdtX0tlTk5YQ1V4YmZXeHdCRzJHU3hyemVBZndMZkFNSkVBRWZOUmZfT3VNMUJMQzREcTVUZWo3NTJ2TDZvTmVtaWYweWFfeFRZLVdjM0NFakRxb0NQMEdaT1VXdTVKVHo2QmUzZFBBaGdiS0NTZG1tai1vVEdJ?oc=5",
+      "publishedAt": "2026-08-07T17:22:04.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOT1ZOcXRIRWlXU2tHQTZuQnhkaUFuSnBLdS1GMU5VZ2pzYlZFUTdtX0tlTk5YQ1V4YmZXeHdCRzJHU3hyemVBZndMZkFNSkVBRWZOUmZfT3VNMUJMQzREcTVUZWo3NTJ2TDZvTmVtaWYweWFfeFRZLVdjM0NFakRxb0NQMEdaT1VXdTVKVHo2QmUzZFBBaGdiS0NTZG1tai1vVEdJ?oc=5\" target=\"_blank\">Greg Abel concentrates 63% of Berkshire's $355B portfolio in 5 stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "გრეგ აბელი Berkshire-ის 355 მილიარდი დოლარის პორტფელის 63%-ს 5 აქციაში აკონცენტრირებს",
+      "summaryKa": "გრეგ აბელი Berkshire-ის 355 მილიარდი დოლარის ღირებულების პორტფელის 63%-ს სულ რაღაც 5 აქციაში აერთიანებს.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -181,6 +205,30 @@
       "titleKa": "ევროპული აქციები მეოთხე კვირაა იზრდება ძლიერი კვარტალური ანგარიშების ფონზე",
       "summaryKa": "ძლიერი მოგების ანგარიშების ფონზე, ევროპული აქციები ზედიზედ მეოთხე კვირაა იზრდება.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2166a6e2f981a63e",
+      "title": "SandRidge Q2 Earnings Rise Y/Y on Higher Production & Oil Prices",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdzVyZ191cllnd2syZ2NkUUV6VXNINGE2Sjk4NXdoZk05c2Q2TEZJeDUzNHB1TU9DWmMxc1o4SFpab1RGb3ZDdV9LbThpZnlyS2xqTWt5RnVaeUZMUDZ4eGFhcFBqYTRBV01jOFl0elZFZ0tEbjRRa0RJXy1PdXRvRVJib2xmZlhNOVdHTTJR?oc=5",
+      "publishedAt": "2026-08-07T15:51:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNdzVyZ191cllnd2syZ2NkUUV6VXNINGE2Sjk4NXdoZk05c2Q2TEZJeDUzNHB1TU9DWmMxc1o4SFpab1RGb3ZDdV9LbThpZnlyS2xqTWt5RnVaeUZMUDZ4eGFhcFBqYTRBV01jOFl0elZFZ0tEbjRRa0RJXy1PdXRvRVJib2xmZlhNOVdHTTJR?oc=5\" target=\"_blank\">SandRidge Q2 Earnings Rise Y/Y on Higher Production & Oil Prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "SandRidge-ის მე-2 კვარტლის მოგება წლიურ ჭრილში გაიზარდა გაზრდილი წარმოებისა და ნავთობის ფასების ფონზე",
+      "summaryKa": "SandRidge-ის მეორე კვარტლის მოგება წინა წლის შესაბამის პერიოდთან შედარებით გაიზარდა, რაც წარმოების ზრდამ და ნავთობის მაღალმა ფასებმა განაპირობა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b4def553dff94fa0",
+      "title": "CoreWeave Faces a 15.5% Earnings Swing as AI Spending Gets Tested",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGVJN1dheVc5ZGlwUDVXQlVhRFdTa05BekRXUTZTX0EwanEwYm1zWXNzaE1Pb0ltUGlBak53QUVNTWpta1lNTnZRRWZYeHNFSUpKR1ZrR0E1cVdmcUM1YzlmTUZmb3hFNENZYXVGeWprMUxPUTNLb21kTllEby02WkpDTHRKdzZRTWdtaG55UTlHOUoxV0pBV1lB?oc=5",
+      "publishedAt": "2026-08-07T15:39:07.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGVJN1dheVc5ZGlwUDVXQlVhRFdTa05BekRXUTZTX0EwanEwYm1zWXNzaE1Pb0ltUGlBak53QUVNTWpta1lNTnZRRWZYeHNFSUpKR1ZrR0E1cVdmcUM1YzlmTUZmb3hFNENZYXVGeWprMUxPUTNLb21kTllEby02WkpDTHRKdzZRTWdtaG55UTlHOUoxV0pBV1lB?oc=5\" target=\"_blank\">CoreWeave Faces a 15.5% Earnings Swing as AI Spending Gets Tested</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "CoreWeave მოგების 15.5%-იანი მერყეობის წინაშე დგას, რადგან AI ხარჯები გამოცდას გადის",
+      "summaryKa": "CoreWeave მოგების 15.5%-იანი მერყეობის წინაშე დგას, რადგან ხელოვნური ინტელექტის მიმართულებით ხარჯვა გამოცდას გადის.",
+      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
