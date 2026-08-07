@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-07T11:29:22.905Z",
+  "updatedAt": "2026-08-07T12:08:24.894Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "b8bb3ea94433e3d9",
+      "title": "2 Space Stocks to Buy in August",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRi1MTUdjRE5iTTcyZUNYdjN6OTdmSjg1OG1JREtSZnVRVm1UUll4OHI3UkYtZ2tDYzdsd1RpalRYNVpwSEI4cTB2dXdLMlA0MGhHY0htdzdPalp1NWVMY0tRUE1OaXVFX2J4dXBjSnhkbjhEaUNpSGYyYWw2Z2k5TkxLdVZlWkxPOFZBd1VWQVpDQ0p6?oc=5",
+      "publishedAt": "2026-08-07T11:30:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPRi1MTUdjRE5iTTcyZUNYdjN6OTdmSjg1OG1JREtSZnVRVm1UUll4OHI3UkYtZ2tDYzdsd1RpalRYNVpwSEI4cTB2dXdLMlA0MGhHY0htdzdPalp1NWVMY0tRUE1OaXVFX2J4dXBjSnhkbjhEaUNpSGYyYWw2Z2k5TkxLdVZlWkxPOFZBd1VWQVpDQ0p6?oc=5\" target=\"_blank\">2 Space Stocks to Buy in August</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "2 კოსმოსური აქცია, რომლის ყიდვაც ღირს აგვისტოში",
+      "summaryKa": "სტატია ეხება კოსმოსურ სექტორში მოქმედ ორ აქციას, რომელთა შეძენაც აგვისტოს თვეშია რეკომენდებული.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "5c9f3563fcec49e0",
       "title": "Kevin O’Leary, aka ‘Mr. Wonderful,’ on crypto, winning in AI and 3 things all business owners must know",
@@ -49,6 +61,18 @@
       "titleKa": "მსხვილი ტექნოლოგიური კომპანიების აქციები მკვეთრად იზრდება, რადგან ხელოვნურ ინტელექტთან დაკავშირებული შიშები ქრება და ეიფორია ახლდება",
       "summaryKa": "მსხვილი ტექნოლოგიური კომპანიების აქციები მკვეთრად გაიზარდა ხელოვნურ ინტელექტთან დაკავშირებული შიშების გაქრობისა და ეიფორიის აღდგენის ფონზე.",
       "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "59c2af582574b055",
+      "title": "Gold's rally 'has support', with prices set to rise toward $5,000 next year, UBS says",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSFJwWFlUbjljUDdjU2lEemdmTzFvYkJFQUdyaUQxd3ZvMlIyd2FpeGpnNHVQWmZuSERwazJRR3h0SHhtWUdSV0I3LUpuYkZhUHEtalVwTjJmTEgwaDJZRnV1VjctcE4zODhXdUQ0WHBTYlZzVS1ydlBsT2FXSVRzNDVWN3F3Q0ZRMzBzNFgySmlZc1BwQkJrN1c4Y3FqeHpTbi1OX3NGTmtKS292TEgwMDlkTGNPajZDNG1vaUNhYml3c2dzc0NoSEFMTGRaaWRX?oc=5",
+      "publishedAt": "2026-08-07T10:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSFJwWFlUbjljUDdjU2lEemdmTzFvYkJFQUdyaUQxd3ZvMlIyd2FpeGpnNHVQWmZuSERwazJRR3h0SHhtWUdSV0I3LUpuYkZhUHEtalVwTjJmTEgwaDJZRnV1VjctcE4zODhXdUQ0WHBTYlZzVS1ydlBsT2FXSVRzNDVWN3F3Q0ZRMzBzNFgySmlZc1BwQkJrN1c4Y3FqeHpTbi1OX3NGTmtKS292TEgwMDlkTGNPajZDNG1vaUNhYml3c2dzc0NoSEFMTGRaaWRX?oc=5\" target=\"_blank\">Gold's rally 'has support', with prices set to rise toward $5,000 next year, UBS says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "UBS-ის განცხადებით, ოქროს ფასების ზრდას „აქვს მხარდაჭერა“ და მომავალ წელს ფასი შესაძლოა 5 000 დოლარამდე გაიზარდოს",
+      "summaryKa": "ფინანსური კომპანია UBS მიიჩნევს, რომ ოქროს ფასების ზრდას აქვს მხარდაჭერა და მომავალ წელს მისი ფასი, შესაძლოა, 5 000 დოლარამდე გაიზარდოს.",
+      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -253,6 +277,18 @@
       "titleKa": "Yomiuri: Rakuten-ის ჯგუფის აღმასრულებელი დირექტორის თქმით, კომპანია ინფლაციის მიუხედავად მობილური კავშირის დაბალ ფასებს შეინარჩუნებს",
       "summaryKa": "Rakuten-ის ჯგუფის აღმასრულებელი დირექტორი აცხადებს, რომ კომპანია მობილური მომსახურების ფასებს ინფლაციის მიუხედავად არ გაზრდის.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "94462708671e8c12",
+      "title": "Should You Buy CoreWeave Before or After Earnings? The Best Move Might Be Neither.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3J6NWxwY3QwWWU3MTZfVzh0Rk11RjFtOVR0RHpWMUU4RmxQMkxyLXVVaE1WUGZGVjlUQXVmMmtzblRaZzJvSHBNQkN2S042QWtVRDRCSHRDYmtoMnhTRlIycnlQcVN1aEtoclR3T3pLOGlGMGJLUG51SmcwaXlQTC14TzFSUDJQbzl4Um9FT1pyY2xSc2EybHREZHhvQQ?oc=5",
+      "publishedAt": "2026-08-07T04:25:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQM3J6NWxwY3QwWWU3MTZfVzh0Rk11RjFtOVR0RHpWMUU4RmxQMkxyLXVVaE1WUGZGVjlUQXVmMmtzblRaZzJvSHBNQkN2S042QWtVRDRCSHRDYmtoMnhTRlIycnlQcVN1aEtoclR3T3pLOGlGMGJLUG51SmcwaXlQTC14TzFSUDJQbzl4Um9FT1pyY2xSc2EybHREZHhvQQ?oc=5\" target=\"_blank\">Should You Buy CoreWeave Before or After Earnings? The Best Move Might Be Neither.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "უნდა შეიძინოთ თუ არა CoreWeave ფინანსურ ანგარიშგებამდე თუ მის შემდეგ? საუკეთესო გადაწყვეტილება, შესაძლოა, არცერთი არ იყოს",
+      "summaryKa": "სტატია განიხილავს CoreWeave-ის აქციების შეძენის მიზანშეწონილობას ფინანსური ანგარიშგების გამოქვეყნებამდე ან მის შემდეგ და აღნიშნავს, რომ საუკეთესო ნაბიჯი, შესაძლოა, არცერთი არ იყოს.",
+      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
