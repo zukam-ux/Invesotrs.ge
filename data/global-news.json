@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T15:32:59.313Z",
+  "updatedAt": "2026-08-07T16:31:29.825Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -28,6 +28,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "9d674c2e0581f06b",
+      "title": "Atlassian Q4 Earnings Beat Estimates, Revenues Increase Y/Y",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWEdVbUZ4dWo4b0t5dlZNVWsxVk1pVWdCTC16bVVVQ1g2OVF1MWJ0Y3U3TnpKZl9ZdkJ5NzY3UWJETDRNU0J6NERNcm1JamFRVzlSTzBTRUJsbkJrdzU1YVMzTGJnT0FkZ1lBTGZ6OHJLd003RTF1aUEyVHBoR3lTbmJEczZBQ1JCV0JoQTNxU3NiVmJ1Sm1rblduU0dWMUwzRUdF?oc=5",
+      "publishedAt": "2026-08-07T14:59:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNWEdVbUZ4dWo4b0t5dlZNVWsxVk1pVWdCTC16bVVVQ1g2OVF1MWJ0Y3U3TnpKZl9ZdkJ5NzY3UWJETDRNU0J6NERNcm1JamFRVzlSTzBTRUJsbkJrdzU1YVMzTGJnT0FkZ1lBTGZ6OHJLd003RTF1aUEyVHBoR3lTbmJEczZBQ1JCV0JoQTNxU3NiVmJ1Sm1rblduU0dWMUwzRUdF?oc=5\" target=\"_blank\">Atlassian Q4 Earnings Beat Estimates, Revenues Increase Y/Y</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Atlassian-ის Q4-ის მოგებამ მოლოდინს გადააჭარბა, შემოსავლები წლიურ ჭრილში გაიზარდა",
+      "summaryKa": "Atlassian-ის მეოთხე კვარტლის მოგებამ მოლოდინებს გადააჭარბა, ხოლო შემოსავლები წინა წლის შესაბამის პერიოდთან შედარებით გაიზარდა.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "5b07648d08bbfdf1",
       "title": "Watch BlackRock's Rieder on Jobs Report, Fed Rates, Bonds",
       "source": "Bloomberg.com",
@@ -37,6 +49,18 @@
       "titleKa": "უყურეთ BlackRock-ის რიდერის მოსაზრებებს სამუშაო ადგილების ანგარიშზე, ფედერალური სარეზერვო სისტემის განაკვეთებსა და ობლიგაციებზე",
       "summaryKa": "ვიდეოში წარმოდგენილია BlackRock-ის წარმომადგენლის, რიდერის ანალიზი დასაქმების ანგარიშის, ფედერალური სარეზერვო სისტემის საპროცენტო განაკვეთებისა და ობლიგაციების შესახებ.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "19203152ac803183",
+      "title": "Ouster Q2 Earnings Surpass Expectations on Sensor Growth",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNHVVRXhnR09ldjdXQlUtSUxwMzNIUUdsTnltM3ZVcExOUndaWmota2JVQWt6LXljU3dwdHgwbzRHTFYxdTVKZGQyUkpsc0ZYUU02X3p4Z21OaGwzQWcxR3kzOXh2ejR0UjV4em5HYjBZd1hqbzN3QVhsenltN0l6aEpFbDNwa296X2FfV25idHl6c1ZlRG5yRklDZmZCZ0I3Y1lCdEFUdFlPWWNDb0c2MEtnWFY?oc=5",
+      "publishedAt": "2026-08-07T14:51:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNHVVRXhnR09ldjdXQlUtSUxwMzNIUUdsTnltM3ZVcExOUndaWmota2JVQWt6LXljU3dwdHgwbzRHTFYxdTVKZGQyUkpsc0ZYUU02X3p4Z21OaGwzQWcxR3kzOXh2ejR0UjV4em5HYjBZd1hqbzN3QVhsenltN0l6aEpFbDNwa296X2FfV25idHl6c1ZlRG5yRklDZmZCZ0I3Y1lCdEFUdFlPWWNDb0c2MEtnWFY?oc=5\" target=\"_blank\">Ouster Q2 Earnings Surpass Expectations on Sensor Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Ouster-ის Q2-ის მოგებამ მოლოდინს გადააჭარბა სენსორების ზრდის ფონზე",
+      "summaryKa": "კომპანია Ouster-ის მეორე კვარტლის მოგებამ სენსორების მიმართულების ზრდის გამო მოლოდინს გადააჭარბა.",
+      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -52,6 +76,30 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "eaf16a07cbf16024",
+      "title": "Galiano Gold Maintains 2026 Outlook Despite Second-Quarter Earnings Miss",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFRoZUZsem5uN0N4X2FYVUVNWDZiNE9teEpFa1VqZnVZTFo1MTNsdk5NSnBpMlZzV0ljTi1FLXU3TVZ6SHgyUGkyUnZ6V3JwY2g2RmZZYXJvMFZhUzdUTTRaWVFnWG5GTUoybVFFcWtvQmI1VTNfaHhLNERSSjlKSmlJRGNzMnB1djRnSnk3OUlLWDlvdnk0NHdOYjY3bWp4QUE?oc=5",
+      "publishedAt": "2026-08-07T14:09:17.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFRoZUZsem5uN0N4X2FYVUVNWDZiNE9teEpFa1VqZnVZTFo1MTNsdk5NSnBpMlZzV0ljTi1FLXU3TVZ6SHgyUGkyUnZ6V3JwY2g2RmZZYXJvMFZhUzdUTTRaWVFnWG5GTUoybVFFcWtvQmI1VTNfaHhLNERSSjlKSmlJRGNzMnB1djRnSnk3OUlLWDlvdnk0NHdOYjY3bWp4QUE?oc=5\" target=\"_blank\">Galiano Gold Maintains 2026 Outlook Despite Second-Quarter Earnings Miss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Galiano Gold ინარჩუნებს 2026 წლის პროგნოზს მეორე კვარტლის მოგების მოლოდინებთან შეუსაბამობის მიუხედავად",
+      "summaryKa": "Galiano Gold-ი ინარჩუნებს თავის 2026 წლის გეგმებს, მიუხედავად იმისა, რომ მეორე კვარტლის მოგების მაჩვენებლებმა მოლოდინები ვერ დააკმაყოფილა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9ddf676593d009a7",
+      "title": "Bitcoin ETFs Attract $754 Million Of Capital",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNejdWbk5BSXAzT0hJZDBqWWFKcDloWjJ5NzRvMV9KWFdsVVBRMGpQdGV3TjhnLUloTFgwRTlBY3BDNEdTcjdacFpNVUZBRkpuQ2VuTnRlYTRsTHNDMHlWOXUyMi1aOHhDTzlZVFFEbnRQNUJOdTM3NUFtSXduSjVYOWR1RFNqWGZsOGhOUTVWaExMXzhXeVVoY1hfQVJvdw?oc=5",
+      "publishedAt": "2026-08-07T13:49:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNejdWbk5BSXAzT0hJZDBqWWFKcDloWjJ5NzRvMV9KWFdsVVBRMGpQdGV3TjhnLUloTFgwRTlBY3BDNEdTcjdacFpNVUZBRkpuQ2VuTnRlYTRsTHNDMHlWOXUyMi1aOHhDTzlZVFFEbnRQNUJOdTM3NUFtSXduSjVYOWR1RFNqWGZsOGhOUTVWaExMXzhXeVVoY1hfQVJvdw?oc=5\" target=\"_blank\">Bitcoin ETFs Attract $754 Million Of Capital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Bitcoin ETF-ებმა $754 მილიონი კაპიტალი მიიზიდა",
+      "summaryKa": "ბიტკოინის ETF-ებმა $754 მილიონი აშშ დოლარის მოცულობის კაპიტალი მოიზიდეს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "2cae7acbc5991b77",
       "title": "Mexico’s Inflation Slows in July as Banxico Remains Cautious",
       "source": "Bloomberg.com",
@@ -60,6 +108,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTFuTXJENWl3VFhEYkxWUnNwRGlOYW1xbFNhdGR4b0tIU3d3MkMzVzdMazcyaXJMUkVtZ0VmQVVieGgteDY5ZEhoSkVwaW1NN1RXWG1OalZ1YWZVYXRWdXcyaEp4cjBnRUJWMXFXY1pzbTBjb2RpRTA1cmVaUjMxZ2Ewd01tVFdnUHE3dTVJSFdvWWd6RUFaZEFYNkpOWUVwMGZncHJfeEdjdDFwdGYyVQ?oc=5\" target=\"_blank\">Mexico’s Inflation Slows in July as Banxico Remains Cautious</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "მექსიკაში ინფლაცია ივლისში შენელდა, რადგან Banxico კვლავ სიფრთხილეს ინარჩუნებს",
       "summaryKa": "მექსიკაში ივლისის თვეში ინფლაციის ტემპი შენელდა, ხოლო ქვეყნის ცენტრალური ბანკი Banxico კვლავ ფრთხილ პოზიციას ინარჩუნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "07b079931791951f",
+      "title": "Gold Steady as Traders Assess Impact of Hormuz Flare-Up on Rates",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1d3VC0wXzhrUVV2UFJ1STF6RS1PSGx3WjlLOFpvLVNmQTIxcXprbFFNZHJ0dGJkVU1yQWVEa1J4TFJVaWFoR2l4SUEyQVRLX2tOOHo3ajBlM093LVN5WkdZZVZzS1EyWWZfTmhrTUpoUFdzcld5ZjlmdVhCUmgzNjF4cTltZ1NUaGRTbVFVYndkX3JJWVF6T25qSDZPOFFSU0RXYW5pakJSVnUtODluWmdUWEZqdw?oc=5",
+      "publishedAt": "2026-08-07T13:37:20.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1d3VC0wXzhrUVV2UFJ1STF6RS1PSGx3WjlLOFpvLVNmQTIxcXprbFFNZHJ0dGJkVU1yQWVEa1J4TFJVaWFoR2l4SUEyQVRLX2tOOHo3ajBlM093LVN5WkdZZVZzS1EyWWZfTmhrTUpoUFdzcld5ZjlmdVhCUmgzNjF4cTltZ1NUaGRTbVFVYndkX3JJWVF6T25qSDZPOFFSU0RXYW5pakJSVnUtODluWmdUWEZqdw?oc=5\" target=\"_blank\">Gold Steady as Traders Assess Impact of Hormuz Flare-Up on Rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ოქროს ფასი სტაბილურია, რადგან ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაძაბულობის გავლენას საპროცენტო განაკვეთებზე",
+      "summaryKa": "ოქროს ფასი ინარჩუნებს სტაბილურობას, სანამ ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაპირისპირების გამწვავების გავლენას საპროცენტო განაკვეთებზე.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -408,18 +468,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPZGdhdkoxU3F2b3I0dzFYZzhPOUphLXo5Q0x4UmVWTzRNaEFuazFkZjdhbTduZUVVRnVVdHBGMWpNbUhoWElSQVVZWTAtYlpjd3FDeXZIZ1NOS2ZWMnd2VVNaVlZDRGVWNDB3QWVaX29EcjdoUW1qUGJvenI4NWc4TmIxTUVaNG5lbEZNRm5FTQ?oc=5\" target=\"_blank\">Gold Royalty (GROY) Is Up 6.7% After Swinging To Q2 Profit On Higher Sales - What's Changed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "Gold Royalty (GROY) 6.7%-ით გაიზარდა მეორე კვარტალში გაზრდილი გაყიდვების წყალობით მოგებაზე გასვლის შემდეგ - რა შეიცვალა",
       "summaryKa": "კომპანია Gold Royalty-ის (GROY) აქციების ფასი 6.7%-ით გაიზარდა მას შემდეგ, რაც გაზრდილი გაყიდვების ფონზე მეორე კვარტალში მოგება დააფიქსირა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "07b079931791951f",
-      "title": "Gold Steady as Traders Assess Impact of Hormuz Flare-Up on Rates",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1d3VC0wXzhrUVV2UFJ1STF6RS1PSGx3WjlLOFpvLVNmQTIxcXprbFFNZHJ0dGJkVU1yQWVEa1J4TFJVaWFoR2l4SUEyQVRLX2tOOHo3ajBlM093LVN5WkdZZVZzS1EyWWZfTmhrTUpoUFdzcld5ZjlmdVhCUmgzNjF4cTltZ1NUaGRTbVFVYndkX3JJWVF6T25qSDZPOFFSU0RXYW5pakJSVnUtODluWmdUWEZqdw?oc=5",
-      "publishedAt": "2026-08-07T06:41:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1d3VC0wXzhrUVV2UFJ1STF6RS1PSGx3WjlLOFpvLVNmQTIxcXprbFFNZHJ0dGJkVU1yQWVEa1J4TFJVaWFoR2l4SUEyQVRLX2tOOHo3ajBlM093LVN5WkdZZVZzS1EyWWZfTmhrTUpoUFdzcld5ZjlmdVhCUmgzNjF4cTltZ1NUaGRTbVFVYndkX3JJWVF6T25qSDZPOFFSU0RXYW5pakJSVnUtODluWmdUWEZqdw?oc=5\" target=\"_blank\">Gold Steady as Traders Assess Impact of Hormuz Flare-Up on Rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ოქროს ფასი სტაბილურია, რადგან ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაძაბულობის გავლენას საპროცენტო განაკვეთებზე",
-      "summaryKa": "ოქროს ფასი ინარჩუნებს სტაბილურობას, სანამ ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაპირისპირების გამწვავების გავლენას საპროცენტო განაკვეთებზე.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
