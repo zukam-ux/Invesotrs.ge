@@ -1,8 +1,56 @@
 {
-  "updatedAt": "2026-08-07T10:32:40.952Z",
+  "updatedAt": "2026-08-07T11:29:22.905Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "5c9f3563fcec49e0",
+      "title": "Kevin O’Leary, aka ‘Mr. Wonderful,’ on crypto, winning in AI and 3 things all business owners must know",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSXNkaHNzdncxd29mcFZGdkc0Z0lZbXQwbzNPQ2xacjk1ZERNUFVWbkdMN285ZWFZeW5MM1doQldxUFJkaUUzTFZkV2tjNU9fbXN1eWlaem1JckdHTVJHbTQzNDZabEVpME1FNEhrcXJTY05EeFlTcng1OGVCeGZJaDZGdXo3cmwzRGRpS2tUXzJfYXdCeTVsU0VibjBGQ1pjcTlMcTlZVFh2bmlCYzlWX3FaZG9yYk9jem53SmhQM2Y0WTlWTzJHdWdlQ3hVNHQxWm1JVDFn?oc=5",
+      "publishedAt": "2026-08-07T11:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSXNkaHNzdncxd29mcFZGdkc0Z0lZbXQwbzNPQ2xacjk1ZERNUFVWbkdMN285ZWFZeW5MM1doQldxUFJkaUUzTFZkV2tjNU9fbXN1eWlaem1JckdHTVJHbTQzNDZabEVpME1FNEhrcXJTY05EeFlTcng1OGVCeGZJaDZGdXo3cmwzRGRpS2tUXzJfYXdCeTVsU0VibjBGQ1pjcTlMcTlZVFh2bmlCYzlWX3FaZG9yYk9jem53SmhQM2Y0WTlWTzJHdWdlQ3hVNHQxWm1JVDFn?oc=5\" target=\"_blank\">Kevin O’Leary, aka ‘Mr. Wonderful,’ on crypto, winning in AI and 3 things all business owners must know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "titleKa": "კევინ ო'ლირი, იგივე „Mr. Wonderful“, კრიპტოვალუტის, ხელოვნურ ინტელექტში გამარჯვებისა და 3 იმ რამის შესახებ, რაც ყველა ბიზნესის მფლობელმა უნდა იცოდეს",
+      "summaryKa": "კევინ ო'ლირი, ცნობილი როგორც „Mr. Wonderful“, საუბრობს კრიპტოვალუტაზე, ხელოვნურ ინტელექტში წარმატების მიღწევასა და სამ საკითხზე, რომელიც ყველა ბიზნესის მფლობელმა უნდა იცოდეს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "36b390274b0444d4",
+      "title": "Opinion: Optical stocks have a China problem that most investors are missing",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWNuMjdOUkc1b3BEX0pwR2d0V3BkR2dIUlhoQ3NmUlpqSzRqX1hPeU16TUF5VWgxd1BzNmlOd0djdk1KR2dVQkZ2MUZLbk55Q1luTWI0dzBDb2h6M0pzb3pSR0l6a3dxRXI3Q0NBUnV3eDZJejFSaUw0MDdxdnoyU0FlNE9SV3BTb1RFeDduUERBcHR2UHZ6enJzMkI4ckZ3LTg3M0R4M1VpX3c3YllZ?oc=5",
+      "publishedAt": "2026-08-07T11:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWNuMjdOUkc1b3BEX0pwR2d0V3BkR2dIUlhoQ3NmUlpqSzRqX1hPeU16TUF5VWgxd1BzNmlOd0djdk1KR2dVQkZ2MUZLbk55Q1luTWI0dzBDb2h6M0pzb3pSR0l6a3dxRXI3Q0NBUnV3eDZJejFSaUw0MDdxdnoyU0FlNE9SV3BTb1RFeDduUERBcHR2UHZ6enJzMkI4ckZ3LTg3M0R4M1VpX3c3YllZ?oc=5\" target=\"_blank\">Opinion: Optical stocks have a China problem that most investors are missing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "titleKa": "მოსაზრება: ოპტიკურ აქციებს აქვთ ჩინეთთან დაკავშირებული პრობლემა, რომელსაც ინვესტორების უმეტესობა ვერ ამჩნევს",
+      "summaryKa": "ოპტიკური კომპანიების აქციებს აქვთ ჩინეთთან დაკავშირებული პრობლემა, რომელსაც ინვესტორების უმეტესობა ვერ ამჩნევს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d10e0d429bc3e1c2",
+      "title": "How S&P 500 options action may help explain volatility in memory stocks",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZwZVp4T1hFdWEwRjZUREpWMzZvVGlpb2dqVm45MXpKNjZ1OS1wSDZ1WlhkTkNjNE1Zcjhfd2FGbFR3OVFhS1QtU01QandmcnNydHJ5VUlFb3lhUHhBZ3Z0UUJ6TnMtcG9kMVlfWTZ1OHRZSnFLSFQzMVpWcFZwaFduMTgwV0g0dzRfWU5GWDJRX3ZpWDBsV2VHOFNOWm9WODlTNm9HeTI2Y012Y2NnQ3FHTjY?oc=5",
+      "publishedAt": "2026-08-07T10:56:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZwZVp4T1hFdWEwRjZUREpWMzZvVGlpb2dqVm45MXpKNjZ1OS1wSDZ1WlhkTkNjNE1Zcjhfd2FGbFR3OVFhS1QtU01QandmcnNydHJ5VUlFb3lhUHhBZ3Z0UUJ6TnMtcG9kMVlfWTZ1OHRZSnFLSFQzMVpWcFZwaFduMTgwV0g0dzRfWU5GWDJRX3ZpWDBsV2VHOFNOWm9WODlTNm9HeTI2Y012Y2NnQ3FHTjY?oc=5\" target=\"_blank\">How S&P 500 options action may help explain volatility in memory stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "titleKa": "როგორ შეიძლება დაეხმაროს S&P 500-ის ოფციონების აქტივობა მეხსიერების აქციების მერყეობის ახსნას",
+      "summaryKa": "S&P 500-ის ოფციონების აქტივობა შესაძლოა დაეხმაროს მეხსიერების ჩიპების მწარმოებელი კომპანიების აქციების მერყეობის ახსნას.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b83d68e91a4e3b50",
+      "title": "Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdl9rWkdHOVQxdHJJb0F3WmYyYVgtOE5Xd3FkbjIzRTliU0lzSEoyVTZCQ2NQall5aVl0MHA3bVBjdFNfLS0wT093XzFFZG1mTTZfQ3IySFN6NlotM19WOXpWRXRtUGRfUUs0eTZCR2ZRUXlLZGlweF9QbjZuNmdEbTUxcUlqQ2JzQ0VoYjJTcHYxd1dOVWc?oc=5",
+      "publishedAt": "2026-08-07T10:30:01.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNdl9rWkdHOVQxdHJJb0F3WmYyYVgtOE5Xd3FkbjIzRTliU0lzSEoyVTZCQ2NQall5aVl0MHA3bVBjdFNfLS0wT093XzFFZG1mTTZfQ3IySFN6NlotM19WOXpWRXRtUGRfUUs0eTZCR2ZRUXlLZGlweF9QbjZuNmdEbTUxcUlqQ2JzQ0VoYjJTcHYxd1dOVWc?oc=5\" target=\"_blank\">Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "მსხვილი ტექნოლოგიური კომპანიების აქციები მკვეთრად იზრდება, რადგან ხელოვნურ ინტელექტთან დაკავშირებული შიშები ქრება და ეიფორია ახლდება",
+      "summaryKa": "მსხვილი ტექნოლოგიური კომპანიების აქციები მკვეთრად გაიზარდა ხელოვნურ ინტელექტთან დაკავშირებული შიშების გაქრობისა და ეიფორიის აღდგენის ფონზე.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "c86efa67d3718e24",
       "title": "Bitcoin Bulls Go Missing as BTC Upside Volatility Sinks to All-Time Low: Glassnode",
@@ -12,6 +60,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPMWJUOFVPaW5EVElJYktNVHRCS0dLSlFERC1nZ3JqZW16SDRScy0tM09USEFOM0g5ai1tREFNMnBMbG90SGZILTB3VWt1NnhDY1BnT1lJV2hNX29KZGNSZmNjVFFCNy1Db1dmY1ZidTdzbDdhTE1uS1phOTZBeTlycFZkZUJId3pCY2lwaXRCTG5IdW1ZU3dmQ3pFOTVGQQ?oc=5\" target=\"_blank\">Bitcoin Bulls Go Missing as BTC Upside Volatility Sinks to All-Time Low: Glassnode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "ბიტკოინის ხარები გაუჩინარდნენ, რადგან BTC-ის ზრდის ვოლატილობა ყველა დროის მინიმუმამდე დაეცა: Glassnode",
       "summaryKa": "Glassnode-ის მონაცემებით, ბიტკოინის ხარები გაუჩინარდნენ, რადგან BTC-ის ფასის ზრდის ვოლატილობა ისტორიულ მინიმუმამდე დაეცა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "da853af6bb58f4c6",
+      "title": "Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5",
+      "publishedAt": "2026-08-07T09:03:14.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5\" target=\"_blank\">Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ციფრული დეტექტივები უძილო ღამეებს ატარებენ ბიტკოინის საფულის გატეხვის შემდეგ",
+      "summaryKa": "ბიტკოინის საფულის ჰაკერული თავდასხმის შემდეგ ციფრულ დეტექტივებს ძილი არ აქვთ.",
       "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -112,18 +172,6 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "da853af6bb58f4c6",
-      "title": "Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5",
-      "publishedAt": "2026-08-07T07:33:13.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5\" target=\"_blank\">Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ციფრული დეტექტივები უძილო ღამეებს ატარებენ ბიტკოინის საფულის გატეხვის შემდეგ",
-      "summaryKa": "ბიტკოინის საფულის ჰაკერული თავდასხმის შემდეგ ციფრულ დეტექტივებს ძილი არ აქვთ.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "ec54e78e54a626df",
       "title": "President’s Long Absence Unnerves Cameroon’s Bond Investors",
       "source": "Bloomberg.com",
@@ -156,6 +204,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1d3VC0wXzhrUVV2UFJ1STF6RS1PSGx3WjlLOFpvLVNmQTIxcXprbFFNZHJ0dGJkVU1yQWVEa1J4TFJVaWFoR2l4SUEyQVRLX2tOOHo3ajBlM093LVN5WkdZZVZzS1EyWWZfTmhrTUpoUFdzcld5ZjlmdVhCUmgzNjF4cTltZ1NUaGRTbVFVYndkX3JJWVF6T25qSDZPOFFSU0RXYW5pakJSVnUtODluWmdUWEZqdw?oc=5\" target=\"_blank\">Gold Steady as Traders Assess Impact of Hormuz Flare-Up on Rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "ოქროს ფასი სტაბილურია, რადგან ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაძაბულობის გავლენას საპროცენტო განაკვეთებზე",
       "summaryKa": "ოქროს ფასი ინარჩუნებს სტაბილურობას, სანამ ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაპირისპირების გამწვავების გავლენას საპროცენტო განაკვეთებზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a4d18bf914ecf50a",
+      "title": "Asian shares are mixed after US stocks fall back while oil rebounds",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3ZqWkMzTHBlMENVVTViQVBxdEpuaVhPZHV1OE1ZQkZBMll3eVotdGN3SXBWX0VTU2JtSXBfenpPTWp0WC1zMHEwODdhODBLRXl6N3Q4ejV4WkpOWHBkTXRRc3g1ZW4xSVVkM3F6WHd0SkFDcnJ5Y1Fld0hwdU9TV1NnYTJmdHlrUVhyd2RUeDZtVGhYYUw5a1RTLVU5OGFUSlE?oc=5",
+      "publishedAt": "2026-08-07T06:29:02.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3ZqWkMzTHBlMENVVTViQVBxdEpuaVhPZHV1OE1ZQkZBMll3eVotdGN3SXBWX0VTU2JtSXBfenpPTWp0WC1zMHEwODdhODBLRXl6N3Q4ejV4WkpOWHBkTXRRc3g1ZW4xSVVkM3F6WHd0SkFDcnJ5Y1Fld0hwdU9TV1NnYTJmdHlrUVhyd2RUeDZtVGhYYUw5a1RTLVU5OGFUSlE?oc=5\" target=\"_blank\">Asian shares are mixed after US stocks fall back while oil rebounds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "აზიური აქციები არაერთგვაროვანია მას შემდეგ, რაც აშშ-ის აქციები დაეცა, ხოლო ნავთობის ფასი კვლავ გაიზარდა",
+      "summaryKa": "აზიური აქციები არაერთგვაროვნად ივაჭრება მას შემდეგ, რაც აშშ-ის აქციების ფასები დაეცა, ხოლო ნავთობის ფასი კვლავ გაიზარდა.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
