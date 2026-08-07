@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-08-07T06:40:21.832Z",
+  "updatedAt": "2026-08-07T07:57:00.155Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "da853af6bb58f4c6",
+      "title": "Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5",
+      "publishedAt": "2026-08-07T07:33:13.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5\" target=\"_blank\">Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ციფრული დეტექტივები უძილო ღამეებს ატარებენ ბიტკოინის საფულის გატეხვის შემდეგ",
+      "summaryKa": "ბიტკოინის საფულის ჰაკერული თავდასხმის შემდეგ ციფრულ დეტექტივებს ძილი არ აქვთ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ec54e78e54a626df",
+      "title": "President’s Long Absence Unnerves Cameroon’s Bond Investors",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPelF1RzdxMk1ZaDZpSnlBd0w3WGRBSS1Jel9JOENwU2JreGpzTmJUZ09sR2FaUXdSY2txOElTRkNIYk9KazI2RHJ2anJpUW11c0hOQUhXWGV4WnZCXzJCVTJmQUJJSG9nU3V6QVNoSmJTS1hPZk92R01iM3V5Zmx5YkRya1FVX2dPX3l5ZHpMUGhUV2VJdERxXzhMNEk3cFFEbE41TU5qYi1fUVhBS2V5YlJyQmtOV2xIb0lwSA?oc=5",
+      "publishedAt": "2026-08-07T07:25:35.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPelF1RzdxMk1ZaDZpSnlBd0w3WGRBSS1Jel9JOENwU2JreGpzTmJUZ09sR2FaUXdSY2txOElTRkNIYk9KazI2RHJ2anJpUW11c0hOQUhXWGV4WnZCXzJCVTJmQUJJSG9nU3V6QVNoSmJTS1hPZk92R01iM3V5Zmx5YkRya1FVX2dPX3l5ZHpMUGhUV2VJdERxXzhMNEk3cFFEbE41TU5qYi1fUVhBS2V5YlJyQmtOV2xIb0lwSA?oc=5\" target=\"_blank\">President’s Long Absence Unnerves Cameroon’s Bond Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "პრეზიდენტის ხანგრძლივი არყოფნა კამერუნის ობლიგაციების ინვესტორებს აშფოთებს",
+      "summaryKa": "კამერუნის პრეზიდენტის ხანგრძლივი არყოფნა ქვეყნის ობლიგაციების ინვესტორებში შეშფოთებას იწვევს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "07b079931791951f",
+      "title": "Gold Steady as Traders Assess Impact of Hormuz Flare-Up on Rates",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1d3VC0wXzhrUVV2UFJ1STF6RS1PSGx3WjlLOFpvLVNmQTIxcXprbFFNZHJ0dGJkVU1yQWVEa1J4TFJVaWFoR2l4SUEyQVRLX2tOOHo3ajBlM093LVN5WkdZZVZzS1EyWWZfTmhrTUpoUFdzcld5ZjlmdVhCUmgzNjF4cTltZ1NUaGRTbVFVYndkX3JJWVF6T25qSDZPOFFSU0RXYW5pakJSVnUtODluWmdUWEZqdw?oc=5",
+      "publishedAt": "2026-08-07T06:41:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1d3VC0wXzhrUVV2UFJ1STF6RS1PSGx3WjlLOFpvLVNmQTIxcXprbFFNZHJ0dGJkVU1yQWVEa1J4TFJVaWFoR2l4SUEyQVRLX2tOOHo3ajBlM093LVN5WkdZZVZzS1EyWWZfTmhrTUpoUFdzcld5ZjlmdVhCUmgzNjF4cTltZ1NUaGRTbVFVYndkX3JJWVF6T25qSDZPOFFSU0RXYW5pakJSVnUtODluWmdUWEZqdw?oc=5\" target=\"_blank\">Gold Steady as Traders Assess Impact of Hormuz Flare-Up on Rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ოქროს ფასი სტაბილურია, რადგან ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაძაბულობის გავლენას საპროცენტო განაკვეთებზე",
+      "summaryKa": "ოქროს ფასი ინარჩუნებს სტაბილურობას, სანამ ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაპირისპირების გამწვავების გავლენას საპროცენტო განაკვეთებზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "d1c8250e44836545",
       "title": "Bitcoin Wallet Attack Bolsters Case for Spot Bitcoin ETFs",
@@ -16,18 +52,6 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "da853af6bb58f4c6",
-      "title": "Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5",
-      "publishedAt": "2026-08-07T06:03:13.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5\" target=\"_blank\">Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ციფრული დეტექტივები უძილო ღამეებს ატარებენ ბიტკოინის საფულის გატეხვის შემდეგ",
-      "summaryKa": "ბიტკოინის საფულის ჰაკერული თავდასხმის შემდეგ ციფრულ დეტექტივებს ძილი არ აქვთ.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "e782f781963bc6d3",
       "title": "Watch Oil Climbs as Strait of Hormuz Deal Prospects Unclear",
       "source": "Bloomberg",
@@ -36,6 +60,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2hMREpLbWlTeFJGei1rMEQwaGZhaEZGV0VvSDJjQTVIYXZIMjZ5dzk0RmZPc25CeS14c2pkcXhYOHVsMTNuTGZmNlRZRnluYnE0VzJSck9oM1F6cHpFel9Ec2Z0cU9JckNlSWlRMmgwcGdXMEw5OEhrY0xVczI5UHlFMVYtUzAxMmpkMFl1cjdTUnEyZHVtbFR4a082THl6bHphYTBHa1dDYkM1?oc=5\" target=\"_blank\">Watch Oil Climbs as Strait of Hormuz Deal Prospects Unclear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
       "titleKa": "ნავთობის ფასი იზრდება, რადგან ჰორმუზის სრუტესთან დაკავშირებული შეთანხმების პერსპექტივები ბუნდოვანია",
       "summaryKa": "ჰორმუზის სრუტესთან დაკავშირებული შეთანხმების პერსპექტივების გაურკვევლობის ფონზე, ნავთობის ფასი მატულობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "fa3633366fe67d13",
+      "title": "Oil Extends Gains as Iran Strikes Targets in Strait of Hormuz",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWk5jQUk2ejFRUXkyV29wSG94Rl9UbENwNTJ3NzJqOU9sMHdudTVwcEE0azdVSkdOMUpmX1JSaEdiMnljU0hyWkp3QU55NkRZZjBHUzRlRF84NlNyNVI5bzAyaEtEVVZWc3g3WmZoY0VpMVBPWEt0b0JGaEFkQjR3VVFRMVhvVXQya016VEQ5ZmVxNzJHYTdVWGlKRHQ?oc=5",
+      "publishedAt": "2026-08-07T04:38:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQWk5jQUk2ejFRUXkyV29wSG94Rl9UbENwNTJ3NzJqOU9sMHdudTVwcEE0azdVSkdOMUpmX1JSaEdiMnljU0hyWkp3QU55NkRZZjBHUzRlRF84NlNyNVI5bzAyaEtEVVZWc3g3WmZoY0VpMVBPWEt0b0JGaEFkQjR3VVFRMVhvVXQya016VEQ5ZmVxNzJHYTdVWGlKRHQ?oc=5\" target=\"_blank\">Oil Extends Gains as Iran Strikes Targets in Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ნავთობის ფასი ზრდას განაგრძობს, რადგან ირანმა ჰორმუზის სრუტეში სამიზნეებზე დარტყმები განახორციელა",
+      "summaryKa": "ირანის მიერ ჰორმუზის სრუტეში სამიზნეებზე განხორციელებული დარტყმების ფონზე ნავთობის ფასი ზრდას განაგრძობს.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -104,7 +140,7 @@
       "title": "Global Funds Pile Back Into India IT Stocks After Selling for Months",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0Y5dFVNLXAzRk5oLTVFclQ0ZEw3am1id1k4N1l6NUZOeG1FckVCS004VUd0WFNsc2s4OXRyMTVWZXJ5V0tsR3poZ2g3RWtockd3NVk3eU1fTloyUWV6dGFwazJ0Tk9DcC13OWxLSnNTRU5zTVE3c0dlTDVLajZSYUZNdEdNblU0SFlnakVwanFiQm1meWxkQ1BXUl9OQmJ6d1VOeHZxb0RhUkVjaWJDRVVDVWhMVGwyR0pfc25DSQ?oc=5",
-      "publishedAt": "2026-08-07T02:37:00.000Z",
+      "publishedAt": "2026-08-07T02:38:36.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0Y5dFVNLXAzRk5oLTVFclQ0ZEw3am1id1k4N1l6NUZOeG1FckVCS004VUd0WFNsc2s4OXRyMTVWZXJ5V0tsR3poZ2g3RWtockd3NVk3eU1fTloyUWV6dGFwazJ0Tk9DcC13OWxLSnNTRU5zTVE3c0dlTDVLajZSYUZNdEdNblU0SFlnakVwanFiQm1meWxkQ1BXUl9OQmJ6d1VOeHZxb0RhUkVjaWJDRVVDVWhMVGwyR0pfc25DSQ?oc=5\" target=\"_blank\">Global Funds Pile Back Into India IT Stocks After Selling for Months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "გლობალური ფონდები, თვეების განმავლობაში გაყიდვის შემდეგ, კვლავ ინდოეთის IT აქციებში ბრუნდებიან",
       "summaryKa": "თვეების განმავლობაში გაყიდვების შემდეგ, გლობალური ფონდები კვლავ მასობრივად ყიდულობენ ინდოეთის IT კომპანიების აქციებს.",
@@ -120,6 +156,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRzlBVURLcDU5OHFvZUhiWWV2WEJ1ZjBDR0NVYnJjLW9YSEI2Rl9EVkxFeHR5c3hXN0xRN0k0N0lDemsyWjFxVy1QVFRUWk1kS3dKU1h2SllpdGE0aVhJMEh0V29vWmtVeE0tVkpKUUVPaGFLM0VZUnhaVjNFRVNQYS1mczR6Z2NabUc0?oc=5\" target=\"_blank\">Imperial Oil (TSX:IMO) Board Reshuffle Brings In Director From Its Majority Owner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "Imperial Oil-ის (TSX:IMO) დირექტორთა საბჭოს გადაჯგუფების შედეგად, საბჭოში მისი მაჟორიტარი მფლობელის წარმომადგენელი დირექტორი შევიდა",
       "summaryKa": "Imperial Oil-ის (TSX:IMO) დირექტორთა საბჭოს რეორგანიზაციის შედეგად, საბჭოში მისი მაჟორიტარი მფლობელი კომპანიის დირექტორი დაინიშნა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7c14e698cf50b2be",
+      "title": "Why S&P 500, Dow Futures Are Slipping Overnight After Wall Street’s Second Straight Day In The Red",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObDRIY0U4czdUTlRWOFduRVNtR1l6WnB4WEVGaDhKQjh2ZF96Vk8yaWRkUXNkbVZKMXk4OHNwQ2pfamE4SzZGODREckNhV21MUDZhY1Y4ZFN0cmtlZ1hoYlhMdGttSl9pekxYZjZibHV6WlFTTFhBZHdydElHdUVuOERXX21WLUJuSmxxYlNndw?oc=5",
+      "publishedAt": "2026-08-07T01:52:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxObDRIY0U4czdUTlRWOFduRVNtR1l6WnB4WEVGaDhKQjh2ZF96Vk8yaWRkUXNkbVZKMXk4OHNwQ2pfamE4SzZGODREckNhV21MUDZhY1Y4ZFN0cmtlZ1hoYlhMdGttSl9pekxYZjZibHV6WlFTTFhBZHdydElHdUVuOERXX21WLUJuSmxxYlNndw?oc=5\" target=\"_blank\">Why S&P 500, Dow Futures Are Slipping Overnight After Wall Street’s Second Straight Day In The Red</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "რატომ ეცემა S&P 500-ისა და Dow-ის ფიუჩერსები ღამის განმავლობაში, მას შემდეგ რაც უოლ სტრიტზე ზედიზედ მეორე წითელი დღე დაფიქსირდა",
+      "summaryKa": "S&P 500 და Dow ფიუჩერსები ღამით კლებულობს მას შემდეგ, რაც უოლ სტრიტზე ზედიზედ მეორე დღეა კლება დაფიქსირდა.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -148,15 +196,15 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "07b079931791951f",
-      "title": "Gold Steady as Traders Assess Impact of Hormuz Flare-Up on Rates",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1d3VC0wXzhrUVV2UFJ1STF6RS1PSGx3WjlLOFpvLVNmQTIxcXprbFFNZHJ0dGJkVU1yQWVEa1J4TFJVaWFoR2l4SUEyQVRLX2tOOHo3ajBlM093LVN5WkdZZVZzS1EyWWZfTmhrTUpoUFdzcld5ZjlmdVhCUmgzNjF4cTltZ1NUaGRTbVFVYndkX3JJWVF6T25qSDZPOFFSU0RXYW5pakJSVnUtODluWmdUWEZqdw?oc=5",
-      "publishedAt": "2026-08-06T23:43:38.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1d3VC0wXzhrUVV2UFJ1STF6RS1PSGx3WjlLOFpvLVNmQTIxcXprbFFNZHJ0dGJkVU1yQWVEa1J4TFJVaWFoR2l4SUEyQVRLX2tOOHo3ajBlM093LVN5WkdZZVZzS1EyWWZfTmhrTUpoUFdzcld5ZjlmdVhCUmgzNjF4cTltZ1NUaGRTbVFVYndkX3JJWVF6T25qSDZPOFFSU0RXYW5pakJSVnUtODluWmdUWEZqdw?oc=5\" target=\"_blank\">Gold Steady as Traders Assess Impact of Hormuz Flare-Up on Rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ოქროს ფასი სტაბილურია, რადგან ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაძაბულობის გავლენას საპროცენტო განაკვეთებზე",
-      "summaryKa": "ოქროს ფასი ინარჩუნებს სტაბილურობას, სანამ ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაპირისპირების გამწვავების გავლენას საპროცენტო განაკვეთებზე.",
-      "category": "ბაზრები და ეკონომიკა",
+      "id": "dbc237ab87a37dd1",
+      "title": "Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWNsRWU4NGxhRWNXRERWWDFvd0ZNSjdFaDVTcjdNT0xmdlZ1d3RWTzNFdHlHWXRoM2wwY1pFZl9mdzFjRVdOWk1GUFdUV1VZenZmTmUwNFNtaE8tTFhHUWNJdV9ZZlEzNG1SQ3RxX0M4dUI2Tjd0dHJTRGtSc2dyM1c0OXR5STFyM2pN?oc=5",
+      "publishedAt": "2026-08-06T23:43:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWNsRWU4NGxhRWNXRERWWDFvd0ZNSjdFaDVTcjdNT0xmdlZ1d3RWTzNFdHlHWXRoM2wwY1pFZl9mdzFjRVdOWk1GUFdUV1VZenZmTmUwNFNtaE8tTFhHUWNJdV9ZZlEzNG1SQ3RxX0M4dUI2Tjd0dHJTRGtSc2dyM1c0OXR5STFyM2pN?oc=5\" target=\"_blank\">Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ტომ ლი პროგნოზირებს S&P 500-ს 8,000 ნიშნულზე და Ethereum-ს ასახელებს შემდეგი რალის ლიდერად",
+      "summaryKa": "ტომ ლი მიიჩნევს, რომ S&P 500 მიაღწევს 8,000-ს და Ethereum-ს ბაზრის შემდეგ ლიდერად ასახელებს.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -240,6 +288,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTZQSGJzbHRUWThUNE82Y01JaFRpYncwN3BkbnEwNmxUQVRJTk9sZ183RDRXT0pYLU9fcXdxejU2VmNsY0oyMmVtai13WE05OE9STU9nZTRyUmRLdWh6dVFKYUxDdUpocGlRMlNhZ1A4ZmZQZ1Bqc2ZMcFRGNlo1Qms1NWtxWWJPcy1Pc09CTy1zSnJtd0JaeElR?oc=5\" target=\"_blank\">Twilio soars 16% on earnings beat and strong guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "Twilio 16%-ით გაიზარდა მოლოდინზე უკეთესი ფინანსური შედეგებისა და ძლიერი სამომავლო პროგნოზის წყალობით",
       "summaryKa": "კომპანია Twilio-ს აქციები 16%-ით გაიზარდა მოლოდინზე უკეთესი ფინანსური მაჩვენებლებისა და ძლიერი სამომავლო პროგნოზის ფონზე.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "760bc943797bc436",
+      "title": "Atlassian (TEAM) Q4 Earnings and Revenues Top Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYU56NG5fanY2OENwamg5cTFRNERueTZYblVuT3ZBc0dwM3hLZWd4YUtsWG00RFpEWWNRZVBqVmthRFRGdHVBbm85cjhWOTlhWTNhUW11QzRHdS03LU9UaG9EeHA5eTc5Y1FGR2pFeTJxRWF6elJhYjJqSVRGTXRtdGZrQ0hnTVlVVHJ0U1hzNjhnMVg0Tk9sbURaaGNNZFJkcEE?oc=5",
+      "publishedAt": "2026-08-06T21:40:10.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNYU56NG5fanY2OENwamg5cTFRNERueTZYblVuT3ZBc0dwM3hLZWd4YUtsWG00RFpEWWNRZVBqVmthRFRGdHVBbm85cjhWOTlhWTNhUW11QzRHdS03LU9UaG9EeHA5eTc5Y1FGR2pFeTJxRWF6elJhYjJqSVRGTXRtdGZrQ0hnTVlVVHJ0U1hzNjhnMVg0Tk9sbURaaGNNZFJkcEE?oc=5\" target=\"_blank\">Atlassian (TEAM) Q4 Earnings and Revenues Top Estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Atlassian (TEAM)-ის მე-4 კვარტლის მოგებამ და შემოსავლებმა მოლოდინებს გადააჭარბა",
+      "summaryKa": "Atlassian (TEAM)-ის მეოთხე კვარტლის მოგებამ და შემოსავალმა მოლოდინებს გადააჭარბა.",
       "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
