@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-07T19:13:38.958Z",
+  "updatedAt": "2026-08-07T19:58:37.619Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "14c7477ae27b3486",
+      "title": "Fed Split on Rate Hikes Deepens as Five Years of High Inflation Tests Patience",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbURVRnIzOTk4WTgyZTctUnpFS0h5YlozanY2eHFKVHVQREVrYkpvbk1qZTk1cUE5Qm91S19PS0FwV3ZWampuUHAwanowcFJuOTdHd19pT1dhXzRpWjJUcUhwRXB1SmV2cEZINnpNZjZZbnZXeVdMaGNtRTJFc2JYR1ItdkY4SVVVTF9IdnQ2MW5hRjQyeEstc3B2TGVVRkJWTk85bEk5NlZrRnRDVUhyZmVRM3FrZw?oc=5",
+      "publishedAt": "2026-08-07T19:27:06.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNbURVRnIzOTk4WTgyZTctUnpFS0h5YlozanY2eHFKVHVQREVrYkpvbk1qZTk1cUE5Qm91S19PS0FwV3ZWampuUHAwanowcFJuOTdHd19pT1dhXzRpWjJUcUhwRXB1SmV2cEZINnpNZjZZbnZXeVdMaGNtRTJFc2JYR1ItdkY4SVVVTF9IdnQ2MW5hRjQyeEstc3B2TGVVRkJWTk85bEk5NlZrRnRDVUhyZmVRM3FrZw?oc=5\" target=\"_blank\">Fed Split on Rate Hikes Deepens as Five Years of High Inflation Tests Patience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ფედში აზრთა სხვადასხვაობა საპროცენტო განაკვეთების ზრდასთან დაკავშირებით ღრმავდება, რადგან ხუთწლიანი მაღალი ინფლაცია მოთმინებას ცდის",
+      "summaryKa": "აშშ-ის ფედერალურ რეზერვში საპროცენტო განაკვეთების ზრდის თაობაზე აზრთა სხვადასხვაობა ღრმავდება, რადგან ხუთწლიანი მაღალი ინფლაცია მოთმინებას ცდის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "5eaa9444a49bfc97",
       "title": "Jim Cramer Called Linde plc (NASDAQ:LIN)’s Share Price Movement “Stupid”",
