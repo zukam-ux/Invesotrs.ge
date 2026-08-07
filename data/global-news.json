@@ -1,8 +1,56 @@
 {
-  "updatedAt": "2026-08-07T14:37:52.715Z",
+  "updatedAt": "2026-08-07T15:32:59.313Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "a10be3d6c013df6f",
+      "title": "US Consumers More Optimistic on Jobs, Inflation in NY Fed Survey",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYU05ZlotZ0R2Y3ZLVDFTRHFzOEx1UTlJVjBYc19pMTN0cTJOQ2RXWVhINHhpMXZRX2RrTERvU25zWENySjBoSnB1Rmt5b3psQkdldlhhTFRDdTNaeVdpVGxuTGJtLXBYSXJtV3hWS3B6NElSRGJOVHhXR001cjF3dzQ0dGkxVzVtVktQMWNOY3JRX0VINkpDbTAyZlZjQzJNNVRPbGV1YXpqQVNYX3VMLXpzLVY?oc=5",
+      "publishedAt": "2026-08-07T15:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNYU05ZlotZ0R2Y3ZLVDFTRHFzOEx1UTlJVjBYc19pMTN0cTJOQ2RXWVhINHhpMXZRX2RrTERvU25zWENySjBoSnB1Rmt5b3psQkdldlhhTFRDdTNaeVdpVGxuTGJtLXBYSXJtV3hWS3B6NElSRGJOVHhXR001cjF3dzQ0dGkxVzVtVktQMWNOY3JRX0VINkpDbTAyZlZjQzJNNVRPbGV1YXpqQVNYX3VMLXpzLVY?oc=5\" target=\"_blank\">US Consumers More Optimistic on Jobs, Inflation in NY Fed Survey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ნიუ-იორკის ფედერალური სარეზერვო ბანკის გამოკითხვის თანახმად, აშშ-ის მომხმარებლები უფრო ოპტიმისტურად არიან განწყობილნი სამუშაო ადგილებისა და ინფლაციის მიმართ",
+      "summaryKa": "ნიუ-იორკის ფედერალური სარეზერვო ბანკის გამოკითხვა აჩვენებს, რომ ამერიკელი მომხმარებლები უფრო მეტ ოპტიმიზმს გამოხატავენ დასაქმებისა და ინფლაციის მიმართ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "0041172f5ce37b3e",
+      "title": "Atlassian stock soars 34% after earnings boost: AlphaSpace chart analysis",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd2RRRi1rcFl1VE5CdnVXT2x4NzY0aTN1a3hXRlZ5OXhlMzZvQ0ZITzl0MUFMUUswRjgxWW5UZVdzQ0ozTnhRVEt2XzNsSzJUOWtySzJlVGF0NzNQek9oVnhlS2cxSkJwR2twSEpSTV9saWZCZ0dyWXo4M0xGT05qNE9HM0R3Um8?oc=5",
+      "publishedAt": "2026-08-07T14:59:57.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPd2RRRi1rcFl1VE5CdnVXT2x4NzY0aTN1a3hXRlZ5OXhlMzZvQ0ZITzl0MUFMUUswRjgxWW5UZVdzQ0ozTnhRVEt2XzNsSzJUOWtySzJlVGF0NzNQek9oVnhlS2cxSkJwR2twSEpSTV9saWZCZ0dyWXo4M0xGT05qNE9HM0R3Um8?oc=5\" target=\"_blank\">Atlassian stock soars 34% after earnings boost: AlphaSpace chart analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Atlassian-ის აქციები 34%-ით გაიზარდა შემოსავლების ზრდის შემდეგ: AlphaSpace-ის გრაფიკული ანალიზი",
+      "summaryKa": "შემოსავლების გაუმჯობესების ფონზე Atlassian-ის აქციების ფასი 34%-ით გაიზარდა, რასაც ასახავს AlphaSpace-ის გრაფიკული ანალიზი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5b07648d08bbfdf1",
+      "title": "Watch BlackRock's Rieder on Jobs Report, Fed Rates, Bonds",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY2ZNTnNEd2hrSlhjeHlIVE9XM3dRUEhIV3RpdGhvSlB3YXYwWGRiU2NHUzBRd1ZNVUpZSFhrcGdVN2hRVHplX1hPY1RodWVheHRkc2tQTzg4WXViS1lqX2NSdm1aM1ZubnZDazVrRUhOVGpiSU1rY1M4bEFMRnM5VUdtUUxBSkpEOTEwQ3hUQjdwazJ5cHZ1dHpRcUZmS0ZuY0VpeFFyZzY1c1pX?oc=5",
+      "publishedAt": "2026-08-07T14:51:05.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNY2ZNTnNEd2hrSlhjeHlIVE9XM3dRUEhIV3RpdGhvSlB3YXYwWGRiU2NHUzBRd1ZNVUpZSFhrcGdVN2hRVHplX1hPY1RodWVheHRkc2tQTzg4WXViS1lqX2NSdm1aM1ZubnZDazVrRUhOVGpiSU1rY1M4bEFMRnM5VUdtUUxBSkpEOTEwQ3hUQjdwazJ5cHZ1dHpRcUZmS0ZuY0VpeFFyZzY1c1pX?oc=5\" target=\"_blank\">Watch BlackRock's Rieder on Jobs Report, Fed Rates, Bonds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "უყურეთ BlackRock-ის რიდერის მოსაზრებებს სამუშაო ადგილების ანგარიშზე, ფედერალური სარეზერვო სისტემის განაკვეთებსა და ობლიგაციებზე",
+      "summaryKa": "ვიდეოში წარმოდგენილია BlackRock-ის წარმომადგენლის, რიდერის ანალიზი დასაქმების ანგარიშის, ფედერალური სარეზერვო სისტემის საპროცენტო განაკვეთებისა და ობლიგაციების შესახებ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "27b6fc7bce71858b",
+      "title": "MTSI Q3 Earnings Surpass Expectations, Revenues Rise Y/Y",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZEVEVUhMMVlZS2F4SWpGdVVaUFB5cTVwSnA0NXlxMnRqMm9zTTRNNUtBYzlVRk02SVBKclZ4UGFxc3k1djJ6ZmlPcWZ4ZGFkeVBFUVprQ2tJdXBRWkstWHVScnRac3pVRk0yc3czQ0RNLU5DbWVRcGdNNTZUVDlpWnRVcXpLcnphcVZaRWNDbVFEUVVPTXZiSDByLTlJMFhxUGxCcA?oc=5",
+      "publishedAt": "2026-08-07T14:12:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZEVEVUhMMVlZS2F4SWpGdVVaUFB5cTVwSnA0NXlxMnRqMm9zTTRNNUtBYzlVRk02SVBKclZ4UGFxc3k1djJ6ZmlPcWZ4ZGFkeVBFUVprQ2tJdXBRWkstWHVScnRac3pVRk0yc3czQ0RNLU5DbWVRcGdNNTZUVDlpWnRVcXpLcnphcVZaRWNDbVFEUVVPTXZiSDByLTlJMFhxUGxCcA?oc=5\" target=\"_blank\">MTSI Q3 Earnings Surpass Expectations, Revenues Rise Y/Y</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "MTSI-ის მესამე კვარტლის მოგებამ მოლოდინს გადააჭარბა, ხოლო შემოსავალი წლიურ ჭრილში გაიზარდა",
+      "summaryKa": "კომპანია MTSI-ის მესამე კვარტლის მოგებამ პროგნოზირებულ მაჩვენებლებს გადააჭარბა, ხოლო შემოსავალი წინა წლის შესაბამის პერიოდთან შედარებით გაიზარდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "2cae7acbc5991b77",
       "title": "Mexico’s Inflation Slows in July as Banxico Remains Cautious",
@@ -12,6 +60,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTFuTXJENWl3VFhEYkxWUnNwRGlOYW1xbFNhdGR4b0tIU3d3MkMzVzdMazcyaXJMUkVtZ0VmQVVieGgteDY5ZEhoSkVwaW1NN1RXWG1OalZ1YWZVYXRWdXcyaEp4cjBnRUJWMXFXY1pzbTBjb2RpRTA1cmVaUjMxZ2Ewd01tVFdnUHE3dTVJSFdvWWd6RUFaZEFYNkpOWUVwMGZncHJfeEdjdDFwdGYyVQ?oc=5\" target=\"_blank\">Mexico’s Inflation Slows in July as Banxico Remains Cautious</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "მექსიკაში ინფლაცია ივლისში შენელდა, რადგან Banxico კვლავ სიფრთხილეს ინარჩუნებს",
       "summaryKa": "მექსიკაში ივლისის თვეში ინფლაციის ტემპი შენელდა, ხოლო ქვეყნის ცენტრალური ბანკი Banxico კვლავ ფრთხილ პოზიციას ინარჩუნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "075e923d22d1c74e",
+      "title": "SMR Q2 Earnings Meet Estimates, Revenues Miss on RoPower Timing",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNExaUG1lM1BlZGhjcEplWHMtNFIyZ2F3QWVOMkN2OWhMRWEyYWtwdHY2VDVNZHloa0VlaFhOSE91aExmZkp4bFB3QThuNFVMMU5rcV9XdzVsckNDX1JHbWxLNTl6R0kzZWdfVUU3WXk2Wnk1b2hPcnBSc2llbDdWQVFn?oc=5",
+      "publishedAt": "2026-08-07T13:32:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNExaUG1lM1BlZGhjcEplWHMtNFIyZ2F3QWVOMkN2OWhMRWEyYWtwdHY2VDVNZHloa0VlaFhOSE91aExmZkp4bFB3QThuNFVMMU5rcV9XdzVsckNDX1JHbWxLNTl6R0kzZWdfVUU3WXk2Wnk1b2hPcnBSc2llbDdWQVFn?oc=5\" target=\"_blank\">SMR Q2 Earnings Meet Estimates, Revenues Miss on RoPower Timing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "SMR-ის მეორე კვარტლის მოგება პროგნოზებს შეესაბამება, ხოლო შემოსავლებმა მოლოდინს ჩამორჩა RoPower-ის ვადების გამო",
+      "summaryKa": "კომპანია SMR-ის მეორე კვარტლის მოგება პროგნოზირებულ მაჩვენებელს გაუტოლდა, თუმცა RoPower-ის დროითი ფაქტორების გამო შემოსავალმა მოლოდინს ვერ მიაღწია.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
