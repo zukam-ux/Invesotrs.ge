@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-08-07T13:35:05.676Z",
+  "updatedAt": "2026-08-07T14:37:52.715Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "2cae7acbc5991b77",
+      "title": "Mexico’s Inflation Slows in July as Banxico Remains Cautious",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTFuTXJENWl3VFhEYkxWUnNwRGlOYW1xbFNhdGR4b0tIU3d3MkMzVzdMazcyaXJMUkVtZ0VmQVVieGgteDY5ZEhoSkVwaW1NN1RXWG1OalZ1YWZVYXRWdXcyaEp4cjBnRUJWMXFXY1pzbTBjb2RpRTA1cmVaUjMxZ2Ewd01tVFdnUHE3dTVJSFdvWWd6RUFaZEFYNkpOWUVwMGZncHJfeEdjdDFwdGYyVQ?oc=5",
+      "publishedAt": "2026-08-07T13:43:21.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTFuTXJENWl3VFhEYkxWUnNwRGlOYW1xbFNhdGR4b0tIU3d3MkMzVzdMazcyaXJMUkVtZ0VmQVVieGgteDY5ZEhoSkVwaW1NN1RXWG1OalZ1YWZVYXRWdXcyaEp4cjBnRUJWMXFXY1pzbTBjb2RpRTA1cmVaUjMxZ2Ewd01tVFdnUHE3dTVJSFdvWWd6RUFaZEFYNkpOWUVwMGZncHJfeEdjdDFwdGYyVQ?oc=5\" target=\"_blank\">Mexico’s Inflation Slows in July as Banxico Remains Cautious</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "მექსიკაში ინფლაცია ივლისში შენელდა, რადგან Banxico კვლავ სიფრთხილეს ინარჩუნებს",
+      "summaryKa": "მექსიკაში ივლისის თვეში ინფლაციის ტემპი შენელდა, ხოლო ქვეყნის ცენტრალური ბანკი Banxico კვლავ ფრთხილ პოზიციას ინარჩუნებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d10e0d429bc3e1c2",
+      "title": "How S&P 500 options action may help explain volatility in memory stocks",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZwZVp4T1hFdWEwRjZUREpWMzZvVGlpb2dqVm45MXpKNjZ1OS1wSDZ1WlhkTkNjNE1Zcjhfd2FGbFR3OVFhS1QtU01QandmcnNydHJ5VUlFb3lhUHhBZ3Z0UUJ6TnMtcG9kMVlfWTZ1OHRZSnFLSFQzMVpWcFZwaFduMTgwV0g0dzRfWU5GWDJRX3ZpWDBsV2VHOFNOWm9WODlTNm9HeTI2Y012Y2NnQ3FHTjY?oc=5",
+      "publishedAt": "2026-08-07T13:30:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZwZVp4T1hFdWEwRjZUREpWMzZvVGlpb2dqVm45MXpKNjZ1OS1wSDZ1WlhkTkNjNE1Zcjhfd2FGbFR3OVFhS1QtU01QandmcnNydHJ5VUlFb3lhUHhBZ3Z0UUJ6TnMtcG9kMVlfWTZ1OHRZSnFLSFQzMVpWcFZwaFduMTgwV0g0dzRfWU5GWDJRX3ZpWDBsV2VHOFNOWm9WODlTNm9HeTI2Y012Y2NnQ3FHTjY?oc=5\" target=\"_blank\">How S&P 500 options action may help explain volatility in memory stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "titleKa": "როგორ შეიძლება დაეხმაროს S&P 500-ის ოფციონების აქტივობა მეხსიერების აქციების მერყეობის ახსნას",
+      "summaryKa": "S&P 500-ის ოფციონების აქტივობა შესაძლოა დაეხმაროს მეხსიერების ჩიპების მწარმოებელი კომპანიების აქციების მერყეობის ახსნას.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d01588acd5e4ed48",
+      "title": "SpaceX's big week: Stock weathers earnings storm, lock-up expiration in crucial test for investors",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ21wVnJVRklHRmVCbFgzOUhsVE1hZnVEZHU1RGVqWXlTWmV4YmVLRTZzY1poTURaS3pGNDhYZ29Fa1FoQlk2SFZyV2JyYnJ1azRDbnh1MmFFdVJVOHdYQUFuUkJUdVVxb19tb2JoYmNsVEZDYS1fTmJkVjNqcGI5RTRvWUNHWDBvMGVTdDhqMWl4eGdoWHpRRnNmM3Q1Q3N3V2JuOERkVktmQi1oQXVPdFBCYXhtREpHdzdwUzl5NFUtMjJEaVhoa01CbmhhelBac1Vac2xuQnhMMzlqN3dUVlRBRVFlSklNSG9LZzlTSGo?oc=5",
+      "publishedAt": "2026-08-07T13:18:28.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ21wVnJVRklHRmVCbFgzOUhsVE1hZnVEZHU1RGVqWXlTWmV4YmVLRTZzY1poTURaS3pGNDhYZ29Fa1FoQlk2SFZyV2JyYnJ1azRDbnh1MmFFdVJVOHdYQUFuUkJUdVVxb19tb2JoYmNsVEZDYS1fTmJkVjNqcGI5RTRvWUNHWDBvMGVTdDhqMWl4eGdoWHpRRnNmM3Q1Q3N3V2JuOERkVktmQi1oQXVPdFBCYXhtREpHdzdwUzl5NFUtMjJEaVhoa01CbmhhelBac1Vac2xuQnhMMzlqN3dUVlRBRVFlSklNSG9LZzlTSGo?oc=5\" target=\"_blank\">SpaceX's big week: Stock weathers earnings storm, lock-up expiration in crucial test for investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "SpaceX-ის დიდი კვირა: აქციები უმკლავდება შემოსავლების ქარიშხალს და აქციების გაყიდვის შეზღუდვის ვადის ამოწურვას ინვესტორებისთვის გადამწყვეტ ტესტში",
+      "summaryKa": "SpaceX-ის აქციები გაუმკლავდა შემოსავლების ანგარიშგებასა და აქციების გაყიდვის შეზღუდვის ვადის ამოწურვას, რაც ინვესტორებისთვის გადამწყვეტ გამოცდას წარმოადგენდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "03a61561b1365cba",
       "title": "Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report",
@@ -40,14 +76,14 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "2cae7acbc5991b77",
-      "title": "Mexico’s Inflation Slows in July as Banxico Remains Cautious",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTFuTXJENWl3VFhEYkxWUnNwRGlOYW1xbFNhdGR4b0tIU3d3MkMzVzdMazcyaXJMUkVtZ0VmQVVieGgteDY5ZEhoSkVwaW1NN1RXWG1OalZ1YWZVYXRWdXcyaEp4cjBnRUJWMXFXY1pzbTBjb2RpRTA1cmVaUjMxZ2Ewd01tVFdnUHE3dTVJSFdvWWd6RUFaZEFYNkpOWUVwMGZncHJfeEdjdDFwdGYyVQ?oc=5",
-      "publishedAt": "2026-08-07T12:17:09.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTFuTXJENWl3VFhEYkxWUnNwRGlOYW1xbFNhdGR4b0tIU3d3MkMzVzdMazcyaXJMUkVtZ0VmQVVieGgteDY5ZEhoSkVwaW1NN1RXWG1OalZ1YWZVYXRWdXcyaEp4cjBnRUJWMXFXY1pzbTBjb2RpRTA1cmVaUjMxZ2Ewd01tVFdnUHE3dTVJSFdvWWd6RUFaZEFYNkpOWUVwMGZncHJfeEdjdDFwdGYyVQ?oc=5\" target=\"_blank\">Mexico’s Inflation Slows in July as Banxico Remains Cautious</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "მექსიკაში ინფლაცია ივლისში შენელდა, რადგან Banxico კვლავ სიფრთხილეს ინარჩუნებს",
-      "summaryKa": "მექსიკაში ივლისის თვეში ინფლაციის ტემპი შენელდა, ხოლო ქვეყნის ცენტრალური ბანკი Banxico კვლავ ფრთხილ პოზიციას ინარჩუნებს.",
+      "id": "c0183dbe0d3f0bc7",
+      "title": "What Imperial Oil (TSX:IMO)'s Q2 Earnings Beat and Board Shift Means For Shareholders",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVNsX05BZDRPRnM0cEVKX2pRUklfb3ZpQUZjclQyWG4tb05MeFJnb19xY3hRdU9RREVwYmhESmNUOUZEWThWelRyNUZILTZEcWh5bktEYkJzYnVlMVhlUDBfVS01OV83RFc4NFJEVXYyZEluZFlDbzN0M0pSY09keUNCT3pDRTJISkJYTVlKVWM5dw?oc=5",
+      "publishedAt": "2026-08-07T12:14:54.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVNsX05BZDRPRnM0cEVKX2pRUklfb3ZpQUZjclQyWG4tb05MeFJnb19xY3hRdU9RREVwYmhESmNUOUZEWThWelRyNUZILTZEcWh5bktEYkJzYnVlMVhlUDBfVS01OV83RFc4NFJEVXYyZEluZFlDbzN0M0pSY09keUNCT3pDRTJISkJYTVlKVWM5dw?oc=5\" target=\"_blank\">What Imperial Oil (TSX:IMO)'s Q2 Earnings Beat and Board Shift Means For Shareholders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "რას ნიშნავს აქციონერებისთვის Imperial Oil (TSX:IMO)-ის Q2-ის მოსალოდნელზე უკეთესი შემოსავლები და საბჭოს ცვლილება",
+      "summaryKa": "აქციონერებისთვის ფასდება Imperial Oil (TSX:IMO)-ის მიერ Q2-ის პროგნოზირებულზე უკეთესი შემოსავლების მიღებისა და დირექტორთა საბჭოს ცვლილების მნიშვნელობა.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -61,6 +97,30 @@
       "titleKa": "ივლისის დასაქმების ანგარიში, შემოსავლები Take-Two-სგან, Under Armour-ისგან და Wendy's-ისგან: რას მივაქციოთ ყურადღება პარასკევს",
       "summaryKa": "პარასკევს ყურადღების ცენტრში იქნება ივლისის დასაქმების ანგარიში, ასევე Take-Two-ს, Under Armour-ისა და Wendy's-ის კვარტალური ფინანსური შედეგები.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7ee04255ec07d8ef",
+      "title": "Bitcoin Price to $33,000? CLARITY Act's September Delay Sparks Crash Warning",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUU8wY2dxNkpuZzNCREV0QnZyZFRVclQxUFlUbGFQY0JOUEJpbjB3REYxSEp0eG1pU01GdUI5cTZkZnpxczRYLTBJaURuRkg2dXhBY0l3Y1N5ZTlQSldYMVJUaVZ6X2djeUlaQnNkQk9zaElUT0NXQ2c2QkxPWnVySW5qRjJ0TnVGd2FZdXBqb1ZKWUh1UXJ6NQ?oc=5",
+      "publishedAt": "2026-08-07T11:42:27.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOUU8wY2dxNkpuZzNCREV0QnZyZFRVclQxUFlUbGFQY0JOUEJpbjB3REYxSEp0eG1pU01GdUI5cTZkZnpxczRYLTBJaURuRkg2dXhBY0l3Y1N5ZTlQSldYMVJUaVZ6X2djeUlaQnNkQk9zaElUT0NXQ2c2QkxPWnVySW5qRjJ0TnVGd2FZdXBqb1ZKWUh1UXJ6NQ?oc=5\" target=\"_blank\">Bitcoin Price to $33,000? CLARITY Act's September Delay Sparks Crash Warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ბიტკოინის ფასი $33,000-მდე? CLARITY Act-ის სექტემბრის გადადებამ კრახის შესახებ გაფრთხილება გამოიწვია",
+      "summaryKa": "CLARITY Act-ის სექტემბრის გადადებამ გამოიწვია გაფრთხილება ბიტკოინის ფასის $33,000-მდე შესაძლო კრახის შესახებ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2f78f65a10b9e49c",
+      "title": "The Senate Just Shelved the CLARITY Act, And JPMorgan Says Crypto’s Tokenization Boom Could Slip Away to Wall Street",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRDZXLXBYQjRPNHhra3Bfcll6X25jX1lBVXAyUThwbzZEM1NtVnVzb0p2eWxIZmhseTYxNDZWZDUyVHZwaEtwOVpPQWdHdWVBWUZCdnFqRjAxYWc3bk5aUFVIaUF2YXJ4Q1o4aFR3d0lKVkZGYWJFWjZQY25saENqRnluZ3ZZSnQyTWxBcTBHU0FVYTJZOFMyX0w0S2w?oc=5",
+      "publishedAt": "2026-08-07T11:41:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNRDZXLXBYQjRPNHhra3Bfcll6X25jX1lBVXAyUThwbzZEM1NtVnVzb0p2eWxIZmhseTYxNDZWZDUyVHZwaEtwOVpPQWdHdWVBWUZCdnFqRjAxYWc3bk5aUFVIaUF2YXJ4Q1o4aFR3d0lKVkZGYWJFWjZQY25saENqRnluZ3ZZSnQyTWxBcTBHU0FVYTJZOFMyX0w0S2w?oc=5\" target=\"_blank\">The Senate Just Shelved the CLARITY Act, And JPMorgan Says Crypto’s Tokenization Boom Could Slip Away to Wall Street</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "სენატმა ახლახან გვერდზე გადადო CLARITY Act, ხოლო JPMorgan აცხადებს, რომ კრიპტო აქტივების ტოკენიზაციის ბუმი შესაძლოა უოლ სტრიტის ხელში გადავიდეს",
+      "summaryKa": "სენატის მიერ CLARITY Act-ის გადადების შემდეგ, JPMorgan-ის განცხადებით, კრიპტოვალუტის ტოკენიზაციის ბუმი შესაძლოა უოლ სტრიტის ხელში გადავიდეს.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -108,18 +168,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWNuMjdOUkc1b3BEX0pwR2d0V3BkR2dIUlhoQ3NmUlpqSzRqX1hPeU16TUF5VWgxd1BzNmlOd0djdk1KR2dVQkZ2MUZLbk55Q1luTWI0dzBDb2h6M0pzb3pSR0l6a3dxRXI3Q0NBUnV3eDZJejFSaUw0MDdxdnoyU0FlNE9SV3BTb1RFeDduUERBcHR2UHZ6enJzMkI4ckZ3LTg3M0R4M1VpX3c3YllZ?oc=5\" target=\"_blank\">Opinion: Optical stocks have a China problem that most investors are missing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
       "titleKa": "მოსაზრება: ოპტიკურ აქციებს აქვთ ჩინეთთან დაკავშირებული პრობლემა, რომელსაც ინვესტორების უმეტესობა ვერ ამჩნევს",
       "summaryKa": "ოპტიკური კომპანიების აქციებს აქვთ ჩინეთთან დაკავშირებული პრობლემა, რომელსაც ინვესტორების უმეტესობა ვერ ამჩნევს.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "d10e0d429bc3e1c2",
-      "title": "How S&P 500 options action may help explain volatility in memory stocks",
-      "source": "MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZwZVp4T1hFdWEwRjZUREpWMzZvVGlpb2dqVm45MXpKNjZ1OS1wSDZ1WlhkTkNjNE1Zcjhfd2FGbFR3OVFhS1QtU01QandmcnNydHJ5VUlFb3lhUHhBZ3Z0UUJ6TnMtcG9kMVlfWTZ1OHRZSnFLSFQzMVpWcFZwaFduMTgwV0g0dzRfWU5GWDJRX3ZpWDBsV2VHOFNOWm9WODlTNm9HeTI2Y012Y2NnQ3FHTjY?oc=5",
-      "publishedAt": "2026-08-07T10:56:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZwZVp4T1hFdWEwRjZUREpWMzZvVGlpb2dqVm45MXpKNjZ1OS1wSDZ1WlhkTkNjNE1Zcjhfd2FGbFR3OVFhS1QtU01QandmcnNydHJ5VUlFb3lhUHhBZ3Z0UUJ6TnMtcG9kMVlfWTZ1OHRZSnFLSFQzMVpWcFZwaFduMTgwV0g0dzRfWU5GWDJRX3ZpWDBsV2VHOFNOWm9WODlTNm9HeTI2Y012Y2NnQ3FHTjY?oc=5\" target=\"_blank\">How S&P 500 options action may help explain volatility in memory stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-      "titleKa": "როგორ შეიძლება დაეხმაროს S&P 500-ის ოფციონების აქტივობა მეხსიერების აქციების მერყეობის ახსნას",
-      "summaryKa": "S&P 500-ის ოფციონების აქტივობა შესაძლოა დაეხმაროს მეხსიერების ჩიპების მწარმოებელი კომპანიების აქციების მერყეობის ახსნას.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
