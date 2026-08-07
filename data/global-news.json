@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-07T22:52:46.119Z",
+  "updatedAt": "2026-08-07T23:54:26.637Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "0b066300f5b0055f",
+      "title": "Bitcoin price today: August 7, 2026",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1lST09NREc1aFhjYUxvakxOdUYyVFR0ZXZMaEYtTll0UTgwOFptdXhxMnprSEZKZk9JRnpULV9kSE8xT0VVWEdXRDJMRXl0TWdidzlZYmxDeHUtZ0VFU29mQ0xrMGFFTkp0Um42SzNwWW92di1iZ1l0WXNNOENFdzgtTmZMUlRMQXFJZ0xuZGFRdEZ0dC1abg?oc=5",
+      "publishedAt": "2026-08-07T23:34:36.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1lST09NREc1aFhjYUxvakxOdUYyVFR0ZXZMaEYtTll0UTgwOFptdXhxMnprSEZKZk9JRnpULV9kSE8xT0VVWEdXRDJMRXl0TWdidzlZYmxDeHUtZ0VFU29mQ0xrMGFFTkp0Um42SzNwWW92di1iZ1l0WXNNOENFdzgtTmZMUlRMQXFJZ0xuZGFRdEZ0dC1abg?oc=5\" target=\"_blank\">Bitcoin price today: August 7, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ბიტკოინის ფასი დღეს: 2026 წლის 7 აგვისტო",
+      "summaryKa": "სტატიაში წარმოდგენილია ბიტკოინის ფასი 2026 წლის 7 აგვისტოს მდგომარეობით.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "43dff60a6590fe79",
       "title": "Trump Media Ends Token, Prediction Market Deals With Crypto.com",
@@ -12,6 +24,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQOU10UjFCOG5YaF9JUFZmakw4WnNJSl9vZEpwSHZhY2hMTHktMW5oR2VXQ0hDQjlReVBISC1FTHJEUHQ3M0hhOTg0UDdvRTllT2hXWnA4elo1allfaEJWczhnU2k4b0ExN280bm1Va19PMTVuVmdZZkhMd19yTWx0TjBKaE9fRWtYMVE4dWJ1T1ViVmtmbG5kb0szaEs4bzRVUFFoU0xTVFBUNnpWckVsak5kVQ?oc=5\" target=\"_blank\">Trump Media Ends Token, Prediction Market Deals With Crypto.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "Trump Media-მ შეწყვიტა ტოკენისა და საპროგნოზო ბაზრის გარიგებები Crypto.com-თან",
       "summaryKa": "კომპანია Trump Media-მ დაასრულა Crypto.com-თან გაფორმებული ხელშეკრულებები, რომლებიც ტოკენსა და საპროგნოზო ბაზარს უკავშირდებოდა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a6db00c6fa324dee",
+      "title": "Weekly Wrap: Bitcoin Hit By Coldcard Hack And Clarity Act Disappointment",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVlI4NmpxakpZenlUOTNzOGVmVU94Wlk5R3lmQ2V1WlVLcEFPMjFuY3JKZ1U0bU1BdU01ZlkwRnFEakdZcGtqOXk1RGJ6dmxyQkIxQVJONVMtRE9VSkJwMGNMTGh3ZVBrZ211V0VKZmRoMkZOUDJwVXhwVVdRdHl2WjRlMklWak9VcWF3YkUyUVMyNkZxQVE5eGxyN2JCZw?oc=5",
+      "publishedAt": "2026-08-07T22:11:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQVlI4NmpxakpZenlUOTNzOGVmVU94Wlk5R3lmQ2V1WlVLcEFPMjFuY3JKZ1U0bU1BdU01ZlkwRnFEakdZcGtqOXk1RGJ6dmxyQkIxQVJONVMtRE9VSkJwMGNMTGh3ZVBrZ211V0VKZmRoMkZOUDJwVXhwVVdRdHl2WjRlMklWak9VcWF3YkUyUVMyNkZxQVE5eGxyN2JCZw?oc=5\" target=\"_blank\">Weekly Wrap: Bitcoin Hit By Coldcard Hack And Clarity Act Disappointment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ყოველკვირეული შეჯამება: ბიტკოინი Coldcard-ის ჰაკერულმა თავდასხმამ და Clarity Act-ის იმედგაცრუებამ დააზარალა",
+      "summaryKa": "ყოველკვირეული მიმოხილვა აღწერს, რომ ბიტკოინი Coldcard-ის ჰაკერულმა თავდასხმამ და Clarity Act-ის იმედგაცრუებამ დააზარალა.",
       "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
