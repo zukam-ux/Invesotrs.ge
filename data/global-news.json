@@ -1,8 +1,104 @@
 {
-  "updatedAt": "2026-08-07T16:31:29.825Z",
+  "updatedAt": "2026-08-07T17:31:05.827Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "f483cc69f59ee3f4",
+      "title": "SK Hynix Slides and the ProShares Ultra SK Hynix ETF (SKHU) Tumbles With It",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQmI5WkNkYWZkWkY3NmFnV2kzOURCSHVpRHFpT2U3MUp5cWYtYm9OTWpyRFo5SVNiQU9jU2ZYVC14WVp2TnNSTzVCaTV0cTRMd2V6UExiNERKaDBsM3FQYUNDSVhqeUhybVlFX1dlTHphN1FubEpZNllfRGlYMW4wTmg4NG1RdUJ2UnQyU3VrVk9HdmpqY2NRaFFTaEU?oc=5",
+      "publishedAt": "2026-08-07T16:59:38.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQQmI5WkNkYWZkWkY3NmFnV2kzOURCSHVpRHFpT2U3MUp5cWYtYm9OTWpyRFo5SVNiQU9jU2ZYVC14WVp2TnNSTzVCaTV0cTRMd2V6UExiNERKaDBsM3FQYUNDSVhqeUhybVlFX1dlTHphN1FubEpZNllfRGlYMW4wTmg4NG1RdUJ2UnQyU3VrVk9HdmpqY2NRaFFTaEU?oc=5\" target=\"_blank\">SK Hynix Slides and the ProShares Ultra SK Hynix ETF (SKHU) Tumbles With It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "SK Hynix-ის აქციები ეცემა, მასთან ერთად კი ProShares Ultra SK Hynix ETF (SKHU)-ც უფასურდება",
+      "summaryKa": "SK Hynix-ის ვარდნასთან ერთად ProShares Ultra SK Hynix ETF (SKHU) მნიშვნელოვნად დაეცა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "fc3e6596a0ca5892",
+      "title": "DUST Drops 13% as Gold Miners Rally Hard",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcVhKckJwV2VwM3pjcEtwZmY1ZUlobnVkNUg4YjhBUlZwT19ydlQydHlNQzFlOGxiUzFoYlpablRyN2I0VlQ1c1pxdWRjQ1RpR0hreFNqbzdKa2FCSXVEdktIUS1hTHF0UDR5cm1HejM2UkRUZkx1VGRIMzZicjlRRVZZMjE3di1PaE5SUTJ3SVRpS0EyVHdkT1lFbw?oc=5",
+      "publishedAt": "2026-08-07T16:50:22.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPcVhKckJwV2VwM3pjcEtwZmY1ZUlobnVkNUg4YjhBUlZwT19ydlQydHlNQzFlOGxiUzFoYlpablRyN2I0VlQ1c1pxdWRjQ1RpR0hreFNqbzdKa2FCSXVEdktIUS1hTHF0UDR5cm1HejM2UkRUZkx1VGRIMzZicjlRRVZZMjE3di1PaE5SUTJ3SVRpS0EyVHdkT1lFbw?oc=5\" target=\"_blank\">DUST Drops 13% as Gold Miners Rally Hard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "DUST-ი 13%-ით ეცემა ოქროს მომპოვებლების მკვეთრი ზრდის ფონზე",
+      "summaryKa": "ოქროს მომპოვებელი კომპანიების მკვეთრი ზრდის ფონზე DUST-ი 13%-ით შემცირდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f26c0aa900536f57",
+      "title": "LASR Q2 Earnings Surpass Estimates on Strong A&D Growth",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdldMeUl5dC1JM0lhUnpTRnFkOWhOdk9xODBXZktITkJjcFdWQ085TVVucEItalA2ZXpjMndCVm5qSHdXTFNna1VjNDRjSC1YUi1YYTNuZTFkbXg4VGp2MXluamN1RjV3b2NFNnppSDdXWDNoR0ZjWkh3aHpyN2FwWUZocHZFdG9BR2FndXdBQkxoWmVXRTl0SlIxRWhmZXR3?oc=5",
+      "publishedAt": "2026-08-07T16:09:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdldMeUl5dC1JM0lhUnpTRnFkOWhOdk9xODBXZktITkJjcFdWQ085TVVucEItalA2ZXpjMndCVm5qSHdXTFNna1VjNDRjSC1YUi1YYTNuZTFkbXg4VGp2MXluamN1RjV3b2NFNnppSDdXWDNoR0ZjWkh3aHpyN2FwWUZocHZFdG9BR2FndXdBQkxoWmVXRTl0SlIxRWhmZXR3?oc=5\" target=\"_blank\">LASR Q2 Earnings Surpass Estimates on Strong A&D Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "LASR-ის მეორე კვარტლის მოგებამ მოლოდინს გადააჭარბა ძლიერი A&D ზრდის ფონზე",
+      "summaryKa": "ძლიერი A&D ზრდის წყალობით, LASR-ის მეორე კვარტლის მოგებამ პროგნოზირებულ მაჩვენებლებს გადააჭარბა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8674e76b51c7e321",
+      "title": "Gen Digital Q1 Earnings Beat Estimates, Revenues Increase Y/Y",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDFXa2xJZ2p4QzlsS2hKVDdVQ2M1TXgzaWpTcFEzeTJ4cU5BR2UzTUpoV3BuTFYxcThZT3dBTHJ1Y3RIMWYzV0xDYVlUTkJ5d0lQdTNXNFB2QlMwRUQ1UzhhcURFZXJZT3VnUG9UVTRkUDIwU0pSbWF3MDlHOTU3Tl82djdncXU1cDVwSDlEdV9fdEdEVEtPRA?oc=5",
+      "publishedAt": "2026-08-07T16:03:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDFXa2xJZ2p4QzlsS2hKVDdVQ2M1TXgzaWpTcFEzeTJ4cU5BR2UzTUpoV3BuTFYxcThZT3dBTHJ1Y3RIMWYzV0xDYVlUTkJ5d0lQdTNXNFB2QlMwRUQ1UzhhcURFZXJZT3VnUG9UVTRkUDIwU0pSbWF3MDlHOTU3Tl82djdncXU1cDVwSDlEdV9fdEdEVEtPRA?oc=5\" target=\"_blank\">Gen Digital Q1 Earnings Beat Estimates, Revenues Increase Y/Y</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Gen Digital-ის პირველი კვარტლის მოგებამ მოლოდინს გადააჭარბა, ხოლო შემოსავალი წლიურ ჭრილში გაიზარდა",
+      "summaryKa": "Gen Digital-ის პირველი კვარტლის მოგებამ პროგნოზებს გადააჭარბა, ხოლო კომპანიის შემოსავლები წინა წლის შესაბამის პერიოდთან შედარებით გაიზარდა.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "671a2cc516e54ddc",
+      "title": "European Stocks Gain for Fourth Straight Week on Strong Earnings",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlF6QWJSMzVURVNkQzRrWXBwekR2aC1RODJ2SlFnZC1FMGxUR1N4ZXZxOHIwTExvSWFiY0ZBdERyUlVlUXNnOXc2SzVmS2E3ckR1YXR4MU1DWU05TS1adnFoS045ZWM2cWZvNU4tTEU2ZU13d1RST1k3VXNlZllteHhmRUZJeHBIZm0tMzgzendzeFVFQ0pvb2Rxd0dpdmtGcktxRko1U21JSHF2dmFBbnl6UEM?oc=5",
+      "publishedAt": "2026-08-07T15:52:02.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlF6QWJSMzVURVNkQzRrWXBwekR2aC1RODJ2SlFnZC1FMGxUR1N4ZXZxOHIwTExvSWFiY0ZBdERyUlVlUXNnOXc2SzVmS2E3ckR1YXR4MU1DWU05TS1adnFoS045ZWM2cWZvNU4tTEU2ZU13d1RST1k3VXNlZllteHhmRUZJeHBIZm0tMzgzendzeFVFQ0pvb2Rxd0dpdmtGcktxRko1U21JSHF2dmFBbnl6UEM?oc=5\" target=\"_blank\">European Stocks Gain for Fourth Straight Week on Strong Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ევროპული აქციები მეოთხე კვირაა იზრდება ძლიერი კვარტალური ანგარიშების ფონზე",
+      "summaryKa": "ძლიერი მოგების ანგარიშების ფონზე, ევროპული აქციები ზედიზედ მეოთხე კვირაა იზრდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f1e1093808956efb",
+      "title": "Datadog Q2 Earnings and Revenues Surpass Estimates, Rise Y/Y",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjEtMHFCdklhRXdQa2hkc0dCbFYtRzFjbVhsekxIUUpGcmJSZW84ZWJJTG9PVHQ1RzNQam5SaDFKTmpqbV9FVk5Id0NOQ0VSTzJHR0V6anlRSHpKRXRISF9obUV6bEZtUGFIQ1o0Ulk5djNZczlaQkRUOE8zZW5zTy02aTIyWmZSVXpELVlZNDlSSlNLSUNSR2swbHN3YWhPNTJ3?oc=5",
+      "publishedAt": "2026-08-07T15:34:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjEtMHFCdklhRXdQa2hkc0dCbFYtRzFjbVhsekxIUUpGcmJSZW84ZWJJTG9PVHQ1RzNQam5SaDFKTmpqbV9FVk5Id0NOQ0VSTzJHR0V6anlRSHpKRXRISF9obUV6bEZtUGFIQ1o0Ulk5djNZczlaQkRUOE8zZW5zTy02aTIyWmZSVXpELVlZNDlSSlNLSUNSR2swbHN3YWhPNTJ3?oc=5\" target=\"_blank\">Datadog Q2 Earnings and Revenues Surpass Estimates, Rise Y/Y</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Datadog-ის მეორე კვარტლის მოგებამ და შემოსავლებმა მოლოდინს გადააჭარბა და წლიურად გაიზარდა",
+      "summaryKa": "Datadog-ის მეორე კვარტლის მოგების და შემოსავლის მაჩვენებლებმა პროგნოზებს გადააჭარბა და წლიურ ჭრილში ზრდა აჩვენა.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "30c0b8f15e958263",
+      "title": "Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0ozdzFRTE1oU1d2dkx0MS1lTTFRWFh3QzlfUURpdUxrX3RXdm5RRVF0bVNRZ1lsMm9Cc1FJZllibHB4M2pMZGN3cWJIaGJlamE1YmdPOXlQd0kxcmZ3M2p4eGZ4TWE5RjZJQVlqZENneXlyYnFPamV0RWJhNk0tajZDamZ5VDhkWEJLZ3ZQWUtMenJOcEJKN0pINVRybDQ?oc=5",
+      "publishedAt": "2026-08-07T15:27:35.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0ozdzFRTE1oU1d2dkx0MS1lTTFRWFh3QzlfUURpdUxrX3RXdm5RRVF0bVNRZ1lsMm9Cc1FJZllibHB4M2pMZGN3cWJIaGJlamE1YmdPOXlQd0kxcmZ3M2p4eGZ4TWE5RjZJQVlqZENneXlyYnFPamV0RWJhNk0tajZDamZ5VDhkWEJLZ3ZQWUtMenJOcEJKN0pINVRybDQ?oc=5\" target=\"_blank\">Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "2011 წლიდან უმოქმედო ბიტკოინის საფულემ მილიონობით დოლარის BTC გადარიცხა",
+      "summaryKa": "ბიტკოინის საფულემ, რომელიც 2011 წლის შემდეგ უმოქმედო იყო, მილიონობით დოლარის ღირებულების BTC გადააადგილა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f2fa86fcb5080cbe",
+      "title": "AMSC Q1 Earnings Miss Estimates on Margin Pressure, Sales Beat",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnJjNXZOa0dFZ182Q01qOEV6dGVEOTZjY0FXQ0lrZFRMcVRDa0hGSEh2VzRKdFh4YUl2WVFUYUNNQzN2WVc2UVJnaVB1dExOMmVCdWxrWnV2SG1aUnZuVHVZMUNmU3dNdUtSWC1QNlhDaXhqc016cnpULXNPWmV5d1htU0ZySGVtemRKc1FPS3VNOU1jbUVpQ29zNG8?oc=5",
+      "publishedAt": "2026-08-07T15:27:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnJjNXZOa0dFZ182Q01qOEV6dGVEOTZjY0FXQ0lrZFRMcVRDa0hGSEh2VzRKdFh4YUl2WVFUYUNNQzN2WVc2UVJnaVB1dExOMmVCdWxrWnV2SG1aUnZuVHVZMUNmU3dNdUtSWC1QNlhDaXhqc016cnpULXNPWmV5d1htU0ZySGVtemRKc1FPS3VNOU1jbUVpQ29zNG8?oc=5\" target=\"_blank\">AMSC Q1 Earnings Miss Estimates on Margin Pressure, Sales Beat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "AMSC-ის პირველი კვარტლის მოგებამ მარჟის ზეწოლის გამო მოლოდინს ვერ მიაღწია, თუმცა გაყიდვებმა პროგნოზს გადააჭარბა",
+      "summaryKa": "მარჟაზე ზეწოლის გამო AMSC-ის პირველი კვარტლის მოგებამ მოლოდინს ვერ მიაღწია, თუმცა გაყიდვების მაჩვენებლებმა პროგნოზებს გადააჭარბა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "a10be3d6c013df6f",
       "title": "US Consumers More Optimistic on Jobs, Inflation in NY Fed Survey",
@@ -61,6 +157,18 @@
       "titleKa": "Ouster-ის Q2-ის მოგებამ მოლოდინს გადააჭარბა სენსორების ზრდის ფონზე",
       "summaryKa": "კომპანია Ouster-ის მეორე კვარტლის მოგებამ სენსორების მიმართულების ზრდის გამო მოლოდინს გადააჭარბა.",
       "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "eecb13455a87c407",
+      "title": "July Jobs Report Sends Fed Expectations Into Chaos, Can Crypto Capitalize?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMV84SHV6ZU1pVkZ1MUYzRkZ5NWNsVGxKOVAxeHRFVmZFX0VXLWtsOTE2cGJNUkIxVkljWkxvT1RzN2hLVUZCUjhpYkRScjhQc1hRWmxHU1BsOWtEd21PajlhUzc1MEtGdEtxZFB6blUzUUItMk9iWXFHb1F5dkdzTlZjTlNFUGVlY3Z2UWpNd0lrTk5VbVE?oc=5",
+      "publishedAt": "2026-08-07T14:36:01.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNMV84SHV6ZU1pVkZ1MUYzRkZ5NWNsVGxKOVAxeHRFVmZFX0VXLWtsOTE2cGJNUkIxVkljWkxvT1RzN2hLVUZCUjhpYkRScjhQc1hRWmxHU1BsOWtEd21PajlhUzc1MEtGdEtxZFB6blUzUUItMk9iWXFHb1F5dkdzTlZjTlNFUGVlY3Z2UWpNd0lrTk5VbVE?oc=5\" target=\"_blank\">July Jobs Report Sends Fed Expectations Into Chaos, Can Crypto Capitalize?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ივლისის დასაქმების ანგარიშმა Fed-ის მოლოდინები ქაოსში გახვია; შეძლებს თუ არა კრიპტო ამით სარგებლის მიღებას?",
+      "summaryKa": "ივლისის დასაქმების ანგარიშმა ფედერალური რეზერვის მოლოდინებში ქაოსი შეიტანა, რის გამოც ჩნდება კითხვა, შეძლებს თუ არა კრიპტოვალუტა ამ სიტუაციით სარგებლობას.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
