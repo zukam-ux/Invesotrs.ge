@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-08-07T09:42:05.229Z",
+  "updatedAt": "2026-08-07T10:32:40.952Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
     {
-      "id": "da853af6bb58f4c6",
-      "title": "Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5",
-      "publishedAt": "2026-08-07T09:03:14.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5\" target=\"_blank\">Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ციფრული დეტექტივები უძილო ღამეებს ატარებენ ბიტკოინის საფულის გატეხვის შემდეგ",
-      "summaryKa": "ბიტკოინის საფულის ჰაკერული თავდასხმის შემდეგ ციფრულ დეტექტივებს ძილი არ აქვთ.",
+      "id": "c86efa67d3718e24",
+      "title": "Bitcoin Bulls Go Missing as BTC Upside Volatility Sinks to All-Time Low: Glassnode",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWJUOFVPaW5EVElJYktNVHRCS0dLSlFERC1nZ3JqZW16SDRScy0tM09USEFOM0g5ai1tREFNMnBMbG90SGZILTB3VWt1NnhDY1BnT1lJV2hNX29KZGNSZmNjVFFCNy1Db1dmY1ZidTdzbDdhTE1uS1phOTZBeTlycFZkZUJId3pCY2lwaXRCTG5IdW1ZU3dmQ3pFOTVGQQ?oc=5",
+      "publishedAt": "2026-08-07T09:24:26.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPMWJUOFVPaW5EVElJYktNVHRCS0dLSlFERC1nZ3JqZW16SDRScy0tM09USEFOM0g5ai1tREFNMnBMbG90SGZILTB3VWt1NnhDY1BnT1lJV2hNX29KZGNSZmNjVFFCNy1Db1dmY1ZidTdzbDdhTE1uS1phOTZBeTlycFZkZUJId3pCY2lwaXRCTG5IdW1ZU3dmQ3pFOTVGQQ?oc=5\" target=\"_blank\">Bitcoin Bulls Go Missing as BTC Upside Volatility Sinks to All-Time Low: Glassnode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ბიტკოინის ხარები გაუჩინარდნენ, რადგან BTC-ის ზრდის ვოლატილობა ყველა დროის მინიმუმამდე დაეცა: Glassnode",
+      "summaryKa": "Glassnode-ის მონაცემებით, ბიტკოინის ხარები გაუჩინარდნენ, რადგან BTC-ის ფასის ზრდის ვოლატილობა ისტორიულ მინიმუმამდე დაეცა.",
       "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -24,6 +24,30 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPemM5QzNxUlFQR3IwZjIyXzFmUExfWldVNTFLZ2NZYXRZSS12LVl4eTlGNXRJb0otZk1WS0tpeGQ2cFAxU3FfdWw5Xy1abHJFVXhPRUw2elVjNWZMQ25Vejl4ZEppUzlKeWZ4THJ5RjVTcURHVFBCdmdmcW9WdWVnRm5RYnJXd1pUS3JsRkdhbkdVOUZXbDFKXzJwejFOblBWWVdYVGsxUGdSdDM4TEI0Z1NBVWI0dGM?oc=5\" target=\"_blank\">Permabear Michael Burry Ignores a Crucial Fact About US Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "მუდმივი დათვი მაიკლ ბიური აშშ-ის აქციების შესახებ გადამწყვეტ ფაქტს უგულებელყოფს",
       "summaryKa": "მაიკლ ბიური, რომელიც ცნობილია როგორც მუდმივი დათვი საფონდო ბაზარზე, აშშ-ის აქციებთან დაკავშირებულ მნიშვნელოვან ფაქტს უგულებელყოფს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "29be11b219ce9001",
+      "title": "Oil Ships Signal Egypt and Suez to Mask Saudi Red Sea Loadings",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV2ZzWkVBczRhYWpNZlZmQ2Z5eUJERUJqMjhFYThUdVlpNnZNWFExVmVLTGUzaHVhVTVUWlpvSEh2S0k3WWp3QzBiZWl2NTBmY0puYTZMd3dRUkFUSW1CNTEtalBQWDdQNDJTWUlJTlQ5V21uTGRQRWFRem80LTBKdldQdm85YlN4bFUyUW91TVc0OE4zTEtXYWY5clhid2pncUxfcEZaaEVqWDl3R2luWldCdw?oc=5",
+      "publishedAt": "2026-08-07T08:56:47.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOV2ZzWkVBczRhYWpNZlZmQ2Z5eUJERUJqMjhFYThUdVlpNnZNWFExVmVLTGUzaHVhVTVUWlpvSEh2S0k3WWp3QzBiZWl2NTBmY0puYTZMd3dRUkFUSW1CNTEtalBQWDdQNDJTWUlJTlQ5V21uTGRQRWFRem80LTBKdldQdm85YlN4bFUyUW91TVc0OE4zTEtXYWY5clhid2pncUxfcEZaaEVqWDl3R2luWldCdw?oc=5\" target=\"_blank\">Oil Ships Signal Egypt and Suez to Mask Saudi Red Sea Loadings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ნავთობმზიდები სიგნალს აძლევენ ეგვიპტესა და სუეცს საუდის არაბეთის წითელი ზღვის ტვირთების შესანიღბად",
+      "summaryKa": "ნავთობის გადამზიდი გემები სიგნალს უგზავნიან ეგვიპტესა და სუეცის არხს, რათა შენიღბონ საუდის არაბეთის მიერ წითელ ზღვაში ნავთობის ჩატვირთვა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8647227eed16263e",
+      "title": "Oil Prices Advance as Strait of Hormuz Uncertainty Returns to the Forefront",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnZkR0Vabmo5am9wQTJ4Undud2Y2WElySGV5Rl92a3VBaGtIOGxCLTBvMHFrY21IakFMckNIb2pzV1VjcDNrNHdyQmhHZ2RQcVkxWVhIQ2VOMm1LNzB5SUVocEFQNHktSmtFWkNqdUE3VUs5NnFxTXdsMm5VdjlXOHJBUll2M0trSjFFMlh3WDY4Qms?oc=5",
+      "publishedAt": "2026-08-07T08:42:03.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnZkR0Vabmo5am9wQTJ4Undud2Y2WElySGV5Rl92a3VBaGtIOGxCLTBvMHFrY21IakFMckNIb2pzV1VjcDNrNHdyQmhHZ2RQcVkxWVhIQ2VOMm1LNzB5SUVocEFQNHktSmtFWkNqdUE3VUs5NnFxTXdsMm5VdjlXOHJBUll2M0trSjFFMlh3WDY4Qms?oc=5\" target=\"_blank\">Oil Prices Advance as Strait of Hormuz Uncertainty Returns to the Forefront</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ნავთობის ფასები იზრდება, რადგან ჰორმუზის სრუტის ირგვლივ გაურკვევლობა კვლავ წინა პლანზე იწევს",
+      "summaryKa": "ნავთობის ფასები გაიზარდა მას შემდეგ, რაც ჰორმუზის სრუტესთან დაკავშირებული გაურკვევლობა კვლავ აქტუალური გახდა.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -52,6 +76,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "fc80b5a3962105c8",
+      "title": "Libya Sees 2 Million-Barrel Oil Plan on Track as US Pushes Unity",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdG5VdThyYXd1UjkxcS1Lb29TUDN6eEgzZzJSc2tPSlZvODZ2eFp5MHVGTWE5eXZZdklSSXp5aFpLV1Q1SXZfU204SWxMSkd4S3UzcTBfQ2xSUVZHcDJZV01aYW03ZFY2NkpzM3QwU1BVazJEWHFQcFZlWXZNWWxaekxyQkw5clU5a2lZOU9GODVqMzg1bUgyWDlYQ1NZN1hKaDJOTGRNWGR1dTFvTUptSUVjemtmQQ?oc=5",
+      "publishedAt": "2026-08-07T08:22:10.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOdG5VdThyYXd1UjkxcS1Lb29TUDN6eEgzZzJSc2tPSlZvODZ2eFp5MHVGTWE5eXZZdklSSXp5aFpLV1Q1SXZfU204SWxMSkd4S3UzcTBfQ2xSUVZHcDJZV01aYW03ZFY2NkpzM3QwU1BVazJEWHFQcFZlWXZNWWxaekxyQkw5clU5a2lZOU9GODVqMzg1bUgyWDlYQ1NZN1hKaDJOTGRNWGR1dTFvTUptSUVjemtmQQ?oc=5\" target=\"_blank\">Libya Sees 2 Million-Barrel Oil Plan on Track as US Pushes Unity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ლიბია მიიჩნევს, რომ 2 მილიონი ბარელი ნავთობის გეგმა სწორ გზაზეა, რადგან აშშ ერთიანობას უჭერს მხარს",
+      "summaryKa": "ლიბია მიიჩნევს, რომ მისი 2 მილიონი ბარელი ნავთობის მოპოვების გეგმა წარმატებით ხორციელდება, რადგან აშშ ქვეყანაში ერთიანობისკენ მოუწოდებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "2334c6f21c4d0ac2",
       "title": "China’s Central Bank Adds 20 Tons to Gold Reserves in July",
       "source": "Bloomberg.com",
@@ -72,6 +108,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPREQwRTZNdTg3RDlSOWhWNjB3NnRnQThoV2pEd1c3dl9Xb3A2QS1rVkVpX3lnSGstSWduaFRhQkw2b3NVQXYzYzhoT2lMdXN0SlQ4RHA0aG40XzdYeS1LVGxicVRTQ1BBUFh1SUtlRno1SUZmT3h6Z3ZLVXZHMDA4b0NoaG5wanV1ZTNLSTFIUTQ2ZzNaeVUxa2RBOTBwVGx3dGczSkUyMlAwUzBhcTJ0aTNzQVp0cHM?oc=5\" target=\"_blank\">Bitcoin Wallet Attack Bolsters Case for Spot Bitcoin ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "ბიტკოინის საფულის თავდასხმა აძლიერებს არგუმენტებს სპოტური ბიტკოინ ETF-ების სასარგებლოდ",
       "summaryKa": "ბიტკოინის საფულეზე თავდასხმა ამყარებს არგუმენტებს სპოტური ბიტკოინ ETF-ების შექმნის სასარგებლოდ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "da853af6bb58f4c6",
+      "title": "Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5",
+      "publishedAt": "2026-08-07T07:33:13.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5\" target=\"_blank\">Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ციფრული დეტექტივები უძილო ღამეებს ატარებენ ბიტკოინის საფულის გატეხვის შემდეგ",
+      "summaryKa": "ბიტკოინის საფულის ჰაკერული თავდასხმის შემდეგ ციფრულ დეტექტივებს ძილი არ აქვთ.",
       "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -180,6 +228,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3FWdVQwSlY1cy1paElMY2UzcTFpSUFubm03eWNDbEdIYmc5WDNrUklRemxmUlBLNjlIOUpnQzRsZVlyblFKWjRGcXNMdmVJSUdlbXpnUURLLWZPaV9ab2RDZHg3NGptVExjdWJNaUNGQ0NvaG0xbWxLWmJpLWtFSC1NdmxIYUdmSGJBWWJFRXlNdw?oc=5\" target=\"_blank\">Equinox Gold (TSX:EQX) Is Up 14.3% After Strong Q2 Results And 50% Dividend Hike – Has The Bull Case Changed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "Equinox Gold (TSX:EQX) 14.3%-ით გაიზარდა მეორე კვარტლის ძლიერი შედეგებისა და დივიდენდების 50%-იანი ზრდის შემდეგ – შეიცვალა თუ არა ზრდის პროგნოზი?",
       "summaryKa": "Equinox Gold-ის (TSX:EQX) აქციები 14.3%-ით გაიზარდა მეორე კვარტლის ძლიერი ფინანსური შედეგებისა და დივიდენდების 50%-ით გაზრდის შემდეგ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8e24cc7991919dc0",
+      "title": "Oil extends gains and stocks fall on fresh Hormuz worries",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMWw4clp5dG5RRl9GLXo3UmxvdEhrVFdST3ZDZ0w5endhYzFtNnQtY3pKLXRWWW9Zd2tDTW00aG5RdnRjb2NyMUNBVGY5UGFSa2xYUzZhcTd1X010aWhZM0hjVjh6SEpicUxzYTA0M29qLXQ1VmdNellpV1ZhOFEtZHV1MDVOMXNiNlRQX3RaNA?oc=5",
+      "publishedAt": "2026-08-07T02:48:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMWw4clp5dG5RRl9GLXo3UmxvdEhrVFdST3ZDZ0w5endhYzFtNnQtY3pKLXRWWW9Zd2tDTW00aG5RdnRjb2NyMUNBVGY5UGFSa2xYUzZhcTd1X010aWhZM0hjVjh6SEpicUxzYTA0M29qLXQ1VmdNellpV1ZhOFEtZHV1MDVOMXNiNlRQX3RaNA?oc=5\" target=\"_blank\">Oil extends gains and stocks fall on fresh Hormuz worries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ნავთობი ზრდას განაგრძობს, ხოლო აქციები ეცემა ჰორმუზის სრუტესთან დაკავშირებული ახალი შეშფოთების ფონზე",
+      "summaryKa": "ჰორმუზის სრუტესთან დაკავშირებული ახალი წუხილის ფონზე ნავთობის ფასები კვლავ იზრდება, ხოლო აქციების ფასები ეცემა.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
