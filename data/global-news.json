@@ -1,8 +1,32 @@
 {
-  "updatedAt": "2026-08-07T22:02:27.891Z",
+  "updatedAt": "2026-08-07T22:52:46.119Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "43dff60a6590fe79",
+      "title": "Trump Media Ends Token, Prediction Market Deals With Crypto.com",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOU10UjFCOG5YaF9JUFZmakw4WnNJSl9vZEpwSHZhY2hMTHktMW5oR2VXQ0hDQjlReVBISC1FTHJEUHQ3M0hhOTg0UDdvRTllT2hXWnA4elo1allfaEJWczhnU2k4b0ExN280bm1Va19PMTVuVmdZZkhMd19yTWx0TjBKaE9fRWtYMVE4dWJ1T1ViVmtmbG5kb0szaEs4bzRVUFFoU0xTVFBUNnpWckVsak5kVQ?oc=5",
+      "publishedAt": "2026-08-07T22:18:15.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQOU10UjFCOG5YaF9JUFZmakw4WnNJSl9vZEpwSHZhY2hMTHktMW5oR2VXQ0hDQjlReVBISC1FTHJEUHQ3M0hhOTg0UDdvRTllT2hXWnA4elo1allfaEJWczhnU2k4b0ExN280bm1Va19PMTVuVmdZZkhMd19yTWx0TjBKaE9fRWtYMVE4dWJ1T1ViVmtmbG5kb0szaEs4bzRVUFFoU0xTVFBUNnpWckVsak5kVQ?oc=5\" target=\"_blank\">Trump Media Ends Token, Prediction Market Deals With Crypto.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "Trump Media-მ შეწყვიტა ტოკენისა და საპროგნოზო ბაზრის გარიგებები Crypto.com-თან",
+      "summaryKa": "კომპანია Trump Media-მ დაასრულა Crypto.com-თან გაფორმებული ხელშეკრულებები, რომლებიც ტოკენსა და საპროგნოზო ბაზარს უკავშირდებოდა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3fa7206702a99b4c",
+      "title": "The smart way to invest in gold right now as the dollar slips",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVS03ckFNcUk0aUlqZHZpNUtiRW1pek9Wb1NNVUZ0U0FYeDc0QTkwTWpBY1p0VVFWb2FpRXVLaW9KT21ReEx5VFFjZjZWM1JZQkVaUlM5bWVqTjJ0d1UxNUZEZGtPTzMzQmIwempta2cxMDBmQWh6dWl1TGY1M2JybENsa3owdFJJWnVGZERjdlgxWTc0TUs5MHRqSHBuTE9qeHE2Vm5jSQ?oc=5",
+      "publishedAt": "2026-08-07T21:58:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNVS03ckFNcUk0aUlqZHZpNUtiRW1pek9Wb1NNVUZ0U0FYeDc0QTkwTWpBY1p0VVFWb2FpRXVLaW9KT21ReEx5VFFjZjZWM1JZQkVaUlM5bWVqTjJ0d1UxNUZEZGtPTzMzQmIwempta2cxMDBmQWh6dWl1TGY1M2JybENsa3owdFJJWnVGZERjdlgxWTc0TUs5MHRqSHBuTE9qeHE2Vm5jSQ?oc=5\" target=\"_blank\">The smart way to invest in gold right now as the dollar slips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "titleKa": "ოქროში ინვესტირების გონივრული გზა სწორედ ახლა, როდესაც დოლარი პოზიციებს თმობს",
+      "summaryKa": "სტატიაში განხილულია ოქროში ინვესტირების ჭკვიანური მეთოდი ამერიკული დოლარის კურსის ვარდნის ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "ece9b44d25da0a8d",
       "title": "Iran-Linked Crypto Exchange Handled $6.3 Billion, TRM Says",
@@ -109,6 +133,30 @@
       "titleKa": "მზის ენერგიის აქციები ტრამპის ტარიფების ფონზე გაიზარდა: AlphaSpace-ის სითბური რუკის ანალიზი",
       "summaryKa": "ტრამპის მიერ დაწესებული ტარიფების გამო მზის ენერგიის კომპანიების აქციები გაიზარდა, რის შესახებაც დეტალებს AlphaSpace-ის სითბური რუკა აჩვენებს.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4439f940a39e9dba",
+      "title": "Thune Still Plans Clarity Act Cloture: What a Weekend Surprise Could Mean for Bitcoin",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkRpNUotVmd3dDFyNktMYzc3WnNkYXpsUDFtZmtSaGl0ZGNRMndfWUNkUzlHRmJZbWRTVXBTWi1PZmRHS0xLRFdPcVdOeUxZUGZCaWVwR1ZsZG1aSXpJTm9mY2NmbXpaTVN2b05KNkp5Yzk5dVpaVVVwVU5qVG9kYkxUQ20tVzhhNXFWd3J2Y1lSZGc2R01fM2dn?oc=5",
+      "publishedAt": "2026-08-07T19:46:10.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkRpNUotVmd3dDFyNktMYzc3WnNkYXpsUDFtZmtSaGl0ZGNRMndfWUNkUzlHRmJZbWRTVXBTWi1PZmRHS0xLRFdPcVdOeUxZUGZCaWVwR1ZsZG1aSXpJTm9mY2NmbXpaTVN2b05KNkp5Yzk5dVpaVVVwVU5qVG9kYkxUQ20tVzhhNXFWd3J2Y1lSZGc2R01fM2dn?oc=5\" target=\"_blank\">Thune Still Plans Clarity Act Cloture: What a Weekend Surprise Could Mean for Bitcoin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "თუნი კვლავ გეგმავს Clarity Act-ის დებატების შეწყვეტას: რა შეიძლება მოუტანოს შაბათ-კვირის მოულოდნელობამ ბიტკოინს",
+      "summaryKa": "სენატორი თუნი კვლავ გეგმავს Clarity Act-ის კენჭისყრას დებატების შესაწყვეტად, რაც, შესაძლოა, შაბათ-კვირას მოულოდნელი შედეგით აისახოს ბიტკოინზე.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b790e80f3ebbadf3",
+      "title": "Crypto Fear & Greed Index Is Muted With Bitcoin Rangebound",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmdJdWxfQ1Yzc1dNM2pLZThSRmE3ak1rOGkta3VvanZhM2h0Yk5GNTFkbWg0dVJ3Z041OFY4cjhzWDVkc0hXVkhNNzBvcm1xOFZjRXNmWm44eGhXUUR1ZjBGZkxaa2lHUGFaSUt0ZXBRM0FkdHllWVJScnFoeWJKZDRReENoeGdmTGRUQjZ6cG5MQlBfZnpadEdn?oc=5",
+      "publishedAt": "2026-08-07T19:46:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmdJdWxfQ1Yzc1dNM2pLZThSRmE3ak1rOGkta3VvanZhM2h0Yk5GNTFkbWg0dVJ3Z041OFY4cjhzWDVkc0hXVkhNNzBvcm1xOFZjRXNmWm44eGhXUUR1ZjBGZkxaa2lHUGFaSUt0ZXBRM0FkdHllWVJScnFoeWJKZDRReENoeGdmTGRUQjZ6cG5MQlBfZnpadEdn?oc=5\" target=\"_blank\">Crypto Fear & Greed Index Is Muted With Bitcoin Rangebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "კრიპტო შიშისა და სიხარბის ინდექსი დასტაბილურდა ბიტკოინის დიაპაზონური მოძრაობის ფონზე",
+      "summaryKa": "კრიპტო შიშისა და სიხარბის ინდექსი შესუსტებულია, რადგან ბიტკოინის ფასი კონკრეტულ საფასო დიაპაზონშია მოქცეული.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
