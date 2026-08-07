@@ -1,8 +1,92 @@
 {
-  "updatedAt": "2026-08-07T00:36:14.001Z",
+  "updatedAt": "2026-08-07T03:37:13.584Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "d1c8250e44836545",
+      "title": "Bitcoin Wallet Attack Bolsters Case for Spot Bitcoin ETFs",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPREQwRTZNdTg3RDlSOWhWNjB3NnRnQThoV2pEd1c3dl9Xb3A2QS1rVkVpX3lnSGstSWduaFRhQkw2b3NVQXYzYzhoT2lMdXN0SlQ4RHA0aG40XzdYeS1LVGxicVRTQ1BBUFh1SUtlRno1SUZmT3h6Z3ZLVXZHMDA4b0NoaG5wanV1ZTNLSTFIUTQ2ZzNaeVUxa2RBOTBwVGx3dGczSkUyMlAwUzBhcTJ0aTNzQVp0cHM?oc=5",
+      "publishedAt": "2026-08-07T03:34:25.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPREQwRTZNdTg3RDlSOWhWNjB3NnRnQThoV2pEd1c3dl9Xb3A2QS1rVkVpX3lnSGstSWduaFRhQkw2b3NVQXYzYzhoT2lMdXN0SlQ4RHA0aG40XzdYeS1LVGxicVRTQ1BBUFh1SUtlRno1SUZmT3h6Z3ZLVXZHMDA4b0NoaG5wanV1ZTNLSTFIUTQ2ZzNaeVUxa2RBOTBwVGx3dGczSkUyMlAwUzBhcTJ0aTNzQVp0cHM?oc=5\" target=\"_blank\">Bitcoin Wallet Attack Bolsters Case for Spot Bitcoin ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ბიტკოინის საფულის თავდასხმა აძლიერებს არგუმენტებს სპოტური ბიტკოინ ETF-ების სასარგებლოდ",
+      "summaryKa": "ბიტკოინის საფულეზე თავდასხმა ამყარებს არგუმენტებს სპოტური ბიტკოინ ETF-ების შექმნის სასარგებლოდ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "da853af6bb58f4c6",
+      "title": "Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5",
+      "publishedAt": "2026-08-07T03:03:12.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5\" target=\"_blank\">Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ციფრული დეტექტივები უძილო ღამეებს ატარებენ ბიტკოინის საფულის გატეხვის შემდეგ",
+      "summaryKa": "ბიტკოინის საფულის ჰაკერული თავდასხმის შემდეგ ციფრულ დეტექტივებს ძილი არ აქვთ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "beec63bc88f5e987",
+      "title": "Global Funds Pile Back Into India IT Stocks After Selling for Months",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0Y5dFVNLXAzRk5oLTVFclQ0ZEw3am1id1k4N1l6NUZOeG1FckVCS004VUd0WFNsc2s4OXRyMTVWZXJ5V0tsR3poZ2g3RWtockd3NVk3eU1fTloyUWV6dGFwazJ0Tk9DcC13OWxLSnNTRU5zTVE3c0dlTDVLajZSYUZNdEdNblU0SFlnakVwanFiQm1meWxkQ1BXUl9OQmJ6d1VOeHZxb0RhUkVjaWJDRVVDVWhMVGwyR0pfc25DSQ?oc=5",
+      "publishedAt": "2026-08-07T02:37:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0Y5dFVNLXAzRk5oLTVFclQ0ZEw3am1id1k4N1l6NUZOeG1FckVCS004VUd0WFNsc2s4OXRyMTVWZXJ5V0tsR3poZ2g3RWtockd3NVk3eU1fTloyUWV6dGFwazJ0Tk9DcC13OWxLSnNTRU5zTVE3c0dlTDVLajZSYUZNdEdNblU0SFlnakVwanFiQm1meWxkQ1BXUl9OQmJ6d1VOeHZxb0RhUkVjaWJDRVVDVWhMVGwyR0pfc25DSQ?oc=5\" target=\"_blank\">Global Funds Pile Back Into India IT Stocks After Selling for Months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "გლობალური ფონდები, თვეების განმავლობაში გაყიდვის შემდეგ, კვლავ ინდოეთის IT აქციებში ბრუნდებიან",
+      "summaryKa": "თვეების განმავლობაში გაყიდვების შემდეგ, გლობალური ფონდები კვლავ მასობრივად ყიდულობენ ინდოეთის IT კომპანიების აქციებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ffc8933bdad3a8ef",
+      "title": "Fujifilm Shares Tumble by a Record After Earnings Disappoint",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb1RJeWJRU1N5YWh5X01JLWlnOEUweC1PWkhBaWwxQ3R1bERSaGZHRTZDWXp4bHRwUUhaSDlMMGEzNFU4dkVNSGFqQXZlMHRiZ2xUYUdJRWM3OXJsakFuZzA1Y1gwUUJVWTRlTzBmcjlVdm5UNVB1WklXbWdPRzZFQ085X2FsVzgzSlBLdUFNRGJ4blFtVWwtMmRIazFWTmtTeVpac2k3UnotYVJqR095TA?oc=5",
+      "publishedAt": "2026-08-07T01:17:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOb1RJeWJRU1N5YWh5X01JLWlnOEUweC1PWkhBaWwxQ3R1bERSaGZHRTZDWXp4bHRwUUhaSDlMMGEzNFU4dkVNSGFqQXZlMHRiZ2xUYUdJRWM3OXJsakFuZzA1Y1gwUUJVWTRlTzBmcjlVdm5UNVB1WklXbWdPRzZFQ085X2FsVzgzSlBLdUFNRGJ4blFtVWwtMmRIazFWTmtTeVpac2k3UnotYVJqR095TA?oc=5\" target=\"_blank\">Fujifilm Shares Tumble by a Record After Earnings Disappoint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "Fujifilm-ის აქციები რეკორდულად დაეცა იმედგაცრუების მომტანი ფინანსური შედეგების შემდეგ",
+      "summaryKa": "Fujifilm-ის აქციების ფასი რეკორდულად შემცირდა იმედგაცრუების მომტანი შემოსავლების ანგარიშის გამოქვეყნების შემდეგ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1dce92b6001f20c7",
+      "title": "China Central Bank Adds Gold in Hong Kong to Support Trading Hub",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNellUYlUwMVZuTFZpY0htUHRvZkVkT0ZHeTVIRnFwOTd2SGFvVlE2V0MyVEpieUY5Y2VsR0Q2SHNKa0FDNk9qcXJ1N2lOOEl1V19VZWxpRE41ZmNQbWQ3RnBRcl9PTXFBelF1aTF2M0NKUzBkdEdjeWFDY0ZuZm5kVDhvM21uWWRTV3NtemxoZ3JlU2VPR3hUSnZJZmJuNzNoYUtsclV1NnJ6cHNkZ3NVdnFpU0RCdw?oc=5",
+      "publishedAt": "2026-08-07T01:01:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNellUYlUwMVZuTFZpY0htUHRvZkVkT0ZHeTVIRnFwOTd2SGFvVlE2V0MyVEpieUY5Y2VsR0Q2SHNKa0FDNk9qcXJ1N2lOOEl1V19VZWxpRE41ZmNQbWQ3RnBRcl9PTXFBelF1aTF2M0NKUzBkdEdjeWFDY0ZuZm5kVDhvM21uWWRTV3NtemxoZ3JlU2VPR3hUSnZJZmJuNzNoYUtsclV1NnJ6cHNkZ3NVdnFpU0RCdw?oc=5\" target=\"_blank\">China Central Bank Adds Gold in Hong Kong to Support Trading Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ჩინეთის ცენტრალური ბანკი ჰონგ-კონგში ოქროს ამატებს სავაჭრო ჰაბის მხარდასაჭერად",
+      "summaryKa": "ჩინეთის ცენტრალურმა ბანკმა ჰონგ-კონგში ოქროს მარაგი გაზარდა სავაჭრო ჰაბის მხარდასაჭერად.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "07b079931791951f",
+      "title": "Gold Steady as Traders Assess Impact of Hormuz Flare-Up on Rates",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1d3VC0wXzhrUVV2UFJ1STF6RS1PSGx3WjlLOFpvLVNmQTIxcXprbFFNZHJ0dGJkVU1yQWVEa1J4TFJVaWFoR2l4SUEyQVRLX2tOOHo3ajBlM093LVN5WkdZZVZzS1EyWWZfTmhrTUpoUFdzcld5ZjlmdVhCUmgzNjF4cTltZ1NUaGRTbVFVYndkX3JJWVF6T25qSDZPOFFSU0RXYW5pakJSVnUtODluWmdUWEZqdw?oc=5",
+      "publishedAt": "2026-08-07T00:53:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1d3VC0wXzhrUVV2UFJ1STF6RS1PSGx3WjlLOFpvLVNmQTIxcXprbFFNZHJ0dGJkVU1yQWVEa1J4TFJVaWFoR2l4SUEyQVRLX2tOOHo3ajBlM093LVN5WkdZZVZzS1EyWWZfTmhrTUpoUFdzcld5ZjlmdVhCUmgzNjF4cTltZ1NUaGRTbVFVYndkX3JJWVF6T25qSDZPOFFSU0RXYW5pakJSVnUtODluWmdUWEZqdw?oc=5\" target=\"_blank\">Gold Steady as Traders Assess Impact of Hormuz Flare-Up on Rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ოქროს ფასი სტაბილურია, რადგან ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაძაბულობის გავლენას საპროცენტო განაკვეთებზე",
+      "summaryKa": "ოქროს ფასი ინარჩუნებს სტაბილურობას, სანამ ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაპირისპირების გამწვავების გავლენას საპროცენტო განაკვეთებზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "fe5698588c6c471f",
+      "title": "Watch BMI's Chowdhury on Copper, Gold, Oil Markets",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQXJzWXM1d0xkX1RWVS1PNVI0aFZUNkp6R282RnoyUkZPZGNqemFHZUxlTHowaEdjRDhMN1BWS0RaSGNaN0E5bDQ5WlFYOEo3TjVPT3NkN2V2S0FKTUVoWWN0aXJ2N0dOVkFrcE4yYzM0VnFqMUtFYUJMMHpSZnZHOWFzRUstRXlKUWpOZkFobFpabXRaNl96Z1dENTJRdw?oc=5",
+      "publishedAt": "2026-08-07T00:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQXJzWXM1d0xkX1RWVS1PNVI0aFZUNkp6R282RnoyUkZPZGNqemFHZUxlTHowaEdjRDhMN1BWS0RaSGNaN0E5bDQ5WlFYOEo3TjVPT3NkN2V2S0FKTUVoWWN0aXJ2N0dOVkFrcE4yYzM0VnFqMUtFYUJMMHpSZnZHOWFzRUstRXlKUWpOZkFobFpabXRaNl96Z1dENTJRdw?oc=5\" target=\"_blank\">Watch BMI's Chowdhury on Copper, Gold, Oil Markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "უყურეთ BMI-ის ჩოუდჰურის გამოსვლას სპილენძის, ოქროსა და ნავთობის ბაზრების შესახებ",
+      "summaryKa": "შეგიძლიათ უყუროთ BMI-ის წარმომადგენელ ჩოუდჰურის გამოსვლას სპილენძის, ოქროსა და ნავთობის ბაზრებთან დაკავშირებით.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "e38d2b8839dd09e6",
       "title": "American International Group (AIG) Q2 Earnings Top Estimates",
@@ -16,6 +100,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "f5c80c669de28daa",
+      "title": "Watch Fed's Musalem: 'Meaningful Restraint' Needed on Inflation",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmdnNlNfbFlVUXlqeUl4eGZocjA4NmNKM2gwMjJOYV9Va3Y1aTZUWWJQbVRfLU5acE44b1ZBYVF3T2FvX1BxeWNpYUpSeVlUYnFrY2YxYWdoMU5LLUpzdWRXOXZUR1JQdzM1YkJhcV9jSk9TanNYWHJtS0RmX1NDYUxwdjVqcUlPUXRLV2N4WlNadVNlOTQ4M3VnTDI5NW5BeHBjcnZzQzhNQQ?oc=5",
+      "publishedAt": "2026-08-06T23:04:12.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmdnNlNfbFlVUXlqeUl4eGZocjA4NmNKM2gwMjJOYV9Va3Y1aTZUWWJQbVRfLU5acE44b1ZBYVF3T2FvX1BxeWNpYUpSeVlUYnFrY2YxYWdoMU5LLUpzdWRXOXZUR1JQdzM1YkJhcV9jSk9TanNYWHJtS0RmX1NDYUxwdjVqcUlPUXRLV2N4WlNadVNlOTQ4M3VnTDI5NW5BeHBjcnZzQzhNQQ?oc=5\" target=\"_blank\">Watch Fed's Musalem: 'Meaningful Restraint' Needed on Inflation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "უყურეთ Fed-ის მუსალემს: ინფლაციაზე „მნიშვნელოვანი შეზღუდვაა“ საჭირო",
+      "summaryKa": "ფედერალური სარეზერვო სისტემის წარმომადგენელი მუსალემი აცხადებს, რომ ინფლაციის გასაკონტროლებლად „მნიშვნელოვანი შეზღუდვაა“ საჭირო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "55fda9ac5687623f",
       "title": "Trade Desk shares tumble on earnings miss and weak outlook",
       "source": "MarketWatch",
@@ -24,6 +120,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQc2VJdzNpazVZdTVvUXZHMThNTW5GZFBLeHVxSml1MldlV2FRa1pTLXRkaE5TX0dOQXNseWJqSWpDSEdJUldaaXJadU1Ic0RGUmwwNU5sQkkteEpKUlBvR2c2ZFBiY0YzanRDQm9OTWlSeWVtMXNZN2l5VnNkLVF1S05KT21yckhBaExkVDBqYUlPSWE1U2VlSW4yTGM5WTVrc2pj?oc=5\" target=\"_blank\">Trade Desk shares tumble on earnings miss and weak outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
       "titleKa": "Trade Desk-ის აქციები მკვეთრად დაეცა მოგების პროგნოზის ჩავარდნისა და სუსტი პერსპექტივის გამო",
       "summaryKa": "Trade Desk-ის აქციების ფასი მკვეთრად შემცირდა მოგების მოლოდინების შეუსრულებლობისა და სუსტი სამომავლო პროგნოზის გამო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2a8c9af60c5bb6ba",
+      "title": "Asian Stocks to Slip on Iran Concerns, Oil Climbs: Markets Wrap",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObzU2UEdJVzRUM3prU0poRWlySEZldktHdGU1eU1rQnNBdXNJaFNCS3h6eGp1RWxxRzE5VUZDWWp4U3lvb1ZZZ2VURjZyWVZONVRORmFkblc1empjVGs2TmdDVThkRnRXTnZ3OXNEZDEzb2ZkcGVseWpnQ0F6SjhfV09XUkpLQTVwd0lMdVZqWGU1UUdY?oc=5",
+      "publishedAt": "2026-08-06T22:10:21.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxObzU2UEdJVzRUM3prU0poRWlySEZldktHdGU1eU1rQnNBdXNJaFNCS3h6eGp1RWxxRzE5VUZDWWp4U3lvb1ZZZ2VURjZyWVZONVRORmFkblc1empjVGs2TmdDVThkRnRXTnZ3OXNEZDEzb2ZkcGVseWpnQ0F6SjhfV09XUkpLQTVwd0lMdVZqWGU1UUdY?oc=5\" target=\"_blank\">Asian Stocks to Slip on Iran Concerns, Oil Climbs: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "აზიური აქციები იკლებს ირანთან დაკავშირებული შეშფოთების გამო, ნავთობის ფასი იზრდება: ბაზრების მიმოხილვა",
+      "summaryKa": "ირანთან დაკავშირებული შეშფოთების ფონზე აზიური აქციების ფასი ეცემა, ხოლო ნავთობის ფასი იზრდება.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -97,6 +205,18 @@
       "titleKa": "Equinox Gold (TSX:EQX)-ის აქციები ძვირად გამოიყურება სამწლიანი 122%-იანი ზრდის შემდეგ",
       "summaryKa": "სამი წლის განმავლობაში აქციების ფასის 122%-იანი ზრდის შემდეგ, Equinox Gold (TSX:EQX)-ის აქციები საკმაოდ ძვირად ფასობს.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f0f0861d679c4a3e",
+      "title": "Trump May Net Big Tax Windfall in Crypto Bill Divestiture Plan",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzgwRS1pU21COGticWpONURTcHpDVVA3OUxVRkV1SWxCUlFLZGVKQy14TXp6eC1NYkVmek83eEtYVmEydU1JYmdYRXJYSURpXzJweGVJVW5iTElYTkZnNHQwUVZTYmNIR1ZCX3R5MGNoRWpCYXAxbzNkeU9WQlR2ZlNLaXRLMEx2U3l4RktjVkd6ajVEQzB2Nk1WOWw2bUZwSzJPOXJjZW40ZTYweEFCa0tNSS0xUQ?oc=5",
+      "publishedAt": "2026-08-06T20:07:43.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzgwRS1pU21COGticWpONURTcHpDVVA3OUxVRkV1SWxCUlFLZGVKQy14TXp6eC1NYkVmek83eEtYVmEydU1JYmdYRXJYSURpXzJweGVJVW5iTElYTkZnNHQwUVZTYmNIR1ZCX3R5MGNoRWpCYXAxbzNkeU9WQlR2ZlNLaXRLMEx2U3l4RktjVkd6ajVEQzB2Nk1WOWw2bUZwSzJPOXJjZW40ZTYweEFCa0tNSS0xUQ?oc=5\" target=\"_blank\">Trump May Net Big Tax Windfall in Crypto Bill Divestiture Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ტრამპმა შესაძლოა დიდი საგადასახადო სარგებელი მიიღოს კრიპტოკანონპროექტის აქტივების გასხვისების გეგმით",
+      "summaryKa": "დონალდ ტრამპმა შესაძლოა მნიშვნელოვანი საგადასახადო სარგებელი მიიღოს კრიპტოკანონპროექტის ფარგლებში აქტივების გასხვისების გეგმიდან.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
