@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T08:45:08.011Z",
+  "updatedAt": "2026-08-07T09:42:05.229Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -8,10 +8,70 @@
       "title": "Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5",
-      "publishedAt": "2026-08-07T07:33:13.000Z",
+      "publishedAt": "2026-08-07T09:03:14.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5\" target=\"_blank\">Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "ციფრული დეტექტივები უძილო ღამეებს ატარებენ ბიტკოინის საფულის გატეხვის შემდეგ",
       "summaryKa": "ბიტკოინის საფულის ჰაკერული თავდასხმის შემდეგ ციფრულ დეტექტივებს ძილი არ აქვთ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d3b3978bb9100a04",
+      "title": "Permabear Michael Burry Ignores a Crucial Fact About US Stocks",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPemM5QzNxUlFQR3IwZjIyXzFmUExfWldVNTFLZ2NZYXRZSS12LVl4eTlGNXRJb0otZk1WS0tpeGQ2cFAxU3FfdWw5Xy1abHJFVXhPRUw2elVjNWZMQ25Vejl4ZEppUzlKeWZ4THJ5RjVTcURHVFBCdmdmcW9WdWVnRm5RYnJXd1pUS3JsRkdhbkdVOUZXbDFKXzJwejFOblBWWVdYVGsxUGdSdDM4TEI0Z1NBVWI0dGM?oc=5",
+      "publishedAt": "2026-08-07T09:00:16.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPemM5QzNxUlFQR3IwZjIyXzFmUExfWldVNTFLZ2NZYXRZSS12LVl4eTlGNXRJb0otZk1WS0tpeGQ2cFAxU3FfdWw5Xy1abHJFVXhPRUw2elVjNWZMQ25Vejl4ZEppUzlKeWZ4THJ5RjVTcURHVFBCdmdmcW9WdWVnRm5RYnJXd1pUS3JsRkdhbkdVOUZXbDFKXzJwejFOblBWWVdYVGsxUGdSdDM4TEI0Z1NBVWI0dGM?oc=5\" target=\"_blank\">Permabear Michael Burry Ignores a Crucial Fact About US Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "მუდმივი დათვი მაიკლ ბიური აშშ-ის აქციების შესახებ გადამწყვეტ ფაქტს უგულებელყოფს",
+      "summaryKa": "მაიკლ ბიური, რომელიც ცნობილია როგორც მუდმივი დათვი საფონდო ბაზარზე, აშშ-ის აქციებთან დაკავშირებულ მნიშვნელოვან ფაქტს უგულებელყოფს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1dce92b6001f20c7",
+      "title": "China Central Bank Adds Gold in Hong Kong to Support Trading Hub",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNellUYlUwMVZuTFZpY0htUHRvZkVkT0ZHeTVIRnFwOTd2SGFvVlE2V0MyVEpieUY5Y2VsR0Q2SHNKa0FDNk9qcXJ1N2lOOEl1V19VZWxpRE41ZmNQbWQ3RnBRcl9PTXFBelF1aTF2M0NKUzBkdEdjeWFDY0ZuZm5kVDhvM21uWWRTV3NtemxoZ3JlU2VPR3hUSnZJZmJuNzNoYUtsclV1NnJ6cHNkZ3NVdnFpU0RCdw?oc=5",
+      "publishedAt": "2026-08-07T08:28:18.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNellUYlUwMVZuTFZpY0htUHRvZkVkT0ZHeTVIRnFwOTd2SGFvVlE2V0MyVEpieUY5Y2VsR0Q2SHNKa0FDNk9qcXJ1N2lOOEl1V19VZWxpRE41ZmNQbWQ3RnBRcl9PTXFBelF1aTF2M0NKUzBkdEdjeWFDY0ZuZm5kVDhvM21uWWRTV3NtemxoZ3JlU2VPR3hUSnZJZmJuNzNoYUtsclV1NnJ6cHNkZ3NVdnFpU0RCdw?oc=5\" target=\"_blank\">China Central Bank Adds Gold in Hong Kong to Support Trading Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ჩინეთის ცენტრალური ბანკი ჰონგ-კონგში ოქროს ამატებს სავაჭრო ჰაბის მხარდასაჭერად",
+      "summaryKa": "ჩინეთის ცენტრალურმა ბანკმა ჰონგ-კონგში ოქროს მარაგი გაზარდა სავაჭრო ჰაბის მხარდასაჭერად.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6db84a472b5a5cef",
+      "title": "Libya Sees 2 Million-Barrel Oil Plan on Track as US Pushes Unity",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUV2MVp6LW55SHBIU3ZlQXdqUG92UG9VeThVSzZqVGo5NEdxamNQdHI1dTlqUFN4WHFJeVhvazExMEd2VzNTV3hKOFRTcTdQXzZ6LURyNUpSQ00tOUNSZllEbGVzcDgtbG5RaG1Hcl95M2UySFJFSHlQOXJUZmVVWVNTVVE4blI5eGtEN3RnTmtWQy1EOXU5S2VvaUxsT0tVaGF0Ym5wdE5CRGNmZ01KaU56UGYxNnhya0pKN3gwOHNVdDhWd2x0ZjVkSWNvdDFUd2c?oc=5",
+      "publishedAt": "2026-08-07T08:22:10.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUV2MVp6LW55SHBIU3ZlQXdqUG92UG9VeThVSzZqVGo5NEdxamNQdHI1dTlqUFN4WHFJeVhvazExMEd2VzNTV3hKOFRTcTdQXzZ6LURyNUpSQ00tOUNSZllEbGVzcDgtbG5RaG1Hcl95M2UySFJFSHlQOXJUZmVVWVNTVVE4blI5eGtEN3RnTmtWQy1EOXU5S2VvaUxsT0tVaGF0Ym5wdE5CRGNmZ01KaU56UGYxNnhya0pKN3gwOHNVdDhWd2x0ZjVkSWNvdDFUd2c?oc=5\" target=\"_blank\">Libya Sees 2 Million-Barrel Oil Plan on Track as US Pushes Unity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ლიბია მიიჩნევს, რომ 2 მილიონი ბარელი ნავთობის გეგმა სწორ გზაზეა, რადგან აშშ ერთიანობისკენ მოუწოდებს",
+      "summaryKa": "ლიბია ნავთობის მოპოვების 2 მილიონ ბარელამდე გაზრდის გეგმას რეალისტურად მიიჩნევს, პარალელურად კი აშშ ქვეყანაში ერთიანობის მიღწევას ცდილობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2334c6f21c4d0ac2",
+      "title": "China’s Central Bank Adds 20 Tons to Gold Reserves in July",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa29RZmlvb1NjUFhEb0UyYXROT19OSDdmbk5sbXdQbl9jV0htRGdwb1pHUHljblhEalVoX1NmR3BxdHdRbl80d3pNZFd1czB1enNKTWVTbU1QcVBrRnBBVE5PUXlSa3ZSN1FVNWpKc2NWVTgzZVZVR1ZUVHlLZ1JaU3JTUTRrZ3U2bll0bXQ3c0VTZ1NDT3gza1pudjZyOU4wazhGcGlVMkRRbDloUXc?oc=5",
+      "publishedAt": "2026-08-07T08:13:46.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOa29RZmlvb1NjUFhEb0UyYXROT19OSDdmbk5sbXdQbl9jV0htRGdwb1pHUHljblhEalVoX1NmR3BxdHdRbl80d3pNZFd1czB1enNKTWVTbU1QcVBrRnBBVE5PUXlSa3ZSN1FVNWpKc2NWVTgzZVZVR1ZUVHlLZ1JaU3JTUTRrZ3U2bll0bXQ3c0VTZ1NDT3gza1pudjZyOU4wazhGcGlVMkRRbDloUXc?oc=5\" target=\"_blank\">China’s Central Bank Adds 20 Tons to Gold Reserves in July</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ჩინეთის ცენტრალურმა ბანკმა ივლისში ოქროს რეზერვებს 20 ტონა დაამატა",
+      "summaryKa": "ჩინეთის ცენტრალურმა ბანკმა ივლისის განმავლობაში საკუთარი ოქროს რეზერვები 20 ტონით გაზარდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d1c8250e44836545",
+      "title": "Bitcoin Wallet Attack Bolsters Case for Spot Bitcoin ETFs",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPREQwRTZNdTg3RDlSOWhWNjB3NnRnQThoV2pEd1c3dl9Xb3A2QS1rVkVpX3lnSGstSWduaFRhQkw2b3NVQXYzYzhoT2lMdXN0SlQ4RHA0aG40XzdYeS1LVGxicVRTQ1BBUFh1SUtlRno1SUZmT3h6Z3ZLVXZHMDA4b0NoaG5wanV1ZTNLSTFIUTQ2ZzNaeVUxa2RBOTBwVGx3dGczSkUyMlAwUzBhcTJ0aTNzQVp0cHM?oc=5",
+      "publishedAt": "2026-08-07T08:04:29.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPREQwRTZNdTg3RDlSOWhWNjB3NnRnQThoV2pEd1c3dl9Xb3A2QS1rVkVpX3lnSGstSWduaFRhQkw2b3NVQXYzYzhoT2lMdXN0SlQ4RHA0aG40XzdYeS1LVGxicVRTQ1BBUFh1SUtlRno1SUZmT3h6Z3ZLVXZHMDA4b0NoaG5wanV1ZTNLSTFIUTQ2ZzNaeVUxa2RBOTBwVGx3dGczSkUyMlAwUzBhcTJ0aTNzQVp0cHM?oc=5\" target=\"_blank\">Bitcoin Wallet Attack Bolsters Case for Spot Bitcoin ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ბიტკოინის საფულის თავდასხმა აძლიერებს არგუმენტებს სპოტური ბიტკოინ ETF-ების სასარგებლოდ",
+      "summaryKa": "ბიტკოინის საფულეზე თავდასხმა ამყარებს არგუმენტებს სპოტური ბიტკოინ ETF-ების შექმნის სასარგებლოდ.",
       "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -28,6 +88,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "a23565dd14d46f10",
+      "title": "Gold Royalty (GROY) Is Up 6.7% After Swinging To Q2 Profit On Higher Sales - What's Changed",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZGdhdkoxU3F2b3I0dzFYZzhPOUphLXo5Q0x4UmVWTzRNaEFuazFkZjdhbTduZUVVRnVVdHBGMWpNbUhoWElSQVVZWTAtYlpjd3FDeXZIZ1NOS2ZWMnd2VVNaVlZDRGVWNDB3QWVaX29EcjdoUW1qUGJvenI4NWc4TmIxTUVaNG5lbEZNRm5FTQ?oc=5",
+      "publishedAt": "2026-08-07T07:13:17.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPZGdhdkoxU3F2b3I0dzFYZzhPOUphLXo5Q0x4UmVWTzRNaEFuazFkZjdhbTduZUVVRnVVdHBGMWpNbUhoWElSQVVZWTAtYlpjd3FDeXZIZ1NOS2ZWMnd2VVNaVlZDRGVWNDB3QWVaX29EcjdoUW1qUGJvenI4NWc4TmIxTUVaNG5lbEZNRm5FTQ?oc=5\" target=\"_blank\">Gold Royalty (GROY) Is Up 6.7% After Swinging To Q2 Profit On Higher Sales - What's Changed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Gold Royalty (GROY) 6.7%-ით გაიზარდა მეორე კვარტალში გაზრდილი გაყიდვების წყალობით მოგებაზე გასვლის შემდეგ - რა შეიცვალა",
+      "summaryKa": "კომპანია Gold Royalty-ის (GROY) აქციების ფასი 6.7%-ით გაიზარდა მას შემდეგ, რაც გაზრდილი გაყიდვების ფონზე მეორე კვარტალში მოგება დააფიქსირა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "07b079931791951f",
       "title": "Gold Steady as Traders Assess Impact of Hormuz Flare-Up on Rates",
       "source": "Bloomberg.com",
@@ -37,18 +109,6 @@
       "titleKa": "ოქროს ფასი სტაბილურია, რადგან ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაძაბულობის გავლენას საპროცენტო განაკვეთებზე",
       "summaryKa": "ოქროს ფასი ინარჩუნებს სტაბილურობას, სანამ ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაპირისპირების გამწვავების გავლენას საპროცენტო განაკვეთებზე.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "d1c8250e44836545",
-      "title": "Bitcoin Wallet Attack Bolsters Case for Spot Bitcoin ETFs",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPREQwRTZNdTg3RDlSOWhWNjB3NnRnQThoV2pEd1c3dl9Xb3A2QS1rVkVpX3lnSGstSWduaFRhQkw2b3NVQXYzYzhoT2lMdXN0SlQ4RHA0aG40XzdYeS1LVGxicVRTQ1BBUFh1SUtlRno1SUZmT3h6Z3ZLVXZHMDA4b0NoaG5wanV1ZTNLSTFIUTQ2ZzNaeVUxa2RBOTBwVGx3dGczSkUyMlAwUzBhcTJ0aTNzQVp0cHM?oc=5",
-      "publishedAt": "2026-08-07T05:04:28.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPREQwRTZNdTg3RDlSOWhWNjB3NnRnQThoV2pEd1c3dl9Xb3A2QS1rVkVpX3lnSGstSWduaFRhQkw2b3NVQXYzYzhoT2lMdXN0SlQ4RHA0aG40XzdYeS1LVGxicVRTQ1BBUFh1SUtlRno1SUZmT3h6Z3ZLVXZHMDA4b0NoaG5wanV1ZTNLSTFIUTQ2ZzNaeVUxa2RBOTBwVGx3dGczSkUyMlAwUzBhcTJ0aTNzQVp0cHM?oc=5\" target=\"_blank\">Bitcoin Wallet Attack Bolsters Case for Spot Bitcoin ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ბიტკოინის საფულის თავდასხმა აძლიერებს არგუმენტებს სპოტური ბიტკოინ ETF-ების სასარგებლოდ",
-      "summaryKa": "ბიტკოინის საფულეზე თავდასხმა ამყარებს არგუმენტებს სპოტური ბიტკოინ ETF-ების შექმნის სასარგებლოდ.",
-      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -208,18 +268,6 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "1dce92b6001f20c7",
-      "title": "China Central Bank Adds Gold in Hong Kong to Support Trading Hub",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNellUYlUwMVZuTFZpY0htUHRvZkVkT0ZHeTVIRnFwOTd2SGFvVlE2V0MyVEpieUY5Y2VsR0Q2SHNKa0FDNk9qcXJ1N2lOOEl1V19VZWxpRE41ZmNQbWQ3RnBRcl9PTXFBelF1aTF2M0NKUzBkdEdjeWFDY0ZuZm5kVDhvM21uWWRTV3NtemxoZ3JlU2VPR3hUSnZJZmJuNzNoYUtsclV1NnJ6cHNkZ3NVdnFpU0RCdw?oc=5",
-      "publishedAt": "2026-08-07T01:01:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNellUYlUwMVZuTFZpY0htUHRvZkVkT0ZHeTVIRnFwOTd2SGFvVlE2V0MyVEpieUY5Y2VsR0Q2SHNKa0FDNk9qcXJ1N2lOOEl1V19VZWxpRE41ZmNQbWQ3RnBRcl9PTXFBelF1aTF2M0NKUzBkdEdjeWFDY0ZuZm5kVDhvM21uWWRTV3NtemxoZ3JlU2VPR3hUSnZJZmJuNzNoYUtsclV1NnJ6cHNkZ3NVdnFpU0RCdw?oc=5\" target=\"_blank\">China Central Bank Adds Gold in Hong Kong to Support Trading Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ჩინეთის ცენტრალური ბანკი ჰონგ-კონგში ოქროს ამატებს სავაჭრო ჰაბის მხარდასაჭერად",
-      "summaryKa": "ჩინეთის ცენტრალურმა ბანკმა ჰონგ-კონგში ოქროს მარაგი გაზარდა სავაჭრო ჰაბის მხარდასაჭერად.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "dbc237ab87a37dd1",
       "title": "Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader",
       "source": "Yahoo Finance",
@@ -324,6 +372,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNYU56NG5fanY2OENwamg5cTFRNERueTZYblVuT3ZBc0dwM3hLZWd4YUtsWG00RFpEWWNRZVBqVmthRFRGdHVBbm85cjhWOTlhWTNhUW11QzRHdS03LU9UaG9EeHA5eTc5Y1FGR2pFeTJxRWF6elJhYjJqSVRGTXRtdGZrQ0hnTVlVVHJ0U1hzNjhnMVg0Tk9sbURaaGNNZFJkcEE?oc=5\" target=\"_blank\">Atlassian (TEAM) Q4 Earnings and Revenues Top Estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "Atlassian (TEAM)-ის მე-4 კვარტლის მოგებამ და შემოსავლებმა მოლოდინებს გადააჭარბა",
       "summaryKa": "Atlassian (TEAM)-ის მეოთხე კვარტლის მოგებამ და შემოსავალმა მოლოდინებს გადააჭარბა.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b5dfc0b73f3acf7a",
+      "title": "Insiders Are Quietly Loading Up on This Nvidia-Backed Artificial Intelligence (AI) Stock",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnM3QlRlV2tHTWQ4dXRwdkpEdHl6V09HcW9OZ1VRZ050MTNfX2M2VEZSUXVNUHBEODY5M3V0d09EWnVIbnp3eENCNFl4bVhLQWdYMHpBZVZjZC1ybE00UDRtQnl5N21XS2pYZm1xMGNTVFRtZWJmRmVjazQyVHVBN1hfemRGSFhSTEM2NVRRenF5elJxNHVPX295UzdSVEcxd2tsYw?oc=5",
+      "publishedAt": "2026-08-06T21:20:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnM3QlRlV2tHTWQ4dXRwdkpEdHl6V09HcW9OZ1VRZ050MTNfX2M2VEZSUXVNUHBEODY5M3V0d09EWnVIbnp3eENCNFl4bVhLQWdYMHpBZVZjZC1ybE00UDRtQnl5N21XS2pYZm1xMGNTVFRtZWJmRmVjazQyVHVBN1hfemRGSFhSTEM2NVRRenF5elJxNHVPX295UzdSVEcxd2tsYw?oc=5\" target=\"_blank\">Insiders Are Quietly Loading Up on This Nvidia-Backed Artificial Intelligence (AI) Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ინსაიდერები ჩუმად ყიდულობენ Nvidia-ს მიერ მხარდაჭერილი ხელოვნური ინტელექტის (AI) კომპანიის აქციებს",
+      "summaryKa": "შიდა პირები ფარულად და დიდი რაოდენობით ყიდულობენ იმ ხელოვნური ინტელექტის (AI) კომპანიის აქციებს, რომელსაც Nvidia უჭერს მხარს.",
       "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
