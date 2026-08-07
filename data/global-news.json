@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T07:57:00.155Z",
+  "updatedAt": "2026-08-07T08:45:08.011Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -44,7 +44,7 @@
       "title": "Bitcoin Wallet Attack Bolsters Case for Spot Bitcoin ETFs",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPREQwRTZNdTg3RDlSOWhWNjB3NnRnQThoV2pEd1c3dl9Xb3A2QS1rVkVpX3lnSGstSWduaFRhQkw2b3NVQXYzYzhoT2lMdXN0SlQ4RHA0aG40XzdYeS1LVGxicVRTQ1BBUFh1SUtlRno1SUZmT3h6Z3ZLVXZHMDA4b0NoaG5wanV1ZTNLSTFIUTQ2ZzNaeVUxa2RBOTBwVGx3dGczSkUyMlAwUzBhcTJ0aTNzQVp0cHM?oc=5",
-      "publishedAt": "2026-08-07T06:34:28.000Z",
+      "publishedAt": "2026-08-07T05:04:28.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPREQwRTZNdTg3RDlSOWhWNjB3NnRnQThoV2pEd1c3dl9Xb3A2QS1rVkVpX3lnSGstSWduaFRhQkw2b3NVQXYzYzhoT2lMdXN0SlQ4RHA0aG40XzdYeS1LVGxicVRTQ1BBUFh1SUtlRno1SUZmT3h6Z3ZLVXZHMDA4b0NoaG5wanV1ZTNLSTFIUTQ2ZzNaeVUxa2RBOTBwVGx3dGczSkUyMlAwUzBhcTJ0aTNzQVp0cHM?oc=5\" target=\"_blank\">Bitcoin Wallet Attack Bolsters Case for Spot Bitcoin ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "ბიტკოინის საფულის თავდასხმა აძლიერებს არგუმენტებს სპოტური ბიტკოინ ETF-ების სასარგებლოდ",
       "summaryKa": "ბიტკოინის საფულეზე თავდასხმა ამყარებს არგუმენტებს სპოტური ბიტკოინ ETF-ების შექმნის სასარგებლოდ.",
@@ -84,6 +84,30 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOelE2ckxLTHpmS3g4TmIxNjQ1Yi1PQ3psbTFicEdOZjczQm1rbDhqUmluTWgxWUItbm9fSWhOdFgxMm5lQ0Y3V2VOVk0zcGhYVmdna2NlRUNucjRRZXlNeVJjNVFZdTRaQ19Db09qS05FRWJwQ3V3M1RCUlpCci1ySU96UFNqUDdidXFiRXUzRFdPN0wxLTNQY0lSbkl2dzVVTTN3aGYzQ21VbjRKTVk1VHJvaTNiQlplR2ZhTHVDZ1Yyb1FlcnJyYnd3alB1c1U?oc=5\" target=\"_blank\">Yomiuri: Rakuten to Keep Mobile Prices Low Despite Inflation, Says Group CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
       "titleKa": "Yomiuri: Rakuten-ის ჯგუფის აღმასრულებელი დირექტორის თქმით, კომპანია ინფლაციის მიუხედავად მობილური კავშირის დაბალ ფასებს შეინარჩუნებს",
       "summaryKa": "Rakuten-ის ჯგუფის აღმასრულებელი დირექტორი აცხადებს, რომ კომპანია მობილური მომსახურების ფასებს ინფლაციის მიუხედავად არ გაზრდის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f0f0861d679c4a3e",
+      "title": "Trump May Net Big Tax Windfall in Crypto Bill Divestiture Plan",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzgwRS1pU21COGticWpONURTcHpDVVA3OUxVRkV1SWxCUlFLZGVKQy14TXp6eC1NYkVmek83eEtYVmEydU1JYmdYRXJYSURpXzJweGVJVW5iTElYTkZnNHQwUVZTYmNIR1ZCX3R5MGNoRWpCYXAxbzNkeU9WQlR2ZlNLaXRLMEx2U3l4RktjVkd6ajVEQzB2Nk1WOWw2bUZwSzJPOXJjZW40ZTYweEFCa0tNSS0xUQ?oc=5",
+      "publishedAt": "2026-08-07T03:22:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzgwRS1pU21COGticWpONURTcHpDVVA3OUxVRkV1SWxCUlFLZGVKQy14TXp6eC1NYkVmek83eEtYVmEydU1JYmdYRXJYSURpXzJweGVJVW5iTElYTkZnNHQwUVZTYmNIR1ZCX3R5MGNoRWpCYXAxbzNkeU9WQlR2ZlNLaXRLMEx2U3l4RktjVkd6ajVEQzB2Nk1WOWw2bUZwSzJPOXJjZW40ZTYweEFCa0tNSS0xUQ?oc=5\" target=\"_blank\">Trump May Net Big Tax Windfall in Crypto Bill Divestiture Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ტრამპმა შესაძლოა დიდი საგადასახადო სარგებელი მიიღოს კრიპტოკანონპროექტის აქტივების გასხვისების გეგმით",
+      "summaryKa": "დონალდ ტრამპმა შესაძლოა მნიშვნელოვანი საგადასახადო სარგებელი მიიღოს კრიპტოკანონპროექტის ფარგლებში აქტივების გასხვისების გეგმიდან.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "21e49ac4f0e2e62c",
+      "title": "3 Overlooked Stocks Poised to Follow Nebius Higher",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1dNM1JJRGsxR0Z4cllQOFR2OWJUblNscHNtZFY3R3R2eTJHZ05ReXB1Qm9kZTVhb2pLNEhBdVdNTmgxM293WEFHTU5TRk5sR0MyWFFla1dDYURnNHRrU0VCdkhiSkNDdk1XdDZzUm5JR28xdGNZdXdZdHBLVTJZVVNnODN4VlFpdG9qdXdkUFc4THk3UTdIS1E1T25oYlU?oc=5",
+      "publishedAt": "2026-08-07T03:20:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1dNM1JJRGsxR0Z4cllQOFR2OWJUblNscHNtZFY3R3R2eTJHZ05ReXB1Qm9kZTVhb2pLNEhBdVdNTmgxM293WEFHTU5TRk5sR0MyWFFla1dDYURnNHRrU0VCdkhiSkNDdk1XdDZzUm5JR28xdGNZdXdZdHBLVTJZVVNnODN4VlFpdG9qdXdkUFc4THk3UTdIS1E1T25oYlU?oc=5\" target=\"_blank\">3 Overlooked Stocks Poised to Follow Nebius Higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "3 შეუმჩნეველი აქცია, რომელიც მზადაა Nebius-ის კვალდაკვალ გაიზარდოს",
+      "summaryKa": "გამოყოფილია სამი შეუმჩნეველი აქცია, რომლებიც მზად არიან Nebius-ის მსგავსად ზრდა აჩვენონ.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -140,7 +164,7 @@
       "title": "Global Funds Pile Back Into India IT Stocks After Selling for Months",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0Y5dFVNLXAzRk5oLTVFclQ0ZEw3am1id1k4N1l6NUZOeG1FckVCS004VUd0WFNsc2s4OXRyMTVWZXJ5V0tsR3poZ2g3RWtockd3NVk3eU1fTloyUWV6dGFwazJ0Tk9DcC13OWxLSnNTRU5zTVE3c0dlTDVLajZSYUZNdEdNblU0SFlnakVwanFiQm1meWxkQ1BXUl9OQmJ6d1VOeHZxb0RhUkVjaWJDRVVDVWhMVGwyR0pfc25DSQ?oc=5",
-      "publishedAt": "2026-08-07T02:38:36.000Z",
+      "publishedAt": "2026-08-07T02:37:00.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0Y5dFVNLXAzRk5oLTVFclQ0ZEw3am1id1k4N1l6NUZOeG1FckVCS004VUd0WFNsc2s4OXRyMTVWZXJ5V0tsR3poZ2g3RWtockd3NVk3eU1fTloyUWV6dGFwazJ0Tk9DcC13OWxLSnNTRU5zTVE3c0dlTDVLajZSYUZNdEdNblU0SFlnakVwanFiQm1meWxkQ1BXUl9OQmJ6d1VOeHZxb0RhUkVjaWJDRVVDVWhMVGwyR0pfc25DSQ?oc=5\" target=\"_blank\">Global Funds Pile Back Into India IT Stocks After Selling for Months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "გლობალური ფონდები, თვეების განმავლობაში გაყიდვის შემდეგ, კვლავ ინდოეთის IT აქციებში ბრუნდებიან",
       "summaryKa": "თვეების განმავლობაში გაყიდვების შემდეგ, გლობალური ფონდები კვლავ მასობრივად ყიდულობენ ინდოეთის IT კომპანიების აქციებს.",
@@ -361,18 +385,6 @@
       "titleKa": "Equinox Gold (TSX:EQX)-ის აქციები ძვირად გამოიყურება სამწლიანი 122%-იანი ზრდის შემდეგ",
       "summaryKa": "სამი წლის განმავლობაში აქციების ფასის 122%-იანი ზრდის შემდეგ, Equinox Gold (TSX:EQX)-ის აქციები საკმაოდ ძვირად ფასობს.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "f0f0861d679c4a3e",
-      "title": "Trump May Net Big Tax Windfall in Crypto Bill Divestiture Plan",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzgwRS1pU21COGticWpONURTcHpDVVA3OUxVRkV1SWxCUlFLZGVKQy14TXp6eC1NYkVmek83eEtYVmEydU1JYmdYRXJYSURpXzJweGVJVW5iTElYTkZnNHQwUVZTYmNIR1ZCX3R5MGNoRWpCYXAxbzNkeU9WQlR2ZlNLaXRLMEx2U3l4RktjVkd6ajVEQzB2Nk1WOWw2bUZwSzJPOXJjZW40ZTYweEFCa0tNSS0xUQ?oc=5",
-      "publishedAt": "2026-08-06T20:07:43.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzgwRS1pU21COGticWpONURTcHpDVVA3OUxVRkV1SWxCUlFLZGVKQy14TXp6eC1NYkVmek83eEtYVmEydU1JYmdYRXJYSURpXzJweGVJVW5iTElYTkZnNHQwUVZTYmNIR1ZCX3R5MGNoRWpCYXAxbzNkeU9WQlR2ZlNLaXRLMEx2U3l4RktjVkd6ajVEQzB2Nk1WOWw2bUZwSzJPOXJjZW40ZTYweEFCa0tNSS0xUQ?oc=5\" target=\"_blank\">Trump May Net Big Tax Windfall in Crypto Bill Divestiture Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ტრამპმა შესაძლოა დიდი საგადასახადო სარგებელი მიიღოს კრიპტოკანონპროექტის აქტივების გასხვისების გეგმით",
-      "summaryKa": "დონალდ ტრამპმა შესაძლოა მნიშვნელოვანი საგადასახადო სარგებელი მიიღოს კრიპტოკანონპროექტის ფარგლებში აქტივების გასხვისების გეგმიდან.",
-      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
