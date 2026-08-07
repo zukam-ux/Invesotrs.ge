@@ -1,8 +1,32 @@
 {
-  "updatedAt": "2026-08-07T21:21:12.134Z",
+  "updatedAt": "2026-08-07T22:02:27.891Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "ece9b44d25da0a8d",
+      "title": "Iran-Linked Crypto Exchange Handled $6.3 Billion, TRM Says",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS19fc2MxM0NCdk15S0VLcXB3Yk4zaWx3emFDcVJLajEtdzdlMTBWTHV2TWtGY3FqNHBiY3VrVnFOSF9IeE4zSHpkamlpblJjSTRtZk9mVzBiN0JxZHFSRlU1VFRZQThpUkFYOE5EeWd0dHp3UXRCa1BMQmdXbEFHWG8zejJ6clhjUmV4TnIzUFRpTWczWlN1RXhuMXg5NEY0UkFuQmR0bDMzelk?oc=5",
+      "publishedAt": "2026-08-07T21:19:29.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS19fc2MxM0NCdk15S0VLcXB3Yk4zaWx3emFDcVJLajEtdzdlMTBWTHV2TWtGY3FqNHBiY3VrVnFOSF9IeE4zSHpkamlpblJjSTRtZk9mVzBiN0JxZHFSRlU1VFRZQThpUkFYOE5EeWd0dHp3UXRCa1BMQmdXbEFHWG8zejJ6clhjUmV4TnIzUFRpTWczWlN1RXhuMXg5NEY0UkFuQmR0bDMzelk?oc=5\" target=\"_blank\">Iran-Linked Crypto Exchange Handled $6.3 Billion, TRM Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ირანთან დაკავშირებულმა კრიპტო ბირჟამ 6.3 მილიარდი დოლარი გაატარა, აცხადებს TRM",
+      "summaryKa": "TRM-ის თანახმად, ირანთან დაკავშირებულმა კრიპტო ბირჟამ 6.3 მილიარდი დოლარი გაატარა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f827278682120dbc",
+      "title": "'Bitcoin is a zeppelin': Why this historian says BTC looks more like the past than future",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMDFUdjl3U3FYSmpxR0JxRDdfR29iVnhVSFU1SEtaaWsxOHY3RUhMRkhvV3RPNDNZUHBxNWtRVjlBN0F6U01KZy01bzMwUFB0WFBuejc3U0JCclF4VE02ZTYySnhKXzJndGJnNTRFV2sxOHVGN3I3LUxXZHJkVENOU2pHOTNmaUJZRXc?oc=5",
+      "publishedAt": "2026-08-07T21:11:47.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPMDFUdjl3U3FYSmpxR0JxRDdfR29iVnhVSFU1SEtaaWsxOHY3RUhMRkhvV3RPNDNZUHBxNWtRVjlBN0F6U01KZy01bzMwUFB0WFBuejc3U0JCclF4VE02ZTYySnhKXzJndGJnNTRFV2sxOHVGN3I3LUxXZHJkVENOU2pHOTNmaUJZRXc?oc=5\" target=\"_blank\">'Bitcoin is a zeppelin': Why this historian says BTC looks more like the past than future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "„ბიტკოინი დირიჟაბლია“: რატომ მიიჩნევს ეს ისტორიკოსი, რომ BTC უფრო წარსულს ჰგავს, ვიდრე მომავალს",
+      "summaryKa": "ისტორიკოსის განცხადებით, ბიტკოინი (BTC) დირიჟაბლს ჰგავს და ის უფრო მეტად წარსულის ნაწილია, ვიდრე მომავლის.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "fd34831304e08eeb",
       "title": "Berkshire Hathaway earnings, CPI inflation data, & more: What to Watch",
@@ -100,6 +124,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "45e4ceb36478c05e",
+      "title": "MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin’s $65K Push",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWk5XRnNPSDh0cWVEcjliYU42eUw1VUdnZ2NjVmVmUnF1emJUNXhDaGR2VllNTlRHMU1vMTB4ZWpobnkzODlUcXZGd1ltMGREV0lhT0hzWnFocVB0dHd0cmtmT3ZHc1c2aE9USk9XbUtEWGtXdXZQLVl0bHMtQThzS3JNelo3SEFpTk1xdGhXSUtreVlJWTFKdg?oc=5",
+      "publishedAt": "2026-08-07T19:13:13.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWk5XRnNPSDh0cWVEcjliYU42eUw1VUdnZ2NjVmVmUnF1emJUNXhDaGR2VllNTlRHMU1vMTB4ZWpobnkzODlUcXZGd1ltMGREV0lhT0hzWnFocVB0dHd0cmtmT3ZHc1c2aE9USk9XbUtEWGtXdXZQLVl0bHMtQThzS3JNelo3SEFpTk1xdGhXSUtreVlJWTFKdg?oc=5\" target=\"_blank\">MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin’s $65K Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "MARA Holdings-ი 7%-ით, Cipher Mining-ი 6%-ით, ხოლო TeraWulf-ი 4%-ით ეცემა, რადგან მეორე კვარტლის ზარალმა ბიტკოინის $65K-მდე ზრდა გადაწონა",
+      "summaryKa": "მეორე კვარტლის ზარალმა ბიტკოინის $65K-მდე ზრდა გადაწონა, რის ფონზეც MARA Holdings-ის აქციები 7%-ით, Cipher Mining-ი 6%-ით, ხოლო TeraWulf-ი 4%-ით შემცირდა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "b07dc373e9257ba6",
       "title": "Integrated Earnings Tools: A Guide for Equity Analysts",
       "source": "Bloomberg.com",
@@ -121,6 +157,18 @@
       "titleKa": "ჯიმ კრამერმა Linde plc (NASDAQ:LIN)-ის აქციების ფასის მოძრაობას „სულელური“ უწოდა",
       "summaryKa": "ჯიმ კრამერმა Linde plc (NASDAQ:LIN)-ის აქციების ფასის მოძრაობა შეაფასა როგორც „სულელური“.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a1f2b32ca81b9513",
+      "title": "Jim Cramer’s Post Earnings Palantir Technologies Inc. (NASDAQ:PLTR) Worry Didn’t Materialize",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZVBmcFo4ZmNhM3NjT0ljbC1wN040NmIzc3RXY3RNNTFyRlVEQ2ZLeUVleWhSUE1nbkRXM3Nyd3QxbF9qQXVuZDUtbUtHM0x1QXVaLUtlaGp3VndWTWl0MG95RVk0VFZzOVFwby15RURERmVobVZqNVdEQ3c4RmZZZFVGbTJiRFQ0NTliUmdrQ2lrYVlHZFNGZEJxNXlaNEU?oc=5",
+      "publishedAt": "2026-08-07T18:24:40.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZVBmcFo4ZmNhM3NjT0ljbC1wN040NmIzc3RXY3RNNTFyRlVEQ2ZLeUVleWhSUE1nbkRXM3Nyd3QxbF9qQXVuZDUtbUtHM0x1QXVaLUtlaGp3VndWTWl0MG95RVk0VFZzOVFwby15RURERmVobVZqNVdEQ3c4RmZZZFVGbTJiRFQ0NTliUmdrQ2lrYVlHZFNGZEJxNXlaNEU?oc=5\" target=\"_blank\">Jim Cramer’s Post Earnings Palantir Technologies Inc. (NASDAQ:PLTR) Worry Didn’t Materialize</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ჯიმ კრამერის შეშფოთება Palantir Technologies Inc.-ის (NASDAQ:PLTR) მიმართ კვარტალური ანგარიშგების შემდეგ არ გამართლდა",
+      "summaryKa": "ჯიმ კრამერის წუხილი Palantir Technologies Inc.-ის (NASDAQ:PLTR) შესახებ კვარტალური მონაცემების გამოქვეყნების შემდეგ არ რეალიზებულა.",
+      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
