@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T05:21:17.538Z",
+  "updatedAt": "2026-08-07T06:40:21.832Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -8,10 +8,22 @@
       "title": "Bitcoin Wallet Attack Bolsters Case for Spot Bitcoin ETFs",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPREQwRTZNdTg3RDlSOWhWNjB3NnRnQThoV2pEd1c3dl9Xb3A2QS1rVkVpX3lnSGstSWduaFRhQkw2b3NVQXYzYzhoT2lMdXN0SlQ4RHA0aG40XzdYeS1LVGxicVRTQ1BBUFh1SUtlRno1SUZmT3h6Z3ZLVXZHMDA4b0NoaG5wanV1ZTNLSTFIUTQ2ZzNaeVUxa2RBOTBwVGx3dGczSkUyMlAwUzBhcTJ0aTNzQVp0cHM?oc=5",
-      "publishedAt": "2026-08-07T05:04:28.000Z",
+      "publishedAt": "2026-08-07T06:34:28.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPREQwRTZNdTg3RDlSOWhWNjB3NnRnQThoV2pEd1c3dl9Xb3A2QS1rVkVpX3lnSGstSWduaFRhQkw2b3NVQXYzYzhoT2lMdXN0SlQ4RHA0aG40XzdYeS1LVGxicVRTQ1BBUFh1SUtlRno1SUZmT3h6Z3ZLVXZHMDA4b0NoaG5wanV1ZTNLSTFIUTQ2ZzNaeVUxa2RBOTBwVGx3dGczSkUyMlAwUzBhcTJ0aTNzQVp0cHM?oc=5\" target=\"_blank\">Bitcoin Wallet Attack Bolsters Case for Spot Bitcoin ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "ბიტკოინის საფულის თავდასხმა აძლიერებს არგუმენტებს სპოტური ბიტკოინ ETF-ების სასარგებლოდ",
       "summaryKa": "ბიტკოინის საფულეზე თავდასხმა ამყარებს არგუმენტებს სპოტური ბიტკოინ ETF-ების შექმნის სასარგებლოდ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "da853af6bb58f4c6",
+      "title": "Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5",
+      "publishedAt": "2026-08-07T06:03:13.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5\" target=\"_blank\">Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ციფრული დეტექტივები უძილო ღამეებს ატარებენ ბიტკოინის საფულის გატეხვის შემდეგ",
+      "summaryKa": "ბიტკოინის საფულის ჰაკერული თავდასხმის შემდეგ ციფრულ დეტექტივებს ძილი არ აქვთ.",
       "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -28,18 +40,6 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "da853af6bb58f4c6",
-      "title": "Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5",
-      "publishedAt": "2026-08-07T04:33:12.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5\" target=\"_blank\">Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ციფრული დეტექტივები უძილო ღამეებს ატარებენ ბიტკოინის საფულის გატეხვის შემდეგ",
-      "summaryKa": "ბიტკოინის საფულის ჰაკერული თავდასხმის შემდეგ ციფრულ დეტექტივებს ძილი არ აქვთ.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "6ccfeeb3c482beeb",
       "title": "Yomiuri: Rakuten to Keep Mobile Prices Low Despite Inflation, Says Group CEO",
       "source": "MarketWatch",
@@ -48,6 +48,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOelE2ckxLTHpmS3g4TmIxNjQ1Yi1PQ3psbTFicEdOZjczQm1rbDhqUmluTWgxWUItbm9fSWhOdFgxMm5lQ0Y3V2VOVk0zcGhYVmdna2NlRUNucjRRZXlNeVJjNVFZdTRaQ19Db09qS05FRWJwQ3V3M1RCUlpCci1ySU96UFNqUDdidXFiRXUzRFdPN0wxLTNQY0lSbkl2dzVVTTN3aGYzQ21VbjRKTVk1VHJvaTNiQlplR2ZhTHVDZ1Yyb1FlcnJyYnd3alB1c1U?oc=5\" target=\"_blank\">Yomiuri: Rakuten to Keep Mobile Prices Low Despite Inflation, Says Group CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
       "titleKa": "Yomiuri: Rakuten-ის ჯგუფის აღმასრულებელი დირექტორის თქმით, კომპანია ინფლაციის მიუხედავად მობილური კავშირის დაბალ ფასებს შეინარჩუნებს",
       "summaryKa": "Rakuten-ის ჯგუფის აღმასრულებელი დირექტორი აცხადებს, რომ კომპანია მობილური მომსახურების ფასებს ინფლაციის მიუხედავად არ გაზრდის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f3325481b434235b",
+      "title": "Equinox Gold (TSX:EQX) Is Up 14.3% After Strong Q2 Results And 50% Dividend Hike – Has The Bull Case Changed?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3FWdVQwSlY1cy1paElMY2UzcTFpSUFubm03eWNDbEdIYmc5WDNrUklRemxmUlBLNjlIOUpnQzRsZVlyblFKWjRGcXNMdmVJSUdlbXpnUURLLWZPaV9ab2RDZHg3NGptVExjdWJNaUNGQ0NvaG0xbWxLWmJpLWtFSC1NdmxIYUdmSGJBWWJFRXlNdw?oc=5",
+      "publishedAt": "2026-08-07T03:18:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3FWdVQwSlY1cy1paElMY2UzcTFpSUFubm03eWNDbEdIYmc5WDNrUklRemxmUlBLNjlIOUpnQzRsZVlyblFKWjRGcXNMdmVJSUdlbXpnUURLLWZPaV9ab2RDZHg3NGptVExjdWJNaUNGQ0NvaG0xbWxLWmJpLWtFSC1NdmxIYUdmSGJBWWJFRXlNdw?oc=5\" target=\"_blank\">Equinox Gold (TSX:EQX) Is Up 14.3% After Strong Q2 Results And 50% Dividend Hike – Has The Bull Case Changed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Equinox Gold (TSX:EQX) 14.3%-ით გაიზარდა მეორე კვარტლის ძლიერი შედეგებისა და დივიდენდების 50%-იანი ზრდის შემდეგ – შეიცვალა თუ არა ზრდის პროგნოზი?",
+      "summaryKa": "Equinox Gold-ის (TSX:EQX) აქციები 14.3%-ით გაიზარდა მეორე კვარტლის ძლიერი ფინანსური შედეგებისა და დივიდენდების 50%-ით გაზრდის შემდეგ.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -64,6 +76,30 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "ee6cb9dd3956a793",
+      "title": "Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOS1nODBoM3psaHlUdkRTSHpONTh1MldKWDhCRmNnM0d6ZmxRTzFIelB5MEpxMXpYTDRFcU1YdE02M3FtM1Y5aGZOTDdlSWstbEFwMEpmX2JMam9BQldiMDluWERfOTVCd2dTYmtlZHJqQWZwMkRBaFZvRWQtWWdwOWJDMnIyTUh3dDl0Z3JKRTA4ZS0tYjVQUTNmUVFObm8?oc=5",
+      "publishedAt": "2026-08-07T02:46:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPOS1nODBoM3psaHlUdkRTSHpONTh1MldKWDhCRmNnM0d6ZmxRTzFIelB5MEpxMXpYTDRFcU1YdE02M3FtM1Y5aGZOTDdlSWstbEFwMEpmX2JMam9BQldiMDluWERfOTVCd2dTYmtlZHJqQWZwMkRBaFZvRWQtWWdwOWJDMnIyTUh3dDl0Z3JKRTA4ZS0tYjVQUTNmUVFObm8?oc=5\" target=\"_blank\">Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "სავარაუდოდ უსაფრთხო ბიტკოინის ინსტრუმენტის გატეხვა მისი ერთგული მხარდამჭერების რწმენას გამოცდის",
+      "summaryKa": "ბიტკოინის სავარაუდოდ უსაფრთხო ინსტრუმენტის გატეხვა მისი ერთგული მომხმარებლების რწმენას გამოცდის.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "bef4234ac67eb7e4",
+      "title": "Petrobras Q2 Profit Nearly Doubles as Oil Production Hits Record",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaExkRGcxbElRRDE5NDdjOEZFTkNBT1NTVUlaNGpjM0MtWHdLR211a212OFJJMUJfU1VYb3dzek4wMmp5dXJKTF8tMnRmR3Z2bmJobFpSZm9kVDUwRm5hN1ZVN0ZtUmZReVhxaHIyM09Ed1B0MUtNVzRkM29CRzVqRzV3UDRyUmdXcUF3VWg5Q0RUNUJKdHc?oc=5",
+      "publishedAt": "2026-08-07T02:45:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQaExkRGcxbElRRDE5NDdjOEZFTkNBT1NTVUlaNGpjM0MtWHdLR211a212OFJJMUJfU1VYb3dzek4wMmp5dXJKTF8tMnRmR3Z2bmJobFpSZm9kVDUwRm5hN1ZVN0ZtUmZReVhxaHIyM09Ed1B0MUtNVzRkM29CRzVqRzV3UDRyUmdXcUF3VWg5Q0RUNUJKdHc?oc=5\" target=\"_blank\">Petrobras Q2 Profit Nearly Doubles as Oil Production Hits Record</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Petrobras-ის მეორე კვარტლის მოგება თითქმის გაორმაგდა, რადგან ნავთობის მოპოვებამ რეკორდულ მაჩვენებელს მიაღწია",
+      "summaryKa": "კომპანია Petrobras-ის მეორე კვარტლის მოგება თითქმის გაორმაგდა, რადგან ნავთობის მოპოვებამ რეკორდულ მაჩვენებელს მიაღწია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "beec63bc88f5e987",
       "title": "Global Funds Pile Back Into India IT Stocks After Selling for Months",
       "source": "Bloomberg.com",
@@ -72,6 +108,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0Y5dFVNLXAzRk5oLTVFclQ0ZEw3am1id1k4N1l6NUZOeG1FckVCS004VUd0WFNsc2s4OXRyMTVWZXJ5V0tsR3poZ2g3RWtockd3NVk3eU1fTloyUWV6dGFwazJ0Tk9DcC13OWxLSnNTRU5zTVE3c0dlTDVLajZSYUZNdEdNblU0SFlnakVwanFiQm1meWxkQ1BXUl9OQmJ6d1VOeHZxb0RhUkVjaWJDRVVDVWhMVGwyR0pfc25DSQ?oc=5\" target=\"_blank\">Global Funds Pile Back Into India IT Stocks After Selling for Months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "გლობალური ფონდები, თვეების განმავლობაში გაყიდვის შემდეგ, კვლავ ინდოეთის IT აქციებში ბრუნდებიან",
       "summaryKa": "თვეების განმავლობაში გაყიდვების შემდეგ, გლობალური ფონდები კვლავ მასობრივად ყიდულობენ ინდოეთის IT კომპანიების აქციებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6ab7175fbdb76f0d",
+      "title": "Imperial Oil (TSX:IMO) Board Reshuffle Brings In Director From Its Majority Owner",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRzlBVURLcDU5OHFvZUhiWWV2WEJ1ZjBDR0NVYnJjLW9YSEI2Rl9EVkxFeHR5c3hXN0xRN0k0N0lDemsyWjFxVy1QVFRUWk1kS3dKU1h2SllpdGE0aVhJMEh0V29vWmtVeE0tVkpKUUVPaGFLM0VZUnhaVjNFRVNQYS1mczR6Z2NabUc0?oc=5",
+      "publishedAt": "2026-08-07T02:13:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRzlBVURLcDU5OHFvZUhiWWV2WEJ1ZjBDR0NVYnJjLW9YSEI2Rl9EVkxFeHR5c3hXN0xRN0k0N0lDemsyWjFxVy1QVFRUWk1kS3dKU1h2SllpdGE0aVhJMEh0V29vWmtVeE0tVkpKUUVPaGFLM0VZUnhaVjNFRVNQYS1mczR6Z2NabUc0?oc=5\" target=\"_blank\">Imperial Oil (TSX:IMO) Board Reshuffle Brings In Director From Its Majority Owner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Imperial Oil-ის (TSX:IMO) დირექტორთა საბჭოს გადაჯგუფების შედეგად, საბჭოში მისი მაჟორიტარი მფლობელის წარმომადგენელი დირექტორი შევიდა",
+      "summaryKa": "Imperial Oil-ის (TSX:IMO) დირექტორთა საბჭოს რეორგანიზაციის შედეგად, საბჭოში მისი მაჟორიტარი მფლობელი კომპანიის დირექტორი დაინიშნა.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -136,6 +184,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "86787e18c6687883",
+      "title": "Watch Trex CEO on Earnings, Consumer Demand For Deck Materials",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYmRyRk9kdjNHNDJteTBrQXZvTmF4YkRHRzk2SzZiMnlZQUc5d3BYTkQ2clQtNm9ELTZhRV80RGJKX2dqNHNheFFtRDV3czZzZEk5U2U1RWxVYUx0MHY5dU4wbWxpaFRITlpVTjBoWUp6SFk1T1RSMzRhcURaVEJveWxmaHlLMzdVRk1aN3hHaVpqQkU2LWM3Q0IzZnJkZlN6ZTV6aER0UDRXZWl2OVEw?oc=5",
+      "publishedAt": "2026-08-06T23:02:12.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOYmRyRk9kdjNHNDJteTBrQXZvTmF4YkRHRzk2SzZiMnlZQUc5d3BYTkQ2clQtNm9ELTZhRV80RGJKX2dqNHNheFFtRDV3czZzZEk5U2U1RWxVYUx0MHY5dU4wbWxpaFRITlpVTjBoWUp6SFk1T1RSMzRhcURaVEJveWxmaHlLMzdVRk1aN3hHaVpqQkU2LWM3Q0IzZnJkZlN6ZTV6aER0UDRXZWl2OVEw?oc=5\" target=\"_blank\">Watch Trex CEO on Earnings, Consumer Demand For Deck Materials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "titleKa": "უყურეთ Trex-ის გენერალური დირექტორის გამოსვლას შემოსავლებისა და ტერასის მასალებზე სამომხმარებლო მოთხოვნის შესახებ",
+      "summaryKa": "გადაცემაში წარმოდგენილია Trex-ის გენერალური დირექტორის საუბარი ფინანსურ შედეგებსა და ტერასის მასალებზე სამომხმარებლო მოთხოვნაზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "55fda9ac5687623f",
       "title": "Trade Desk shares tumble on earnings miss and weak outlook",
       "source": "MarketWatch",
@@ -169,6 +229,18 @@
       "titleKa": "Perpetua Resources-ი სტიბნიტში მაღალი ხარისხის ოქროსა და ანთიმონის ახალი საბადოების და ოქრო-ვოლფრამის ახალი ზონის აღმოჩენის შესახებ იტყობინება",
       "summaryKa": "კომპანია Perpetua Resources-მა განაცხადა სტიბნიტში მაღალი ხარისხის ოქროსა და ანთიმონის ახალი აღმოჩენებისა და ახალი ოქრო-ვოლფრამის ზონის შესახებ.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c380becb873f683f",
+      "title": "Twilio soars 16% on earnings beat and strong guidance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTZQSGJzbHRUWThUNE82Y01JaFRpYncwN3BkbnEwNmxUQVRJTk9sZ183RDRXT0pYLU9fcXdxejU2VmNsY0oyMmVtai13WE05OE9STU9nZTRyUmRLdWh6dVFKYUxDdUpocGlRMlNhZ1A4ZmZQZ1Bqc2ZMcFRGNlo1Qms1NWtxWWJPcy1Pc09CTy1zSnJtd0JaeElR?oc=5",
+      "publishedAt": "2026-08-06T21:57:55.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTZQSGJzbHRUWThUNE82Y01JaFRpYncwN3BkbnEwNmxUQVRJTk9sZ183RDRXT0pYLU9fcXdxejU2VmNsY0oyMmVtai13WE05OE9STU9nZTRyUmRLdWh6dVFKYUxDdUpocGlRMlNhZ1A4ZmZQZ1Bqc2ZMcFRGNlo1Qms1NWtxWWJPcy1Pc09CTy1zSnJtd0JaeElR?oc=5\" target=\"_blank\">Twilio soars 16% on earnings beat and strong guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Twilio 16%-ით გაიზარდა მოლოდინზე უკეთესი ფინანსური შედეგებისა და ძლიერი სამომავლო პროგნოზის წყალობით",
+      "summaryKa": "კომპანია Twilio-ს აქციები 16%-ით გაიზარდა მოლოდინზე უკეთესი ფინანსური მაჩვენებლებისა და ძლიერი სამომავლო პროგნოზის ფონზე.",
+      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
