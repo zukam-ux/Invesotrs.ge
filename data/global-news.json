@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T03:37:13.584Z",
+  "updatedAt": "2026-08-07T05:21:17.538Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -8,7 +8,7 @@
       "title": "Bitcoin Wallet Attack Bolsters Case for Spot Bitcoin ETFs",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPREQwRTZNdTg3RDlSOWhWNjB3NnRnQThoV2pEd1c3dl9Xb3A2QS1rVkVpX3lnSGstSWduaFRhQkw2b3NVQXYzYzhoT2lMdXN0SlQ4RHA0aG40XzdYeS1LVGxicVRTQ1BBUFh1SUtlRno1SUZmT3h6Z3ZLVXZHMDA4b0NoaG5wanV1ZTNLSTFIUTQ2ZzNaeVUxa2RBOTBwVGx3dGczSkUyMlAwUzBhcTJ0aTNzQVp0cHM?oc=5",
-      "publishedAt": "2026-08-07T03:34:25.000Z",
+      "publishedAt": "2026-08-07T05:04:28.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPREQwRTZNdTg3RDlSOWhWNjB3NnRnQThoV2pEd1c3dl9Xb3A2QS1rVkVpX3lnSGstSWduaFRhQkw2b3NVQXYzYzhoT2lMdXN0SlQ4RHA0aG40XzdYeS1LVGxicVRTQ1BBUFh1SUtlRno1SUZmT3h6Z3ZLVXZHMDA4b0NoaG5wanV1ZTNLSTFIUTQ2ZzNaeVUxa2RBOTBwVGx3dGczSkUyMlAwUzBhcTJ0aTNzQVp0cHM?oc=5\" target=\"_blank\">Bitcoin Wallet Attack Bolsters Case for Spot Bitcoin ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "ბიტკოინის საფულის თავდასხმა აძლიერებს არგუმენტებს სპოტური ბიტკოინ ETF-ების სასარგებლოდ",
       "summaryKa": "ბიტკოინის საფულეზე თავდასხმა ამყარებს არგუმენტებს სპოტური ბიტკოინ ETF-ების შექმნის სასარგებლოდ.",
@@ -16,15 +16,51 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "e782f781963bc6d3",
+      "title": "Watch Oil Climbs as Strait of Hormuz Deal Prospects Unclear",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2hMREpLbWlTeFJGei1rMEQwaGZhaEZGV0VvSDJjQTVIYXZIMjZ5dzk0RmZPc25CeS14c2pkcXhYOHVsMTNuTGZmNlRZRnluYnE0VzJSck9oM1F6cHpFel9Ec2Z0cU9JckNlSWlRMmgwcGdXMEw5OEhrY0xVczI5UHlFMVYtUzAxMmpkMFl1cjdTUnEyZHVtbFR4a082THl6bHphYTBHa1dDYkM1?oc=5",
+      "publishedAt": "2026-08-07T05:01:56.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2hMREpLbWlTeFJGei1rMEQwaGZhaEZGV0VvSDJjQTVIYXZIMjZ5dzk0RmZPc25CeS14c2pkcXhYOHVsMTNuTGZmNlRZRnluYnE0VzJSck9oM1F6cHpFel9Ec2Z0cU9JckNlSWlRMmgwcGdXMEw5OEhrY0xVczI5UHlFMVYtUzAxMmpkMFl1cjdTUnEyZHVtbFR4a082THl6bHphYTBHa1dDYkM1?oc=5\" target=\"_blank\">Watch Oil Climbs as Strait of Hormuz Deal Prospects Unclear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "titleKa": "ნავთობის ფასი იზრდება, რადგან ჰორმუზის სრუტესთან დაკავშირებული შეთანხმების პერსპექტივები ბუნდოვანია",
+      "summaryKa": "ჰორმუზის სრუტესთან დაკავშირებული შეთანხმების პერსპექტივების გაურკვევლობის ფონზე, ნავთობის ფასი მატულობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "da853af6bb58f4c6",
       "title": "Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5",
-      "publishedAt": "2026-08-07T03:03:12.000Z",
+      "publishedAt": "2026-08-07T04:33:12.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT250NFRXNlJaR2FwdS12TjlncUl0dTZITE80dXdNeG5jRThvV1hTdldfZXl0T1dTcE9XZVJJc2xKa18xd0NUWGhrcEVTa2xoeDBjQ0FQWjh0S3ZjXzRmaUk2SHhHVkRoSllWSG81X2tkOTh6ak0tNEZPNkdzNm13Vk4xbHowSVV2WWhTVHNvLWhfYnNjUXgyOE9zSEFzemx4ZkVKcjJDUjBWWWwxVFl4eFpLMFZFZ2M?oc=5\" target=\"_blank\">Digital Detectives Are Going Sleepless After Bitcoin Wallet Hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "ციფრული დეტექტივები უძილო ღამეებს ატარებენ ბიტკოინის საფულის გატეხვის შემდეგ",
       "summaryKa": "ბიტკოინის საფულის ჰაკერული თავდასხმის შემდეგ ციფრულ დეტექტივებს ძილი არ აქვთ.",
       "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6ccfeeb3c482beeb",
+      "title": "Yomiuri: Rakuten to Keep Mobile Prices Low Despite Inflation, Says Group CEO",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOelE2ckxLTHpmS3g4TmIxNjQ1Yi1PQ3psbTFicEdOZjczQm1rbDhqUmluTWgxWUItbm9fSWhOdFgxMm5lQ0Y3V2VOVk0zcGhYVmdna2NlRUNucjRRZXlNeVJjNVFZdTRaQ19Db09qS05FRWJwQ3V3M1RCUlpCci1ySU96UFNqUDdidXFiRXUzRFdPN0wxLTNQY0lSbkl2dzVVTTN3aGYzQ21VbjRKTVk1VHJvaTNiQlplR2ZhTHVDZ1Yyb1FlcnJyYnd3alB1c1U?oc=5",
+      "publishedAt": "2026-08-07T04:25:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOelE2ckxLTHpmS3g4TmIxNjQ1Yi1PQ3psbTFicEdOZjczQm1rbDhqUmluTWgxWUItbm9fSWhOdFgxMm5lQ0Y3V2VOVk0zcGhYVmdna2NlRUNucjRRZXlNeVJjNVFZdTRaQ19Db09qS05FRWJwQ3V3M1RCUlpCci1ySU96UFNqUDdidXFiRXUzRFdPN0wxLTNQY0lSbkl2dzVVTTN3aGYzQ21VbjRKTVk1VHJvaTNiQlplR2ZhTHVDZ1Yyb1FlcnJyYnd3alB1c1U?oc=5\" target=\"_blank\">Yomiuri: Rakuten to Keep Mobile Prices Low Despite Inflation, Says Group CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "titleKa": "Yomiuri: Rakuten-ის ჯგუფის აღმასრულებელი დირექტორის თქმით, კომპანია ინფლაციის მიუხედავად მობილური კავშირის დაბალ ფასებს შეინარჩუნებს",
+      "summaryKa": "Rakuten-ის ჯგუფის აღმასრულებელი დირექტორი აცხადებს, რომ კომპანია მობილური მომსახურების ფასებს ინფლაციის მიუხედავად არ გაზრდის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "fe5698588c6c471f",
+      "title": "Watch BMI's Chowdhury on Copper, Gold, Oil Markets",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQXJzWXM1d0xkX1RWVS1PNVI0aFZUNkp6R282RnoyUkZPZGNqemFHZUxlTHowaEdjRDhMN1BWS0RaSGNaN0E5bDQ5WlFYOEo3TjVPT3NkN2V2S0FKTUVoWWN0aXJ2N0dOVkFrcE4yYzM0VnFqMUtFYUJMMHpSZnZHOWFzRUstRXlKUWpOZkFobFpabXRaNl96Z1dENTJRdw?oc=5",
+      "publishedAt": "2026-08-07T02:46:36.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQXJzWXM1d0xkX1RWVS1PNVI0aFZUNkp6R282RnoyUkZPZGNqemFHZUxlTHowaEdjRDhMN1BWS0RaSGNaN0E5bDQ5WlFYOEo3TjVPT3NkN2V2S0FKTUVoWWN0aXJ2N0dOVkFrcE4yYzM0VnFqMUtFYUJMMHpSZnZHOWFzRUstRXlKUWpOZkFobFpabXRaNl96Z1dENTJRdw?oc=5\" target=\"_blank\">Watch BMI's Chowdhury on Copper, Gold, Oil Markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "უყურეთ BMI-ის ჩოუდჰურის გამოსვლას სპილენძის, ოქროსა და ნავთობის ბაზრების შესახებ",
+      "summaryKa": "შეგიძლიათ უყუროთ BMI-ის წარმომადგენელ ჩოუდჰურის გამოსვლას სპილენძის, ოქროსა და ნავთობის ბაზრებთან დაკავშირებით.",
+      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -68,22 +104,10 @@
       "title": "Gold Steady as Traders Assess Impact of Hormuz Flare-Up on Rates",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1d3VC0wXzhrUVV2UFJ1STF6RS1PSGx3WjlLOFpvLVNmQTIxcXprbFFNZHJ0dGJkVU1yQWVEa1J4TFJVaWFoR2l4SUEyQVRLX2tOOHo3ajBlM093LVN5WkdZZVZzS1EyWWZfTmhrTUpoUFdzcld5ZjlmdVhCUmgzNjF4cTltZ1NUaGRTbVFVYndkX3JJWVF6T25qSDZPOFFSU0RXYW5pakJSVnUtODluWmdUWEZqdw?oc=5",
-      "publishedAt": "2026-08-07T00:53:00.000Z",
+      "publishedAt": "2026-08-06T23:43:38.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1d3VC0wXzhrUVV2UFJ1STF6RS1PSGx3WjlLOFpvLVNmQTIxcXprbFFNZHJ0dGJkVU1yQWVEa1J4TFJVaWFoR2l4SUEyQVRLX2tOOHo3ajBlM093LVN5WkdZZVZzS1EyWWZfTmhrTUpoUFdzcld5ZjlmdVhCUmgzNjF4cTltZ1NUaGRTbVFVYndkX3JJWVF6T25qSDZPOFFSU0RXYW5pakJSVnUtODluWmdUWEZqdw?oc=5\" target=\"_blank\">Gold Steady as Traders Assess Impact of Hormuz Flare-Up on Rates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "ოქროს ფასი სტაბილურია, რადგან ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაძაბულობის გავლენას საპროცენტო განაკვეთებზე",
       "summaryKa": "ოქროს ფასი ინარჩუნებს სტაბილურობას, სანამ ტრეიდერები აფასებენ ჰორმუზის სრუტეში დაპირისპირების გამწვავების გავლენას საპროცენტო განაკვეთებზე.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "fe5698588c6c471f",
-      "title": "Watch BMI's Chowdhury on Copper, Gold, Oil Markets",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQXJzWXM1d0xkX1RWVS1PNVI0aFZUNkp6R282RnoyUkZPZGNqemFHZUxlTHowaEdjRDhMN1BWS0RaSGNaN0E5bDQ5WlFYOEo3TjVPT3NkN2V2S0FKTUVoWWN0aXJ2N0dOVkFrcE4yYzM0VnFqMUtFYUJMMHpSZnZHOWFzRUstRXlKUWpOZkFobFpabXRaNl96Z1dENTJRdw?oc=5",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQXJzWXM1d0xkX1RWVS1PNVI0aFZUNkp6R282RnoyUkZPZGNqemFHZUxlTHowaEdjRDhMN1BWS0RaSGNaN0E5bDQ5WlFYOEo3TjVPT3NkN2V2S0FKTUVoWWN0aXJ2N0dOVkFrcE4yYzM0VnFqMUtFYUJMMHpSZnZHOWFzRUstRXlKUWpOZkFobFpabXRaNl96Z1dENTJRdw?oc=5\" target=\"_blank\">Watch BMI's Chowdhury on Copper, Gold, Oil Markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "უყურეთ BMI-ის ჩოუდჰურის გამოსვლას სპილენძის, ოქროსა და ნავთობის ბაზრების შესახებ",
-      "summaryKa": "შეგიძლიათ უყუროთ BMI-ის წარმომადგენელ ჩოუდჰურის გამოსვლას სპილენძის, ოქროსა და ნავთობის ბაზრებთან დაკავშირებით.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -228,6 +252,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQVBwSUROSEpHVjJ1YjdISDJJUFNGcFREeWlQMk8tVzBDaU1ZZi1rd3JEaUt1ZmowMDdxTnJ6QVlSbzZOZ2JrdThyWHlGZ1Q0cENfWGZEUG4tM1QtRVkxZWJ1X0ZMZ3VRUUpneW94cHpmOHlwWmVqRDQ3M1VNNC1kblNVVXJZRl9GOFZUb2lkczVRX19IbjBkU2ZaQU42NzBpN2c3Vnp6Q1JOaVRoSjFoNEVzbUtrSEdLOGQ0eENsdF9XdnlIYmJjZ283SF9wWDFwaVkxLVBkZHByUQ?oc=5\" target=\"_blank\">The last time value stocks beat growth by this much was 2022 — the year of the last major bear market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
       "titleKa": "ბოლო შემთხვევა, როდესაც ღირებულებითმა აქციებმა ზრდის აქციებს ასეთი დიდი სხვაობით აჯობა, იყო 2022 წელი — ბოლო მსხვილი დათვის ბაზრის წელი",
       "summaryKa": "ღირებულებითმა აქციებმა ზრდის აქციებს მსგავსი დიდი სხვაობით ბოლოს 2022 წელს, ბოლო ძირითადი დათვის ბაზრის პერიოდში აჯობა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6df52fddab110cd9",
+      "title": "The S&P 500 Hits Yet Another Record High. So What?",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWdmY3pHRXhLUUZoVHFnUGRLMjJaTi1kSlhZVFhrN1VkSllFOFhLV2lBOXRTcEZvaXZGQTg0RVFYQ09EUm9kdDFHVjYyUDFpQWhYbEpjdXhZNDJFeHdxRUpiWm9zYlZKbjVkNldyd2dtcGpFNTdPLXRtbnlIcjl2ZXo1ckxBcENaR281ZGxnbG8yZVdDMmpIQXhuVWRsU2ZBVXNzTkRLb3VTS0VmeElxVw?oc=5",
+      "publishedAt": "2026-08-06T15:49:55.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWdmY3pHRXhLUUZoVHFnUGRLMjJaTi1kSlhZVFhrN1VkSllFOFhLV2lBOXRTcEZvaXZGQTg0RVFYQ09EUm9kdDFHVjYyUDFpQWhYbEpjdXhZNDJFeHdxRUpiWm9zYlZKbjVkNldyd2dtcGpFNTdPLXRtbnlIcjl2ZXo1ckxBcENaR281ZGxnbG8yZVdDMmpIQXhuVWRsU2ZBVXNzTkRLb3VTS0VmeElxVw?oc=5\" target=\"_blank\">The S&P 500 Hits Yet Another Record High. So What?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "titleKa": "S&P 500-მა კიდევ ერთხელ დაამყარა რეკორდული მაჩვენებელი",
+      "summaryKa": "S&P 500-ის ინდექსმა მორიგი რეკორდული ნიშნული დააფიქსირა.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
