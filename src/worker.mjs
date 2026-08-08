@@ -982,7 +982,19 @@ async function getCompanyData(request, env, rawSymbol) {
     fetchQuote(symbol),
   ]);
   if (!(submissions.tickers || []).some(ticker => ticker.toUpperCase() === symbol)) return null;
-  return buildCompanyData(asset, submissions, facts, quote);
+  const company = buildCompanyData(asset, submissions, facts, quote);
+  const searchName = company.name.replace(/\s+(inc\.?|corp\.?|corporation|plc|ltd\.?)$/i, "").trim();
+  try {
+    const term = `%${searchName.slice(0, 60)}%`;
+    const related = await env.DB.prepare(
+      `SELECT id, title, title_ka, summary_ka, source, published_at, category
+       FROM articles WHERE ${isEditoriallyPublishedSql()}
+       AND (title LIKE ? OR title_ka LIKE ? OR summary_ka LIKE ?)
+       ORDER BY published_at DESC LIMIT 6`,
+    ).bind(term, term, term).all();
+    company.relatedNews = related.results.map(row => ({ id: row.id, title: row.title_ka || row.title, summary: row.summary_ka || "", source: row.source, publishedAt: row.published_at, category: normalizeNewsCategory(row.category, `${row.title || ""} ${row.title_ka || ""}`), url: `/news/${row.id}` }));
+  } catch { company.relatedNews = []; }
+  return company;
 }
 
 async function serveCompanyApi(request, env, url) {
@@ -1176,6 +1188,9 @@ export default {
     if (url.pathname === "/api/company" && request.method === "GET") return serveCompanyApi(request, env, url);
     if (url.pathname === "/api/company-series" && request.method === "GET") return serveCompanySeries(request, env, url);
     if (url.pathname === "/api/news-quotes") return serveQuotes(url);
+    if ((url.pathname === "/stocks/compare" || url.pathname === "/stocks/compare/") && request.method === "GET") {
+      return env.ASSETS.fetch(new Request(new URL("/stock-compare.html", request.url)));
+    }
     const companyMatch = url.pathname.match(/^\/stocks\/([A-Za-z0-9.-]{1,15})\/?$/);
     if (companyMatch && request.method === "GET") return serveCompanyPage(request, env, companyMatch[1]);
     const articleMatch = url.pathname.match(/^\/news\/([a-f0-9]{16})\/?$/i);

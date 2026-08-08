@@ -19,12 +19,15 @@ assert.equal(extractFinancialHistory(facts).annual.find(item => item.key === "as
 assert.equal(calculateValuation(facts, extractFundamentals(facts), { price: 20 }).marketCap, 200);
 assert.match(extractFilings(submissions)[0].url, /Archives\/edgar\/data\/320193\/000032019325000079\/aapl-20250628\.htm$/);
 const company = buildCompanyData({ symbol: "AAPL", name: "Apple", exchange: "Nasdaq", cik: "0000320193" }, submissions, facts, { price: 220, currency: "USD", changePercent: 1.2, marketTime: 1 });
+company.relatedNews = [{ id: "1234567890abcdef", title: "Apple-ის სიახლე", source: "Nasdaq", publishedAt: "2025-08-01", url: "/news/1234567890abcdef" }];
 const html = renderCompanyPage(company);
 assert.match(html, /Apple Inc\./);
 assert.match(html, /SEC EDGAR/);
 assert.match(html, /provider-dependent delay/);
 assert.match(html, /წლიური ფინანსური ისტორია/);
 assert.match(html, /საბაზრო კაპიტალიზაცია/);
+assert.match(html, /კომპანიის სიახლეები/);
+assert.match(html, /კომპანიების შედარება/);
 assert.match(html, /rel="canonical" href="https:\/\/investors\.ge\/stocks\/AAPL"/);
 
 console.log("Company page regression tests passed.");
