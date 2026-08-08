@@ -1,8 +1,32 @@
 {
-  "updatedAt": "2026-08-08T17:24:37.226Z",
+  "updatedAt": "2026-08-08T17:56:00.576Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "a45a019140a58dc3",
+      "title": "Live Nation Drew 49 Million Fans Last Quarter. Its General Counsel's Stock Just Vested",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/live-nation-drew-49-million-fans-last-quarter-its-general-counsels-stock-just-vested",
+      "publishedAt": "2026-08-08T17:05:35.000Z",
+      "description": "Key PointsThe insider disposed of 1,084 shares at $181.77 per share for a total transaction value of about $197,000.",
+      "titleKa": "Live Nation-მა გასულ კვარტალში 49 მილიონი ფანი მიიზიდა. მისი მთავარი იურისტის აქციების ვესტინგი ახლახან განხორციელდა",
+      "summaryKa": "კომპანია Live Nation-მა გასულ კვარტალში 49 მილიონ ფანს უმასპინძლა, ხოლო მისი მთავარი იურისტის კუთვნილი აქციები ახლახან გადავიდა მის საკუთრებაში.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e870c58383ee0071",
+      "title": "Alerian MLP ETF vs First Trust Energy Infrastructure Fund: Which Energy ETF is the Better Buy in 2026?",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/alerian-mlp-etf-vs-first-trust-energy-infrastructure-fund-which-energy-etf-better-buy-2026",
+      "publishedAt": "2026-08-08T16:51:01.000Z",
+      "description": "Key PointsAlerian MLP ETF offers a significantly higher dividend yield of 7.4% compared to the 2.8% yield of First Trust North American Energy Infrastructure Fund.",
+      "titleKa": "Alerian MLP ETF-ი First Trust Energy Infrastructure Fund-ის წინააღმდეგ: რომელი ენერგეტიკული ETF-ია უკეთესი შესყიდვა 2026 წელს?",
+      "summaryKa": "სტატია ადარებს Alerian MLP ETF-სა და First Trust Energy Infrastructure Fund-ს იმის დასადგენად, თუ რომელი ენერგეტიკული ETF-ია უკეთესი შესყიდვა 2026 წელს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "ceab91a7653faa9c",
       "title": "Why Cameco's Ugly Earnings Miss Might Be Good News in Disguise",
@@ -12,6 +36,42 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEo5T2NXSm9vYmJkaEk2eWVLU3R3RWR6dmMzb0hsbnJUbTdwY1FGZTROR0lwQjEybGpzWGp4WXdVVTNWRFhXNzJORnpRNEV1NXJkSWtJNXN0bmlpUmVvbWI0dkk2SHM0NHg5Z3dQUk1zNGNFblQ0bE4tS1dROWFUOFRZMkxvOXJuZW5rNFc0X2U5Yk5tU09LZWwwTQ?oc=5\" target=\"_blank\">Why Cameco's Ugly Earnings Miss Might Be Good News in Disguise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "რატომ შეიძლება აღმოჩნდეს Cameco-ს შემოსავლების მკვეთრი ვარდნა შენიღბული კარგი ამბავი",
       "summaryKa": "სტატიაში განხილულია, თუ რატომ შეიძლება იყოს Cameco-ს მიერ მოლოდინებზე ბევრად ნაკლები შემოსავლის მიღება რეალურად პოზიტიური სიახლე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "99dfba911abda5a7",
+      "title": "Why Cameco's Ugly Earnings Miss Might Be Good News in Disguise",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/why-camecos-ugly-earnings-miss-might-be-good-news-disguise",
+      "publishedAt": "2026-08-08T16:50:00.000Z",
+      "description": "Key PointsCameco's earnings missed expectations largely due to Westinghouse.",
+      "titleKa": "რატომ შეიძლება იყოს Cameco-ს მოგების არასახარბიელო ვარდნა შენიღბული კარგი ამბავი",
+      "summaryKa": "სტატია განმარტავს, თუ რატომ შეიძლება აღმოჩნდეს Cameco-ს მიერ პროგნოზირებულ მოგებასთან ჩამორჩენა კარგი სიახლე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d7bb1a7cec9b4261",
+      "title": "Massive News: Palantir's Newest Partnership Could Strengthen Its AI Moat",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/massive-news-palantirs-newest-partnership-could-strengthen-its-ai-moat",
+      "publishedAt": "2026-08-08T16:50:00.000Z",
+      "description": "Palantir (NASDAQ: PLTR) is pairing its mission-critical software with advanced AI hardware from Nvidia (NASDAQ: NVDA) to create a secure operating system for governments and enterprises. This deep dive examines whether sovereign AI could strengthen Palantir's moat enough to suppo",
+      "titleKa": "უმნიშვნელოვანესი სიახლე: Palantir-ის უახლესმა პარტნიორობამ შესაძლოა გააძლიეროს მისი უპირატესობა AI-ის სფეროში",
+      "summaryKa": "Palantir-ის უახლეს პარტნიორობას შეუძლია გააძლიეროს კომპანიის უპირატესობა ხელოვნური ინტელექტის (AI) სფეროში.",
+      "category": "AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "017bb2e2322552c4",
+      "title": "Tractor Supply CEO Lawton Buys 15,600 Shares for $501,540 Amid Stock's 44% Decline",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/tractor-supply-ceo-lawton-buys-15600-shares-501540-amid-stocks-44-decline",
+      "publishedAt": "2026-08-08T16:40:38.000Z",
+      "description": "Key PointsThe purchase of 15,600 shares resulted in a transaction value of $501,540 at a weighted average price of $32.15 per share on Aug. 4, 2026.",
+      "titleKa": "Tractor Supply-ის გენერალური დირექტორი Lawton ყიდულობს 15,600 აქციას $501,540-ად, აქციების ფასის 44%-იანი ვარდნის ფონზე",
+      "summaryKa": "Tractor Supply-ის გენერალურმა დირექტორმა, Lawton-მა, კომპანიის აქციების 44%-იანი ვარდნის ფონზე, $501,540-ად 15,600 აქცია შეიძინა.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -28,6 +88,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "cf9d017a33d2b8bf",
+      "title": "Even Without Alphabet and Amazon, the S&P 500 Just Posted Its Biggest Earnings Beat Ever",
+      "source": "Yahoo Finance",
+      "url": "https://247wallst.com/investing/2026/08/08/even-without-alphabet-and-amazon-the-sp-500-just-posted-its-biggest-earnings-beat-ever/?.tsrc=rss",
+      "publishedAt": "2026-08-08T16:38:43.000Z",
+      "description": "S&P 500 earnings just shattered a record that has stood since 2008, but two tech giants are responsible for a distortion that changes everything investors think they know about this earnings season.",
+      "titleKa": "Alphabet-ისა და Amazon-ის გარეშეც კი, S&P 500-მა ახლახან დააფიქსირა მოგების ყველაზე დიდი გადაჭარბება ისტორიაში",
+      "summaryKa": "Alphabet-ისა და Amazon-ის მონაცემების გარეშეც, S&P 500-ის ინდექსმა მოგების პროგნოზებს ისტორიაში ყველაზე დიდი მაჩვენებლით გადააჭარბა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "982adf269864da9d",
       "title": "Got $1,000? Here Are My Favorite Nuclear Stocks to Invest in Right Now.",
       "source": "Yahoo Finance",
@@ -40,6 +112,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "5c6962b2a71fe7fb",
+      "title": "Got $1,000? Here Are My Favorite Nuclear Stocks to Invest in Right Now.",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/got-1000-here-are-my-favorite-nuclear-stocks-invest-right-now",
+      "publishedAt": "2026-08-08T16:25:00.000Z",
+      "description": "Key PointsExperts are bullish on nuclear energy.",
+      "titleKa": "გაქვთ $1,000? აი, ჩემი ფავორიტი ბირთვული ენერგეტიკის აქციები საინვესტიციოდ ამჟამად.",
+      "summaryKa": "სტატიაში წარმოდგენილია ავტორის ფავორიტი ბირთვული ენერგეტიკის აქციები, სადაც შესაძლებელია ამჟამად $1,000-ის ინვესტირება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "5763f7bc1b6e7d22",
       "title": "iShares Global Healthcare ETF vs State Street SPDR Biotech ETF. Which Healthcare-Focused Fund Will Bring You Profits in 2026 and Beyond?",
       "source": "Yahoo Finance",
@@ -48,6 +132,30 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNWHFtdmp5YjViZG5sZGNwUGNrYzRZRkdRT2JIR2Q2OU96YTRXZUUwY2dYdkR2UU56d1hLb3c5eThDSS1pNDBYU0h3LXAwZG5lQzJONkM5bi1wUzNHc3FvRnNMUi1MbnljM3RJaTZaUWoyYVJJNG0tRzRweHQ2WVBMN0ZUclo1cUNUeGRCV3JRV3ItRUZha0FqNA?oc=5\" target=\"_blank\">iShares Global Healthcare ETF vs State Street SPDR Biotech ETF. Which Healthcare-Focused Fund Will Bring You Profits in 2026 and Beyond?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "iShares Global Healthcare ETF vs State Street SPDR Biotech ETF: რომელი ჯანდაცვაზე ორიენტირებული ფონდი მოგიტანთ მოგებას 2026 წელს და მის შემდგომ?",
       "summaryKa": "სტატია ერთმანეთს ადარებს iShares Global Healthcare ETF-სა და State Street SPDR Biotech ETF-ს, რათა გაარკვიოს, თუ რომელი ჯანდაცვაზე ორიენტირებული ფონდი მოიტანს მოგებას 2026 წელს და მის შემდგომ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "070afe0a5aa4fa67",
+      "title": "iShares Global Healthcare ETF vs State Street SPDR Biotech ETF. Which Healthcare-Focused Fund Will Bring You Profits in 2026 and Beyond?",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/coverage/etfs/2026/08/08/ishares-global-healthcare-etf-vs-state-street-spdr-biotech-etf-which-healthcare-focused-fund-will-bring-you-profits-in-2026-and-beyond/?.tsrc=rss",
+      "publishedAt": "2026-08-08T16:22:01.000Z",
+      "description": "XBI surged 80% in one year but endured a 54% drawdown, while IXJ delivered steadier gains with half volatility and a 1.4% dividend.",
+      "titleKa": "iShares Global Healthcare ETF-ი State Street SPDR Biotech ETF-ის წინააღმდეგ. რომელი ჯანდაცვაზე ორიენტირებული ფონდი მოგიტანთ მოგებას 2026 წელს და მის შემდეგ?",
+      "summaryKa": "სტატია ადარებს iShares Global Healthcare ETF-სა და State Street SPDR Biotech ETF-ს იმის გასარკვევად, თუ რომელი მათგანი მოუტანს ინვესტორებს მოგებას 2026 წელს და მის შემდგომ პერიოდში.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f8a201f0ffba094e",
+      "title": "A Live Nation Insider's Latest Transaction With Shares Up 22%: Here's What to Know",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/live-nation-insiders-latest-transaction-shares-22-heres-what-know",
+      "publishedAt": "2026-08-08T16:16:19.000Z",
+      "description": "Key PointsThe transaction involved the disposal of 3,970 shares at $181.77 per share, representing a total value of about $722,000.",
+      "titleKa": "Live Nation-ის ინსაიდერის უახლესი ტრანზაქცია, როდესაც აქციები 22%-ითაა გაზრდილი: აი, რა უნდა იცოდეთ",
+      "summaryKa": "სტატია განიხილავს Live Nation-ის ინსაიდერის მიერ განხორციელებულ ბოლო ტრანზაქციას იმ დროს, როდესაც აქციების ფასი 22%-ითაა გაზრდილი.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
@@ -208,6 +316,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "51d78bb8aa7e2609",
+      "title": "Strategy (MSTR) Unveils $15 Billion Bitcoin Backed Preferred Stock Plan",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-unveils-15-billion-130721771.html?.tsrc=rss",
+      "publishedAt": "2026-08-08T13:07:21.000Z",
+      "description": "Strategy Inc. (NasdaqGS:MSTR) announced a US$15b capital raise through a Bitcoin backed preferred stock structure designed using AI. The company plans to use the proceeds to run a capital flywheel that targets higher Bitcoin ownership and equity value. Strategy Inc. also reported Bitcoin sales as part of a broader effort to adjust its crypto exposure while reshaping its capital structure. For readers tracking how listed companies are tying their business models to digital assets, this is...",
+      "titleKa": "Strategy-მ (MSTR) წარადგინა $15 მილიარდიანი, ბიტკოინით უზრუნველყოფილი პრივილეგირებული აქციების გეგმა",
+      "summaryKa": "კომპანია Strategy-მ (MSTR) დააანონსა გეგმა $15 მილიარდის ღირებულების ბიტკოინით უზრუნველყოფილი პრივილეგირებული აქციების გამოშვების შესახებ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "7fd557f0e1224ad5",
       "title": "A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar",
       "source": "Bloomberg.com",
@@ -292,6 +412,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "fcca64c934e863ba",
+      "title": "Hackers Figure Out a Trick to Steal Bitcoin From Cold Wallets, Grab $110 Million",
+      "source": "Yahoo Finance",
+      "url": "https://futurism.com/future-society/hackers-steal-innocent-people-bitcoin?.tsrc=rss",
+      "publishedAt": "2026-08-08T11:30:00.000Z",
+      "description": "\"Between 9:36 and 9:43 pm on July 29th, all three of my wallets were completely drained.\"",
+      "titleKa": "ჰაკერებმა ცივი საფულეებიდან ბიტკოინის მოსაპარად ხრიკი იპოვეს და $110 მილიონი მიითვისეს",
+      "summaryKa": "ჰაკერებმა აღმოაჩინეს ხერხი ცივი საფულეებიდან ბიტკოინების მოსაპარად და ამ გზით $110 მილიონი მოიპარეს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "c02bd33e3efa3c46",
       "title": "Perrigo (PRGO) In Focus As Q2 Earnings Beat Revives The Undervalued Narrative",
       "source": "Yahoo Finance",
@@ -360,6 +492,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeVlJNW82cHNnLUJybHdYMHFlWTBESUs5NVpnRUI2WS1jU29oclY0X2N0dUVjQzh3TnplM2V5Zl9lS3p1Qm1nWHFLMzY1SmNtb3B5R2hYVlY5UHFId1VvVDBDbWVwVEY2Zzd0ck4zc09NRWlSbW9HOW9LZGpZRUlCSzZjazlEQmEwNGo5Tm50MC1nWUJSWE1V?oc=5\" target=\"_blank\">Bitcoin rises toward $65,000 as fresh security risks hit infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "ბიტკოინი 65,000 დოლარისკენ იზრდება, რადგან ინფრასტრუქტურას უსაფრთხოების ახალი რისკები დაატყდა თავს",
       "summaryKa": "ბიტკოინის ფასი 65,000 დოლარის ნიშნულისკენ იზრდება იმ ფონზე, როდესაც ახალმა უსაფრთხოების რისკებმა ინფრასტრუქტურას დაარტყა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f1fb28db57ec0b0b",
+      "title": "Bitcoin rises toward $65,000 as fresh security risks hit infrastructure",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rises-toward-65-000-092116909.html?.tsrc=rss",
+      "publishedAt": "2026-08-08T09:21:16.000Z",
+      "description": "Investing.com -- Bitcoin traded just below $65,000 on Saturday, gaining slightly over the previous 24 hours, as investors assessed a critical BTCPay Server vulnerability and the risk of replay attacks from a possible BIP-110 chain split.",
+      "titleKa": "ბიტკოინი $65,000-ისკენ იზრდება, რადგან ინფრასტრუქტურას უსაფრთხოების ახალი რისკები ემუქრება",
+      "summaryKa": "ბიტკოინის ფასი $65,000-ის ნიშნულისკენ მიიწევს იმ ფონზე, როდესაც ინფრასტრუქტურას უსაფრთხოების ახალი რისკები დაემუქრა.",
       "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
