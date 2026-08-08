@@ -1,5 +1,6 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { createHash } from "node:crypto";
+import { normalizeNewsCategory } from "../src/content-policy.mjs";
 import decoderPackage from "google-news-url-decoder";
 import { Agent } from "undici";
 import {
@@ -135,7 +136,7 @@ const translationSchema = {
           summaryKa: { type: "string" },
           category: {
             type: "string",
-            enum: ["ტექნოლოგიები და AI", "ბაზრები და ეკონომიკა", "კრიპტო"],
+            enum: ["ტექნოლოგიები", "AI", "ბაზრები და ეკონომიკა", "კრიპტო"],
           },
         },
         required: ["id", "titleKa", "summaryKa", "category"],
@@ -306,7 +307,7 @@ async function translateWithGithub(items) {
                   id: "same input id",
                   titleKa: "faithful Georgian headline",
                   summaryKa: "one factual Georgian sentence",
-                  category: "ტექნოლოგიები და AI | ბაზრები და ეკონომიკა | კრიპტო",
+                  category: "one of: ტექნოლოგიები, AI, ბაზრები და ეკონომიკა, კრიპტო",
                 },
               ],
             },
@@ -697,7 +698,10 @@ const refreshedArticles = items
       ...item,
       titleKa: decode(translation.titleKa),
       summaryKa: decode(translation.summaryKa),
-      category: decode(translation.category || "ბაზრები"),
+      category: normalizeNewsCategory(
+        decode(translation.category || "ბაზრები და ეკონომიკა"),
+        `${item.title || ""} ${translation.titleKa || ""} ${translation.summaryKa || ""}`,
+      ),
       translationNotice: "AI-assisted Georgian translation",
     };
   })

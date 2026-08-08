@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "check": "node --check src/worker.mjs && node --check src/news-page.mjs && node --check shared.js && node --check market-chart.js && node scripts/test-asset-search.mjs && node scripts/test-market-chart.mjs && node scripts/test-news-policy.mjs && node scripts/test-news-article.mjs && node scripts/test-georgia-news.mjs",
+    "check": "node --check src/worker.mjs && node --check src/news-page.mjs && node --check src/content-policy.mjs && node --check shared.js && node --check market-chart.js && node scripts/test-asset-search.mjs && node scripts/test-market-chart.mjs && node scripts/test-content-policy.mjs && node scripts/test-news-policy.mjs && node scripts/test-news-article.mjs && node scripts/test-georgia-news.mjs",
     "dev": "wrangler dev",
     "deploy": "wrangler deploy"
   },

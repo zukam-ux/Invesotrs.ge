@@ -3,6 +3,7 @@ import {
   renderNewsArticlePage,
   renderNewsNotFoundPage,
 } from "./news-page.mjs";
+import { normalizeNewsCategory } from "./content-policy.mjs";
 
 const NEWS_FEEDS = [
   {
@@ -421,7 +422,10 @@ async function serveNews(env) {
       source: row.source,
       url: row.url,
       publishedAt: row.published_at,
-      category: row.category,
+      category: normalizeNewsCategory(
+        row.category,
+        `${row.title || ""} ${row.title_ka || ""} ${row.summary_ka || ""}`,
+      ),
       translationNotice: row.translation_notice,
     }))
     .filter(
@@ -567,6 +571,12 @@ async function serveMarketData() {
     ).filter(Boolean);
     crypto = Object.fromEntries(yahooCrypto);
   }
+  const fetchedAt = new Date().toISOString();
+  const cryptoSource = cryptoRows.length
+    ? "CoinGecko"
+    : Object.keys(crypto).length
+      ? "Yahoo Finance"
+      : null;
   return json(
     {
       crypto: {
@@ -579,13 +589,15 @@ async function serveMarketData() {
         eur: byCode("EUR"),
         gbp: byCode("GBP"),
       },
-      fetchedAt: new Date().toISOString(),
+      fetchedAt,
+      asOf: fetchedAt,
+      delay: {
+        crypto: "provider-dependent",
+        fx: "official-daily-reference-rate",
+      },
+      stale: false,
       sources: {
-        crypto: cryptoRows.length
-          ? "CoinGecko"
-          : Object.keys(crypto).length
-            ? "Yahoo Finance"
-            : null,
+        crypto: cryptoSource,
         fx: currencies.length ? "National Bank of Georgia" : null,
       },
       partial: !Object.keys(crypto).length || !currencies.length,
@@ -647,6 +659,8 @@ async function serveQuotes(url) {
       ),
       source: "Yahoo Finance",
       fetchedAt: new Date().toISOString(),
+      delay: "provider-dependent",
+      stale: false,
     },
     {
       headers: {
@@ -745,6 +759,9 @@ async function serveMarketSeries(url) {
         source: "Yahoo Finance",
         delayNotice: "მონაცემები შესაძლოა დაგვიანებული იყოს",
         fetchedAt: new Date().toISOString(),
+        asOf: new Date((meta.regularMarketTime || points.at(-1).timestamp) * 1000).toISOString(),
+        delay: "provider-dependent",
+        stale: false,
       },
       {
         headers: {
