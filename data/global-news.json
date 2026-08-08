@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T23:54:26.637Z",
+  "updatedAt": "2026-08-08T00:40:09.810Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -52,6 +52,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "cb1239830d3d4df4",
+      "title": "We Just Had the Busiest Day for Commercial Air Travel Ever. Here's What It Means for Airline Stocks.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN2FEcGJLSjRWWXc1UlE5V2tBcU9tcDdqNkVGXzdWdlI2N2dXNmZaRDJrS0FXb1AwYkJhWWVaSmxPMVBoTkdaSENid1E5bklseTQ5b3VPV3dPQkxLZHVnc2EyWkFDUmFobV9YMnk0dmpvV0FLbDkwZXRSUWJaOFNlSnVrZ3A1RXBqMGc5NlFEc2hKcXJtbVpzRjhrc1Y?oc=5",
+      "publishedAt": "2026-08-07T21:25:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQN2FEcGJLSjRWWXc1UlE5V2tBcU9tcDdqNkVGXzdWdlI2N2dXNmZaRDJrS0FXb1AwYkJhWWVaSmxPMVBoTkdaSENid1E5bklseTQ5b3VPV3dPQkxLZHVnc2EyWkFDUmFobV9YMnk0dmpvV0FLbDkwZXRSUWJaOFNlSnVrZ3A1RXBqMGc5NlFEc2hKcXJtbVpzRjhrc1Y?oc=5\" target=\"_blank\">We Just Had the Busiest Day for Commercial Air Travel Ever. Here's What It Means for Airline Stocks.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "კომერციული საჰაერო მიმოსვლის ისტორიაში ყველაზე დატვირთული დღე დაფიქსირდა: აი, რას ნიშნავს ეს ავიაკომპანიების აქციებისთვის.",
+      "summaryKa": "კომერციული საჰაერო მიმოსვლის ისტორიაში ყველაზე დატვირთული დღე დაფიქსირდა, რაც გავლენას ახდენს ავიაკომპანიების აქციებზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "ece9b44d25da0a8d",
       "title": "Iran-Linked Crypto Exchange Handled $6.3 Billion, TRM Says",
       "source": "Bloomberg.com",
@@ -73,6 +85,18 @@
       "titleKa": "„ბიტკოინი დირიჟაბლია“: რატომ მიიჩნევს ეს ისტორიკოსი, რომ BTC უფრო წარსულს ჰგავს, ვიდრე მომავალს",
       "summaryKa": "ისტორიკოსის განცხადებით, ბიტკოინი (BTC) დირიჟაბლს ჰგავს და ის უფრო მეტად წარსულის ნაწილია, ვიდრე მომავლის.",
       "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7717374c15e0d60d",
+      "title": "Stock Market Today, Aug. 7: Palantir Surges on Bank of America Upbeat View After Strong Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNjZKUEpEWUVMaHZWa2NZbzlXczBIcWgyTFF0MllsYWZmeFRQTWJST0Z1d2dZTjNiZ1F5QnozbC1STXRKbTFMdm56dFFsVThaT2pwdXJrdzh2RTN0Z2x3MGV4a3dnSEYyaFlqZUx3VjZCVmpkSjRwVDEyWGkxaHVtOTJ6WnduTWw5QU8tdGxtRHladTQ?oc=5",
+      "publishedAt": "2026-08-07T21:05:16.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPNjZKUEpEWUVMaHZWa2NZbzlXczBIcWgyTFF0MllsYWZmeFRQTWJST0Z1d2dZTjNiZ1F5QnozbC1STXRKbTFMdm56dFFsVThaT2pwdXJrdzh2RTN0Z2x3MGV4a3dnSEYyaFlqZUx3VjZCVmpkSjRwVDEyWGkxaHVtOTJ6WnduTWw5QU8tdGxtRHladTQ?oc=5\" target=\"_blank\">Stock Market Today, Aug. 7: Palantir Surges on Bank of America Upbeat View After Strong Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "საფონდო ბირჟა დღეს, 7 აგვისტო: Palantir მკვეთრად იზრდება Bank of America-ს ოპტიმისტური შეფასების ფონზე ძლიერი შემოსავლების შემდეგ",
+      "summaryKa": "7 აგვისტოს საფონდო ბირჟაზე Palantir-ის აქციები მკვეთრად გაიზარდა Bank of America-ს პოზიტიური შეფასების შემდეგ, რომელიც კომპანიის ძლიერ შემოსავლებს მოჰყვა.",
+      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
