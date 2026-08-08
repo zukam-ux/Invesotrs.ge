@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-08T03:56:35.064Z",
+  "updatedAt": "2026-08-08T05:33:19.629Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "7ad4b19b59b950e7",
+      "title": "BP Sale Makes US Investor Germany’s Second-Largest Oil Refiner",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0JwbEpCQWZBM0FybFBvTnVCcTdUakpBbVdHc2cyWUdyNE5mNEdjb2ppQjJuXzU0djVGcVVOVV9FRTB5MGdPOFNKUmxEdldqVkNqaGVpeVQ4NlR1a0MzQnhQa2pQSy05MFNLWjl2Y3VuSW9HTFNkWExGUDdaSlk0VWoyWnVlRkhienNYS2ZjZFBsUnVqeFBRT2RsaFZvTzZFbWJwRmQxVVhBZUFUZUJ1bnoxcw?oc=5",
+      "publishedAt": "2026-08-08T05:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0JwbEpCQWZBM0FybFBvTnVCcTdUakpBbVdHc2cyWUdyNE5mNEdjb2ppQjJuXzU0djVGcVVOVV9FRTB5MGdPOFNKUmxEdldqVkNqaGVpeVQ4NlR1a0MzQnhQa2pQSy05MFNLWjl2Y3VuSW9HTFNkWExGUDdaSlk0VWoyWnVlRkhienNYS2ZjZFBsUnVqeFBRT2RsaFZvTzZFbWJwRmQxVVhBZUFUZUJ1bnoxcw?oc=5\" target=\"_blank\">BP Sale Makes US Investor Germany’s Second-Largest Oil Refiner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "BP-ის გაყიდვა აშშ-ის ინვესტორს გერმანიის სიდიდით მეორე ნავთობგადამამუშავებლად აქცევს",
+      "summaryKa": "BP-ის მიერ განხორციელებული გაყიდვის შედეგად, ამერიკელი ინვესტორი გერმანიის სიდიდით მეორე ნავთობგადამამუშავებელი ხდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "8dea75aa2cb6cc25",
       "title": "Warren Buffett sends a blunt message to stock market investors",
@@ -72,6 +84,18 @@
       "description": "Oil markets remain surprisingly bearish despite ongoing disruptions in the Middle East, with traders betting on a diplomatic breakthrough.",
       "titleKa": "ნავთობის ტრეიდერები კვლავ დაღმავალი ტენდენციის მომხრენი არიან ახლო აღმოსავლეთში შეფერხებების გაღრმავების მიუხედავად",
       "summaryKa": "ახლო აღმოსავლეთში შეფერხებების გაღრმავების მიუხედავად, ნავთობის ტრეიდერები კვლავ პესიმისტურ განწყობას ინარჩუნებენ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "53f18abe06703bc7",
+      "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSl9JNjE5X20yZll4aUJEQ1ItVE9kUjd2bUxWQjA5cGJEcEtRVkVnSC1oUXRwSFhYYi16alhEcERBblFaSjdmc2lGajNvTl9DRGlWNktRcUZ4THBMQk5oQnhEenRQVngtWmEzTDJyNVZKOGxVcnMyanQ2NEVWcXYyNXEzVG52TU9Ra1JXaUlpSDZMRGs?oc=5",
+      "publishedAt": "2026-08-07T23:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNSl9JNjE5X20yZll4aUJEQ1ItVE9kUjd2bUxWQjA5cGJEcEtRVkVnSC1oUXRwSFhYYi16alhEcERBblFaSjdmc2lGajNvTl9DRGlWNktRcUZ4THBMQk5oQnhEenRQVngtWmEzTDJyNVZKOGxVcnMyanQ2NEVWcXYyNXEzVG52TU9Ra1JXaUlpSDZMRGs?oc=5\" target=\"_blank\">Oil Traders Stay Bearish Despite Deepening Middle East Disruptions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ნავთობის ტრეიდერები დათვურ განწყობას ინარჩუნებენ ახლო აღმოსავლეთში შეფერხებების გაღრმავების მიუხედავად",
+      "summaryKa": "ახლო აღმოსავლეთში შეფერხებების გაღრმავების მიუხედავად, ნავთობის ტრეიდერები კვლავ დათვურ განწყობაზე რჩებიან.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
