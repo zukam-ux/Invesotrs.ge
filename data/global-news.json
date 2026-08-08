@@ -1,8 +1,32 @@
 {
-  "updatedAt": "2026-08-08T22:15:17.348Z",
+  "updatedAt": "2026-08-08T22:47:15.103Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "7a8b2cd2c968ab03",
+      "title": "Is Innospec (IOSP) Still Undervalued After Its Q2 Earnings Beat?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWVhSUXl2RVJCSzJ6WGp3aExhemRTTEpPVnRib19qQU1CY196LVFmQkJYWDRRUi11MDlJY3pqVWxqcTdMUHgtb1dUVkZVUnZSR05vbVg4QzFIaThETXRRUG8xMUc1MV9VX1M2TkxWY1BzV00yc0RIOTEtMWFnRklkTE51M0NVNXJLaGxPaDVTb3p4blJXY1ozUGtRcjNsbXpw?oc=5",
+      "publishedAt": "2026-08-08T22:12:29.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOWVhSUXl2RVJCSzJ6WGp3aExhemRTTEpPVnRib19qQU1CY196LVFmQkJYWDRRUi11MDlJY3pqVWxqcTdMUHgtb1dUVkZVUnZSR05vbVg4QzFIaThETXRRUG8xMUc1MV9VX1M2TkxWY1BzV00yc0RIOTEtMWFnRklkTE51M0NVNXJLaGxPaDVTb3p4blJXY1ozUGtRcjNsbXpw?oc=5\" target=\"_blank\">Is Innospec (IOSP) Still Undervalued After Its Q2 Earnings Beat?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "არის თუ არა Innospec (IOSP) კვლავ სათანადოზე დაბლად შეფასებული მე-2 კვარტლის მოგების მაჩვენებლების გადაჭარბების შემდეგ?",
+      "summaryKa": "სტატია განიხილავს, რჩება თუ არა კომპანია Innospec (IOSP) არასათანადოდ შეფასებულად მას შემდეგ, რაც მისმა მეორე კვარტლის მოგებამ მოლოდინებს გადააჭარბა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9ebb3ad9dbf416b4",
+      "title": "Only 2 of These 5 Nuclear Stocks Sell Fuel Today. Here's What the Market Pays for the Other 3.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUzkxcnhldzRPUi1lVFNyd2l2Z2h2MGtCeU8xVGkybVFhYWxuaWFxZl9CTFFDTTNmcm80NGlvRjllNkRxb1ZEZTlaZzJXdllQV09KVmlKZUU0eEFlbzZUMnN4XzM3NmlUUUtuN1ZGUDVoQk1Nc05lOFlJWEo4cWdyTl9QeU9EajhwVVluVTFtM1N2UQ?oc=5",
+      "publishedAt": "2026-08-08T22:07:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUzkxcnhldzRPUi1lVFNyd2l2Z2h2MGtCeU8xVGkybVFhYWxuaWFxZl9CTFFDTTNmcm80NGlvRjllNkRxb1ZEZTlaZzJXdllQV09KVmlKZUU0eEFlbzZUMnN4XzM3NmlUUUtuN1ZGUDVoQk1Nc05lOFlJWEo4cWdyTl9QeU9EajhwVVluVTFtM1N2UQ?oc=5\" target=\"_blank\">Only 2 of These 5 Nuclear Stocks Sell Fuel Today. Here's What the Market Pays for the Other 3.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ამ 5 ბირთვული კომპანიის აქციიდან დღეს საწვავს მხოლოდ 2 ყიდის. აი, რას უხდის ბაზარი დანარჩენ 3-ს.",
+      "summaryKa": "ამ ხუთი ბირთვული კომპანიის აქციიდან საწვავს დღეს მხოლოდ ორი ყიდის, ხოლო სტატია გვიჩვენებს, თუ რას იხდის ბაზარი დანარჩენი სამი კომპანიისთვის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "f65e56afd96613f8",
       "title": "Karman Holdings (KRMN) Could Be 45% Undervalued On Q2 Earnings And Higher Guidance",
