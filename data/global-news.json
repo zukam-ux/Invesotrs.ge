@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-08T10:12:07.492Z",
+  "updatedAt": "2026-08-08T10:48:49.737Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "25d16d83e5c7909b",
+      "title": "Is Sempra (SRE) Undervalued Following Q2 Earnings And Updated 2026 Guidance?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNFZqS1lBVjJ0azQ4bXEybjlRZmZpd2JacDlNWUVTZGVTSmw5U24yQkE0ZnN6SlhlY3VXSkNGczU4bDR5QlVVbUI2YkNTeVotdUtRSE5DVHpfcjFWbWk2S2d3RVBfNzc3eTdhbWVEaGRENk5YSXFIV0Uzak5ZZjgwNFhwTTlJOUdHcjNVelRiREZEazc1Y01XdXNXdDNabHF6MlE?oc=5",
+      "publishedAt": "2026-08-08T10:09:08.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPNFZqS1lBVjJ0azQ4bXEybjlRZmZpd2JacDlNWUVTZGVTSmw5U24yQkE0ZnN6SlhlY3VXSkNGczU4bDR5QlVVbUI2YkNTeVotdUtRSE5DVHpfcjFWbWk2S2d3RVBfNzc3eTdhbWVEaGRENk5YSXFIV0Uzak5ZZjgwNFhwTTlJOUdHcjNVelRiREZEazc1Y01XdXNXdDNabHF6MlE?oc=5\" target=\"_blank\">Is Sempra (SRE) Undervalued Following Q2 Earnings And Updated 2026 Guidance?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "არის თუ არა Sempra (SRE) სათანადოდ შეუფასებელი მე-2 კვარტლის ფინანსური შედეგებისა და 2026 წლის განახლებული პროგნოზის შემდეგ?",
+      "summaryKa": "სტატია სვამს კითხვას, არის თუ არა კომპანია Sempra (SRE) სათანადოდ შეუფასებელი მეორე კვარტლის ფინანსური შედეგებისა და 2026 წლის განახლებული სახელმძღვანელო მითითებების შემდეგ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "ee53809bd77b10be",
       "title": "The Best ETF for the Investor Who Wants to Beat the Market While Barely Lifting a Finger",
@@ -97,6 +109,18 @@
       "titleKa": "AI-ით ვაჭრობის როტაცია: ფული ჩიპებიდან გადის და აქ მიედინება",
       "summaryKa": "ხელოვნური ინტელექტის (AI) სავაჭრო როტაციის პირობებში ფული ჩიპების სექტორიდან სხვა მიმართულებით გადადის.",
       "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "ecaf507c2e5258df",
+      "title": "How Chevron became the AI darling of Big Oil",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3J3YjhEOGpIbHVCQXFYOURyVnJLWTdVRTFWbnAxbzI0MHhNRGJOS1gwLTBQVlc0cUF3ZFQ2Zl9lV05ILU8zRjJFMElCQ0lqRW12T0xJd1JnN1BUblJfRGdYTWtNS3ZIN3E5X2d6S1hEV0hUUTZkelluQkE0UVptUTdrYkJIRHVtX1Q5OUlVY1ZtbTY5ZTBYYQ?oc=5",
+      "publishedAt": "2026-08-08T07:11:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3J3YjhEOGpIbHVCQXFYOURyVnJLWTdVRTFWbnAxbzI0MHhNRGJOS1gwLTBQVlc0cUF3ZFQ2Zl9lV05ILU8zRjJFMElCQ0lqRW12T0xJd1JnN1BUblJfRGdYTWtNS3ZIN3E5X2d6S1hEV0hUUTZkelluQkE0UVptUTdrYkJIRHVtX1Q5OUlVY1ZtbTY5ZTBYYQ?oc=5\" target=\"_blank\">How Chevron became the AI darling of Big Oil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "როგორ გახდა Chevron მსხვილი ნავთობკომპანიების (Big Oil) AI ფავორიტი",
+      "summaryKa": "სტატია აღწერს, თუ როგორ იქცა Chevron ხელოვნური ინტელექტის (AI) ფავორიტად მსხვილ ნავთობკომპანიებს (Big Oil) შორის.",
+      "category": "AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
