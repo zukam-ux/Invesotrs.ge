@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-08T16:17:07.531Z",
+  "updatedAt": "2026-08-08T16:58:52.998Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "076850abaf1015fa",
+      "title": "Even Without Alphabet and Amazon, the S&P 500 Just Posted Its Biggest Earnings Beat Ever",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFcxSWVHeUs5LXFma0l4SkZLLUxSaWFYenQ4S2ZJYXZtMG93Y0taVXFWdVBoYUE0X2JZZl9HUG1RUWYtbkJRaE5PSm9ocUxjY2JlenVTMEV1Y1JIZnlZYVFmVm5HdEZEbEJtT2J3eGU2eE9Hb0RHUGowUEhNeU84bmxVSW1QX2lNREVnNDVzRWNVd196QVlsWkdhTQ?oc=5",
+      "publishedAt": "2026-08-08T16:38:43.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFcxSWVHeUs5LXFma0l4SkZLLUxSaWFYenQ4S2ZJYXZtMG93Y0taVXFWdVBoYUE0X2JZZl9HUG1RUWYtbkJRaE5PSm9ocUxjY2JlenVTMEV1Y1JIZnlZYVFmVm5HdEZEbEJtT2J3eGU2eE9Hb0RHUGowUEhNeU84bmxVSW1QX2lNREVnNDVzRWNVd196QVlsWkdhTQ?oc=5\" target=\"_blank\">Even Without Alphabet and Amazon, the S&P 500 Just Posted Its Biggest Earnings Beat Ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Alphabet-ისა და Amazon-ის გარეშეც კი, S&P 500-მა ახლახან ისტორიაში მოგების ყველაზე დიდი გადაჭარბება დააფიქსირა",
+      "summaryKa": "S&P 500-მა Alphabet-ისა და Amazon-ის გარეშეც კი დააფიქსირა თავის ისტორიაში მოგების ყველაზე დიდი გადაჭარბება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "8cdcb7d33089db66",
       "title": "Jamie Dimon's JPMorgan Sees Gold Reaching $5,000 an Ounce by Q4, a Bullish Case for Investors Seeking a Hedge",
@@ -73,6 +85,18 @@
       "titleKa": "ყველა ხელოვნური ინტელექტის მონაცემთა ცენტრების აქციებს მისდევს. ეს 5%-იანი შემოსავლიანობის მქონე დივიდენდური აქცია უკვე ფლობს წილს ამ ბუმში",
       "summaryKa": "მიუხედავად იმისა, რომ ყველა ხელოვნური ინტელექტის მონაცემთა ცენტრების აქციებს ეძებს, ეს 5%-იანი დივიდენდის მქონე აქცია უკვე მონაწილეობს აღნიშნულ ბუმში.",
       "category": "AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4ca6be76ebe3cc62",
+      "title": "Greenland Has Never Produced a Barrel of Oil. Now a Texas Company Is Betting Billions on What Lies Beneath the Ice",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWlucDRKNV9Ia0NkcnNVVERnUUlVWUxuNk5acVlzZTBTT2ozai1ac3R2MUwyemRibi00Q194eE4yVlIwNGJxdkZwVXhxb0xDcGc4TUhKLWhGYjdGbEVMZE5hZU1QNGVIM3B4RHBSV0hHSnhpRlVxZEdXRGM3RlpJdEdKME90WHJOMHpwSU16NnIxNENDM3Bn?oc=5",
+      "publishedAt": "2026-08-08T13:47:51.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWlucDRKNV9Ia0NkcnNVVERnUUlVWUxuNk5acVlzZTBTT2ozai1ac3R2MUwyemRibi00Q194eE4yVlIwNGJxdkZwVXhxb0xDcGc4TUhKLWhGYjdGbEVMZE5hZU1QNGVIM3B4RHBSV0hHSnhpRlVxZEdXRGM3RlpJdEdKME90WHJOMHpwSU16NnIxNENDM3Bn?oc=5\" target=\"_blank\">Greenland Has Never Produced a Barrel of Oil. Now a Texas Company Is Betting Billions on What Lies Beneath the Ice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "გრენლანდიას არასოდეს უწარმოებია არცერთი ბარელი ნავთობი, ახლა კი ტეხასური კომპანია მილიარდებს დებს იმაზე, რაც ყინულის ქვეშ იმალება",
+      "summaryKa": "გრენლანდიას არასოდეს უწარმოებია არცერთი ბარელი ნავთობი, თუმცა ახლა ტეხასური კომპანია მილიარდობით დოლარის ფსონს ჩამოდის იმაზე, რაც ყინულის ქვეშ იმალება.",
+      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
