@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T15:17:20.411Z",
+  "updatedAt": "2026-08-08T15:52:57.554Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -12,6 +12,30 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQTks4Tm54aVcwMUNLb1NSam1kUExyR0gxQmRZRkhFa2VHenJjNzF3RW5EejB4cFZ0UGk3RmlpckxORnlidk9aNVNlZGtHaHUwTFU4czNkQ0NtTXhPZVRuY3hOdnhSRHJKWTQyN2pFTWxWQWt1VG16RXliNFJvcFE3ZEZoWjliVEdxRjQtbDVSOFZocWZma3VmYmI2d1p6S2FjenhCemgzc1AwM01kbU1uTDF3?oc=5\" target=\"_blank\">Rates and Inflation Upend SVP’s Distressed German Playbook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "საპროცენტო განაკვეთები და ინფლაცია SVP-ის პრობლემური აქტივების გერმანულ სტრატეგიას თავდაყირა აყენებს",
       "summaryKa": "საპროცენტო განაკვეთების ზრდა და ინფლაცია SVP-ის პრობლემური აქტივების მართვის გერმანულ სტრატეგიას მნიშვნელოვნად ცვლის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "0c1b8338cb2d44bb",
+      "title": "Google's AI claimed Flock cameras hold $650 in gold and 23 pounds of copper — It was duped by meme",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUo5Q2NEVFpEcThhNC1yQzdEbkRlWW1TOVA4MUZmaFZlRFkzdU5Hb2I0NjR4RWp5YmVzb21KZWtKV3dHRVFJcDNLMHVuZVEySDE3UHFzN0J3a21Xck03cGpUbmpyS1RJSWo0NnBycFF6ZVBhaWUtYTM3TENnaEt5WUlHMWNfSEVyTGZkWVhVSzM5dExYUVJVOXNUOTM?oc=5",
+      "publishedAt": "2026-08-08T15:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUo5Q2NEVFpEcThhNC1yQzdEbkRlWW1TOVA4MUZmaFZlRFkzdU5Hb2I0NjR4RWp5YmVzb21KZWtKV3dHRVFJcDNLMHVuZVEySDE3UHFzN0J3a21Xck03cGpUbmpyS1RJSWo0NnBycFF6ZVBhaWUtYTM3TENnaEt5WUlHMWNfSEVyTGZkWVhVSzM5dExYUVJVOXNUOTM?oc=5\" target=\"_blank\">Google's AI claimed Flock cameras hold $650 in gold and 23 pounds of copper — It was duped by meme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Google-ის AI ამტკიცებდა, რომ Flock-ის კამერები შეიცავს $650-ის ოქროსა და 23 ფუნტ სპილენძს — ის მემმა მოატყუა",
+      "summaryKa": "Google-ის ხელოვნურმა ინტელექტმა, რომელიც ინტერნეტში გავრცელებულმა მემმა მოატყუა, განაცხადა, რომ Flock-ის კამერები $650-ის ღირებულების ოქროსა და 23 ფუნტ სპილენძს შეიცავს.",
+      "category": "AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "35b5e96759a3028b",
+      "title": "SocGen Raises S&P 500 Target to 8,000 as Earnings Momentum Spreads",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX1NqcHlfRkg2SFVDdEs3SlVxSmQ5VlFRZnFvU3NlQWNNU2kwTmo2ZU00RlJDdlYzWk1ReGdpTE1oM0tXQ1JUYURScjJvTFprTGNxTnFkSjh1cl9XcWhtd0h2NTdJUkdRYzZVb0diNnVmWURfN0FqOF9aLVZzUWJuYkUzcTJXSVdqR3JJeXlqLWhFQlREZ0E?oc=5",
+      "publishedAt": "2026-08-08T14:34:04.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPX1NqcHlfRkg2SFVDdEs3SlVxSmQ5VlFRZnFvU3NlQWNNU2kwTmo2ZU00RlJDdlYzWk1ReGdpTE1oM0tXQ1JUYURScjJvTFprTGNxTnFkSjh1cl9XcWhtd0h2NTdJUkdRYzZVb0diNnVmWURfN0FqOF9aLVZzUWJuYkUzcTJXSVdqR3JJeXlqLWhFQlREZ0E?oc=5\" target=\"_blank\">SocGen Raises S&P 500 Target to 8,000 as Earnings Momentum Spreads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "SocGen-ი S&P 500-ის სამიზნე მაჩვენებელს 8,000-მდე ზრდის, რადგან მოგების ზრდის ტემპი ვრცელდება",
+      "summaryKa": "SocGen-მა S&P 500-ის სამიზნე ნიშნული 8,000-მდე გაზარდა, რაც მოგების ზრდის ტემპის ფართოდ გავრცელებით არის განპირობებული.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
