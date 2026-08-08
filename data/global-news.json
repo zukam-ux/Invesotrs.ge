@@ -1,8 +1,32 @@
 {
-  "updatedAt": "2026-08-08T22:47:15.103Z",
+  "updatedAt": "2026-08-08T23:16:00.627Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "9b527641a9d52373",
+      "title": "Jackson Financial (JXN) Stock Looks Fully Priced With Strong Returns But Rich Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcG1lT0ZEVWJjclpIbUxtNDBVZjNPNjRBaFdheHZ3NHk3QnFRZXMwS04zb0tLMGN0U2NIZE96bW0wbHlidkNaX244SnlfUU5rUm96U2E0dFFfb1ZwQmpsMUpuLTZyNHRXRS12eUdqdDBrSlJfaXZMTm5NdmN6ZWRpdkhPb21JaUFZQmtDbzBiMF8zTW1vTE9kYlBoZWZfMFk?oc=5",
+      "publishedAt": "2026-08-08T22:13:20.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQcG1lT0ZEVWJjclpIbUxtNDBVZjNPNjRBaFdheHZ3NHk3QnFRZXMwS04zb0tLMGN0U2NIZE96bW0wbHlidkNaX244SnlfUU5rUm96U2E0dFFfb1ZwQmpsMUpuLTZyNHRXRS12eUdqdDBrSlJfaXZMTm5NdmN6ZWRpdkhPb21JaUFZQmtDbzBiMF8zTW1vTE9kYlBoZWZfMFk?oc=5\" target=\"_blank\">Jackson Financial (JXN) Stock Looks Fully Priced With Strong Returns But Rich Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Jackson Financial (JXN) აქციები სრულად შეფასებული ჩანს ძლიერი უკუგებით, თუმცა მაღალი მოგებით",
+      "summaryKa": "Jackson Financial (JXN) აქციები სრულად შეფასებული ჩანს ძლიერი უკუგებით, თუმცა მაღალი მოგების ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d6d9d6fe8ef5d484",
+      "title": "TJX (TJX) Stock Looks Rich As Earnings Expectations Do The Heavy Lifting",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM3FUVDc5bXJ1OUVFUTVCdXFYWDZSMDJtSDc1aXdpSkd3WXFaYy1WOENTZXdObDl0VnA1UERPN2RRbC12UEhLbEJiWEtVcEN5c1FBNFdkNkxTdWRoU3RJLTMyN1J1UVQ4cFFzeHYzVFdSOUkzSkgtMUJLanNkNzhndFpFUGRmUTVXdXdtS0dMN0NPSUU?oc=5",
+      "publishedAt": "2026-08-08T22:12:45.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQM3FUVDc5bXJ1OUVFUTVCdXFYWDZSMDJtSDc1aXdpSkd3WXFaYy1WOENTZXdObDl0VnA1UERPN2RRbC12UEhLbEJiWEtVcEN5c1FBNFdkNkxTdWRoU3RJLTMyN1J1UVQ4cFFzeHYzVFdSOUkzSkgtMUJLanNkNzhndFpFUGRmUTVXdXdtS0dMN0NPSUU?oc=5\" target=\"_blank\">TJX (TJX) Stock Looks Rich As Earnings Expectations Do The Heavy Lifting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "TJX (TJX) აქციები ძვირად შეფასებული ჩანს, რადგან მოგების მოლოდინები ძირითად სამუშაოს ასრულებს",
+      "summaryKa": "TJX (TJX) აქციები ძვირად შეფასებული ჩანს, რადგან მოლოდინები მოგების შესახებ ძირითად სამუშაოს ასრულებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "7a8b2cd2c968ab03",
       "title": "Is Innospec (IOSP) Still Undervalued After Its Q2 Earnings Beat?",
