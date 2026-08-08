@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-08T15:52:57.554Z",
+  "updatedAt": "2026-08-08T16:17:07.531Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "8cdcb7d33089db66",
+      "title": "Jamie Dimon's JPMorgan Sees Gold Reaching $5,000 an Ounce by Q4, a Bullish Case for Investors Seeking a Hedge",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN2ptVG1hT3FqTDlFNlo2MVRtYnBBdXB5TjM5NE5pWXRaSWpMQmJBakdlY0o5N1p5TDBFM212SmV5dWNNZUoxNWtwQXZKemJIYXA0cmFaUUFNUUJCckJMOEY2VW4talVsMFVVNk9RaUtJSHdkUGdpd1NlM3hkTnU0cXpabTl2R1RzdHpHX3o4S0otcTdSYWd6Rm8xYmYxMVQ3ZTRN?oc=5",
+      "publishedAt": "2026-08-08T15:35:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNN2ptVG1hT3FqTDlFNlo2MVRtYnBBdXB5TjM5NE5pWXRaSWpMQmJBakdlY0o5N1p5TDBFM212SmV5dWNNZUoxNWtwQXZKemJIYXA0cmFaUUFNUUJCckJMOEY2VW4talVsMFVVNk9RaUtJSHdkUGdpd1NlM3hkTnU0cXpabTl2R1RzdHpHX3o4S0otcTdSYWd6Rm8xYmYxMVQ3ZTRN?oc=5\" target=\"_blank\">Jamie Dimon's JPMorgan Sees Gold Reaching $5,000 an Ounce by Q4, a Bullish Case for Investors Seeking a Hedge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ჯეიმი დიმონის JPMorgan ვარაუდობს, რომ მეოთხე კვარტალში ოქროს ფასი უნციაზე 5,000 დოლარს მიაღწევს, რაც ოპტიმისტური სცენარია ჰეჯირების მაძიებელი ინვესტორებისთვის",
+      "summaryKa": "ჯეიმი დიმონის JPMorgan-ის პროგნოზით, ოქროს ფასი მეოთხე კვარტალში შესაძლოა უნციაზე 5,000 აშშ დოლარამდე გაიზარდოს, რაც ოპტიმისტურ შესაძლებლობას წარმოადგენს ჰეჯირების მაძიებელი ინვესტორებისთვის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "f6c4385bdbf27cbc",
       "title": "Rates and Inflation Upend SVP’s Distressed German Playbook",
