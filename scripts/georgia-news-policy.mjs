@@ -7,7 +7,7 @@ export const GEORGIAN_NEWS_SOURCES = new Set([
   "Entrepreneur.ge",
   "Marketer.ge",
 ]);
-export const GEORGIAN_NEWS_KEYWORDS = /ინვესტიციები|ობლიგაციები|ფასიანი\s+ქაღალდები|კაპიტალის\s+ბაზარი|მონეტარული\s+პოლიტიკა|საპროცენტო\s+განაკვეთი|ინფლაცია|დეპოზიტები|სახაზინო|აუქციონი|პენსი|პირდაპირი\s+უცხოური\s+ინვესტიცი|investment|bond|securit|capital\s+market|monetary\s+policy|interest\s+rate|inflation|deposit|treasury|auction|pension|FDI/i;
+export const GEORGIAN_NEWS_KEYWORDS = /ბირჟაზე|ბაზარი|ინვესტიციები|ინვესტიცია|ობლიგაციები/i;
 
 export function normalizeGeorgianSource(source = "", url = "") {
   const value = `${source} ${url}`.toLowerCase();
@@ -23,8 +23,8 @@ export function normalizeGeorgianSource(source = "", url = "") {
 
 export function isEligibleGeorgianStory(article = {}) {
   const source = normalizeGeorgianSource(article.source, article.url);
-  const searchable = `${article.title || ""} ${article.description || ""}`;
-  return GEORGIAN_NEWS_SOURCES.has(source) && GEORGIAN_NEWS_KEYWORDS.test(searchable);
+  const title = String(article.title || "");
+  return GEORGIAN_NEWS_SOURCES.has(source) && GEORGIAN_NEWS_KEYWORDS.test(title);
 }
 
 export function georgianSummary(article = {}) {
