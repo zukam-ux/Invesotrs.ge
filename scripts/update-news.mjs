@@ -53,6 +53,22 @@ const GEORGIAN_FEEDS = ["bm.ge", "entrepreneur.com/ka"].map((domain) => ({
   })}`,
   source: domain === "bm.ge" ? "BM.GE" : "Entrepreneur.ge",
 }));
+for (const [domain, source] of [
+  ["nbg.gov.ge", "National Bank of Georgia"],
+  ["gse.ge", "Georgian Stock Exchange"],
+  ["mof.ge", "Ministry of Finance of Georgia"],
+  ["geostat.ge", "GeoStat"],
+]) {
+  GEORGIAN_FEEDS.push({
+    url: `https://news.google.com/rss/search?${new URLSearchParams({
+      q: `site:${domain} (${georgianQuery})`,
+      hl: "ka",
+      gl: "GE",
+      ceid: "GE:ka",
+    })}`,
+    source,
+  });
+}
 GEORGIAN_FEEDS.push({
   url: "https://www.marketer.ge/feed/",
   source: "Marketer.ge",

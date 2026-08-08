@@ -38,6 +38,10 @@ const trustedSources = new Set([
   "Bloomberg",
   "Bloomberg.com",
   "MarketWatch",
+  "National Bank of Georgia",
+  "Georgian Stock Exchange",
+  "Ministry of Finance of Georgia",
+  "GeoStat",
   "BM.GE",
   "Entrepreneur.ge",
   "Marketer.ge",
@@ -324,8 +328,8 @@ async function syncPublishedNews(env) {
     articles.map((article) =>
       env.DB.prepare(
         `INSERT INTO articles
-        (id, title, title_ka, summary_ka, source, url, published_at, category, body_ka, source_url)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        (id, title, title_ka, summary_ka, source, url, published_at, category, body_ka, source_url, editorial_status)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CASE WHEN ? = 'საქართველო' THEN 'pending' ELSE 'published' END)
         ON CONFLICT(id) DO UPDATE SET
           title = excluded.title,
           title_ka = excluded.title_ka,
@@ -350,6 +354,7 @@ async function syncPublishedNews(env) {
         article.category || "ბაზრები",
         article.bodyKa || null,
         article.sourceUrl || null,
+        normalizeNewsCategory(article.category, `${article.title || ""} ${article.titleKa || ""}`),
       ),
     ),
   );
@@ -405,12 +410,78 @@ async function ingestNews(request, env) {
   return json({ imported: articles.length });
 }
 
+function isEditoriallyPublishedSql() {
+  return "(category != 'საქართველო' OR editorial_status = 'published')";
+}
+
+function hasEditorialAuthorization(request, env) {
+  const authorization = request.headers.get("authorization") || "";
+  return Boolean(env.NEWS_INGEST_TOKEN && authorization === `Bearer ${env.NEWS_INGEST_TOKEN}`);
+}
+
+async function listPendingEditorialReviews(request, env) {
+  if (!hasEditorialAuthorization(request, env)) {
+    return json({ error: "Unauthorized" }, { status: 401, headers: { "cache-control": "no-store" } });
+  }
+  const result = await env.DB.prepare(
+    `SELECT id, title, title_ka, summary_ka, source, url, source_url, published_at,
+            category, editorial_status, revision
+     FROM articles
+     WHERE category = 'საქართველო' AND editorial_status = 'pending'
+     ORDER BY published_at DESC
+     LIMIT 100`,
+  ).all();
+  return json(
+    { reviewerRole: "Investors.ge Editor", count: result.results.length, articles: result.results },
+    { headers: { "cache-control": "no-store" } },
+  );
+}
+
+async function reviewGeorgianArticle(request, env) {
+  if (!hasEditorialAuthorization(request, env)) {
+    return json({ error: "Unauthorized" }, { status: 401, headers: { "cache-control": "no-store" } });
+  }
+  const payload = await request.json().catch(() => ({}));
+  const articleId = String(payload.articleId || "").trim();
+  const action = String(payload.action || "").trim().toLowerCase();
+  if (!/^[a-f0-9]{16}$/i.test(articleId) || !["approve", "reject"].includes(action)) {
+    return json({ error: "Valid articleId and approve/reject action required" }, { status: 400 });
+  }
+  const article = await env.DB.prepare(
+    `SELECT id, category, editorial_status, revision
+     FROM articles WHERE id = ? LIMIT 1`,
+  ).bind(articleId).first();
+  if (!article || normalizeNewsCategory(article.category) !== "საქართველო") {
+    return json({ error: "Georgian article not found" }, { status: 404 });
+  }
+  const editorialStatus = action === "approve" ? "published" : "rejected";
+  const auditAction = action === "approve" ? "approved" : "rejected";
+  const reviewedAt = new Date().toISOString();
+  const nextRevision = Number(article.revision || 1) + 1;
+  await env.DB.batch([
+    env.DB.prepare(
+      `UPDATE articles
+       SET editorial_status = ?, reviewed_by = 'Investors.ge Editor', reviewed_at = ?, revision = ?
+       WHERE id = ?`,
+    ).bind(editorialStatus, reviewedAt, nextRevision, articleId),
+    env.DB.prepare(
+      `INSERT INTO editorial_reviews (article_id, action, reviewer_role, reviewed_at, revision)
+       VALUES (?, ?, 'Investors.ge Editor', ?, ?)`,
+    ).bind(articleId, auditAction, reviewedAt, nextRevision),
+  ]);
+  return json(
+    { articleId, status: editorialStatus, reviewerRole: "Investors.ge Editor", reviewedAt, revision: nextRevision },
+    { headers: { "cache-control": "no-store" } },
+  );
+}
+
 async function serveNews(env) {
   const result = await env.DB.prepare(
     `SELECT id, title, title_ka, summary_ka, source, url,
             published_at, category, translation_notice
      FROM articles
-     WHERE source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch', 'BM.GE', 'Entrepreneur.ge', 'Marketer.ge')
+     WHERE source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch', 'National Bank of Georgia', 'Georgian Stock Exchange', 'Ministry of Finance of Georgia', 'GeoStat', 'BM.GE', 'Entrepreneur.ge', 'Marketer.ge')
+       AND ${isEditoriallyPublishedSql()}
      ORDER BY published_at DESC LIMIT 2000`,
   ).all();
   const articles = result.results
@@ -455,7 +526,9 @@ async function serveStatus(env) {
   const checkedAt = new Date();
   try {
     const news = await env.DB.prepare(
-      "SELECT COUNT(*) AS article_count, MAX(published_at) AS latest_published_at FROM articles",
+      `SELECT COUNT(*) AS article_count, MAX(published_at) AS latest_published_at,
+              SUM(CASE WHEN category = 'საქართველო' AND editorial_status = 'pending' THEN 1 ELSE 0 END) AS pending_georgian_count
+       FROM articles WHERE ${isEditoriallyPublishedSql()}`,
     ).first();
     const latestPublishedAt = news?.latest_published_at || null;
     const newsAgeMinutes = latestPublishedAt
@@ -475,6 +548,7 @@ async function serveStatus(env) {
             ageMinutes: newsAgeMinutes,
             articleCount: Number(news?.article_count || 0),
             freshnessTargetMinutes: 240,
+            pendingGeorgianReviewCount: Number(news?.pending_georgian_count || 0),
           },
         },
       },
@@ -498,7 +572,8 @@ async function serveNewsArticle(request, env, articleId) {
             published_at, category, translation_notice
      FROM articles
      WHERE id = ?
-       AND source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch', 'BM.GE', 'Entrepreneur.ge', 'Marketer.ge')
+       AND source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch', 'National Bank of Georgia', 'Georgian Stock Exchange', 'Ministry of Finance of Georgia', 'GeoStat', 'BM.GE', 'Entrepreneur.ge', 'Marketer.ge')
+       AND ${isEditoriallyPublishedSql()}
      LIMIT 1`,
   )
     .bind(articleId)
@@ -523,7 +598,8 @@ async function serveNewsArticle(request, env, articleId) {
      FROM articles
      WHERE id != ?
        AND category = ?
-       AND source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch', 'BM.GE', 'Entrepreneur.ge', 'Marketer.ge')
+       AND source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch', 'National Bank of Georgia', 'Georgian Stock Exchange', 'Ministry of Finance of Georgia', 'GeoStat', 'BM.GE', 'Entrepreneur.ge', 'Marketer.ge')
+       AND ${isEditoriallyPublishedSql()}
      ORDER BY published_at DESC
      LIMIT 3`,
   )
@@ -827,6 +903,12 @@ export default {
     const url = new URL(request.url);
     if (url.pathname === "/api/news-ingest" && request.method === "POST") {
       return ingestNews(request, env);
+    }
+    if (url.pathname === "/api/editorial/pending" && request.method === "GET") {
+      return listPendingEditorialReviews(request, env);
+    }
+    if (url.pathname === "/api/editorial/review" && request.method === "POST") {
+      return reviewGeorgianArticle(request, env);
     }
     if (url.pathname === "/data/global-news.json") return serveNews(env);
     if (url.pathname === "/api/market-data") return serveMarketData();
