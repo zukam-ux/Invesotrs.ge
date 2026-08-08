@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:28:55.096Z",
+  "updatedAt": "2026-08-08T21:53:38.006Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -133,6 +133,18 @@
       "titleKa": "Alphabet-ისა და Amazon-ის გარეშეც კი, S&P 500-მა ახლახან დააფიქსირა მოგების ყველაზე დიდი გადაჭარბება ისტორიაში",
       "summaryKa": "Alphabet-ისა და Amazon-ის მონაცემების გარეშეც, S&P 500-ის ინდექსმა მოგების პროგნოზებს ისტორიაში ყველაზე დიდი მაჩვენებლით გადააჭარბა.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3dab256e916e18c0",
+      "title": "Bitcoin Price Forecast: Key Resistance Breakout Possible as ETF Inflows Spike",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbllCNmRyc0N5ejg3dmFLTE55SDVuYTY1RHpOcHBBNGh6THYweGRhWlRlUGgyd2g4WkdnYUVDVEsyR0RoSVNyUzNTalVVbDJyZ1hXNkFTXzhZS2g3NTg0V1BBSkpUMmt2eGJLWHBuWDVGTkxkTHd2eG5Tb0k3MzVfelZxR2Mtcm9ra3FNS19Yb1FSNHZ2RWlVRVNYMHpnbVJvNTZpbg?oc=5",
+      "publishedAt": "2026-08-08T16:30:02.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQbllCNmRyc0N5ejg3dmFLTE55SDVuYTY1RHpOcHBBNGh6THYweGRhWlRlUGgyd2g4WkdnYUVDVEsyR0RoSVNyUzNTalVVbDJyZ1hXNkFTXzhZS2g3NTg0V1BBSkpUMmt2eGJLWHBuWDVGTkxkTHd2eG5Tb0k3MzVfelZxR2Mtcm9ra3FNS19Yb1FSNHZ2RWlVRVNYMHpnbVJvNTZpbg?oc=5\" target=\"_blank\">Bitcoin Price Forecast: Key Resistance Breakout Possible as ETF Inflows Spike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ბიტკოინის ფასის პროგნოზი: ETF-ებში შემოდინებების მკვეთრი ზრდის ფონზე საკვანძო წინააღმდეგობის გარღვევაა შესაძლებელი",
+      "summaryKa": "ბიტკოინის ფასის პროგნოზის თანახმად, ETF-ებში სახსრების შემოდინების მკვეთრი ზრდის ფონზე შესაძლებელია საკვანძო წინააღმდეგობის დონის გარღვევა.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
