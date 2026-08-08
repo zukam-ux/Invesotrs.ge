@@ -922,6 +922,12 @@ async function fetchQuote(symbol) {
       currency: meta.currency || null,
       changePercent: ((price - previousClose) / previousClose) * 100,
       marketTime: meta.regularMarketTime || null,
+      open: Number.isFinite(Number(meta.regularMarketOpen)) ? Number(meta.regularMarketOpen) : null,
+      dayHigh: Number.isFinite(Number(meta.regularMarketDayHigh)) ? Number(meta.regularMarketDayHigh) : null,
+      dayLow: Number.isFinite(Number(meta.regularMarketDayLow)) ? Number(meta.regularMarketDayLow) : null,
+      previousClose,
+      exchange: meta.fullExchangeName || meta.exchangeName || null,
+      marketState: meta.marketState || null,
     };
   } catch {
     return null;
@@ -997,6 +1003,34 @@ async function serveCompanyPage(request, env, rawSymbol) {
     return new Response(renderCompanyPage(company), { headers: { "content-type": "text/html; charset=utf-8", "cache-control": "public, max-age=60, s-maxage=900, stale-while-revalidate=86400", "x-content-type-options": "nosniff" } });
   } catch {
     return new Response(renderCompanyNotFound(symbol), { status: 503, headers: { "content-type": "text/html; charset=utf-8", "cache-control": "no-store" } });
+  }
+}
+
+const COMPANY_SERIES_RANGES = {
+  "1d": { range: "1d", interval: "5m" },
+  "1m": { range: "1mo", interval: "1d" },
+  "6m": { range: "6mo", interval: "1d" },
+  "1y": { range: "1y", interval: "1d" },
+  "5y": { range: "5y", interval: "1wk" },
+};
+
+async function serveCompanySeries(request, env, url) {
+  const symbol = normalizeStockSymbol(url.searchParams.get("symbol"));
+  const range = url.searchParams.get("range") || "1y";
+  const selection = COMPANY_SERIES_RANGES[range];
+  if (!symbol || !selection) return json({ error: "INVALID_SERIES_REQUEST" }, { status: 400 });
+  if (!(await loadSecurityAsset(request, env, symbol))) return json({ error: "COMPANY_NOT_FOUND" }, { status: 404 });
+  try {
+    const payload = await fetchJson(`${YAHOO_CHART_URL}${encodeURIComponent(symbol)}?interval=${selection.interval}&range=${selection.range}&events=div%2Csplits`, 8000, { "user-agent": "Investors.ge company chart/1.0" });
+    const result = payload.chart?.result?.[0];
+    const closes = result?.indicators?.quote?.[0]?.close || [];
+    const points = (result?.timestamp || []).map((timestamp, index) => ({ timestamp: Number(timestamp), close: Number(closes[index]) })).filter(point => Number.isFinite(point.timestamp) && Number.isFinite(point.close));
+    if (points.length < 2) throw new Error("Insufficient series");
+    const dividends = Object.values(result?.events?.dividends || {}).map(event => ({ type: "dividend", timestamp: event.date, amount: Number(event.amount) }));
+    const splits = Object.values(result?.events?.splits || {}).map(event => ({ type: "split", timestamp: event.date, numerator: Number(event.numerator), denominator: Number(event.denominator) }));
+    return json({ symbol, range, currency: result.meta?.currency || "USD", points, events: [...dividends, ...splits].sort((a, b) => a.timestamp - b.timestamp), source: "Yahoo Finance", delay: "provider-dependent", fetchedAt: new Date().toISOString() }, { headers: { "cache-control": "public, max-age=60, s-maxage=300, stale-while-revalidate=3600" } });
+  } catch {
+    return json({ error: "COMPANY_SERIES_UNAVAILABLE" }, { status: 503, headers: { "cache-control": "no-store" } });
   }
 }
 
@@ -1140,6 +1174,7 @@ export default {
     if (url.pathname === "/api/status") return serveStatus(env);
     if (url.pathname === "/api/asset-search") return serveAssetSearch(url);
     if (url.pathname === "/api/company" && request.method === "GET") return serveCompanyApi(request, env, url);
+    if (url.pathname === "/api/company-series" && request.method === "GET") return serveCompanySeries(request, env, url);
     if (url.pathname === "/api/news-quotes") return serveQuotes(url);
     const companyMatch = url.pathname.match(/^\/stocks\/([A-Za-z0-9.-]{1,15})\/?$/);
     if (companyMatch && request.method === "GET") return serveCompanyPage(request, env, companyMatch[1]);
