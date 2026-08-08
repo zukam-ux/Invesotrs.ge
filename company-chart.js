@@ -1,43 +1,7 @@
-export function chartGeometry(points, width = 900, height = 300, pad = 28) {
-  const values = points.map(point => Number(point.close)).filter(Number.isFinite);
-  if (values.length < 2) return null;
-  const min = Math.min(...values), max = Math.max(...values), span = max - min || 1;
-  const x = index => pad + index * (width - pad * 2) / (values.length - 1);
-  const y = value => pad + (max - value) * (height - pad * 2) / span;
-  const line = values.map((value, index) => `${index ? "L" : "M"}${x(index).toFixed(1)},${y(value).toFixed(1)}`).join(" ");
-  return { line, area: `${line} L${x(values.length - 1).toFixed(1)},${height - pad} L${pad},${height - pad} Z`, min, max };
-}
-
-const money = (value, currency = "USD") => new Intl.NumberFormat("en-US", { style: "currency", currency, maximumFractionDigits: 2 }).format(value);
-
-export async function loadCompanyChart(root, range = "1y") {
-  const symbol = root.dataset.symbol;
-  const state = root.querySelector("[data-company-chart-state]");
-  root.querySelectorAll("[data-company-range]").forEach(button => { button.classList.toggle("active", button.dataset.companyRange === range); button.disabled = true; });
-  state.textContent = "მონაცემები იტვირთება…";
-  try {
-    const response = await fetch(`/api/company-series?symbol=${encodeURIComponent(symbol)}&range=${encodeURIComponent(range)}`);
-    if (!response.ok) throw new Error("series unavailable");
-    const data = await response.json();
-    const geometry = chartGeometry(data.points);
-    if (!geometry) throw new Error("invalid series");
-    root.querySelector("[data-company-line]").setAttribute("d", geometry.line);
-    root.querySelector("[data-company-area]").setAttribute("d", geometry.area);
-    root.querySelector("[data-company-min]").textContent = money(geometry.min, data.currency);
-    root.querySelector("[data-company-max]").textContent = money(geometry.max, data.currency);
-    const first = data.points[0].close, last = data.points.at(-1).close, change = (last - first) / first * 100;
-    const changeNode = root.querySelector("[data-company-change]");
-    changeNode.textContent = `${change >= 0 ? "+" : "−"}${Math.abs(change).toFixed(2)}%`;
-    changeNode.className = change >= 0 ? "up" : "down";
-    root.querySelector("[data-company-events]").innerHTML = data.events.length
-      ? data.events.slice(-8).reverse().map(event => `<li><b>${event.type === "dividend" ? "დივიდენდი" : "აქციების დაყოფა"}</b><span>${event.type === "dividend" ? money(event.amount, data.currency) : `${event.numerator}:${event.denominator}`}</span><time>${new Date(event.timestamp * 1000).toLocaleDateString("ka-GE")}</time></li>`).join("")
-      : "<li>არჩეულ პერიოდში დივიდენდი ან დაყოფა არ დაფიქსირდა.</li>";
-    state.textContent = `წყარო: Yahoo Finance · შესაძლოა დაგვიანებული იყოს · ${new Date(data.fetchedAt).toLocaleString("ka-GE")}`;
-  } catch { state.textContent = "ისტორიული მონაცემები დროებით მიუწვდომელია."; }
-  finally { root.querySelectorAll("[data-company-range]").forEach(button => button.disabled = false); }
-}
-
-if (typeof document !== "undefined") document.querySelectorAll("[data-company-chart]").forEach(root => {
-  root.querySelectorAll("[data-company-range]").forEach(button => button.addEventListener("click", () => loadCompanyChart(root, button.dataset.companyRange)));
-  loadCompanyChart(root);
-});
+const NS="http://www.w3.org/2000/svg",W=960,H=430,P={l:18,r:62,t:22,b:58},money=(v,c="USD")=>new Intl.NumberFormat("en-US",{style:"currency",currency:c,maximumFractionDigits:2}).format(v);
+export function chartGeometry(points,width=W,height=H,pad=28){const values=points.map(p=>Number(p.close)).filter(Number.isFinite);if(values.length<2)return null;const min=Math.min(...values),max=Math.max(...values),span=max-min||1,x=i=>pad+i*(width-pad*2)/(values.length-1),y=v=>pad+(max-v)*(height-pad*2)/span,line=values.map((v,i)=>`${i?"L":"M"}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(" ");return{line,area:`${line} L${x(values.length-1).toFixed(1)},${height-pad} L${pad},${height-pad} Z`,min,max}}
+function node(tag,attrs={}){const el=document.createElementNS(NS,tag);Object.entries(attrs).forEach(([k,v])=>el.setAttribute(k,v));return el}
+function renderChart(root,data){const points=data.points,prices=points.map(p=>p.close),min=Math.min(...prices),max=Math.max(...prices),margin=(max-min)*.08||1,lo=min-margin,hi=max+margin,span=hi-lo,maxVol=Math.max(...points.map(p=>p.volume||0),1),x=i=>P.l+i*(W-P.l-P.r)/(points.length-1),y=v=>P.t+(hi-v)*(H-P.t-P.b)/span,volumeTop=H-105,line=points.map((p,i)=>`${i?"L":"M"}${x(i).toFixed(1)},${y(p.close).toFixed(1)}`).join(" ");root.querySelector("[data-company-line]").setAttribute("d",line);root.querySelector("[data-company-area]").setAttribute("d",`${line} L${x(points.length-1)},${H-P.b} L${P.l},${H-P.b} Z`);const grid=root.querySelector("[data-chart-grid]"),volumes=root.querySelector("[data-chart-volumes]");grid.replaceChildren();volumes.replaceChildren();for(let i=0;i<5;i++){const yy=P.t+i*(H-P.t-P.b)/4,price=hi-i*span/4;grid.append(node("line",{x1:P.l,y1:yy,x2:W-P.r,y2:yy,stroke:"#e4ece8","stroke-width":"1"}));const text=node("text",{x:W-P.r+8,y:yy+4,fill:"#718079","font-size":"11","font-family":"DM Sans"});text.textContent=price.toFixed(2);grid.append(text)}const barWidth=Math.max(1,(W-P.l-P.r)/points.length*.7);points.forEach((p,i)=>{const h=(p.volume||0)/maxVol*55;volumes.append(node("rect",{x:x(i)-barWidth/2,y:volumeTop-h,width:barWidth,height:h,fill:i&&p.close<points[i-1].close?"#e8a2a2":"#8ecdb4",opacity:".72"}))});root.querySelector("[data-company-min]").textContent=money(min,data.currency);root.querySelector("[data-company-max]").textContent=money(max,data.currency);const first=points[0].close,last=points.at(-1).close,change=(last-first)/first*100,changeNode=root.querySelector("[data-company-change]");changeNode.textContent=`${change>=0?"+":"−"}${Math.abs(change).toFixed(2)}%`;changeNode.className=change>=0?"positive":"negative";const tag=root.querySelector("[data-chart-price-tag]");tag.hidden=false;tag.textContent=last.toFixed(2);tag.style.top=`${y(last)/H*100}%`;root._chart={data,points,x,y,lo,hi}}
+function attachPointer(root){const hit=root.querySelector("[data-chart-hit]"),tip=root.querySelector("[data-chart-tooltip]"),cx=root.querySelector("[data-chart-crosshair-x]"),cy=root.querySelector("[data-chart-crosshair-y]"),dot=root.querySelector("[data-chart-cursor]");hit.addEventListener("pointermove",e=>{const chart=root._chart;if(!chart)return;const rect=hit.getBoundingClientRect(),px=(e.clientX-rect.left)/rect.width*W,index=Math.max(0,Math.min(chart.points.length-1,Math.round((px-P.l)/(W-P.l-P.r)*(chart.points.length-1)))),p=chart.points[index],xx=chart.x(index),yy=chart.y(p.close);cx.setAttribute("x1",xx);cx.setAttribute("x2",xx);cx.setAttribute("y1",P.t);cx.setAttribute("y2",H-P.b);cy.setAttribute("x1",P.l);cy.setAttribute("x2",W-P.r);cy.setAttribute("y1",yy);cy.setAttribute("y2",yy);dot.setAttribute("cx",xx);dot.setAttribute("cy",yy);[cx,cy,dot,tip].forEach(n=>n.hidden=false);tip.innerHTML=`<span>${new Date(p.timestamp*1000).toLocaleString("ka-GE")}</span><b>${money(p.close,chart.data.currency)}</b><span>მოცულობა: ${Number(p.volume||0).toLocaleString("en-US")}</span>`;tip.style.left=`${Math.min(rect.width-175,Math.max(5,e.clientX-rect.left+12))}px`;tip.style.top=`${Math.max(5,e.clientY-rect.top-82)}px`});hit.addEventListener("pointerleave",()=>[cx,cy,dot,tip].forEach(n=>n.hidden=true))}
+export async function loadCompanyChart(root,range="1m"){root.querySelectorAll("[data-company-range]").forEach(b=>{b.classList.toggle("active",b.dataset.companyRange===range);b.disabled=true});const state=root.querySelector("[data-company-chart-state]");state.textContent="იტვირთება…";try{const r=await fetch(`/api/company-series?symbol=${encodeURIComponent(root.dataset.symbol)}&range=${range}`);if(!r.ok)throw new Error();const data=await r.json();renderChart(root,data);state.textContent=`განახლდა ${new Date(data.fetchedAt).toLocaleString("ka-GE")} · შესაძლოა დაგვიანებული იყოს`}catch{state.textContent="გრაფიკი დროებით მიუწვდომელია"}finally{root.querySelectorAll("[data-company-range]").forEach(b=>b.disabled=false)}}
+if(typeof document!=="undefined")document.querySelectorAll("[data-company-chart]").forEach(root=>{attachPointer(root);root.querySelectorAll("[data-company-range]").forEach(b=>b.addEventListener("click",()=>loadCompanyChart(root,b.dataset.companyRange)));loadCompanyChart(root)});

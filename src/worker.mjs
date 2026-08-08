@@ -5,7 +5,8 @@ import {
 } from "./news-page.mjs";
 import { normalizeNewsCategory } from "./content-policy.mjs";
 import { renderEditorialDashboard, renderEditorialLogin } from "./editorial-page.mjs";
-import { buildCompanyData, normalizeStockSymbol, renderCompanyNotFound, renderCompanyPage } from "./company-page.mjs";
+import { buildCompanyData, normalizeStockSymbol } from "./company-page.mjs";
+import { renderCompanyNotFound, renderCompanyPage } from "./company-template.mjs";
 
 const NEWS_FEEDS = [
   {
@@ -1020,10 +1021,13 @@ async function serveCompanyPage(request, env, rawSymbol) {
 
 const COMPANY_SERIES_RANGES = {
   "1d": { range: "1d", interval: "5m" },
+  "5d": { range: "5d", interval: "30m" },
   "1m": { range: "1mo", interval: "1d" },
   "6m": { range: "6mo", interval: "1d" },
+  "ytd": { range: "ytd", interval: "1d" },
   "1y": { range: "1y", interval: "1d" },
   "5y": { range: "5y", interval: "1wk" },
+  "max": { range: "max", interval: "1mo" },
 };
 
 async function serveCompanySeries(request, env, url) {
@@ -1035,8 +1039,9 @@ async function serveCompanySeries(request, env, url) {
   try {
     const payload = await fetchJson(`${YAHOO_CHART_URL}${encodeURIComponent(symbol)}?interval=${selection.interval}&range=${selection.range}&events=div%2Csplits`, 8000, { "user-agent": "Investors.ge company chart/1.0" });
     const result = payload.chart?.result?.[0];
-    const closes = result?.indicators?.quote?.[0]?.close || [];
-    const points = (result?.timestamp || []).map((timestamp, index) => ({ timestamp: Number(timestamp), close: Number(closes[index]) })).filter(point => Number.isFinite(point.timestamp) && Number.isFinite(point.close));
+    const quoteSeries = result?.indicators?.quote?.[0] || {};
+    const closes = quoteSeries.close || [], volumes = quoteSeries.volume || [];
+    const points = (result?.timestamp || []).map((timestamp, index) => ({ timestamp: Number(timestamp), close: Number(closes[index]), volume: Number(volumes[index]) || 0 })).filter(point => Number.isFinite(point.timestamp) && Number.isFinite(point.close));
     if (points.length < 2) throw new Error("Insufficient series");
     const dividends = Object.values(result?.events?.dividends || {}).map(event => ({ type: "dividend", timestamp: event.date, amount: Number(event.amount) }));
     const splits = Object.values(result?.events?.splits || {}).map(event => ({ type: "split", timestamp: event.date, numerator: Number(event.numerator), denominator: Number(event.denominator) }));

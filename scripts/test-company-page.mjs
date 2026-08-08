@@ -1,5 +1,6 @@
 import assert from "node:assert/strict";
-import { buildCompanyData, calculateValuation, extractFilings, extractFinancialHistory, extractFundamentals, normalizeStockSymbol, renderCompanyPage } from "../src/company-page.mjs";
+import { buildCompanyData, calculateValuation, extractFilings, extractFinancialHistory, extractFundamentals, normalizeStockSymbol } from "../src/company-page.mjs";
+import { renderCompanyPage } from "../src/company-template.mjs";
 
 assert.equal(normalizeStockSymbol(" aapl "), "AAPL");
 assert.equal(normalizeStockSymbol("../../bad"), "");
@@ -24,10 +25,10 @@ const html = renderCompanyPage(company);
 assert.match(html, /Apple Inc\./);
 assert.match(html, /SEC EDGAR/);
 assert.match(html, /provider-dependent delay/);
-assert.match(html, /წლიური ფინანსური ისტორია/);
-assert.match(html, /საბაზრო კაპიტალიზაცია/);
+assert.match(html, /წლიური მაჩვენებლები/);
+assert.match(html, /საბაზრო კაპიტალი/);
 assert.match(html, /კომპანიის სიახლეები/);
-assert.match(html, /კომპანიების შედარება/);
+assert.match(html, /href="\/stocks\/compare">შედარება/);
 assert.match(html, /rel="canonical" href="https:\/\/investors\.ge\/stocks\/AAPL"/);
 
 console.log("Company page regression tests passed.");
