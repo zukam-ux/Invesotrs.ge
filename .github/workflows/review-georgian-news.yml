@@ -28,7 +28,7 @@ jobs:
       - name: List pending Georgian stories
         if: ${{ inputs.action == 'list' }}
         env:
-          EDITORIAL_TOKEN: ${{ secrets.NEWS_INGEST_TOKEN }}
+          EDITORIAL_TOKEN: ${{ secrets.EDITORIAL_REVIEW_TOKEN }}
         run: |
           curl --fail-with-body --silent --show-error \
             -H "Authorization: Bearer $EDITORIAL_TOKEN" \
@@ -47,7 +47,7 @@ jobs:
       - name: Record editorial decision
         if: ${{ inputs.action != 'list' }}
         env:
-          EDITORIAL_TOKEN: ${{ secrets.NEWS_INGEST_TOKEN }}
+          EDITORIAL_TOKEN: ${{ secrets.EDITORIAL_REVIEW_TOKEN }}
           ARTICLE_ID: ${{ inputs.article_id }}
           ACTION: ${{ inputs.action }}
         run: |
@@ -56,4 +56,3 @@ jobs:
             -H "Content-Type: application/json" \
             --data "{\"articleId\":\"$ARTICLE_ID\",\"action\":\"$ACTION\"}" \
             https://investors.ge/api/editorial/review | python -m json.tool
-

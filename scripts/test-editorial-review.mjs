@@ -14,6 +14,7 @@ assert.ok(worker.includes("category != 'საქართველო' OR edito
 assert.ok(worker.includes('reviewerRole: "Investors.ge Editor"'));
 assert.ok(worker.includes('!["approve", "reject"].includes(action)'));
 assert.ok(workflow.includes("Review Georgian news"));
-assert.ok(workflow.includes("NEWS_INGEST_TOKEN"));
+assert.ok(workflow.includes("EDITORIAL_REVIEW_TOKEN"));
+assert.ok(worker.includes("env.EDITORIAL_REVIEW_TOKEN"));
 
 console.log("Georgian editorial review checks passed.");

@@ -416,7 +416,9 @@ function isEditoriallyPublishedSql() {
 
 function hasEditorialAuthorization(request, env) {
   const authorization = request.headers.get("authorization") || "";
-  return Boolean(env.NEWS_INGEST_TOKEN && authorization === `Bearer ${env.NEWS_INGEST_TOKEN}`);
+  return Boolean(
+    env.EDITORIAL_REVIEW_TOKEN && authorization === `Bearer ${env.EDITORIAL_REVIEW_TOKEN}`,
+  );
 }
 
 async function listPendingEditorialReviews(request, env) {
