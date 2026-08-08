@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T19:05:51.840Z",
+  "updatedAt": "2026-08-08T20:30:28.562Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -181,6 +181,18 @@
       "titleKa": "ჯეიმი დიმონის JPMorgan ვარაუდობს, რომ მეოთხე კვარტალში ოქროს ფასი უნციაზე 5,000 დოლარს მიაღწევს, რაც ოპტიმისტური სცენარია ჰეჯირების მაძიებელი ინვესტორებისთვის",
       "summaryKa": "ჯეიმი დიმონის JPMorgan-ის პროგნოზით, ოქროს ფასი მეოთხე კვარტალში შესაძლოა უნციაზე 5,000 აშშ დოლარამდე გაიზარდოს, რაც ოპტიმისტურ შესაძლებლობას წარმოადგენს ჰეჯირების მაძიებელი ინვესტორებისთვის.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "51a39100ef652fe4",
+      "title": "Trump says AI data centers 'could be bigger than oil' after Texas Governor places moratorium on construction",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNjRpQi1OQ2RibGR5cFM0Qm16YVpjVlI2Qk5iV2V4Uk9GYlIxN3FNUFNkUzJUOHp2V1BFejZ4SXJtdnpQU2U2NTJ1U1p0SGtZak9zcXpuOHNnUy01N2xPcXMxVlVlRTdHajNJanpVeV9jLTJRNWdzU2p4eTluRzFfbVluVkExUzlMdjdTT2pONTRUdVp4?oc=5",
+      "publishedAt": "2026-08-08T15:30:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNjRpQi1OQ2RibGR5cFM0Qm16YVpjVlI2Qk5iV2V4Uk9GYlIxN3FNUFNkUzJUOHp2V1BFejZ4SXJtdnpQU2U2NTJ1U1p0SGtZak9zcXpuOHNnUy01N2xPcXMxVlVlRTdHajNJanpVeV9jLTJRNWdzU2p4eTluRzFfbVluVkExUzlMdjdTT2pONTRUdVp4?oc=5\" target=\"_blank\">Trump says AI data centers 'could be bigger than oil' after Texas Governor places moratorium on construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ტრამპი აცხადებს, რომ AI მონაცემთა ცენტრები „შესაძლოა ნავთობზე დიდი იყოს“ მას შემდეგ, რაც ტეხასის გუბერნატორმა მშენებლობაზე მორატორიუმი დააწესა",
+      "summaryKa": "ტეხასის გუბერნატორის მიერ მშენებლობაზე მორატორიუმის დაწესების შემდეგ, ტრამპმა განაცხადა, რომ ხელოვნური ინტელექტის მონაცემთა ცენტრები „შესაძლოა ნავთობზე დიდი იყოს“.",
+      "category": "AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
