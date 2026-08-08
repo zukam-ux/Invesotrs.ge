@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-08T16:58:52.998Z",
+  "updatedAt": "2026-08-08T17:24:37.226Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "ceab91a7653faa9c",
+      "title": "Why Cameco's Ugly Earnings Miss Might Be Good News in Disguise",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEo5T2NXSm9vYmJkaEk2eWVLU3R3RWR6dmMzb0hsbnJUbTdwY1FGZTROR0lwQjEybGpzWGp4WXdVVTNWRFhXNzJORnpRNEV1NXJkSWtJNXN0bmlpUmVvbWI0dkk2SHM0NHg5Z3dQUk1zNGNFblQ0bE4tS1dROWFUOFRZMkxvOXJuZW5rNFc0X2U5Yk5tU09LZWwwTQ?oc=5",
+      "publishedAt": "2026-08-08T16:50:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEo5T2NXSm9vYmJkaEk2eWVLU3R3RWR6dmMzb0hsbnJUbTdwY1FGZTROR0lwQjEybGpzWGp4WXdVVTNWRFhXNzJORnpRNEV1NXJkSWtJNXN0bmlpUmVvbWI0dkk2SHM0NHg5Z3dQUk1zNGNFblQ0bE4tS1dROWFUOFRZMkxvOXJuZW5rNFc0X2U5Yk5tU09LZWwwTQ?oc=5\" target=\"_blank\">Why Cameco's Ugly Earnings Miss Might Be Good News in Disguise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "რატომ შეიძლება აღმოჩნდეს Cameco-ს შემოსავლების მკვეთრი ვარდნა შენიღბული კარგი ამბავი",
+      "summaryKa": "სტატიაში განხილულია, თუ რატომ შეიძლება იყოს Cameco-ს მიერ მოლოდინებზე ბევრად ნაკლები შემოსავლის მიღება რეალურად პოზიტიური სიახლე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "076850abaf1015fa",
       "title": "Even Without Alphabet and Amazon, the S&P 500 Just Posted Its Biggest Earnings Beat Ever",
@@ -12,6 +24,30 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFcxSWVHeUs5LXFma0l4SkZLLUxSaWFYenQ4S2ZJYXZtMG93Y0taVXFWdVBoYUE0X2JZZl9HUG1RUWYtbkJRaE5PSm9ocUxjY2JlenVTMEV1Y1JIZnlZYVFmVm5HdEZEbEJtT2J3eGU2eE9Hb0RHUGowUEhNeU84bmxVSW1QX2lNREVnNDVzRWNVd196QVlsWkdhTQ?oc=5\" target=\"_blank\">Even Without Alphabet and Amazon, the S&P 500 Just Posted Its Biggest Earnings Beat Ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "Alphabet-ისა და Amazon-ის გარეშეც კი, S&P 500-მა ახლახან ისტორიაში მოგების ყველაზე დიდი გადაჭარბება დააფიქსირა",
       "summaryKa": "S&P 500-მა Alphabet-ისა და Amazon-ის გარეშეც კი დააფიქსირა თავის ისტორიაში მოგების ყველაზე დიდი გადაჭარბება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "982adf269864da9d",
+      "title": "Got $1,000? Here Are My Favorite Nuclear Stocks to Invest in Right Now.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVZsaVlyMFZRdGVnOWJtbkJnUVdraE8yZUtWWU11YTViZ2R6aDdGbFcwUVBiSkdDdHpHRFRnOHZLTktoLVJoQ09SRjlJN3pQaUhIcGxQLTUwQlBPUnRvQnhua3c0OWV5S1VNUE9FOXRQZXltTm9BNmY4T1kxdklrNmZ6cFF2MFVsRjM0?oc=5",
+      "publishedAt": "2026-08-08T16:25:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVZsaVlyMFZRdGVnOWJtbkJnUVdraE8yZUtWWU11YTViZ2R6aDdGbFcwUVBiSkdDdHpHRFRnOHZLTktoLVJoQ09SRjlJN3pQaUhIcGxQLTUwQlBPUnRvQnhua3c0OWV5S1VNUE9FOXRQZXltTm9BNmY4T1kxdklrNmZ6cFF2MFVsRjM0?oc=5\" target=\"_blank\">Got $1,000? Here Are My Favorite Nuclear Stocks to Invest in Right Now.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "გაქვთ $1,000? აი ჩემი ფავორიტი ბირთვული აქციები ამჟამად საინვესტიციოდ.",
+      "summaryKa": "სტატიაში წარმოდგენილია ავტორის ფავორიტი ბირთვული აქციები მათთვის, ვისაც ამჟამად $1,000-ის ინვესტირება სურს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5763f7bc1b6e7d22",
+      "title": "iShares Global Healthcare ETF vs State Street SPDR Biotech ETF. Which Healthcare-Focused Fund Will Bring You Profits in 2026 and Beyond?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWHFtdmp5YjViZG5sZGNwUGNrYzRZRkdRT2JIR2Q2OU96YTRXZUUwY2dYdkR2UU56d1hLb3c5eThDSS1pNDBYU0h3LXAwZG5lQzJONkM5bi1wUzNHc3FvRnNMUi1MbnljM3RJaTZaUWoyYVJJNG0tRzRweHQ2WVBMN0ZUclo1cUNUeGRCV3JRV3ItRUZha0FqNA?oc=5",
+      "publishedAt": "2026-08-08T16:22:01.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNWHFtdmp5YjViZG5sZGNwUGNrYzRZRkdRT2JIR2Q2OU96YTRXZUUwY2dYdkR2UU56d1hLb3c5eThDSS1pNDBYU0h3LXAwZG5lQzJONkM5bi1wUzNHc3FvRnNMUi1MbnljM3RJaTZaUWoyYVJJNG0tRzRweHQ2WVBMN0ZUclo1cUNUeGRCV3JRV3ItRUZha0FqNA?oc=5\" target=\"_blank\">iShares Global Healthcare ETF vs State Street SPDR Biotech ETF. Which Healthcare-Focused Fund Will Bring You Profits in 2026 and Beyond?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "iShares Global Healthcare ETF vs State Street SPDR Biotech ETF: რომელი ჯანდაცვაზე ორიენტირებული ფონდი მოგიტანთ მოგებას 2026 წელს და მის შემდგომ?",
+      "summaryKa": "სტატია ერთმანეთს ადარებს iShares Global Healthcare ETF-სა და State Street SPDR Biotech ETF-ს, რათა გაარკვიოს, თუ რომელი ჯანდაცვაზე ორიენტირებული ფონდი მოიტანს მოგებას 2026 წელს და მის შემდგომ.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
