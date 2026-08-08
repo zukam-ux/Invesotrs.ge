@@ -1,8 +1,56 @@
 {
-  "updatedAt": "2026-08-08T08:05:11.924Z",
+  "updatedAt": "2026-08-08T08:56:57.769Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "88e6e32e35ca44b4",
+      "title": "Zimbabwe to Cap Gold-Buying Support at $300 Million This Year",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUE1uSkQ1MC12MHZ4SHF4dkhzMHpyZDhZQ2I5clRoZjkzOGM3ak9KckpuaERCLWZQRms5b29NN3pMck9uQzNweTl3Y1VkYzZnb05fdEoweGFONlhlWldRM0lPRVlFUG1CYURPXzl6YWtKQWdNUlRvUTBES2VuTk9BZ3dlVzFMZTllcXBCU1hpMkRfbHVzSzY1RGlUVHd6UkhFYkl6TTg1TkdYX1F2di1YeA?oc=5",
+      "publishedAt": "2026-08-08T08:28:08.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUE1uSkQ1MC12MHZ4SHF4dkhzMHpyZDhZQ2I5clRoZjkzOGM3ak9KckpuaERCLWZQRms5b29NN3pMck9uQzNweTl3Y1VkYzZnb05fdEoweGFONlhlWldRM0lPRVlFUG1CYURPXzl6YWtKQWdNUlRvUTBES2VuTk9BZ3dlVzFMZTllcXBCU1hpMkRfbHVzSzY1RGlUVHd6UkhFYkl6TTg1TkdYX1F2di1YeA?oc=5\" target=\"_blank\">Zimbabwe to Cap Gold-Buying Support at $300 Million This Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ზიმბაბვე წელს ოქროს შესყიდვის მხარდაჭერას 300 მილიონ დოლარამდე შეზღუდავს",
+      "summaryKa": "ზიმბაბვე გეგმავს, რომ მიმდინარე წელს ოქროს შესყიდვის მხარდაჭერა 300 მილიონ დოლარამდე შეზღუდოს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "cd0db4d88c145117",
+      "title": "An Inflation Quadruple Whammy, Headlined by Trumpflation, Threatens to Crush the Stock Market",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHBBT1NrZnA5dnh0d3FKNlU3SWdOUENJVElPMXNuLUdidTYwZHpzaDFPcWxFcWpvWUtkcmN1UFBYN2paWVdSR0JTOG1rcFVqX3BzLWd4eVhBb3VKdjlHQlFsQ1lIY2Y3ZDc1bVV2a1JuSDhuZmEzU2p2YVVzX0tFRTV0SEZGZEMzWk42bFF1ZzU1OGJlbkw1aUdNMjFzd2hHVEs5WXZZajJjX3NVVGVMb29jMXY?oc=5",
+      "publishedAt": "2026-08-08T08:26:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHBBT1NrZnA5dnh0d3FKNlU3SWdOUENJVElPMXNuLUdidTYwZHpzaDFPcWxFcWpvWUtkcmN1UFBYN2paWVdSR0JTOG1rcFVqX3BzLWd4eVhBb3VKdjlHQlFsQ1lIY2Y3ZDc1bVV2a1JuSDhuZmEzU2p2YVVzX0tFRTV0SEZGZEMzWk42bFF1ZzU1OGJlbkw1aUdNMjFzd2hHVEs5WXZZajJjX3NVVGVMb29jMXY?oc=5\" target=\"_blank\">An Inflation Quadruple Whammy, Headlined by Trumpflation, Threatens to Crush the Stock Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ინფლაციის ოთხმაგი დარტყმა, Trumpflation-ის მეთაურობით, საფონდო ბირჟის განადგურებით იმუქრება",
+      "summaryKa": "ინფლაციის ოთხმაგი დარტყმა, რომელსაც სათავეში Trumpflation უდგას, საფონდო ბირჟის განადგურების საფრთხეს ქმნის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "cfe930d385cce05d",
+      "title": "The AI Trade Rotation: Money Is Moving Out of Chips and Into This",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOalNhMVd4M1JpU2hSbVVCcUZqVHl0cHpvVFB5azNLS0pXclNtZTA1TUNMbFZmaXZIV2ZuV3RxSDk2UnA0N3d4OXZlMjdBWVBYdlBSXzdzQ1FmaUdQYVItdnc3WUkwQXRQSjlzcW1JRlNEY3UzOVVFZldWczZxc1JZbTBNZHUybk9NZUVEODM0dmE0d21SS2dwU3MxQQ?oc=5",
+      "publishedAt": "2026-08-08T08:14:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOalNhMVd4M1JpU2hSbVVCcUZqVHl0cHpvVFB5azNLS0pXclNtZTA1TUNMbFZmaXZIV2ZuV3RxSDk2UnA0N3d4OXZlMjdBWVBYdlBSXzdzQ1FmaUdQYVItdnc3WUkwQXRQSjlzcW1JRlNEY3UzOVVFZldWczZxc1JZbTBNZHUybk9NZUVEODM0dmE0d21SS2dwU3MxQQ?oc=5\" target=\"_blank\">The AI Trade Rotation: Money Is Moving Out of Chips and Into This</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "AI-ით ვაჭრობის როტაცია: ფული ჩიპებიდან გადის და აქ მიედინება",
+      "summaryKa": "ხელოვნური ინტელექტის (AI) სავაჭრო როტაციის პირობებში ფული ჩიპების სექტორიდან სხვა მიმართულებით გადადის.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "32ef23a5f3d28ba4",
+      "title": "Northern Oil And Gas (NOG) Beat Q2 Estimates With Record Gas Production",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUGdwbVNSd0JJczNoSWNMSVYwUThHYzZ2ZGsxVnIxWGlTR1BFS1E3X1BlTngtcGY5ZHBlWFpzV29xeVpCbXlhSHZUNjRyQ3ZmNzFDZFdFQ0NRNHVBYjBTUGlOMDNla09RcUlzY2oxUUpobVlUaDdJN1FDeVh1V2laMXE0aDhLY2pzRWhMOVNBelZXenBi?oc=5",
+      "publishedAt": "2026-08-08T06:12:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUGdwbVNSd0JJczNoSWNMSVYwUThHYzZ2ZGsxVnIxWGlTR1BFS1E3X1BlTngtcGY5ZHBlWFpzV29xeVpCbXlhSHZUNjRyQ3ZmNzFDZFdFQ0NRNHVBYjBTUGlOMDNla09RcUlzY2oxUUpobVlUaDdJN1FDeVh1V2laMXE0aDhLY2pzRWhMOVNBelZXenBi?oc=5\" target=\"_blank\">Northern Oil And Gas (NOG) Beat Q2 Estimates With Record Gas Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Northern Oil And Gas (NOG)-მა გაზის რეკორდული მოპოვებით Q2-ის მოლოდინებს გადააჭარბა",
+      "summaryKa": "კომპანია Northern Oil And Gas (NOG)-მა გაზის რეკორდული წარმოების წყალობით მეორე კვარტლის (Q2) პროგნოზებს გადააჭარბა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "7ad4b19b59b950e7",
       "title": "BP Sale Makes US Investor Germany’s Second-Largest Oil Refiner",
@@ -208,6 +256,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "c512b9a10d0000c7",
+      "title": "Data Center Firm Switch to File Confidentially for IPO",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVF8wWjF2QXZ0bkVuVDFzN3pJOGwxWkczcXJxVFdvSGRDeTZxMUlBWWlrSWs2R0V5T3JqMF9OVnFOUS1oX0p1aFJ1bS1BcFVmV2hVakl4OFZSajA3eUsyU3FpQngyXzNQT1FYOXlhWDJEVHF3NzRrQUxTcUdSYUNYOHQwejRQQ0NPQlFRend3Wm81TzZQbHpoc2IxUUZoLW14X0FHa3FIZUlIN1JNdjBDY3lwYw?oc=5",
+      "publishedAt": "2026-08-07T22:03:46.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVF8wWjF2QXZ0bkVuVDFzN3pJOGwxWkczcXJxVFdvSGRDeTZxMUlBWWlrSWs2R0V5T3JqMF9OVnFOUS1oX0p1aFJ1bS1BcFVmV2hVakl4OFZSajA3eUsyU3FpQngyXzNQT1FYOXlhWDJEVHF3NzRrQUxTcUdSYUNYOHQwejRQQ0NPQlFRend3Wm81TzZQbHpoc2IxUUZoLW14X0FHa3FIZUlIN1JNdjBDY3lwYw?oc=5\" target=\"_blank\">Data Center Firm Switch to File Confidentially for IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "მონაცემთა ცენტრების კომპანია Switch-ი IPO-სთვის კონფიდენციალურ განაცხადს წარადგენს",
+      "summaryKa": "მონაცემთა ცენტრების მქონე ფირმა Switch-ი გეგმავს კონფიდენციალურად წარადგინოს განაცხადი პირველადი საჯარო შეთავაზების (IPO) განსახორციელებლად.",
+      "category": "ტექნოლოგიები და AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "3fa7206702a99b4c",
       "title": "The smart way to invest in gold right now as the dollar slips",
       "source": "MarketWatch",
@@ -288,6 +348,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQN2FEcGJLSjRWWXc1UlE5V2tBcU9tcDdqNkVGXzdWdlI2N2dXNmZaRDJrS0FXb1AwYkJhWWVaSmxPMVBoTkdaSENid1E5bklseTQ5b3VPV3dPQkxLZHVnc2EyWkFDUmFobV9YMnk0dmpvV0FLbDkwZXRSUWJaOFNlSnVrZ3A1RXBqMGc5NlFEc2hKcXJtbVpzRjhrc1Y?oc=5\" target=\"_blank\">We Just Had the Busiest Day for Commercial Air Travel Ever. Here's What It Means for Airline Stocks.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "კომერციული საჰაერო მიმოსვლის ისტორიაში ყველაზე დატვირთული დღე დაფიქსირდა: აი, რას ნიშნავს ეს ავიაკომპანიების აქციებისთვის.",
       "summaryKa": "კომერციული საჰაერო მიმოსვლის ისტორიაში ყველაზე დატვირთული დღე დაფიქსირდა, რაც გავლენას ახდენს ავიაკომპანიების აქციებზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "79756d36fe12bb91",
+      "title": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear — SEZL, SPCX, RDW, PLTR, TTD In Focus",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS0d5Z0l3ZjNrVWFkaVVQamo4Mms1Z000aHlXUGYxRnFic05KZlNkMFcxNHRRbmFXbUt1WFBtQnNRV3hIWXdEeVFoV1h4M2NxS1F4V2NQSm1HalFTRVVBM1owRHptamY4RGNXejN1ZVRHZTZUSjExTEZvNThJdU54aDUwR1E5bXg0cU5UTHA5OWk?oc=5",
+      "publishedAt": "2026-08-07T21:24:45.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPS0d5Z0l3ZjNrVWFkaVVQamo4Mms1Z000aHlXUGYxRnFic05KZlNkMFcxNHRRbmFXbUt1WFBtQnNRV3hIWXdEeVFoV1h4M2NxS1F4V2NQSm1HalFTRVVBM1owRHptamY4RGNXejN1ZVRHZTZUSjExTEZvNThJdU54aDUwR1E5bXg0cU5UTHA5OWk?oc=5\" target=\"_blank\">S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear — SEZL, SPCX, RDW, PLTR, TTD In Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "S&P 500-მა რეკორდულ მაქსიმუმზე დაასრულა ვაჭრობა და აპრილის შემდეგ ყველაზე ძლიერი კვირა დააფიქსირა, რადგან სუსტმა დასაქმების მონაცემებმა საპროცენტო განაკვეთის ზრდის შიში შეამსუბუქა — ყურადღების ცენტრშია SEZL, SPCX, RDW, PLTR, TTD",
+      "summaryKa": "S&P 500 ინდექსმა რეკორდულ მაქსიმუმზე დაასრულა ვაჭრობა და აპრილის შემდეგ ყველაზე ძლიერი კვირა აჩვენა, რაც დასაქმების სუსტმა მონაცემებმა და საპროცენტო განაკვეთების ზრდის შიშის შემცირებამ გამოიწვია, ხოლო ყურადღების ცენტრში SEZL, SPCX, RDW, PLTR და TTD მოექცნენ.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
