@@ -451,6 +451,47 @@ async function serveNews(env) {
   );
 }
 
+async function serveStatus(env) {
+  const checkedAt = new Date();
+  try {
+    const news = await env.DB.prepare(
+      "SELECT COUNT(*) AS article_count, MAX(published_at) AS latest_published_at FROM articles",
+    ).first();
+    const latestPublishedAt = news?.latest_published_at || null;
+    const newsAgeMinutes = latestPublishedAt
+      ? Math.max(0, Math.round((checkedAt.getTime() - new Date(latestPublishedAt).getTime()) / 60000))
+      : null;
+    const newsFresh = Number.isFinite(newsAgeMinutes) && newsAgeMinutes <= 240;
+    return json(
+      {
+        status: newsFresh ? "operational" : "degraded",
+        checkedAt: checkedAt.toISOString(),
+        services: {
+          web: { status: "operational" },
+          database: { status: "operational" },
+          news: {
+            status: newsFresh ? "operational" : "stale",
+            latestPublishedAt,
+            ageMinutes: newsAgeMinutes,
+            articleCount: Number(news?.article_count || 0),
+            freshnessTargetMinutes: 240,
+          },
+        },
+      },
+      { status: newsFresh ? 200 : 503, headers: { "cache-control": "no-store" } },
+    );
+  } catch {
+    return json(
+      {
+        status: "unavailable",
+        checkedAt: checkedAt.toISOString(),
+        services: { web: { status: "operational" }, database: { status: "unavailable" } },
+      },
+      { status: 503, headers: { "cache-control": "no-store" } },
+    );
+  }
+}
+
 async function serveNewsArticle(request, env, articleId) {
   const article = await env.DB.prepare(
     `SELECT id, title, title_ka, summary_ka, body_ka, source, url, source_url,
@@ -790,6 +831,7 @@ export default {
     if (url.pathname === "/data/global-news.json") return serveNews(env);
     if (url.pathname === "/api/market-data") return serveMarketData();
     if (url.pathname === "/api/market-series") return serveMarketSeries(url);
+    if (url.pathname === "/api/status") return serveStatus(env);
     if (url.pathname === "/api/asset-search") return serveAssetSearch(url);
     if (url.pathname === "/api/news-quotes") return serveQuotes(url);
     const articleMatch = url.pathname.match(/^\/news\/([a-f0-9]{16})\/?$/i);
