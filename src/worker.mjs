@@ -5,6 +5,7 @@ import {
 } from "./news-page.mjs";
 import { normalizeNewsCategory } from "./content-policy.mjs";
 import { renderEditorialDashboard, renderEditorialLogin } from "./editorial-page.mjs";
+import { buildCompanyData, normalizeStockSymbol, renderCompanyNotFound, renderCompanyPage } from "./company-page.mjs";
 
 const NEWS_FEEDS = [
   {
@@ -949,6 +950,56 @@ async function serveQuotes(url) {
   );
 }
 
+async function loadSecurityAsset(request, env, symbol) {
+  const response = await env.ASSETS.fetch(new Request(new URL("/data/assets.json", request.url)));
+  if (!response.ok) return null;
+  const directory = await response.json();
+  return (directory.assets || []).find(asset => asset.type === "security" && asset.symbol?.toUpperCase() === symbol && asset.cik) || null;
+}
+
+async function fetchSecJson(url) {
+  return fetchJson(url, 9000, {
+    "user-agent": "Investors.ge company research contact@investors.ge",
+    "accept-encoding": "gzip, deflate",
+  });
+}
+
+async function getCompanyData(request, env, rawSymbol) {
+  const symbol = normalizeStockSymbol(rawSymbol);
+  if (!symbol) return null;
+  const asset = await loadSecurityAsset(request, env, symbol);
+  if (!asset) return null;
+  const cik = String(asset.cik).padStart(10, "0");
+  const [submissions, facts, quote] = await Promise.all([
+    fetchSecJson(`https://data.sec.gov/submissions/CIK${cik}.json`),
+    fetchSecJson(`https://data.sec.gov/api/xbrl/companyfacts/CIK${cik}.json`).catch(() => ({ facts: {} })),
+    fetchQuote(symbol),
+  ]);
+  if (!(submissions.tickers || []).some(ticker => ticker.toUpperCase() === symbol)) return null;
+  return buildCompanyData(asset, submissions, facts, quote);
+}
+
+async function serveCompanyApi(request, env, url) {
+  try {
+    const company = await getCompanyData(request, env, url.searchParams.get("symbol"));
+    if (!company) return json({ error: "COMPANY_NOT_FOUND" }, { status: 404 });
+    return json(company, { headers: { "cache-control": "public, max-age=60, s-maxage=900, stale-while-revalidate=86400" } });
+  } catch {
+    return json({ error: "COMPANY_DATA_UNAVAILABLE" }, { status: 503, headers: { "cache-control": "no-store" } });
+  }
+}
+
+async function serveCompanyPage(request, env, rawSymbol) {
+  const symbol = normalizeStockSymbol(rawSymbol);
+  try {
+    const company = await getCompanyData(request, env, symbol);
+    if (!company) return new Response(renderCompanyNotFound(symbol), { status: 404, headers: { "content-type": "text/html; charset=utf-8" } });
+    return new Response(renderCompanyPage(company), { headers: { "content-type": "text/html; charset=utf-8", "cache-control": "public, max-age=60, s-maxage=900, stale-while-revalidate=86400", "x-content-type-options": "nosniff" } });
+  } catch {
+    return new Response(renderCompanyNotFound(symbol), { status: 503, headers: { "content-type": "text/html; charset=utf-8", "cache-control": "no-store" } });
+  }
+}
+
 async function serveAssetSearch(url) {
   const query = (url.searchParams.get("q") || "").trim().slice(0, 80);
   if (!query) return json({ assets: [] }, { headers: { "cache-control": "no-store" } });
@@ -1088,7 +1139,10 @@ export default {
     if (url.pathname === "/api/market-series") return serveMarketSeries(url);
     if (url.pathname === "/api/status") return serveStatus(env);
     if (url.pathname === "/api/asset-search") return serveAssetSearch(url);
+    if (url.pathname === "/api/company" && request.method === "GET") return serveCompanyApi(request, env, url);
     if (url.pathname === "/api/news-quotes") return serveQuotes(url);
+    const companyMatch = url.pathname.match(/^\/stocks\/([A-Za-z0-9.-]{1,15})\/?$/);
+    if (companyMatch && request.method === "GET") return serveCompanyPage(request, env, companyMatch[1]);
     const articleMatch = url.pathname.match(/^\/news\/([a-f0-9]{16})\/?$/i);
     if (articleMatch && request.method === "GET") {
       return serveNewsArticle(request, env, articleMatch[1]);

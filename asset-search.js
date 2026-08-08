@@ -90,6 +90,9 @@ let catalogPromise;
 
   function assetUrl(asset) {
     if (asset.externalUrl) return asset.externalUrl;
+    if (asset.type === "security" && assetKind(asset) === "stock") {
+      return `/stocks/${encodeURIComponent(asset.symbol)}`;
+    }
     const params = new URLSearchParams({
       type: asset.type,
       symbol: asset.symbol,

@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "check": "node --check src/worker.mjs && node --check src/news-page.mjs && node --check src/editorial-page.mjs && node --check src/content-policy.mjs && node --check scripts/check-production-health.mjs && node --check shared.js && node --check market-chart.js && node scripts/test-asset-search.mjs && node scripts/test-market-chart.mjs && node scripts/test-content-policy.mjs && node scripts/test-news-policy.mjs && node scripts/test-news-article.mjs && node scripts/test-georgia-news.mjs && node scripts/test-editorial-review.mjs",
+    "check": "node --check src/worker.mjs && node --check src/company-page.mjs && node --check src/news-page.mjs && node --check src/editorial-page.mjs && node --check src/content-policy.mjs && node --check scripts/check-production-health.mjs && node --check shared.js && node --check market-chart.js && node scripts/test-asset-search.mjs && node scripts/test-company-page.mjs && node scripts/test-market-chart.mjs && node scripts/test-content-policy.mjs && node scripts/test-news-policy.mjs && node scripts/test-news-article.mjs && node scripts/test-georgia-news.mjs && node scripts/test-editorial-review.mjs",
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
     "health": "node scripts/check-production-health.mjs"
