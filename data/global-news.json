@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-08T12:20:27.987Z",
+  "updatedAt": "2026-08-08T13:24:08.125Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "7fd557f0e1224ad5",
+      "title": "A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZW1mbWxPSFZaME9FYms2b1NMNTRIYWNHcnNkNG04V1VoNnJJQmN6d1h4elZfVndiQXRJZThsZXhveVA4bWI5X25ZcWU0LTh6Y3R4NG5TSkxyeVhKTURLWWtZeVhMZ2Y3UE5rS0FMY2xvOGhpQktvdFBUZnVxaXdqbUZNY2xlZ1ZJNjVnbUNtS2lIUVVNbE9rbDBMdDU4V0k0TVM3RkN3bkl1Wk8wV1NBbzc0RFRfZw?oc=5",
+      "publishedAt": "2026-08-08T13:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZW1mbWxPSFZaME9FYms2b1NMNTRIYWNHcnNkNG04V1VoNnJJQmN6d1h4elZfVndiQXRJZThsZXhveVA4bWI5X25ZcWU0LTh6Y3R4NG5TSkxyeVhKTURLWWtZeVhMZ2Y3UE5rS0FMY2xvOGhpQktvdFBUZnVxaXdqbUZNY2xlZ1ZJNjVnbUNtS2lIUVVNbE9rbDBMdDU4V0k0TVM3RkN3bkl1Wk8wV1NBbzc0RFRfZw?oc=5\" target=\"_blank\">A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "მძიმე კვირამ კრიპტოვალუტისთვის მისი გულშემატკივრები ბიტკოინ-ბარში სასმელების დასალევად შეკრიბა",
+      "summaryKa": "კრიპტოვალუტისთვის რთული კვირის ფონზე, მისი მხარდამჭერები ბიტკოინ-ბარში სასმელებს სვამენ.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "ec454007e5cb1783",
       "title": "Is Navigator Holdings (NVGS) Cheap Following Strong Earnings And A Dividend?",
