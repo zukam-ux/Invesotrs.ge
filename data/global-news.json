@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-08T21:53:38.006Z",
+  "updatedAt": "2026-08-08T22:15:17.348Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "f65e56afd96613f8",
+      "title": "Karman Holdings (KRMN) Could Be 45% Undervalued On Q2 Earnings And Higher Guidance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc2RXclJGOEZSUm5GdnRtanlxOExWQTFMaTlwRmVyalNEYldwLXhBd0pLVmJzZi1VV2JqTVYzNnE3SlRzUzA0djNrXzFoNENWMV9aZmpIXzc2eDE0b3ZBQzQwRVJ5TjQzallZRFU0TUZEaDVYYXdDTjg4Rm1RaGFua2ZMb1VESEhhMHVOWGlsemRRbmJ3WHVjOFFn?oc=5",
+      "publishedAt": "2026-08-08T21:14:19.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPc2RXclJGOEZSUm5GdnRtanlxOExWQTFMaTlwRmVyalNEYldwLXhBd0pLVmJzZi1VV2JqTVYzNnE3SlRzUzA0djNrXzFoNENWMV9aZmpIXzc2eDE0b3ZBQzQwRVJ5TjQzallZRFU0TUZEaDVYYXdDTjg4Rm1RaGFua2ZMb1VESEhhMHVOWGlsemRRbmJ3WHVjOFFn?oc=5\" target=\"_blank\">Karman Holdings (KRMN) Could Be 45% Undervalued On Q2 Earnings And Higher Guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Karman Holdings (KRMN) შესაძლოა 45%-ით ნაკლებად იყოს შეფასებული მეორე კვარტლის ფინანსური შედეგებისა და გაზრდილი პროგნოზის ფონზე",
+      "summaryKa": "მეორე კვარტლის ფინანსური შედეგებისა და გაზრდილი საპროგნოზო მაჩვენებლების ფონზე, Karman Holdings (KRMN) შესაძლოა 45%-ით ნაკლებად იყოს შეფასებული.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "58ffe8a2686ddf7b",
       "title": "U.S. Senate advances crypto bill setting up post-recess vote",
