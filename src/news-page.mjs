@@ -69,7 +69,7 @@ function layout({ title, description, canonical, body, robots = "index,follow" }
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+Georgian:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/shared.css?v=20260727-news-article">
+  <link rel="stylesheet" href="/shared.css?v=20260808-brand-system">
   <style>
     .article-shell{max-width:1000px;margin:auto;padding:42px 24px 80px}
     .article-back{display:inline-flex;align-items:center;min-height:44px;color:var(--green);font-size:12px;font-weight:800;margin-bottom:18px}

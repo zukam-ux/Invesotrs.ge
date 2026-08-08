@@ -11,6 +11,7 @@
   const signed=value=>`${Number(value)>=0?'+':'−'}${Math.abs(Number(value)||0).toFixed(2)}%`;
   function buildShell(){
     document.body.classList.add('editorial-cover');
+    const brand=document.querySelector('header .logo'); if(brand){brand.textContent='INVESTORS.GE';brand.setAttribute('aria-label','Investors.ge')}
     const search=document.querySelector('header .search');
     if(search&&!document.querySelector('.editorial-date')){
       const date=document.createElement('div'); date.className='editorial-date';
@@ -24,6 +25,13 @@
       </div></section>
       <section class="ec-shell ec-lead" id="ecLead"><div class="ec-loading">მთავარი ამბავი იტვირთება…</div></section>
       <section class="ec-shell ec-news"><div class="ec-section-head"><div><span class="ec-kicker">მუდმივად განახლებადი</span><h2 class="ec-section-title">ბოლო ამბები</h2></div><a class="ec-section-link" href="/news.html">ყველა სიახლე →</a></div><div class="ec-news-list" id="ecNews"><div class="ec-loading">სიახლეები იტვირთება…</div></div></section>
+      <section class="ec-shell ec-categories" aria-labelledby="ecCategoriesTitle">
+        <div class="ec-section-head"><div><span class="ec-kicker">NEWSROOM</span><h2 class="ec-section-title" id="ecCategoriesTitle">ამბები თემების მიხედვით</h2><p class="ec-section-note">ბაზრები, ტექნოლოგიები და ხელოვნური ინტელექტი — მკაფიოდ დაყოფილი.</p></div><a class="ec-section-link" href="/news.html">ყველა სიახლე →</a></div>
+        <div class="ec-category-grid">
+          <article class="ec-category-column"><header><span class="ec-kicker">MARKETS &amp; ECONOMY</span><h2>ბაზრები და ეკონომიკა</h2><p>ბაზრები, კომპანიები, მონეტარული პოლიტიკა, ინფლაცია და საქონელი.</p></header><div id="ecMarketsNews" class="ec-category-list"><div class="ec-loading">ამბები იტვირთება…</div></div></article>
+          <article class="ec-category-column ec-category-tech"><header><span class="ec-kicker">TECH &amp; AI</span><h2>ტექნოლოგიები და AI</h2><p>AI, ჩიპები, პროგრამული უზრუნველყოფა, ღრუბლოვანი ტექნოლოგიები და რობოტიკა.</p></header><div id="ecTechNews" class="ec-category-list"><div class="ec-loading">ამბები იტვირთება…</div></div></article>
+        </div>
+      </section>
       <section class="ec-shell ec-lower">
         <div class="ec-column"><span class="ec-kicker">ცოცხალი მონაცემები</span><h2>ბაზრების კომპასი</h2><table class="ec-table" aria-label="ბაზრის ფასები"><tbody id="ecCompass"><tr><td colspan="3">მონაცემები იტვირთება…</td></tr></tbody></table></div>
         <div class="ec-column"><span class="ec-kicker">პრაქტიკული</span><h2>ინვესტორის ხელსაწყოები</h2><a class="ec-link-card" href="/tools.html"><strong>რთული პროცენტის კალკულატორი →</strong><span>ნახე, როგორ მუშაობს დრო და რეგულარული შენატანი.</span></a><a class="ec-link-card" href="/compare.html"><strong>აქტივების შედარება →</strong><span>შეადარე აქციები, ETF-ები და კრიპტოაქტივები.</span></a><a class="ec-link-card" href="/markets.html"><strong>ბაზრის ძიება →</strong><span>იპოვე კომპანია, ინდექსი ან აქტივი.</span></a></div>
@@ -42,6 +50,11 @@
         <figure class="ec-photo"><img src="/assets/home-editorial-georgia.jpg" alt="თბილისის ფინანსური და საზოგადოებრივი არქიტექტურა" width="860" height="1075"><figcaption>საილუსტრაციო ფოტო · Investors.ge-ის სარედაქციო ვიზუალი</figcaption></figure>
         <aside class="ec-why"><span class="ec-kicker">რატომ არის მნიშვნელოვანი</span><h2>ამბავი მოკლედ</h2><ol><li>${escapeHtml(lead.summaryKa||'მთავარი ფაქტები წარმოდგენილია ქართულად.')}</li><li>მასალა ეფუძნება ${escapeHtml(lead.source||'მითითებულ საერთაშორისო წყაროს')} და ინარჩუნებს პირველწყაროს ბმულს.</li><li>გადაამოწმე სრული კონტექსტი ქართულ გვერდზე გადაწყვეტილების მიღებამდე.</li></ol></aside>`;
       document.getElementById('ecNews').innerHTML=articles.slice(1,7).map(article=>`<a class="ec-news-row" href="${articleHref(article)}"><time class="ec-news-time" datetime="${escapeHtml(article.publishedAt)}">${relativeTime(article.publishedAt)}</time><h3>${escapeHtml(article.titleKa)}</h3><div class="ec-news-meta">${escapeHtml(article.source||'წყარო')}<br>${escapeHtml(article.category||'სიახლე')}</div></a>`).join('');
+      const categoryCard=article=>`<a class="ec-category-card" href="${articleHref(article)}"><div class="ec-category-identity"><span>${escapeHtml((article.symbol||article.source||'NEWS').slice(0,4).toUpperCase())}</span><small>${relativeTime(article.publishedAt)} · ${escapeHtml(article.source||'წყარო')}</small></div><h3>${escapeHtml(article.titleKa)}</h3><p>${escapeHtml(article.summaryKa||'')}</p><em>წაიკითხე ქართულად →</em></a>`;
+      const markets=articles.filter(article=>/ბაზრ|ეკონომ|კომპანი|კრიპტო|markets|economy/i.test(`${article.category||''} ${article.titleKa||''}`)).slice(0,4);
+      const tech=articles.filter(article=>/ტექნოლოგ|ხელოვნურ|\bAI\b|ჩიპ|software|tech/i.test(`${article.category||''} ${article.titleKa||''}`)).slice(0,4);
+      document.getElementById('ecMarketsNews').innerHTML=(markets.length?markets:articles.slice(0,4)).map(categoryCard).join('');
+      document.getElementById('ecTechNews').innerHTML=(tech.length?tech:articles.slice(4,8)).map(categoryCard).join('');
     }catch(_){document.getElementById('ecLead').innerHTML='<div class="ec-loading">მთავარი ამბის ჩატვირთვა დროებით შეფერხებულია.</div>';document.getElementById('ecNews').innerHTML='<div class="ec-loading">სიახლეების ჩატვირთვა დროებით შეფერხებულია.</div>'}
   }
   function setQuote(index,value,change){const valueNode=document.querySelector(`[data-quote-value="${index}"]`),changeNode=document.querySelector(`[data-quote-change="${index}"]`);if(!valueNode||!changeNode)return;valueNode.textContent=value;changeNode.textContent=change;const number=parseFloat(String(change).replace('−','-'));changeNode.className='ec-quote-change '+(number>=0?'ec-positive':'ec-negative')}
