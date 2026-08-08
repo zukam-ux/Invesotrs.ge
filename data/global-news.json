@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T02:35:19.106Z",
+  "updatedAt": "2026-08-08T03:56:35.064Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -37,6 +37,30 @@
       "titleKa": "ბიტკოინის ფასი დღეს: 2026 წლის 7 აგვისტო",
       "summaryKa": "სტატიაში წარმოდგენილია ბიტკოინის ფასი 2026 წლის 7 აგვისტოს მდგომარეობით.",
       "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "239a0af9c7c36e07",
+      "title": "Northern Oil and Gas (NOG) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkJNb2pwN19RX3hWQnpaMHg0LUE5Q042N01STnlHU1R6ZmxzMktSRnFQM0NrS2VmQ3BlUncxaGRHc2kzbmdRME5Lel9scV9kTTJLY3hWVG1uTnBMaHhidm9lNVF2alJuTEw5bVJOZjBpN3hZSDdtVlBRWEF2NEo4WXRBblEwZ243QkN1dWoyU3Judw?oc=5",
+      "publishedAt": "2026-08-07T23:30:01.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkJNb2pwN19RX3hWQnpaMHg0LUE5Q042N01STnlHU1R6ZmxzMktSRnFQM0NrS2VmQ3BlUncxaGRHc2kzbmdRME5Lel9scV9kTTJLY3hWVG1uTnBMaHhidm9lNVF2alJuTEw5bVJOZjBpN3hZSDdtVlBRWEF2NEo4WXRBblEwZ243QkN1dWoyU3Judw?oc=5\" target=\"_blank\">Northern Oil and Gas (NOG) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Northern Oil and Gas (NOG)-ის მე-2 კვარტლის მოგება: როგორ შეესაბამება ძირითადი მაჩვენებლები Wall Street-ის პროგნოზებს",
+      "summaryKa": "სტატია განიხილავს Northern Oil and Gas (NOG)-ის მეორე კვარტლის ფინანსურ შედეგებს და იმას, თუ როგორ შეესაბამება მისი ძირითადი მაჩვენებლები Wall Street-ის პროგნოზებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "488c41e52a0d0450",
+      "title": "Is ASA Gold And Precious Metals (ASA) Undervalued As Saba Pushes Its BDC Pivot?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYldhWnE2WktLOTJtOTFfTXZucDZ4bFVRbGJoTE54cEdUd29MVVNqRWlXR3VMNW8wdWdDbndJTklIY0lreVp2eGJDMExWUi1HcjJHRVE4SVBLNGo2d0VJVFNtb2ZteUJIcnIzai02S2lFWWpDYmdWLWJIYjNkeDV3ZlFMeDJXVEtUN19CRDNWeE1uNGQtQnRvVg?oc=5",
+      "publishedAt": "2026-08-07T23:13:47.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOYldhWnE2WktLOTJtOTFfTXZucDZ4bFVRbGJoTE54cEdUd29MVVNqRWlXR3VMNW8wdWdDbndJTklIY0lreVp2eGJDMExWUi1HcjJHRVE4SVBLNGo2d0VJVFNtb2ZteUJIcnIzai02S2lFWWpDYmdWLWJIYjNkeDV3ZlFMeDJXVEtUN19CRDNWeE1uNGQtQnRvVg?oc=5\" target=\"_blank\">Is ASA Gold And Precious Metals (ASA) Undervalued As Saba Pushes Its BDC Pivot?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "არის თუ არა ASA Gold And Precious Metals (ASA) სათანადოდ დაუფასებელი, როდესაც Saba თავის BDC ტრანსფორმაციას ახორციელებს?",
+      "summaryKa": "სტატია აანალიზებს, არის თუ არა ASA Gold And Precious Metals (ASA) სათანადოდ დაუფასებელი იმ ფონზე, როდესაც Saba ცდილობს კომპანიის BDC მიმართულებით გარდაქმნას.",
+      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -184,6 +208,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "3a1edc28bc03d45e",
+      "title": "Gold Went Flat in 2026. This Award-Winning Fund Still Milks 13% Income Out of It",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX0dNdkJEME1lM09HUHgwd3d3aWRuSzBpMk0wRm1QOTBGTlZOX3ZzdEtFT1F1MWc3SmpqdXdzYlpfOTdVakItcEhNbFJFMGVzbVY5SWtMUGtMV1A5Y2owQWxhYjdkbmVHR2kxeWY3OTRlUGZ2eko0b1JIR3Jqel9mMTV1LWZrYkJLblR3elFpdVo3cW0xUVI0ZXRiTQ?oc=5",
+      "publishedAt": "2026-08-07T21:52:14.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNX0dNdkJEME1lM09HUHgwd3d3aWRuSzBpMk0wRm1QOTBGTlZOX3ZzdEtFT1F1MWc3SmpqdXdzYlpfOTdVakItcEhNbFJFMGVzbVY5SWtMUGtMV1A5Y2owQWxhYjdkbmVHR2kxeWY3OTRlUGZ2eko0b1JIR3Jqel9mMTV1LWZrYkJLblR3elFpdVo3cW0xUVI0ZXRiTQ?oc=5\" target=\"_blank\">Gold Went Flat in 2026. This Award-Winning Fund Still Milks 13% Income Out of It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ოქროს ფასი 2026 წელს სტაბილური დარჩა, თუმცა ამ ჯილდოს მფლობელმა ფონდმა მისგან მაინც 13%-იანი შემოსავალი მიიღო",
+      "summaryKa": "მიუხედავად იმისა, რომ 2026 წელს ოქროს ფასი სტაბილური დარჩა, კონკრეტულმა ჯილდოს მფლობელმა ფონდმა მისგან მაინც მოახერხა 13%-იანი შემოსავლის მიღება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "54d02f10107ebdc4",
       "title": "Stock Market Today, Aug. 7: DraftKings Surges 8% on Prediction-Market Growth After Q2 Results",
       "source": "Yahoo Finance",
@@ -193,6 +229,18 @@
       "titleKa": "საფონდო ბირჟა დღეს, 7 აგვისტო: DraftKings-ის აქციები 8%-ით იზრდება საპროგნოზო ბაზრის ზრდის ფონზე მეორე კვარტლის შედეგების შემდეგ",
       "summaryKa": "7 აგვისტოს საფონდო ბირჟაზე DraftKings-ის აქციების ფასი 8%-ით გაიზარდა მეორე კვარტლის შედეგების გამოქვეყნებისა და საპროგნოზო ბაზრის ზრდის გამო.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "62221339390d02bf",
+      "title": "CLARITY Act Likely To Fail in September. Will Crypto Prices React?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMDh0T1hwUEVwUks1S1ByRkJVNGl1UERpTkRHUnl2OW1ieDNOZm56ZFdSdTBrcmVfS0dzaTQwZEgtczBmS3VTQzU0NWhjRWs5N0N0VmQ3eGFIekNrdTI1T2xudG1uSXE3MUNDN3A3QXFabE0tTnVSaEdNLVhxNW14YjdaRndXb0o3dk5kM05DYW9vcGNKQjltek1odUZSRWM?oc=5",
+      "publishedAt": "2026-08-07T21:42:22.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMDh0T1hwUEVwUks1S1ByRkJVNGl1UERpTkRHUnl2OW1ieDNOZm56ZFdSdTBrcmVfS0dzaTQwZEgtczBmS3VTQzU0NWhjRWs5N0N0VmQ3eGFIekNrdTI1T2xudG1uSXE3MUNDN3A3QXFabE0tTnVSaEdNLVhxNW14YjdaRndXb0o3dk5kM05DYW9vcGNKQjltek1odUZSRWM?oc=5\" target=\"_blank\">CLARITY Act Likely To Fail in September. Will Crypto Prices React?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "CLARITY Act, სავარაუდოდ, ჩავარდება სექტემბერში: მოახდენს თუ არა რეაგირებას კრიპტოვალუტის ფასები?",
+      "summaryKa": "სტატია განიხილავს CLARITY Act-ის სექტემბერში ჩავარდნის ალბათობას და იმას, თუ როგორ შეიძლება აისახოს ეს კრიპტოვალუტის ფასებზე.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
