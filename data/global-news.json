@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-08T10:48:49.737Z",
+  "updatedAt": "2026-08-08T11:50:57.233Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "c02bd33e3efa3c46",
+      "title": "Perrigo (PRGO) In Focus As Q2 Earnings Beat Revives The Undervalued Narrative",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcHNKOGUtejhMaDMteGhyU1Y0OXNvbTVTREVFWXB5NnJQNTE0WEV0Y2FjZmlwZllnN3p4OHJTd1k3cDdyLWhnVlRUNFpFNC1zb1MyY2xCamphUVBjY2dMVGZkNUo4OWlVQjRhaEhnRXkzZ1doWWJ2b0M1TmhYb1lmbDh4UXBZdkRjcGl2TTYwTFRhMFhzSDFuMm5IUQ?oc=5",
+      "publishedAt": "2026-08-08T11:10:22.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOcHNKOGUtejhMaDMteGhyU1Y0OXNvbTVTREVFWXB5NnJQNTE0WEV0Y2FjZmlwZllnN3p4OHJTd1k3cDdyLWhnVlRUNFpFNC1zb1MyY2xCamphUVBjY2dMVGZkNUo4OWlVQjRhaEhnRXkzZ1doWWJ2b0M1TmhYb1lmbDh4UXBZdkRjcGl2TTYwTFRhMFhzSDFuMm5IUQ?oc=5\" target=\"_blank\">Perrigo (PRGO) In Focus As Q2 Earnings Beat Revives The Undervalued Narrative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Perrigo (PRGO) ყურადღების ცენტრშია, რადგან მეორე კვარტლის მოგების პროგნოზზე გადაჭარბებამ დაუფასებლობის შესახებ ნარატივი გააცოცხლა",
+      "summaryKa": "კომპანია Perrigo (PRGO) ყურადღების ცენტრში მოექცა მას შემდეგ, რაც მეორე კვარტლის მოგებამ მოლოდინს გადააჭარბა, რამაც მისი დაუფასებლობის შესახებ არსებული ნარატივი კვლავ გაააქტიურა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "25d16d83e5c7909b",
       "title": "Is Sempra (SRE) Undervalued Following Q2 Earnings And Updated 2026 Guidance?",
