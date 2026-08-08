@@ -17,6 +17,10 @@ wrangler.jsonc
 design-qa.md
 design-qa-comparison.png
 design-implementation-desktop.png
+design-implementation-desktop-viewport.png
 design-implementation-mobile.png
 .wrangler-preview.log
 .wrangler-preview.err.log
+INVESTORS_GE_PRODUCT_SAFE_ARCHITECTURE.md
+*.pptx
+*.ndjson

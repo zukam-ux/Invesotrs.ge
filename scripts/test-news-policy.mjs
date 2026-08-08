@@ -7,6 +7,7 @@ const shared = await readFile(new URL("../shared.js", import.meta.url), "utf8");
 const homepage = await readFile(new URL("../index.html", import.meta.url), "utf8");
 const newsPage = await readFile(new URL("../news.html", import.meta.url), "utf8");
 const georgiaPage = await readFile(new URL("../georgia.html", import.meta.url), "utf8");
+const standardsPage = await readFile(new URL("../standards.html", import.meta.url), "utf8");
 
 for (const source of ["Yahoo Finance", "Google Finance", "Nasdaq", "Bloomberg", "MarketWatch"]) {
   assert.ok(collector.includes(`"${source}"`), `${source} must be approved by the collector`);
@@ -31,6 +32,9 @@ assert.ok(homepage.includes('data-news-category="georgia"'));
 assert.ok(homepage.includes('href="georgia.html">ყველა ქართული ამბავი'));
 assert.ok(newsPage.includes('id="tech-ai"'));
 assert.ok(newsPage.includes('id="markets-economy"'));
+for (const required of ["AI გვეხმარება, მაგრამ წყარო არ არის", "შეცდომას ხილულად ვასწორებთ", "კომერციული მასალა გამოყოფილია", "რეალურ დროში"]) {
+  assert.ok(standardsPage.includes(required), `Standards page must include: ${required}`);
+}
 assert.ok(collector.includes("conflictNewsTerms"));
 assert.ok(worker.includes("conflictNewsTerms.test"));
 assert.ok(shared.includes("recentEditorialLead"));

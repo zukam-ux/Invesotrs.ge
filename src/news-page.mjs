@@ -103,7 +103,7 @@ function layout({ title, description, canonical, body, robots = "index,follow" }
   <a class="skip-link" href="#main">კონტენტზე გადასვლა</a>
   <header><nav class="nav"><a class="logo" href="/">Investors<span>.ge</span></a><div class="links"><a href="/">დღეს</a><a href="/markets">ბაზრები</a><a class="active" href="/news">სიახლეები</a><a href="/learn">ისწავლე</a><a href="/compare">შედარება</a><a href="/tools">ინსტრუმენტები</a></div><input class="nav-search" aria-label="ძიება" placeholder="კომპანია, აქცია ან კრიპტო…"><button class="lang" disabled>ქარ</button></nav></header>
   ${body}
-  <footer class="footer"><div class="footer-in"><div><a class="logo" href="/">Investors<span>.ge</span></a><p>დამოუკიდებელი ფინანსური ინფორმაცია ქართულად.</p></div><div><h4>კატეგორიები</h4><a href="/news#markets-economy">ბაზრები და ეკონომიკა</a><a href="/news#tech-ai">ტექნოლოგიები და AI</a></div><div><h4>პროდუქტი</h4><a href="/markets">ბაზრები</a><a href="/learn">ისწავლე</a></div><div><h4>სტანდარტები</h4><a href="/news">პირველწყაროები</a><a href="mailto:info@investors.ge?subject=Correction">შესწორების მოთხოვნა</a></div></div></footer>
+  <footer class="footer"><div class="footer-in"><div><a class="logo" href="/">Investors<span>.ge</span></a><p>დამოუკიდებელი ფინანსური ინფორმაცია ქართულად.</p></div><div><h4>კატეგორიები</h4><a href="/news#markets-economy">ბაზრები და ეკონომიკა</a><a href="/news#tech-ai">ტექნოლოგიები და AI</a></div><div><h4>პროდუქტი</h4><a href="/markets">ბაზრები</a><a href="/learn">ისწავლე</a></div><div><h4>სტანდარტები</h4><a href="/standards">სარედაქციო და მონაცემთა წესები</a><a href="mailto:info@investors.ge?subject=Correction">შესწორების მოთხოვნა</a></div></div></footer>
   <script src="/shared.js?v=20260727-news-article"></script>
 </body>
 </html>`;
