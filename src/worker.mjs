@@ -4,6 +4,7 @@ import {
   renderNewsNotFoundPage,
 } from "./news-page.mjs";
 import { normalizeNewsCategory } from "./content-policy.mjs";
+import { renderEditorialDashboard, renderEditorialLogin } from "./editorial-page.mjs";
 
 const NEWS_FEEDS = [
   {
@@ -422,15 +423,135 @@ function isEditoriallyPublishedSql() {
   ))`;
 }
 
-function hasEditorialAuthorization(request, env) {
+const EDITORIAL_SESSION_COOKIE = "investors_editorial_session";
+const GEORGIAN_TITLE_KEYWORDS = /ბირჟაზე|ბაზარი|ინვესტიციები|ინვესტიცია|ობლიგაციები/i;
+
+function base64UrlEncode(value) {
+  const bytes = typeof value === "string" ? new TextEncoder().encode(value) : value;
+  let binary = "";
+  for (const byte of bytes) binary += String.fromCharCode(byte);
+  return btoa(binary).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/g, "");
+}
+
+function base64UrlDecode(value) {
+  const padded = value.replace(/-/g, "+").replace(/_/g, "/").padEnd(Math.ceil(value.length / 4) * 4, "=");
+  return atob(padded);
+}
+
+async function signEditorialSession(payload, secret) {
+  const key = await crypto.subtle.importKey(
+    "raw",
+    new TextEncoder().encode(secret),
+    { name: "HMAC", hash: "SHA-256" },
+    false,
+    ["sign"],
+  );
+  const signature = await crypto.subtle.sign("HMAC", key, new TextEncoder().encode(payload));
+  return base64UrlEncode(new Uint8Array(signature));
+}
+
+function constantTimeEqual(left, right) {
+  if (left.length !== right.length) return false;
+  let difference = 0;
+  for (let index = 0; index < left.length; index += 1) {
+    difference |= left.charCodeAt(index) ^ right.charCodeAt(index);
+  }
+  return difference === 0;
+}
+
+async function createEditorialSession(env) {
+  const payload = base64UrlEncode(JSON.stringify({ role: "Investors.ge Editor", exp: Date.now() + 12 * 60 * 60 * 1000 }));
+  return `${payload}.${await signEditorialSession(payload, env.EDITORIAL_SESSION_SECRET)}`;
+}
+
+function cookieValue(request, name) {
+  const cookies = request.headers.get("cookie") || "";
+  const match = cookies.split(";").map((part) => part.trim()).find((part) => part.startsWith(`${name}=`));
+  return match ? match.slice(name.length + 1) : "";
+}
+
+async function hasValidEditorialSession(request, env) {
+  if (!env.EDITORIAL_SESSION_SECRET) return false;
+  const token = cookieValue(request, EDITORIAL_SESSION_COOKIE);
+  const [payload, providedSignature] = token.split(".");
+  if (!payload || !providedSignature) return false;
+  const expectedSignature = await signEditorialSession(payload, env.EDITORIAL_SESSION_SECRET);
+  if (!constantTimeEqual(providedSignature, expectedSignature)) return false;
+  try {
+    const session = JSON.parse(base64UrlDecode(payload));
+    return session.role === "Investors.ge Editor" && Number(session.exp) > Date.now();
+  } catch {
+    return false;
+  }
+}
+
+function hasEditorialBearer(request, env) {
   const authorization = request.headers.get("authorization") || "";
   return Boolean(
     env.EDITORIAL_REVIEW_TOKEN && authorization === `Bearer ${env.EDITORIAL_REVIEW_TOKEN}`,
   );
 }
 
+async function hasEditorialAuthorization(request, env) {
+  return hasEditorialBearer(request, env) || hasValidEditorialSession(request, env);
+}
+
+function isSameOrigin(request) {
+  const origin = request.headers.get("origin");
+  return Boolean(origin && origin === new URL(request.url).origin);
+}
+
+function editorialHtml(html, status = 200) {
+  return new Response(html, {
+    status,
+    headers: {
+      "content-type": "text/html; charset=utf-8",
+      "cache-control": "no-store",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "DENY",
+      "referrer-policy": "no-referrer",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'",
+    },
+  });
+}
+
+async function serveEditorialPage(request, env) {
+  return editorialHtml(
+    (await hasValidEditorialSession(request, env)) ? renderEditorialDashboard() : renderEditorialLogin(),
+  );
+}
+
+async function securePasswordEqual(provided, expected) {
+  if (!provided || !expected) return false;
+  const digest = async (value) => new Uint8Array(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value)));
+  const [left, right] = await Promise.all([digest(provided), digest(expected)]);
+  let difference = 0;
+  for (let index = 0; index < left.length; index += 1) difference |= left[index] ^ right[index];
+  return difference === 0;
+}
+
+async function loginEditorial(request, env) {
+  if (!isSameOrigin(request)) return json({ error: "Invalid origin" }, { status: 403 });
+  const payload = await request.json().catch(() => ({}));
+  if (!(await securePasswordEqual(String(payload.password || ""), env.EDITORIAL_ADMIN_PASSWORD || ""))) {
+    return json({ error: "Invalid credentials" }, { status: 401, headers: { "cache-control": "no-store" } });
+  }
+  const session = await createEditorialSession(env);
+  return json(
+    { authenticated: true, reviewerRole: "Investors.ge Editor" },
+    { headers: { "cache-control": "no-store", "set-cookie": `${EDITORIAL_SESSION_COOKIE}=${session}; Path=/; Max-Age=43200; HttpOnly; Secure; SameSite=Strict` } },
+  );
+}
+
+function logoutEditorial() {
+  return json(
+    { authenticated: false },
+    { headers: { "cache-control": "no-store", "set-cookie": `${EDITORIAL_SESSION_COOKIE}=; Path=/; Max-Age=0; HttpOnly; Secure; SameSite=Strict` } },
+  );
+}
+
 async function listPendingEditorialReviews(request, env) {
-  if (!hasEditorialAuthorization(request, env)) {
+  if (!(await hasEditorialAuthorization(request, env))) {
     return json({ error: "Unauthorized" }, { status: 401, headers: { "cache-control": "no-store" } });
   }
   const result = await env.DB.prepare(
@@ -448,8 +569,12 @@ async function listPendingEditorialReviews(request, env) {
 }
 
 async function reviewGeorgianArticle(request, env) {
-  if (!hasEditorialAuthorization(request, env)) {
+  const bearerAuthorized = hasEditorialBearer(request, env);
+  if (!(await hasEditorialAuthorization(request, env))) {
     return json({ error: "Unauthorized" }, { status: 401, headers: { "cache-control": "no-store" } });
+  }
+  if (!bearerAuthorized && !isSameOrigin(request)) {
+    return json({ error: "Invalid origin" }, { status: 403, headers: { "cache-control": "no-store" } });
   }
   const payload = await request.json().catch(() => ({}));
   const articleId = String(payload.articleId || "").trim();
@@ -458,7 +583,7 @@ async function reviewGeorgianArticle(request, env) {
     return json({ error: "Valid articleId and approve/reject action required" }, { status: 400 });
   }
   const article = await env.DB.prepare(
-    `SELECT id, category, editorial_status, revision
+    `SELECT id, category, editorial_status, revision, title_ka, summary_ka
      FROM articles WHERE id = ? LIMIT 1`,
   ).bind(articleId).first();
   if (!article || normalizeNewsCategory(article.category) !== "საქართველო") {
@@ -466,23 +591,49 @@ async function reviewGeorgianArticle(request, env) {
   }
   const editorialStatus = action === "approve" ? "published" : "rejected";
   const auditAction = action === "approve" ? "approved" : "rejected";
+  const titleKa = String(payload.titleKa || article.title_ka || "").trim();
+  const summaryKa = String(payload.summaryKa || article.summary_ka || "").trim();
+  if (titleKa.length < 5 || titleKa.length > 240 || summaryKa.length < 10 || summaryKa.length > 1000) {
+    return json({ error: "Title or summary length is invalid" }, { status: 400 });
+  }
+  if (action === "approve" && !GEORGIAN_TITLE_KEYWORDS.test(titleKa)) {
+    return json({ error: "Approved title must contain an allowed Georgian keyword" }, { status: 400 });
+  }
   const reviewedAt = new Date().toISOString();
   const nextRevision = Number(article.revision || 1) + 1;
   await env.DB.batch([
     env.DB.prepare(
       `UPDATE articles
-       SET editorial_status = ?, reviewed_by = 'Investors.ge Editor', reviewed_at = ?, revision = ?
+       SET title_ka = ?, summary_ka = ?, editorial_status = ?, reviewed_by = 'Investors.ge Editor', reviewed_at = ?, revision = ?
        WHERE id = ?`,
-    ).bind(editorialStatus, reviewedAt, nextRevision, articleId),
+    ).bind(titleKa, summaryKa, editorialStatus, reviewedAt, nextRevision, articleId),
     env.DB.prepare(
       `INSERT INTO editorial_reviews (article_id, action, reviewer_role, reviewed_at, revision)
        VALUES (?, ?, 'Investors.ge Editor', ?, ?)`,
     ).bind(articleId, auditAction, reviewedAt, nextRevision),
+    env.DB.prepare(
+      `INSERT INTO editorial_revision_snapshots
+       (article_id, revision, title_ka, summary_ka, editorial_status, reviewer_role, created_at)
+       VALUES (?, ?, ?, ?, ?, 'Investors.ge Editor', ?)`,
+    ).bind(articleId, nextRevision, titleKa, summaryKa, editorialStatus, reviewedAt),
   ]);
   return json(
     { articleId, status: editorialStatus, reviewerRole: "Investors.ge Editor", reviewedAt, revision: nextRevision },
     { headers: { "cache-control": "no-store" } },
   );
+}
+
+async function editorialHistory(request, env, url) {
+  if (!(await hasEditorialAuthorization(request, env))) {
+    return json({ error: "Unauthorized" }, { status: 401, headers: { "cache-control": "no-store" } });
+  }
+  const articleId = String(url.searchParams.get("id") || "");
+  if (!/^[a-f0-9]{16}$/i.test(articleId)) return json({ error: "Invalid article ID" }, { status: 400 });
+  const result = await env.DB.prepare(
+    `SELECT revision, title_ka, summary_ka, editorial_status, reviewer_role, created_at
+     FROM editorial_revision_snapshots WHERE article_id = ? ORDER BY revision DESC LIMIT 50`,
+  ).bind(articleId).all();
+  return json({ articleId, revisions: result.results }, { headers: { "cache-control": "no-store" } });
 }
 
 async function serveNews(env) {
@@ -911,6 +1062,15 @@ async function serveMarketSeries(url) {
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
+    if ((url.pathname === "/editor" || url.pathname === "/editor/") && request.method === "GET") {
+      return serveEditorialPage(request, env);
+    }
+    if (url.pathname === "/api/editorial/login" && request.method === "POST") {
+      return loginEditorial(request, env);
+    }
+    if (url.pathname === "/api/editorial/logout" && request.method === "POST") {
+      return logoutEditorial();
+    }
     if (url.pathname === "/api/news-ingest" && request.method === "POST") {
       return ingestNews(request, env);
     }
@@ -919,6 +1079,9 @@ export default {
     }
     if (url.pathname === "/api/editorial/review" && request.method === "POST") {
       return reviewGeorgianArticle(request, env);
+    }
+    if (url.pathname === "/api/editorial/history" && request.method === "GET") {
+      return editorialHistory(request, env, url);
     }
     if (url.pathname === "/data/global-news.json") return serveNews(env);
     if (url.pathname === "/api/market-data") return serveMarketData();
