@@ -1,8 +1,32 @@
 {
-  "updatedAt": "2026-08-08T23:16:00.627Z",
+  "updatedAt": "2026-08-08T23:50:34.403Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "7215721f54be9c02",
+      "title": "PPL’s Earnings Miss and Reaffirmed 2026 Guidance Might Change The Case For Investing In PPL (PPL)",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGJRN2VLak9UTHRKWHFYVUZHN2xRX1pYRkhCMnBxQS16eVlGWEhtbzhUUWZfXzEybHJTVzFXUVc0UjdvWkRYYVB0V3J3T1RNZ1N2Qi1SWFExT2pwTTRMbkN1WW9wY05PeER1QWRnMEFtZGxLaWpFd3pvR2VnYU1WLU1BLVUzWmZDUHd3cDZpakt2cG1aREJkc3ZHbVZVMTQ?oc=5",
+      "publishedAt": "2026-08-08T23:10:27.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGJRN2VLak9UTHRKWHFYVUZHN2xRX1pYRkhCMnBxQS16eVlGWEhtbzhUUWZfXzEybHJTVzFXUVc0UjdvWkRYYVB0V3J3T1RNZ1N2Qi1SWFExT2pwTTRMbkN1WW9wY05PeER1QWRnMEFtZGxLaWpFd3pvR2VnYU1WLU1BLVUzWmZDUHd3cDZpakt2cG1aREJkc3ZHbVZVMTQ?oc=5\" target=\"_blank\">PPL’s Earnings Miss and Reaffirmed 2026 Guidance Might Change The Case For Investing In PPL (PPL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "PPL-ის მიერ მოგების მოლოდინების ვერმიღწევამ და 2026 წლის სახელმძღვანელო პროგნოზის ხელახლა დადასტურებამ შესაძლოა PPL-ში (PPL) ინვესტირების მიზანშეწონილობა შეცვალოს",
+      "summaryKa": "კომპანია PPL-ის მიერ მოგების მოლოდინების ვერშესრულებამ და 2026 წლის პროგნოზის დადასტურებამ შესაძლოა მასში ინვესტირების საფუძველი შეცვალოს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c98d0fb3dc28db58",
+      "title": "Griffon's CEO Sold Into an Earnings Pop. Here's What Long-Term Investors Should Know",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNldDRXg0LURXSWVPLWRUYnVjQ1FlSUVlZzlWa3cxa0NKWTJzMFBIZGtKRzJUUXZ0ZWxtODhmNEtfanhRMkIzN1ZjcGFZSnk5MnBDVzZGcTFraHlVdjR2aVduSDU4WkhzVUlKRWNpS0tCOG05LTYtYXh1YjI3UEI2NzFXNV9iamZtNklkaVFSbkdvU2o1eVFLWXF4QQ?oc=5",
+      "publishedAt": "2026-08-08T22:52:15.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNldDRXg0LURXSWVPLWRUYnVjQ1FlSUVlZzlWa3cxa0NKWTJzMFBIZGtKRzJUUXZ0ZWxtODhmNEtfanhRMkIzN1ZjcGFZSnk5MnBDVzZGcTFraHlVdjR2aVduSDU4WkhzVUlKRWNpS0tCOG05LTYtYXh1YjI3UEI2NzFXNV9iamZtNklkaVFSbkdvU2o1eVFLWXF4QQ?oc=5\" target=\"_blank\">Griffon's CEO Sold Into an Earnings Pop. Here's What Long-Term Investors Should Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Griffon-ის გენერალურმა დირექტორმა აქციები მოგების მკვეთრი ზრდის ფონზე გაყიდა: აი, რა უნდა იცოდნენ გრძელვადიანმა ინვესტორებმა",
+      "summaryKa": "კომპანია Griffon-ის გენერალურმა დირექტორმა აქციები მოგების მაჩვენებლების ზრდის დროს გაყიდა, რაც მნიშვნელოვანი ინფორმაციაა გრძელვადიანი ინვესტორებისთვის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "9b527641a9d52373",
       "title": "Jackson Financial (JXN) Stock Looks Fully Priced With Strong Returns But Rich Earnings",
