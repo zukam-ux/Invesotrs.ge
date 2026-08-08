@@ -10,7 +10,9 @@ for (const field of ["editorial_status", "reviewed_by", "reviewed_at", "revision
 }
 assert.ok(migration.includes("editorial_reviews"));
 assert.ok(worker.includes("CASE WHEN ? = 'საქართველო' THEN 'pending' ELSE 'published' END"));
-assert.ok(worker.includes("category != 'საქართველო' OR editorial_status = 'published'"));
+for (const keyword of ["ბირჟაზე", "ბაზარი", "ინვესტიციები", "ინვესტიცია", "ობლიგაციები"]) {
+  assert.ok(worker.includes(`title LIKE '%${keyword}%'`), `Public policy must include ${keyword}`);
+}
 assert.ok(worker.includes('reviewerRole: "Investors.ge Editor"'));
 assert.ok(worker.includes('!["approve", "reject"].includes(action)'));
 assert.ok(workflow.includes("Review Georgian news"));

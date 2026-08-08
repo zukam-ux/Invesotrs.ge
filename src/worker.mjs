@@ -411,7 +411,15 @@ async function ingestNews(request, env) {
 }
 
 function isEditoriallyPublishedSql() {
-  return "(category != 'საქართველო' OR editorial_status = 'published')";
+  return `(category != 'საქართველო' OR (
+    editorial_status = 'published' AND (
+      title LIKE '%ბირჟაზე%' OR title_ka LIKE '%ბირჟაზე%' OR
+      title LIKE '%ბაზარი%' OR title_ka LIKE '%ბაზარი%' OR
+      title LIKE '%ინვესტიციები%' OR title_ka LIKE '%ინვესტიციები%' OR
+      title LIKE '%ინვესტიცია%' OR title_ka LIKE '%ინვესტიცია%' OR
+      title LIKE '%ობლიგაციები%' OR title_ka LIKE '%ობლიგაციები%'
+    )
+  ))`;
 }
 
 function hasEditorialAuthorization(request, env) {
