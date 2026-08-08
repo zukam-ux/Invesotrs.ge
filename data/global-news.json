@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-08T17:56:00.576Z",
+  "updatedAt": "2026-08-08T19:05:51.840Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "040caf1743541456",
+      "title": "What JEPQ Actually Paid the Last Time the Nasdaq Fell 10%: a Stress Test for Its 10% Yield",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcy1EcEREMkFVUUVrNm5FZklUcFRmUGI5YzljN1JNYjdYWldlTVZpdHlkV2tHNjdrLVoyckRlVFJsRkNiNHZKaW9oRDd3RGFkaFhrWXB0WFlobDFneGtsY0xwR1pVVmVvQ1BzMDFnUGxPbUdNRlZIcWpRbXppb0dMN3hBaVFZVWxHaktQMzV1UDN5NGlCQ01iSkpB?oc=5",
+      "publishedAt": "2026-08-08T18:34:54.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPcy1EcEREMkFVUUVrNm5FZklUcFRmUGI5YzljN1JNYjdYWldlTVZpdHlkV2tHNjdrLVoyckRlVFJsRkNiNHZKaW9oRDd3RGFkaFhrWXB0WFlobDFneGtsY0xwR1pVVmVvQ1BzMDFnUGxPbUdNRlZIcWpRbXppb0dMN3hBaVFZVWxHaktQMzV1UDN5NGlCQ01iSkpB?oc=5\" target=\"_blank\">What JEPQ Actually Paid the Last Time the Nasdaq Fell 10%: a Stress Test for Its 10% Yield</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "რა გადაიხადა რეალურად JEPQ-მა ბოლო დროს, როდესაც Nasdaq 10%-ით დაეცა: სტრეს-ტესტი მისი 10%-იანი შემოსავლიანობისთვის",
+      "summaryKa": "ეს სტატია მიმოიხილავს, თუ რა გადაიხადა რეალურად JEPQ-მა ბოლო დროს, როდესაც Nasdaq 10%-ით შემცირდა, რაც მისი 10%-იანი შემოსავლიანობის სტრეს-ტესტს წარმოადგენს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "a45a019140a58dc3",
       "title": "Live Nation Drew 49 Million Fans Last Quarter. Its General Counsel's Stock Just Vested",
@@ -169,6 +181,18 @@
       "titleKa": "ჯეიმი დიმონის JPMorgan ვარაუდობს, რომ მეოთხე კვარტალში ოქროს ფასი უნციაზე 5,000 დოლარს მიაღწევს, რაც ოპტიმისტური სცენარია ჰეჯირების მაძიებელი ინვესტორებისთვის",
       "summaryKa": "ჯეიმი დიმონის JPMorgan-ის პროგნოზით, ოქროს ფასი მეოთხე კვარტალში შესაძლოა უნციაზე 5,000 აშშ დოლარამდე გაიზარდოს, რაც ოპტიმისტურ შესაძლებლობას წარმოადგენს ჰეჯირების მაძიებელი ინვესტორებისთვის.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "83a8881ed0b37cb5",
+      "title": "No More Instant Crypto Transfers in Brazil? Central Bank Introduces New Law",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHVKYldJRE14MkdjTDRBcmV2emVFUW9XU003am5mMjY4ZTc5R01YNDU5ZW1OelJQNGlHZ1BUYm1zRlIyMDQtU24xcGhkZXBoZTlScEhlY3cwa1I1YlNPMHh6ZUtNUjN0WGpaTzVSY1FjbEFYS1dfSWl2bHluSlpuVlBzYktrZ2wtSHB3ZzdBRFFGemdNOXlDR2tTakc1dw?oc=5",
+      "publishedAt": "2026-08-08T15:26:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdHVKYldJRE14MkdjTDRBcmV2emVFUW9XU003am5mMjY4ZTc5R01YNDU5ZW1OelJQNGlHZ1BUYm1zRlIyMDQtU24xcGhkZXBoZTlScEhlY3cwa1I1YlNPMHh6ZUtNUjN0WGpaTzVSY1FjbEFYS1dfSWl2bHluSlpuVlBzYktrZ2wtSHB3ZzdBRFFGemdNOXlDR2tTakc1dw?oc=5\" target=\"_blank\">No More Instant Crypto Transfers in Brazil? Central Bank Introduces New Law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "აღარ იქნება კრიპტოვალუტის მყისიერი გადარიცხვები ბრაზილიაში? ცენტრალური ბანკი ახალ კანონს წარადგენს",
+      "summaryKa": "ბრაზილიის ცენტრალურ ბანკს შემოაქვს ახალი კანონი, რომელმაც შესაძლოა წერტილი დაუსვას ქვეყანაში კრიპტოვალუტის მყისიერ გადარიცხვებს.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
