@@ -1013,7 +1013,8 @@ async function serveCompanyPage(request, env, rawSymbol) {
   try {
     const company = await getCompanyData(request, env, symbol);
     if (!company) return new Response(renderCompanyNotFound(symbol), { status: 404, headers: { "content-type": "text/html; charset=utf-8" } });
-    return new Response(renderCompanyPage(company), { headers: { "content-type": "text/html; charset=utf-8", "cache-control": "public, max-age=60, s-maxage=900, stale-while-revalidate=86400", "x-content-type-options": "nosniff" } });
+    const html = renderCompanyPage(company).replace("company-page.css?v=20260808-workspace", "company-page.css?v=20260808-search-fix");
+    return new Response(html, { headers: { "content-type": "text/html; charset=utf-8", "cache-control": "public, max-age=60, s-maxage=900, stale-while-revalidate=86400", "x-content-type-options": "nosniff" } });
   } catch {
     return new Response(renderCompanyNotFound(symbol), { status: 503, headers: { "content-type": "text/html; charset=utf-8", "cache-control": "no-store" } });
   }
