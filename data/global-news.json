@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T14:03:32.361Z",
+  "updatedAt": "2026-08-08T14:47:07.510Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -204,6 +204,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQemhzNDgxdE9uYXozUGhMMDRCQThQMVFFWUtEUlFjVHJFTDM3NWtXRjc2UEVJODVHa3R5bHY5bEFvM3BtSzJZRmdJU2lkcFNjdGN6QmFUWTRFUC1RRUZMOHNZQlVXbExHaXl0RWg2ODB6UGxaaGl2ZWs3NDlJaDlPZlptdXI2MFRSWU5FY19xSTcxMnV0MXNNbF92VHRFSzVBNTlUSw?oc=5\" target=\"_blank\">Crypto Exchanges Are Seeing Less Activity. Here's What's Unprecedented, and What History Says Happens Next.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "კრიპტო ბირჟებზე აქტივობის კლება შეინიშნება: აი რა არის უპრეცედენტო და რას გვამცნობს ისტორია შემდგომი განვითარების შესახებ",
       "summaryKa": "კრიპტო ბირჟებზე აქტივობა მცირდება, ხოლო წარმოდგენილი მასალა განიხილავს ამ პროცესის უპრეცედენტო ასპექტებსა და ისტორიულ პერსპექტივას.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3d1cf15d8c822821",
+      "title": "Bitcoin rises toward $65,000 as fresh security risks hit infrastructure",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeVlJNW82cHNnLUJybHdYMHFlWTBESUs5NVpnRUI2WS1jU29oclY0X2N0dUVjQzh3TnplM2V5Zl9lS3p1Qm1nWHFLMzY1SmNtb3B5R2hYVlY5UHFId1VvVDBDbWVwVEY2Zzd0ck4zc09NRWlSbW9HOW9LZGpZRUlCSzZjazlEQmEwNGo5Tm50MC1nWUJSWE1V?oc=5",
+      "publishedAt": "2026-08-08T09:21:16.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeVlJNW82cHNnLUJybHdYMHFlWTBESUs5NVpnRUI2WS1jU29oclY0X2N0dUVjQzh3TnplM2V5Zl9lS3p1Qm1nWHFLMzY1SmNtb3B5R2hYVlY5UHFId1VvVDBDbWVwVEY2Zzd0ck4zc09NRWlSbW9HOW9LZGpZRUlCSzZjazlEQmEwNGo5Tm50MC1nWUJSWE1V?oc=5\" target=\"_blank\">Bitcoin rises toward $65,000 as fresh security risks hit infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ბიტკოინი 65,000 დოლარისკენ იზრდება, რადგან ინფრასტრუქტურას უსაფრთხოების ახალი რისკები დაატყდა თავს",
+      "summaryKa": "ბიტკოინის ფასი 65,000 დოლარის ნიშნულისკენ იზრდება იმ ფონზე, როდესაც ახალმა უსაფრთხოების რისკებმა ინფრასტრუქტურას დაარტყა.",
       "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
