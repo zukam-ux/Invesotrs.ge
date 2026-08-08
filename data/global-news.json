@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-08T20:30:28.562Z",
+  "updatedAt": "2026-08-08T20:59:19.228Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "58ffe8a2686ddf7b",
+      "title": "U.S. Senate advances crypto bill setting up post-recess vote",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkZvcUhMbDdZTjRBNTl5aDVROGdNTVpvT0ZxUUEzS0lGNTlESFZwVllUa0RjbnRNREJKcW40MUZjMlptMi1rUjBEWXRtUG5RZlJfTUo0bUtROG5hM3NNemowY05aN3J1UWN6TnA5M2N5RURHWENUWDhiWU1hVkV6VTRfYVJ6SjBXTkxhMmgtNjZiS0p0YnZ6Vlhn?oc=5",
+      "publishedAt": "2026-08-08T20:37:15.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkZvcUhMbDdZTjRBNTl5aDVROGdNTVpvT0ZxUUEzS0lGNTlESFZwVllUa0RjbnRNREJKcW40MUZjMlptMi1rUjBEWXRtUG5RZlJfTUo0bUtROG5hM3NNemowY05aN3J1UWN6TnA5M2N5RURHWENUWDhiWU1hVkV6VTRfYVJ6SjBXTkxhMmgtNjZiS0p0YnZ6Vlhn?oc=5\" target=\"_blank\">U.S. Senate advances crypto bill setting up post-recess vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "აშშ-ის სენატმა წინ წაწია კრიპტოკანონპროექტი, რაც საფუძველს უყრის კენჭისყრას არდადეგების შემდეგ",
+      "summaryKa": "აშშ-ის სენატმა წინ წაწია კრიპტოვალუტის შესახებ კანონპროექტი, რითაც მოამზადა პლატფორმა არდადეგების შემდგომი კენჭისყრისთვის.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "040caf1743541456",
       "title": "What JEPQ Actually Paid the Last Time the Nasdaq Fell 10%: a Stress Test for Its 10% Yield",
