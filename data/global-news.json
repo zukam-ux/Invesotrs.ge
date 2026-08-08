@@ -1,8 +1,56 @@
 {
-  "updatedAt": "2026-08-08T14:47:07.510Z",
+  "updatedAt": "2026-08-08T15:17:20.411Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "f6c4385bdbf27cbc",
+      "title": "Rates and Inflation Upend SVP’s Distressed German Playbook",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTks4Tm54aVcwMUNLb1NSam1kUExyR0gxQmRZRkhFa2VHenJjNzF3RW5EejB4cFZ0UGk3RmlpckxORnlidk9aNVNlZGtHaHUwTFU4czNkQ0NtTXhPZVRuY3hOdnhSRHJKWTQyN2pFTWxWQWt1VG16RXliNFJvcFE3ZEZoWjliVEdxRjQtbDVSOFZocWZma3VmYmI2d1p6S2FjenhCemgzc1AwM01kbU1uTDF3?oc=5",
+      "publishedAt": "2026-08-08T15:00:01.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQTks4Tm54aVcwMUNLb1NSam1kUExyR0gxQmRZRkhFa2VHenJjNzF3RW5EejB4cFZ0UGk3RmlpckxORnlidk9aNVNlZGtHaHUwTFU4czNkQ0NtTXhPZVRuY3hOdnhSRHJKWTQyN2pFTWxWQWt1VG16RXliNFJvcFE3ZEZoWjliVEdxRjQtbDVSOFZocWZma3VmYmI2d1p6S2FjenhCemgzc1AwM01kbU1uTDF3?oc=5\" target=\"_blank\">Rates and Inflation Upend SVP’s Distressed German Playbook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "საპროცენტო განაკვეთები და ინფლაცია SVP-ის პრობლემური აქტივების გერმანულ სტრატეგიას თავდაყირა აყენებს",
+      "summaryKa": "საპროცენტო განაკვეთების ზრდა და ინფლაცია SVP-ის პრობლემური აქტივების მართვის გერმანულ სტრატეგიას მნიშვნელოვნად ცვლის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3177a01260c53fdf",
+      "title": "Inflation Becomes Wall Street’s Next Big Test After U.S. Stocks Hit Record Highs",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRXl3WGZDZUhmU0k3M0tCMzdZVEM2VU5CUVY5RGlWOWFWdXFlb29WcVZiS3hzZFVEWVdQLVhGMVh0Tk9iWEk1WUtyMHNKTjh2MlotQmRwZzljdTZYMjFXRmtWZEVHSXhiLXFWLVMyOVRLWkNabGxrLS1Wbi1VRnNMMDRvSnFKQkFzTHEtZk5KMmpJd3hSNU1Cbko2aHhVLUdJ?oc=5",
+      "publishedAt": "2026-08-08T14:30:06.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPRXl3WGZDZUhmU0k3M0tCMzdZVEM2VU5CUVY5RGlWOWFWdXFlb29WcVZiS3hzZFVEWVdQLVhGMVh0Tk9iWEk1WUtyMHNKTjh2MlotQmRwZzljdTZYMjFXRmtWZEVHSXhiLXFWLVMyOVRLWkNabGxrLS1Wbi1VRnNMMDRvSnFKQkFzTHEtZk5KMmpJd3hSNU1Cbko2aHhVLUdJ?oc=5\" target=\"_blank\">Inflation Becomes Wall Street’s Next Big Test After U.S. Stocks Hit Record Highs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ინფლაცია უოლ სტრიტის შემდეგი დიდი გამოცდა ხდება აშშ-ის აქციების მიერ რეკორდული მაქსიმუმების მიღწევის შემდეგ",
+      "summaryKa": "აშშ-ის აქციების მიერ რეკორდული მაქსიმუმების მიღწევის შემდეგ, ინფლაცია უოლ სტრიტისთვის მორიგ დიდ გამოცდად იქცევა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e17c3d32329c193f",
+      "title": "Everyone's Chasing AI Data Center Stocks. This 5%-Yielding Dividend Stock Already Owns a Piece of the Boom.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcGtmU05HenZNUlpXWHNIMjhBeHZTTDRIWjhLWFpORGV1cTh6cF9TY0I1VGRyTzYwckhuNkRYZkl0S3NJbFZSX3NkOUJDWkVMSDBWTXRJMEctMnljZFRibzlsbS1RTmxPcFZpUjRQNXRLZnlhR1BZVGdHdUp3NWxha1pHTmUzdXg2UnpBUDMyU1RlU05tcXkyVmhn?oc=5",
+      "publishedAt": "2026-08-08T14:20:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQcGtmU05HenZNUlpXWHNIMjhBeHZTTDRIWjhLWFpORGV1cTh6cF9TY0I1VGRyTzYwckhuNkRYZkl0S3NJbFZSX3NkOUJDWkVMSDBWTXRJMEctMnljZFRibzlsbS1RTmxPcFZpUjRQNXRLZnlhR1BZVGdHdUp3NWxha1pHTmUzdXg2UnpBUDMyU1RlU05tcXkyVmhn?oc=5\" target=\"_blank\">Everyone's Chasing AI Data Center Stocks. This 5%-Yielding Dividend Stock Already Owns a Piece of the Boom.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ყველა ხელოვნური ინტელექტის მონაცემთა ცენტრების აქციებს მისდევს. ეს 5%-იანი შემოსავლიანობის მქონე დივიდენდური აქცია უკვე ფლობს წილს ამ ბუმში",
+      "summaryKa": "მიუხედავად იმისა, რომ ყველა ხელოვნური ინტელექტის მონაცემთა ცენტრების აქციებს ეძებს, ეს 5%-იანი დივიდენდის მქონე აქცია უკვე მონაწილეობს აღნიშნულ ბუმში.",
+      "category": "AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8aef3eb082a741a4",
+      "title": "Wall Street Sees a Multitrillion-Dollar Humanoid Robot Market. These 2 Industrial Stocks Sell the Parts.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVENJd29fY1dFQUxQcV9IWFlNQ1VWVHVmTFlLbjgyY1RPbmNjc05QNDFYUGhGTFBTN0Z1Y2RTTkhCOUJEMmpqWU9CYVZwZElKblM0TUJXMFVKX3NxY1J1bG8zRnB2QmtpUExJNmlYZ0JKUEtuVFZiMUF4cXd6OXRCZE9pWjlmWGJkSTlnRHlNUlFyV1p2ZTBaS08zUjBDYTMxNi1N?oc=5",
+      "publishedAt": "2026-08-08T13:25:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNVENJd29fY1dFQUxQcV9IWFlNQ1VWVHVmTFlLbjgyY1RPbmNjc05QNDFYUGhGTFBTN0Z1Y2RTTkhCOUJEMmpqWU9CYVZwZElKblM0TUJXMFVKX3NxY1J1bG8zRnB2QmtpUExJNmlYZ0JKUEtuVFZiMUF4cXd6OXRCZE9pWjlmWGJkSTlnRHlNUlFyV1p2ZTBaS08zUjBDYTMxNi1N?oc=5\" target=\"_blank\">Wall Street Sees a Multitrillion-Dollar Humanoid Robot Market. These 2 Industrial Stocks Sell the Parts.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "უოლ სტრიტი ჰუმანოიდური რობოტების მულტიტრილიონიან ბაზარს ხედავს. ეს 2 ინდუსტრიული აქცია საჭირო ნაწილებს ყიდის",
+      "summaryKa": "უოლ სტრიტის პროგნოზით ჰუმანოიდური რობოტების ბაზარი მულტიტრილიონიანი გახდება, ხოლო ორი ინდუსტრიული კომპანიის აქციები ამ რობოტების ნაწილებს ყიდის.",
+      "category": "ტექნოლოგიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "77d9f7304227d720",
       "title": "Uni-President China Holdings (SEHK:220) After Earnings Growth, Is The Valuation Too Rich?",
