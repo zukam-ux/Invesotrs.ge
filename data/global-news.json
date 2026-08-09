@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T06:05:15.806Z",
+  "updatedAt": "2026-08-09T07:13:07.457Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -781,6 +781,18 @@
       "titleKa": "ჰაკერებმა ცივი საფულეებიდან ბიტკოინის მოსაპარად ხრიკი იპოვეს და $110 მილიონი მიითვისეს",
       "summaryKa": "ჰაკერებმა აღმოაჩინეს ხერხი ცივი საფულეებიდან ბიტკოინების მოსაპარად და ამ გზით $110 მილიონი მოიპარეს.",
       "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "61aac0f229c7584a",
+      "title": "Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzhGLTJDTXFvZEdBRXlPc0FRU1MzRDJXcGk1RjdsdElFR3FEdEtmX3BiOUxWX3FOUW5nZlY3aW1Nd2NydTZRZy05dS1fcExMdUk5NW1Kb1owQmdmT1NNcG5wVDlWZDMzYlczR0Q2NGl1UzhHZmluVndqOUsza19sQW1ZZEtiN3FsbWJDRWZmX3VuR2RxZVczSTZfVGtXRFB5VHBFeEt0b0dRODUycUllRl9TenA?oc=5",
+      "publishedAt": "2026-08-08T11:13:30.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzhGLTJDTXFvZEdBRXlPc0FRU1MzRDJXcGk1RjdsdElFR3FEdEtmX3BiOUxWX3FOUW5nZlY3aW1Nd2NydTZRZy05dS1fcExMdUk5NW1Kb1owQmdmT1NNcG5wVDlWZDMzYlczR0Q2NGl1UzhHZmluVndqOUsza19sQW1ZZEtiN3FsbWJDRWZmX3VuR2RxZVczSTZfVGtXRFB5VHBFeEt0b0dRODUycUllRl9TenA?oc=5\" target=\"_blank\">Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "სინგაპური უზრუნველყოფს, რომ ხელოვნური ინტელექტი დაეხმაროს სამუშაო ადგილებზე შეშფოთებულ მუშაკებს, აცხადებს პრემიერ-მინისტრი",
+      "summaryKa": "სინგაპურის პრემიერ-მინისტრის განცხადებით, ქვეყანა უზრუნველყოფს, რომ ხელოვნური ინტელექტი დაეხმაროს იმ დასაქმებულებს, რომლებიც საკუთარი სამუშაო ადგილების გამო წუხან.",
+      "category": "AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
