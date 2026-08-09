@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-08-09T14:05:27.885Z",
+  "updatedAt": "2026-08-09T14:50:09.560Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "94c11042c0818ed2",
+      "title": "Crocs (CROX) Is Up 6.7% After Earnings Beat And Larger Buybacks Authorization Has The Bull Case Changed?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWN0bVc3dXdSaDhCQXUtaHdzamF0dGJxU3Y3QUVncHFuLTlubkxLQlBQMFVOUmYxTzVhM2ZQSTZGM2JPWDlwQmdoMEVIalk0Y1hnNXJzdFlmYlN2X0JUVG1rNkxGdDJZZGVjRXFJdm5nRnlDM0NLRWg0NVV5VjdEVGdyY1FaSUVGYmZuVk5ac0VpQQ?oc=5",
+      "publishedAt": "2026-08-09T14:11:03.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWN0bVc3dXdSaDhCQXUtaHdzamF0dGJxU3Y3QUVncHFuLTlubkxLQlBQMFVOUmYxTzVhM2ZQSTZGM2JPWDlwQmdoMEVIalk0Y1hnNXJzdFlmYlN2X0JUVG1rNkxGdDJZZGVjRXFJdm5nRnlDM0NLRWg0NVV5VjdEVGdyY1FaSUVGYmZuVk5ac0VpQQ?oc=5\" target=\"_blank\">Crocs (CROX) Is Up 6.7% After Earnings Beat And Larger Buybacks Authorization Has The Bull Case Changed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Crocs (CROX) 6.7%-ით გაიზარდა მოგების მოლოდინების გადაჭარბებისა და აქციების გამოსყიდვის უფლებამოსილების გაზრდის შემდეგ; შეიცვალა თუ არა ხარის პოზიცია (Bull Case)?",
+      "summaryKa": "Crocs-ის (CROX) აქციები 6.7%-ით გაიზარდა მას შემდეგ, რაც კომპანიამ მოგების მოლოდინებს გადააჭარბა და აქციების გამოსყიდვის პროგრამა გაზარდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "99f123d4d8204b2c",
+      "title": "Is Ormat Technologies (ORA) Undervalued Following Its Raised 2026 Outlook And Earnings Beat?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWk5hOThYOEQ0NG1tdVhDRXNNMDN2dHNnV0ZNeF9jb1NoOGRDRFlEZ1VWOFFpd2JySl95bzJyRV91QXpRc1NuRzk1NHJfY1cwUlc1aGxNU1ZKMWNTLWhfN2dHUzB3TVVoQnFTaExHR09CQmdyazh0XzJCSEdKUjRpdDR3dFBNU1llRWVza1pOajZrMlFNbGVyeXhnX0daWHJSTk9PbThRUU9MUjhJSkE?oc=5",
+      "publishedAt": "2026-08-09T14:10:54.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQWk5hOThYOEQ0NG1tdVhDRXNNMDN2dHNnV0ZNeF9jb1NoOGRDRFlEZ1VWOFFpd2JySl95bzJyRV91QXpRc1NuRzk1NHJfY1cwUlc1aGxNU1ZKMWNTLWhfN2dHUzB3TVVoQnFTaExHR09CQmdyazh0XzJCSEdKUjRpdDR3dFBNU1llRWVza1pOajZrMlFNbGVyeXhnX0daWHJSTk9PbThRUU9MUjhJSkE?oc=5\" target=\"_blank\">Is Ormat Technologies (ORA) Undervalued Following Its Raised 2026 Outlook And Earnings Beat?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "არის თუ არა Ormat Technologies (ORA) დაუფასებელი 2026 წლის პროგნოზის გაზრდისა და მოგების მოლოდინების გადაჭარბების შემდეგ?",
+      "summaryKa": "Ormat Technologies-მა (ORA) მოგების მოლოდინებს გადააჭარბა და 2026 წლის პროგნოზი გაზარდა, რის გამოც ჩნდება კითხვა, არის თუ არა მისი აქციები დაუფასებელი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "10059b589e672a1c",
+      "title": "DorianG (LPG) Posted Record Quarterly Earnings, Is The Stock Still Below Fair Value?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJMWkdNQV90SnQxQ1Zkb3QtS285ZFFoUEllUmVrcGtKeVF4c3hQVUk1cHJ5X3FGdGRXb3J6TVNSUmtKMUdTVFRicmlpV2pjbEVXemFCSXZlRE5xYkJMeXJvN2hKSjE3WUZoc2U5dnBUVDI1VWk5eFpyenJVZFFPaXV5eWNxNTN1Y3VHenBBV090Y2pFcWdrUUNOYnpwaHZLX2c?oc=5",
+      "publishedAt": "2026-08-09T14:10:47.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJMWkdNQV90SnQxQ1Zkb3QtS285ZFFoUEllUmVrcGtKeVF4c3hQVUk1cHJ5X3FGdGRXb3J6TVNSUmtKMUdTVFRicmlpV2pjbEVXemFCSXZlRE5xYkJMeXJvN2hKSjE3WUZoc2U5dnBUVDI1VWk5eFpyenJVZFFPaXV5eWNxNTN1Y3VHenBBV090Y2pFcWdrUUNOYnpwaHZLX2c?oc=5\" target=\"_blank\">DorianG (LPG) Posted Record Quarterly Earnings, Is The Stock Still Below Fair Value?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "DorianG-მა (LPG) რეკორდული კვარტალური მოგება დააფიქსირა; არის თუ არა აქცია კვლავ სამართლიან ღირებულებაზე დაბლა?",
+      "summaryKa": "DorianG-მა (LPG) რეკორდული კვარტალური მოგება დააფიქსირა, რის ფონზეც ისმის კითხვა, ფასდება თუ არა აქცია კვლავ მის სამართლიან ღირებულებაზე დაბლა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "66531905eef41b5d",
       "title": "S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.",
@@ -16,6 +52,18 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
+      "id": "e1168ca1883662b7",
+      "title": "S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2ZRMUlDYXNwUVE1VzVJdWlBTTF6UG1wSnZXZlJ4MmR5QzJUX3hLVGFIWDZVMDI0RkJKYUpmNmExTVNMcjdOVUhXazlYY3NSWFRvampmTS1Pc1JwMGpPTzd1ZlVoVy0wNDFtNHBuc3o0eHpxLTJWZFp3dTQwb0t4aEFab0luMGJtVkpvNzE1S19sNXdjTFhNMS1NdF96NHVRMEY0VXZPUXNFV2Z6bkxtbXV3VjluVUh4dUdZ?oc=5",
+      "publishedAt": "2026-08-09T14:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2ZRMUlDYXNwUVE1VzVJdWlBTTF6UG1wSnZXZlJ4MmR5QzJUX3hLVGFIWDZVMDI0RkJKYUpmNmExTVNMcjdOVUhXazlYY3NSWFRvampmTS1Pc1JwMGpPTzd1ZlVoVy0wNDFtNHBuc3o0eHpxLTJWZFp3dTQwb0t4aEFab0luMGJtVkpvNzE1S19sNXdjTFhNMS1NdF96NHVRMEY0VXZPUXNFV2Z6bkxtbXV3VjluVUh4dUdZ?oc=5\" target=\"_blank\">S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "titleKa": "S&P 500-ის გაყიდვების ზრდა თითქმის 5-წლიან მაქსიმუმზეა: აი, რა დგას ამ ზრდის უკან.",
+      "summaryKa": "S&P 500-ის გაყიდვების ზრდა თითქმის 5-წლიან მაქსიმუმს აღწევს და განხილულია მიზეზები, რომლებიც ამ მკვეთრ მატებას განაპირობებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
       "id": "7fe8eba53a25ea8e",
       "title": "3 High-Yield Dividend Stocks to Load Up On Before 2026 Ends",
       "source": "Yahoo Finance",
@@ -25,6 +73,18 @@
       "titleKa": "3 მაღალშემოსავლიანი დივიდენდური აქცია, რომელთა მარაგიც 2026 წლის დასრულებამდე უნდა შეავსოთ",
       "summaryKa": "სტატიაში საუბარია სამ მაღალშემოსავლიან დივიდენდურ აქციაზე, რომელთა შეძენაც 2026 წლის ბოლომდეა რეკომენდებული.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9e441bcc6acb005e",
+      "title": "Citi Recommends Buying the Dip in Memory Stocks as AI Cycle Gains Momentum",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZXd3eldHamt4T2h0UEJHeU4yLWQ4Q2w0ci0wd2FsdVJNVzNQaDNTWC1OWm5MVXBDOUJVQmF4THZBTkdmbkZpLXlKeEtNRFJyWDhDaVFYNHVuZ2NSNk9pcE1UaU94cllrLU9xZlpWV3VPaXdDaENXNWlGMy1wQkF6VE5WN2kzOWpYY1pFVzBvSm4wcWpnXzhJMkcxN0tjUQ?oc=5",
+      "publishedAt": "2026-08-09T13:38:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZXd3eldHamt4T2h0UEJHeU4yLWQ4Q2w0ci0wd2FsdVJNVzNQaDNTWC1OWm5MVXBDOUJVQmF4THZBTkdmbkZpLXlKeEtNRFJyWDhDaVFYNHVuZ2NSNk9pcE1UaU94cllrLU9xZlpWV3VPaXdDaENXNWlGMy1wQkF6VE5WN2kzOWpYY1pFVzBvSm4wcWpnXzhJMkcxN0tjUQ?oc=5\" target=\"_blank\">Citi Recommends Buying the Dip in Memory Stocks as AI Cycle Gains Momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Citi რეკომენდაციას უწევს მეხსიერების ჩიპების მწარმოებელი კომპანიების აქციების ვარდნისას შეძენას, რადგან AI ციკლი იმპულსს იკრებს",
+      "summaryKa": "ხელოვნური ინტელექტის (AI) ციკლის გააქტიურების ფონზე, Citi ინვესტორებს ურჩევს შეიძინონ მეხსიერების ჩიპების მწარმოებელი კომპანიების აქციები ფასის კლების დროს.",
+      "category": "AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
