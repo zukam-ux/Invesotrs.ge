@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-09T15:19:04.938Z",
+  "updatedAt": "2026-08-09T20:58:39.048Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "8cea508dc7c45d63",
+      "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekZqaU9GcklaQ29YeHdHNWxpbElkM3FwYmFUZHlId1dNQmpsb05BajJWT2o2aWMtbzNFaDIzd0w3V2dVbEc1MEpYSU14RW1aQ2s5bUZSdHZEZTF4bG9oUDdGOHFySEVHem52Z0Y1RmNWSkp0S0NkWHRTbzZ0V0MwU18xWXJHeDN6Rjc2eGtCN1FQM2o2YTRhZjdENUdDZlZVWnVVNG5sdExBMzMxMUtneDFHTGctazZmVy1PeXlaMDNjU09RR2NmdUdfRVNGUWpab3U4?oc=5",
+      "publishedAt": "2026-08-09T19:11:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekZqaU9GcklaQ29YeHdHNWxpbElkM3FwYmFUZHlId1dNQmpsb05BajJWT2o2aWMtbzNFaDIzd0w3V2dVbEc1MEpYSU14RW1aQ2s5bUZSdHZEZTF4bG9oUDdGOHFySEVHem52Z0Y1RmNWSkp0S0NkWHRTbzZ0V0MwU18xWXJHeDN6Rjc2eGtCN1FQM2o2YTRhZjdENUdDZlZVWnVVNG5sdExBMzMxMUtneDFHTGctazZmVy1PeXlaMDNjU09RR2NmdUdfRVNGUWpab3U4?oc=5\" target=\"_blank\">The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "titleKa": "აქციების რაოდენობა, რომლებიც S&P 500-ს სჯობს, ბოლო 4 წლის განმავლობაში ყველაზე მაღალია. რატომ უნდა გაიზარდოს ეს რიცხვი.",
+      "summaryKa": "იმ აქციების რაოდენობამ, რომლებიც S&P 500 ინდექსს უსწრებენ, ბოლო 4 წლის განმავლობაში მაქსიმუმს მიაღწია, და განხილულია მიზეზები, თუ რატომ უნდა გაიზარდოს ეს მაჩვენებელი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "94c11042c0818ed2",
       "title": "Crocs (CROX) Is Up 6.7% After Earnings Beat And Larger Buybacks Authorization Has The Bull Case Changed?",
@@ -97,18 +109,6 @@
       "titleKa": "მეხსიერების სექტორის აქციები თავიანთი მაქსიმუმებიდან 30%-ით ან მეტით არის შემცირებული, თუმცა ამ 2-ის ყიდვა ახლა ღირს",
       "summaryKa": "მეხსიერების სექტორის აქციები მაქსიმალური მაჩვენებლებიდან 30%-ით ან მეტით არის შემცირებული, თუმცა არსებობს ორი მათგანი, რომელთა ყიდვაც ახლაა მიზანშეწონილი.",
       "category": "ტექნოლოგიები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "8cea508dc7c45d63",
-      "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
-      "source": "MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekZqaU9GcklaQ29YeHdHNWxpbElkM3FwYmFUZHlId1dNQmpsb05BajJWT2o2aWMtbzNFaDIzd0w3V2dVbEc1MEpYSU14RW1aQ2s5bUZSdHZEZTF4bG9oUDdGOHFySEVHem52Z0Y1RmNWSkp0S0NkWHRTbzZ0V0MwU18xWXJHeDN6Rjc2eGtCN1FQM2o2YTRhZjdENUdDZlZVWnVVNG5sdExBMzMxMUtneDFHTGctazZmVy1PeXlaMDNjU09RR2NmdUdfRVNGUWpab3U4?oc=5",
-      "publishedAt": "2026-08-09T13:00:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekZqaU9GcklaQ29YeHdHNWxpbElkM3FwYmFUZHlId1dNQmpsb05BajJWT2o2aWMtbzNFaDIzd0w3V2dVbEc1MEpYSU14RW1aQ2s5bUZSdHZEZTF4bG9oUDdGOHFySEVHem52Z0Y1RmNWSkp0S0NkWHRTbzZ0V0MwU18xWXJHeDN6Rjc2eGtCN1FQM2o2YTRhZjdENUdDZlZVWnVVNG5sdExBMzMxMUtneDFHTGctazZmVy1PeXlaMDNjU09RR2NmdUdfRVNGUWpab3U4?oc=5\" target=\"_blank\">The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-      "titleKa": "აქციების რაოდენობა, რომლებიც S&P 500-ს სჯობს, ბოლო 4 წლის განმავლობაში ყველაზე მაღალია. რატომ უნდა გაიზარდოს ეს რიცხვი.",
-      "summaryKa": "იმ აქციების რაოდენობამ, რომლებიც S&P 500 ინდექსს უსწრებენ, ბოლო 4 წლის განმავლობაში მაქსიმუმს მიაღწია, და განხილულია მიზეზები, თუ რატომ უნდა გაიზარდოს ეს მაჩვენებელი.",
-      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
