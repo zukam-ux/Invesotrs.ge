@@ -1,8 +1,104 @@
 {
-  "updatedAt": "2026-08-09T07:13:07.457Z",
+  "updatedAt": "2026-08-09T08:00:34.877Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "3999f0f41ab03d15",
+      "title": "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObjRCOVFHWFRBVlhfMVVrbVl1cTB5MG1NZkZpV1V6ZlJoLUF5RnBuN0JBTFJDeVg3MC1vdU5JbGZ1UndMT3VvU2ozXzhKVGtvMFVodEFQSlZzOXFfYmFPV2o2bG8xMjI4Q0h2N1ZkS1Z4RVJ2a1dlQ3NNTUNhZHVlSVkxcnRZNWRNc1kxdVVadkRQLVZodUtNcDJn?oc=5",
+      "publishedAt": "2026-08-09T07:25:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObjRCOVFHWFRBVlhfMVVrbVl1cTB5MG1NZkZpV1V6ZlJoLUF5RnBuN0JBTFJDeVg3MC1vdU5JbGZ1UndMT3VvU2ozXzhKVGtvMFVodEFQSlZzOXFfYmFPV2o2bG8xMjI4Q0h2N1ZkS1Z4RVJ2a1dlQ3NNTUNhZHVlSVkxcnRZNWRNc1kxdVVadkRQLVZodUtNcDJn?oc=5\" target=\"_blank\">Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ქეთი ვუდის Ark-მა Meta-ს ფინანსური იმედგაცრუების შემდეგ Nvidia და Taiwan Semiconductor შეიძინა: აი, რას ნიშნავს ეს ხელოვნური ინტელექტის (AI) აქციებისთვის",
+      "summaryKa": "Meta-ს მიერ მოლოდინების გაცდენის შემდეგ, ქეთი ვუდის კუთვნილმა Ark-მა Nvidia-ს და Taiwan Semiconductor-ის აქციები შეისყიდა, რაც ხელოვნური ინტელექტის (AI) აქციებისთვის გარკვეულ სიგნალს წარმოადგენს.",
+      "category": "AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7b78e08f5f7659d5",
+      "title": "Brown Forman (BF.B) Stock May Be 26% Undervalued Despite Fair Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNENFb2ZkZDJzWVdPaFVJd05CM25rRlNzTmE1RUdaNUxKYjhmNjF1VTFRVVNHaUhCbTN4R0k0UEY0WGpQZ082RXI2NmwyRGp4bGlUVE9rbm1wMEZ1V0JmU2dVYkRGaGJrb095RVFRU1pxRF9YMXY4bVptSzlHeTNrMk9xZ0FucFp2cXMycjh6YzdQQQ?oc=5",
+      "publishedAt": "2026-08-09T07:16:19.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPNENFb2ZkZDJzWVdPaFVJd05CM25rRlNzTmE1RUdaNUxKYjhmNjF1VTFRVVNHaUhCbTN4R0k0UEY0WGpQZ082RXI2NmwyRGp4bGlUVE9rbm1wMEZ1V0JmU2dVYkRGaGJrb095RVFRU1pxRF9YMXY4bVptSzlHeTNrMk9xZ0FucFp2cXMycjh6YzdQQQ?oc=5\" target=\"_blank\">Brown Forman (BF.B) Stock May Be 26% Undervalued Despite Fair Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Brown Forman-ის (BF.B) აქციები, შესაძლოა, 26%-ით იყოს დაუფასებელი, მიუხედავად დამაკმაყოფილებელი მოგებისა",
+      "summaryKa": "Brown Forman-ის (BF.B) აქციები, მიუხედავად მისაღები ფინანსური შედეგებისა, შესაძლოა 26%-ით დაუფასებელი იყოს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1a636d55290321ca",
+      "title": "Is First Advantage (FA) Still Worth A Look On Raised Guidance And Strong Earnings?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEJJWFpwTUlxUjVOdU91aVFVbFZiTzVUejhBOUE3VEs5TzJpM1EwaUhVX0V6V1FMV3hkd0ZGcllVTXVtaVpsRGIwa1JfeS1Ubk1WckZSa2EyTWIxZ3pfWFFxNkZIclIxTkt1MFYtT3VlWmFUN1dnQTN1UU1NWmUxdC1FczNNVF9kSk95R3ltYXhrNnN2ZWNjUy00Zw?oc=5",
+      "publishedAt": "2026-08-09T07:15:47.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEJJWFpwTUlxUjVOdU91aVFVbFZiTzVUejhBOUE3VEs5TzJpM1EwaUhVX0V6V1FMV3hkd0ZGcllVTXVtaVpsRGIwa1JfeS1Ubk1WckZSa2EyTWIxZ3pfWFFxNkZIclIxTkt1MFYtT3VlWmFUN1dnQTN1UU1NWmUxdC1FczNNVF9kSk95R3ltYXhrNnN2ZWNjUy00Zw?oc=5\" target=\"_blank\">Is First Advantage (FA) Still Worth A Look On Raised Guidance And Strong Earnings?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ღირს თუ არა First Advantage-ის (FA) განხილვა გაზრდილი პროგნოზებისა და ძლიერი მოგების ფონზე?",
+      "summaryKa": "სტატია სვამს კითხვას, არის თუ არა First Advantage (FA) კვლავ საინტერესო განსახილველად გაზრდილი ფინანსური პროგნოზებისა და ძლიერი მოგების ფონზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3e0e2a42c9a3816e",
+      "title": "Did Ball’s (BALL) Stronger Q2 2026 Earnings Just Shift Its Risk‑Reward Narrative?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPclNMU0ZYNVVEN25mMTZKaHFBUFE5WWY0VF9wM0FMRkJBUURHZExCSW1qNFBRNU5uQ0h5TkE3VVRVZ3ZIeWVOUEY1Qjc3VnNxbXZLWHI3XzRhT2xXYXZqMEh3b1BxdzJnM3FkZ3ZWNGJybE5GX3Bha0U4V1NBUTJNZ3dMQ29nX19UWHNrQ0lmT3g2TlRy?oc=5",
+      "publishedAt": "2026-08-09T07:15:08.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPclNMU0ZYNVVEN25mMTZKaHFBUFE5WWY0VF9wM0FMRkJBUURHZExCSW1qNFBRNU5uQ0h5TkE3VVRVZ3ZIeWVOUEY1Qjc3VnNxbXZLWHI3XzRhT2xXYXZqMEh3b1BxdzJnM3FkZ3ZWNGJybE5GX3Bha0U4V1NBUTJNZ3dMQ29nX19UWHNrQ0lmT3g2TlRy?oc=5\" target=\"_blank\">Did Ball’s (BALL) Stronger Q2 2026 Earnings Just Shift Its Risk‑Reward Narrative?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "შეცვალა თუ არა Ball-ის (BALL) მოსალოდნელზე ძლიერმა 2026 წლის მეორე კვარტლის მოგებამ მისი რისკისა და სარგებლის ნარატივი?",
+      "summaryKa": "Ball-ის (BALL) 2026 წლის მეორე კვარტლის ძლიერმა ფინანსურმა მაჩვენებლებმა, შესაძლოა, შეცვალა მისი რისკისა და სარგებლის თანაფარდობის ნარატივი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "04373a6096a15836",
+      "title": "Canadian Natural Resources (TSX:CNQ) Posts Record Q2 And Revisits Oil Sands Expansion",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUJLMXFnQ0toWVBPQ09xLVhTMU9CVW1XU3dvMDdqdmNfNW9qTlNnYndnRHBwYjBsX3JhdzQ1M3RVdmhJTmJLWERGNk1zMGU1YnRXNlNwazlYc2tMYWhsU3ROWkFVZF8zeUdMaUFWZHpjcTdnRy00Tk1HVWxXMUctRWtRaks1SXRVWlRUcnpIVkhKbnVUd3c?oc=5",
+      "publishedAt": "2026-08-09T07:14:53.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUJLMXFnQ0toWVBPQ09xLVhTMU9CVW1XU3dvMDdqdmNfNW9qTlNnYndnRHBwYjBsX3JhdzQ1M3RVdmhJTmJLWERGNk1zMGU1YnRXNlNwazlYc2tMYWhsU3ROWkFVZF8zeUdMaUFWZHpjcTdnRy00Tk1HVWxXMUctRWtRaks1SXRVWlRUcnpIVkhKbnVUd3c?oc=5\" target=\"_blank\">Canadian Natural Resources (TSX:CNQ) Posts Record Q2 And Revisits Oil Sands Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Canadian Natural Resources-მა (TSX:CNQ) რეკორდული მეორე კვარტლის შედეგები გამოაქვეყნა და ნავთობის ქვიშების გაფართოების გეგმას დაუბრუნდა",
+      "summaryKa": "Canadian Natural Resources-მა (TSX:CNQ) მეორე კვარტალში რეკორდული შედეგები დააფიქსირა და კვლავ დაიწყო ნავთობის ქვიშების გაფართოების განხილვა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b9102460ed063e15",
+      "title": "Jeff Bezos' Amazon Stock Surged 14% After a Blowout Earnings Beat, Adding $25 Billion to His Fortune. Is the Stock Still a Buy After the Rally?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTi1BWFNHN09xS1hDa0tRM09JeWo4WHV1aGRKT2tRM2NxSmVaTEZ1RS0ta0VrNWJEcTRIWEtTVUJFWG1nNjYyRnpqQUNwVlpQejQyWFFPdWU2TWRLQ3VyaElZMi1mdWVlX09lb2NVVi04RExZQ0VIdmpHZ01kanhrMEhXenhpMFoxV2l0Y2VQbWozYWN2Nmd2WHo1Yw?oc=5",
+      "publishedAt": "2026-08-09T06:35:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPTi1BWFNHN09xS1hDa0tRM09JeWo4WHV1aGRKT2tRM2NxSmVaTEZ1RS0ta0VrNWJEcTRIWEtTVUJFWG1nNjYyRnpqQUNwVlpQejQyWFFPdWU2TWRLQ3VyaElZMi1mdWVlX09lb2NVVi04RExZQ0VIdmpHZ01kanhrMEhXenhpMFoxV2l0Y2VQbWozYWN2Nmd2WHo1Yw?oc=5\" target=\"_blank\">Jeff Bezos' Amazon Stock Surged 14% After a Blowout Earnings Beat, Adding $25 Billion to His Fortune. Is the Stock Still a Buy After the Rally?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ჯეფ ბეზოსის კუთვნილი Amazon-ის აქციები შთამბეჭდავი კვარტალური შედეგების შემდეგ 14%-ით გაიზარდა, რამაც მის ქონებას 25 მილიარდი დოლარი შემატა: არის თუ არა აქცია კვლავ საყიდლად მიმზიდველი ამ ზრდის შემდეგ?",
+      "summaryKa": "Amazon-ის აქციების 14%-იანმა ზრდამ ძლიერი ფინანსური შედეგების შემდეგ ჯეფ ბეზოსის ქონებას 25 მილიარდი დოლარი შემატა, რაც აჩენს კითხვას, ღირს თუ არა კვლავ აქციების შეძენა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "fc6221e58a490a75",
+      "title": "Capital Southwest (CSWC) Could Be Fully Valued Following Earnings And A Supplemental Dividend",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOei02dDU4QlEtaDNFQV9vMUdmY1JhSWs1bk9XRE9mVjhZaU1jak1lVTE4Ty0yYURuMGhaU3BORldTQms3SHMtTTdHS1ptU3B6YVN5NFhBOVhrYmJQVXBzbUtLOFlfalNzMElqaDRoVWJoVGtyVzdLdTlld1hGR0htRmkwVGRxbVF0clhxQkhwMlBTWTVnUFdUZ1RfTE90OVRH?oc=5",
+      "publishedAt": "2026-08-09T06:13:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOei02dDU4QlEtaDNFQV9vMUdmY1JhSWs1bk9XRE9mVjhZaU1jak1lVTE4Ty0yYURuMGhaU3BORldTQms3SHMtTTdHS1ptU3B6YVN5NFhBOVhrYmJQVXBzbUtLOFlfalNzMElqaDRoVWJoVGtyVzdLdTlld1hGR0htRmkwVGRxbVF0clhxQkhwMlBTWTVnUFdUZ1RfTE90OVRH?oc=5\" target=\"_blank\">Capital Southwest (CSWC) Could Be Fully Valued Following Earnings And A Supplemental Dividend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Capital Southwest (CSWC) შესაძლოა სრულად შეფასებული იყოს ფინანსური შედეგებისა და დამატებითი დივიდენდის გამოცხადების შემდეგ",
+      "summaryKa": "Capital Southwest (CSWC) შესაძლოა უკვე სრულად იყოს შეფასებული მიღებული ფინანსური შედეგებისა და დამატებითი დივიდენდის გადახდის შემდეგ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f6c4385bdbf27cbc",
+      "title": "Rates and Inflation Upend SVP’s Distressed German Playbook",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTks4Tm54aVcwMUNLb1NSam1kUExyR0gxQmRZRkhFa2VHenJjNzF3RW5EejB4cFZ0UGk3RmlpckxORnlidk9aNVNlZGtHaHUwTFU4czNkQ0NtTXhPZVRuY3hOdnhSRHJKWTQyN2pFTWxWQWt1VG16RXliNFJvcFE3ZEZoWjliVEdxRjQtbDVSOFZocWZma3VmYmI2d1p6S2FjenhCemgzc1AwM01kbU1uTDF3?oc=5",
+      "publishedAt": "2026-08-09T06:01:23.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQTks4Tm54aVcwMUNLb1NSam1kUExyR0gxQmRZRkhFa2VHenJjNzF3RW5EejB4cFZ0UGk3RmlpckxORnlidk9aNVNlZGtHaHUwTFU4czNkQ0NtTXhPZVRuY3hOdnhSRHJKWTQyN2pFTWxWQWt1VG16RXliNFJvcFE3ZEZoWjliVEdxRjQtbDVSOFZocWZma3VmYmI2d1p6S2FjenhCemgzc1AwM01kbU1uTDF3?oc=5\" target=\"_blank\">Rates and Inflation Upend SVP’s Distressed German Playbook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "საპროცენტო განაკვეთები და ინფლაცია SVP-ის პრობლემური აქტივების გერმანულ სტრატეგიას თავდაყირა აყენებს",
+      "summaryKa": "საპროცენტო განაკვეთების ზრდა და ინფლაცია SVP-ის პრობლემური აქტივების მართვის გერმანულ სტრატეგიას მნიშვნელოვნად ცვლის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "ca114be2a25de40e",
       "title": "Is Realty Income (O) Below Fair Value Following Earnings And Its Equity Offering?",
@@ -16,15 +112,15 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "f6c4385bdbf27cbc",
-      "title": "Rates and Inflation Upend SVP’s Distressed German Playbook",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTks4Tm54aVcwMUNLb1NSam1kUExyR0gxQmRZRkhFa2VHenJjNzF3RW5EejB4cFZ0UGk3RmlpckxORnlidk9aNVNlZGtHaHUwTFU4czNkQ0NtTXhPZVRuY3hOdnhSRHJKWTQyN2pFTWxWQWt1VG16RXliNFJvcFE3ZEZoWjliVEdxRjQtbDVSOFZocWZma3VmYmI2d1p6S2FjenhCemgzc1AwM01kbU1uTDF3?oc=5",
-      "publishedAt": "2026-08-09T04:31:17.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQTks4Tm54aVcwMUNLb1NSam1kUExyR0gxQmRZRkhFa2VHenJjNzF3RW5EejB4cFZ0UGk3RmlpckxORnlidk9aNVNlZGtHaHUwTFU4czNkQ0NtTXhPZVRuY3hOdnhSRHJKWTQyN2pFTWxWQWt1VG16RXliNFJvcFE3ZEZoWjliVEdxRjQtbDVSOFZocWZma3VmYmI2d1p6S2FjenhCemgzc1AwM01kbU1uTDF3?oc=5\" target=\"_blank\">Rates and Inflation Upend SVP’s Distressed German Playbook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "საპროცენტო განაკვეთები და ინფლაცია SVP-ის პრობლემური აქტივების გერმანულ სტრატეგიას თავდაყირა აყენებს",
-      "summaryKa": "საპროცენტო განაკვეთების ზრდა და ინფლაცია SVP-ის პრობლემური აქტივების მართვის გერმანულ სტრატეგიას მნიშვნელოვნად ცვლის.",
-      "category": "ბაზრები და ეკონომიკა",
+      "id": "bd91f01179d845b8",
+      "title": "Trump Media & Technology Group (DJT) Faces A Fresh Valuation Test Following Its Crypto Pullback And TAE Merger Focus",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGhRREdobWdjdjFFRTZ3ZTZZNWtNcXV1aUIzNlZUZmRWQTV2eGhxSDRMM2wzalZBNWlmUXVJb2paQXZ0ajc1XzVpMUpYRXY4ckdHeFI4XzVST2pGU0hZQXNuMVlzY0NaQzVObkZuT0swWXdqbmdNbHBXWjVJYV80dTkwWWhhak9hU3dDUE9SdE5zQng1bFd3djNiZVBXQQ?oc=5",
+      "publishedAt": "2026-08-09T04:27:12.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPbGhRREdobWdjdjFFRTZ3ZTZZNWtNcXV1aUIzNlZUZmRWQTV2eGhxSDRMM2wzalZBNWlmUXVJb2paQXZ0ajc1XzVpMUpYRXY4ckdHeFI4XzVST2pGU0hZQXNuMVlzY0NaQzVObkZuT0swWXdqbmdNbHBXWjVJYV80dTkwWWhhak9hU3dDUE9SdE5zQng1bFd3djNiZVBXQQ?oc=5\" target=\"_blank\">Trump Media & Technology Group (DJT) Faces A Fresh Valuation Test Following Its Crypto Pullback And TAE Merger Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Trump Media & Technology Group (DJT) შეფასების ახალი გამოცდის წინაშე დგას კრიპტოვალუტის უკანდახევისა და TAE-სთან შერწყმაზე ფოკუსირების შემდეგ",
+      "summaryKa": "კრიპტობაზრიდან უკანდახევის და TAE-სთან შერწყმაზე ფოკუსირების ფონზე, Trump Media & Technology Group (DJT) შეფასების ახალ გამოცდას გადის.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
@@ -265,6 +361,18 @@
       "titleKa": "არის თუ არა Innospec (IOSP) კვლავ სათანადოზე დაბლად შეფასებული მე-2 კვარტლის მოგების მაჩვენებლების გადაჭარბების შემდეგ?",
       "summaryKa": "სტატია განიხილავს, რჩება თუ არა კომპანია Innospec (IOSP) არასათანადოდ შეფასებულად მას შემდეგ, რაც მისმა მეორე კვარტლის მოგებამ მოლოდინებს გადააჭარბა.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "34d33e66fa9415c3",
+      "title": "Bitcoin ETFs Are Having Their Best Week Since April. Did the Coldcard Hack Push $853M Into Bitcoin ETFs?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFdMQ1YwUHo0R2lCS09CdjFXQ0cxdGE1eURRcy1EenZWeVozR1E2ZEZvRW56Sm5lUDBKelRCMk5BRXJEODdLcFhKNjFub2xRUVFwZzVjOUhlOW1NZXBUOGgyeWJkTURraHd4aVgzajVWdU5zSFNIU0ZVUTdoMGE3VTdsT19HZk1QUVJPMF9BY2ZHMFdLLWloRGtn?oc=5",
+      "publishedAt": "2026-08-08T22:10:57.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFdMQ1YwUHo0R2lCS09CdjFXQ0cxdGE1eURRcy1EenZWeVozR1E2ZEZvRW56Sm5lUDBKelRCMk5BRXJEODdLcFhKNjFub2xRUVFwZzVjOUhlOW1NZXBUOGgyeWJkTURraHd4aVgzajVWdU5zSFNIU0ZVUTdoMGE3VTdsT19HZk1QUVJPMF9BY2ZHMFdLLWloRGtn?oc=5\" target=\"_blank\">Bitcoin ETFs Are Having Their Best Week Since April. Did the Coldcard Hack Push $853M Into Bitcoin ETFs?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ბიტკოინ ETF-ებს აპრილის შემდეგ საუკეთესო კვირა აქვთ: გამოიწვია თუ არა Coldcard-ის ჰაკერულმა თავდასხმამ ბიტკოინ ETF-ებში 853 მილიონი დოლარის შესვლა?",
+      "summaryKa": "ბიტკოინ ETF-ებისთვის ეს აპრილის შემდეგ საუკეთესო კვირაა, ხოლო Coldcard-ის ჰაკერულმა თავდასხმამ შესაძლოა ხელი შეუწყო მათში 853 მილიონი დოლარის შესვლას.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
