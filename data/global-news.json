@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-08T23:50:34.403Z",
+  "updatedAt": "2026-08-09T00:41:58.091Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "63cc8bbe73935f1b",
+      "title": "Earnings Calendar for:",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uNmo2RkZuZmN0VUVKWEM5M3lPZktxN014YkFHRG5nNVNmbm10bEVMNV9VbmlaZnJSV0FwTkZEZE1tc2NhZlBycFdDd2U3WWtFWnZVOVRqSEUwVkl5X2lBUjZpWFFUM3AwWEE?oc=5",
+      "publishedAt": "2026-08-09T00:02:42.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5uNmo2RkZuZmN0VUVKWEM5M3lPZktxN014YkFHRG5nNVNmbm10bEVMNV9VbmlaZnJSV0FwTkZEZE1tc2NhZlBycFdDd2U3WWtFWnZVOVRqSEUwVkl5X2lBUjZpWFFUM3AwWEE?oc=5\" target=\"_blank\">Earnings Calendar for:</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "მოგების კალენდარი შემდეგი პერიოდისთვის:",
+      "summaryKa": "მოცემული გვერდი წარმოადგენს კომპანიების ფინანსური მოგების ანგარიშგებების გამოქვეყნების კალენდარს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "7215721f54be9c02",
       "title": "PPL’s Earnings Miss and Reaffirmed 2026 Guidance Might Change The Case For Investing In PPL (PPL)",
@@ -24,6 +36,18 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNldDRXg0LURXSWVPLWRUYnVjQ1FlSUVlZzlWa3cxa0NKWTJzMFBIZGtKRzJUUXZ0ZWxtODhmNEtfanhRMkIzN1ZjcGFZSnk5MnBDVzZGcTFraHlVdjR2aVduSDU4WkhzVUlKRWNpS0tCOG05LTYtYXh1YjI3UEI2NzFXNV9iamZtNklkaVFSbkdvU2o1eVFLWXF4QQ?oc=5\" target=\"_blank\">Griffon's CEO Sold Into an Earnings Pop. Here's What Long-Term Investors Should Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "Griffon-ის გენერალურმა დირექტორმა აქციები მოგების მკვეთრი ზრდის ფონზე გაყიდა: აი, რა უნდა იცოდნენ გრძელვადიანმა ინვესტორებმა",
       "summaryKa": "კომპანია Griffon-ის გენერალურმა დირექტორმა აქციები მოგების მაჩვენებლების ზრდის დროს გაყიდა, რაც მნიშვნელოვანი ინფორმაციაა გრძელვადიანი ინვესტორებისთვის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5af8e6cefb5809f1",
+      "title": "Kevin O'Leary Says Wall Street Is Booming While Main Street Still Feels Inflation's Pain",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHo4NDIxZ3M2Z0J1bFFLQ1dHQmpYM0ZsbmUyUnVyb1RYWGlsU2Vhc1pKNUNkZDk0TzBTSUZoVmliX1dfMmFrdXBQMy1CemJIbk1oZXpIajljMTRmbXl2YUFIV1dOZ0VtcDhaWWVZTjFjajI0cGFYRFM3UHpjVzVFSTgzSHFyaXNkVmk4akdLV0E?oc=5",
+      "publishedAt": "2026-08-08T22:30:15.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHo4NDIxZ3M2Z0J1bFFLQ1dHQmpYM0ZsbmUyUnVyb1RYWGlsU2Vhc1pKNUNkZDk0TzBTSUZoVmliX1dfMmFrdXBQMy1CemJIbk1oZXpIajljMTRmbXl2YUFIV1dOZ0VtcDhaWWVZTjFjajI0cGFYRFM3UHpjVzVFSTgzSHFyaXNkVmk4akdLV0E?oc=5\" target=\"_blank\">Kevin O'Leary Says Wall Street Is Booming While Main Street Still Feels Inflation's Pain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "კევინ ო'ლირი აცხადებს, რომ უოლ-სტრიტი ყვავის, მაშინ როცა მეინ-სტრიტი კვლავ განიცდის ინფლაციისგან გამოწვეულ ტკივილს",
+      "summaryKa": "კევინ ო'ლირის განცხადებით, უოლ-სტრიტი ბუმს განიცდის, თუმცა მეინ-სტრიტი კვლავ გრძნობს ინფლაციით გამოწვეულ სირთულეებს.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
