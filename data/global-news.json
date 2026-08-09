@@ -1,8 +1,68 @@
 {
-  "updatedAt": "2026-08-09T11:18:39.494Z",
+  "updatedAt": "2026-08-09T11:52:27.294Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "2b0f6ef1a4a79651",
+      "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN29tUTN4WXpkU2VBVGFreXR6ZjJnRW5EZUNraWthVmtXRGVKS3dhb0o0eGZnLXdtLU1WQUZnTXBlaUtZV044QVVCdTROYVh6VF9mWDhZY3Y1QlUyZl9SUXJBbTVxN3hIb3NWZXl2LUNObUYtRUpiMVItWHk2bkRZcGlQeXR6Q1E3VUZhN2dnWDNuc1ZraTl0ZkswaGhkUDBaTWhGWTFoZ2ZNa1l4M3NfRC1Ma1BhaGxMZEVlbVhOemNIbEhBZTktVGFqc1pGaUpNYkFMMA?oc=5",
+      "publishedAt": "2026-08-09T11:35:29.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN29tUTN4WXpkU2VBVGFreXR6ZjJnRW5EZUNraWthVmtXRGVKS3dhb0o0eGZnLXdtLU1WQUZnTXBlaUtZV044QVVCdTROYVh6VF9mWDhZY3Y1QlUyZl9SUXJBbTVxN3hIb3NWZXl2LUNObUYtRUpiMVItWHk2bkRZcGlQeXR6Q1E3VUZhN2dnWDNuc1ZraTl0ZkswaGhkUDBaTWhGWTFoZ2ZNa1l4M3NfRC1Ma1BhaGxMZEVlbVhOemNIbEhBZTktVGFqc1pGaUpNYkFMMA?oc=5\" target=\"_blank\">'Very little to like': Wall Street assesses surprise July jobs report as stocks jump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "„ძალიან ცოტა რამ თუ მოგეწონებათ“: უოლ სტრიტი ივლისის მოულოდნელ დასაქმების ანგარიშს აფასებს, პარალელურად კი აქციები იზრდება",
+      "summaryKa": "უოლ სტრიტი ივლისის მოულოდნელ დასაქმების ანგარიშს აფასებს, რომელშიც „ძალიან ცოტა მოსაწონი მხარეა“, მაშინ როცა აქციების ფასები იზრდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "dc9281810dc02725",
+      "title": "Gold’s breakout could force investors back in: Chart of the Day",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNajd2NjctSkkwRmQwT2JDdEFIOVNkYW5hTnd3ZTY3cWVzNGJKb0FHQ0ExaFQ0MVpvRlVtbndPeFQyc3VNZE83TGRNOUpUek4yeUZpWEJCLW5WMWEtOVBZdmtBVlNwa296dFhHUnJrQWRnektZMm5SNkl2Z0ttQWNhLV9JQnlFSWtmY2lHUHhWd0twRGF3LXBSQ1ZUN1ZReHoxZU04UzJBNlQ2OXRSR0lXUTV6UGVrUTR2ZEE?oc=5",
+      "publishedAt": "2026-08-09T11:30:04.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNajd2NjctSkkwRmQwT2JDdEFIOVNkYW5hTnd3ZTY3cWVzNGJKb0FHQ0ExaFQ0MVpvRlVtbndPeFQyc3VNZE83TGRNOUpUek4yeUZpWEJCLW5WMWEtOVBZdmtBVlNwa296dFhHUnJrQWRnektZMm5SNkl2Z0ttQWNhLV9JQnlFSWtmY2lHUHhWd0twRGF3LXBSQ1ZUN1ZReHoxZU04UzJBNlQ2OXRSR0lXUTV6UGVrUTR2ZEE?oc=5\" target=\"_blank\">Gold’s breakout could force investors back in: Chart of the Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ოქროს ფასის გარღვევამ შესაძლოა ინვესტორები უკან დაბრუნება აიძულოს: დღის დიაგრამა",
+      "summaryKa": "დღის დიაგრამა აჩვენებს, რომ ოქროს ფასის გარღვევამ შესაძლოა ინვესტორები ბაზარზე დაბრუნება აიძულოს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2e3eec3c881b74ed",
+      "title": "Jyske Bank (CPSE:JYSK) Stock May Be 42% Undervalued On Earnings Power",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdEdySkd0RjFjcUVYMEVmYnVwNVVYMW94TzlLVWtUVXhGdlV0NW50X3E2Z1liTUlIbFN2dTV3SWVUcGZfNWtsVUYxNzdORVRFUnVqeE9Lc0pPUlFjN1Z0VGFIN3hleEI2YlpVUWlwREJ5S3Y0UnE1TDdvMC1Vcl9hOFFfeHJCVG1QLW5LQ0E2VGF5LXd4REE?oc=5",
+      "publishedAt": "2026-08-09T11:15:14.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdEdySkd0RjFjcUVYMEVmYnVwNVVYMW94TzlLVWtUVXhGdlV0NW50X3E2Z1liTUlIbFN2dTV3SWVUcGZfNWtsVUYxNzdORVRFUnVqeE9Lc0pPUlFjN1Z0VGFIN3hleEI2YlpVUWlwREJ5S3Y0UnE1TDdvMC1Vcl9hOFFfeHJCVG1QLW5LQ0E2VGF5LXd4REE?oc=5\" target=\"_blank\">Jyske Bank (CPSE:JYSK) Stock May Be 42% Undervalued On Earnings Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Jyske Bank-ის (CPSE:JYSK) აქცია, შესაძლოა, 42%-ით ნაკლებად იყოს შეფასებული შემოსავლების პოტენციალიდან გამომდინარე",
+      "summaryKa": "Jyske Bank-ის (CPSE:JYSK) აქციები, შესაძლოა, 42%-ით ნაკლებად იყოს შეფასებული მისი მოგების გამომუშავების უნარის გათვალისწინებით.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "01946a229362cdcc",
+      "title": "Dauch (DCH) After Earnings And Loss Guidance Is The Undervalued Case Still Open",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUGZmY3pIanNYazhvVlBRWGRISHZZdXhEU1dIUGtuejZoY1A5WVlucE12RlduRm5scDZNZFM2VTZ4RWtjcG14S3hfckNmcE5wV0UzNmNFZnhQUGhRSVl6YVZmNUlZZUllNWFUclc5QU96V1l3ZWVGejc3QnkwQUdnMThVV3U3NHNCQVV1c2dDZkhMU1NEc1hFcGdpN25Gdw?oc=5",
+      "publishedAt": "2026-08-09T11:14:56.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUGZmY3pIanNYazhvVlBRWGRISHZZdXhEU1dIUGtuejZoY1A5WVlucE12RlduRm5scDZNZFM2VTZ4RWtjcG14S3hfckNmcE5wV0UzNmNFZnhQUGhRSVl6YVZmNUlZZUllNWFUclc5QU96V1l3ZWVGejc3QnkwQUdnMThVV3U3NHNCQVV1c2dDZkhMU1NEc1hFcGdpN25Gdw?oc=5\" target=\"_blank\">Dauch (DCH) After Earnings And Loss Guidance Is The Undervalued Case Still Open</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Dauch (DCH) შემოსავლებისა და ზარალის პროგნოზის შემდეგ: კვლავ აქტუალურია თუ არა შეფასებაზე დაბალი ღირებულების საკითხი?",
+      "summaryKa": "ფინანსური შემოსავლებისა და ზარალის პროგნოზის გამოქვეყნების შემდეგ, ისევ ღიად რჩება საკითხი, არის თუ არა Dauch (DCH) შეფასებაზე ნაკლები ღირებულების მქონე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "0dd68222167ee6ab",
+      "title": "3 Crypto Earnings to Watch This Week After Q1 Losses",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVVU29CLXd6MG95WGFSdm5KRnBNcVhRS3JTVklBdGY2WUhENWlMM3ZrN3EyRWdnUEI4WkNzcHhTZHJpUEZ3MEtwdTRIbmRMbnk5YnNNR29mZ0trY1M2V3p1R204UXFCNzZIUVpxRmtwQzVPYU9MR2Y4aTVWMVN3Wlk4S1VKeVNadVQ1eWxxME9pVGpGdUVkOQ?oc=5",
+      "publishedAt": "2026-08-09T11:14:38.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVVU29CLXd6MG95WGFSdm5KRnBNcVhRS3JTVklBdGY2WUhENWlMM3ZrN3EyRWdnUEI4WkNzcHhTZHJpUEZ3MEtwdTRIbmRMbnk5YnNNR29mZ0trY1M2V3p1R204UXFCNzZIUVpxRmtwQzVPYU9MR2Y4aTVWMVN3Wlk4S1VKeVNadVQ1eWxxME9pVGpGdUVkOQ?oc=5\" target=\"_blank\">3 Crypto Earnings to Watch This Week After Q1 Losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "3 კრიპტო კომპანიის ფინანსური შედეგები, რომლებსაც მიმდინარე კვირაში უნდა მივადევნოთ თვალი პირველი კვარტლის ზარალის შემდეგ",
+      "summaryKa": "პირველ კვარტალში მიღებული ზარალის შემდეგ, მიმდინარე კვირაში ყურადღების ცენტრში სამი კრიპტო კომპანიის ფინანსური ანგარიშგება იქნება.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "c6609a64a241a90d",
       "title": "Elon Musk's SpaceX Just Delivered Its First Earnings Report as a Public Company. Here's the 1 Number That Matters Most.",
@@ -121,6 +181,18 @@
       "titleKa": "2 ძირითადი ინდიკატორი AI ინფრასტრუქტურასა და ინფლაციაზე: რას მივაქციოთ ყურადღება ამ კვირაში",
       "summaryKa": "ამ კვირაში ყურადღება უნდა გამახვილდეს ორ ძირითად ინდიკატორზე, რომლებიც ეხება ხელოვნური ინტელექტის (AI) ინფრასტრუქტურასა და ინფლაციას.",
       "category": "AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "364d6ec222b5c3af",
+      "title": "Can Crypto Advance Without the CLARITY Act? Grayscale Says Yes",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdlS2haZ3RsUHJDdTkwSVJXWTc5TGZfemZpS2FNa3NRMjdhOTNYaUczYXpmdU80WFhYZUR5ajFhZzJnSWZQNXdodHdXM2w5LTBOdUowSHBFUW5NQWpGTnJRSG1Bek9wM0xobDBqeEFqN05XVUprZHEwYmtMbXd0U2pETTJuQmFFRE1Eb2xTVUVHZjVkYmw1NHBkZW9wVkZr?oc=5",
+      "publishedAt": "2026-08-09T09:57:31.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdlS2haZ3RsUHJDdTkwSVJXWTc5TGZfemZpS2FNa3NRMjdhOTNYaUczYXpmdU80WFhYZUR5ajFhZzJnSWZQNXdodHdXM2w5LTBOdUowSHBFUW5NQWpGTnJRSG1Bek9wM0xobDBqeEFqN05XVUprZHEwYmtMbXd0U2pETTJuQmFFRE1Eb2xTVUVHZjVkYmw1NHBkZW9wVkZr?oc=5\" target=\"_blank\">Can Crypto Advance Without the CLARITY Act? Grayscale Says Yes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "შეუძლია თუ არა კრიპტოს წინსვლა CLARITY Act-ის გარეშე? Grayscale აცხადებს, რომ დიახ",
+      "summaryKa": "კომპანია Grayscale მიიჩნევს, რომ კრიპტო სფეროს შეუძლია წინსვლა CLARITY Act-ის გარეშეც.",
+      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
