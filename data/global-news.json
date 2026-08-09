@@ -1,8 +1,68 @@
 {
-  "updatedAt": "2026-08-09T08:00:34.877Z",
+  "updatedAt": "2026-08-09T09:22:13.098Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "c4be34e978ab43d2",
+      "title": "All It Takes Is $10,000 in Each of These 3 Dividend Stocks for $1,700+ a Year in Passive Income",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU1FmeEhLdGhJd2JGZzdpdUR2c1l6bzV6dlBXdVNhRF9pR0M5S2FUSmZVeGxUTy1HTGJuX1V1Rjl1cEw3T2FaeTZxeGhnNTVGZWZWZGpnbWJsTGxKa2swQU15NFB6LVVKTGpOS3luRlBWbVNVV3ZZNGlDVzc2Z1llWEt6R3BmNW12bERvNF9yMU5CZw?oc=5",
+      "publishedAt": "2026-08-09T09:05:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNU1FmeEhLdGhJd2JGZzdpdUR2c1l6bzV6dlBXdVNhRF9pR0M5S2FUSmZVeGxUTy1HTGJuX1V1Rjl1cEw3T2FaeTZxeGhnNTVGZWZWZGpnbWJsTGxKa2swQU15NFB6LVVKTGpOS3luRlBWbVNVV3ZZNGlDVzc2Z1llWEt6R3BmNW12bERvNF9yMU5CZw?oc=5\" target=\"_blank\">All It Takes Is $10,000 in Each of These 3 Dividend Stocks for $1,700+ a Year in Passive Income</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "სულ რაღაც 10,000 აშშ დოლარი თითოეულ ამ 3 დივიდენდურ აქციაში წელიწადში 1,700-ზე მეტ აშშ დოლარს მოგიტანთ პასიური შემოსავლის სახით",
+      "summaryKa": "თითოეულ ამ სამ დივიდენდურ აქციაში 10,000 აშშ დოლარის ინვესტირება წლიურად 1,700 აშშ დოლარზე მეტ პასიურ შემოსავალს უზრუნველყოფს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "cd5a2dd80d4b9f65",
+      "title": "If You'd Invested $1,000 in the Vanguard S&P 500 ETF 10 Years Ago, Here's What You'd Have Today",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUVuYnJpMFdMdUJmbzZFekQ1b19wODI3TGRqUDNHc05rWWUwNlVuSkU2anhVQWlQSGk1UlgwNzV2TmoyWkxtcUhhOGxvMFprVm9XUHlfOURpSXFmREQwMjdnUEoxUHdONUp4ZllFaUlXbi0wZHZwZDdXRUpJalhYOGp0T0IwYXZZbF9OMmp4aVVPMFdBU3puVg?oc=5",
+      "publishedAt": "2026-08-09T08:34:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUVuYnJpMFdMdUJmbzZFekQ1b19wODI3TGRqUDNHc05rWWUwNlVuSkU2anhVQWlQSGk1UlgwNzV2TmoyWkxtcUhhOGxvMFprVm9XUHlfOURpSXFmREQwMjdnUEoxUHdONUp4ZllFaUlXbi0wZHZwZDdXRUpJalhYOGp0T0IwYXZZbF9OMmp4aVVPMFdBU3puVg?oc=5\" target=\"_blank\">If You'd Invested $1,000 in the Vanguard S&P 500 ETF 10 Years Ago, Here's What You'd Have Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "10 წლის წინ Vanguard S&P 500 ETF-ში 1,000 აშშ დოლარი რომ ჩაგედოთ, აი რა გექნებოდათ დღეს",
+      "summaryKa": "სტატია გვიჩვენებს, თუ რა თანხა ექნებოდა ინვესტორს დღეს, 10 წლის წინ Vanguard S&P 500 ETF-ში 1,000 აშშ დოლარის ინვესტირების შემთხვევაში.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3bf6febce8d9265b",
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc?oc=5",
+      "publishedAt": "2026-08-09T08:32:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc?oc=5\" target=\"_blank\">Stock Market Investors Just Got Bad News From the Federal Reserve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "საფონდო ბირჟის ინვესტორებმა ფედერალური რეზერვისგან ახლახან ცუდი ამბავი მიიღეს",
+      "summaryKa": "ამერიკის ფედერალურმა რეზერვმა საფონდო ბაზრის ინვესტორებს არასახარბიელო ინფორმაცია მიაწოდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8dae67d14e4738b5",
+      "title": "Geron (GERN) Back In Focus As Fresh Guidance And Earnings Test Its Undervalued Narrative",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS21kZG5DYTJDTHZiMTZtVWhFazhsUUl0Z2VLZGxMbm55XzlRU09TYXRMakFxdDdpQXVzbDdhVGdWLTZPanZ5U0dnSDd0WTkxYjBvbm5iS0FqV2wtMVJRRC16NWY2bXRfczl5NGpmOXRMRVFFWF80Z0htZEdKNmlDN0V5OU5OaTZxN3BBX1NDNkVwZw?oc=5",
+      "publishedAt": "2026-08-09T08:11:09.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQS21kZG5DYTJDTHZiMTZtVWhFazhsUUl0Z2VLZGxMbm55XzlRU09TYXRMakFxdDdpQXVzbDdhVGdWLTZPanZ5U0dnSDd0WTkxYjBvbm5iS0FqV2wtMVJRRC16NWY2bXRfczl5NGpmOXRMRVFFWF80Z0htZEdKNmlDN0V5OU5OaTZxN3BBX1NDNkVwZw?oc=5\" target=\"_blank\">Geron (GERN) Back In Focus As Fresh Guidance And Earnings Test Its Undervalued Narrative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Geron (GERN) კვლავ ყურადღების ცენტრშია, რადგან ახალი პროგნოზები და მოგება მის არასათანადოდ შეფასებულ ნარატივს ცდის",
+      "summaryKa": "ახალი სახელმძღვანელო მითითებები და შემოსავლები გამოცდის წინაშე აყენებს Geron-ის (GERN) ირგვლივ არსებულ მოსაზრებას, რომ მისი აქციები არასათანადოდ არის შეფასებული.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2e341a5cd4d3df5c",
+      "title": "Travel + Leisure (TNL) Stock Looks Reasonable On Earnings But Cheap On Cash Flow",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNREVobXJ0NGtMTmIxQTNsUTdSbVZSa2lxT1J2QnZrRkhCdlFrVzR3djMwaUNLb29sM1dCZGFFa3FOeXk0LXd1QjFWcWcwN19aY19PNnNGWXBSaFZZNWVDWFBUdzhib1Z5Qk1NYk9JMnVqYXk3SV90YVZkaEZTbXhrSHNzbmZjSlM2Nk4xb2VkaXVvdThxN2d6bFFFNA?oc=5",
+      "publishedAt": "2026-08-09T08:10:28.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNREVobXJ0NGtMTmIxQTNsUTdSbVZSa2lxT1J2QnZrRkhCdlFrVzR3djMwaUNLb29sM1dCZGFFa3FOeXk0LXd1QjFWcWcwN19aY19PNnNGWXBSaFZZNWVDWFBUdzhib1Z5Qk1NYk9JMnVqYXk3SV90YVZkaEZTbXhrSHNzbmZjSlM2Nk4xb2VkaXVvdThxN2d6bFFFNA?oc=5\" target=\"_blank\">Travel + Leisure (TNL) Stock Looks Reasonable On Earnings But Cheap On Cash Flow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Travel + Leisure (TNL) აქციები გონივრულად გამოიყურება მოგების მიხედვით, მაგრამ იაფია ფულადი ნაკადების გათვალისწინებით",
+      "summaryKa": "კომპანია Travel + Leisure-ის (TNL) აქციები მოგების მაჩვენებლებთან მიმართებით მისაღები ჩანს, თუმცა ფულადი სახსრების მოძრაობის მიხედვით იაფია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "3999f0f41ab03d15",
       "title": "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.",
