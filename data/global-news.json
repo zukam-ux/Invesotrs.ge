@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-08-09T02:52:00.158Z",
+  "updatedAt": "2026-08-09T04:07:51.501Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "4ecf094fed87ead7",
+      "title": "Century Aluminum (CENX) Posts Strong Q2 Earnings, Is A 31% Undervalued View Justified?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFNjZmotTzVCRFVuWUI4WXpjQXFTNHVWMHk3WWlLcTNQZ2tIdFFKZktVSndnMEZyVC11YmNNdlgtcWVnWnA3dHlyeDZ6NUJkcmlTTEZRZlVKWnp4cDFwb3JGSF9nUHMyMXNSbm1hOEpKaW1SdXcyUHg2eF9fVHRXMFdmd2dHbkIyWGFpRkxIM3BoQVZBekhsdWVpNkFvRmhK?oc=5",
+      "publishedAt": "2026-08-09T03:23:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFNjZmotTzVCRFVuWUI4WXpjQXFTNHVWMHk3WWlLcTNQZ2tIdFFKZktVSndnMEZyVC11YmNNdlgtcWVnWnA3dHlyeDZ6NUJkcmlTTEZRZlVKWnp4cDFwb3JGSF9nUHMyMXNSbm1hOEpKaW1SdXcyUHg2eF9fVHRXMFdmd2dHbkIyWGFpRkxIM3BoQVZBekhsdWVpNkFvRmhK?oc=5\" target=\"_blank\">Century Aluminum (CENX) Posts Strong Q2 Earnings, Is A 31% Undervalued View Justified?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Century Aluminum (CENX)-მა მეორე კვარტლის ძლიერი მოგება გამოაქვეყნა; გამართლებულია მისი 31%-ით დაუფასებლად მიჩნევა?",
+      "summaryKa": "Century Aluminum (CENX)-მა მეორე კვარტლის ძლიერი ფინანსური მაჩვენებლები გამოაქვეყნა და ისმის კითხვა, გამართლებულია თუ არა მოსაზრება, რომ კომპანია 31%-ით დაუფასებელია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b8e4ca4477f033c8",
+      "title": "Cigna Group (CI) Reports Q2 Earnings And Buybacks, Is It Trading At A Discount?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOXNkbkREQWZ3Y2s5UElsWXdkZ1FZSE1sX2dvS3E0cWl4OUM5WjhjLWU1cDZjUXpKYU5pU0g3aFd5LXdONWdBcGZ0ZllIMVVRcldfNElWTEptNlBKYzM3aXR0WEFTVzNXV1c3YTY5T1BkTnVmSVd4VTFoVDhISHNHMy1VRXFBdEF6aUtiRzh4VQ?oc=5",
+      "publishedAt": "2026-08-09T03:23:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOOXNkbkREQWZ3Y2s5UElsWXdkZ1FZSE1sX2dvS3E0cWl4OUM5WjhjLWU1cDZjUXpKYU5pU0g3aFd5LXdONWdBcGZ0ZllIMVVRcldfNElWTEptNlBKYzM3aXR0WEFTVzNXV1c3YTY5T1BkTnVmSVd4VTFoVDhISHNHMy1VRXFBdEF6aUtiRzh4VQ?oc=5\" target=\"_blank\">Cigna Group (CI) Reports Q2 Earnings And Buybacks, Is It Trading At A Discount?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Cigna Group (CI) მე-2 კვარტლის მოგებისა და აქციების უკან გამოსყიდვის შესახებ იუწყება; ივაჭრება თუ არა ის ფასდაკლებით?",
+      "summaryKa": "Cigna Group (CI) აქვეყნებს ანგარიშს მეორე კვარტლის მოგებისა და აქციების უკან გამოსყიდვის შესახებ და სვამს კითხვას, ივაჭრება თუ არა კომპანია ფასდაკლებით.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "84f662c777f885f6",
+      "title": "SiteOne Landscape Supply (SITE) Gains On Earnings And Deals As Undervalued Narrative Builds",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcDEyNVVSNkdrem9rdUpFWi0ySzQ3anRzZ3U0WlNqbTlkMVpBT0lJcUtNM25zb1lWNFlqZEZ1ZkxQRlNNckxQaHFuOS12VzNMd0NiTXNZc3ZCTVFpQ1NjVkdwUjFLUmNTUXd4cmlibkk1UmRfUmk3ak91WWN6NVRGejhmb3J5eDRDWHFNclpEcDQwRXdrMkNkLThnX1c1YlprcjhBYlNRZw?oc=5",
+      "publishedAt": "2026-08-09T03:21:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQcDEyNVVSNkdrem9rdUpFWi0ySzQ3anRzZ3U0WlNqbTlkMVpBT0lJcUtNM25zb1lWNFlqZEZ1ZkxQRlNNckxQaHFuOS12VzNMd0NiTXNZc3ZCTVFpQ1NjVkdwUjFLUmNTUXd4cmlibkk1UmRfUmk3ak91WWN6NVRGejhmb3J5eDRDWHFNclpEcDQwRXdrMkNkLThnX1c1YlprcjhBYlNRZw?oc=5\" target=\"_blank\">SiteOne Landscape Supply (SITE) Gains On Earnings And Deals As Undervalued Narrative Builds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "SiteOne Landscape Supply (SITE) მოგებისა და გარიგებების ფონზე იზრდება, რადგან მისი დაუფასებლობის შესახებ მოსაზრება მყარდება",
+      "summaryKa": "SiteOne Landscape Supply (SITE) ფინანსური მოგებისა და გარიგებების ფონზე ფასის ზრდას აჩვენებს, პარალელურად კი ძლიერდება ნარატივი მისი დაუფასებლობის შესახებ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "8846e8da31eefecf",
       "title": "China's producer inflation eases in July, below expectations",
