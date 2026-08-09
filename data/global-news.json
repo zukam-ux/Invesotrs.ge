@@ -1,8 +1,68 @@
 {
-  "updatedAt": "2026-08-09T00:41:58.091Z",
+  "updatedAt": "2026-08-09T02:52:00.158Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "8846e8da31eefecf",
+      "title": "China's producer inflation eases in July, below expectations",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTkxHc0hXT01aaVFFbUVPbzNxNXNwQXRxVXctZFVPb0Zfd2lpeFBsSHBzTi1DblE5eUR2S3RuXzN3NmpzeFpCS2x3YXp6Vzk1Q0FiZUp1U0otVXB6c1NSNERBODRieTJoX2ZOVGpINjdacUQ0N2V3aU5yUFFPaENTa3JnRE9GTWxvdGg0WWV4cERSb3gxMlZUbHZB?oc=5",
+      "publishedAt": "2026-08-09T01:43:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQTkxHc0hXT01aaVFFbUVPbzNxNXNwQXRxVXctZFVPb0Zfd2lpeFBsSHBzTi1DblE5eUR2S3RuXzN3NmpzeFpCS2x3YXp6Vzk1Q0FiZUp1U0otVXB6c1NSNERBODRieTJoX2ZOVGpINjdacUQ0N2V3aU5yUFFPaENTa3JnRE9GTWxvdGg0WWV4cERSb3gxMlZUbHZB?oc=5\" target=\"_blank\">China's producer inflation eases in July, below expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ჩინეთში მწარმოებელთა ინფლაცია ივლისში შემცირდა და მოლოდინზე დაბალი აღმოჩნდა",
+      "summaryKa": "ჩინეთის მწარმოებელთა ინფლაციის მაჩვენებელი ივლისის თვეში შემცირდა და პროგნოზირებულ ნიშნულზე დაბალი დაფიქსირდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "692d1aa4e3a44c3b",
+      "title": "Twilio (TWLO) Stock Trades At A Premium On Cash Flow And Earnings",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2c0OERmTXJyZ3poNzd5VjlEODVxYmpoOHlVUU14OW1LWTJBbTFPdnFEZ0JZb09TU2hRaU1KektnQXZ0dnRCNnFid1dsVmV4ZzNhS21wVGtoYXVwc3Y5aW1nd09ZZmhZWUJDTzFBNHBNd3J1R2JDQmNtWExfWW00RVVyQWI5VThOcldrR0lKai0yMGd4UGpfcHFMZ0pZdw?oc=5",
+      "publishedAt": "2026-08-09T01:10:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPc2c0OERmTXJyZ3poNzd5VjlEODVxYmpoOHlVUU14OW1LWTJBbTFPdnFEZ0JZb09TU2hRaU1KektnQXZ0dnRCNnFid1dsVmV4ZzNhS21wVGtoYXVwc3Y5aW1nd09ZZmhZWUJDTzFBNHBNd3J1R2JDQmNtWExfWW00RVVyQWI5VThOcldrR0lKai0yMGd4UGpfcHFMZ0pZdw?oc=5\" target=\"_blank\">Twilio (TWLO) Stock Trades At A Premium On Cash Flow And Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Twilio-ს (TWLO) აქციები პრემიუმით ივაჭრება ფულადი ნაკადების და მოგების ფონზე",
+      "summaryKa": "Twilio-ს (TWLO) აქციები პრემიუმით ივაჭრება, რაც კომპანიის ფულადი ნაკადებითა და მოგების მაჩვენებლებითაა განპირობებული.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a945f1ef3148494e",
+      "title": "Is Jackson Financial (JXN) Cheap On Strong Q2 Earnings Dividends And Buybacks?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS054clhfdTFLREg1bFNlSmx3T20yWWdfRUxWS3NJbFR3d1dZWE5pd3djTS1GOWdWdXZYMk9RSHFiOThvTUE4Qk1DYWV1Z1Fyck0teG5SVGJHbTZid0VTZktmQV9yRFA3M3F2a1JacktXRkN1bThDQlA5cTBjQXpodXYxa3M4NUhGZ0dIMzRuQk5MZVlETklocE1SeVg5R3I3?oc=5",
+      "publishedAt": "2026-08-09T00:21:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOS054clhfdTFLREg1bFNlSmx3T20yWWdfRUxWS3NJbFR3d1dZWE5pd3djTS1GOWdWdXZYMk9RSHFiOThvTUE4Qk1DYWV1Z1Fyck0teG5SVGJHbTZid0VTZktmQV9yRFA3M3F2a1JacktXRkN1bThDQlA5cTBjQXpodXYxa3M4NUhGZ0dIMzRuQk5MZVlETklocE1SeVg5R3I3?oc=5\" target=\"_blank\">Is Jackson Financial (JXN) Cheap On Strong Q2 Earnings Dividends And Buybacks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "არის თუ არა Jackson Financial (JXN) იაფი მეორე კვარტლის ძლიერი მოგების, დივიდენდებისა და გამოსყიდვების ფონზე?",
+      "summaryKa": "ისმის კითხვა, არის თუ არა Jackson Financial (JXN) იაფი მისი მეორე კვარტლის ძლიერი მოგების, დივიდენდებისა და აქციების გამოსყიდვის გათვალისწინებით.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "dee018f92aa65fa1",
+      "title": "Atmos Energy (ATO) Could Be 9% Undervalued On Earnings Guidance And Dividend",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWt3WEY0YUdtUnNxZG9CbmoxUUZuRmZJalNBQWE3ZmY2ZXo4U1FKaDdHWV9BY29ic19jV3A1a0g3WmwwNmxabllqU0lWXzZhZkhMUFRkeTBUSXJ3VDRPV203cWNIeXVUbU9GNXY0VndjN29JMXFXR19yX2s0ZjliU0VxRkRIZmdNQzBYeDdhQWI0TTQ?oc=5",
+      "publishedAt": "2026-08-09T00:21:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWt3WEY0YUdtUnNxZG9CbmoxUUZuRmZJalNBQWE3ZmY2ZXo4U1FKaDdHWV9BY29ic19jV3A1a0g3WmwwNmxabllqU0lWXzZhZkhMUFRkeTBUSXJ3VDRPV203cWNIeXVUbU9GNXY0VndjN29JMXFXR19yX2s0ZjliU0VxRkRIZmdNQzBYeDdhQWI0TTQ?oc=5\" target=\"_blank\">Atmos Energy (ATO) Could Be 9% Undervalued On Earnings Guidance And Dividend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Atmos Energy (ATO) შესაძლოა 9%-ით იყოს დაუფასებელი მოგების პროგნოზისა და დივიდენდის გათვალისწინებით",
+      "summaryKa": "მომავალი მოგების პროგნოზისა და დივიდენდების გათვალისწინებით, Atmos Energy (ATO) შესაძლოა 9%-ით იყოს დაუფასებელი.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f576322479588f80",
+      "title": "Do Higher Earnings And A Steady Dividend Recast Black Hills' Capital Allocation Story (BKH)?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbGZLUnFob05mSFBqZHBWWUFFVHNMR2JWLUpFVnFmXzRwaDdmMFRwYmtWdlhLdTMyZUJlYmhuOGJVZTMxb1dZeXA4RjYtVWNrQWduQVlNWkQ2TDJicnQ2VHZkSFM5dldDbGRzOVVwS21aZUt0TzF3bUpEbGpXZ2RfUWZVQXQwRjVPc3JwR1BoNGZBLW9fOFluUU1salRsODh6bnY3eFp3?oc=5",
+      "publishedAt": "2026-08-09T00:20:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQbGZLUnFob05mSFBqZHBWWUFFVHNMR2JWLUpFVnFmXzRwaDdmMFRwYmtWdlhLdTMyZUJlYmhuOGJVZTMxb1dZeXA4RjYtVWNrQWduQVlNWkQ2TDJicnQ2VHZkSFM5dldDbGRzOVVwS21aZUt0TzF3bUpEbGpXZ2RfUWZVQXQwRjVPc3JwR1BoNGZBLW9fOFluUU1salRsODh6bnY3eFp3?oc=5\" target=\"_blank\">Do Higher Earnings And A Steady Dividend Recast Black Hills' Capital Allocation Story (BKH)?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ცვლის თუ არა უფრო მაღალი მოგება და სტაბილური დივიდენდი Black Hills-ის (BKH) კაპიტალის განაწილების ისტორიას?",
+      "summaryKa": "ჩნდება კითხვა, ახდენს თუ არა გავლენას უფრო მაღალი მოგება და სტაბილური დივიდენდები Black Hills-ის (BKH) კაპიტალის განაწილების სტრატეგიაზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "63cc8bbe73935f1b",
       "title": "Earnings Calendar for:",
@@ -25,6 +85,18 @@
       "titleKa": "PPL-ის მიერ მოგების მოლოდინების ვერმიღწევამ და 2026 წლის სახელმძღვანელო პროგნოზის ხელახლა დადასტურებამ შესაძლოა PPL-ში (PPL) ინვესტირების მიზანშეწონილობა შეცვალოს",
       "summaryKa": "კომპანია PPL-ის მიერ მოგების მოლოდინების ვერშესრულებამ და 2026 წლის პროგნოზის დადასტურებამ შესაძლოა მასში ინვესტირების საფუძველი შეცვალოს.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2918ca57aec780a8",
+      "title": "Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUZDR1NSWEc0WnpTcTMyRnhWNWNPQ1liNmd1bzRGVEhrYTR0QjAzOUMwT0FXdXpzdjZuay1CQnJnLThCVTBLR2hXZnhRck5CZ3FuQ2ZzWURSZlZ0MHpOUVN6YVp6NWJZaWZyQkwzTE5zdldrS2xUdlhZR2FGa1NoZEMxbXV5Wmw2OUMyMlFfRXlXM0NjSU9WQU9tdGNQQXJZOGRR?oc=5",
+      "publishedAt": "2026-08-08T23:01:01.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUZDR1NSWEc0WnpTcTMyRnhWNWNPQ1liNmd1bzRGVEhrYTR0QjAzOUMwT0FXdXpzdjZuay1CQnJnLThCVTBLR2hXZnhRck5CZ3FuQ2ZzWURSZlZ0MHpOUVN6YVp6NWJZaWZyQkwzTE5zdldrS2xUdlhZR2FGa1NoZEMxbXV5Wmw2OUMyMlFfRXlXM0NjSU9WQU9tdGNQQXJZOGRR?oc=5\" target=\"_blank\">Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Nvidia Navitas Semiconductor-ის წინააღმდეგ: აი, რას ეუბნება მათი შემოსავლების ტენდენციები ინვესტორებს ხელოვნური ინტელექტის ამ კომპანიების შესახებ",
+      "summaryKa": "Nvidia-სა და Navitas Semiconductor-ის შემოსავლების ტენდენციები ინვესტორებს აწვდის ინფორმაციას ხელოვნური ინტელექტის სფეროში მომუშავე ამ კომპანიების შესახებ.",
+      "category": "AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
