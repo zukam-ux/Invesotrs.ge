@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-09T20:58:39.048Z",
+  "updatedAt": "2026-08-10T10:06:58.221Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "6f1bf98ae58531cb",
+      "title": "„ახალი ცოდნა ყოველთვის ღირებული ინვესტიციაა“ – საქართველოს ბანკის სტიპენდიატის, ლუკა ბესტავაშვილის ისტორია",
+      "source": "Marketer.ge",
+      "url": "https://www.marketer.ge/bog-luka-bestashvilis-istoria/",
+      "publishedAt": "2026-08-10T09:16:50.000Z",
+      "description": "ახალი პროფესიის შესწავლა ძველი გზის მიტოვებას სულაც არ ნიშნავს. […] The post „ახალი ცოდნა ყოველთვის ღირებული ინვესტიციაა“ – საქართველოს ბანკის სტიპენდიატის, ლუკა ბესტავაშვილის ისტორია first appeared on Marketer .",
+      "titleKa": "„ახალი ცოდნა ყოველთვის ღირებული ინვესტიციაა“ – საქართველოს ბანკის სტიპენდიატის, ლუკა ბესტავაშვილის ისტორია",
+      "summaryKa": "ახალი პროფესიის შესწავლა ძველი გზის მიტოვებას სულაც არ ნიშნავს. […]",
+      "category": "საქართველო",
+      "translationNotice": ""
+    },
     {
       "id": "8cea508dc7c45d63",
       "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
