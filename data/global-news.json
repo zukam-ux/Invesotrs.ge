@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-16T07:06:37.637Z",
+  "updatedAt": "2026-08-19T14:06:26.266Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "cb02015a1cc15f55",
+      "title": "თიბისი კაპიტალის ექსკლუზიური მხარდაჭერით, ლოპოტამ $20-მილიონიანი ობლიგაციების სადებიუტო პროგრამის ფარგლებში, აშშ დოლარისა და ევროს ტრანშები სრულად განათავსა",
+      "source": "Marketer.ge",
+      "url": "https://www.marketer.ge/tbc-capital-lopota-obligasiebi/",
+      "publishedAt": "2026-08-19T14:00:37.000Z",
+      "description": "შპს ლოპოტამ წარმატებით განათავსა 11 მლნ აშშ დოლარისა და […] The post თიბისი კაპიტალის ექსკლუზიური მხარდაჭერით, ლოპოტამ $20-მილიონიანი ობლიგაციების სადებიუტო პროგრამის ფარგლებში, აშშ დოლარისა და ევროს ტრანშები სრულად განათავსა first appeared on Marketer .",
+      "titleKa": "თიბისი კაპიტალის ექსკლუზიური მხარდაჭერით, ლოპოტამ $20-მილიონიანი ობლიგაციების სადებიუტო პროგრამის ფარგლებში, აშშ დოლარისა და ევროს ტრანშები სრულად განათავსა",
+      "summaryKa": "შპს ლოპოტამ წარმატებით განათავსა 11 მლნ აშშ დოლარისა და […]",
+      "category": "საქართველო",
+      "translationNotice": ""
+    },
     {
       "id": "d9445e1367e03a0a",
       "title": "Wesdome Gold Mines (TSX:WDO) Faces A 10% Fair Value Gap As Earnings Land",
