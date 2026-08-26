@@ -53,6 +53,7 @@ document.querySelectorAll('[data-ticker]').forEach(el=>el.innerHTML=tickerMarkup
     ['index.html','მთავარი'],
     ['georgia.html','საქართველო'],
     ['markets.html','ბაზრები'],
+    ['calendar.html','კალენდარი'],
     ['news.html','სიახლეები'],
     ['learn.html','სწავლა'],
     ['compare.html','შედარება'],
