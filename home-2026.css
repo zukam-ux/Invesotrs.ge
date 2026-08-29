@@ -1,0 +1,261 @@
+/* Investors.ge — 2026 homepage: dark-first "live terminal" design.
+   Loaded after shared.css; everything is scoped under body.home26 so other pages keep their look. */
+
+:root{
+  --t-bg:#0a1b13; --t-surface:#0f2419; --t-surface2:#13291e; --t-raise:#17301f;
+  --t-line:rgba(214,240,226,.09); --t-line2:rgba(214,240,226,.17);
+  --t-ink:#eef7f1; --t-ink2:#a7bcb0; --t-ink3:#7d948a;
+  --t-up:#17c58c; --t-down:#ff7a6e; --t-accent:#22e2a2; --t-accent-ink:#052015;
+  --t-glow:0 0 24px rgba(34,226,162,.14);
+  --t-radius:18px;
+}
+html[data-theme="light"]{
+  --t-bg:#f4f7f4; --t-surface:#ffffff; --t-surface2:#fbfdfb; --t-raise:#ffffff;
+  --t-line:rgba(16,41,31,.09); --t-line2:rgba(16,41,31,.17);
+  --t-ink:#0e241a; --t-ink2:#51665c; --t-ink3:#6c8076;
+  --t-up:#068a5f; --t-down:#cf4a41; --t-accent:#068a5f; --t-accent-ink:#ffffff;
+  --t-glow:0 10px 30px rgba(9,68,46,.08);
+}
+
+body.home26{background:var(--t-bg);color:var(--t-ink);font-family:"Noto Sans Georgian","Inter Tight",system-ui,sans-serif;font-size:15px}
+.home26 .num,.home26 [data-t26-value],.home26 [data-t26-change]{font-family:"Inter Tight","Noto Sans Georgian",sans-serif;font-variant-numeric:tabular-nums}
+.home26 .up{color:var(--t-up)}.home26 .down{color:var(--t-down)}
+.home26 .t26-wrap{max-width:1320px;margin:auto;padding:0 28px}
+.home26 .t26-kicker{display:block;font:800 11px "Inter Tight";letter-spacing:.1em;text-transform:uppercase;color:var(--t-accent);margin-bottom:6px}
+.home26 .card{background:var(--t-surface);border:1px solid var(--t-line);border-radius:var(--t-radius)}
+/* shared.css paints .news-status on a near-white pill, which reads as a hole in the dark theme */
+.home26 .news-status{background:transparent;border:0;border-radius:0;padding:0;color:var(--t-ink3);font-size:12.5px;line-height:1.6}
+
+/* ── live ticker bar ─────────────────────────────── */
+.home26 .t26-ticker{border-bottom:1px solid var(--t-line);background:var(--t-surface);font-size:12.5px}
+.home26 .t26-ticker .t26-wrap{display:flex;gap:20px;align-items:center;height:40px}
+.home26 .t26-scroll{flex:1;min-width:0;display:flex;gap:26px;align-items:center;overflow-x:auto;white-space:nowrap;scrollbar-width:none}
+.home26 .t26-scroll::-webkit-scrollbar{display:none}
+.home26 .t26-scroll .tk{flex:0 0 auto}
+.home26 .t26-live{flex:0 0 auto;display:flex;gap:7px;align-items:center;color:var(--t-accent);font:800 11px "Inter Tight";letter-spacing:.06em}
+.home26 .t26-live i{width:7px;height:7px;border-radius:50%;background:var(--t-accent);box-shadow:0 0 10px var(--t-accent)}
+.home26 .tk{display:flex;gap:8px;align-items:center}
+.home26 .tk b{font-weight:600;color:var(--t-ink2)}
+.home26 .tk [data-t26-value]{font-weight:700}
+.home26 .tk [data-t26-change]{font-weight:700}
+.home26 .t26-updated{flex:0 0 auto;color:var(--t-ink3);font:600 11px "Inter Tight"}
+.home26 .tick-flash{animation:t26-flash .8s ease-out}
+@keyframes t26-flash{0%{background:rgba(34,226,162,.22);border-radius:6px}100%{background:transparent}}
+
+/* ── header ──────────────────────────────────────── */
+body.home26 header{position:sticky;top:0;z-index:50;background:color-mix(in oklab,var(--t-bg) 82%,transparent);backdrop-filter:blur(16px) saturate(140%);border-bottom:1px solid var(--t-line)}
+body.home26 .nav{max-width:1320px;height:70px;padding:0 28px;gap:26px}
+body.home26 .logo{font:800 22px "Inter Tight";letter-spacing:-.5px;color:var(--t-ink);text-transform:none}
+body.home26 .logo span{color:var(--t-accent)}
+/* finance-header.css (injected by shared.js) hides .links in favor of its subnav; this page uses inline links */
+body.home26 .links{display:flex;gap:22px;font-size:14px;font-weight:600;color:var(--t-ink2)}
+body.home26 .links a:hover{color:var(--t-accent)}
+body.home26 .links a.active{color:var(--t-ink)}
+/* finance-header.css assigns its own flex order; restate ours so search sits before the theme toggle */
+body.home26 .logo{order:0}
+body.home26 .links{order:1}
+body.home26 .asset-search{order:2;margin-left:auto;width:300px}
+body.home26 .t26-themebtn{order:3}
+body.home26 .asset-search .nav-search{height:44px;background:var(--t-surface);border:1px solid var(--t-line2);border-radius:12px;color:var(--t-ink);font-size:13px}
+body.home26 .asset-search .nav-search::placeholder{color:var(--t-ink3)}
+body.home26 .asset-search:before{border-color:var(--t-ink3)}
+body.home26 .asset-search:after{background:var(--t-ink3)}
+body.home26 .asset-search-results{background:var(--t-surface);border:1px solid var(--t-line2);box-shadow:0 28px 70px rgba(0,10,6,.5)}
+body.home26 .asset-result:hover{background:var(--t-surface2)}
+body.home26 .asset-result i{background:var(--t-raise);color:var(--t-accent)}
+body.home26 .asset-result b{color:var(--t-ink)}
+body.home26 .asset-result small{color:var(--t-ink3)}
+body.home26 .asset-search-state{color:var(--t-ink3)}
+.home26 .t26-themebtn{width:40px;height:40px;display:grid;place-items:center;border:1px solid var(--t-line2);border-radius:11px;background:var(--t-surface);color:var(--t-ink);font-size:15px;cursor:pointer}
+.home26 .t26-themebtn:hover{border-color:var(--t-accent)}
+
+/* ── layout & section heads ──────────────────────── */
+body.home26 main{max-width:1320px;margin:auto;padding:28px 28px 56px}
+.home26 .t26-head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin:34px 0 14px}
+.home26 .t26-head h2{font-size:21px;font-weight:800;letter-spacing:-.3px;margin:0}
+.home26 .t26-head a{font-size:12.5px;font-weight:700;color:var(--t-accent)}
+
+/* ── hero bento: chart + brief + movers ──────────── */
+.home26 .t26-bento{display:grid;grid-template-columns:repeat(12,1fr);gap:16px}
+.home26 .t26-chart-card{grid-column:span 8;padding:22px 24px 10px;box-shadow:var(--t-glow)}
+.home26 .t26-chart-head{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.home26 .t26-sym{width:44px;height:44px;border-radius:13px;background:linear-gradient(135deg,var(--t-accent),#0f9d74);color:#052015;display:grid;place-items:center;font:800 13px "Inter Tight"}
+.home26 .t26-chart-head h1{font-size:17px;font-weight:700;margin:0;letter-spacing:0}
+.home26 .t26-chart-head p{font-size:12.5px;color:var(--t-ink3);margin:2px 0 0}
+.home26 .instrument-note{color:#d8b163;font-size:11px;font-weight:700;display:inline-flex;align-items:center;gap:6px;margin-top:4px}
+.home26 .instrument-note:before{content:"";width:6px;height:6px;border-radius:50%;background:#d8b163}
+.home26 .t26-price{margin-left:auto;text-align:right}
+.home26 .t26-price [data-chart-latest]{display:block;font:800 30px "Inter Tight";letter-spacing:-.5px;font-variant-numeric:tabular-nums}
+.home26 .t26-price [data-chart-change]{font:700 13.5px "Inter Tight";color:var(--t-up)}
+.home26 .is-negative .t26-price [data-chart-change]{color:var(--t-down)}
+.home26 .chart-controls{display:flex;gap:6px;padding:16px 0 6px;overflow-x:auto}
+.home26 .chart-controls button{border:0;background:transparent;color:var(--t-ink3);border-radius:9px;padding:7px 12px;font:700 12px "Noto Sans Georgian";cursor:pointer;white-space:nowrap}
+.home26 .chart-controls button:hover{background:var(--t-surface2);color:var(--t-ink2)}
+.home26 .chart-controls button.active{background:var(--t-accent);color:var(--t-accent-ink)}
+.home26 .chart-controls button:disabled{cursor:wait;opacity:.7}
+/* let the SVG keep its 900:330 ratio instead of letterboxing inside a fixed box */
+.home26 .chart-wrap{position:relative;padding:6px 0 0}
+.home26 .market-chart-svg{display:block;width:100%;height:auto;aspect-ratio:900/330;overflow:visible}
+.home26 .market-chart-grid line{stroke:var(--t-line2);stroke-width:1;stroke-dasharray:1 6}
+.home26 .market-chart-line{fill:none;stroke:var(--t-up);stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+.home26 .market-chart-area{fill:url(#spyAreaPositive)}
+.home26 .is-negative .market-chart-line{stroke:var(--t-down)}
+.home26 .is-negative .market-chart-area{fill:url(#spyAreaNegative)}
+.home26 .chart-axis{font:600 11px "Inter Tight";fill:var(--t-ink3)}
+.home26 .chart-state{position:absolute;inset:0;display:none;place-items:center;padding:30px;text-align:center;color:var(--t-ink3);background:color-mix(in oklab,var(--t-surface) 88%,transparent);font-size:12.5px;border-radius:12px}
+.home26 .is-loading .chart-state,.home26 .has-error .chart-state{display:grid}
+.home26 .has-error .chart-state{color:var(--t-down)}
+.home26 .chart-hover-line{stroke:var(--t-ink3);stroke-width:1;stroke-dasharray:3 4;opacity:0;pointer-events:none}
+.home26 .chart-hover-dot{fill:var(--t-up);stroke:var(--t-bg);stroke-width:2.5;opacity:0;pointer-events:none}
+.home26 .is-negative .chart-hover-dot{fill:var(--t-down)}
+.home26 .chart-tooltip{position:absolute;top:10px;left:0;transform:translateX(-50%);background:var(--t-raise);border:1px solid var(--t-line2);border-radius:11px;padding:8px 12px;font-size:12px;box-shadow:0 14px 34px rgba(0,0,0,.35);pointer-events:none;opacity:0;transition:opacity .12s ease;white-space:nowrap;z-index:3}
+.home26 .chart-tooltip b{display:block;font:800 14px "Inter Tight";font-variant-numeric:tabular-nums}
+.home26 .chart-tooltip small{color:var(--t-ink3);font-size:11px}
+.home26 .t26-chart-foot{display:flex;gap:26px;flex-wrap:wrap;border-top:1px solid var(--t-line);margin-top:10px;padding:13px 2px 12px;font-size:12px;color:var(--t-ink3)}
+.home26 .t26-chart-foot b{display:block;color:var(--t-ink);font:700 13px "Inter Tight";font-variant-numeric:tabular-nums}
+.home26 .t26-chart-foot .t26-src{margin-left:auto;text-align:right}
+
+.home26 .t26-side{grid-column:span 4;display:flex;flex-direction:column;gap:16px;min-width:0}
+.home26 .t26-brief{padding:20px 22px;background:linear-gradient(150deg,var(--t-surface),var(--t-raise));border:1px solid var(--t-line);border-radius:var(--t-radius);box-shadow:var(--t-glow)}
+.home26 .t26-brief .daily-thesis-label{display:block;font:800 11px "Inter Tight";letter-spacing:.1em;text-transform:uppercase;color:var(--t-accent);margin-bottom:9px}
+.home26 .t26-brief h2{font-size:16.5px;line-height:1.5;font-weight:800;letter-spacing:-.2px;margin:0 0 9px}
+.home26 .t26-brief p{font-size:13px;line-height:1.65;color:var(--t-ink2);margin:0}
+.home26 .t26-brief .daily-thesis-meta{display:block;margin-top:11px;font-size:11.5px;color:var(--t-ink3)}
+.home26 .t26-brief .translation-note{color:var(--t-ink3);font-size:10.5px;font-weight:700;margin-left:6px}
+.home26 .t26-brief .daily-thesis-actions{display:flex;gap:16px;flex-wrap:wrap;margin-top:13px}
+.home26 .t26-brief .daily-thesis-actions a{font-size:12px;font-weight:800;color:var(--t-accent)}
+.home26 .t26-brief .news-status{color:var(--t-ink3);font-size:12.5px}
+
+.home26 .t26-movers{flex:1;display:flex;flex-direction:column;padding:6px 0 4px}
+.home26 .t26-movers h3{font:800 11px "Inter Tight";letter-spacing:.09em;text-transform:uppercase;color:var(--t-ink2);padding:12px 22px 9px;margin:0}
+.home26 .mrow{display:grid;grid-template-columns:minmax(0,1fr) 64px 74px;gap:12px;align-items:center;padding:10px 22px;border-top:1px solid var(--t-line);color:inherit}
+.home26 .mrow:hover{background:var(--t-surface2)}
+.home26 .mrow b{font:700 13.5px "Inter Tight"}
+.home26 .mrow small{display:block;font-size:11.5px;color:var(--t-ink3);font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.home26 .mrow svg{width:64px;height:26px}
+.home26 .mrow .num{font:700 13px "Inter Tight";text-align:right}
+.home26 .t26-movers .news-status{padding:10px 22px 16px;color:var(--t-ink3);font-size:12.5px}
+
+/* ── newsroom (shared.js editorial-home, restyled) ─ */
+.home26 .editorial-home{display:grid;grid-template-columns:minmax(0,1.55fr) minmax(250px,.72fr) minmax(260px,.78fr);grid-template-rows:repeat(2,minmax(215px,1fr));gap:16px;margin:0;min-height:560px;border:0;padding:0}
+.home26 .editorial-home>.news-status{grid-column:1/-1;color:var(--t-ink3);background:var(--t-surface);border:1px dashed var(--t-line2);border-radius:var(--t-radius);padding:24px}
+.home26 .editorial-lead{grid-column:1;grid-row:1/3;position:relative;display:grid;grid-template-rows:260px auto;overflow:hidden;border-radius:var(--t-radius);border:1px solid var(--t-line);background:var(--t-surface);color:var(--t-ink);min-height:0}
+.home26 .editorial-lead:after,.home26 .editorial-feature:after{display:none}
+.home26 .editorial-media{position:relative;margin:0;min-width:0;overflow:hidden;background:var(--t-raise)}
+.home26 .editorial-media img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:saturate(.82);transition:transform .35s ease}
+.home26 .editorial-home article:hover .editorial-media img{transform:scale(1.03)}
+.home26 .editorial-media:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 60%,rgba(4,14,9,.35));pointer-events:none}
+.home26 .photo-credit{position:absolute;right:8px;bottom:7px;z-index:2;padding:4px 7px;border-radius:6px;background:rgba(4,14,9,.72);color:#dff2e8;font:600 9px "Inter Tight"}
+.home26 .editorial-story-link{display:block;color:inherit;min-width:0}
+.home26 .editorial-lead-body{display:block;padding:20px 24px 22px;border-left:0;width:auto}
+.home26 .editorial-label{display:inline-block;padding:5px 10px;border-radius:8px;background:var(--t-accent);color:var(--t-accent-ink);font:800 10px "Inter Tight";letter-spacing:.08em;text-transform:uppercase}
+.home26 .editorial-lead h2{max-width:none;margin:13px 0 9px;color:var(--t-ink);font-size:22px;line-height:1.42;letter-spacing:-.3px;font-weight:800}
+.home26 .editorial-lead p{max-width:none;color:var(--t-ink2);font-size:13px;line-height:1.65;margin:0 0 12px}
+.home26 .editorial-meta{color:var(--t-ink3);font-size:11.5px;display:flex;flex-wrap:wrap;gap:7px;align-items:center}
+.home26 .editorial-meta b{color:var(--t-ink)}
+.home26 .editorial-lead .news-identity{margin:12px 0 0}
+.home26 .editorial-home>.editorial-feature:nth-child(2){grid-column:2;grid-row:1}
+.home26 .editorial-home>.editorial-feature:nth-child(3){grid-column:2;grid-row:2}
+.home26 .editorial-feature{position:relative;display:grid;grid-template-rows:110px auto;overflow:hidden;border-radius:var(--t-radius);border:1px solid var(--t-line);border-top:1px solid var(--t-line);border-bottom:1px solid var(--t-line);background:var(--t-surface);color:var(--t-ink);min-height:0;align-items:stretch}
+.home26 .editorial-feature-body{display:block;padding:14px 18px 16px}
+.home26 .editorial-feature h3{margin:8px 0 8px;font-size:14.5px;line-height:1.5;font-weight:700}
+.home26 .editorial-feature-source{display:block;color:var(--t-ink3);font-size:11px}
+.home26 .editorial-rail{grid-column:3;grid-row:1/3;background:var(--t-surface);border:1px solid var(--t-line);border-radius:var(--t-radius);border-top:1px solid var(--t-line);overflow:hidden;display:flex;flex-direction:column}
+.home26 .editorial-rail-head{padding:16px 20px 12px;border-bottom:1px solid var(--t-line);display:flex;align-items:center;justify-content:space-between}
+.home26 .editorial-rail-head h3{font-size:15px;font-weight:800;margin:0}
+.home26 .editorial-rail-head a{font-size:11.5px;color:var(--t-accent);font-weight:800}
+.home26 .editorial-rail-list{flex:1;overflow:auto}
+.home26 .editorial-row{display:grid;grid-template-columns:38px 1fr;gap:12px;padding:13px 20px;border-bottom:1px solid var(--t-line)}
+.home26 .editorial-row:last-child{border-bottom:0}
+.home26 .editorial-row:hover{background:var(--t-surface2)}
+.home26 .editorial-row h4{font-size:12.5px;line-height:1.5;margin:0 0 5px;font-weight:700}
+.home26 .editorial-row small{display:block;color:var(--t-ink3);font-size:11px}
+.home26 .news-logo{width:38px;height:38px;border-radius:11px;background:var(--t-raise);border:1px solid var(--t-line2);color:var(--t-ink2);display:grid;place-items:center;font:800 9.5px "Inter Tight";font-style:normal;position:relative;overflow:hidden}
+.home26 .news-logo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.home26 .news-identity{display:flex;gap:10px;align-items:center;min-width:0}
+.home26 .news-identity b{display:block;font-size:11.5px;color:var(--t-ink)}
+.home26 .news-identity small{display:block;font-size:10.5px;color:var(--t-ink3)}
+.home26 .news-quote-chip{font:700 10px "Inter Tight";padding:2px 6px;border-radius:6px;margin-left:5px}
+.home26 .news-quote-chip.up{background:rgba(23,197,140,.14);color:var(--t-up)}
+.home26 .news-quote-chip.down{background:rgba(255,122,110,.14);color:var(--t-down)}
+
+/* ── category decks ──────────────────────────────── */
+.home26 .t26-cats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.home26 .t26-cat{padding:4px 0 8px;min-width:0}
+.home26 .t26-cat-head{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:15px 20px 11px}
+.home26 .t26-cat-head b{font-size:15.5px;font-weight:800}
+.home26 .t26-cat-head span{font:800 9.5px "Inter Tight";letter-spacing:.09em;text-transform:uppercase;padding:4px 9px;border-radius:99px;background:var(--t-raise);border:1px solid var(--t-line2);color:var(--t-accent);white-space:nowrap}
+.home26 .t26-cat.tech .t26-cat-head span{color:#a78bfa}
+.home26 .t26-cat .auto-news-grid{display:block;border:0}
+.home26 .t26-cat .auto-news-card{display:block;background:transparent;border:0;border-top:1px solid var(--t-line);border-radius:0;padding:13px 20px;box-shadow:none;min-height:0;transform:none}
+.home26 .t26-cat .auto-news-card:hover{background:var(--t-surface2);transform:none;box-shadow:none}
+.home26 .t26-cat .auto-news-card h3{font-size:13.5px;line-height:1.5;margin:7px 0 0;font-weight:700;color:var(--t-ink)}
+.home26 .t26-cat .auto-news-card p{display:none}
+.home26 .t26-cat .auto-news-card .meta{display:none}
+.home26 .t26-cat .news-status{padding:12px 20px 16px;color:var(--t-ink3);font-size:12.5px}
+.home26 .t26-cat-more{display:block;padding:13px 20px 4px;border-top:1px solid var(--t-line);font-size:12px;font-weight:800;color:var(--t-accent)}
+.home26 .t26-cat .news-load-more{display:none}
+
+/* ── tools ───────────────────────────────────────── */
+.home26 .t26-tools{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.home26 .t26-tool{display:flex;gap:14px;align-items:center;padding:17px 20px;color:inherit;transition:border-color .2s ease,box-shadow .2s ease}
+.home26 .t26-tool:hover{border-color:var(--t-line2);box-shadow:var(--t-glow)}
+.home26 .t26-tool i{flex:0 0 44px;width:44px;height:44px;border-radius:13px;background:var(--t-raise);border:1px solid var(--t-line2);color:var(--t-accent);display:grid;place-items:center;font-size:19px;font-style:normal}
+.home26 .t26-tool b{display:block;font-size:13.5px}
+.home26 .t26-tool small{font-size:11.5px;color:var(--t-ink3)}
+
+/* ── seo / trust / footer ────────────────────────── */
+.home26 .t26-seo{margin-top:40px;padding:26px 28px;background:var(--t-surface);border:1px solid var(--t-line);border-radius:var(--t-radius)}
+.home26 .t26-seo h2{font-size:19px;font-weight:800;margin:6px 0 10px}
+.home26 .t26-seo p{margin:0;color:var(--t-ink2);line-height:1.75;max-width:920px;font-size:13.5px}
+.home26 .t26-seo nav{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
+.home26 .t26-seo nav a{display:inline-flex;align-items:center;min-height:40px;padding:8px 15px;border:1px solid var(--t-line2);border-radius:11px;font-size:12.5px;font-weight:700;color:var(--t-ink)}
+.home26 .t26-seo nav a:hover{border-color:var(--t-accent);color:var(--t-accent)}
+.home26 .t26-trust{display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap;margin-top:20px;padding:18px 4px;border-top:1px solid var(--t-line)}
+.home26 .t26-trust b{font-size:13px}
+.home26 .t26-trust span{display:block;color:var(--t-ink3);font-size:11.5px;margin-top:3px}
+.home26 .t26-trust nav{display:flex;flex-wrap:wrap;gap:18px;align-items:center}
+.home26 .t26-trust nav a{font-size:11.5px;font-weight:700;color:var(--t-ink2);text-decoration:underline;text-underline-offset:4px}
+.home26 .t26-disclaimer{margin-top:22px;color:var(--t-ink3);font-size:11.5px;line-height:1.65;border-top:1px solid var(--t-line);padding-top:16px}
+body.home26 .t26-footer{border-top:1px solid var(--t-line);padding:24px 0;color:var(--t-ink3);font-size:12px}
+body.home26 .t26-footer .t26-wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
+body.home26 .t26-footer b{color:var(--t-ink)}
+body.home26 .t26-footer nav{display:flex;gap:16px;flex-wrap:wrap}
+body.home26 .t26-footer a:hover{color:var(--t-accent)}
+
+/* ── responsive ──────────────────────────────────── */
+@media(max-width:1080px){
+  .home26 .t26-chart-card{grid-column:span 12}
+  .home26 .t26-side{grid-column:span 12;display:grid;grid-template-columns:1fr 1fr;align-items:stretch}
+  .home26 .editorial-home{grid-template-columns:minmax(0,1.4fr) minmax(260px,.8fr);grid-template-rows:auto repeat(2,auto);min-height:0}
+  .home26 .editorial-lead{grid-row:1;grid-column:1/-1;grid-template-rows:240px auto}
+  .home26 .editorial-home>.editorial-feature:nth-child(2){grid-column:1;grid-row:2}
+  .home26 .editorial-home>.editorial-feature:nth-child(3){grid-column:1;grid-row:3}
+  .home26 .editorial-rail{grid-row:2/4;grid-column:2}
+  .home26 .t26-cats{grid-template-columns:1fr 1fr}
+  .home26 .t26-tools{grid-template-columns:1fr 1fr}
+}
+@media(max-width:1000px){
+  body.home26 .nav{height:auto;min-height:60px;flex-wrap:wrap;padding-top:10px;padding-bottom:10px;gap:12px}
+  body.home26 .links{order:3;flex-basis:100%;overflow-x:auto;padding-bottom:2px;scrollbar-width:none;gap:18px;white-space:nowrap}
+  body.home26 .links::-webkit-scrollbar{display:none}
+  body.home26 .asset-search{order:1;width:auto;flex:1;min-width:0;margin-left:12px}
+  body.home26 .t26-themebtn{order:2}
+  .home26 .t26-updated{display:none}
+}
+@media(max-width:760px){
+  .home26 .t26-side{grid-template-columns:1fr}
+  .home26 .editorial-home{display:flex;flex-direction:column;min-height:0}
+  .home26 .editorial-lead{grid-template-rows:200px auto}
+  .home26 .editorial-lead h2{font-size:18px}
+  .home26 .t26-cats,.home26 .t26-tools{grid-template-columns:1fr}
+  /* SVG text scales with the 900-unit viewBox, so bump it to stay legible on narrow cards */
+  .home26 .chart-axis{font-size:28px}
+  .home26 .t26-trust{flex-direction:column;gap:14px}
+  .home26 .t26-price [data-chart-latest]{font-size:24px}
+}
+@media(prefers-reduced-motion:reduce){
+  .home26 .tick-flash{animation:none}
+  .home26 .editorial-media img{transition:none}
+  .home26 .chart-tooltip{transition:none}
+}
