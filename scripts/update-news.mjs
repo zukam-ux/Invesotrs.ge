@@ -338,7 +338,7 @@ async function cloudflareChat(messages, { maxTokens = 1200, temperature = 0.1 } 
   return text;
 }
 
-async function translateWithCloudflare(items) {
+async function translateChunkWithCloudflare(chunk) {
   const text = await cloudflareChat(
     [
       {
@@ -359,15 +359,38 @@ async function translateWithCloudflare(items) {
               },
             ],
           },
-          articles: items.map(({ id, title, source }) => ({ id, title, source })),
+          articles: chunk.map(({ id, title, source }) => ({ id, title, source })),
         }),
       },
     ],
-    { maxTokens: 6000, temperature: 0.1 },
+    { maxTokens: 2048, temperature: 0.1 },
   );
   const parsed = JSON.parse(extractJsonObject(text));
-  const rows = parsed.articles ?? parsed.requiredShape?.articles ?? [];
-  const translated = new Map(rows.map((item) => [item.id, item]));
+  return parsed.articles ?? parsed.requiredShape?.articles ?? [];
+}
+
+// Translate in small batches. The Workers AI model caps output near 2048
+// tokens, and Georgian is token-heavy, so a single large batch truncates or
+// returns empty. Small chunks keep each JSON response complete, and one failed
+// chunk never blocks the others.
+async function translateWithCloudflare(items) {
+  const chunkSize = 4;
+  const translated = new Map();
+  for (let start = 0; start < items.length; start += chunkSize) {
+    const chunk = items.slice(start, start + chunkSize);
+    try {
+      for (const row of await translateChunkWithCloudflare(chunk)) {
+        if (row?.id) translated.set(row.id, row);
+      }
+    } catch (error) {
+      console.warn(
+        `Workers AI translation chunk (${chunk.length} items) failed: ${error.message}`,
+      );
+    }
+  }
+  if (!translated.size) {
+    throw new Error("Workers AI returned no usable translations");
+  }
   console.log(`Cloudflare Workers AI translated ${translated.size} stories`);
   return translated;
 }
@@ -549,7 +572,7 @@ async function writeOriginalGeorgianArticle(article, sourceText) {
       },
       { role: "user", content: prompt },
     ],
-    { maxTokens: 6000, temperature: 0.15 },
+    { maxTokens: 2048, temperature: 0.15 },
   );
   const bodyKa = JSON.parse(extractJsonObject(text)).bodyKa?.trim();
   if (!bodyKa || bodyKa.length < 600) {
@@ -576,7 +599,7 @@ async function auditOriginalGeorgianArticle(article, sourceText, draftBodyKa) {
         }),
       },
     ],
-    { maxTokens: 6000, temperature: 0 },
+    { maxTokens: 2048, temperature: 0 },
   );
   const correctedBodyKa = JSON.parse(extractJsonObject(text)).correctedBodyKa?.trim();
   if (!correctedBodyKa || correctedBodyKa.length < 600) {
