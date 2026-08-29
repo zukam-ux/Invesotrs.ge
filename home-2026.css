@@ -1,20 +1,27 @@
-/* Investors.ge — 2026 homepage: dark-first "live terminal" design.
-   Loaded after shared.css; everything is scoped under body.home26 so other pages keep their look. */
+/* Investors.ge — 2026 homepage: white-first "live terminal" design with an indigo accent.
+   Loaded after shared.css; everything is scoped under body.home26 so other pages keep their look.
+   Light is the default; the dark theme stays available behind the header toggle.
+   Up/down stay green/red — the universal finance convention — and always ship a sign and arrow
+   alongside the colour, because red/green alone fails colour-blind separation. */
 
 :root{
-  --t-bg:#0a1b13; --t-surface:#0f2419; --t-surface2:#13291e; --t-raise:#17301f;
-  --t-line:rgba(214,240,226,.09); --t-line2:rgba(214,240,226,.17);
-  --t-ink:#eef7f1; --t-ink2:#a7bcb0; --t-ink3:#7d948a;
-  --t-up:#17c58c; --t-down:#ff7a6e; --t-accent:#22e2a2; --t-accent-ink:#052015;
-  --t-glow:0 0 24px rgba(34,226,162,.14);
+  --t-bg:#f6f7f9; --t-surface:#ffffff; --t-surface2:#fafbfc; --t-raise:#ffffff;
+  --t-line:rgba(17,24,39,.09); --t-line2:rgba(17,24,39,.16);
+  --t-ink:#0f1419; --t-ink2:#525c66; --t-ink3:#79838d;
+  --t-up:#0f9d58; --t-down:#d93a33; --t-accent:#4f46e5; --t-accent-ink:#ffffff;
+  --t-accent-soft:rgba(79,70,229,.10);
+  --t-warn:#a16207;
+  --t-glow:0 10px 30px rgba(79,70,229,.10);
   --t-radius:18px;
 }
-html[data-theme="light"]{
-  --t-bg:#f4f7f4; --t-surface:#ffffff; --t-surface2:#fbfdfb; --t-raise:#ffffff;
-  --t-line:rgba(16,41,31,.09); --t-line2:rgba(16,41,31,.17);
-  --t-ink:#0e241a; --t-ink2:#51665c; --t-ink3:#6c8076;
-  --t-up:#068a5f; --t-down:#cf4a41; --t-accent:#068a5f; --t-accent-ink:#ffffff;
-  --t-glow:0 10px 30px rgba(9,68,46,.08);
+html[data-theme="dark"]{
+  --t-bg:#0c0f17; --t-surface:#141824; --t-surface2:#171c29; --t-raise:#1c2130;
+  --t-line:rgba(226,232,240,.09); --t-line2:rgba(226,232,240,.17);
+  --t-ink:#eef1f7; --t-ink2:#a8b1c1; --t-ink3:#7c8697;
+  --t-up:#34d399; --t-down:#fb7185; --t-accent:#818cf8; --t-accent-ink:#10121d;
+  --t-accent-soft:rgba(129,140,248,.16);
+  --t-warn:#e0b25c;
+  --t-glow:0 0 24px rgba(129,140,248,.16);
 }
 
 body.home26{background:var(--t-bg);color:var(--t-ink);font-family:"Noto Sans Georgian","Inter Tight",system-ui,sans-serif;font-size:15px}
@@ -40,7 +47,7 @@ body.home26{background:var(--t-bg);color:var(--t-ink);font-family:"Noto Sans Geo
 .home26 .tk [data-t26-change]{font-weight:700}
 .home26 .t26-updated{flex:0 0 auto;color:var(--t-ink3);font:600 11px "Inter Tight"}
 .home26 .tick-flash{animation:t26-flash .8s ease-out}
-@keyframes t26-flash{0%{background:rgba(34,226,162,.22);border-radius:6px}100%{background:transparent}}
+@keyframes t26-flash{0%{background:var(--t-accent-soft);border-radius:6px}100%{background:transparent}}
 
 /* ── header ──────────────────────────────────────── */
 body.home26 header{position:sticky;top:0;z-index:50;background:color-mix(in oklab,var(--t-bg) 82%,transparent);backdrop-filter:blur(16px) saturate(140%);border-bottom:1px solid var(--t-line)}
@@ -60,7 +67,7 @@ body.home26 .asset-search .nav-search{height:44px;background:var(--t-surface);bo
 body.home26 .asset-search .nav-search::placeholder{color:var(--t-ink3)}
 body.home26 .asset-search:before{border-color:var(--t-ink3)}
 body.home26 .asset-search:after{background:var(--t-ink3)}
-body.home26 .asset-search-results{background:var(--t-surface);border:1px solid var(--t-line2);box-shadow:0 28px 70px rgba(0,10,6,.5)}
+body.home26 .asset-search-results{background:var(--t-surface);border:1px solid var(--t-line2);box-shadow:0 24px 60px rgba(15,20,25,.14)}
 body.home26 .asset-result:hover{background:var(--t-surface2)}
 body.home26 .asset-result i{background:var(--t-raise);color:var(--t-accent)}
 body.home26 .asset-result b{color:var(--t-ink)}
@@ -79,11 +86,11 @@ body.home26 main{max-width:1320px;margin:auto;padding:28px 28px 56px}
 .home26 .t26-bento{display:grid;grid-template-columns:repeat(12,1fr);gap:16px}
 .home26 .t26-chart-card{grid-column:span 8;padding:22px 24px 10px;box-shadow:var(--t-glow)}
 .home26 .t26-chart-head{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
-.home26 .t26-sym{width:44px;height:44px;border-radius:13px;background:linear-gradient(135deg,var(--t-accent),#0f9d74);color:#052015;display:grid;place-items:center;font:800 13px "Inter Tight"}
+.home26 .t26-sym{width:44px;height:44px;border-radius:13px;background:var(--t-accent);color:var(--t-accent-ink);display:grid;place-items:center;font:800 13px "Inter Tight"}
 .home26 .t26-chart-head h1{font-size:17px;font-weight:700;margin:0;letter-spacing:0}
 .home26 .t26-chart-head p{font-size:12.5px;color:var(--t-ink3);margin:2px 0 0}
-.home26 .instrument-note{color:#d8b163;font-size:11px;font-weight:700;display:inline-flex;align-items:center;gap:6px;margin-top:4px}
-.home26 .instrument-note:before{content:"";width:6px;height:6px;border-radius:50%;background:#d8b163}
+.home26 .instrument-note{color:var(--t-warn);font-size:11px;font-weight:700;display:inline-flex;align-items:center;gap:6px;margin-top:4px}
+.home26 .instrument-note:before{content:"";width:6px;height:6px;border-radius:50%;background:var(--t-warn)}
 .home26 .t26-price{margin-left:auto;text-align:right}
 .home26 .t26-price [data-chart-latest]{display:block;font:800 30px "Inter Tight";letter-spacing:-.5px;font-variant-numeric:tabular-nums}
 .home26 .t26-price [data-chart-change]{font:700 13.5px "Inter Tight";color:var(--t-up)}
@@ -97,18 +104,18 @@ body.home26 main{max-width:1320px;margin:auto;padding:28px 28px 56px}
 .home26 .chart-wrap{position:relative;padding:6px 0 0}
 .home26 .market-chart-svg{display:block;width:100%;height:auto;aspect-ratio:900/330;overflow:visible}
 .home26 .market-chart-grid line{stroke:var(--t-line2);stroke-width:1;stroke-dasharray:1 6}
-.home26 .market-chart-line{fill:none;stroke:var(--t-up);stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+.home26 .market-chart-line{fill:none;stroke:var(--t-accent);stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
 .home26 .market-chart-area{fill:url(#spyAreaPositive)}
-.home26 .is-negative .market-chart-line{stroke:var(--t-down)}
+/* gradient stops are styled here (var() is unreliable in SVG presentation attributes) */
+.home26 #spyAreaPositive stop,.home26 #spyAreaNegative stop{stop-color:var(--t-accent)}
 .home26 .is-negative .market-chart-area{fill:url(#spyAreaNegative)}
 .home26 .chart-axis{font:600 11px "Inter Tight";fill:var(--t-ink3)}
 .home26 .chart-state{position:absolute;inset:0;display:none;place-items:center;padding:30px;text-align:center;color:var(--t-ink3);background:color-mix(in oklab,var(--t-surface) 88%,transparent);font-size:12.5px;border-radius:12px}
 .home26 .is-loading .chart-state,.home26 .has-error .chart-state{display:grid}
 .home26 .has-error .chart-state{color:var(--t-down)}
 .home26 .chart-hover-line{stroke:var(--t-ink3);stroke-width:1;stroke-dasharray:3 4;opacity:0;pointer-events:none}
-.home26 .chart-hover-dot{fill:var(--t-up);stroke:var(--t-bg);stroke-width:2.5;opacity:0;pointer-events:none}
-.home26 .is-negative .chart-hover-dot{fill:var(--t-down)}
-.home26 .chart-tooltip{position:absolute;top:10px;left:0;transform:translateX(-50%);background:var(--t-raise);border:1px solid var(--t-line2);border-radius:11px;padding:8px 12px;font-size:12px;box-shadow:0 14px 34px rgba(0,0,0,.35);pointer-events:none;opacity:0;transition:opacity .12s ease;white-space:nowrap;z-index:3}
+.home26 .chart-hover-dot{fill:var(--t-accent);stroke:var(--t-bg);stroke-width:2.5;opacity:0;pointer-events:none}
+.home26 .chart-tooltip{position:absolute;top:10px;left:0;transform:translateX(-50%);background:var(--t-raise);border:1px solid var(--t-line2);border-radius:11px;padding:8px 12px;font-size:12px;box-shadow:0 14px 34px rgba(15,20,25,.18);pointer-events:none;opacity:0;transition:opacity .12s ease;white-space:nowrap;z-index:3}
 .home26 .chart-tooltip b{display:block;font:800 14px "Inter Tight";font-variant-numeric:tabular-nums}
 .home26 .chart-tooltip small{color:var(--t-ink3);font-size:11px}
 .home26 .t26-chart-foot{display:flex;gap:26px;flex-wrap:wrap;border-top:1px solid var(--t-line);margin-top:10px;padding:13px 2px 12px;font-size:12px;color:var(--t-ink3)}
@@ -145,7 +152,7 @@ body.home26 main{max-width:1320px;margin:auto;padding:28px 28px 56px}
 .home26 .editorial-media img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:saturate(.82);transition:transform .35s ease}
 .home26 .editorial-home article:hover .editorial-media img{transform:scale(1.03)}
 .home26 .editorial-media:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 60%,rgba(4,14,9,.35));pointer-events:none}
-.home26 .photo-credit{position:absolute;right:8px;bottom:7px;z-index:2;padding:4px 7px;border-radius:6px;background:rgba(4,14,9,.72);color:#dff2e8;font:600 9px "Inter Tight"}
+.home26 .photo-credit{position:absolute;right:8px;bottom:7px;z-index:2;padding:4px 7px;border-radius:6px;background:rgba(4,14,9,.72);color:#f1f5f9;font:600 9px "Inter Tight"}
 .home26 .editorial-story-link{display:block;color:inherit;min-width:0}
 .home26 .editorial-lead-body{display:block;padding:20px 24px 22px;border-left:0;width:auto}
 .home26 .editorial-label{display:inline-block;padding:5px 10px;border-radius:8px;background:var(--t-accent);color:var(--t-accent-ink);font:800 10px "Inter Tight";letter-spacing:.08em;text-transform:uppercase}
@@ -176,8 +183,8 @@ body.home26 main{max-width:1320px;margin:auto;padding:28px 28px 56px}
 .home26 .news-identity b{display:block;font-size:11.5px;color:var(--t-ink)}
 .home26 .news-identity small{display:block;font-size:10.5px;color:var(--t-ink3)}
 .home26 .news-quote-chip{font:700 10px "Inter Tight";padding:2px 6px;border-radius:6px;margin-left:5px}
-.home26 .news-quote-chip.up{background:rgba(23,197,140,.14);color:var(--t-up)}
-.home26 .news-quote-chip.down{background:rgba(255,122,110,.14);color:var(--t-down)}
+.home26 .news-quote-chip.up{background:color-mix(in oklab,var(--t-up) 14%,transparent);color:var(--t-up)}
+.home26 .news-quote-chip.down{background:color-mix(in oklab,var(--t-down) 14%,transparent);color:var(--t-down)}
 
 /* ── category decks ──────────────────────────────── */
 .home26 .t26-cats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
@@ -185,7 +192,7 @@ body.home26 main{max-width:1320px;margin:auto;padding:28px 28px 56px}
 .home26 .t26-cat-head{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:15px 20px 11px}
 .home26 .t26-cat-head b{font-size:15.5px;font-weight:800}
 .home26 .t26-cat-head span{font:800 9.5px "Inter Tight";letter-spacing:.09em;text-transform:uppercase;padding:4px 9px;border-radius:99px;background:var(--t-raise);border:1px solid var(--t-line2);color:var(--t-accent);white-space:nowrap}
-.home26 .t26-cat.tech .t26-cat-head span{color:#a78bfa}
+.home26 .t26-cat.tech .t26-cat-head span{color:var(--t-ink2)}
 .home26 .t26-cat .auto-news-grid{display:block;border:0}
 .home26 .t26-cat .auto-news-card{display:block;background:transparent;border:0;border-top:1px solid var(--t-line);border-radius:0;padding:13px 20px;box-shadow:none;min-height:0;transform:none}
 .home26 .t26-cat .auto-news-card:hover{background:var(--t-surface2);transform:none;box-shadow:none}
