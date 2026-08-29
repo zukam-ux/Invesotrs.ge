@@ -395,7 +395,12 @@ async function generateWithAi(request, env) {
       max_tokens: Number(payload.maxTokens) || 1200,
       temperature: typeof payload.temperature === "number" ? payload.temperature : 0.1,
     });
-    const response = typeof result?.response === "string" ? result.response : "";
+    // Workers AI models return either { response } or an OpenAI-style
+    // { choices: [{ message: { content } }] }; support both.
+    const response =
+      (typeof result?.response === "string" && result.response) ||
+      result?.choices?.[0]?.message?.content ||
+      "";
     if (!response.trim()) {
       return json(
         {
