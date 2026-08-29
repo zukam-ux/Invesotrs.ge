@@ -30,7 +30,7 @@ assert.ok(worker.includes("source_url"));
 assert.ok(updater.includes("writeOriginalGeorgianArticle"));
 assert.ok(updater.includes("This is not a translation"));
 assert.ok(updater.includes("Do not add facts"));
-assert.ok(updater.includes("GitHub Models fallback"));
+assert.ok(updater.includes("Cloudflare Workers AI fallback"));
 assert.ok(updater.includes("maxHeaderSize: 128 * 1024"));
 assert.ok(updater.includes("auditOriginalGeorgianArticle"));
 assert.ok(updater.includes("portfolio weight, yield, expense ratio"));

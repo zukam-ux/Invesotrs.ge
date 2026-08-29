@@ -81,6 +81,12 @@ const BM_TAG_URLS = [
 const OUTPUT_PATH = new URL("../data/global-news.json", import.meta.url);
 const token = process.env.GITHUB_TOKEN;
 const geminiApiKey = process.env.GEMINI_API_KEY;
+const cloudflareAccountId = process.env.CLOUDFLARE_ACCOUNT_ID;
+const cloudflareApiToken = process.env.CLOUDFLARE_API_TOKEN;
+// Free Cloudflare Workers AI model used as the translation fallback now that
+// GitHub Models has been retired. Multilingual and strong enough for faithful
+// Georgian headline translation and short overviews.
+const CLOUDFLARE_AI_MODEL = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
 const FEED_MAX_ATTEMPTS = 4;
 const FEED_TIMEOUT_MS = 12_000;
 const ARTICLE_TIMEOUT_MS = 15_000;
@@ -297,47 +303,74 @@ async function fetchBmTag(tagUrl) {
   }));
 }
 
-async function translateWithGithub(items) {
-  const response = await fetch("https://models.github.ai/inference/chat/completions", {
-    method: "POST",
-    headers: {
-      authorization: `Bearer ${token}`,
-      "content-type": "application/json",
+function extractJsonObject(text = "") {
+  const fenced = text.match(/```(?:json)?\s*([\s\S]*?)```/i);
+  const candidate = fenced ? fenced[1] : text;
+  const start = candidate.indexOf("{");
+  const end = candidate.lastIndexOf("}");
+  return start >= 0 && end > start ? candidate.slice(start, end + 1) : candidate;
+}
+
+async function cloudflareChat(messages, { maxTokens = 1200, temperature = 0.1 } = {}) {
+  if (!cloudflareAccountId || !cloudflareApiToken) {
+    throw new Error("Cloudflare Workers AI credentials are not configured");
+  }
+  const response = await fetch(
+    `https://api.cloudflare.com/client/v4/accounts/${cloudflareAccountId}/ai/run/${CLOUDFLARE_AI_MODEL}`,
+    {
+      method: "POST",
+      headers: {
+        authorization: `Bearer ${cloudflareApiToken}`,
+        "content-type": "application/json",
+      },
+      body: JSON.stringify({ messages, temperature, max_tokens: maxTokens }),
     },
-    body: JSON.stringify({
-      model: "openai/gpt-4o-mini",
-      temperature: 0.1,
-      response_format: { type: "json_object" },
-      messages: [
-        {
-          role: "system",
-          content:
-            "You are a careful Georgian financial news editor. Translate headlines faithfully into natural Georgian. Write one concise Georgian explanatory sentence using only facts explicitly present in the supplied English headline. Never invent numbers, causes, forecasts, quotes, or investment advice. Return valid JSON only.",
-        },
-        {
-          role: "user",
-          content: JSON.stringify({
-            requiredShape: {
-              articles: [
-                {
-                  id: "same input id",
-                  titleKa: "faithful Georgian headline",
-                  summaryKa: "one factual Georgian sentence",
-                  category: "one of: ტექნოლოგიები, AI, ბაზრები და ეკონომიკა, კრიპტო",
-                },
-              ],
-            },
-            articles: items.map(({ id, title, source }) => ({ id, title, source })),
-          }),
-        },
-      ],
-    }),
-  });
-  if (!response.ok) throw new Error(`GitHub Models returned ${response.status}`);
+  );
+  if (!response.ok) {
+    throw new Error(
+      `Cloudflare Workers AI returned ${response.status}: ${(await response.text()).slice(0, 200)}`,
+    );
+  }
   const payload = await response.json();
-  const parsed = JSON.parse(payload.choices?.[0]?.message?.content ?? "{}");
+  const text = payload.result?.response;
+  if (typeof text !== "string" || !text.trim()) {
+    throw new Error("Cloudflare Workers AI returned an empty response");
+  }
+  return text;
+}
+
+async function translateWithCloudflare(items) {
+  const text = await cloudflareChat(
+    [
+      {
+        role: "system",
+        content:
+          "You are a careful Georgian financial news editor. Translate headlines faithfully into natural Georgian. Write one concise Georgian explanatory sentence using only facts explicitly present in the supplied English headline. Never invent numbers, causes, forecasts, quotes, or investment advice. Return valid JSON only, with no markdown fences.",
+      },
+      {
+        role: "user",
+        content: JSON.stringify({
+          requiredShape: {
+            articles: [
+              {
+                id: "same input id",
+                titleKa: "faithful Georgian headline",
+                summaryKa: "one factual Georgian sentence",
+                category: "one of: ტექნოლოგიები, AI, ბაზრები და ეკონომიკა, კრიპტო",
+              },
+            ],
+          },
+          articles: items.map(({ id, title, source }) => ({ id, title, source })),
+        }),
+      },
+    ],
+    { maxTokens: 2000, temperature: 0.1 },
+  );
+  const parsed = JSON.parse(extractJsonObject(text));
   const rows = parsed.articles ?? parsed.requiredShape?.articles ?? [];
-  return new Map(rows.map((item) => [item.id, item]));
+  const translated = new Map(rows.map((item) => [item.id, item]));
+  console.log(`Cloudflare Workers AI translated ${translated.size} stories`);
+  return translated;
 }
 
 async function translate(items) {
@@ -345,8 +378,8 @@ async function translate(items) {
     const translated = await translateWithGemini(items);
     return translated;
   } catch (error) {
-    console.warn(`Gemini translation failed; using GitHub Models fallback: ${error.message}`);
-    return translateWithGithub(items);
+    console.warn(`Gemini translation failed; using Cloudflare Workers AI fallback: ${error.message}`);
+    return translateWithCloudflare(items);
   }
 }
 
@@ -504,86 +537,49 @@ async function writeOriginalGeorgianArticle(article, sourceText) {
     }
   }
   console.warn(
-    `Gemini article generation failed; using GitHub Models fallback: ${
+    `Gemini article generation failed; using Cloudflare Workers AI fallback: ${
       lastError?.message || "GEMINI_API_KEY is not configured"
     }`,
   );
-  const githubResponse = await fetch(
-    "https://models.github.ai/inference/chat/completions",
-    {
-      method: "POST",
-      headers: {
-        authorization: `Bearer ${token}`,
-        "content-type": "application/json",
+  const text = await cloudflareChat(
+    [
+      {
+        role: "system",
+        content:
+          "You are a careful Georgian financial journalist. Return valid JSON only with one bodyKa string. Use only supplied source facts, never invent information or investment advice, and write an original overview rather than a translation.",
       },
-      body: JSON.stringify({
-        model: "openai/gpt-4o-mini",
-        temperature: 0.15,
-        max_tokens: 3000,
-        response_format: { type: "json_object" },
-        messages: [
-          {
-            role: "system",
-            content:
-              "You are a careful Georgian financial journalist. Return valid JSON only with one bodyKa string. Use only supplied source facts, never invent information or investment advice, and write an original overview rather than a translation.",
-          },
-          { role: "user", content: prompt },
-        ],
-      }),
-    },
+      { role: "user", content: prompt },
+    ],
+    { maxTokens: 3000, temperature: 0.15 },
   );
-  if (!githubResponse.ok) {
-    throw new Error(`GitHub Models returned ${githubResponse.status}`);
-  }
-  const payload = await githubResponse.json();
-  const parsed = JSON.parse(payload.choices?.[0]?.message?.content ?? "{}");
-  const bodyKa = parsed.bodyKa?.trim();
+  const bodyKa = JSON.parse(extractJsonObject(text)).bodyKa?.trim();
   if (!bodyKa || bodyKa.length < 600) {
-    throw new Error(`GitHub Models returned an article that is too short (${bodyKa?.length || 0})`);
+    throw new Error(`Cloudflare Workers AI returned an article that is too short (${bodyKa?.length || 0})`);
   }
   return bodyKa;
 }
 
 async function auditOriginalGeorgianArticle(article, sourceText, draftBodyKa) {
-  const response = await fetch(
-    "https://models.github.ai/inference/chat/completions",
-    {
-      method: "POST",
-      headers: {
-        authorization: `Bearer ${token}`,
-        "content-type": "application/json",
+  const text = await cloudflareChat(
+    [
+      {
+        role: "system",
+        content:
+          "You are the factual copy editor for a Georgian financial publication. Return valid JSON only with one correctedBodyKa string. Compare every claim and number in the Georgian draft against SOURCE_TEXT. Correct or remove anything unsupported. Pay special attention to the difference between portfolio weight, yield, expense ratio, return, drawdown, assets under management, and trading volume. Preserve Georgian ## headings and never add investment advice.",
       },
-      body: JSON.stringify({
-        model: "openai/gpt-4o-mini",
-        temperature: 0,
-        max_tokens: 3000,
-        response_format: { type: "json_object" },
-        messages: [
-          {
-            role: "system",
-            content:
-              "You are the factual copy editor for a Georgian financial publication. Return valid JSON only with one correctedBodyKa string. Compare every claim and number in the Georgian draft against SOURCE_TEXT. Correct or remove anything unsupported. Pay special attention to the difference between portfolio weight, yield, expense ratio, return, drawdown, assets under management, and trading volume. Preserve Georgian ## headings and never add investment advice.",
-          },
-          {
-            role: "user",
-            content: JSON.stringify({
-              headline: article.title,
-              publisher: article.source,
-              SOURCE_TEXT: sourceText,
-              GEORGIAN_DRAFT: draftBodyKa,
-            }),
-          },
-        ],
-      }),
-    },
+      {
+        role: "user",
+        content: JSON.stringify({
+          headline: article.title,
+          publisher: article.source,
+          SOURCE_TEXT: sourceText,
+          GEORGIAN_DRAFT: draftBodyKa,
+        }),
+      },
+    ],
+    { maxTokens: 3000, temperature: 0 },
   );
-  if (!response.ok) {
-    throw new Error(`Article factual audit returned ${response.status}`);
-  }
-  const payload = await response.json();
-  const correctedBodyKa = JSON.parse(
-    payload.choices?.[0]?.message?.content ?? "{}",
-  ).correctedBodyKa?.trim();
+  const correctedBodyKa = JSON.parse(extractJsonObject(text)).correctedBodyKa?.trim();
   if (!correctedBodyKa || correctedBodyKa.length < 600) {
     throw new Error(
       `Article factual audit returned invalid content (${correctedBodyKa?.length || 0})`,
