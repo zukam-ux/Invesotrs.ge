@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-19T14:06:26.266Z",
+  "updatedAt": "2026-08-29T09:58:05.257Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "1c6d9c40ba02896e",
+      "title": "ლონდონის ბირჟაზე აქციის შეძენა უკვე ელემენტარულია – თიბისის ახალი ვიდეორგოლი",
+      "source": "Marketer.ge",
+      "url": "https://www.marketer.ge/tbc-londonis-birjaze-aktsiebi/",
+      "publishedAt": "2026-08-27T07:52:41.000Z",
+      "description": "თიბისიში სიახლეა, რომლის გაცნობაც ძალიან მარტივადაც შეიძლებოდა – სტანდარტული […] The post ლონდონის ბირჟაზე აქციის შეძენა უკვე ელემენტარულია – თიბისის ახალი ვიდეორგოლი first appeared on Marketer .",
+      "titleKa": "ლონდონის ბირჟაზე აქციის შეძენა უკვე ელემენტარულია – თიბისის ახალი ვიდეორგოლი",
+      "summaryKa": "თიბისიში სიახლეა, რომლის გაცნობაც ძალიან მარტივადაც შეიძლებოდა – სტანდარტული […]",
+      "category": "საქართველო",
+      "translationNotice": ""
+    },
     {
       "id": "cb02015a1cc15f55",
       "title": "თიბისი კაპიტალის ექსკლუზიური მხარდაჭერით, ლოპოტამ $20-მილიონიანი ობლიგაციების სადებიუტო პროგრამის ფარგლებში, აშშ დოლარისა და ევროს ტრანშები სრულად განათავსა",
