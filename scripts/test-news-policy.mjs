@@ -8,6 +8,7 @@ const homepage = await readFile(new URL("../index.html", import.meta.url), "utf8
 const newsPage = await readFile(new URL("../news.html", import.meta.url), "utf8");
 const georgiaPage = await readFile(new URL("../georgia.html", import.meta.url), "utf8");
 const standardsPage = await readFile(new URL("../standards.html", import.meta.url), "utf8");
+const homeStyles = await readFile(new URL("../home-2026.css", import.meta.url), "utf8");
 
 for (const source of ["Yahoo Finance", "Google Finance", "Nasdaq", "Bloomberg", "MarketWatch"]) {
   assert.ok(collector.includes(`"${source}"`), `${source} must be approved by the collector`);
@@ -46,7 +47,8 @@ assert.ok(shared.includes("function editorialPhoto"));
 assert.ok(shared.includes("CC BY 4.0"));
 assert.ok(shared.includes("CC BY-SA 3.0"));
 assert.ok(homepage.includes("editorial-photos"));
-assert.ok(homepage.includes(".photo-credit"));
+assert.ok(homepage.includes("home-2026.css"));
+assert.ok(homeStyles.includes(".photo-credit"));
 for (const term of ["ukraine", "gaza", "airstrike", "military attack"]) {
   assert.ok(collector.includes(term), `${term} must be covered by the conflict filter`);
   assert.ok(worker.includes(term), `${term} must be blocked by the live API`);

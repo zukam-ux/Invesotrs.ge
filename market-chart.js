@@ -77,6 +77,7 @@ export async function loadMarketChart(root, range = "1m") {
     );
     state.textContent = "";
     root.classList.remove("is-loading");
+    setupChartHover(root, data);
   } catch {
     root.classList.remove("is-loading");
     root.classList.add("has-error");
@@ -84,6 +85,66 @@ export async function loadMarketChart(root, range = "1m") {
   } finally {
     buttons.forEach((button) => (button.disabled = false));
   }
+}
+
+const SVG_NS = "http://www.w3.org/2000/svg";
+
+export function setupChartHover(root, data, width = 900, height = 330, padding = 34) {
+  const svg = root.querySelector("svg");
+  const wrap = svg?.closest(".chart-wrap");
+  if (!svg || !wrap) return;
+  const values = data.points.map((point) => Number(point.close)).filter(Number.isFinite);
+  if (values.length < 2) return;
+  root.__hoverSeries = { values, points: data.points, currency: data.currency || "USD" };
+  if (root.__hoverAttached) return;
+  root.__hoverAttached = true;
+
+  const line = document.createElementNS(SVG_NS, "line");
+  line.setAttribute("class", "chart-hover-line");
+  line.setAttribute("y1", padding);
+  line.setAttribute("y2", height - padding);
+  const dot = document.createElementNS(SVG_NS, "circle");
+  dot.setAttribute("class", "chart-hover-dot");
+  dot.setAttribute("r", 4.5);
+  svg.append(line, dot);
+  const tip = document.createElement("div");
+  tip.className = "chart-tooltip";
+  tip.setAttribute("aria-hidden", "true");
+  wrap.appendChild(tip);
+
+  const hide = () => {
+    line.style.opacity = "0";
+    dot.style.opacity = "0";
+    tip.style.opacity = "0";
+  };
+  svg.addEventListener("pointerleave", hide);
+  svg.addEventListener("pointermove", (event) => {
+    const series = root.__hoverSeries;
+    if (!series) return;
+    const rect = svg.getBoundingClientRect();
+    const viewX = ((event.clientX - rect.left) / rect.width) * width;
+    const count = series.values.length;
+    const index = Math.max(0, Math.min(count - 1, Math.round(((viewX - padding) / (width - padding * 2)) * (count - 1))));
+    const min = Math.min(...series.values);
+    const max = Math.max(...series.values);
+    const span = max - min || 1;
+    const x = padding + (index * (width - padding * 2)) / (count - 1);
+    const y = padding + ((max - series.values[index]) * (height - padding * 2)) / span;
+    line.setAttribute("x1", x);
+    line.setAttribute("x2", x);
+    dot.setAttribute("cx", x);
+    dot.setAttribute("cy", y);
+    const first = series.values[0];
+    const changePercent = first ? ((series.values[index] - first) / first) * 100 : 0;
+    const stamp = new Date(series.points[index].timestamp * 1000).toLocaleString("ka-GE", {
+      day: "numeric", month: "short", hour: "2-digit", minute: "2-digit",
+    });
+    tip.innerHTML = `<small>${stamp}</small><b>${money(series.values[index], series.currency)}</b><small class="${changePercent >= 0 ? "up" : "down"}">${changePercent >= 0 ? "▲ +" : "▼ −"}${Math.abs(changePercent).toFixed(2)}% პერიოდში</small>`;
+    tip.style.left = `${(x / width) * rect.width}px`;
+    line.style.opacity = "1";
+    dot.style.opacity = "1";
+    tip.style.opacity = "1";
+  });
 }
 
 if (typeof document !== "undefined") {
