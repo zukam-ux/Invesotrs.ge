@@ -366,7 +366,7 @@ async function syncPublishedNews(env) {
 
 // Text-generation model used for Georgian translation fallback. Runs on the
 // account's Workers AI binding, so it needs no external API token.
-const AI_GENERATION_MODEL = "@cf/meta/llama-3.1-8b-instruct";
+const AI_GENERATION_MODEL = "@cf/meta/llama-3.1-8b-instruct-fast";
 
 async function generateWithAi(request, env) {
   const authorization = request.headers.get("authorization") || "";
