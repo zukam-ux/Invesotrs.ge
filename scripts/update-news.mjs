@@ -363,7 +363,7 @@ async function translateWithCloudflare(items) {
         }),
       },
     ],
-    { maxTokens: 2000, temperature: 0.1 },
+    { maxTokens: 6000, temperature: 0.1 },
   );
   const parsed = JSON.parse(extractJsonObject(text));
   const rows = parsed.articles ?? parsed.requiredShape?.articles ?? [];
@@ -549,7 +549,7 @@ async function writeOriginalGeorgianArticle(article, sourceText) {
       },
       { role: "user", content: prompt },
     ],
-    { maxTokens: 3000, temperature: 0.15 },
+    { maxTokens: 6000, temperature: 0.15 },
   );
   const bodyKa = JSON.parse(extractJsonObject(text)).bodyKa?.trim();
   if (!bodyKa || bodyKa.length < 600) {
@@ -576,7 +576,7 @@ async function auditOriginalGeorgianArticle(article, sourceText, draftBodyKa) {
         }),
       },
     ],
-    { maxTokens: 3000, temperature: 0 },
+    { maxTokens: 6000, temperature: 0 },
   );
   const correctedBodyKa = JSON.parse(extractJsonObject(text)).correctedBodyKa?.trim();
   if (!correctedBodyKa || correctedBodyKa.length < 600) {
