@@ -82,7 +82,10 @@ const OUTPUT_PATH = new URL("../data/global-news.json", import.meta.url);
 const token = process.env.GITHUB_TOKEN;
 const geminiApiKey = process.env.GEMINI_API_KEY;
 const cloudflareAccountId = process.env.CLOUDFLARE_ACCOUNT_ID;
-const cloudflareApiToken = process.env.CLOUDFLARE_API_TOKEN;
+// Prefer a dedicated Workers AI token so the deploy token does not need the
+// Workers AI permission; fall back to the deploy token when only one exists.
+const cloudflareApiToken =
+  process.env.CLOUDFLARE_AI_TOKEN || process.env.CLOUDFLARE_API_TOKEN;
 // Free Cloudflare Workers AI model used as the translation fallback now that
 // GitHub Models has been retired. Multilingual and strong enough for faithful
 // Georgian headline translation and short overviews.
