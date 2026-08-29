@@ -10,6 +10,9 @@
 	"observability": {
 		"enabled": true
 	},
+	"ai": {
+		"binding": "AI"
+	},
 	"assets": {
 		"directory": ".",
 		"binding": "ASSETS",

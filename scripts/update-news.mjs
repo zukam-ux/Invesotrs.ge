@@ -81,15 +81,14 @@ const BM_TAG_URLS = [
 const OUTPUT_PATH = new URL("../data/global-news.json", import.meta.url);
 const token = process.env.GITHUB_TOKEN;
 const geminiApiKey = process.env.GEMINI_API_KEY;
-const cloudflareAccountId = process.env.CLOUDFLARE_ACCOUNT_ID;
-// Prefer a dedicated Workers AI token so the deploy token does not need the
-// Workers AI permission; fall back to the deploy token when only one exists.
-const cloudflareApiToken =
-  process.env.CLOUDFLARE_AI_TOKEN || process.env.CLOUDFLARE_API_TOKEN;
-// Free Cloudflare Workers AI model used as the translation fallback now that
-// GitHub Models has been retired. Multilingual and strong enough for faithful
-// Georgian headline translation and short overviews.
-const CLOUDFLARE_AI_MODEL = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
+// Translation fallback now runs through the site's own Cloudflare Worker, which
+// calls Workers AI via a runtime binding. This needs no Cloudflare API token —
+// the existing NEWS_INGEST_TOKEN authorizes the request and the model runs on
+// the account's free Workers AI allowance.
+const newsIngestToken = process.env.NEWS_INGEST_TOKEN;
+const AI_ENDPOINT =
+  process.env.AI_ENDPOINT ||
+  "https://investors-ge.makharashvili-zurab.workers.dev/api/ai-generate";
 const FEED_MAX_ATTEMPTS = 4;
 const FEED_TIMEOUT_MS = 12_000;
 const ARTICLE_TIMEOUT_MS = 15_000;
@@ -315,29 +314,26 @@ function extractJsonObject(text = "") {
 }
 
 async function cloudflareChat(messages, { maxTokens = 1200, temperature = 0.1 } = {}) {
-  if (!cloudflareAccountId || !cloudflareApiToken) {
-    throw new Error("Cloudflare Workers AI credentials are not configured");
+  if (!newsIngestToken) {
+    throw new Error("NEWS_INGEST_TOKEN is not configured for Workers AI translation");
   }
-  const response = await fetch(
-    `https://api.cloudflare.com/client/v4/accounts/${cloudflareAccountId}/ai/run/${CLOUDFLARE_AI_MODEL}`,
-    {
-      method: "POST",
-      headers: {
-        authorization: `Bearer ${cloudflareApiToken}`,
-        "content-type": "application/json",
-      },
-      body: JSON.stringify({ messages, temperature, max_tokens: maxTokens }),
+  const response = await fetch(AI_ENDPOINT, {
+    method: "POST",
+    headers: {
+      authorization: `Bearer ${newsIngestToken}`,
+      "content-type": "application/json",
     },
-  );
+    body: JSON.stringify({ messages, maxTokens, temperature }),
+  });
   if (!response.ok) {
     throw new Error(
-      `Cloudflare Workers AI returned ${response.status}: ${(await response.text()).slice(0, 200)}`,
+      `Workers AI proxy returned ${response.status}: ${(await response.text()).slice(0, 200)}`,
     );
   }
   const payload = await response.json();
-  const text = payload.result?.response;
+  const text = payload.response;
   if (typeof text !== "string" || !text.trim()) {
-    throw new Error("Cloudflare Workers AI returned an empty response");
+    throw new Error("Workers AI proxy returned an empty response");
   }
   return text;
 }

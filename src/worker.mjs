@@ -364,6 +364,50 @@ async function syncPublishedNews(env) {
   return { imported: articles.length };
 }
 
+// Text-generation model used for Georgian translation fallback. Runs on the
+// account's Workers AI binding, so it needs no external API token.
+const AI_GENERATION_MODEL = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
+
+async function generateWithAi(request, env) {
+  const authorization = request.headers.get("authorization") || "";
+  if (
+    !env.NEWS_INGEST_TOKEN ||
+    authorization !== `Bearer ${env.NEWS_INGEST_TOKEN}`
+  ) {
+    return json({ error: "Unauthorized" }, { status: 401 });
+  }
+  if (!env.AI) {
+    return json({ error: "Workers AI binding is not configured" }, { status: 503 });
+  }
+  let payload;
+  try {
+    payload = await request.json();
+  } catch {
+    return json({ error: "Invalid JSON body" }, { status: 400 });
+  }
+  const messages = Array.isArray(payload.messages) ? payload.messages : null;
+  if (!messages) {
+    return json({ error: "messages array is required" }, { status: 400 });
+  }
+  try {
+    const result = await env.AI.run(AI_GENERATION_MODEL, {
+      messages,
+      max_tokens: Number(payload.maxTokens) || 1200,
+      temperature: typeof payload.temperature === "number" ? payload.temperature : 0.1,
+    });
+    const response = typeof result?.response === "string" ? result.response : "";
+    if (!response.trim()) {
+      return json({ error: "Model returned an empty response" }, { status: 502 });
+    }
+    return json({ response });
+  } catch (error) {
+    return json(
+      { error: `Workers AI error: ${error?.message || "unknown"}` },
+      { status: 502 },
+    );
+  }
+}
+
 async function ingestNews(request, env) {
   const authorization = request.headers.get("authorization") || "";
   if (
@@ -1176,6 +1220,9 @@ export default {
     }
     if (url.pathname === "/api/news-ingest" && request.method === "POST") {
       return ingestNews(request, env);
+    }
+    if (url.pathname === "/api/ai-generate" && request.method === "POST") {
+      return generateWithAi(request, env);
     }
     if (url.pathname === "/api/editorial/pending" && request.method === "GET") {
       return listPendingEditorialReviews(request, env);
