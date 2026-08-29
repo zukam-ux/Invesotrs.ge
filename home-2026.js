@@ -9,9 +9,9 @@
     if (themeButton) themeButton.textContent = theme === "dark" ? "☾" : "☀";
     document
       .querySelector('meta[name="theme-color"]')
-      ?.setAttribute("content", theme === "dark" ? "#0a1b13" : "#f4f7f4");
+      ?.setAttribute("content", theme === "dark" ? "#0c0f17" : "#f6f7f9");
   }
-  applyTheme(document.documentElement.dataset.theme === "light" ? "light" : "dark");
+  applyTheme(document.documentElement.dataset.theme === "dark" ? "dark" : "light");
   themeButton?.addEventListener("click", () => {
     const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
     applyTheme(next);
