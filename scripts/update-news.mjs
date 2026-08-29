@@ -608,13 +608,15 @@ let { successful: successfulFeeds, failed: failedFeeds } = await collectFeeds(
   PRIMARY_FEEDS,
   "primary",
 );
-if (!successfulFeeds.length) {
-  console.warn("All primary feeds failed; switching to independent publisher feeds");
-  ({ successful: successfulFeeds, failed: failedFeeds } = await collectFeeds(
-    FALLBACK_FEEDS,
-    "fallback",
-  ));
-}
+// Always consult the direct publisher feeds (Yahoo Finance, Nasdaq, MarketWatch)
+// in addition to Google News discovery. These carry same-day headlines under
+// already-approved source names, so the approved-source filter is unchanged, but
+// the archive stays fresh even when Google News surfaces few trusted-publisher
+// stories on a given run.
+const { successful: publisherFeeds, failed: failedPublisherFeeds } =
+  await collectFeeds(FALLBACK_FEEDS, "publisher");
+successfulFeeds = [...successfulFeeds, ...publisherFeeds];
+failedFeeds = [...failedFeeds, ...failedPublisherFeeds];
 if (!successfulFeeds.length) {
   throw new Error("All primary and fallback global news feeds failed after retries");
 }
