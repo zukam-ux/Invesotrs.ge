@@ -366,7 +366,7 @@ async function syncPublishedNews(env) {
 
 // Text-generation model used for Georgian translation fallback. Runs on the
 // account's Workers AI binding, so it needs no external API token.
-const AI_GENERATION_MODEL = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
+const AI_GENERATION_MODEL = "@cf/meta/llama-3.1-8b-instruct";
 
 async function generateWithAi(request, env) {
   const authorization = request.headers.get("authorization") || "";
@@ -397,7 +397,13 @@ async function generateWithAi(request, env) {
     });
     const response = typeof result?.response === "string" ? result.response : "";
     if (!response.trim()) {
-      return json({ error: "Model returned an empty response" }, { status: 502 });
+      return json(
+        {
+          error: "Model returned an empty response",
+          debug: JSON.stringify(result ?? null).slice(0, 300),
+        },
+        { status: 502 },
+      );
     }
     return json({ response });
   } catch (error) {
