@@ -17,6 +17,10 @@ on:
         description: Prioritize one existing story for full Georgian article backfill
         required: false
         type: string
+      retranslate_count:
+        description: Re-translate this many of the newest existing headlines
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -45,6 +49,7 @@ jobs:
           NEWS_INGEST_TOKEN: ${{ secrets.NEWS_INGEST_TOKEN }}
           GEMINI_SMOKE_TEST: ${{ inputs.smoke_test }}
           ARTICLE_BACKFILL_ID: ${{ inputs.article_id }}
+          RETRANSLATE_COUNT: ${{ inputs.retranslate_count }}
         run: |
           if ! node scripts/update-news.mjs; then
             echo "Initial collection failed; retrying the full collection in 45 seconds"

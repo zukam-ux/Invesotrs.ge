@@ -811,6 +811,41 @@ if (!georgiaOnly && refreshedArticles.length < 3 && previous.articles.length < 3
 const articlesById = new Map(
   [...previous.articles, ...refreshedArticles, ...refreshedGeorgianArticles].map((article) => [article.id, article]),
 );
+// Headlines translated by an earlier, weaker model read badly in Georgian, and
+// a story is only translated when it first arrives. This re-runs translation
+// over the newest existing stories so improvements to the model or the
+// glossary can be applied to what readers actually see.
+const retranslateCount = Number(process.env.RETRANSLATE_COUNT || 0);
+if (retranslateCount > 0) {
+  const targets = [...articlesById.values()]
+    .filter((article) => article.title && article.category !== "საქართველო")
+    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
+    .slice(0, retranslateCount);
+  console.log(`Re-translating ${targets.length} existing headlines`);
+  let updated = 0;
+  for (let index = 0; index < targets.length; index += 6) {
+    const chunk = targets.slice(index, index + 6);
+    try {
+      const redone = await translate(
+        chunk.map(({ id, title, source }) => ({ id, title, source })),
+      );
+      for (const article of chunk) {
+        const fresh = redone.get(article.id);
+        if (!fresh?.titleKa) continue;
+        articlesById.set(article.id, {
+          ...article,
+          titleKa: decode(fresh.titleKa),
+          summaryKa: decode(fresh.summaryKa || article.summaryKa),
+          category: normalizeNewsCategory(fresh.category || article.category, article.title),
+        });
+        updated += 1;
+      }
+    } catch (error) {
+      console.warn(`Re-translation chunk failed: ${error.message}`);
+    }
+  }
+  console.log(`Re-translated ${updated}/${targets.length} headlines`);
+}
 let articles = [...articlesById.values()].sort(
   (a, b) => new Date(b.publishedAt) - new Date(a.publishedAt),
 );
