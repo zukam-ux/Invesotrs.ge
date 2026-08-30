@@ -150,7 +150,14 @@ export function renderNewsArticlePage(article, relatedArticles, requestUrl) {
     ${related ? `<section class="related" aria-labelledby="relatedTitle"><h2 id="relatedTitle">მსგავსი ამბები ქართულად</h2><div class="related-grid">${related}</div></section>` : ""}
     <script type="application/ld+json">${schema}</script>
   </main>`;
-  return layout({ title, description: summary, canonical, body });
+  const hasFullBody = (article.body_ka || "").trim().length >= 600;
+  return layout({
+    title,
+    description: summary,
+    canonical,
+    body,
+    robots: hasFullBody ? "index,follow" : "noindex,follow",
+  });
 }
 
 export function renderNewsNotFoundPage(requestUrl) {

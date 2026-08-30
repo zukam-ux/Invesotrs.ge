@@ -841,12 +841,13 @@ function escapeXmlText(value) {
   );
 }
 
-async function listPublishedNewsRows(env, limit) {
+async function listPublishedNewsRows(env, limit, fullArticlesOnly = false) {
   const result = await env.DB.prepare(
     `SELECT id, title, title_ka, summary_ka, source, published_at
      FROM articles
      WHERE ${PUBLISHED_NEWS_SOURCES_SQL}
        AND ${isEditoriallyPublishedSql()}
+       ${fullArticlesOnly ? "AND LENGTH(COALESCE(body_ka, '')) >= 600" : ""}
      ORDER BY published_at DESC
      LIMIT ?`,
   )
@@ -859,7 +860,7 @@ async function listPublishedNewsRows(env, limit) {
 
 async function serveNewsSitemap(env) {
   try {
-    const rows = await listPublishedNewsRows(env, 1000);
+    const rows = await listPublishedNewsRows(env, 1000, true);
     const urls = rows
       .map((row) => {
         const lastmod = String(row.published_at || "").slice(0, 10);

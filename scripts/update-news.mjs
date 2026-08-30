@@ -92,7 +92,7 @@ const AI_ENDPOINT =
 const FEED_MAX_ATTEMPTS = 4;
 const FEED_TIMEOUT_MS = 12_000;
 const ARTICLE_TIMEOUT_MS = 15_000;
-const ARTICLE_ENRICH_LIMIT = 2;
+const ARTICLE_ENRICH_LIMIT = 4;
 const requestedBackfillId = process.env.ARTICLE_BACKFILL_ID?.trim();
 const georgiaOnly = process.env.GEORGIA_ONLY === "true";
 const publisherAgent = new Agent({ maxHeaderSize: 128 * 1024 });
@@ -311,6 +311,22 @@ function extractJsonObject(text = "") {
   const start = candidate.indexOf("{");
   const end = candidate.lastIndexOf("}");
   return start >= 0 && end > start ? candidate.slice(start, end + 1) : candidate;
+}
+
+// Workers AI models frequently answer with the Georgian article text itself
+// (often as markdown) instead of the requested {"<field>": "..."} JSON wrapper.
+// Accept both shapes: parse JSON when present, otherwise treat a Georgian
+// plain-text response as the field value.
+function extractGeorgianField(text = "", field) {
+  try {
+    const value = JSON.parse(extractJsonObject(text))[field]?.trim();
+    if (value) return value;
+  } catch {
+    /* fall through to the plain-text shape */
+  }
+  const raw = String(text).replace(/```[a-z]*\s*/gi, "").replace(/```/g, "").trim();
+  if (/[Ⴀ-ჿ]/.test(raw) && !raw.includes(`"${field}"`)) return raw;
+  return "";
 }
 
 async function cloudflareChat(messages, { maxTokens = 1200, temperature = 0.1 } = {}) {
@@ -574,7 +590,7 @@ async function writeOriginalGeorgianArticle(article, sourceText) {
     ],
     { maxTokens: 2048, temperature: 0.15 },
   );
-  const bodyKa = JSON.parse(extractJsonObject(text)).bodyKa?.trim();
+  const bodyKa = extractGeorgianField(text, "bodyKa");
   if (!bodyKa || bodyKa.length < 600) {
     throw new Error(`Cloudflare Workers AI returned an article that is too short (${bodyKa?.length || 0})`);
   }
@@ -601,7 +617,7 @@ async function auditOriginalGeorgianArticle(article, sourceText, draftBodyKa) {
     ],
     { maxTokens: 2048, temperature: 0 },
   );
-  const correctedBodyKa = JSON.parse(extractJsonObject(text)).correctedBodyKa?.trim();
+  const correctedBodyKa = extractGeorgianField(text, "correctedBodyKa");
   if (!correctedBodyKa || correctedBodyKa.length < 600) {
     throw new Error(
       `Article factual audit returned invalid content (${correctedBodyKa?.length || 0})`,
