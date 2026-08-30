@@ -2,7 +2,10 @@ name: Hourly global financial news
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    # Twice an hour on off-peak minutes. GitHub's shared scheduler drops
+    # scheduled runs under load, and the top of the hour is its busiest slot,
+    # so runs on ":00" were regularly skipped entirely.
+    - cron: "17,47 * * * *"
   workflow_dispatch:
     inputs:
       smoke_test:
