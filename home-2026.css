@@ -87,7 +87,7 @@ body.home26 main{max-width:1320px;margin:auto;padding:28px 28px 56px}
 .home26 .t26-chart-card{grid-column:span 8;padding:22px 24px 10px;box-shadow:var(--t-glow)}
 .home26 .t26-chart-head{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
 .home26 .t26-sym{width:44px;height:44px;border-radius:13px;background:var(--t-accent);color:var(--t-accent-ink);display:grid;place-items:center;font:800 13px "Inter Tight"}
-.home26 .t26-chart-head h1{font-size:17px;font-weight:700;margin:0;letter-spacing:0}
+.home26 .t26-chart-head h2{font-size:17px;font-weight:700;margin:0;letter-spacing:0}
 .home26 .t26-chart-head p{font-size:12.5px;color:var(--t-ink3);margin:2px 0 0}
 .home26 .instrument-note{color:var(--t-warn);font-size:11px;font-weight:700;display:inline-flex;align-items:center;gap:6px;margin-top:4px}
 .home26 .instrument-note:before{content:"";width:6px;height:6px;border-radius:50%;background:var(--t-warn)}
@@ -213,7 +213,7 @@ body.home26 main{max-width:1320px;margin:auto;padding:28px 28px 56px}
 
 /* ── seo / trust / footer ────────────────────────── */
 .home26 .t26-seo{margin-top:40px;padding:26px 28px;background:var(--t-surface);border:1px solid var(--t-line);border-radius:var(--t-radius)}
-.home26 .t26-seo h2{font-size:19px;font-weight:800;margin:6px 0 10px}
+.home26 .t26-seo h1,.home26 .t26-seo h2{font-size:19px;font-weight:800;margin:6px 0 10px}
 .home26 .t26-seo p{margin:0;color:var(--t-ink2);line-height:1.75;max-width:920px;font-size:13.5px}
 .home26 .t26-seo nav{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
 .home26 .t26-seo nav a{display:inline-flex;align-items:center;min-height:40px;padding:8px 15px;border:1px solid var(--t-line2);border-radius:11px;font-size:12.5px;font-weight:700;color:var(--t-ink)}
