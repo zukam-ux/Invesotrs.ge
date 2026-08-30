@@ -257,7 +257,33 @@ function identifyNewsAsset(article){
   ];
   return identities.find(identity=>identity.match.test(text))||{symbol:article.category==="აქციები"?"STOCK":article.category==="კრიპტო"?"CRYPTO":"NEWS",name:article.category||"ბაზრები"};
 }
-function editorialPhoto(article){
+const EDITORIAL_FALLBACK_PHOTOS=[
+  {
+    url:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NYSE_Advanced_Trading_Floor.jpg/1280px-NYSE_Advanced_Trading_Floor.jpg",
+    alt:"ნიუ-იორკის საფონდო ბირჟის სავაჭრო დარბაზი",
+    credit:"Asy arch · CC BY-SA 3.0",
+    source:"https://commons.wikimedia.org/w/index.php?curid=3263404"
+  },
+  {
+    url:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/New_York_Stock_Exchange_August_2017_01.jpg/1280px-New_York_Stock_Exchange_August_2017_01.jpg",
+    alt:"ნიუ-იორკის საფონდო ბირჟის შენობა",
+    credit:"Arild Vågen · CC BY-SA 4.0",
+    source:"https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_August_2017_01.jpg"
+  },
+  {
+    url:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nasdaq_MarketSite_%2851494550508%29.jpg/1280px-Nasdaq_MarketSite_%2851494550508%29.jpg",
+    alt:"Nasdaq MarketSite თაიმს-სკვერზე",
+    credit:"ajay_suresh · CC BY 2.0",
+    source:"https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg"
+  },
+  {
+    url:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Wall_Street_Sign_NYC.jpg/1280px-Wall_Street_Sign_NYC.jpg",
+    alt:"უოლ-სტრიტის ქუჩის ნიშანი",
+    credit:"JSquish · CC BY-SA 3.0",
+    source:"https://commons.wikimedia.org/wiki/File:Wall_Street_Sign_NYC.jpg"
+  }
+];
+function editorialPhoto(article,usedUrls){
   const text=`${article.title||""} ${article.titleKa||""} ${article.summaryKa||""} ${article.category||""}`.toLowerCase();
   const photos=[
     {
@@ -275,15 +301,13 @@ function editorialPhoto(article){
       source:"https://commons.wikimedia.org/w/index.php?curid=185565863"
     }
   ];
-  return photos.find(photo=>photo.match.test(text))||{
-    url:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NYSE_Advanced_Trading_Floor.jpg/1280px-NYSE_Advanced_Trading_Floor.jpg",
-    alt:"ნიუ-იორკის საფონდო ბირჟის სავაჭრო დარბაზი",
-    credit:"Asy arch · CC BY-SA 3.0",
-    source:"https://commons.wikimedia.org/w/index.php?curid=3263404"
-  };
+  const matched=photos.find(photo=>photo.match.test(text));
+  const candidates=matched?[matched,...EDITORIAL_FALLBACK_PHOTOS]:EDITORIAL_FALLBACK_PHOTOS;
+  return candidates.find(photo=>!(usedUrls&&usedUrls.has(photo.url)))||candidates[0];
 }
-function editorialMedia(article,eager=false){
-  const photo=editorialPhoto(article);
+function editorialMedia(article,eager=false,usedUrls){
+  const photo=editorialPhoto(article,usedUrls);
+  if(usedUrls)usedUrls.add(photo.url);
   return `<figure class="editorial-media">
     <img src="${escapeNews(photo.url)}" alt="${escapeNews(photo.alt)}" loading="${eager?"eager":"lazy"}" referrerpolicy="no-referrer">
     <a class="photo-credit" href="${escapeNews(photo.source)}" target="_blank" rel="noopener">${escapeNews(photo.credit)} ↗</a>
@@ -308,7 +332,7 @@ function editorialIdentity(identity,article){
   return `<span class="news-identity"><i class="news-logo">${escapeNews(identity.symbol.slice(0,4))}${identity.logo?`<img src="${escapeNews(identity.logo)}" alt="" loading="lazy" onerror="this.remove()">`:""}</i><span><b>${escapeNews(identity.symbol)} · ${escapeNews(identity.name)} ${newsQuoteBadge(identity)}</b><small>${relativeNewsTime(article.publishedAt)} · ${escapeNews(article.source)}</small></span></span>`;
 }
 function renderEditorialHome(target,articles){
-  const eligible=curatedNews(articles),latest=newestNews(articles),lead=recentEditorialLead(eligible),selected=lead?[lead,...latest.filter(article=>article.id!==lead.id)].slice(0,8):[],features=selected.slice(1,3),rail=selected.slice(3,8);
+  const eligible=curatedNews(articles),latest=newestNews(articles),lead=recentEditorialLead(eligible),selected=lead?[lead,...latest.filter(article=>article.id!==lead.id)].slice(0,8):[],features=selected.slice(1,3),rail=selected.slice(3,8),usedPhotos=new Set();
   if(!lead){
     target.innerHTML='<div class="news-status">მთავარი ამბების პირველი განახლება მზადდება.</div>';
     return;
@@ -316,7 +340,7 @@ function renderEditorialHome(target,articles){
   const leadIdentity=identifyNewsAsset(lead);
   target.innerHTML=`
     <article class="editorial-lead">
-      ${editorialMedia(lead,true)}
+      ${editorialMedia(lead,true,usedPhotos)}
       <a class="editorial-story-link" href="${newsArticleUrl(lead)}">
       <span class="editorial-lead-body">
         <span class="editorial-label">მთავარი ამბავი</span>
@@ -330,7 +354,7 @@ function renderEditorialHome(target,articles){
     ${features.map((article,index)=>{
       const identity=identifyNewsAsset(article);
       return `<article class="editorial-feature">
-        ${editorialMedia(article)}
+        ${editorialMedia(article,false,usedPhotos)}
         <a class="editorial-story-link" href="${newsArticleUrl(article)}">
         <span class="editorial-feature-body">
           ${editorialIdentity(identity,article)}
@@ -365,7 +389,9 @@ async function loadGlobalNews(){
     const data=await response.json();
     await loadNewsQuotes(data.articles||[]);
     const safeArticles=(data.articles||[]).filter(article=>!isConflictNews(article));
+    const shownIds=new Set();
     const thesis=recentEditorialLead(safeArticles);
+    if(thesis&&thesisTargets.length)shownIds.add(thesis.id);
     if(thesis){
       const identity=identifyNewsAsset(thesis);
       thesisTargets.forEach(target=>target.innerHTML=`
@@ -377,11 +403,17 @@ async function loadGlobalNews(){
         </div>
         <span class="daily-thesis-actions"><a href="${newsArticleUrl(thesis)}">წაიკითხე ქართულად →</a><a href="${escapeNews(thesis.url)}" target="_blank" rel="noopener">ორიგინალი წყარო ↗</a></span>`);
     }
-    editorialTargets.forEach(target=>renderEditorialHome(target,safeArticles));
+    if(editorialTargets.length){
+      const editorialPool=shownIds.size?safeArticles.filter(article=>!shownIds.has(article.id)):safeArticles;
+      const editorialLead=recentEditorialLead(editorialPool);
+      if(editorialLead)shownIds.add(editorialLead.id);
+      editorialTargets.forEach(target=>renderEditorialHome(target,editorialPool));
+    }
+    const feedArticles=shownIds.size?safeArticles.filter(article=>!shownIds.has(article.id)):safeArticles;
     targets.forEach(target=>{
       const pageSize=Number(target.dataset.limit||9);
       const category=target.dataset.newsCategory;
-      const matchingArticles=category?safeArticles.filter(article=>newsSectionKey(article)===category):safeArticles;
+      const matchingArticles=category?feedArticles.filter(article=>newsSectionKey(article)===category):feedArticles;
       const allArticles=matchingArticles.slice(Number(target.dataset.offset||0));
       let visibleCount=Math.min(pageSize,allArticles.length);
       const renderArchive=()=>{
