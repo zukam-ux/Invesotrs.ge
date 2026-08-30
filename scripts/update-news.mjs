@@ -1,6 +1,10 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { createHash } from "node:crypto";
-import { normalizeNewsCategory } from "../src/content-policy.mjs";
+import {
+  APPROVED_NEWS_SOURCES,
+  GEORGIAN_PUBLISHERS,
+  normalizeNewsCategory,
+} from "../src/content-policy.mjs";
 import decoderPackage from "google-news-url-decoder";
 import { Agent } from "undici";
 import {
@@ -660,14 +664,11 @@ const georgianItems = [...healthyGeorgianFeeds.flat(), ...bmTagItems]
   .filter((item, index, rows) => rows.findIndex((row) => row.title === item.title) === index)
   .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
   .slice(0, 18);
-const trustedSources = new Set([
-  "Yahoo Finance",
-  "Google Finance",
-  "Nasdaq",
-  "Bloomberg",
-  "Bloomberg.com",
-  "MarketWatch",
-]);
+// The global publishers this pipeline collects from: the approved list minus
+// the Georgian publishers, which arrive through their own feeds and policy.
+const trustedSources = new Set(
+  APPROVED_NEWS_SOURCES.filter((name) => !GEORGIAN_PUBLISHERS.has(name)),
+);
 const financeTerms =
   /\b(stock|stocks|market|shares|earnings|investor|bitcoin|crypto|ethereum|ETF|bond|treasur|interest rate|federal reserve|fed\b|inflation|oil|gold|bank|finance|nasdaq|s&p|dow|IPO|acquisition|technology|artificial intelligence|AI|chip|semiconductor|cloud|software)\b/i;
 const lowValueTerms =

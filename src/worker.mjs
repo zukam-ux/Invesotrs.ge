@@ -3,7 +3,11 @@ import {
   renderNewsArticlePage,
   renderNewsNotFoundPage,
 } from "./news-page.mjs";
-import { normalizeNewsCategory } from "./content-policy.mjs";
+import {
+  approvedNewsSourcesSql,
+  isApprovedNewsSource,
+  normalizeNewsCategory,
+} from "./content-policy.mjs";
 import { renderEditorialDashboard, renderEditorialLogin } from "./editorial-page.mjs";
 import { buildCompanyData, normalizeStockSymbol } from "./company-page.mjs";
 import { renderCompanyNotFound, renderCompanyPage } from "./company-template.mjs";
@@ -428,9 +432,17 @@ async function ingestNews(request, env) {
     return json({ error: "Unauthorized" }, { status: 401 });
   }
   const payload = await request.json();
-  const articles = Array.isArray(payload.articles) ? payload.articles : [];
-  if (!articles.length) {
+  const submitted = Array.isArray(payload.articles) ? payload.articles : [];
+  if (!submitted.length) {
     return json({ error: "No articles supplied" }, { status: 400 });
+  }
+  // Stories are only stored if the site can also display them. The read paths
+  // filter on the same approved-source list, so accepting anything else would
+  // create archive entries whose article pages return 404.
+  const articles = submitted.filter((article) => isApprovedNewsSource(article.source));
+  const rejected = submitted.length - articles.length;
+  if (!articles.length) {
+    return json({ error: "No articles from approved sources", rejected }, { status: 400 });
   }
   await env.DB.batch(
     articles.map((article) =>
@@ -472,7 +484,11 @@ async function ingestNews(request, env) {
      WHERE LENGTH(COALESCE(body_ka, '')) < 600
        AND published_at < datetime('now', '-30 days')`,
   ).run();
-  return json({ imported: articles.length, pruned: pruned.meta?.changes ?? 0 });
+  return json({
+    imported: articles.length,
+    rejected,
+    pruned: pruned.meta?.changes ?? 0,
+  });
 }
 
 function isEditoriallyPublishedSql() {
@@ -705,7 +721,7 @@ async function serveNews(env) {
     `SELECT id, title, title_ka, summary_ka, source, url,
             published_at, category, translation_notice
      FROM articles
-     WHERE source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch', 'National Bank of Georgia', 'Georgian Stock Exchange', 'Ministry of Finance of Georgia', 'GeoStat', 'BM.GE', 'Entrepreneur.ge', 'Marketer.ge')
+     WHERE ${approvedNewsSourcesSql()}
        AND ${isEditoriallyPublishedSql()}
      ORDER BY published_at DESC LIMIT 2000`,
   ).all();
@@ -797,7 +813,7 @@ async function serveNewsArticle(request, env, articleId) {
             published_at, category, translation_notice
      FROM articles
      WHERE id = ?
-       AND source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch', 'National Bank of Georgia', 'Georgian Stock Exchange', 'Ministry of Finance of Georgia', 'GeoStat', 'BM.GE', 'Entrepreneur.ge', 'Marketer.ge')
+       AND ${approvedNewsSourcesSql()}
        AND ${isEditoriallyPublishedSql()}
      LIMIT 1`,
   )
@@ -823,7 +839,7 @@ async function serveNewsArticle(request, env, articleId) {
      FROM articles
      WHERE id != ?
        AND category = ?
-       AND source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch', 'National Bank of Georgia', 'Georgian Stock Exchange', 'Ministry of Finance of Georgia', 'GeoStat', 'BM.GE', 'Entrepreneur.ge', 'Marketer.ge')
+       AND ${approvedNewsSourcesSql()}
        AND ${isEditoriallyPublishedSql()}
      ORDER BY published_at DESC
      LIMIT 3`,
@@ -840,7 +856,7 @@ async function serveNewsArticle(request, env, articleId) {
 }
 
 const PUBLISHED_NEWS_SOURCES_SQL =
-  "source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch', 'National Bank of Georgia', 'Georgian Stock Exchange', 'Ministry of Finance of Georgia', 'GeoStat', 'BM.GE', 'Entrepreneur.ge', 'Marketer.ge')";
+  approvedNewsSourcesSql();
 
 function escapeXmlText(value) {
   return String(value ?? "").replace(/[&<>"']/g, (char) =>

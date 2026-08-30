@@ -1,5 +1,6 @@
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
+import { isApprovedNewsSource } from "../src/content-policy.mjs";
 
 const collector = await readFile(new URL("./update-news.mjs", import.meta.url), "utf8");
 const worker = await readFile(new URL("../src/worker.mjs", import.meta.url), "utf8");
@@ -10,18 +11,23 @@ const georgiaPage = await readFile(new URL("../georgia.html", import.meta.url), 
 const standardsPage = await readFile(new URL("../standards.html", import.meta.url), "utf8");
 const homeStyles = await readFile(new URL("../home-2026.css", import.meta.url), "utf8");
 
+// Approved publishers are defined once in content-policy.mjs and consumed by
+// the collector, the ingest endpoint, and the read paths; these assert the
+// shared list itself rather than a copy pasted into each file.
 for (const source of ["Yahoo Finance", "Google Finance", "Nasdaq", "Bloomberg", "MarketWatch"]) {
-  assert.ok(collector.includes(`"${source}"`), `${source} must be approved by the collector`);
-  assert.ok(worker.includes(source), `${source} must be approved by the live API`);
+  assert.ok(isApprovedNewsSource(source), `${source} must be approved`);
 }
 for (const source of ["BM.GE", "Entrepreneur.ge", "Marketer.ge"]) {
+  assert.ok(isApprovedNewsSource(source), `${source} must be approved`);
   assert.ok(collector.includes(source), `${source} must be configured by the Georgian collector`);
-  assert.ok(worker.includes(source), `${source} must be approved by the live API`);
 }
 for (const blocked of ["Reuters", "CNBC", "CoinDesk", "Business Insider"]) {
-  const policyBlock = collector.slice(collector.indexOf("const trustedSources"), collector.indexOf("const financeTerms"));
-  assert.ok(!policyBlock.includes(`"${blocked}"`), `${blocked} must not be in the collector allowlist`);
+  assert.ok(!isApprovedNewsSource(blocked), `${blocked} must not be approved`);
 }
+assert.ok(
+  collector.includes("APPROVED_NEWS_SOURCES"),
+  "the collector must filter feeds with the shared approved-source list",
+);
 for (const sectionKey of ["stocks", "crypto", "ai", "tech", "economy", "georgia"]) {
   assert.ok(shared.includes(`return "${sectionKey}"`), `shared.js must route the ${sectionKey} section`);
   assert.ok(homepage.includes(`data-news-category="${sectionKey}"`), `homepage must render the ${sectionKey} feed`);
