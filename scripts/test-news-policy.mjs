@@ -46,7 +46,7 @@ assert.ok(shared.includes("setInterval(refreshRelativeNewsTimes,60000)"));
 assert.ok(shared.includes("function editorialPhoto"));
 assert.ok(shared.includes("CC BY 4.0"));
 assert.ok(shared.includes("CC BY-SA 3.0"));
-assert.ok(homepage.includes("shared.js?v=20260830-lead-dedupe"));
+assert.ok(homepage.includes("shared.js?v=20260830-feed-dedupe"));
 assert.ok(homepage.includes("home-2026.css"));
 assert.ok(homeStyles.includes(".photo-credit"));
 for (const term of ["ukraine", "gaza", "airstrike", "military attack"]) {
