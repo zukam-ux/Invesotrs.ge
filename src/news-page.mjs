@@ -63,7 +63,7 @@ function layout({ title, description, canonical, body, robots = "index,follow" }
   <meta property="og:title" content="${safeTitle}">
   <meta property="og:description" content="${safeDescription}">
   <meta property="og:url" content="${safeCanonical}">
-  <meta property="og:image" content="https://investors.ge/social-card.svg">
+  <meta property="og:image" content="https://investors.ge/social-card.png">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
