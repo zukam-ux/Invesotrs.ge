@@ -832,6 +832,77 @@ async function serveNewsArticle(request, env, articleId) {
   });
 }
 
+const PUBLISHED_NEWS_SOURCES_SQL =
+  "source IN ('Yahoo Finance', 'Google Finance', 'Nasdaq', 'Bloomberg', 'Bloomberg.com', 'MarketWatch', 'National Bank of Georgia', 'Georgian Stock Exchange', 'Ministry of Finance of Georgia', 'GeoStat', 'BM.GE', 'Entrepreneur.ge', 'Marketer.ge')";
+
+function escapeXmlText(value) {
+  return String(value ?? "").replace(/[&<>"']/g, (char) =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[char]),
+  );
+}
+
+async function listPublishedNewsRows(env, limit) {
+  const result = await env.DB.prepare(
+    `SELECT id, title, title_ka, summary_ka, source, published_at
+     FROM articles
+     WHERE ${PUBLISHED_NEWS_SOURCES_SQL}
+       AND ${isEditoriallyPublishedSql()}
+     ORDER BY published_at DESC
+     LIMIT ?`,
+  )
+    .bind(limit)
+    .all();
+  return (result.results || []).filter(
+    (row) => !conflictNewsTerms.test(`${row.title || ""} ${row.title_ka || ""} ${row.summary_ka || ""}`),
+  );
+}
+
+async function serveNewsSitemap(env) {
+  try {
+    const rows = await listPublishedNewsRows(env, 1000);
+    const urls = rows
+      .map((row) => {
+        const lastmod = String(row.published_at || "").slice(0, 10);
+        return `<url><loc>https://investors.ge/news/${escapeXmlText(row.id)}</loc>${lastmod ? `<lastmod>${lastmod}</lastmod>` : ""}</url>`;
+      })
+      .join("\n  ");
+    const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  ${urls}\n</urlset>\n`;
+    return new Response(xml, {
+      headers: {
+        "content-type": "application/xml; charset=utf-8",
+        "cache-control": "public, max-age=600, s-maxage=1800, stale-while-revalidate=3600",
+      },
+    });
+  } catch (_) {
+    return new Response("sitemap unavailable", { status: 503, headers: { "cache-control": "no-store" } });
+  }
+}
+
+async function serveNewsIndexPage(request, env) {
+  const assetResponse = await env.ASSETS.fetch(new Request(new URL("/news.html", request.url)));
+  let html = await assetResponse.text();
+  try {
+    const rows = await listPublishedNewsRows(env, 30);
+    const links = rows
+      .map((row) => {
+        const title = escapeXmlText(row.title_ka || row.title);
+        const date = String(row.published_at || "").slice(0, 10);
+        return `<a href="/news/${escapeXmlText(row.id)}"><span>${title}</span><small>${escapeXmlText(row.source)} · ${date}</small></a>`;
+      })
+      .join("");
+    html = html.replace("<!--SSR_NEWS_LINKS-->", links);
+  } catch (_) {
+    /* serve the static page unchanged if the database is unavailable */
+  }
+  return new Response(html, {
+    headers: {
+      "content-type": "text/html; charset=utf-8",
+      "cache-control": "public, max-age=60, s-maxage=300, stale-while-revalidate=600",
+      "x-content-type-options": "nosniff",
+    },
+  });
+}
+
 async function fetchYahooCrypto(symbol, id) {
   try {
     const payload = await fetchJson(
@@ -1260,6 +1331,12 @@ export default {
     const articleMatch = url.pathname.match(/^\/news\/([a-f0-9]{16})\/?$/i);
     if (articleMatch && request.method === "GET") {
       return serveNewsArticle(request, env, articleMatch[1]);
+    }
+    if (url.pathname === "/sitemap-news.xml" && request.method === "GET") {
+      return serveNewsSitemap(env);
+    }
+    if ((url.pathname === "/news" || url.pathname === "/news/" || url.pathname === "/news.html") && request.method === "GET") {
+      return serveNewsIndexPage(request, env);
     }
     return env.ASSETS.fetch(request);
   },
