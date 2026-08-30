@@ -190,14 +190,18 @@ function translationNote(article){
   return article.translationNotice?'<span class="translation-note">ქართული მოკლე თარგმანი</span>':"";
 }
 function newsSectionKey(article){
-  const text=`${article.title||""} ${article.titleKa||""} ${article.summaryKa||""} ${article.category||""}`.toLowerCase();
-  if(article.category==="საქართველო"||["BM.GE","Entrepreneur.ge","Marketer.ge"].includes(article.source))return "georgia";
-  if(/\b(ai|artificial intelligence|technology|tech|chip|semiconductor|software|cloud|robot|openai|anthropic|nvidia|amd|intel)\b|ხელოვნურ ინტელექტ|ტექნოლოგ|ჩიპ|ნახევარგამტარ|პროგრამულ|ღრუბლოვან/.test(text))return "tech-ai";
-  return "markets-economy";
+  const category=article.category||"";
+  const text=`${article.title||""} ${article.titleKa||""} ${article.summaryKa||""} ${category}`.toLowerCase();
+  if(category==="საქართველო"||["BM.GE","Entrepreneur.ge","Marketer.ge"].includes(article.source))return "georgia";
+  if(category==="კრიპტო"||/\b(bitcoin|btc|ethereum|eth|crypto|blockchain|stablecoin|solana|xrp|dogecoin|coinbase|binance)\b|კრიპტო|ბიტკოინ|ეთერიუმ|ბლოკჩეინ|სტეიბლკოინ/.test(text))return "crypto";
+  if(category==="AI"||/\b(ai|artificial intelligence|machine learning|openai|anthropic|chatgpt|gemini|llm)\b|ხელოვნურ ინტელექტ/.test(text))return "ai";
+  if(category==="აქციები"||/\b(stocks?|shares?|earnings|dividends?|ipo|etf|equit(y|ies)|buyback|nasdaq:|nyse:)\b|აქცი|დივიდენდ|ეტფ/.test(text))return "stocks";
+  if(category==="ტექნოლოგიები"||/\b(tech|technology|chip|semiconductor|software|cloud|robot|smartphone)\b|ტექნოლოგ|ჩიპ|ნახევარგამტარ|პროგრამულ|ღრუბლოვან/.test(text))return "tech";
+  return "economy";
 }
+const NEWS_SECTION_LABELS={georgia:"საქართველო",crypto:"კრიპტო",ai:"AI",stocks:"აქციები",tech:"ტექნოლოგიები",economy:"ეკონომიკა და სხვა"};
 function newsSectionLabel(article){
-  if(newsSectionKey(article)==="georgia")return "საქართველო";
-  return newsSectionKey(article)==="tech-ai"?"ტექნოლოგიები და AI":"ბაზრები და ეკონომიკა";
+  return NEWS_SECTION_LABELS[newsSectionKey(article)]||"ეკონომიკა და სხვა";
 }
 function editorialScore(article){
   const sourceWeights={Reuters:90,"Associated Press":85,Bloomberg:80,Barrons:72,"Barron's":72,CNBC:65,CoinDesk:62,MarketWatch:58,"Yahoo Finance":35};

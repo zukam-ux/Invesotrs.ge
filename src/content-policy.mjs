@@ -1,4 +1,5 @@
 export const NEWS_CATEGORIES = Object.freeze({
+  stocks: "აქციები",
   markets: "ბაზრები და ეკონომიკა",
   technology: "ტექნოლოგიები",
   ai: "AI",
@@ -16,7 +17,10 @@ export function normalizeNewsCategory(value = "", context = "") {
       ? NEWS_CATEGORIES.ai
       : NEWS_CATEGORIES.technology;
   }
-  if (category === "აქციები" || category === "ETF" || category === "კომპანიები" || category === "ეკონომიკა") {
+  if (category === "ETF" || category === "კომპანიები") {
+    return NEWS_CATEGORIES.stocks;
+  }
+  if (category === "ეკონომიკა") {
     return NEWS_CATEGORIES.markets;
   }
   if (category.includes("კრიპტო")) return NEWS_CATEGORIES.crypto;

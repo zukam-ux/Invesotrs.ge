@@ -22,17 +22,16 @@ for (const blocked of ["Reuters", "CNBC", "CoinDesk", "Business Insider"]) {
   const policyBlock = collector.slice(collector.indexOf("const trustedSources"), collector.indexOf("const financeTerms"));
   assert.ok(!policyBlock.includes(`"${blocked}"`), `${blocked} must not be in the collector allowlist`);
 }
-assert.ok(shared.includes('return "tech-ai"'));
-assert.ok(shared.includes('return "markets-economy"'));
-assert.ok(shared.includes('return "georgia"'));
+for (const sectionKey of ["stocks", "crypto", "ai", "tech", "economy", "georgia"]) {
+  assert.ok(shared.includes(`return "${sectionKey}"`), `shared.js must route the ${sectionKey} section`);
+  assert.ok(homepage.includes(`data-news-category="${sectionKey}"`), `homepage must render the ${sectionKey} feed`);
+}
+for (const sectionId of ["stocks", "crypto", "ai", "tech", "economy", "georgia-news"]) {
+  assert.ok(newsPage.includes(`id="${sectionId}"`), `news page must have the ${sectionId} column`);
+}
 assert.ok(shared.includes("['georgia.html','საქართველო']"));
 assert.ok(georgiaPage.includes('data-news-category="georgia"'));
-assert.ok(homepage.includes('data-news-category="tech-ai"'));
-assert.ok(homepage.includes('data-news-category="markets-economy"'));
-assert.ok(homepage.includes('data-news-category="georgia"'));
 assert.ok(homepage.includes('href="georgia.html">ყველა ქართული ამბავი'));
-assert.ok(newsPage.includes('id="tech-ai"'));
-assert.ok(newsPage.includes('id="markets-economy"'));
 for (const required of ["AI გვეხმარება, მაგრამ წყარო არ არის", "შეცდომას ხილულად ვასწორებთ", "კომერციული მასალა გამოყოფილია", "რეალურ დროში"]) {
   assert.ok(standardsPage.includes(required), `Standards page must include: ${required}`);
 }
@@ -46,7 +45,7 @@ assert.ok(shared.includes("setInterval(refreshRelativeNewsTimes,60000)"));
 assert.ok(shared.includes("function editorialPhoto"));
 assert.ok(shared.includes("CC BY 4.0"));
 assert.ok(shared.includes("CC BY-SA 3.0"));
-assert.ok(homepage.includes("shared.js?v=20260830-feed-dedupe"));
+assert.ok(homepage.includes("shared.js?v=20260830-categories"));
 assert.ok(homepage.includes("home-2026.css"));
 assert.ok(homeStyles.includes(".photo-credit"));
 for (const term of ["ukraine", "gaza", "airstrike", "military attack"]) {

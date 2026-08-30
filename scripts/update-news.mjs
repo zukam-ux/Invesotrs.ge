@@ -160,7 +160,7 @@ const translationSchema = {
           summaryKa: { type: "string" },
           category: {
             type: "string",
-            enum: ["ტექნოლოგიები", "AI", "ბაზრები და ეკონომიკა", "კრიპტო"],
+            enum: ["აქციები", "ტექნოლოგიები", "AI", "ბაზრები და ეკონომიკა", "კრიპტო"],
           },
         },
         required: ["id", "titleKa", "summaryKa", "category"],
@@ -371,7 +371,7 @@ async function translateChunkWithCloudflare(chunk) {
                 id: "same input id",
                 titleKa: "faithful Georgian headline",
                 summaryKa: "one factual Georgian sentence",
-                category: "one of: ტექნოლოგიები, AI, ბაზრები და ეკონომიკა, კრიპტო",
+                category: "one of: აქციები, ტექნოლოგიები, AI, ბაზრები და ეკონომიკა, კრიპტო",
               },
             ],
           },
