@@ -10,6 +10,11 @@
 	"observability": {
 		"enabled": true
 	},
+	"triggers": {
+		"crons": [
+			"20 * * * *"
+		]
+	},
 	"ai": {
 		"binding": "AI"
 	},

@@ -1296,7 +1296,52 @@ async function serveMarketSeries(url) {
   }
 }
 
+const NEWS_REPO = "zukam-ux/Invesotrs.ge";
+const NEWS_WORKFLOW = "hourly-global-news.yml";
+const NEWS_RUN_STALE_MS = 90 * 60 * 1000;
+
+// GitHub's own cron is the primary trigger for the news pipeline, but scheduled
+// workflows are routinely delayed or skipped. This runs on Cloudflare's
+// scheduler, which fires on time, and only dispatches the workflow when GitHub
+// has not started one recently. It stays inactive until GITHUB_DISPATCH_TOKEN
+// is configured, so the pipeline keeps working exactly as before without it.
+async function dispatchNewsWorkflowIfStale(env) {
+  const token = env.GITHUB_DISPATCH_TOKEN;
+  if (!token) return;
+  const headers = {
+    authorization: `Bearer ${token}`,
+    accept: "application/vnd.github+json",
+    "user-agent": "Investors.ge-scheduler",
+  };
+  try {
+    const runs = await fetch(
+      `https://api.github.com/repos/${NEWS_REPO}/actions/workflows/${NEWS_WORKFLOW}/runs?per_page=1`,
+      { headers },
+    );
+    if (runs.ok) {
+      const lastStartedAt = (await runs.json()).workflow_runs?.[0]?.created_at;
+      if (lastStartedAt && Date.now() - new Date(lastStartedAt).getTime() < NEWS_RUN_STALE_MS) {
+        return;
+      }
+    }
+    await fetch(
+      `https://api.github.com/repos/${NEWS_REPO}/actions/workflows/${NEWS_WORKFLOW}/dispatches`,
+      {
+        method: "POST",
+        headers: { ...headers, "content-type": "application/json" },
+        body: JSON.stringify({ ref: "main" }),
+      },
+    );
+  } catch {
+    /* the next scheduled tick retries */
+  }
+}
+
 export default {
+  async scheduled(event, env, ctx) {
+    ctx.waitUntil(dispatchNewsWorkflowIfStale(env));
+  },
+
   async fetch(request, env) {
     const url = new URL(request.url);
     if ((url.pathname === "/editor" || url.pathname === "/editor/") && request.method === "GET") {

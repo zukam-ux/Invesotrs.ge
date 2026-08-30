@@ -92,7 +92,13 @@ const AI_ENDPOINT =
 const FEED_MAX_ATTEMPTS = 4;
 const FEED_TIMEOUT_MS = 12_000;
 const ARTICLE_TIMEOUT_MS = 15_000;
-const ARTICLE_ENRICH_LIMIT = 4;
+// Stories published per calendar day. The site aims to be a small edited
+// publication rather than a mirror of every wire headline, so every published
+// story should end up with a full Georgian article.
+const DAILY_STORY_TARGET = Number(process.env.DAILY_STORY_TARGET || 12);
+// Article bodies are written per run. This runs ahead of the intake budget on
+// purpose so each run also works through stories still missing a body.
+const ARTICLE_ENRICH_LIMIT = Number(process.env.ARTICLE_ENRICH_LIMIT || 6);
 const requestedBackfillId = process.env.ARTICLE_BACKFILL_ID?.trim();
 const georgiaOnly = process.env.GEORGIA_ONLY === "true";
 const publisherAgent = new Agent({ maxHeaderSize: 128 * 1024 });
@@ -688,6 +694,36 @@ const lowValueTerms =
   /\b(earnings call|buy now|sell now|best stocks?|top stocks?|double down|double a position|without (any )?hesitation|could soar|millionaire|secret stock|strong buy)\b/i;
 const conflictNewsTerms =
   /\b(ukraine|ukrainian|russia|russian|gaza|hamas|hezbollah|drone strike|airstrike|air strike|missile attack|military attack|battlefield|invasion|bombing|troop deployment|war in ukraine|israel.{0,20}(war|attack|strike)|iran.{0,20}(war|attack|strike|missile))\b/i;
+// The archive is loaded before story selection because the daily intake cap is
+// derived from how many stories today already has.
+let previous = { articles: [] };
+try {
+  previous = JSON.parse(await readFile(OUTPUT_PATH, "utf8"));
+} catch {}
+// Headline-only entries stop earning their place after a month; full Georgian
+// articles are kept indefinitely. This keeps the archive and the database
+// (which mirrors this file on ingest) from accumulating stale stubs.
+const stubCutoff = Date.now() - 30 * 864e5;
+previous.articles = (previous.articles || []).filter((item) => {
+  const thin = !item.bodyKa || item.bodyKa.trim().length < 600;
+  return !(thin && new Date(item.publishedAt).getTime() < stubCutoff);
+});
+const previousById = new Map(previous.articles.map((item) => [item.id, item]));
+// A rolling window rather than a calendar day: feeds regularly surface stories
+// dated a few hours before midnight, and those must still count against the
+// budget instead of resetting it.
+const dayWindowStart = Date.now() - 864e5;
+const publishedToday = previous.articles.filter(
+  (item) => new Date(item.publishedAt).getTime() >= dayWindowStart,
+).length;
+// Publish a curated number of stories per day rather than everything each run
+// collects. Scheduled runs fire an unpredictable number of times per day, so
+// the budget is derived from the day's running total: sparse days let each run
+// take more, busy days let later runs spend their time on article bodies.
+const intakeBudget = Math.max(0, DAILY_STORY_TARGET - publishedToday);
+console.log(
+  `Daily intake: ${publishedToday}/${DAILY_STORY_TARGET} stories in the last 24h; budget for this run is ${intakeBudget}`,
+);
 const feedItems = successfulFeeds
   .flat()
   .filter((item) => trustedSources.has(item.source) && financeTerms.test(item.title))
@@ -712,8 +748,12 @@ selectedItems.push(
 );
 const items = (georgiaOnly ? [] : selectedItems)
   .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
-  .slice(0, 12);
-if (!georgiaOnly && items.length < 3) throw new Error("Global news feed returned too few usable stories");
+  .slice(0, intakeBudget);
+// Reaching the daily cap is a normal outcome, not a feed failure: the run
+// continues so its whole budget goes into writing article bodies.
+if (!georgiaOnly && intakeBudget > 0 && feedItems.length < 3) {
+  throw new Error("Global news feed returned too few usable stories");
+}
 
 if (process.env.GEMINI_SMOKE_TEST === "true") {
   const smokeTest = await translateWithGemini(items.slice(0, 2));
@@ -722,19 +762,6 @@ if (process.env.GEMINI_SMOKE_TEST === "true") {
   process.exit(0);
 }
 
-let previous = { articles: [] };
-try {
-  previous = JSON.parse(await readFile(OUTPUT_PATH, "utf8"));
-} catch {}
-// Headline-only entries stop earning their place after a month; full Georgian
-// articles are kept indefinitely. This keeps the archive and the database
-// (which mirrors this file on ingest) from accumulating stale stubs.
-const stubCutoff = Date.now() - 30 * 864e5;
-previous.articles = (previous.articles || []).filter((item) => {
-  const thin = !item.bodyKa || item.bodyKa.trim().length < 600;
-  return !(thin && new Date(item.publishedAt).getTime() < stubCutoff);
-});
-const previousById = new Map(previous.articles.map((item) => [item.id, item]));
 const newItems = items.filter((item) => !previousById.has(item.id));
 const newGeorgianItems = georgianItems.filter((item) => !previousById.has(item.id));
 let translated = new Map();
