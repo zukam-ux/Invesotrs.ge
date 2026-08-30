@@ -465,7 +465,14 @@ async function ingestNews(request, env) {
       ),
     ),
   );
-  return json({ imported: articles.length });
+  // Mirror the collector's retention rule so the database cannot re-accumulate
+  // headline-only stubs after they age out of the JSON archive.
+  const pruned = await env.DB.prepare(
+    `DELETE FROM articles
+     WHERE LENGTH(COALESCE(body_ka, '')) < 600
+       AND published_at < datetime('now', '-30 days')`,
+  ).run();
+  return json({ imported: articles.length, pruned: pruned.meta?.changes ?? 0 });
 }
 
 function isEditoriallyPublishedSql() {

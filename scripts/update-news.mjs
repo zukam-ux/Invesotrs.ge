@@ -726,6 +726,14 @@ let previous = { articles: [] };
 try {
   previous = JSON.parse(await readFile(OUTPUT_PATH, "utf8"));
 } catch {}
+// Headline-only entries stop earning their place after a month; full Georgian
+// articles are kept indefinitely. This keeps the archive and the database
+// (which mirrors this file on ingest) from accumulating stale stubs.
+const stubCutoff = Date.now() - 30 * 864e5;
+previous.articles = (previous.articles || []).filter((item) => {
+  const thin = !item.bodyKa || item.bodyKa.trim().length < 600;
+  return !(thin && new Date(item.publishedAt).getTime() < stubCutoff);
+});
 const previousById = new Map(previous.articles.map((item) => [item.id, item]));
 const newItems = items.filter((item) => !previousById.has(item.id));
 const newGeorgianItems = georgianItems.filter((item) => !previousById.has(item.id));
