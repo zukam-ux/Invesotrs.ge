@@ -1,3 +1,24 @@
+// The Georgian financial vocabulary the models must use. Left to themselves
+// they reach for literal or invented compounds — "stock" became საბაზრო
+// საქონელი ("market commodity") rather than აქცია — so the required term is
+// stated in every prompt that produces Georgian.
+export const GEORGIAN_FINANCE_GLOSSARY = [
+  "stock / shares = აქცია (plural აქციები). Never საბაზრო საქონელი or საქონელი.",
+  "stock market = საფონდო ბაზარი",
+  "earnings / earnings report = ფინანსური შედეგები / ანგარიშგება",
+  "quarter = კვარტალი, quarterly = კვარტალური",
+  "revenue = შემოსავალი, profit = მოგება, loss = ზარალი",
+  "dividend = დივიდენდი, dividend yield = დივიდენდის სარგებელი",
+  "bond = ობლიგაცია, yield = სარგებელი",
+  "ETF = ETF (leave in Latin), index = ინდექსი",
+  "market capitalisation = საბაზრო კაპიტალიზაცია",
+  "investor = ინვესტორი, investment = ინვესტიცია",
+  "interest rate = საპროცენტო განაკვეთი, inflation = ინფლაცია",
+  "buy = ყიდვა, sell = გაყიდვა, to invest = ინვესტირება",
+  "crack / break encryption = გატეხვა (not გადაჭრა)",
+  "endorse / back an idea = მხარს უჭერს (not ეწერება)",
+].join("\n");
+
 // Helpers for reading model responses. The translation and article pipeline
 // asks for JSON, but the fallback models answer in several shapes, so these
 // live in one place with their own regression test.

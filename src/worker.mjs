@@ -370,7 +370,11 @@ async function syncPublishedNews(env) {
 
 // Text-generation model used for Georgian translation fallback. Runs on the
 // account's Workers AI binding, so it needs no external API token.
-const AI_GENERATION_MODEL = "@cf/meta/llama-3.1-8b-instruct-fast";
+// Georgian is a low-resource language and the 8B model produced unusable
+// financial Georgian ("stock" came out as საბაზრო საქონელი, "market
+// commodity"). The 70B model is the smallest one that handles the language
+// acceptably, so translation and article writing both use it.
+const AI_GENERATION_MODEL = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
 
 async function generateWithAi(request, env) {
   const authorization = request.headers.get("authorization") || "";

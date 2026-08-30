@@ -12,7 +12,11 @@ import {
   isEligibleGeorgianStory,
   normalizeGeorgianSource,
 } from "./georgia-news-policy.mjs";
-import { extractGeorgianField, extractJsonObject } from "./news-text.mjs";
+import {
+  GEORGIAN_FINANCE_GLOSSARY,
+  extractGeorgianField,
+  extractJsonObject,
+} from "./news-text.mjs";
 
 const { GoogleDecoder } = decoderPackage;
 
@@ -347,7 +351,8 @@ async function translateChunkWithCloudflare(chunk) {
       {
         role: "system",
         content:
-          "You are a careful Georgian financial news editor. Translate headlines faithfully into natural Georgian. Write one concise Georgian explanatory sentence using only facts explicitly present in the supplied English headline. Never invent numbers, causes, forecasts, quotes, or investment advice. Return valid JSON only, with no markdown fences.",
+          "You are a careful Georgian financial news editor. Translate headlines into natural, grammatical Georgian as a Georgian financial journalist would write them — not word by word. Write one concise Georgian explanatory sentence using only facts explicitly present in the supplied English headline. Never invent numbers, causes, forecasts, quotes, or investment advice. Return valid JSON only, with no markdown fences.\n\nUse exactly this terminology:\n" +
+          GEORGIAN_FINANCE_GLOSSARY,
       },
       {
         role: "user",
@@ -509,6 +514,7 @@ async function writeOriginalGeorgianArticle(article, sourceText) {
       "Distinguish portfolio weight, dividend yield, expense ratio, return, drawdown, assets under management, and trading volume. Never relabel one metric as another.",
       "Cross-check every number against the exact SOURCE_TEXT sentence before returning the article.",
       "Explain specialist terms briefly for a Georgian reader.",
+      `Write grammatical Georgian a financial journalist would publish, and use exactly this terminology:\n${GEORGIAN_FINANCE_GLOSSARY}`,
       "Do not add facts, prices, performance figures, causes, forecasts, quotations, or recommendations absent from SOURCE_TEXT.",
       "Do not tell the reader to buy or sell.",
       "Do not mention that an AI wrote the article.",
@@ -571,7 +577,8 @@ async function writeOriginalGeorgianArticle(article, sourceText) {
       {
         role: "system",
         content:
-          "You are a careful Georgian financial journalist. Return valid JSON only with one bodyKa string. Use only supplied source facts, never invent information or investment advice, and write an original overview rather than a translation.",
+          "You are a careful Georgian financial journalist. Return valid JSON only with one bodyKa string. Use only supplied source facts, never invent information or investment advice, and write an original overview rather than a translation. Write grammatical Georgian using exactly this terminology:\n" +
+          GEORGIAN_FINANCE_GLOSSARY,
       },
       { role: "user", content: prompt },
     ],
