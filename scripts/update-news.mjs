@@ -8,6 +8,7 @@ import {
   isEligibleGeorgianStory,
   normalizeGeorgianSource,
 } from "./georgia-news-policy.mjs";
+import { extractGeorgianField, extractJsonObject } from "./news-text.mjs";
 
 const { GoogleDecoder } = decoderPackage;
 
@@ -311,30 +312,6 @@ async function fetchBmTag(tagUrl) {
   }));
 }
 
-function extractJsonObject(text = "") {
-  const fenced = text.match(/```(?:json)?\s*([\s\S]*?)```/i);
-  const candidate = fenced ? fenced[1] : text;
-  const start = candidate.indexOf("{");
-  const end = candidate.lastIndexOf("}");
-  return start >= 0 && end > start ? candidate.slice(start, end + 1) : candidate;
-}
-
-// Workers AI models frequently answer with the Georgian article text itself
-// (often as markdown) instead of the requested {"<field>": "..."} JSON wrapper.
-// Accept both shapes: parse JSON when present, otherwise treat a Georgian
-// plain-text response as the field value.
-function extractGeorgianField(text = "", field) {
-  try {
-    const value = JSON.parse(extractJsonObject(text))[field]?.trim();
-    if (value) return value;
-  } catch {
-    /* fall through to the plain-text shape */
-  }
-  const raw = String(text).replace(/```[a-z]*\s*/gi, "").replace(/```/g, "").trim();
-  if (/[Ⴀ-ჿ]/.test(raw) && !raw.includes(`"${field}"`)) return raw;
-  return "";
-}
-
 async function cloudflareChat(messages, { maxTokens = 1200, temperature = 0.1 } = {}) {
   if (!newsIngestToken) {
     throw new Error("NEWS_INGEST_TOKEN is not configured for Workers AI translation");
@@ -616,12 +593,15 @@ async function auditOriginalGeorgianArticle(article, sourceText, draftBodyKa) {
         content: JSON.stringify({
           headline: article.title,
           publisher: article.source,
-          SOURCE_TEXT: sourceText,
+          // The audit only needs the reported facts, and the fallback model has
+          // a modest context window it shares with the corrected article it has
+          // to write back, so the source is trimmed to its opening section.
+          SOURCE_TEXT: String(sourceText).slice(0, 6_000),
           GEORGIAN_DRAFT: draftBodyKa,
         }),
       },
     ],
-    { maxTokens: 2048, temperature: 0 },
+    { maxTokens: 3072, temperature: 0 },
   );
   const correctedBodyKa = extractGeorgianField(text, "correctedBodyKa");
   if (!correctedBodyKa || correctedBodyKa.length < 600) {
