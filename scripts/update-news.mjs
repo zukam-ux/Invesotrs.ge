@@ -107,7 +107,11 @@ const ARTICLE_TIMEOUT_MS = 15_000;
 const DAILY_STORY_TARGET = Number(process.env.DAILY_STORY_TARGET || 12);
 // Article bodies are written per run. This runs ahead of the intake budget on
 // purpose so each run also works through stories still missing a body.
-const ARTICLE_ENRICH_LIMIT = Number(process.env.ARTICLE_ENRICH_LIMIT || 6);
+// Article bodies are the most expensive thing the pipeline does, and the
+// Workers AI free allowance is a daily budget shared with headline
+// translation. Headlines are what every visitor reads, so they get the budget
+// first and only a few bodies are attempted per run.
+const ARTICLE_ENRICH_LIMIT = Number(process.env.ARTICLE_ENRICH_LIMIT || 3);
 const requestedBackfillId = process.env.ARTICLE_BACKFILL_ID?.trim();
 const georgiaOnly = process.env.GEORGIA_ONLY === "true";
 const publisherAgent = new Agent({ maxHeaderSize: 128 * 1024 });
@@ -320,9 +324,21 @@ async function fetchBmTag(tagUrl) {
   }));
 }
 
+// Workers AI enforces a daily free allowance. Once it is gone every further
+// call in the run fails the same way, so the run stops asking instead of
+// spending its remaining minutes on retries that cannot succeed.
+let workersAiQuotaExhausted = false;
+
+export function isWorkersAiQuotaError(message = "") {
+  return /4006|daily free allocation|Workers Paid plan/i.test(String(message));
+}
+
 async function cloudflareChat(messages, { maxTokens = 1200, temperature = 0.1 } = {}) {
   if (!newsIngestToken) {
     throw new Error("NEWS_INGEST_TOKEN is not configured for Workers AI translation");
+  }
+  if (workersAiQuotaExhausted) {
+    throw new Error("Workers AI daily allowance already exhausted in this run");
   }
   const response = await fetch(AI_ENDPOINT, {
     method: "POST",
@@ -333,9 +349,12 @@ async function cloudflareChat(messages, { maxTokens = 1200, temperature = 0.1 } 
     body: JSON.stringify({ messages, maxTokens, temperature }),
   });
   if (!response.ok) {
-    throw new Error(
-      `Workers AI proxy returned ${response.status}: ${(await response.text()).slice(0, 200)}`,
-    );
+    const detail = (await response.text()).slice(0, 200);
+    if (isWorkersAiQuotaError(detail)) {
+      workersAiQuotaExhausted = true;
+      console.warn("Workers AI daily allowance exhausted; skipping further AI work this run");
+    }
+    throw new Error(`Workers AI proxy returned ${response.status}: ${detail}`);
   }
   const payload = await response.json();
   const text = payload.response;
@@ -881,6 +900,7 @@ for (const article of enrichmentCandidates.slice(0, ARTICLE_ENRICH_LIMIT)) {
   } catch (error) {
     console.warn(`Article enrichment failed for ${article.id}: ${error.message}`);
     if (article.id === requestedBackfillId) throw error;
+    if (isWorkersAiQuotaError(error.message)) break;
   }
 }
 if (requestedBackfillId && !queuedIds.has(requestedBackfillId)) {
