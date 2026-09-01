@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T21:24:28.210Z",
+  "updatedAt": "2026-09-01T23:35:47.360Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -52,7 +52,10 @@
       "titleKa": "პროგნოზი: თუ სექტემბერში გაყიდვები დაიწყება, სპეკულაციური AI აქციები და კვანტური კომპიუტერები პირველები იქნებიან, ვინც ზარალს განიცდის",
       "summaryKa": "სექტემბერში შესაძლო გაყიდვების შემთხვევაში, სპეკულაციური AI აქციები და კვანტური კომპიუტერები პირველები იქნებიან, ვინც ზარალს განიცდის.",
       "category": "ტექნოლოგიები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.fool.com/investing/2026/09/01/perdiction-if-a-september-sell-off-hits-speculativ/?.tsrc=rss",
+      "bodyKa": "## შესავალი\nსექტემბერი ისტორიულად ყველაზე ცუდი თვეა საფონდო ბაზარისთვის, სადაც S&P 500-ის აქციები საშუალოდ 1.16%-ით კლებს 1926 წლიდან 2024 წლამდე. თუმცა, ეს ისტორიული ტენდენცია არ ნიშნავს, რომ აქციები 2026 წლის სექტემბერში იგივე ტენდენციას გაჰყვებიან.\n\n## საფრთხე კვანტურ კომპიუტერებს\nკვანტური კომპიუტერების აქციები, როგორიცაა IonQ, D-Wave Quantum, Rigetti Computing და Quantum Computing Inc., სპეკულაციური ტექნოლოგიების აქციების გაყიდვების შემთხვევაში პირველები იქნებიან, ვინც ზარალს განიცდის. ეს გამოწვეულია მათი მაღალი ვალუაციებით, რაც მათ საფრთხეში აყენებს.\n\n## ფინანსური შედეგები\nIonQ-ის შემოსავალი 287%-ით გაიზარდა წინა წელთან შედარებით, მაგრამ მისი აქციები 52-ჯერ აღემატება მის შემოსავალს. ეს ნიშნავს, რომ ინვესტორები მაღალ ფასად ყიდულობენ მის აქციებს, რაც მათ ზარალის შემთხვევაში საფრთხეში აყენებს. ასევე, Rigetti Computing-ის ვალუაცია 223-ჯერ აღემატება მის შემოსავალს, რაც მასაც საფრთხეში აყენებს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "4f3f3fec55862e41",
