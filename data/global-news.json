@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T00:19:40.194Z",
+  "updatedAt": "2026-09-03T05:09:40.277Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -67,7 +67,10 @@
       "titleKa": "საფონდო ბაზარი 2 სექტემბერს: Ford-ის აქციები იზრდება",
       "summaryKa": "ინვესტორები Ford-ის აგვისტოში განვითარებულ გაყიდვებს აფასებენ F-Series-ის სიმაგრის ფონზე.",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/09/02/stock-market-today-sept-2-ford-gains-as-investors-weigh-august-sales-drop-against-f-series-strength/?.tsrc=rss",
+      "bodyKa": "## საფონდო ბაზარი 2 სექტემბერს\nინვესტორები Ford-ის აგვისტოში განვითარებულ გაყიდვებს აფასებენ F-Series-ის სიმაგრის ფონზე. Ford Motor-ის აქციები 2.17%-ით გაიზარდა და 14.14 დოლარამდე მივიდა.\n\n## გაყიდვების შედეგები\nFord-მა აგვისტოში აშშ-ში გაყიდვების 10.3%-იანი კლება დააფიქსირა, რაც წინა წლის ანალოგიურ პერიოდთან შედარებით მერვე თვეა. მიუხედავად ამისა, ინვესტორები დადებითად განწყობილნი იყვნენ, რადგან Ford-ის \"Super Duty\" ტიპის სატვირთო მანქანების წარმოება 20 წლის მაქსიმუმს მიაღწია.\n\n## საფონდო ბაზარის მიმოხილვა\nS&P 500-მა 0.47%-ით გაიზარდა და 7,667-მდე მივიდა, ხოლო Nasdaq Composite-მა 0.45%-ით გაიზარდა და 26,218-მდე მივიდა. ავტომწარმოებელი კომპანიების შორის, General Motors-ის აქციები 0.88%-ით დაეცა, ხოლო Stellantis-ის აქციები 1.50%-ით დაეცა.\n\n## ინვესტორების განწყობა\nინვესტორები ფოკუსირებულნი არიან პიკაპის წარმოებასა და მოთხოვნაზე, რადგან Ford-ის აქციები იზრდება მიუხედავად გაყიდვების კლებისა. კომპანიის აქციები 20%-ით დაეცა 2026 წლის მაქსიმუმიდან, რომელიც მიღწეულ იქნა მას შემდეგ, რაც კომპანიამ შექმნა Ford Energy. ეს განვითარება მოხდა მას შემდეგ, რაც კომპანიამ გადაიყვანა ზოგიერთი ელექტრომობილის აქტივები ენერგიის შენახვის მოთხოვნის დასაკმაყოფილებლად. ამან ინვესტორებს საშუალება მისცა შეევლოთ ელექტრო და ჰიბრიდული მანქანების გაყიდვების კლება.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "158fd88e125683d7",
@@ -7676,61 +7679,6 @@
       "titleKa": "ნავთობის ფასი ვარდნას ინარჩუნებს, რადგან ტრამპის თქმით, მოლაპარაკებები ირანის „უკანასკნელი შანსია“",
       "summaryKa": "ნავთობზე ფასების კლება გრძელდება მას შემდეგ, რაც დონალდ ტრამპმა განაცხადა, რომ მოლაპარაკებები ირანისათვის „უკანასკნელი შანსია“.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "343df5bc307f97b4",
-      "title": "South Korea’s Leveraged ETF Trading Plummets Under New Curbs",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOENvd0hQenFzRkRNamVZWUxRVU9rOG9wcUZjUlVnUVEtQmxGMm9JanhuYU9lQTg3cHc5Y29TSTBxT2o1UDBRR3RHQVJIeG9Pc1NUYkdIVFZXb2Nkejgxbjdwc2FCVzZ0a3djQXRtVm5qN2hHVnpZZFNJZDZlZ2hUX29CSlBHQzM1dkRUSFNoelpmUnJnaUpKR01mSkkyUmo5a3FqT19SMDAtWDFtczVZTw?oc=5",
-      "publishedAt": "2026-08-04T05:00:00.000Z",
-      "titleKa": "სამხრეთ კორეაში ბერკეტიანი ETF-ებით ვაჭრობა მკვეთრად შემცირდა ახალი შეზღუდვების ფონზე",
-      "summaryKa": "ახალი შეზღუდვების შემოღების გამო სამხრეთ კორეაში ბერკეტის მქონე საბირჟო ფონდებით ვაჭრობის მოცულობა მკვეთრად დაეცა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "fb8663d67ae36025",
-      "title": "Chinese Dip-Buying Bolsters Gold as Prices Find Floor at $4,000",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVlczOW5CcktBbEJUU2hST2lyQktZbVlteWM0X2U4R1o2bFJSbFNhX0NOYU4tXzljQmZTdXAzNkFXSWdSYU12bm9IS0ZJR2F0YUxMampjSDZESWtuSlhKRlZvb1RHcUp6eGlsVkl3Um1oNHBXeGtveXNSNS1sR3NKcE9yd3pKSWxFQ3k5RndoallMSUVheDhYdmdIRVVFN3BMN0xpeUZxbGExWTlHOU1XWDFyZw?oc=5",
-      "publishedAt": "2026-08-04T04:42:00.000Z",
-      "titleKa": "ჩინელი მყიდველების მიერ ფასების ვარდნისას შესყიდვები მხარს უჭერს ოქროს, რომლის ფასმაც მინიმალური ზღვარი $4,000-ზე იპოვა",
-      "summaryKa": "ჩინელი ინვესტორების მიერ ოქროს შესყიდვამ ფასების ვარდნის ფონზე ხელი შეუწყო ოქროს გაძლიერებას, რომლის ფასმაც მინიმალურ ნიშნულს $4,000-ზე მიაღწია.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "ee4cd354b01be59f",
-      "title": "Keep It Simple and Look to the Earnings",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTWF3YWM5MjNWMVJTM3ItamgtNGhMMTdfUUVxSFRKOFEyNy1hNzBYcGJOTXprTWZsRDRoUlpkVzBOQmUwUmNob2JkdFRONWRFbUVtRGJkN0xkY09qNUtqTnNiWWxQZFhGem5pZktDS3UxRlZoeThwcWNEMXFPOER3WGVRRjhvdXZ4MFFLVDRGT0JKWlNzUk9UZjlaWEZBQ3R3Y3l4V2hRSFVfZlZ3RFE?oc=5",
-      "publishedAt": "2026-08-04T04:13:00.000Z",
-      "titleKa": "იყავით მარტივად და თვალი ადევნეთ შემოსავლებს",
-      "summaryKa": "სათაური გვირჩევს, რომ პროცესები გავამარტივოთ და ყურადღება კომპანიების შემოსავლების მაჩვენებლებზე გავამახვილოთ.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "6e5e35359cc3cdb5",
-      "title": "Bitcoin, Dogecoin Gain; Ethereum, XRP Slide Amid Trump's Latest Warning to Iran: Analyst Says BTC 'Bottom' Not Yet Confirmed",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeXNDd3BXT04zQ3FSQzJ6c0Rlbl90V3dwcGVWbENWTllLT0dvNjN4Xy0zcG9vdWRfWG9nN00yT0lkRVFDRDNsa25wNWN1YlhXTXRpZzljOXA1Z2xYRFRzYmRkemM0NnBHTGFQdzRVajB1RDlHN3JOQUR0a1ZXZTlDUGZiOFptMGtldXJZelM3NVUtS3dRNzhCbnJUaDQ2VE9M?oc=5",
-      "publishedAt": "2026-08-04T02:22:00.000Z",
-      "titleKa": "Bitcoin და Dogecoin იზრდება, ხოლო Ethereum და XRP ეცემა ირანის მიმართ ტრამპის ბოლო გაფრთხილების ფონზე: ანალიტიკოსის თქმით, BTC-ის „ფსკერი“ ჯერ არ არის დადასტურებული",
-      "summaryKa": "ირანის მიმართ დონალდ ტრამპის გაფრთხილების ფონზე Bitcoin და Dogecoin გაიზარდა, Ethereum და XRP შემცირდა, ხოლო ანალიტიკოსი აცხადებს, რომ BTC-ის „ფსკერი“ ჯერ დადასტურებული არ არის.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "f98a7fc604b43907",
-      "title": "FBI Agent Allegedly Turns Himself in for $1 Million Crypto Theft",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV3dOQk9SQURUTk0wYi16dUpLejBHZ0N6TUNjLUZPUU5VTVNsTGNQelZmR3JpTEUwRkV0b3RRbjJYRW1WZUdVWXZZX2trMGlLdlhSZ2xiWkNsTy16MElBUFZRaFlUN3g2TjFTQk1OOWVkSlRYb3RTUHBTbGNOc2Y3TXJaazc5MlVBS0NleGkwNUtJVm1Ob1c1MWhYYXBkUjJ3WlhYUlBWdEpkSWxIZTd5cHJ5YW0?oc=5",
-      "publishedAt": "2026-08-04T00:22:00.000Z",
-      "titleKa": "FBI-ის აგენტი, სავარაუდოდ, პოლიციას ჩაბარდა $1 მილიონის ღირებულების კრიპტოვალუტის ქურდობის გამო",
-      "summaryKa": "გავრცელებული ინფორმაციით, გამოძიების ფედერალური ბიუროს აგენტი თავად ჩაბარდა სამართალდამცავებს $1 მილიონიანი კრიპტოვალუტის ქურდობის ბრალდებით.",
-      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
