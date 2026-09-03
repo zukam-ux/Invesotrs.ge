@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T21:53:19.518Z",
+  "updatedAt": "2026-09-03T00:19:40.194Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -52,7 +52,10 @@
       "titleKa": "იაპონური Remixpoint ნაცვლად Ethereum-ის და XRP-ს ბიტკოინზე გადადის",
       "summaryKa": "იაპონური Remixpoint ნაცვლად Ethereum-ის და XRP-ს ბიტკოინზე გადადის",
       "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only?.tsrc=rss",
+      "bodyKa": "## შესავალი\nიაპონური კომპანია Remixpoint გადაწყვიტა ნაცვლად Ethereum-ის და XRP-ს ბიტკოინზე გადასვლა. კომპანიამ ყველა თავისი Ethereum, Solana, XRP და Dogecoin გაყიდა 2024 წლის 1 სექტემბერს, რის შედეგად ბიტკოინი მის განახლებულ სახელწოდებაში ერთადერთი კრიპტოვალუტა გახდა.\n\n## ფინანსური შედეგები\nკომპანიის მიერ გაყიდული აქტივების ღირებულება ¥878,814,569 იყო, რაც $4.47 მილიონ ამერიკულ დოლარს შეადგენს. კომპანიამ ¥117,772,649 ($598,400) მოგება ნახა, რომელიც მეორე კვარტალში ბიზნეს-სეგმენტის შემოსავალში იქნება ჩარიცხული.\n\n## კრიპტოვალუტის პოლიტიკა\nRemixpoint-მა განაცხადა, რომ ის ბაზრის პირობების, თითოეული აქტივის რისკისა და შემოსავლის, ასევე კომპანიის ფინანსური სტრატეგიის გათვალისწინების შემდეგ ალტკოინებიდან გამოსვლაზე წყვეტა. კომპანიის კრიპტოვალუტის პოლიტიკა ახლა ბიტკოინზე იქნება ფოკუსირებული, რაც მის მიდგომას გააკლარიფიცირებს და კაპიტალის ეფექტიურობას გააუმჯობესებს.\n\n## დასკვნა\nRemixpoint-ის ბიტკოინზე გადასვლა კორპორატიულ ბიტკოინ შესყიდვებში ახალ ტენდენციას ასახავს. ბოლო ხანებში, სხვა კომპანიებმა, მათ შორის Metaplanet, Zhibao Technology და Strive-მა, ბიტკოინში ინვესტიციები განახორციელეს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "9345e20e0ea3f85f",
@@ -7727,17 +7730,6 @@
       "publishedAt": "2026-08-04T00:22:00.000Z",
       "titleKa": "FBI-ის აგენტი, სავარაუდოდ, პოლიციას ჩაბარდა $1 მილიონის ღირებულების კრიპტოვალუტის ქურდობის გამო",
       "summaryKa": "გავრცელებული ინფორმაციით, გამოძიების ფედერალური ბიუროს აგენტი თავად ჩაბარდა სამართალდამცავებს $1 მილიონიანი კრიპტოვალუტის ქურდობის ბრალდებით.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "495e83a287ee0b5c",
-      "title": "A Major Bitcoin Signal Is Flashing Green",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFFDYld0WWRVTFp6U1RhQnZxOGE5QzVJaDJqbDEwMldYWFd3MDdvamRVZFlSUFBobWNuMGpyU0tDcHc4T1habVFWWEpUeHl0d0ZsVFllandsb21udUtSRVZGbzNLSUQ2cUM2OWFvUWMtek96QkhjU1JfMHJfRWVjd01BUEpfZjlNRFN2U0M2MDZzX2NyT0FqNmxESmRtc1JsOFE?oc=5",
-      "publishedAt": "2026-08-04T00:00:00.000Z",
-      "titleKa": "Bitcoin-ის ერთ-ერთი მნიშვნელოვანი სიგნალი მწვანედ ციმციმებს",
-      "summaryKa": "Bitcoin-ის ბაზარზე ერთ-ერთი უმნიშვნელოვანესი ინდიკატორი მწვანე სიგნალს აჩვენებს.",
       "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
