@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T05:09:40.277Z",
+  "updatedAt": "2026-09-03T09:53:55.458Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -82,7 +82,10 @@
       "titleKa": "BioRestorative Therapies ახდენს აქციების უკუმიმდევრობას",
       "summaryKa": "BioRestorative Therapies-მა გამოაცხადა აქციების უკუმიმდევრობა.",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/biorestorative-therapies-announces-reverse-stock-212700846.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nBioRestorative Therapies, Inc.-მა გამოაცხადა აქციების უკუმიმდევრობა, რაც 1-ზე-20 შესაბამისი სახით განხორციელდება. ეს გადაწყვეტილება კომპანიის დირექტორთა საბჭოს მიერ იქნა მიღებული და ნევადას შტატის კანონმდებლობის შესაბამისად, აქციონერთა თანხმობა არ სჭირდებოდა.\n\n## აქციების უკუმიმდევრო�ის დეტალები\nაქციების უკუმიმდევრობა 2026 წლის სექტემბერის 7-ის 16:30 საათისთვის შესაბამისი სახით განხორციელდება. ამის შემდეგ, კომპანიის აქციები ნასდაქის საფონდო ბაზრის ახალი ვალუტით განხორციელდება. აქციების უკუმიმდევრობის შემდეგ, კომპანიის აქციების რაოდენობა 27,622,556-დან 1,381,128-მდე შემცირდება.\n\n## მიზეზები და მნიშვნელობა\nაქციების უკუმიმდევრობის მიზანია კომპანიის აქციების ფასის გაზრდა, რათა იგი ნასდაქის საფონდო ბაზრის მოთხოვნებს დაეგემოს. კომპანია ამ ნაბიჯით ცდილობს ნასდაქის საფონდო ბაზრის შესაბამის სტანდარტებთან შესაბამისობას.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "8b78618b595ee2f7",
@@ -7602,83 +7605,6 @@
       "titleKa": "SpaceX-ის მოგება: ინვესტორები Starship-ზე უნდა ფოკუსირდნენ და არა კვარტალურ შედეგებზე",
       "summaryKa": "SpaceX-ის მოგების შესახებ საუბრისას აღნიშნულია, რომ ინვესტორებმა ყურადღება Starship-ზე უნდა გაამახვილონ და არა კვარტალურ შედეგებზე.",
       "category": "ტექნოლოგიები და AI",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "199ab5e99ebb47d3",
-      "title": "Best Growth Stocks to Buy for August 4th",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmFsYUNHbW0zMUl5ekhlTWJpVS1vbjFKV25GN01QSF9nS1JzRWZ1bUNfaFRrVUpRbU1tSmZuUXh1cVhnS1VfcURoNzVIc2o3aVczYWtVUzg1WVA0MEc3N3pwUEpLMS1MM2JLMnY0MDUwdWFjMnBvM1UtcWk2SEsxWXJONEM1M0ctWVFQb1FSSDZPRHR1RW5DUWV3?oc=5",
-      "publishedAt": "2026-08-04T09:24:00.000Z",
-      "titleKa": "საუკეთესო ზრდადი აქციები 4 აგვისტოსთვის შესაძენად",
-      "summaryKa": "წარმოდგენილია საუკეთესო ზრდადი აქციები, რომლებიც 4 აგვისტოსთვის უნდა შეიძინოთ.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "d6a9daa685de88e5",
-      "title": "Bayer Earnings Beat Estimates on Crop Science Strength",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1A4S3EyU1FNdHFPbF92VEp2N3RTZUtDMW5LTUU1NFRJQ1Z3Zk5Wd3NnX0ZNYkhZTFdDcjNGSHhFT24zLW14NjNnSC1EN1Bva3VYbFRxUGJUYjR4ZFRtUlBrYjhqSUllVUdXazFRMWQ3RkM4YVJOTC0yMXU2bjc2XzAwTXRldlVQU28wa3RCaVVUR3hBZmFrOXJjdmlRNnd5Rm1KbHRac3Y?oc=5",
-      "publishedAt": "2026-08-04T09:07:02.000Z",
-      "titleKa": "Bayer-ის შემოსავლებმა გადააჭარბა პროგნოზებს Crop Science-ის მიმართულების სიძლიერის წყალობით",
-      "summaryKa": "კომპანია Bayer-ის შემოსავლებმა გადააჭარბა მოლოდინებს, რასაც ხელი შეუწყო მისი სოფლის მეურნეობის მეცნიერების განყოფილების ძლიერმა მაჩვენებლებმა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "d75ca4c6c39b6c85",
-      "title": "Bank of Korea Minutes Back More Hikes on Inflation, Growth",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXNaTzNTZFBpYnZ5Q2JLQllEaU1VTkFSTWxtUUVVT1owdTVscFYwSXRmNkRYR1NRazBmeUhUZlZxOS15VVBXMExpcF9VMzNoMUlpeV9ldUFYSW80UkxJVWdaeXpJY2dtb19yRmw3MDZqQkhBeDZ4ZFpaU1hBQVdBUlBmRTNYdXAwT183czJFMDdUbTNnQ0gwb1VWeDVQWVpLa1BERTJkWDh0aUFi?oc=5",
-      "publishedAt": "2026-08-04T08:11:54.000Z",
-      "titleKa": "კორეის ბანკის ოქმები მხარს უჭერს საპროცენტო განაკვეთების შემდგომ ზრდას ინფლაციისა და ეკონომიკური ზრდის ფონზე",
-      "summaryKa": "კორეის ბანკის შეხვედრის ოქმები მიუთითებს, რომ ინფლაციისა და ეკონომიკური ზრდის გამო მხარდაჭერილია განაკვეთების შემდგომი ზრდა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "e552bd66a6bad78b",
-      "title": "Cars, Luxury Underperfom in Bright Europe Earnings Season",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbldoeGYwLUJWZGRUeURZM1U5T0E0LUxJSkpkY0JFVWtYYWN5NkJiMks4cTlEUnBwSUhDUWx2UnBKUzVrV0l0SG80RG4wN0d0cHlxSF8yeVlndWtCVEluN3VhWWlvLXh5a1Z5dk53NjRCSWxvVm04RGg5SFVUZEhTQ0FXbjlHT2dUT2p4NFV5dmlrZGNrVFBSWTN1U0JyWVYtSWtPMjc1NXNhcWc?oc=5",
-      "publishedAt": "2026-08-04T08:00:00.000Z",
-      "titleKa": "ავტომობილებისა და ფუფუნების საგნების სექტორები ჩამორჩებიან ევროპის შემოსავლების პოზიტიურ სეზონს",
-      "summaryKa": "ევროპის შემოსავლების წარმატებულ სეზონზე ავტომობილებისა და ფუფუნების საგნების მწარმოებელი კომპანიების მაჩვენებლები მოსალოდნელზე სუსტი აღმოჩნდა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "93065d9bb393a660",
-      "title": "Europe’s Earnings Are Much Stronger Than They Look",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamlIVkE0TFAwLUdxeWY1OEhOaTR1WEF4R3AxRW12N242aXBOMjh4U1BzY1JQYWwybHUyWjJndERnUXhjRnNVTGp2T0RDWm5GWDQ1a0hBc01aMlg3ajlhQ08weHNOU1NGSU9ZQlo3Zzk2Tk5md2ctQTRVU2JNYWtLZ2YtRkRoYTZNaGdaMUM1ekk2Rmt6M2NBeHA1VWpEVS1rWmJUbjQ2cmIwTG5janNGZFRkdE8?oc=5",
-      "publishedAt": "2026-08-04T07:42:53.000Z",
-      "titleKa": "ევროპული კომპანიების შემოსავლები ბევრად უფრო ძლიერია, ვიდრე ერთი შეხედვით ჩანს",
-      "summaryKa": "ევროპული კომპანიების ფინანსური შემოსავლები რეალურად ბევრად უფრო ძლიერ მაჩვენებლებს აჩვენებს, ვიდრე ეს გარეგნულად ჩანს.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "f2371e2081b8dd81",
-      "title": "India RBI Seen Holding Rates as Inflation Risks Stay in Focus",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb2RXWTJOTThpNVZxZ1F1Y19IV2ZUbV84OVJsWm92UVREY3NmaWxKMENCbEVkRzNpazVTcjhCTVVmaloyZWw2NDc0bmNxNUZ5RU5CSEVHNTJhRE15eFEwdk9ncjlad2ttOExDOGlfSWZVd1huZXhvOHZvQUpmUzdyMUZnZFJydTBWakpfTE5kNDNGMlFOY1pCQXd3NmltUmlvbXJHVUhjYWV1dFVtZHlQakxn?oc=5",
-      "publishedAt": "2026-08-04T05:29:00.000Z",
-      "titleKa": "ინდოეთის სარეზერვო ბანკი სავარაუდოდ უცვლელად დატოვებს განაკვეთებს ინფლაციის რისკების ყურადღების ცენტრში ყოფნის გამო",
-      "summaryKa": "მოსალოდნელია, რომ ინდოეთის სარეზერვო ბანკი საპროცენტო განაკვეთებს უცვლელად შეინარჩუნებს, რადგან ინფლაციის რისკები კვლავ ყურადღების ცენტრში რჩება.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "f714585966180d6c",
-      "title": "Oil Holds Decline as Trump Says Talks Are Iran’s ‘Last Chance’",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWpDWW1ycEFGVWRqMkJKVEZ3U2xLckw5aHFuZmZWVmlQMzd3M0JmcWptRndPRzJ6WXVNYlpzZVRyMWZfN0xjNUp3dFFhczhCVEFFYy1TbTR5cnNic3JwQUVTZTdRbzMxR3BoQVpqU3FZZEs3YVAtZElBTDFrc3VpUE1VY0Y2WHFmRWk5YmI2YVdOSEo0TURmOWwtdng?oc=5",
-      "publishedAt": "2026-08-04T05:19:00.000Z",
-      "titleKa": "ნავთობის ფასი ვარდნას ინარჩუნებს, რადგან ტრამპის თქმით, მოლაპარაკებები ირანის „უკანასკნელი შანსია“",
-      "summaryKa": "ნავთობზე ფასების კლება გრძელდება მას შემდეგ, რაც დონალდ ტრამპმა განაცხადა, რომ მოლაპარაკებები ირანისათვის „უკანასკნელი შანსია“.",
-      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
