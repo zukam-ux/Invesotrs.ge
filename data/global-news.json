@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T15:11:04.017Z",
+  "updatedAt": "2026-09-04T18:27:02.334Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -142,7 +142,10 @@
       "titleKa": "Bitcoin-მა $80,000-ს მიაღწია $78,000-ზე დაქვეითების შემდეგ",
       "summaryKa": "Bitcoin-ის ღირებები $78,000-ზე დაქვეითების შემდეგ $80,000-ს მიაღწია",
       "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://247wallst.com/investing/cryptocurrency/2026/09/03/bitcoin-reclaimed-80000-after-falling-below-78000-can-it-hold/?.tsrc=rss",
+      "bodyKa": "## შესავალი\nBitcoin-ის ღირებულება $80,000-ს მიაღწია, რასაც მოჰყვა $78,000-ზე დაქვეითება. ეს განვითარება გამოიწვია ირანთან დაძაბულობის შემცირებით და იძულებითი ყიდვების ტალღით.\n\n## ფინანსური შედეგები\nBitcoin-ის ფასი 5.5%-ით გაიზარდა და $81,491-მდე მიაღწია ხუთშაბათს, რასაც მოჰყვა ამერიკა-ირანის შეტაკების შეწყვეტა. კრიპტოვალუტის ბაზარი 4.7%-ით გაიზარდა და $2.82 ტრილიონს მიაღწია.\n\n## ინვესტორების მხარდაჭერა\nინვესტორები, რომლებიც Bitcoin-ზე მოგების მიღებას ისახავდნენ, იძულებული გახდნენ მას ყიდებოდნენ, რადგან ფასის ზრდასთან ერთად მათი პოზიციები ავტომატურად დაიხურა. ამას შედეგად $164 მილიონის ლიკვიდაცია მოჰყვა, რაც კიდევ უფრო გაზარდა ფასი.\n\n## მომავალი პერსპექტივები\nმიუხედავად იმისა, რომ Bitcoin-ის ფასი შესაძლოა $80,000-ს შეარაღებულიყო, მას მაინც საფრთხე ემუქრება. თუ ფასი კვლავ $78,000-ზე დაქვეითდება, ეს ნიშნავს, რომ იძულებითი ყიდვები არ იყო საკმარისი ფასის შესარჩენად. ამასთან, თუ სენატის ხმები კენჭისყრაზე დადებითი იქნება, ეს შესაძლოა დადებითი გავლენა მოახდინოს Bitcoin-ის ფასზე.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "9081acf1523d7901",
@@ -6186,138 +6189,6 @@
       "titleKa": "სსფ-ის განცხადებით, განამ 2025 წელს ოქროს შესყიდვებზე 1.9 მილიარდი დოლარის ზარალი განიცადა",
       "summaryKa": "საერთაშორისო სავალუტო ფონდის განცხადებით, განამ 2025 წელს ოქროს შესყიდვებისას 1.9 მილიარდი დოლარის ზარალი ნახა.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "1c1c6528ec941344",
-      "title": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnpDbmF1ZzlBRXRNaV94ODZreVE3VE0zRUkzWk1PMV9xblR6NmJ5aGwwYlFoTGU5NVRZY0cyclRWMDFRc1IzNnM1UHdqeW1FQjBqVHVmeXRObE9FTE56UjJUVGtSaFdCZ3VvRlQyalQxeEdoTTNOckhTYnJOYlBBNWVyUzFvbUtNazctYmdid3ZBUGpWNEJycVNkR29UajVMRkM4YjZiaEhFb2JRaDlWa05SN0xBYnR4aDF5UW5mLTZJZmYxYXgyUA?oc=5",
-      "publishedAt": "2026-08-05T17:25:11.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnpDbmF1ZzlBRXRNaV94ODZreVE3VE0zRUkzWk1PMV9xblR6NmJ5aGwwYlFoTGU5NVRZY0cyclRWMDFRc1IzNnM1UHdqeW1FQjBqVHVmeXRObE9FTE56UjJUVGtSaFdCZ3VvRlQyalQxeEdoTTNOckhTYnJOYlBBNWVyUzFvbUtNazctYmdid3ZBUGpWNEJycVNkR29UajVMRkM4YjZiaEhFb2JRaDlWa05SN0xBYnR4aDF5UW5mLTZJZmYxYXgyUA?oc=5\" target=\"_blank\">'This was not an exceptional result': Why AMD stock tanked 5% after earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "„ეს არ იყო განსაკუთრებული შედეგი“: რატომ დაეცა AMD-ის აქციები 5%-ით ფინანსური ანგარიშგების შემდეგ",
-      "summaryKa": "AMD-ის აქციები ფინანსური შედეგების გამოქვეყნების შემდეგ 5%-ით დაეცა, რაც შეფასდა როგორც „არაგამორჩეული შედეგი“.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "7a37f152b4a6a677",
-      "title": "Will These 3 Insurance Stocks Insure a Q2 Earnings Beat?",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR04xM1NKMDV3X0ZxLW93VVBvLUV0Y3gyTGZPMjF2ZXg5ZFZJX0NucVdvOEJiODkxSURKYXJ1dDU4VHE4U3d1SzJNdFhZbGpsYWxMNTJOQUtuYlhZNEY3bzIzSlJPZXNxamF5bGxOelRiaC01VGNIUmRoWS0wSWg4OE1FcTQ5ZjRMUjVDN3ZQYjcwYmFLN0ZJYg?oc=5",
-      "publishedAt": "2026-08-05T17:01:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQR04xM1NKMDV3X0ZxLW93VVBvLUV0Y3gyTGZPMjF2ZXg5ZFZJX0NucVdvOEJiODkxSURKYXJ1dDU4VHE4U3d1SzJNdFhZbGpsYWxMNTJOQUtuYlhZNEY3bzIzSlJPZXNxamF5bGxOelRiaC01VGNIUmRoWS0wSWg4OE1FcTQ5ZjRMUjVDN3ZQYjcwYmFLN0ZJYg?oc=5\" target=\"_blank\">Will These 3 Insurance Stocks Insure a Q2 Earnings Beat?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "უზრუნველყოფს თუ არა ეს 3 სადაზღვევო აქცია მე-2 კვარტლის მოგების პროგნოზის გადაჭარბებას?",
-      "summaryKa": "სტატიაში დასმულია კითხვა, შეძლებს თუ არა მოცემული სამი სადაზღვევო აქცია მეორე კვარტლის ფინანსური შედეგების მოლოდინების გადაჭარბებას.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "2ade0f8e678177ab",
-      "title": "Why Hasn’t XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOenJzb3pDV0tNbmQ2Nm5zZlFrOVprb0pEWHNhejBvdXlIcXlVT3lJU1pEV1hTWlhGQk15R3NyTGt5LS1ab1VQQld1WnYxZ2lBSy1lV3VaU3BwNUhkVkl2aHA0Si14UUlsMHVaSXpqc1NSQXQ4YWxMbHBZd2U2RVNVUW1QZF93SFF3OVVZ?oc=5",
-      "publishedAt": "2026-08-05T16:57:02.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOenJzb3pDV0tNbmQ2Nm5zZlFrOVprb0pEWHNhejBvdXlIcXlVT3lJU1pEV1hTWlhGQk15R3NyTGt5LS1ab1VQQld1WnYxZ2lBSy1lV3VaU3BwNUhkVkl2aHA0Si14UUlsMHVaSXpqc1NSQXQ4YWxMbHBZd2U2RVNVUW1QZF93SFF3OVVZ?oc=5\" target=\"_blank\">Why Hasn’t XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "რატომ არ მიუღწევია XRP-ს ახალი მაქსიმუმებისთვის ბიტკოინისა და Ethereum-ის მსგავსად, მიუხედავად იმისა, რომ Ripple წამყვანი ფინანსური ინსტიტუტი გახდა",
-      "summaryKa": "სათაურში დასმულია კითხვა, თუ რატომ ვერ მიაღწია XRP-მ ახალ მაქსიმალურ ნიშნულებს ბიტკოინისა და Ethereum-ის მსგავსად, მიუხედავად Ripple-ის წამყვან ფინანსურ ინსტიტუტად ქცევისა.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "85c8206f67d6fb09",
-      "title": "Shell Q2 Earnings Beat Estimates as Higher Oil Prices Boost Results",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWMyLUtObFhLQXJWOFFNODJ4UEM2NGx2MV94dGVqVHB2WVhuSVJ4cUwzTXF5alVScmVvRGJIRDRwMFlYQ19oY1A3TFBLT2hSZFFDVlBZYkJnaUNLSWV4aHZvNHFPcWU3N1RKTUFVejNqT1I3TDRoTTNXNWtULWEwdGN0YnpJcDBfQVNTVjBvekpfdDg?oc=5",
-      "publishedAt": "2026-08-05T16:45:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWMyLUtObFhLQXJWOFFNODJ4UEM2NGx2MV94dGVqVHB2WVhuSVJ4cUwzTXF5alVScmVvRGJIRDRwMFlYQ19oY1A3TFBLT2hSZFFDVlBZYkJnaUNLSWV4aHZvNHFPcWU3N1RKTUFVejNqT1I3TDRoTTNXNWtULWEwdGN0YnpJcDBfQVNTVjBvekpfdDg?oc=5\" target=\"_blank\">Shell Q2 Earnings Beat Estimates as Higher Oil Prices Boost Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "Shell-ის მე-2 კვარტლის მოგებამ მოლოდინს გადააჭარბა, რადგან ნავთობის მაღალმა ფასებმა შედეგები გააუმჯობესა",
-      "summaryKa": "ნავთობის მაღალი ფასების წყალობით, კომპანია Shell-ის მეორე კვარტლის ფინანსურმა მაჩვენებლებმა პროგნოზირებულზე უკეთესი შედეგი აჩვენა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "2ac5e30ad3824ea6",
-      "title": "Sandisk stock steady ahead of AI highflier's earnings",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZkVTMGc1aFZabzhWbER4SGR1WXFtNTZTTkJQVkxHOGdCdmRmbHJfM0R4ZlBWY2h5VExsaElQQVFJakJqSUdwZ2J2ajBvVHBxbUZOUjlmdGpIalpTUF9DSlE0NVp6bHl0ZG1Zcm5lMmN0dU1uczlFQTN6WVlBSWk2elZMYk15RHhaYk1Jck9ic1c4czdydHU3VjFkNmdQZzFsdkV4dklWODBOMU84QW93NU9odmtQZWc?oc=5",
-      "publishedAt": "2026-08-05T16:37:03.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPZkVTMGc1aFZabzhWbER4SGR1WXFtNTZTTkJQVkxHOGdCdmRmbHJfM0R4ZlBWY2h5VExsaElQQVFJakJqSUdwZ2J2ajBvVHBxbUZOUjlmdGpIalpTUF9DSlE0NVp6bHl0ZG1Zcm5lMmN0dU1uczlFQTN6WVlBSWk2elZMYk15RHhaYk1Jck9ic1c4czdydHU3VjFkNmdQZzFsdkV4dklWODBOMU84QW93NU9odmtQZWc?oc=5\" target=\"_blank\">Sandisk stock steady ahead of AI highflier's earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "Sandisk-ის აქციები სტაბილურია AI-ის წამყვანი კომპანიის კვარტალური ანგარიშგების მოლოდინში",
-      "summaryKa": "Sandisk-ის აქციები სტაბილურობას ინარჩუნებს ხელოვნური ინტელექტის (AI) სფეროს ერთ-ერთი უმსხვილესი წარმომადგენლის ფინანსური შედეგების გამოქვეყნებამდე.",
-      "category": "ტექნოლოგიები და AI",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "87c8f0214c0a426e",
-      "title": "Stocks stall tracking earnings, oil dips on Iran-Oman Hormuz move",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVlFSNDB5c3o0OEItV1d2bFZJNU53ZjRVZHA0cGZsdnk3UUtqc1NVZWtHUmhLX29OeTlURW1kRmxCdW45VXBodndLV3hiTmNPcURVeWpSS1pyOGgzUVN2Uzdfb0pUSFU2bXBucEdxZkREaUZKd01YcFMzcTJGc2JKa2loWmQzMzVEOG5DRV9UanZKeDlMWE94RVRGaEFkTFB1V1lJcGNB?oc=5",
-      "publishedAt": "2026-08-05T16:23:13.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPVlFSNDB5c3o0OEItV1d2bFZJNU53ZjRVZHA0cGZsdnk3UUtqc1NVZWtHUmhLX29OeTlURW1kRmxCdW45VXBodndLV3hiTmNPcURVeWpSS1pyOGgzUVN2Uzdfb0pUSFU2bXBucEdxZkREaUZKd01YcFMzcTJGc2JKa2loWmQzMzVEOG5DRV9UanZKeDlMWE94RVRGaEFkTFB1V1lJcGNB?oc=5\" target=\"_blank\">Stocks stall tracking earnings, oil dips on Iran-Oman Hormuz move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "აქციების ზრდა შეფერხდა შემოსავლების ანგარიშების ფონზე, ხოლო ნავთობის ფასი შემცირდა ირან-ომანის ჰორმუზის ნაბიჯის გამო",
-      "summaryKa": "აქციების ზრდა კორპორატიული შემოსავლების პარალელურად შეჩერდა, ხოლო ნავთობის ფასმა დაიკლო ირანსა და ომანს შორის ჰორმუზის სრუტესთან დაკავშირებული ქმედებების გამო.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "a3d662a674363886",
-      "title": "NUGT and AGQ Jump Big as Gold and Silver Rally",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPam9BSlZLTl9vQmdoZDlBZmRWTHVKbll4bGl4cEJ2Y0J0SHF3dUNjRHlfTk9UQnZqakthbUZUaXlZVlRJZ3dSMHFPZ1FNREhUWlY4anZfbjF1TzV1YWV5ZUFucGY1QzFmZTdXVU80RnZXRnFiNm1PVUtXaVQtemxQSGdXWDJKeHdQSS1MYndJektwSG90emtz?oc=5",
-      "publishedAt": "2026-08-05T15:57:20.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPam9BSlZLTl9vQmdoZDlBZmRWTHVKbll4bGl4cEJ2Y0J0SHF3dUNjRHlfTk9UQnZqakthbUZUaXlZVlRJZ3dSMHFPZ1FNREhUWlY4anZfbjF1TzV1YWV5ZUFucGY1QzFmZTdXVU80RnZXRnFiNm1PVUtXaVQtemxQSGdXWDJKeHdQSS1MYndJektwSG90emtz?oc=5\" target=\"_blank\">NUGT and AGQ Jump Big as Gold and Silver Rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "NUGT და AGQ მკვეთრად გაიზარდა ოქროსა და ვერცხლის ფასების მატების ფონზე",
-      "summaryKa": "ოქროსა და ვერცხლის ბაზარზე ფასების ზრდის პარალელურად, NUGT და AGQ აქტივების ღირებულებამ მნიშვნელოვანი ზრდა აჩვენა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "3cf03993646da02a",
-      "title": "Watch Stocks Rise on Earnings and Hopes for Hormuz Deal",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcWRCTHlTaXdQRm9MMVpRUkhWcnVzX2RPNEpoT254Y0ZyWF84dVZkZEV2cmdIcEtiX2s1Nnp3VTM1Z01aOVFqZVMycFZvZUVjUXR3OTFDZ1B4a0h2QXpqQkpGV3I1V0VxUVFSZi0zNV9TX1p1U3Y5RC13ZEVlVEJTd0xWU1l1MjROSW9xekkxTzBHd3FoVUVseUZvakFQc1NKaHpvamY5cw?oc=5",
-      "publishedAt": "2026-08-05T15:48:33.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcWRCTHlTaXdQRm9MMVpRUkhWcnVzX2RPNEpoT254Y0ZyWF84dVZkZEV2cmdIcEtiX2s1Nnp3VTM1Z01aOVFqZVMycFZvZUVjUXR3OTFDZ1B4a0h2QXpqQkpGV3I1V0VxUVFSZi0zNV9TX1p1U3Y5RC13ZEVlVEJTd0xWU1l1MjROSW9xekkxTzBHd3FoVUVseUZvakFQc1NKaHpvamY5cw?oc=5\" target=\"_blank\">Watch Stocks Rise on Earnings and Hopes for Hormuz Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "თვალი ადევნეთ აქციების ზრდას შემოსავლებისა და ჰორმუზის შეთანხმების იმედების ფონზე",
-      "summaryKa": "აქციების ზრდა განპირობებულია კომპანიების ფინანსური შემოსავლებითა და ჰორმუზის სრუტის შეთანხმების მიღწევის იმედებით.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "1d5b3e21ed919f2f",
-      "title": "Watch Tech Melt-Up Drives $3.5T Nasdaq 100 Gain in Four Days",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmZJYzgwMVIteWtNTzVycVNybXlvN3h1bDlPN2tGYVJvMmJsWWZTRG5ISm1ObG1aNUs2clp5SExnRjN6QnNZMEw5NTNLQkNEX21Tb2gwaUdTQzBYTEw5YU1uWUpFdWJMNG9JdDM2ZUdiemkxUnFFOFh6eVROOWVrdWNXZnZGSUxtOENXT19lUXJjM2EyRmtfUHNqeXprZFRJZkM1MGdaakZ5R1hm?oc=5",
-      "publishedAt": "2026-08-05T15:24:24.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmZJYzgwMVIteWtNTzVycVNybXlvN3h1bDlPN2tGYVJvMmJsWWZTRG5ISm1ObG1aNUs2clp5SExnRjN6QnNZMEw5NTNLQkNEX21Tb2gwaUdTQzBYTEw5YU1uWUpFdWJMNG9JdDM2ZUdiemkxUnFFOFh6eVROOWVrdWNXZnZGSUxtOENXT19lUXJjM2EyRmtfUHNqeXprZFRJZkM1MGdaakZ5R1hm?oc=5\" target=\"_blank\">Watch Tech Melt-Up Drives $3.5T Nasdaq 100 Gain in Four Days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ტექნოლოგიური სექტორის მკვეთრი ზრდა ოთხ დღეში Nasdaq 100-ის 3.5 ტრილიონი დოლარით მატებას განაპირობებს",
-      "summaryKa": "ტექნოლოგიური სექტორის მკვეთრმა ზრდამ ოთხ დღეში Nasdaq 100-ს 3.5 ტრილიონი დოლარის მოგება მოუტანა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "b2891f40e3943745",
-      "title": "Crypto's next big move: The catalysts investors should be watching",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1ItOUM0LVZsclZZb2h1T0NHcW4wektQTm1XMnExSERyQzE5ZkFQaFpkWUMyX21tN2lLSEN5ZW01OHMzYlRKX0FyNDA3Y0JuU2xKczVHVGEyem8taTE2bnRFTmFuSkhZRWFzMzNsZUlUN2t0U0o1VXhKWjBENnVHblRwSWo?oc=5",
-      "publishedAt": "2026-08-05T15:24:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1ItOUM0LVZsclZZb2h1T0NHcW4wektQTm1XMnExSERyQzE5ZkFQaFpkWUMyX21tN2lLSEN5ZW01OHMzYlRKX0FyNDA3Y0JuU2xKczVHVGEyem8taTE2bnRFTmFuSkhZRWFzMzNsZUlUN2t0U0o1VXhKWjBENnVHblRwSWo?oc=5\" target=\"_blank\">Crypto's next big move: The catalysts investors should be watching</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "კრიპტოვალუტის შემდეგი დიდი ნაბიჯი: კატალიზატორები, რომლებსაც ინვესტორები უნდა აკვირდებოდნენ",
-      "summaryKa": "სტატია ყურადღებას ამახვილებს იმ ძირითად კატალიზატორებზე, რომლებსაც ინვესტორები კრიპტობაზარზე შემდეგი მნიშვნელოვანი მოძრაობის მოლოდინში უნდა დააკვირდნენ.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "d868afe69f27ceae",
-      "title": "Boerse Stuttgart Digital, Tradias Complete Merger to Build European Crypto Hub",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHdFTGZCdy10enhuV1ZGOE5nV2xwQ3RiUFNfVFZmUHYycHlrd2g4ay1FUTlaRTUyaExZTGpTdjRzV0FnM0wxTEZ0Ml85OG81dktrNndOZ0hMV2hpTktCTmZEcmVSSDJjRFpKY29vNG9YSmM5TTA1OG9acUZrYVgzSk5FcDZjYXNhalBVSVFrMVp4c2c2NWNYZVppMWVtaGY4OVlmRk9DMGdSdw?oc=5",
-      "publishedAt": "2026-08-05T15:20:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHdFTGZCdy10enhuV1ZGOE5nV2xwQ3RiUFNfVFZmUHYycHlrd2g4ay1FUTlaRTUyaExZTGpTdjRzV0FnM0wxTEZ0Ml85OG81dktrNndOZ0hMV2hpTktCTmZEcmVSSDJjRFpKY29vNG9YSmM5TTA1OG9acUZrYVgzSk5FcDZjYXNhalBVSVFrMVp4c2c2NWNYZVppMWVtaGY4OVlmRk9DMGdSdw?oc=5\" target=\"_blank\">Boerse Stuttgart Digital, Tradias Complete Merger to Build European Crypto Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "Boerse Stuttgart Digital-მა და Tradias-მა ევროპული კრიპტო ჰაბის შესაქმნელად შერწყმა დაასრულეს",
-      "summaryKa": "კომპანიებმა Boerse Stuttgart Digital და Tradias დაასრულეს შერწყმის პროცესი ევროპული კრიპტო ჰაბის შესაქმნელად.",
-      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
