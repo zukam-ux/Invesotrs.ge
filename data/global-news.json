@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T06:38:16.983Z",
+  "updatedAt": "2026-09-04T11:53:09.702Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -85,7 +85,10 @@
       "titleKa": "Heavy Machinery-ს მეორე კვარტალის ფინანსური შედეგები: Caterpillar (NYSE:CAT) საუკეთესოა ბიზნესში",
       "summaryKa": "Caterpillar (NYSE:CAT) გახდა საუკეთესო კომპანია მეორე კვარტალში ფინანსური შედეგების მიხედვით",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/heavy-machinery-q2-earnings-caterpillar-223118847.html",
+      "bodyKa": "## მეორე კვარტალის ფინანსური შედეგები\nმძიმე ტექნიკის 20 კომპანიამ წარმატებით განვლო მეორე კვარტალი. ერთობლივად, მათმა შემოსავალმა 1.7%-ით გაასწრო ანალიტიკოსების შეფასებებს, ხოლო მომდევნო კვარტალის შემოსავლის პროგნოზი 1.2%-ით აღემატებოდა მოსალოდნელს.\n\n## კომპანიების შედეგები\nCaterpillar-მა (NYSE:CAT) 20.54 მილიარდ დოლარის შემოსავალი აჩვენა, რაც 24%-ით აღემატებოდა წინა წლის ანალოგიურ პერიოდს და 8.4%-ით გაასწრო ანალიტიკოსების შეფასებებს. კომპანიის თავმჯდომარემ და გენერალურმა დირექტორმა, ჯო კრიდმა, განაცხადა, რომ ეს იყო პირველი შემთხვევა კომპანიის ისტორიაში, როდესაც მათ ერთ კვარტალში 20 მილიარდ დოლარზე მეტი შემოსავალი ჰქონდათ.\n\n## სხვა კომპანიები\nWabash-მა (NYSE:WNC) 417.2 მილიონ დოლარის შემოსავალი აჩვენა, რაც 9.1%-ით ნაკლები იყო წინა წლის ანალოგიურ პერიოდთან შედარებით, მაგრამ 3.6%-ით გაასწრო ანალიტიკოსების შეფასებებს. კომპანიამ ყველაზე დიდი პროგნოზის ამაღლება აჩვენა და მისი აქციები 7.4%-ით გაიზარდა შედეგების გამოქვეყნების შემდეგ.\n\n## დასკვნა\nსხვა კომპანიები, როგორიცაა AGCO (NYSE:AGCO), Greenbrier (NYSE:GBX) და Commercial Vehicle Group (NASDAQ:CVGI), ასევე წარმოადგინეს თავიანთი შედეგები, რომლებიც განსხვავდებოდა ერთმანეთისგან. ზოგიერთმა მათგანმა წარმატებით განვლო კვარტალი, ხოლო ზოგიერთმა ვერ შეძლო ანალიტიკოსების მოლოდინების დაკმაყოფილება.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "36658d3ba9f5a4c2",
@@ -97,7 +100,10 @@
       "titleKa": "S&P 500 და Dow-მ დაასრულა თვის საუკეთესო დღე უფრო მშვიდი სესხის სარგებელის შედეგად",
       "summaryKa": "S&P 500 და Dow-მ დაასრულა თვის საუკეთესო დღე, რაც გამოწვეული იყო უფრო მშვიდი სესხის სარგებელის შედეგად",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-best-day-in-a-month/cZsufnBRJvu?.tsrc=rss",
+      "bodyKa": "## საფონდო ბაზარის მიმოხილვა\nS&P 500 და Dow-მ დაასრულა თვის საუკეთესო დღე, რაც გამოწვეული იყო უფრო მშვიდი სესხის სარგებელის შედეგად. ამერიკული საფონდო ბაზარი აღიარებს, რომ ფედერალური რეზერვის გუბერნატორის, კრისტოფერ უოლერის განცხადებამ, რომ ის ინკლინირებულია ინტერესის განაკვეთის შენარჩუნებაზე, გამოიწვია ინვესტორების შეშფოთების შემცირება.\n\n## ფინანსური შედეგები\nS&P 500-მა 1.1%-ით გაიზარდა, ხოლო Nasdaq 100-მა 1.2%-ით, Dow Jones Industrial Average-მა კი 1.2%-ით გაიზარდა. Russell 2000-მა, რომელიც მცირე საბაზრო კაპიტალიზაციის მქონე აქციებს ასახავს, 1.3%-ით გაიზარდა.\n\n## კომპანიების შესახებ\nSpaceX, Victoria’s Secret & Co., Tesla და Nvidia აგრძელებენ თავიანთი საქმიანობის განვითარებას და ინოვაციებს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "6eec7b82e40629fc",
@@ -6583,287 +6589,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPNGRPV0pDWlRnWkRPbFpta0EzMndIeGdTakU0TDFYT2dQaWN3aXQ1a0Q5dWE0RUtLSEluQUx0cGprcExNbXlGVTNRQkNJMFNiT3YxYmZyRkt6bzN0R3ZzVUpxaTlMTGdIN2t1NzhhbVhwWS1xU21ieG1HeU9wTHV3LXprcU9xLWVPcnBNcEtfdTI1RWI5UzlDOWlsWC1Wa2g2ajY3SjBJX3lyV2toV2E0bkV3WUJwQQ?oc=5\" target=\"_blank\">S&P 500 Poised for Another Record as AI Spending Narrative Holds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "titleKa": "S&P 500 მზად არის მორიგი რეკორდისთვის, რადგან AI ხარჯების შესახებ ნარატივი ნარჩუნდება",
       "summaryKa": "S&P 500 ინდექსი ახალი რეკორდის დასამყარებლად ემზადება, რასაც ხელს უწყობს ხელოვნური ინტელექტის მიმართულებით ხარჯების ზრდის ტენდენცია.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "448a215a409d488b",
-      "title": "Larry Lepard Says Bitcoin Is Still 'A Wild Animal' – But Institutional Buying Is Taming The Big Selloffs",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlFrVGpVck1IdEhhbnVsQUU3X1YzQVhDZWFFZDJxY0dCZ2Z6d3BWc1BudGwxRmF6ejhxVnNDNFQtdUFjNXJDeGczNzhpWVNjcWZhSHBuN1Bic3UwcVQwelJYQVNFeDBtemMxUTNZWXktdFdDYWl5algyMEhhclc4b21KOHNWQ0ZtOWI0X2dXN3B0RFlIREU4dW9teE0?oc=5",
-      "publishedAt": "2026-08-05T11:46:57.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlFrVGpVck1IdEhhbnVsQUU3X1YzQVhDZWFFZDJxY0dCZ2Z6d3BWc1BudGwxRmF6ejhxVnNDNFQtdUFjNXJDeGczNzhpWVNjcWZhSHBuN1Bic3UwcVQwelJYQVNFeDBtemMxUTNZWXktdFdDYWl5algyMEhhclc4b21KOHNWQ0ZtOWI0X2dXN3B0RFlIREU4dW9teE0?oc=5\" target=\"_blank\">Larry Lepard Says Bitcoin Is Still 'A Wild Animal' – But Institutional Buying Is Taming The Big Selloffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "ლარი ლეპარდი ამბობს, რომ ბიტკოინი კვლავ „ველური ცხოველია“, თუმცა ინსტიტუციური შესყიდვები აკავებს დიდ გაყიდვებს",
-      "summaryKa": "ლარი ლეპარდის განცხადებით, ბიტკოინი კვლავ „ველურ ცხოველად“ რჩება, თუმცა ინსტიტუციური შესყიდვები მის მასშტაბურ გაყიდვებს აკავებს.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "f2e2d281377e4f07",
-      "title": "Walt Disney’s stock climbs as company cites ‘Toy Story 5’ for earnings growth",
-      "source": "MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQW5qMHNQcVI0SXRPSk81VFI2Uk1VS1RiQUVoOUN2anl5OXZtOUQ1UE5rN1FwUGdtZXJodkZYblhmekpZMmRDYnBRRm5UMDllY0dkb29qejExM09GSXpyZTZ2Mm1may1YZVUtMkRaY29nUDl2bFZ1Y0pWVnVwdER2N3BNaFlVOWhEbjNiSUlCbmxycVZ2RmZQRVVydXBSLU9BUlpQV21PU25Xbl91dlBKS1hCaXZ2bWQy?oc=5",
-      "publishedAt": "2026-08-05T11:42:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQW5qMHNQcVI0SXRPSk81VFI2Uk1VS1RiQUVoOUN2anl5OXZtOUQ1UE5rN1FwUGdtZXJodkZYblhmekpZMmRDYnBRRm5UMDllY0dkb29qejExM09GSXpyZTZ2Mm1may1YZVUtMkRaY29nUDl2bFZ1Y0pWVnVwdER2N3BNaFlVOWhEbjNiSUlCbmxycVZ2RmZQRVVydXBSLU9BUlpQV21PU25Xbl91dlBKS1hCaXZ2bWQy?oc=5\" target=\"_blank\">Walt Disney’s stock climbs as company cites ‘Toy Story 5’ for earnings growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-      "titleKa": "Walt Disney-ის აქციები იზრდება, რადგან კომპანია შემოსავლების ზრდას „სათამაშოების ისტორია 5“-ს უკავშირებს",
-      "summaryKa": "კომპანია Walt Disney-ის აქციების ფასი გაიზარდა, რადგან კომპანია შემოსავლების ზრდას ფილმ „სათამაშოების ისტორია 5“-ს მიაწერს.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "cbd857e818475d8c",
-      "title": "BRS Resources Ltd. Signs Definitive Agreement to Acquire High-Impact Gold-Silver Concessions in Sonora, Mexico",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNblk5ZVZOMkxLZHRGeEdQU3RNYlpSYjFoS2QtQ3kyVzBQSmNJY1BfRHZfenRlUWlpa3kwZ1dOV3JyNlNzWnZpek9RXzFhMHphMk1MSWJZaTJ1VXUzdFkwSWtGVHFrS1gzS2liLUx4R3NGaWIyN0FzRWF5al9BZUxfREIyMWI1MUtkY2MwYUJZQVdzY3RaQmF0YXdIbmdISGpFcHFqUlpTcw?oc=5",
-      "publishedAt": "2026-08-05T11:30:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNblk5ZVZOMkxLZHRGeEdQU3RNYlpSYjFoS2QtQ3kyVzBQSmNJY1BfRHZfenRlUWlpa3kwZ1dOV3JyNlNzWnZpek9RXzFhMHphMk1MSWJZaTJ1VXUzdFkwSWtGVHFrS1gzS2liLUx4R3NGaWIyN0FzRWF5al9BZUxfREIyMWI1MUtkY2MwYUJZQVdzY3RaQmF0YXdIbmdISGpFcHFqUlpTcw?oc=5\" target=\"_blank\">BRS Resources Ltd. Signs Definitive Agreement to Acquire High-Impact Gold-Silver Concessions in Sonora, Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "BRS Resources Ltd.-მა ხელი მოაწერა საბოლოო შეთანხმებას მექსიკაში, სონორაში მაღალი გავლენის მქონე ოქრო-ვერცხლის კონცესიების შესაძენად",
-      "summaryKa": "კომპანია BRS Resources Ltd.-მა ხელი მოაწერა საბოლოო ხელშეკრულებას მექსიკის შტატ სონორაში ოქროსა და ვერცხლის მოპოვების მაღალეფექტური კონცესიების შესაძენად.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "d5a34fc5b8e6f45d",
-      "title": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYk0tOXc3NWhXTi1TTU92RlczOUtRbkFyWDBSdHNXMFF2LTZvc3FSX1BIbjZMMUF3UnJtM05JWmFPWGlQRGlDRGdkYzBMRldLMXpBeTk2dElpR2JpRDJwVGVIV0tXV3dSVnN1SnVGZ1JvTm93UWQtYmVCNnMyWVJ3bWUyX3c5N251SWtTbEtKa0JxTzBYNk9rVXJWbGszQ3F0cjR5d3Rn?oc=5",
-      "publishedAt": "2026-08-05T11:29:23.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYk0tOXc3NWhXTi1TTU92RlczOUtRbkFyWDBSdHNXMFF2LTZvc3FSX1BIbjZMMUF3UnJtM05JWmFPWGlQRGlDRGdkYzBMRldLMXpBeTk2dElpR2JpRDJwVGVIV0tXV3dSVnN1SnVGZ1JvTm93UWQtYmVCNnMyWVJ3bWUyX3c5N251SWtTbEtKa0JxTzBYNk9rVXJWbGszQ3F0cjR5d3Rn?oc=5\" target=\"_blank\">Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "Ethereum-ის წინადადება სტეიკინგის ჯილდოებს ნულამდე დაწვავს, თუ ETH-ის ნახევარი იქნება სტეიკინგში განთავსებული",
-      "summaryKa": "Ethereum-ის ახალი წინადადება ითვალისწინებს სტეიკინგის ჯილდოების ნულამდე შემცირებას, თუ მთლიანი ETH-ის ნახევარი იქნება სტეიკინგში განთავსებული.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "8251c4f06f9b3159",
-      "title": "'This was not an exceptional result': Why AMD stock tanked 10% after earnings",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUHJRblZ1TV9YZkQ3Rld4SHIxYWdzUjdTNmZTTnlmOGphVE1ySWszU2d6bkRJMVp6OHVkTERNNmhpSFdMbTVsWmpTS3NtQ2pHOHdJRmtSMkNvYXRFeE5BNUNYaTcwY2g0ZDdKUk40bHNRS1FENC1wTU9Sb0Q2Mk0tWUZ4UXE4am81b3hQYzIzWUR2UmhjOTRyUWVVejM5R2Z4UzJYdU1ibkVWZnIxWU5PeVNmLTJKVmd2MDU1RkFXWkRVMzRUajhZUG9n?oc=5",
-      "publishedAt": "2026-08-05T11:21:24.000Z",
-      "titleKa": "„ეს არ იყო განსაკუთრებული შედეგი“: რატომ დაეცა AMD-ის აქციები 10%-ით ფინანსური შედეგების გამოქვეყნების შემდეგ",
-      "summaryKa": "AMD-ის აქციების ფასი ფინანსური ანგარიშგების გამოქვეყნების შემდეგ 10%-ით დაეცა, რაც შეფასდა როგორც „არაგამორჩეული შედეგი“.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "3e292db4aff534e8",
-      "title": "Watch Oil Normalization to Take 'A Long Time,' Ashford Says",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTgyVGduRVlVczhqemMxLVd6dVBzWkJUazJxYTdGV0JhNHNQeHk5OEZwVUNLSFdOMnRobjlNNTM1OUUzYzdKRVQyRy1vSGhYMVV4Wng2akFTY3duOVk3ZEdpSklLdGFqUGt3QTl2eUVONjhQTkM3NDNvRUhPWmJEWFM5dTVGR3BNLWw3LW53ZVhjMkJjRXBZam9kU2Y4bk5DRDlvdkdvX3Q?oc=5",
-      "publishedAt": "2026-08-05T11:08:00.000Z",
-      "titleKa": "ნავთობის ნორმალიზაციის დაკვირვებას „დიდი დრო“ დასჭირდება, ამბობს Ashford",
-      "summaryKa": "აშფორდის განცხადებით, ნავთობის ნორმალიზაციის პროცესზე დაკვირვებას დიდი დრო დასჭირდება.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "5ee9de666bc8eb76",
-      "title": "Keeping Your Bitcoin Riches Safe Has Never Been Harder",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNk9vb1RXRW05SUE1RUxnWmhYTmlHcDJkSXM5OTJHOGJOenh3cVBuT2UyRkR3NjJaeTNWYldOUFpqd2I4V182SkZLTXJIdWZzcUNaVTZ2UHhVVHJIMUdPYU1FTzYxSkpNMUxUaFBNOURWNW1BaWVtLVhTUmVrcWF2TzV4d2RGZ1RHYmI2d24wTkEyUGp3UUJHZ216LXlPTGV3SGl0QmtFTVBaWFZLY21KbGNDeHY?oc=5",
-      "publishedAt": "2026-08-05T11:00:09.000Z",
-      "titleKa": "თქვენი Bitcoin-ის სიმდიდრის უსაფრთხოდ შენახვა არასოდეს ყოფილა ასე რთული",
-      "summaryKa": "ბიტკოინის სახით დაგროვილი სიმდიდრის უსაფრთხოდ შენარჩუნება დღეს იმაზე რთულია, ვიდრე ოდესმე ყოფილა.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "3d55c2a23d0bbafb",
-      "title": "West Point Gold Drills 30.4 m of 2.31 g/t Au at Tyro Main Zone",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkxGSG82aVJLdXN2N2ZDYmNyN2hkeE9nVV9tdllVUWdrNFBYSjRuaG5IbE5TNnZGTGpUQ3J2b2NkanVGVU01bHIzODJWTDktd2R3OS1fU3VzS1l1aWpHSUtWcVgyS09FVXlKTGUyME5EeG5xUTZfeGh4MlhWdGYteW9jOS1lS1lFcC1tbldBNXRTdUVXWEpmdDdMRQ?oc=5",
-      "publishedAt": "2026-08-05T11:00:00.000Z",
-      "titleKa": "West Point Gold-მა 30.4 მეტრი სიგრძის 2.31 გ/ტ Au-ს შემცველობის საბადო გაბურღა Tyro Main Zone-ზე",
-      "summaryKa": "კომპანია West Point Gold-მა Tyro Main Zone-ზე გაბურღა 30.4 მეტრი სიგრძის მონაკვეთი 2.31 გ/ტ ოქროს შემცველობით.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "35a9a280633dd85b",
-      "title": "Pirate Gold Discovers Widespread Advanced Argillic Alteration at Clipper Brook",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0N6Ry12VnJtVDNlYnc1VjlqOHIyeENqeTJwd1AzXzg2RVJoUEhEYnFpM0pJcDhnSHRZaUNLWkpWeWExb1RtWE9BQ25Nc2NJbTUzaTNTbnhleXlxWktURFNUazdwaUVmdlg5SDFZYkdTbVRzcVJQdHNGc25kbkhtNlVQZFFYSGNkb3F2SC00VXFWSkVxaFY1Q2IzZHU5Q3BWN2w4QzlOdzBkNGtrd3lMMA?oc=5",
-      "publishedAt": "2026-08-05T11:00:00.000Z",
-      "titleKa": "Pirate Gold-მა Clipper Brook-ზე ფართოდ გავრცელებული მოწინავე არგილითური ცვლილებები აღმოაჩინა",
-      "summaryKa": "კომპანია Pirate Gold-მა Clipper Brook-ის ტერიტორიაზე ფართოდ გავრცელებული მოწინავე არგილითური ცვლილებები აღმოაჩინა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "83743f3435cfdae6",
-      "title": "თიბისის მობაილბანკიდან ლონდონის საფონდო ბირჟაზე ინვესტირება უკვე ელემენტარულია",
-      "source": "Marketer.ge",
-      "url": "https://www.marketer.ge/investireba-londonis-birjaze-tbc/",
-      "publishedAt": "2026-08-05T10:54:29.000Z",
-      "description": "თიბისის ინვესტიციების პლატფორმას ახალი საინვესტიციო ბაზარი – ლონდონის საფონდო […] The post თიბისის მობაილბანკიდან ლონდონის საფონდო ბირჟაზე ინვესტირება უკვე ელემენტარულია first appeared on Marketer .",
-      "titleKa": "თიბისის მობაილბანკიდან ლონდონის საფონდო ბირჟაზე ინვესტირება უკვე ელემენტარულია",
-      "summaryKa": "თიბისის ინვესტიციების პლატფორმას ახალი საინვესტიციო ბაზარი – ლონდონის საფონდო […]",
-      "category": "საქართველო",
-      "translationNotice": ""
-    },
-    {
-      "id": "1d880bc49c0bc287",
-      "title": "Better Buy: iShares Bitcoin ETF vs. Morgan Stanley Bitcoin ETF",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbnMzWkdKVExzeFdqTktFY2lsaG43SG1ma1dkLU9hS1F2Y1g5MHRCV3hUbzJqOGI0Y2NidjNxOGNRVGpqZGR3bXZvdUwwMWgyWHM0UEdIM1BiU0pSNHhuNnRDcjhxVGd6bHc5dmxlQlE0REVUdHlBZXMyT3ViMVBnRVI1LVlzWWMxMExGRFFsVHBUSnFKODdxVEYzaw?oc=5",
-      "publishedAt": "2026-08-05T10:50:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbnMzWkdKVExzeFdqTktFY2lsaG43SG1ma1dkLU9hS1F2Y1g5MHRCV3hUbzJqOGI0Y2NidjNxOGNRVGpqZGR3bXZvdUwwMWgyWHM0UEdIM1BiU0pSNHhuNnRDcjhxVGd6bHc5dmxlQlE0REVUdHlBZXMyT3ViMVBnRVI1LVlzWWMxMExGRFFsVHBUSnFKODdxVEYzaw?oc=5\" target=\"_blank\">Better Buy: iShares Bitcoin ETF vs. Morgan Stanley Bitcoin ETF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "უკეთესი შენაძენი: iShares Bitcoin ETF-ი Morgan Stanley Bitcoin ETF-ის წინააღმდეგ",
-      "summaryKa": "სტატია ადარებს iShares Bitcoin ETF-სა და Morgan Stanley Bitcoin ETF-ს, რათა დაადგინოს, რომელი მათგანია უკეთესი შენაძენი.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "aa6fef9c215e52c0",
-      "title": "Disney's Q3 earnings top estimates on demand for experiences, company exits A+E Media stake",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZkY5Z1pRMExIYlhoalhYQk5wTU9lZmV5SVJtSlVUYkdtN29mQ0tqT25tX1F4cThFMU9DY3VXR0xaTEFVZ3BCZHhlUFd3VTVpN3IxLWlvOG1NQzM3Z00xTzlxVGJWSVpCVUYwdXZfNkUzeU1PeTd0cHA4bDZIS0d2My15UlZMXzVqYkJLM25LYkhyaDgtVzhheEpxLTZ2aVBtUWNPZ2pWd0g3U1N5NUpNeUstNVNMenA5aEFXcDlIelZ6QWZycHU3UmdLbmc4N1IwRGFVWHl5Vy1HOUtKQmt0SVlNMzVseWs?oc=5",
-      "publishedAt": "2026-08-05T10:36:19.000Z",
-      "titleKa": "Disney-ის მე-3 კვარტლის შემოსავლებმა მოლოდინს გადააჭარბა შთაბეჭდილებებზე მოთხოვნის გამო, კომპანია ტოვებს A+E Media-ს წილს",
-      "summaryKa": "შთაბეჭდილებებზე არსებული მოთხოვნის წყალობით Disney-ის მესამე კვარტლის მოგებამ პროგნოზებს გადააჭარბა, ხოლო კომპანია A+E Media-ში თავის წილს ყიდის.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "1feb9a5fd840f414",
-      "title": "Circle Revenue Misses Estimates as Crypto Markets Mired in Rout",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGlzblp2Nk8xYTRmUGZIVjQ1bmdVdW8xYVF5czZfUDlHbzlwQ3hpUVlScnZ4YUpDTnJPTlZTOFFpQnFjUkFUdktDS2VPLWhHNDB1QjdoYnZlMGtsYjdRZk5kZ04wNU50UHRXb1l0aVBnYklDbklSbnlEUDZVLU4yTEhnS1FSMzZhRmlyNy1UMmxPVVRhekFmMWVWLVJMSjZjbzZRV1VER0g1ZWx2anZXX0NaU04?oc=5",
-      "publishedAt": "2026-08-05T10:10:53.000Z",
-      "titleKa": "Circle-ის შემოსავალმა მოლოდინებს ვერ მიაღწია, რადგან კრიპტო ბაზრები ვარდნაშია ჩაფლული",
-      "summaryKa": "კრიპტოვალუტის ბაზრებზე არსებული ვარდნის ფონზე, კომპანია Circle-ის შემოსავალმა პროგნოზირებულ მაჩვენებლებს ვერ მიაღწია.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "d89421acc28c2e9e",
-      "title": "SpaceX’s first earnings reveal the cost of becoming an AI giant: Chart of the Day",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWUszVVFKTlQ0R0R0YVNtaUJiZjdvSVQtemx3TlFBN0o2MGxFZE5LYUVnbDlPLWZXM1NiTzFhUUpKRXFKdDBKcDBYNXhYdWxEUUNpUXdKMWhObXBXMVd4MTVpejBlZ0dWV2R0SVgyN01QN1pCWmJoUmlHaVg1NC1RanE4dDhkaDhGUTJWcncyLWNvenc4MmRBY29XcFEyZWhsYmlWNkFqZENBck1lWlI0dDdDMUlFMklMNEJRLUREN3hCX2w0X3BobDNYY1lxRE10SUE?oc=5",
-      "publishedAt": "2026-08-05T10:07:20.000Z",
-      "titleKa": "SpaceX-ის პირველი შემოსავლები აჩვენებს AI გიგანტად გახდომის ფასს: დღის დიაგრამა",
-      "summaryKa": "SpaceX-ის პირველი ფინანსური შედეგები ასახავს ხელოვნური ინტელექტის გიგანტად ჩამოყალიბების ხარჯებს.",
-      "category": "ტექნოლოგიები და AI",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "36dc29b3227089ed",
-      "title": "Carlyle Notches Highest Earnings Since 2022 on More PE Exits",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZkhSV2tTSlJzWTNvUUxIX3g4Yk9BVGtZMjNNeVRSdnRBcWxSNVhMd0I4cjIzMHJmcElrMWgtME5FOVloanlwZk4zQ2tFX3FXdFlEN1RCQ0NBQ2UzNFBzRnNlaVlRdDY1dEdUeUVpS2pNNjY4M1ZwdlEwVExLbzJUdFl1QWc5QTlWWUwwOHlhQ3FQWlNvVWZoakVRNEw5eVd5MXVDTWY4NXlJWlZ4cmV2OUxR?oc=5",
-      "publishedAt": "2026-08-05T10:01:00.000Z",
-      "titleKa": "Carlyle-მა 2022 წლის შემდეგ ყველაზე მაღალ შემოსავალს მიაღწია მეტი PE გასვლის ხარჯზე",
-      "summaryKa": "კომპანია Carlyle-მა კერძო კაპიტალის აქტივებიდან გაზრდილი გასვლების წყალობით 2022 წლის შემდეგ ყველაზე მაღალი შემოსავალი მიიღო.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "136e7caff4b7ce90",
-      "title": "Sandisk stock is bouncing — how to play earnings with limited risk: Alpha Options Playbook",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZkhRaDFpeEtjU0tGNlh3LXNyN2QzVXYxM0N0d2o4YnVQQy1CVi16T0xuc0xObTZNZERtZXZFbXBOYkpySTExanlzSnNaRnBBaUhzbWNYWkRrWEhWYnJ0MzItTjBVS01IcFpaY3J4NHFKMWxheTVVLUJCLWpqQ3J5UXhsOXdwSWRVMXNQZEVYUXM0TTFtQjNLTGlBNDdEbFNOa3kxb2dYRlQtcGh1TkxnOFc0SkxmSXREWDRuakRuQjE5V2g5am1JNlZ5UTFnZTFKNGhkb1BEY2VsS3dlaXc?oc=5",
-      "publishedAt": "2026-08-05T10:00:00.000Z",
-      "titleKa": "Sandisk-ის აქციები იზრდება — როგორ ვითამაშოთ შემოსავლებზე შეზღუდული რისკით: Alpha Options Playbook",
-      "summaryKa": "Sandisk-ის აქციების ფასი იზრდება და Alpha Options Playbook გვიჩვენებს, თუ როგორ შეიძლება შემოსავლებზე თამაში შეზღუდული რისკით.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "fea36f6ed2c1fd42",
-      "title": "Tech Melt-Up Drives $3.5 Trillion Nasdaq 100 Gain in Four Days",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGpzWVR4OThuV0ZURVlLemo4eEkyR0ZPYTUyTmpIUFF5dmNReGgteExWckhVU0xuRDY0YU9CSUhCMlZfbzFpQUNvVUU3VU9XOHNpbEJ2djJ5SHRPYzYyVVhOUkplRk1SX2xSMFNvT0ZyUnBCSmw3ZTFqa2tualVfZkpNWEladEFCVXU5VTJLRWJGSzFuUXo3WHRoVHlFaEdvRWZfa0w1elh0ZVJORWl3bktKUQ?oc=5",
-      "publishedAt": "2026-08-05T09:26:12.000Z",
-      "titleKa": "ტექნოლოგიური სექტორის მკვეთრმა ზრდამ ოთხ დღეში Nasdaq 100-ის 3.5 ტრილიონი დოლარით მატება გამოიწვია",
-      "summaryKa": "ტექნოლოგიური სექტორის მკვეთრი ზრდის შედეგად, Nasdaq 100-ის მაჩვენებელი ოთხ დღეში 3.5 ტრილიონი დოლარით გაიზარდა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "33e7f953dfe7b6de",
-      "title": "Watch RBC's Bell Expresses Caution on Falling Oil Prices",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWDJTcEthMjNraVJSMFk3clVnSGJGcUhlUzNkSU1kbmNRM2dueXhReFRhaWZoM3VELU9NSHFJMmd6LUJ3WXF5eDNGUWpwaVR0WE9MNmlVZFBrYUp0Q1R3aWduVk4wbFlXVWVieVdQTi1ZUEc0REJ2cXB2d0diQnF6VHNPcWk2ZkxIODlsSGNfM2YwS0FTMW5PS3BHUzg0Q2FKWFhTbzJ0elU?oc=5",
-      "publishedAt": "2026-08-05T09:14:54.000Z",
-      "titleKa": "უყურეთ: RBC-ის ბელი სიფრთხილეს გამოხატავს ნავთობის ფასების ვარდნასთან დაკავშირებით",
-      "summaryKa": "RBC-ის წარმომადგენელი ბელი სიფრთხილეს გამოხატავს ნავთობის ფასების კლებასთან დაკავშირებით.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "f65eba33809b2aef",
-      "title": "Crypto Weekly: Coinbase feels crypto squeeze, South Africa's new rules",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNFhKTzFocUhTZVFjMF9vWjdac05BVERWSEIxcXUtZ1dvNkNWeG9iajI2QVZQM2FwVEtDS21hdGZQZkUxMlA2Y0NTV2xJbWpXYUNPaW0xNFFYTlpTcy0yeVgzeUQ3Rm5nMVZyZ2ZQbHFmMjY1Z1JiTVNwOU1PRUJXRlZOMDIwdGJReHc?oc=5",
-      "publishedAt": "2026-08-05T09:14:23.000Z",
-      "titleKa": "Crypto Weekly: Coinbase გრძნობს კრიპტო ზეწოლას, სამხრეთ აფრიკის ახალი წესები",
-      "summaryKa": "ყოველკვირეულ კრიპტო მიმოხილვაში განხილულია Coinbase-ის წინაშე არსებული ფინანსური წნეხი და სამხრეთ აფრიკის რესპუბლიკის ახალი წესები.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "366b2ae218b4cf8a",
-      "title": "Sandisk Earnings Give Dip Buyers an Opening After Stock’s Plunge",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeC1ONmZ5eXVqU1VxV29HcUl6REhUeTFPNEZZaG5wMXBjd25JaldydnRLaXFQYzFPWUdLa282MGg2UUhZUGxNMWRFcWJIYUNpOXVLazNpRjBGZGoxQVZwSmFaNlRtVWlMQS1xRWx6QWxzQk14R0Z5YUJhQjNJNHUwczI4eG5ZNHNhdlNIcUZxaFpDbU5pQVRTd3VDMXQwNEtHSG16ejRNbG5UcjdyOTVGLXUybldyUQ?oc=5",
-      "publishedAt": "2026-08-05T09:09:24.000Z",
-      "titleKa": "Sandisk-ის შემოსავლებმა აქციების ვარდნის შემდეგ დაბალ ფასად ყიდვის მსურველებს შესაძლებლობა მისცა",
-      "summaryKa": "Sandisk-ის აქციების მკვეთრი ვარდნის შემდეგ, კომპანიის შემოსავლების მაჩვენებლებმა აქციების დაბალ ფასად ყიდვის მსურველებს ახალი შესაძლებლობა გაუხსნა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "c3e087ac2c983c9e",
-      "title": "Hacked Bitcoin Wallet Maker Warns of AI Failure to Detect Bug",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaHJaSGJMVVN5blJBT0hWUFF5OTh3MzdDNzNvLWRHUWtQLWVELUtQeTR1X3hmekU1ekRlUlJYbjZET3djOTl3eEI1b0NSUEdCQnFiMWtRV1NJYWNvbFY0ZUdXVURUYUtxajVOWEFRdTk5OWlKWmdER2xkOWFKNHR3UHlndHc0Z080OHBDRlZadkVtWXNYWHluenlLMUQzbVBHRGxMTFFmZ3ZNR3oySXlNN2x3?oc=5",
-      "publishedAt": "2026-08-05T09:02:48.000Z",
-      "titleKa": "ჰაკერული თავდასხმის მსხვერპლი ბიტკოინის საფულის მწარმოებელი აფრთხილებს, რომ ხელოვნურმა ინტელექტმა ხარვეზი ვერ აღმოაჩინა",
-      "summaryKa": "ჰაკერული თავდასხმის ქვეშ მოქცეული ბიტკოინის საფულის შემქმნელი აფრთხილებს მომხმარებლებს, რომ ხელოვნურმა ინტელექტმა ვერ შეძლო ხარვეზის აღმოჩენა.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "9373c7df4cfc7e88",
-      "title": "Barclays, HSBC Say Warsh Boosts Case for Inflation-Linked Bonds",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWW5uRHFDZ3JqWWVQU1dDQkNvY1kwV0tfWUdrSi03ZFB0Wmk4cjBSSU8tU1ctTEJPSkw2RnV3SDlTQXN2M1RadXlMcWRfT2J6b0hkY0pINDQ4NlJIS3YwbldlNXBJdGY3RTdGUDl0R2EwZFJiQ19XT3NMZ2U4QXdOdFBUN2luUWZTN2lHVUdXR1RKOV9kYVpkcE1HYVpSWkY3WGdmRUNENU1fejBneVNuZ3pnZw?oc=5",
-      "publishedAt": "2026-08-05T09:02:19.000Z",
-      "titleKa": "Barclays და HSBC აცხადებენ, რომ უორში ინფლაციასთან დაკავშირებული ობლიგაციების არგუმენტებს აძლიერებს",
-      "summaryKa": "Barclays-ი და HSBC აცხადებენ, რომ უორშის პოზიცია აძლიერებს ინფლაციაზე მიბმული ობლიგაციების გამოყენების არგუმენტებს.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "fee5a6f68921a445",
-      "title": "Dozens of Idling Iranian Oil Tankers Show US Blockade Is Working",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVjl4ekZiMG9WeWFnU2ZvYm1oVlZoSFRObmFUa3drQjRPZkdyTEx2QmVOZkdVbWk2NWF5NGE4b1BramlBOVAyM09yS1F6UEdycG10ZjZaVm9NUzVIbnBqNFZxRWFtWVVVXzJ4SEJPbFdfVFp2ZExqMFVFQ0poVDJ6emJDZUVCd3NsQTVUaUxZMHI0ay1YSnlnMkNpSzNKazMxODRMUXlGc0V1aHJWNVhuc25hRXFfZw?oc=5",
-      "publishedAt": "2026-08-05T08:20:53.000Z",
-      "titleKa": "ირანის ათობით უმოქმედო ნავთობტანკერი აჩვენებს, რომ აშშ-ის ბლოკადა მუშაობს",
-      "summaryKa": "ირანის ათობით უმოქმედოდ მდგარი ნავთობის ტანკერი მიუთითებს იმაზე, რომ ამერიკის შეერთებული შტატების მიერ დაწესებული ბლოკადა ეფექტიანია.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "c6d314b2ef66a46a",
-      "title": "Taiyo Yuden Raises Earnings Forecast, Capex Plans on AI Demand",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2dhZFIzWEZ2QW1PR1VrWG9iRndzRGdSU010OXBXMWZhUjhLZjlsd0pvMElxaTlKSENDNFRjcWFkbG9FSGJaV18yN0dqa2dkeFBCS25lcnZTdWVIOGl3ci0xTl9ZR3hTNEthaHNwNENETkJpeTRHR1pKbm9wOTV0N25hcTRydWYtMG9JV2dvd2xLTklXd3A3R3M3Z1FwbXZxUHBIbWxacHFpU1JzVkhzTlNR?oc=5",
-      "publishedAt": "2026-08-05T08:17:48.000Z",
-      "titleKa": "Taiyo Yuden-ი AI-ზე მოთხოვნის ფონზე ზრდის შემოსავლების პროგნოზსა და კაპიტალური ხარჯების გეგმებს",
-      "summaryKa": "ხელოვნურ ინტელექტზე (AI) არსებული მოთხოვნის გამო, კომპანია Taiyo Yuden-მა გაზარდა თავისი შემოსავლების პროგნოზი და კაპიტალური დანახარჯების გეგმები.",
-      "category": "ტექნოლოგიები და AI",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "f6d0864133118ee4",
-      "title": "Australian Stocks Rise to Record on Iran Hopes, Economic Bets",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRkx6bFBrTDVJSV9BTzBhUE5pUXJzdkJ4d0tLWmNSQmM3SmdhNDZ5VUh4Rm5CTFJXeWJoV2p3STV2aERmWlI0VFRweFZLb0ZZdkRlNXpsR3VnY3BZNTV2TTBSeG5iTmR2ZHFkQzdBNTlFQ01xd2pmZHMtQlM5dmxzM2JWVExkZW1ZdVY4Ukt2QXZIWHBYSDRPSzFyWGQ0Y2ZiWXZMdDMzN2hxeXRtY2lFWQ?oc=5",
-      "publishedAt": "2026-08-05T07:12:08.000Z",
-      "titleKa": "ავსტრალიური აქციები რეკორდულ ნიშნულამდე გაიზარდა ირანთან დაკავშირებული იმედებისა და ეკონომიკური პროგნოზების ფონზე",
-      "summaryKa": "ირანთან დაკავშირებული იმედებისა და ეკონომიკური მოლოდინების ფონზე, ავსტრალიის საფონდო ბირჟის აქციების ფასებმა რეკორდულ ნიშნულს მიაღწია.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
