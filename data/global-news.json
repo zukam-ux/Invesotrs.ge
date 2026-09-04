@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T23:22:22.900Z",
+  "updatedAt": "2026-09-04T01:26:12.110Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -13,7 +13,10 @@
       "titleKa": "Broadcom-მა 2028 წლის AI-ის შემოსავალს 230 მილიარდ დოლარი მონიშნა",
       "summaryKa": "Broadcom-მა 2028 წლისთვის AI-ის შემოსავალი 230 მილიარდ დოლარად განახადა, რაც 4-ჯერ აღემატება ამ წლის შემოსავალს",
       "category": "ტექნოლოგიები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/hock-tan-just-put-230-billion-number-broadcoms-2028-ai-revenue-4-times-years",
+      "bodyKa": "## შესავალი\nBroadcom-მა 2028 წლის AI-ის შემოსავალს 230 მილიარდ დოლარი მონიშნა, რაც 4-ჯერ აღემატება ამ წლის 58 მილიარდ დოლარიან შემოსავალს. \n\n## ფინანსური შედეგები\nBroadcom-ის ფინანსური შედეგები წინსვლას აჩვენებს. კომპანიის შემოსავალმა 86% გაიზარდა წინა წელთან შედარებით, ხოლო მოგებამ სამჯერ გაიზარდა. ამასთან, კომპანიის AI შემოსავალმა 221% გაიზარდა წინა წელთან შედარებით.\n\n## პერსპექტივა\nBroadcom-ის პერსპექტივა კარგია. კომპანიის შემოსავალი 2028 წელს 230 მილიარდ დოლარამდე გაიზრდება, რაც 4-ჯერ აღემატება ამ წლის 58 მილიარდ დოლარიან შემოსავალს. \n\n## დასკვნა\nBroadcom-ის ფინანსური შედეგები და პერსპექტივა კარგია. კომპანიის შემოსავალი და მოგება გაიზრდება.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "2794f37d0603dd69",
@@ -37,7 +40,10 @@
       "titleKa": "ტოპ 3 ვერცხლის აქცია 10 მილიარდ დოლარზე მეტი საბაზრო კაპიტალიზაციით",
       "summaryKa": "სამი ვერცხლის აქცია 10 მილიარდ დოლარზე მეტი საბაზრო კაპიტალიზაციით გამოირჩევა",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/top-3-silver-stocks-market-224318159.html",
+      "bodyKa": "## შესავალი\nგლობალურ სერვისების სექტორი იზრდება, რაც გამოწვეულია ტექნოლოგიური განვითარების ზრდით, მათ შორის ალტერნატიული ენერგიის, ელექტრომობილობისა და სხვა სექტორების განვითარებით. ამ ფონზე, ინვესტორები ინტერესებულნი არიან ვერცხლის აქციებში ინვესტირებაში.\n\n## ტოპ 3 ვერცხლის აქცია\nსტატიაში განხილულია სამი წამყვანი ვერცხლის აქცია, რომელთა საბაზრო კაპიტალიზაცია 10 მილიარდ დოლარს აღემატება. ეს აქციებია Hecla Mining, Discovery Mining და First Majestic Silver.\n\n## კომპანიების შესახებ\nHecla Mining - ერთ-ერთი უდიდესი ვერცხლის მწარმოებელი კომპანია, რომელსაც 14 მილიარდ დოლარის საბაზრო კაპიტალიზაცია გააჩნია. Discovery Mining - კანადური კომპანია, რომელიც 10.2 მილიარდ კანადურ დოლარის საბაზრო კაპიტალიზაციით გამოირჩევა. First Majestic Silver - ვანკუვერში დაფუძნებული კომპანია, რომელსაც 14.5 მილიარდ კანადურ დოლარის საბაზრო კაპიტალიზაცია აქვს.\n\n## დასკვნა\nვერცხლის აქციებში ინვესტირება შეიძლება იყოს საინტერესო ინვესტორებისთვის, რომლებიც ეძებენ დივერსიფიკაციის შესაძლებლობებს სხვადასხვა სექტორებში. ინვესტორებმა უნდა გაითვალისწინონ რისკები და შესაძლო შედეგები, რომლებიც შეიძლება გამოვლინდეს ამ ინვესტიციების შედეგად.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "5eaee42b9a3916c8",
@@ -6974,61 +6980,6 @@
       "titleKa": "აზიური აქციები იზრდება ტექნოლოგიურ სექტორში განწყობის ცვლილების ფონზე, ნავთობის ფასი კი მცირდება",
       "summaryKa": "ტექნოლოგიურ სექტორში განწყობის ცვლილების გამო აზიური აქციების ფასები მკვეთრად გაიზარდა, ხოლო ნავთობის ფასმა კლება დაიწყო.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "89490c220dd3443d",
-      "title": "Ex-DOJ prosecutor Amanda Wick says crypto is Swift in reverse",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXM5WTVWS0tTSEdRbVZ4ZjdQZlBHbHZJcXQ0WGlhVU1jbWRzNVFkczExQkszYk16QU00ZEZMWndWMjlxZWp6bEVNRi1EdmFLM24tVnJqOEM0dlctUVNTdkhWVmE3UDZpM1pxX2dDZDlraGJ2eXFnN3RhM0YyeGRlWFdZZVlIZDNxTktrMGxrMEstd2pBTmZJbVFn?oc=5",
-      "publishedAt": "2026-08-05T00:57:00.000Z",
-      "titleKa": "იუსტიციის დეპარტამენტის ყოფილი პროკურორი ამანდა ვიკი აცხადებს, რომ კრიპტო არის Swift უკუღმა",
-      "summaryKa": "აშშ-ის იუსტიციის დეპარტამენტის ყოფილმა პროკურორმა ამანდა ვიკმა განაცხადა, რომ კრიპტოვალუტა არის Swift-ის სისტემა უკუღმა.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "208ae3375d7218e7",
-      "title": "AMD and SpaceX Earnings: Good or Bad?",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcGJyaHpJZll3c2RQZm5qdUtrNW1IczRGT2RkQXgtbld3UDRTYVVmTDFrZFdUNng1cmh0SGpoQkY0bUFjRFItR2w2M1FhSDk0T0ZOZFl1bThmajdkaWZNd0N6bDliWlJoaTRhcVRFV1RydWhjVWR4eEZGSk5QQUgxbnJjdlFaZVVGUW9RXzZXOUhrR2VpaUZMYw?oc=5",
-      "publishedAt": "2026-08-04T23:55:00.000Z",
-      "titleKa": "AMD-ისა და SpaceX-ის შემოსავლები: კარგია თუ ცუდი?",
-      "summaryKa": "სტატია განიხილავს AMD-ისა და SpaceX-ის ფინანსურ შემოსავლებს და სვამს კითხვას, კარგია თუ ცუდი ეს შედეგები.",
-      "category": "ტექნოლოგიები და AI",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "f9d75ac6d2383cdb",
-      "title": "SpaceX beats Wall Street expectations in first earnings release",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkpsa2pFeVJPN0trR05QcVAzM1ZzUDVTWGNTU0VCcjAzdEtzSVBEYjVWYnNFSFFpWkpUZ0l6VXN1ZHFiSHBLTDVEWmN0S3lkZFhRallHYU83Znh0M0RXeDhLaDhRUVlMY1JEWEk3X0l3Nk5qbGh3NDNrSG9DMnNiQ01pR2toTElrMDhJN0dpTE1rN044S0t2TXBKZGNadlZLUUNJLQ?oc=5",
-      "publishedAt": "2026-08-04T23:54:34.000Z",
-      "titleKa": "SpaceX-მა პირველივე ფინანსურ ანგარიშში უოლ სტრიტის მოლოდინებს გადააჭარბა",
-      "summaryKa": "SpaceX-მა თავის პირველ ფინანსურ ანგარიშში გადააჭარბა უოლ სტრიტის მოლოდინებს.",
-      "category": "ტექნოლოგიები და AI",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "8f77aaf6cf8830c3",
-      "title": "SpaceX exceeds revenue estimates in first earnings report since IPO",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLURMU2R0YVJwWnJUS3hmWFpIcnNXVnNLb3VETEVuX0N6dHJUajB0WDJ0YlNLMmZaODM5bjF3WHJ0ZVNydGx1M2poVXNrdkNVNHRwWGM0UnduTWJRdldxcXdjeG9FZEt0S0N4NGgyZG9jOVNKd0RlTVg2S29hNWVWZEN0ejk2WDdGU2RyMkpZdFFyWWljMmptMnZNbU1PYjdfVlMyNnY1eVhjak9DZUFia1ZEa1ZQMVM3bFhoSmxOM1FvakttNkRLcA?oc=5",
-      "publishedAt": "2026-08-04T23:49:37.000Z",
-      "titleKa": "SpaceX-მა IPO-ს შემდეგ პირველ ფინანსურ ანგარიშში შემოსავლების პროგნოზებს გადააჭარბა",
-      "summaryKa": "SpaceX-მა IPO-ს განხორციელების შემდეგ პირველ ფინანსურ ანგარიშში გადააჭარბა შემოსავლების შესახებ არსებულ პროგნოზებს.",
-      "category": "ტექნოლოგიები და AI",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "a9600816d9afa731",
-      "title": "SpaceX Reveals AI Splurge in First Earnings Report Since IPO",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUVvRmtCdjFlZ1oyd0t1aUg4V1NhcC1uZTNZbTNyejBaZElpT3RCVWVKMFBnSURSNmVzbW5sWmhTOXZoWlR4Sm9ZUUtXcG5pRWNjR0Y0VlczOC1TOUxfOS1SVHRfSkQ0cHVWZWhGMUl4OHBNNEMwMVVXZXVBdzVhRGV6bEVKbUx2ZXgzNWdIa2JuUG15UUZOX194UXBiZk9CSWtPdldMNlNMNXZnQTVpRQ?oc=5",
-      "publishedAt": "2026-08-04T23:25:36.000Z",
-      "titleKa": "SpaceX-მა IPO-ს შემდეგ პირველ ფინანსურ ანგარიშში AI-ზე გაწეული დიდი ხარჯები გაამჟღავნა",
-      "summaryKa": "IPO-ს შემდგომ გამოქვეყნებულ თავის პირველ ფინანსურ ანგარიშში კომპანია SpaceX-მა ხელოვნურ ინტელექტზე (AI) გაწეული დიდი ხარჯები გამოავლინა.",
-      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
