@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T01:26:12.110Z",
+  "updatedAt": "2026-09-04T06:38:16.983Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -55,7 +55,10 @@
       "titleKa": "რატომ დაეცა Credo Technology-ის აქციები ამ კვირას",
       "summaryKa": "Credo Technology-ის აქციები ამ კვირას დაეცა",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/why-credo-technology-sank-week",
+      "bodyKa": "## შესავალი\nCredo Technology-ის აქციები ამ კვირას 29.5%-ით დაეცა, რაც გამოიწვია მარჯის შესახებ შიშებმა და უფრო მაღალი ვენჩურული კომპენსაციამ. კომპანიამ გამოაქვეყნა თავისი პირველი ფისკალური კვარტალის შედეგები, რომელიც ანალიტიკოსების მოლოდინებს გადააჭარბა.\n\n## ფინანსური შედეგები\nCredo Technology-მა გამოაქვეყნა თავისი ფინანსური შედეგები, რომელიც აჩვენებს, რომ კომპანიის შემოსავალი 114.7%-ით გაიზარდა და შეადგინა 479 მილიონი დოლარი. ამასთან, კომპანიის მოგება 130%-ით გაიზარდა და შეადგინა 1.20 დოლარი ერთ აქციაზე.\n\n## გავლენა აქციებზე\nCredo Technology-ის აქციების დაცემა გამოიწვია მარჯის შესახებ შიშებმა და უფრო მაღალი ვენჩურული კომპენსაციამ. კომპანიის აქციები ამ კვირას 29.5%-ით დაეცა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "d97bec3b976f4612",
@@ -67,7 +70,10 @@
       "titleKa": "Nvidia იძენს Hugging Face-ს 12.93 მილიარდ დოლარად, რაც გაფართოებს Jensen Huang-ის AI პლატფორმას ჩიპების მიღმა",
       "summaryKa": "Nvidia-მ Hugging Face-ს 12.93 მილიარდ დოლარად შეძენა, რაც გაფართოებს მის საკუთარ AI პლატფორმას ჩიპების წარმოების მიღმა",
       "category": "ტექნოლოგიები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.fool.com/investing/2026/09/03/nvidias-1293-billion-hugging-face-deal-expands-jensen-huangs-ai-platform-beyond-chips/?.tsrc=rss",
+      "bodyKa": "## შესავალი\nNvidia-მ Hugging Face-ს 12.93 მილიარდ დოლარად შეძენა, რაც გაფართოებს მის საკუთარ AI პლატფორმას ჩიპების წარმოების მიღმა. ეს შეთანხმება Nvidia-ს საშუალებას აძლევს გავლენა მოახდინოს AI მოდელების განვითარებასა და გამოყენებაზე.\n\n## რა არის Hugging Face?\nHugging Face არის ღია წყაროს AI განვითარების პლატფორმა, რომელიც 18 მილიონზე მეტ დეველოპერსა და 200,000-ზე მეტ კომპანიას ემსახურება. პლატფორმა საშუალებას აძლევს დეველოპერებს გამოიყენონ არსებული AI მოდელები და მონაცემთა სეტები, რათა შექმნან საკუთარი AI სისტემები.\n\n## შესავალი და გავლენა\nNvidia-ს შესავალი Hugging Face-ში მის საკუთარ AI პლატფორმას გაფართოების საშუალებას აძლევს. ეს შეთანხმება ასევე შესაძლოა გავლენა მოახდინოს Nvidia-ს ჩიპების გაყიდვებზე, რადგან კომპანიას შესაძლოა შეეძლოს დეველოპერები მიიზიდოს ისეთ პროგრამულ უზრუნველყოფაზე, რომელიც კარგად მუშაობს Nvidia-ს აპარატურასთან ერთად.\n\n## რისკები და პერსპექტივები\nშესავალის მიუხედავად, არსებობს რისკი, რომ Nvidia-ს საკუთრება Hugging Face-ში შესაძლოა უარყოფითად იმოქმედოს ღია წყაროს დეველოპერებზე, თუ ისინი დარწმუნდებიან, რომ Nvidia ცდილობს მათ გადაყვანას საკუთარ ეკოსისტემაში. ასევე არსებობს რისკი, რომ შესავალი შეიძლება ანტიმონოპოლიურ შეზღუდვებს განიცდის.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "7c47a407486cb01c",
@@ -6858,127 +6864,6 @@
       "publishedAt": "2026-08-05T07:12:08.000Z",
       "titleKa": "ავსტრალიური აქციები რეკორდულ ნიშნულამდე გაიზარდა ირანთან დაკავშირებული იმედებისა და ეკონომიკური პროგნოზების ფონზე",
       "summaryKa": "ირანთან დაკავშირებული იმედებისა და ეკონომიკური მოლოდინების ფონზე, ავსტრალიის საფონდო ბირჟის აქციების ფასებმა რეკორდულ ნიშნულს მიაღწია.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "029885a7f1e4ff7d",
-      "title": "Saylor’s MicroStrategy Linked to Fresh $66 Million Bitcoin Transfer",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTkpSZFI5Vl9CaHNMOWpVWHB2X1JtS2NNNVN2THpubmxFdHNkelc3VGtpMF8zWW56NzV1cjBZRFJnWWlSeEpBUTBiSXhHN3JHXzFsd3o5MEtRaHpyTXRvc19RMVkyMTY4VzhIbXREY0xHX3JpLVB0WXlwVUl0RTJrODROdUtuUXluRzk1YXVibzJna3NISDNsRkxZRzQzYl8tNjhF?oc=5",
-      "publishedAt": "2026-08-05T05:59:09.000Z",
-      "titleKa": "სეილორის MicroStrategy დაკავშირებულია 66 მილიონი დოლარის ღირებულების ბიტკოინის ახალ ტრანსფერთან",
-      "summaryKa": "სეილორის კომპანია MicroStrategy დაკავშირებულია 66 მილიონი დოლარის ღირებულების ბიტკოინის ახალ გადარიცხვასთან.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "a92928cfaa02c227",
-      "title": "Oil Drops on Signs of Progress Toward Deal to Reopen Hormuz",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0JCdElnUzMxb3FZdmUtenF6cmhWMzJOWENLTG9TY1FudTQxMlBYN0JFbFczNUMxaUxnazEwQ1VteGhlOU1qNHkzaVVfWXBYanlJc0NWNWlhRUZwbWRTYVVTY2NEZlhUdE1qQndZaVZvemRtbFpNdWxzMXhGNzdzd0FNNGlPMVZ4aEJzcGJJWEhHUUtqamtLaHIxZ3FwS2tJazhiX3NlZktobXdXbFhwdGpxTQ?oc=5",
-      "publishedAt": "2026-08-05T05:38:00.000Z",
-      "titleKa": "ნავთობის ფასი ეცემა ჰორმუზის სრუტის გახსნის შეთანხმების მიღწევის პროგრესის ნიშნების ფონზე",
-      "summaryKa": "ნავთობის ფასები მცირდება იმ ნიშნების გამო, რომლებიც ჰორმუზის სრუტის ხელახლა გახსნის შესახებ შეთანხმების მიღწევისკენ მიმართულ პროგრესზე მიუთითებს.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "99455bbdd5141e37",
-      "title": "Arthur Hayes Says Bitcoin’s Going to $1 Million After an AI Credit Bust",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ0stdmlnUlFpQnM1elpFd0Rsb0FqTTRGZFZrZ0lFUEVPVi1CdTRaU1dYY2h1SWRSSTBmNDJuOG1uYW8zNzBZSC0tbW9STXNWWTVhNk0zaHAxUWlDZEFpR3ZJNnJERXJ6ZnhFRjdmVzR2aWlZMHRGeUY5amJYRG9jMnB0WnVyOEpzRUFMczNVVkNGMW9GNnNOdERzTGc?oc=5",
-      "publishedAt": "2026-08-05T05:35:00.000Z",
-      "titleKa": "არტურ ჰეისი აცხადებს, რომ AI საკრედიტო კრახის შემდეგ ბიტკოინის ფასი 1 მილიონ დოლარს მიაღწევს",
-      "summaryKa": "არტურ ჰეისის განცხადებით, ხელოვნური ინტელექტის (AI) საკრედიტო კრახის შემდეგ ბიტკოინის ფასი 1 მილიონ დოლარამდე გაიზრდება.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "5acef2c07257760b",
-      "title": "Philippine Inflation Slows a Third Month, Easing Pressure for Rate Hike",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTlh2ZWY2RzJLRld5UmY4bU9jQzBtUlVUM21Melo1ME1XY1B6M05JZUpZSEoxUFhiRkRtQmVDbUMyU2hsR1kxWWJ0R2d1MHdlYWI1M3NObkVoM0tJMml6VVltSFBxTzBab2ZGVVF5MDlJbzQ4UC00ZS1JbzN4dm9IemxndXFXZE56ak1LXzFlUHF6ZzNlUndUUGZaRkozQ0xoN1k0YmstSjZUY1IwNmloVS1iSGZKLWV2bVhFc2d3?oc=5",
-      "publishedAt": "2026-08-05T05:27:00.000Z",
-      "titleKa": "ფილიპინების ინფლაცია ზედიზედ მესამე თვეა ნელდება, რაც ამცირებს საპროცენტო განაკვეთის გაზრდის წნეხს",
-      "summaryKa": "ფილიპინებში ინფლაციის ტემპი მესამე თვეა ნელდება, რაც საპროცენტო განაკვეთის გაზრდის საჭიროების წნეხს ამცირებს.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "20fb03eeb6bbc18b",
-      "title": "EOG Resources Doubles Q2 Profit as Oil Prices and Production Rise",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMzNtMWxRWHJIMlJ3ckE1MDZHdGk1aXFsZ0thZlBqTUh4TTJjaS1lb1Y1UVNrZ2NrRV83OW05aVBuVXUzemE5RVQ2b3pVOGlNWmk4QlFLNFBNMkttZm5fVENGUFYwYldtNU5WM095dk1UTUliQzRIRkt6VklvVGwxZnpSdFNFd2NQQ3E2U1pQV3VMZw?oc=5",
-      "publishedAt": "2026-08-05T04:45:00.000Z",
-      "titleKa": "EOG Resources-მა მეორე კვარტლის მოგება გააორმაგა ნავთობის ფასებისა და მოპოვების ზრდის ფონზე",
-      "summaryKa": "კომპანია EOG Resources-ის მეორე კვარტლის მოგება გაორმაგდა, რაც ნავთობის ფასებისა და წარმოების ზრდამ გამოიწვია.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "b8178c3ba6951984",
-      "title": "‘Oil in Our Time’ May Be as Good as This Gets",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUtYbE1sLXB1YTN4RDJNUEp6UEY0aXRRMWVGc29mRGF3c1RLNG5YYUp3NmhFSURUc19zcXBBclZscTNyWDYtSkV1ajB3ODZEa2FpNkliUnBwWUdpSGlBdFpkTTZmLWRrem13cXJEWDBMS3BTbHVIelhOM01YTHprdzNPTzdtNks0b2x2cERFQmhveUlkX0RNdDFGN1RDNUY0eUprclQzWndjUGV1cEs5SA?oc=5",
-      "publishedAt": "2026-08-05T04:22:00.000Z",
-      "titleKa": "„'ნავთობი ჩვენს დროში' შეიძლება იმაზე უკეთესი აღარ გახდეს, რაც ახლა არის“",
-      "summaryKa": "სათაური გამოთქვამს მოსაზრებას, რომ „ნავთობი ჩვენს დროში“ შეიძლება საუკეთესო მდგომარეობაში იყოს და იმაზე უკეთესი აღარ გახდეს, რაც ახლა არის.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "1499f4e1c8fb4a2a",
-      "title": "Thai Inflation Eases to 1.95% in July, Slowing for Third Month",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWlPLWNUXzBkNDR4ZE00NFFFSWx0Qmx5VldNY0xMcHNrWlFxdFJjWkxfZTFSckdDU1FIa0stRzdHeU9XY2lRbEtOMENUQTRnX2oyWEpFZkNKNDVBTGk1cXVBeHlORl9NTlRlU2tKWTRIM2lEUmV2TnNaU2hhdnJBUDVSS0tlZjYwOEZFTHNrbmFPenFNZ2ExdGg1b2tHV1hGckV4WjJGY3g2azEyT2hiQg?oc=5",
-      "publishedAt": "2026-08-05T03:21:00.000Z",
-      "titleKa": "ტაილანდის ინფლაცია ივლისში 1.95%-მდე შემცირდა და ზედიზედ მესამე თვეა შენელდა",
-      "summaryKa": "ტაილანდში ინფლაციის მაჩვენებელი ივლისში 1.95%-მდე შემცირდა, რაც ზედიზედ მესამე თვეა შენელების ტენდენციას აჩვენებს.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "c68876044fd936c1",
-      "title": "Hyperscaler Rally: 4 Stocks to Buy Before It's Too Late",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFY4cWRMNFFWUDRkNVFWMWJlLTZZdG03NndMcE1JOGFTMUg3R2YwTlk0MHJOMkJKLWZRdHRKbXdHaTBZblJfT3U1bFZjYmk5UXVicG9faVU3aWpyMUIxV3R3UUVhV1VsTF82WFZHQlFDYU9wSHg2bWVzcjJ6UEszUkpWdVVwOG1KNHFIZmsxOHBhd2dIRWZUODdIQQ?oc=5",
-      "publishedAt": "2026-08-05T03:20:00.000Z",
-      "titleKa": "ჰიპერსკეილერების რალი: 4 აქცია, რომელიც უნდა შეიძინოთ, სანამ გვიან არ არის",
-      "summaryKa": "სათაური მიუთითებს ჰიპერსკეილერების აქციების ზრდაზე და წარმოადგენს ოთხ აქციას, რომელთა შეძენასაც გვირჩევს, სანამ გვიან არ იქნება.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "1ad7cb63a791c31d",
-      "title": "AMD Earnings 'Were Good,' Says Analyst Even as Stock Sinks 9% After Hours: Wall Street Wanted a 'Blowout' Forecast",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXRsQklURDZWOGc4ZHhfQzZmMDFrY3VEYUFKY0J1bTAtbXZPUm5IWGV4ZVBZcm9jQ2YwdlNFYndSaDMxNU1iRGIxaVNldHphWmMzT2xLOEprcWJtWG1VYmQtV3IwWlZ2TTB6ZTlFYnNONTVIa0x6elY1bF9pR19MNjNwbWJIZjVMSjNTOFoxdTY4WndrMkYw?oc=5",
-      "publishedAt": "2026-08-05T01:57:00.000Z",
-      "titleKa": "AMD-ის შემოსავლები „კარგი იყო“, აცხადებს ანალიტიკოსი იმ ფონზეც კი, როდესაც აქციები მუშაობის შემდგომ საათებში 9%-ით დაეცა: უოლ სტრიტს „განსაცვიფრებელი“ პროგნოზი სურდა",
-      "summaryKa": "ანალიტიკოსის თქმით, AMD-ის შემოსავლები „კარგი იყო“, თუმცა აქციები მუშაობის შემდგომ საათებში 9%-ით დაეცა, ხოლო უოლ სტრიტს „განსაცვიფრებელი“ პროგნოზი სურდა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "6ce5174b33e6c425",
-      "title": "Institutions Now Drive 72% of Crypto’s OTC Flow, Wintermute Data Shows",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSGJCakJhMkVheUVWOTg0XzZtZ1lMVkxDTTRGZjlhaTBfMENIeU9nZFlqM0VEYmNqakFKdWZONll3endiREM1OEw2Z3ZKVzNUbVRVNEc2OWUxWUx1ZTdBMmxxWXExdVU5SlF3SURvNnNtZDF5T2JobGo4cGtsQUhySnNBZ0h6Slo1VTNTbFByQW01ZWVQSGdQOU9nV2Zhdw?oc=5",
-      "publishedAt": "2026-08-05T01:50:00.000Z",
-      "titleKa": "Wintermute-ის მონაცემებით, კრიპტოვალუტის OTC ნაკადების 72%-ს ახლა ინსტიტუციონალები მართავენ",
-      "summaryKa": "Wintermute-ის მონაცემები აჩვენებს, რომ კრიპტოვალუტის OTC ნაკადების 72%-ს ამჟამად ინსტიტუციონალური მოთამაშეები მართავენ.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "947b085d114366eb",
-      "title": "Asia shares surge on tech mood swing, oil retreats",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN0dxRmkzQTlVQk1qZzRUQXE4SzdKcWUzcGp6Y3JEQXJTWTZtMEtFVU8zcFF6YktJQTQ3OU9jOFVqb1loVC12NHA1VllNN1RDRDYwTlhyOVdJZzFxRWdqLW1mdF9xYWs5NW9IMWdqX2hCWkNYY0kxb2p1dlBramc4UW8zcm82Vkd0WnNEZEJ4dEUyRHFZNFBfNmJfMnhlYi1T?oc=5",
-      "publishedAt": "2026-08-05T01:41:00.000Z",
-      "titleKa": "აზიური აქციები იზრდება ტექნოლოგიურ სექტორში განწყობის ცვლილების ფონზე, ნავთობის ფასი კი მცირდება",
-      "summaryKa": "ტექნოლოგიურ სექტორში განწყობის ცვლილების გამო აზიური აქციების ფასები მკვეთრად გაიზარდა, ხოლო ნავთობის ფასმა კლება დაიწყო.",
       "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
