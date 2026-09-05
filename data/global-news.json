@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T05:48:15.704Z",
+  "updatedAt": "2026-09-05T09:30:01.280Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -127,7 +127,10 @@
       "titleKa": "3 Russell 2000-ის აქცია, რომელთაგან თავს ანებებით",
       "summaryKa": "Russell 2000-ის 3 აქცია არის, რომელთაგან ინვესტორებმა თავი უნდა შეიკავონ.",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/3-russell-2000-stocks-steer-222210524.html",
+      "bodyKa": "## შესავალი\nRussell 2000-ის აქციები შეიძლება იყოს ინვესტორებისთვის საინტერესო ვარიანტი, მაგრამ მათ გააჩნიათ სტაბილურობის და რესურსების ნაკლებობა, რაც ხელს უშლის მათ ბიზნესის განვითარებაში.\n\n## რისკიანი აქციები\nლინდბლად ექსპედიშენი (NASDAQ:LIND), კნოულზი (NYSE:KN) და ბანკფირსტ კორპორაცია (NASDAQ:BANF) არიან ის სამი კომპანია, რომელთა აქციებიც ინვესტორებმა თავი უნდა შეიკავონ. ლინდბლად ექსპედიშენის შემოსავალი 18.5%-იანი ანუალური ზრდა აჩვენეს ბოლო ორ წელიწადში, რაც ნაკლებია მის მსგავს კომპანიებთან შედარებით. კნოულზის გაყიდვები 5.7%-ით შემცირდა ბოლო 5 წელიწადში. ბანკფირსტ კორპორაციის შემოსავალი 8.9%-იანი ანუალური ზრდა აჩვენეს ბოლო 5 წელიწადში.\n\n## ფინანსური შედეგები\nლინდბლად ექსპედიშენის საოპერაციო მარჯა 6.9%-ია. კნოულზის შემოსავალი $635 მილიონია. ბანკფირსტ კორპორაციის ეფექტურობის შეფარდება 1.4 პროცენტით გაიზრდება.\n\n## დასკვნა\nინვესტორებმა უნდა იზრუნონ იმისთვის, რომ არ ინვესტირებენ ამ კომპანიებში.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "855d1c5b644792e9",
@@ -5764,126 +5767,6 @@
       "titleKa": "ღირებულების ახალი საზომების ძიება AI-ის ეპოქაში",
       "summaryKa": "ხელოვნური ინტელექტის (AI) ეპოქაში მიმდინარეობს ღირებულების ახალი საზომების ძიება.",
       "category": "ტექნოლოგიები და AI",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "2cb46834e12d945e",
-      "title": "Strategy's Michael Saylor Is Making a Strong Case Against a Proposed New Bitcoin Upgrade. Here's What That Means for Bitcoin.",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUlHT1EyclBKN2R4TEJlRnVNTEYwNUEwNzVzVDJ0U21MT0djVDA0cUdHWFNhSDFwcDQ4eTU3alhUZWxwUEJ5cHd1OTJHNHliY3A3VTdVX3dULTA5em83Q29ERkNsV3BRM3BvYjl6VEZ1SzZTbXJwT1ZBYTNjMTQwVG1xT1Yyb2s0VERncWdqVmpELWxVMjh3MEJPTTNEX1RaMGN2Wkxn?oc=5",
-      "publishedAt": "2026-08-06T09:15:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUlHT1EyclBKN2R4TEJlRnVNTEYwNUEwNzVzVDJ0U21MT0djVDA0cUdHWFNhSDFwcDQ4eTU3alhUZWxwUEJ5cHd1OTJHNHliY3A3VTdVX3dULTA5em83Q29ERkNsV3BRM3BvYjl6VEZ1SzZTbXJwT1ZBYTNjMTQwVG1xT1Yyb2s0VERncWdqVmpELWxVMjh3MEJPTTNEX1RaMGN2Wkxn?oc=5\" target=\"_blank\">Strategy's Michael Saylor Is Making a Strong Case Against a Proposed New Bitcoin Upgrade. Here's What That Means for Bitcoin.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "Strategy-ის მაიკლ სეილორი აქტიურად ეწინააღმდეგება ბიტკოინის შემოთავაზებულ ახალ განახლებას: აი, რას ნიშნავს ეს ბიტკოინისთვის",
-      "summaryKa": "კომპანია Strategy-ის წარმომადგენელი მაიკლ სეილორი მტკიცე არგუმენტებს წარადგენს ბიტკოინის შემოთავაზებული ახალი განახლების წინააღმდეგ და განმარტავს ამ გადაწყვეტილების გავლენას კრიპტოვალუტაზე.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "1b19eb82468df853",
-      "title": "Asian Tech Stocks Are Most Volatile Since Global Financial Crisis",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTcxcHFsb3R4UURzYmtmNXhUdW9YSkc5cjhNREFndnpibFNHZjFFZ3hqUnl4LWUyUHhneHpqOGc0bzUwV1pOeHU2RklHcVJjOHo5QkFnZXFaSmxfYUNpbld2ZDFVUVZDYmN5YUppUmFyajZKdUVIa0I5Q3l4OWZoMXB4YXRVYUNyanBvaVdsZ1FWX3JPMUlibk1yMVFaUXhqVE4tNm9wbWdpeXQwY2dzcUt2Z0M0QkVwOWx3?oc=5",
-      "publishedAt": "2026-08-06T09:10:05.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTcxcHFsb3R4UURzYmtmNXhUdW9YSkc5cjhNREFndnpibFNHZjFFZ3hqUnl4LWUyUHhneHpqOGc0bzUwV1pOeHU2RklHcVJjOHo5QkFnZXFaSmxfYUNpbld2ZDFVUVZDYmN5YUppUmFyajZKdUVIa0I5Q3l4OWZoMXB4YXRVYUNyanBvaVdsZ1FWX3JPMUlibk1yMVFaUXhqVE4tNm9wbWdpeXQwY2dzcUt2Z0M0QkVwOWx3?oc=5\" target=\"_blank\">Asian Tech Stocks Are Most Volatile Since Global Financial Crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "აზიური ტექნოლოგიური აქციები გლობალური ფინანსური კრიზისის შემდეგ ყველაზე მერყევია",
-      "summaryKa": "აზიის ტექნოლოგიური სექტორის კომპანიების აქციები გლობალური ფინანსური კრიზისის პერიოდის შემდეგ მერყეობის ყველაზე მაღალ დონეს აჩვენებს.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "d92f23c33f7dde56",
-      "title": "Sheinbaum’s Approval Jumps as Mexico Inflation Cools to Five-Year Low",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2lIaDJ0VktMU1BHaHNaUFZsSlJVb3hFS3poLXNwdVdkUHVvT080V2V1Vmp3SUhIV2JMTVJyREZEZ20tNFoyZkFyTDF0dUNWTlRfMmlvZEFUOW0wTWxCaklnTWFETnk1VW8wV3d6UjZhMUgwZi1VT1o4LWRrUW1ITmRCWnJjbGE0TUdjbUJ1RC1NRi1BRnN5aFBneXhocXhqb1pheHVSeWdVN0h2Y2dwUUtvOA?oc=5",
-      "publishedAt": "2026-08-06T09:00:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2lIaDJ0VktMU1BHaHNaUFZsSlJVb3hFS3poLXNwdVdkUHVvT080V2V1Vmp3SUhIV2JMTVJyREZEZ20tNFoyZkFyTDF0dUNWTlRfMmlvZEFUOW0wTWxCaklnTWFETnk1VW8wV3d6UjZhMUgwZi1VT1o4LWRrUW1ITmRCWnJjbGE0TUdjbUJ1RC1NRi1BRnN5aFBneXhocXhqb1pheHVSeWdVN0h2Y2dwUUtvOA?oc=5\" target=\"_blank\">Sheinbaum’s Approval Jumps as Mexico Inflation Cools to Five-Year Low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "შეინბაუმის რეიტინგი მკვეთრად იზრდება, რადგან მექსიკაში ინფლაცია ხუთი წლის მინიმუმამდე შემცირდა",
-      "summaryKa": "მექსიკაში ინფლაციის ხუთწლიან მინიმუმამდე კლებასთან ერთად, შეინბაუმის მხარდაჭერისა და მოწონების მაჩვენებელი მკვეთრად გაიზარდა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "b52a149af7f7cd69",
-      "title": "Banxico to Hold Rates on Inflation and Growth Risks: Day Guide",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHR3RGJhdEVIVmhabnF3Mktfby1fTG1fVm9iV0JhbUFteEoxeDh0MF9MQmkxb3hKNmJ4VEJBbUtfUjJ0MEp1aTlkc0dJWUhqU2tsZ2lUVERwRV9iTGVVbWFnM1d4ckQ2Q21tSU5ORDFnSkxHWnJXUGFuaFdzUDY0MEs5MzRhbEN1aWdDcURZN1NhLTVucjJ0QXQ4UVZGaUFLcy1SenE2Z1RQejludmVkeFZn?oc=5",
-      "publishedAt": "2026-08-06T09:00:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHR3RGJhdEVIVmhabnF3Mktfby1fTG1fVm9iV0JhbUFteEoxeDh0MF9MQmkxb3hKNmJ4VEJBbUtfUjJ0MEp1aTlkc0dJWUhqU2tsZ2lUVERwRV9iTGVVbWFnM1d4ckQ2Q21tSU5ORDFnSkxHWnJXUGFuaFdzUDY0MEs5MzRhbEN1aWdDcURZN1NhLTVucjJ0QXQ4UVZGaUFLcy1SenE2Z1RQejludmVkeFZn?oc=5\" target=\"_blank\">Banxico to Hold Rates on Inflation and Growth Risks: Day Guide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "Banxico ინფლაციისა და ეკონომიკური ზრდის რისკების გამო საპროცენტო განაკვეთებს უცვლელად დატოვებს: დღის გზამკვლევი",
-      "summaryKa": "მექსიკის ცენტრალური ბანკი Banxico გეგმავს შეინარჩუნოს საპროცენტო განაკვეთები არსებულ დონეზე ინფლაციისა და ეკონომიკური ზრდის რისკებიდან გამომდინარე.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "3fdbb433af97aa39",
-      "title": "Gold Is Waking Up to the Warsh Fed",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1FsSTF3c2k3UzBNVG1lM180TkFWZmdzSUVTZnNpOUhkY3l4LWl6UFNKcGJoMXpGUHJBZE1oMFM3V19IMzRZRWZuSVlGejB6TERFel9LQTZXT2JmM3BHNWczUlZFd1Bhc0h3cTJKTGp2NmVxakc2bkUzOEFYV25CTUIyUUJVd0hCbm5WVURmSUk1bnVoN0E?oc=5",
-      "publishedAt": "2026-08-06T08:53:33.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1FsSTF3c2k3UzBNVG1lM180TkFWZmdzSUVTZnNpOUhkY3l4LWl6UFNKcGJoMXpGUHJBZE1oMFM3V19IMzRZRWZuSVlGejB6TERFel9LQTZXT2JmM3BHNWczUlZFd1Bhc0h3cTJKTGp2NmVxakc2bkUzOEFYV25CTUIyUUJVd0hCbm5WVURmSUk1bnVoN0E?oc=5\" target=\"_blank\">Gold Is Waking Up to the Warsh Fed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ოქრო იღვიძებს „Warsh Fed“-ის ფონზე",
-      "summaryKa": "ოქრო იწყებს გააქტიურებას „Warsh Fed“-ის ფონზე.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "c8b0be996039e017",
-      "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPalBZaVhYZzF6cHlBTkI0ZEwyT012aU5LdUx5ZU1QRWRtTWsxam41QkJEWkZtNG5QYW1LRU1URzZpX25RZ0FrQkM4bjdfZnFxREFRWk9BLWZaSEpxT3FGVU9RV2RPZzlmQ1BPR2Q1QllNeVNsMF9kOVhnOHBIX2ZXcG9ZU3VhV3dXck1ZVGFyeGtpdDBL?oc=5",
-      "publishedAt": "2026-08-06T08:53:12.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPalBZaVhYZzF6cHlBTkI0ZEwyT012aU5LdUx5ZU1QRWRtTWsxam41QkJEWkZtNG5QYW1LRU1URzZpX25RZ0FrQkM4bjdfZnFxREFRWk9BLWZaSEpxT3FGVU9RV2RPZzlmQ1BPR2Q1QllNeVNsMF9kOVhnOHBIX2ZXcG9ZU3VhV3dXck1ZVGFyeGtpdDBL?oc=5\" target=\"_blank\">Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "აზიური აქციები კლებისთვის ემზადება, რადგან ხელოვნური ინტელექტის (AI) რალი ნელდება: ბაზრების მიმოხილვა",
-      "summaryKa": "ხელოვნური ინტელექტის (AI) აქციების ზრდის ტემპის შენელების ფონზე, აზიური აქციები შემცირებისთვის ემზადება.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "f4de5b836be1b7e5",
-      "title": "US Stock Market Today: S&P 500 Futures Edge Higher As Inflation Worries Ease",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTzVtQ1hET0pTb0RrcndEZEl6Nl9TdklzaFFYbXdlZ3p2SDk4MXdaaGVNQ0lvdUlLZ3d1S0pQQlZ0VXVIX0ZkOVVEMGNKbmExRXM1Sm5ELVpFamZNZEhkM0lURnpKVWJFNzUwa1FQLWRRVHlmMVVBdXowaU1oUE5ES0l3TFR2ZHM0NU5aZU5ZU1p4QQ?oc=5",
-      "publishedAt": "2026-08-06T08:10:48.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTzVtQ1hET0pTb0RrcndEZEl6Nl9TdklzaFFYbXdlZ3p2SDk4MXdaaGVNQ0lvdUlLZ3d1S0pQQlZ0VXVIX0ZkOVVEMGNKbmExRXM1Sm5ELVpFamZNZEhkM0lURnpKVWJFNzUwa1FQLWRRVHlmMVVBdXowaU1oUE5ES0l3TFR2ZHM0NU5aZU5ZU1p4QQ?oc=5\" target=\"_blank\">US Stock Market Today: S&P 500 Futures Edge Higher As Inflation Worries Ease</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "აშშ-ის საფონდო ბაზარი დღეს: S&P 500-ის ფიუჩერსები ოდნავ იზრდება ინფლაციური შეშფოთების შესუსტების ფონზე",
-      "summaryKa": "აშშ-ის საფონდო ბაზარზე S&P 500-ის ფიუჩერსები მცირედით იზრდება, რაც გამოწვეულია ინფლაციასთან დაკავშირებული შიშების შემცირებით.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "12af95ce0a40afc6",
-      "title": "Watch It Makes Sense for Gold to Trade Higher: 3-Minutes MLIV",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORUI0OG40TG1mSlVWMXdhT0NiMkJXR0JtTlBfOUlGWEFZcUN5Q2w1ZGtaSm5lM0hTeUFDT3QzV1JaZ3d2SDE1V1lieUd1b09uUjExMjJiLWtzSEdQanhuUEh1VW1SUVdxM2xjZ2d5eTk4Q1l6Y3hiOTRScjl1SVI2TzFLTjRUUFdoNDNRMlNLdGdnOGRGdWFiNHg0a3pnSFlQeDF2QjllWkJlVXFZQlE?oc=5",
-      "publishedAt": "2026-08-06T08:00:56.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORUI0OG40TG1mSlVWMXdhT0NiMkJXR0JtTlBfOUlGWEFZcUN5Q2w1ZGtaSm5lM0hTeUFDT3QzV1JaZ3d2SDE1V1lieUd1b09uUjExMjJiLWtzSEdQanhuUEh1VW1SUVdxM2xjZ2d5eTk4Q1l6Y3hiOTRScjl1SVI2TzFLTjRUUFdoNDNRMlNLdGdnOGRGdWFiNHg0a3pnSFlQeDF2QjllWkJlVXFZQlE?oc=5\" target=\"_blank\">Watch It Makes Sense for Gold to Trade Higher: 3-Minutes MLIV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "უყურეთ: ოქროს უფრო მაღალ ფასად ვაჭრობა ლოგიკურია: 3-წუთიანი MLIV",
-      "summaryKa": "3-წუთიანი MLIV-ის ვიდეოში განხილულია, თუ რატომ არის ოქროს უფრო მაღალ ფასად ვაჭრობა ლოგიკური.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "77297a1c1923fef8",
-      "title": "Galaxy Digital Stock Slides 14% as Crypto Prices Hit Earnings",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEJ0OHQzZVU5aWR6bXF3aVBoNVJyRUpnbHpCVllIbFlMZXNuRmhJOEItUHR6cHlvSTJnR1hMRzJ4emlSdEtTWlZZVFVCcUVyc0NVS1g4ODNzZVVXdGowWmZzSUtFcXRjVF9yU3AxY0N5UDZvWXkzUGp2NXV5dVNoR09NRjY4aFRuS3pfbzQtRE5ORDd1RVBxaGNabw?oc=5",
-      "publishedAt": "2026-08-06T06:40:10.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEJ0OHQzZVU5aWR6bXF3aVBoNVJyRUpnbHpCVllIbFlMZXNuRmhJOEItUHR6cHlvSTJnR1hMRzJ4emlSdEtTWlZZVFVCcUVyc0NVS1g4ODNzZVVXdGowWmZzSUtFcXRjVF9yU3AxY0N5UDZvWXkzUGp2NXV5dVNoR09NRjY4aFRuS3pfbzQtRE5ORDd1RVBxaGNabw?oc=5\" target=\"_blank\">Galaxy Digital Stock Slides 14% as Crypto Prices Hit Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "Galaxy Digital-ის აქციები 14%-ით დაეცა, რადგან კრიპტო ფასებმა კომპანიის შემოსავლებზე უარყოფითი გავლენა იქონია",
-      "summaryKa": "კომპანია Galaxy Digital-ის აქციების ღირებულება 14%-ით შემცირდა მას შემდეგ, რაც კრიპტოვალუტების ფასების კლებამ მის ფინანსურ შემოსავლებზე იმოქმედა.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "9901c4e256c7c8e7",
-      "title": "Gold Holds Gain as Progress on Hormuz Deal Lowers Rate-Hike Odds",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVhlV0tZUld1bXFMUUk5ZTBqZEtnaGdtN0NQZkNWSVdRNFB6ME5XZ253RzNvelFFdEIwY0xENTZOd2tqTWtBT2pVaWNWYWNGLVVkS0wwaE1sdlRDZ3JEMTlYM3JjaURkejNtNjBMUnFiTkhBV3I2cW1hOWFIZjUtMkFWb3ZfcjFGVm8wQjF2Y3ZBcUc1a2xzRDJDYl9iUEhoREhhRURNakh1UXhuRUctajh6MWpUQQ?oc=5",
-      "publishedAt": "2026-08-06T05:57:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVhlV0tZUld1bXFMUUk5ZTBqZEtnaGdtN0NQZkNWSVdRNFB6ME5XZ253RzNvelFFdEIwY0xENTZOd2tqTWtBT2pVaWNWYWNGLVVkS0wwaE1sdlRDZ3JEMTlYM3JjaURkejNtNjBMUnFiTkhBV3I2cW1hOWFIZjUtMkFWb3ZfcjFGVm8wQjF2Y3ZBcUc1a2xzRDJDYl9iUEhoREhhRURNakh1UXhuRUctajh6MWpUQQ?oc=5\" target=\"_blank\">Gold Holds Gain as Progress on Hormuz Deal Lowers Rate-Hike Odds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ოქრო ინარჩუნებს ზრდას, რადგან ჰორმუზის შეთანხმებაში პროგრესი ამცირებს საპროცენტო განაკვეთების გაზრდის ალბათობას",
-      "summaryKa": "ოქრო ინარჩუნებს ფასის ზრდას, ვინაიდან ჰორმუზის შეთანხმების მიმართულებით მიღწეული პროგრესი ამცირებს საპროცენტო განაკვეთების შემდგომი ზრდის ალბათობას.",
-      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
