@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T01:01:47.089Z",
+  "updatedAt": "2026-09-05T05:48:15.704Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -112,7 +112,10 @@
       "titleKa": "უოლ სტრიტის 2 საყვარელი აქცია საინტერესო პოტენციალით და 1 რისკიანი",
       "summaryKa": "უოლ სტრიტის 2 საყვარელ აქციას საინტერესო პოტენციალი გააჩნია, ხოლო 1-ს რისკიანი მიიჩნევა.",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/2-wall-street-favorite-stocks-223810421.html",
+      "bodyKa": "## შესავალი\nუოლ სტრიტის 2 საყვარელ აქციას საინტერესო პოტენციალი გააჩნია, ხოლო 1-ს რისკიანი მიიჩნევა. ამ აქციებს შორის არიან Align Technology (NASDAQ:ALGN), Armstrong (NYSE:AWI) და Gevo (NASDAQ:GEVO).\n\n## აქციების შესახებ\nAlign Technology არის კომპანია, რომელიც აწარმოებს Invisalign საპროთეზის აპარატებს, iTero ინტრაორალურ სკანერებს და სამკურნალო პროგრამებს. მისი აქციის ფასი 159.78 დოლარია, რაც 13.4-ჯერ აჭარბებს მის შემოსავალს. ბოლო ორ წელში კომპანიის შემოსავლის ზრდა 2.5%-ს შეადგენს, ხოლო ბოლო 5 წელში მოგების ზრდა 1.4%-ს შეადგენს.\n\nArmstrong არის კომპანია, რომელიც აწარმოებს ჭერის და კედლის პროდუქციას. მისი აქციის ფასი 170.93 დოლარია, რაც 18.8-ჯერ აჭარბებს მის შემოსავალს. ბოლო ორ წელში კომპანიის შემოსავლის ზრდა 12%-ს შეადგენს, ხოლო მისი ოპერაციული მარჯა 25%-ს შეადგენს.\n\nGevo არის კომპანია, რომელიც აწარმოებს განახლებად ენერგიას. მისი აქციის ფასი 1.67 დოლარია, რაც 8-ჯერ აჭარბებს მის EBITDA-ს.\n\n## რისკები და პერსპექტივები\nაქციების შესახებ არსებული ინფორმაცია არ არის საკმარისი იმის გამო, რომ ინვესტორებმა ზუსტად განსაზღვრონ თუ რომელ აქციებში უნდა ინვესტირებან. ამიტომ, ინვესტორებმა უნდა გაითვალისწინონ რისკები და პერსპექტივები, რომლებიც აქციებთან არის დაკავშირებული. აქციების ფასები შეიძლება იცვალოს ბაზარის პირობების შესაბამისად, ამიტომ ინვესტორებმა უნდა იყვნენ ფინანსურად მომზადებული ასეთ ცვლილებებზე.\n\n## დასკვნა\nუოლ სტრიტის 2 საყვარელ აქციას საინტერესო პოტენციალი გააჩნია, ხოლო 1-ს რისკიანი მიიჩნევა. ინვესტორებმა უნდა გაითვალისწინონ რისკები და პერსპექტივები, რომლებიც აქციებთან არის დაკავშირებული.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "5f3b8ef6dae68b25",
@@ -5881,102 +5884,6 @@
       "titleKa": "ოქრო ინარჩუნებს ზრდას, რადგან ჰორმუზის შეთანხმებაში პროგრესი ამცირებს საპროცენტო განაკვეთების გაზრდის ალბათობას",
       "summaryKa": "ოქრო ინარჩუნებს ფასის ზრდას, ვინაიდან ჰორმუზის შეთანხმების მიმართულებით მიღწეული პროგრესი ამცირებს საპროცენტო განაკვეთების შემდგომი ზრდის ალბათობას.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "3bca8a611def0af9",
-      "title": "Zurich Insurance Earnings Boosted by Global Data Center Demand",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXFMd1gwZGhhckY2Q0NJMndfR09jeVpGYlF5bkIybVlhZll2MUJnSkc4NE9RUjBfeU8zT3MyYzZFOVF6dmZGTUZ5c2pkR3dMMXZOYnIzTGZlcmF4ZUhEZTIzX2xtQ3kzX3d3UWd6TkFvSlhFTXNFcUFIRlZmdDJvLUdwZGtMUmRxa2loaU40SkZxd2JYSFYtWmhJU2tVWG5CM2FmWkRvRHFEdlZIejRodHozcw?oc=5",
-      "publishedAt": "2026-08-06T05:19:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXFMd1gwZGhhckY2Q0NJMndfR09jeVpGYlF5bkIybVlhZll2MUJnSkc4NE9RUjBfeU8zT3MyYzZFOVF6dmZGTUZ5c2pkR3dMMXZOYnIzTGZlcmF4ZUhEZTIzX2xtQ3kzX3d3UWd6TkFvSlhFTXNFcUFIRlZmdDJvLUdwZGtMUmRxa2loaU40SkZxd2JYSFYtWmhJU2tVWG5CM2FmWkRvRHFEdlZIejRodHozcw?oc=5\" target=\"_blank\">Zurich Insurance Earnings Boosted by Global Data Center Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "Zurich Insurance-ის მოგება გლობალურ მონაცემთა ცენტრებზე მოთხოვნამ გაზარდა",
-      "summaryKa": "გლობალურ მონაცემთა ცენტრებზე არსებულმა მოთხოვნამ Zurich Insurance-ის მოგების ზრდა გამოიწვია.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "a847434fe05a9e8c",
-      "title": "Siemens Raises Earnings Outlook on Software, Data Center Gains",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUVCSDUwSXN0M0dUZUc0akJCOTctbVVEWm5PRnRoc2VBY2tCc1Rqc1lJaENTNjdQbjM1Tkd6Z1FVNUxXSmx1VlJ4a0VONFhMUl9oMHVFWnhPMEJsLW5DbGs3MGdZZUctT0pMMlduYzJoWnkwbHpNd1NTcEI3cnpITXZ0ZlhwRXMzVmMwR3RPMEtqOC0zcVpRaVRDR3pXUFZ3OE5DR2dkNm5peEJrYVZIblRtdzhqelFESjRzZGJ6RlhOR2JxZEZxaHNZczBTdw?oc=5",
-      "publishedAt": "2026-08-06T05:00:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUVCSDUwSXN0M0dUZUc0akJCOTctbVVEWm5PRnRoc2VBY2tCc1Rqc1lJaENTNjdQbjM1Tkd6Z1FVNUxXSmx1VlJ4a0VONFhMUl9oMHVFWnhPMEJsLW5DbGs3MGdZZUctT0pMMlduYzJoWnkwbHpNd1NTcEI3cnpITXZ0ZlhwRXMzVmMwR3RPMEtqOC0zcVpRaVRDR3pXUFZ3OE5DR2dkNm5peEJrYVZIblRtdzhqelFESjRzZGJ6RlhOR2JxZEZxaHNZczBTdw?oc=5\" target=\"_blank\">Siemens Raises Earnings Outlook on Software, Data Center Gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "Siemens-ი მოგების პროგნოზს ზრდის პროგრამული უზრუნველყოფისა და მონაცემთა ცენტრებისგან მიღებული სარგებლის ფონზე",
-      "summaryKa": "კომპანია Siemens-მა გაზარდა თავისი მოგების პროგნოზი პროგრამული უზრუნველყოფისა და მონაცემთა ცენტრებიდან მიღებული სარგებლის გამო.",
-      "category": "ტექნოლოგიები და AI",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "3ca5bd973560ce48",
-      "title": "APA Raises U.S. Oil Forecast as Second-Quarter Output Beats Guidance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNzhVdzhCVUJzTzd5RlV4RHRmcFViel9xTHlyN29QZGt4dnJIOUhXZUtCMXJZX242U1IzTkVmVk84ekRtMjgySndIV0FtdDc3MzV3UHBKT3lhYVVmUVdDUnNHTEtFTXByYjhkb0twMktNcUR5aU1FWm95ZXdna2RIYVZMeWJDN1RWWFE?oc=5",
-      "publishedAt": "2026-08-06T04:01:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPNzhVdzhCVUJzTzd5RlV4RHRmcFViel9xTHlyN29QZGt4dnJIOUhXZUtCMXJZX242U1IzTkVmVk84ekRtMjgySndIV0FtdDc3MzV3UHBKT3lhYVVmUVdDUnNHTEtFTXByYjhkb0twMktNcUR5aU1FWm95ZXdna2RIYVZMeWJDN1RWWFE?oc=5\" target=\"_blank\">APA Raises U.S. Oil Forecast as Second-Quarter Output Beats Guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "APA ზრდის აშშ-ის ნავთობის პროგნოზს, რადგან მეორე კვარტლის გამოშვებამ მოლოდინს გადააჭარბა",
-      "summaryKa": "კომპანია APA-მ აშშ-ის ნავთობის მოპოვების პროგნოზი გაზარდა, რადგან მეორე კვარტლის წარმოებამ საორიენტაციო მაჩვენებლებს გადააჭარბა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "546d3401f3cad401",
-      "title": "Shell, BP, Exxon: Big Oil Is Bracing for Lower Prices — and Rightly So",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZW1tVG9rU3k5Z3I1ZWNhN3Q3Q1BOZVBZaWMxRy1aNHg4NmhNZGRXcDBrOUFscTFiM1hwVTRLdmpWLTAzdy16QVdWZnBDS245MGU5V3pzMWN0Z1AyZDR4dzJKSm1iSWZtbjE1OGp0emM1T0JZU0I0ZTJzRzlKdGtERVU2TTVWalRnQUx4bFFELVdZdHdOMnRfV3diM3lFY3V4NUpGZnIwTG8tOUY3NzVoS2hheUF2ZnZGVWpz?oc=5",
-      "publishedAt": "2026-08-06T03:30:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZW1tVG9rU3k5Z3I1ZWNhN3Q3Q1BOZVBZaWMxRy1aNHg4NmhNZGRXcDBrOUFscTFiM1hwVTRLdmpWLTAzdy16QVdWZnBDS245MGU5V3pzMWN0Z1AyZDR4dzJKSm1iSWZtbjE1OGp0emM1T0JZU0I0ZTJzRzlKdGtERVU2TTVWalRnQUx4bFFELVdZdHdOMnRfV3diM3lFY3V4NUpGZnIwTG8tOUY3NzVoS2hheUF2ZnZGVWpz?oc=5\" target=\"_blank\">Shell, BP, Exxon: Big Oil Is Bracing for Lower Prices — and Rightly So</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "Shell, BP, Exxon: მსხვილი ნავთობკომპანიები ფასების კლებისთვის ემზადებიან — და ეს მართებულიცაა",
-      "summaryKa": "მსხვილი ნავთობკომპანიები, როგორებიცაა Shell, BP და Exxon, ფასების მოსალოდნელი კლებისთვის ემზადებიან, რაც მართებულ ნაბიჯადაა მიჩნეული.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "8c2f47dc86ff931b",
-      "title": "Occidental Profit Jumps on Higher Oil Prices and Midstream Gains",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkxGamVIaVMtTHBwLUJkYjRlbFNxY0I3djdFVzhGQ2RhM1FVTldYWW8yamZVQkU0QUNQSXBqY0lkeWdHOTAxM2RZZk9qZzVGRjBkMjBYZzVKQ0pUVTcxY0QzT2V5SlVacklOckNkcVgzVHY2VW1iTlNBU2ZDNngyZi1rUGxWTlhjcHR1aFB2bXNoc0U2QXc?oc=5",
-      "publishedAt": "2026-08-06T03:00:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkxGamVIaVMtTHBwLUJkYjRlbFNxY0I3djdFVzhGQ2RhM1FVTldYWW8yamZVQkU0QUNQSXBqY0lkeWdHOTAxM2RZZk9qZzVGRjBkMjBYZzVKQ0pUVTcxY0QzT2V5SlVacklOckNkcVgzVHY2VW1iTlNBU2ZDNngyZi1rUGxWTlhjcHR1aFB2bXNoc0U2QXc?oc=5\" target=\"_blank\">Occidental Profit Jumps on Higher Oil Prices and Midstream Gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "Occidental-ის მოგება მკვეთრად გაიზარდა ნავთობის მაღალი ფასებისა და midstream-დან მიღებული სარგებლის ფონზე",
-      "summaryKa": "კომპანია Occidental-ის მოგება გაიზარდა ნავთობის მაღალი ფასებისა და midstream სეგმენტიდან მიღებული სარგებლის შედეგად.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "a39410a9ee421180",
-      "title": "Fed’s Daly Supported Rate Decision, Warns of Inflation Risks",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEFuRnJOSGpOZ3AwdUMzS21yU0tzRFlYUWxiaXUyR2p2MS01blI4cWNMaWtmZkRFOGRTSl9GVTFYUElRR1E2UWYzamk4MmRXUkhwQXdHejFLR0doSVZjbTZLYUZoWkVhWlUwekh0eGpQWkZGY244bFdPMzdPMUxDS1MxT1B2RVJUSzlaMEQxanlSa2puZDdac0Ntd3J0aXIwanJKbnBESmU1Y041eHhn?oc=5",
-      "publishedAt": "2026-08-06T02:04:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEFuRnJOSGpOZ3AwdUMzS21yU0tzRFlYUWxiaXUyR2p2MS01blI4cWNMaWtmZkRFOGRTSl9GVTFYUElRR1E2UWYzamk4MmRXUkhwQXdHejFLR0doSVZjbTZLYUZoWkVhWlUwekh0eGpQWkZGY244bFdPMzdPMUxDS1MxT1B2RVJUSzlaMEQxanlSa2puZDdac0Ntd3J0aXIwanJKbnBESmU1Y041eHhn?oc=5\" target=\"_blank\">Fed’s Daly Supported Rate Decision, Warns of Inflation Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ფედ-ის დეილიმ მხარი დაუჭირა საპროცენტო განაკვეთის შესახებ გადაწყვეტილებას და ინფლაციის რისკებზე გააკეთა გაფრთხილება",
-      "summaryKa": "ფედერალური სარეზერვო სისტემის წარმომადგენელმა დეილიმ მხარი დაუჭირა საპროცენტო განაკვეთთან დაკავშირებულ გადაწყვეტილებას და ამავდროულად ინფლაციის რისკების შესახებ გააფრთხილა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "9db0b89558edc809",
-      "title": "CRM, NOW, INTU, ADBE: Software Stocks Slide After Figma Flags Surging AI Costs",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdE44RmdFbDkzYXZ2OTdlZzlUZEs1dmZIQTl1SWpFQzNVd1g3YXlNVTNYaG40SnlqZWZsSjdKalZVTDI5OV93enZZT3E0cURTUWZWNFZWdEg4emMyTndJX25FaGN0dVJPMm05UmRvUEFUYko2YjdVaXVVUjg1S2dwanIyb2w3UUwta0RrSEJEVlE5UnRITHc?oc=5",
-      "publishedAt": "2026-08-06T02:04:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdE44RmdFbDkzYXZ2OTdlZzlUZEs1dmZIQTl1SWpFQzNVd1g3YXlNVTNYaG40SnlqZWZsSjdKalZVTDI5OV93enZZT3E0cURTUWZWNFZWdEg4emMyTndJX25FaGN0dVJPMm05UmRvUEFUYko2YjdVaXVVUjg1S2dwanIyb2w3UUwta0RrSEJEVlE5UnRITHc?oc=5\" target=\"_blank\">CRM, NOW, INTU, ADBE: Software Stocks Slide After Figma Flags Surging AI Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "CRM, NOW, INTU, ADBE: პროგრამული უზრუნველყოფის აქციები ეცემა მას შემდეგ, რაც Figma-მ მზარდ AI ხარჯებზე მიანიშნა",
-      "summaryKa": "ისეთი კომპანიების აქციები, როგორებიცაა CRM, NOW, INTU და ADBE, შემცირდა მას შემდეგ, რაც Figma-მ ხელოვნური ინტელექტის (AI) მზარდი ხარჯები აღნიშნა.",
-      "category": "ტექნოლოგიები და AI",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "98997005ff7924d3",
-      "title": "China’s Cheap AI Is Shifting Investors’ Focus to Internet Stocks",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTZ0NG53RkwyOU9zUHFFS0k4c3o0eElRa1MyWjhpMElMeUJQWTdmRWJuNEloZzJMdElXTElYR3lHSV9US2J3QVhvWHNTRHNBM1QxcmRlX2tvdTVLbnBtTkZnbDd5b0hnNHMyalJtbWFLRHlNYXVBOWxvMk4tdmFuTk9FS3E2VkdSbGpmb1BDaTNDdjE5QVZOTmJhcXQybXRxdC1Xa0tnakVIX0lhRXVhYVBLeWM?oc=5",
-      "publishedAt": "2026-08-06T01:28:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTZ0NG53RkwyOU9zUHFFS0k4c3o0eElRa1MyWjhpMElMeUJQWTdmRWJuNEloZzJMdElXTElYR3lHSV9US2J3QVhvWHNTRHNBM1QxcmRlX2tvdTVLbnBtTkZnbDd5b0hnNHMyalJtbWFLRHlNYXVBOWxvMk4tdmFuTk9FS3E2VkdSbGpmb1BDaTNDdjE5QVZOTmJhcXQybXRxdC1Xa0tnakVIX0lhRXVhYVBLeWM?oc=5\" target=\"_blank\">China’s Cheap AI Is Shifting Investors’ Focus to Internet Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ჩინეთის იაფი ხელოვნური ინტელექტი (AI) ინვესტორების ყურადღებას ინტერნეტ აქციებზე გადააქვს",
-      "summaryKa": "ჩინეთის იაფი ხელოვნური ინტელექტი ხელს უწყობს ინვესტორების ინტერესის გადატანას ინტერნეტ აქციებისკენ.",
-      "category": "ტექნოლოგიები და AI",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
