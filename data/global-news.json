@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T16:07:29.712Z",
+  "updatedAt": "2026-09-05T18:21:37.816Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -172,7 +172,10 @@
       "titleKa": "Carney-ს დიპფეიკი და აშშ-ს სავაჭრო დაძაბულობა გამოიყენებოდა კრიპტო ინვესტიციების პრომოციისთვის",
       "summaryKa": "Carney-ს დიპფეიკი და აშშ-ს სავაჭრო დაძაბულობა გამოიყენებოდა კრიპტო ინვესტიციების პრომოციისთვის",
       "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/crypto/articles/carney-deepfake-us-trade-tensions-194039965.html",
+      "bodyKa": "## კრიპტო ინვესტიციების პრომოცია\nკანადის ყოფილი პრემიერ-მინისტრის, მარკ კარნის ვიდეო, სადაც ის კრიპტოვალუტაში ინვესტიციის პრომოციას ახდენს, სოციალურ ქსელებში გავრცელდა. თუმცა, ეს ვიდეო მანიპულირებულია და კარნი ასეთ რეკლამას არასდროს აკეთებდა.\n\n## კრიპტო ინვესტიციების რისკები\nექსპერტები ამტკიცებენ, რომ კრიპტოვალუტას მიმართ ყურადღება მატებისას, მისი ღირებულება შეიძლება მატულობს, მაგრამ შემდეგ იგი კვლავ ეცემა. ამის გამო, ინვესტორებმა უნდა იყვნენ ფრთხილნი და არ უნდა ინვესტირებდნენ არასაიმედო საიტებში.\n\n## კრიპტო ინვესტიციების საფრთხეები\nკრიპტო ინვესტიციების საფრთხეები დიდია, რადგან ისინი შეიძლება იყვნენ არალეგიტიმური და შეიძლება გამოიყენონ ინვესტორების თაღლითობისთვის. ამიტომ, ინვესტორებმა უნდა იყვნენ ფრთხილნი და არ უნდა ინვესტირებდნენ არასაიმედო საიტებში. ასევე, მათ უნდა გამოიყენონ ლეგიტიმური საიტები, როგორიცაა Coinbase.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "11a7e97dbe68a063",
