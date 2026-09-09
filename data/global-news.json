@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-09-09T00:20:26.055Z",
+  "updatedAt": "2026-09-09T04:54:51.508Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "b8db52f14c6e30be",
+      "title": "DoubleDown’s (DDI) Earnings Explode While a Takeover Offer Sits Unresolved",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWdKR3RYbXVqVWlVVnRZeHphdW5wSkVLaElORGJQWkdXSHpmemNieGdJRFNZYkhNVHF6VjA0dG9MYUhoZW9CQzVqMk92cXlaSG9NWThwN21oQ1hnX1I1dUM5RXd2ajlIemF3S0tfc2N4YjhnTmJqUEc5aWRGMVpLakVlUmpFZ3hsOWdHV3NYbnNKQk51clV0eHpLSzlVNE9xM1Jrbw?oc=5",
+      "publishedAt": "2026-09-09T04:34:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWdKR3RYbXVqVWlVVnRZeHphdW5wSkVLaElORGJQWkdXSHpmemNieGdJRFNZYkhNVHF6VjA0dG9MYUhoZW9CQzVqMk92cXlaSG9NWThwN21oQ1hnX1I1dUM5RXd2ajlIemF3S0tfc2N4YjhnTmJqUEc5aWRGMVpLakVlUmpFZ3hsOWdHV3NYbnNKQk51clV0eHpLSzlVNE9xM1Jrbw?oc=5\" target=\"_blank\">DoubleDown’s (DDI) Earnings Explode While a Takeover Offer Sits Unresolved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "DoubleDown-ის ფინანსური შედეგები მკვეთრად გაიზარდა, მიუხედავად იმისა, რომ შენაძენის შესახებ შეთავაზება გაუგებარი რჩება",
+      "summaryKa": "DoubleDown-ის ფინანსური შედეგები მკვეთრად გაიზარდა",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/doubledown-ddi-earnings-explode-while-043404228.html",
+      "bodyKa": "## შესავალი\nDoubleDown-ის ფინანსური შედეგები მკვეთრად გაიზარდა. კომპანიის მოგება 50.5%-ით გაიზარდა და 32.9 მილიონ დოლარს მიაღწია, ხოლო შემოსავალი 11.2%-ით გაიზარდა და 94.3 მილიონ დოლარს მიაღწია.\n\n## ფინანსური შედეგები\nDoubleDown-ის ფინანსური შედეგების ზრდა არაერთ ფაქტორს მიეწერება. კომპანიის სოციალური კაზინოს შემოსავალი გაიზარდა, რაც ძირითადად პირდაპირ გაყიდვებს მიეწერება. ასევე, კომპანიის ევროპული ფილიალი, SuprNation-ის შემოსავალი 9.8%-ით გაიზარდა.\n\n## ინვესტორების ინტერესი\nDoubleDown-ის ფინანსური შედეგები ინვესტორების ყურადღებას იპყრობს. 11 ჰეჯ-ფონდი ინვესტირებაში იღებს მონაწილეობას, რაც კომპანიის ფინანსურ შედეგებში ნდობის ზრდაზე მიუთითებს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "9b39380e9257fbaf",
+      "title": "Asian shares are mixed as Brent crude approaches $100 a barrel",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-brent-crude-041827775.html?.tsrc=rss",
+      "publishedAt": "2026-09-09T04:18:27.000Z",
+      "description": "Asian shares were mixed in cautious trading early Wednesday as investors watched for what might happen on interest rates and the war with Iran pushed oil prices higher. Japan's benchmark Nikkei 225 was nearly unchanged at 65,249.95, and South Korea's Kospi gained 1.2% to 7,041.10. The Shanghai Composite gained 0.2% to 3,949.89.",
+      "titleKa": "აზიურ ბაზრებზე აქციები შერეული მიმართებით გამოირჩევიან, რადგან ბრენტის ნავთობი 100 დოლარს უახლოვდება",
+      "summaryKa": "აზიურ ბაზრებზე აქციები შერეული მიმართებით გამოირჩევიან",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-brent-crude-041827775.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nაზიურ ბაზრებზე აქციები შერეული მიმართებით გამოირჩევიან, რადგან ბრენტის ნავთობი 100 დოლარს უახლოვდება. იაპონიის ბენჩმარკი Nikkei 225 65,249.95-ზე დარჩა, ხოლო სამხრეთ კორეის Kospi 1.2%-ით 7,041.10-მდე გაიზარდა.\n\n## ბაზრის მდგომარეობა\nჰონგ-კონგში, Hang Seng-მა 0.1%-ით 25,287.99-მდე დაიკლა, ხოლო შანხაის კომპოზიტურმა 0.2%-ით 3,949.89-მდე გაიზარდა. საფონდო ბაზარზე აქციების ფასები შერეული მიმართებით გამოირჩევიან, რაც ნავთობის ფასების ზრდასა და ინფლაციის შიშის გამოა.\n\n## ნავთობის ფასები\nბრენტის ნავთობის ფასი 1.4%-ით გაიზარდა და 99.30 დოლარს მიაღწია. ნავთობის ფასების ზრდა ინფლაციის შიშს აგრძელებს.\n\n## ინფლაცია და საპროცენტო განაკვეთი\nაშშ-ში ინფლაციის შესახებ ახალი ანგარიშგება შვიდშაბათს გამოვა, რომელიც ინფლაციის მაჩვენებელს 3.3%-მდე დაიწევს. ეს მაჩვენებელი ჯერ კიდევ 2%-ზე მაღალია, რაც ფედერალური რეზერვის მიზანია. ფედერალური რეზერვი შემდეგ კვირას შეხვდება, რათა გადაწყვიტოს, საპროცენტო განაკვეთი შეიცვალოს თუ არა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "49f2f084c5cf1eca",
+      "title": "Oil Climbs After Report US Hit Targets Near Iran’s Kharg Island",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMTE2a29FUnp0SWE1SGF6MGFrSG16LXFJVjFhNFg5LVVxalNWLUF2eDkxMExMQm5nMTVtMnpYZnJSMnNxR0Rtb2ozbDRsOE9uTDRUaTlpcWJ3VDNYem91emdZVkpjenpEY1lnSlAxdVVWOWpyaktQTGZHWUtCdFBfUU9pdU9XWFhQREZZNU5OYjA0TWdyR2pIdDJuMDg0UQ?oc=5",
+      "publishedAt": "2026-09-09T04:16:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPMTE2a29FUnp0SWE1SGF6MGFrSG16LXFJVjFhNFg5LVVxalNWLUF2eDkxMExMQm5nMTVtMnpYZnJSMnNxR0Rtb2ozbDRsOE9uTDRUaTlpcWJ3VDNYem91emdZVkpjenpEY1lnSlAxdVVWOWpyaktQTGZHWUtCdFBfUU9pdU9XWFhQREZZNU5OYjA0TWdyR2pIdDJuMDg0UQ?oc=5\" target=\"_blank\">Oil Climbs After Report US Hit Targets Near Iran’s Kharg Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ნავთობის ფასი გაიზარდა ირანის სანაპიროზე აშშ-ის სამხედრო შეტევის შესახებ ინფორმაციის გამოქვეყნების შემდეგ",
+      "summaryKa": "ნავთობის ფასი გაიზარდა",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "7328753d010bc22c",
       "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
