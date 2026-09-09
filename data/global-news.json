@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-09-08T19:00:54.348Z",
+  "updatedAt": "2026-09-09T00:20:26.055Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "7328753d010bc22c",
+      "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures%3A-dow-skids.html?.tsrc=rss",
+      "publishedAt": "2026-09-09T00:03:07.000Z",
+      "description": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები: Dow-ის ვარდნა, მაგრამ AMD და HPE ახალი შენაძენებია; Apple-ის iPhone-ის ღონისძიება მოსალოდნელია",
+      "summaryKa": "Dow Jones-ის მომავალი კონტრაქტები დაეცა, მაგრამ AMD და HPE ახალი შენაძენები გახდნენ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a61753f57c54b486",
+      "title": "1 Industrials Stock for Long-Term Investors and 2 We Avoid",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-235918705.html?.tsrc=rss",
+      "publishedAt": "2026-09-08T23:59:18.000Z",
+      "description": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. Unfortunately, this role also comes with a demand profile tethered to the ebbs and flows of the broader economy, and the industry is currently lagging as its six-month return of 4.7% has trailed the S&P 500’s 14% gain.",
+      "titleKa": "1 ინდუსტრიული აქცია ხანგრძლივი ინვესტორებისთვის და 2, რომელთა თავიდან აცილება შეიძლება",
+      "summaryKa": "სტატიაში განხილულია 1 ინდუსტრიული აქცია, რომელიც ხანგრძლივი ინვესტორებისთვის შეიძლება იყოს შესაფერისი და 2 აქცია, რომელთა თავიდან აცილება შეიძლება.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-235918705.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nინდუსტრიული სექტორი ფიზიკური ინფრასტრუქტურის მხარდაჭერას უწევს, მათ შორის ავტომობილების, სახლებისა და ელექტრონული კომერციის ინფრასტრუქტურის. ამ სექტორის შემოსავალი და მოგება ეკონომიკის ზრდა-დაცემას მიჰყვება.\n\n## ინდუსტრიული აქციები\nინდუსტრიულ სექტორში არსებობს რამდენიმე კომპანია, რომლებიც ხანგრძლივ ინვესტორებისთვის შეიძლება იყოს საინტერესო. მათ შორის არის Enpro (NYSE:NPO), რომელიც მანქანებისთვის საჭირო ნაწარმის დიზაინის, წარმოებისა და გაყიდვის სფეროში მოღვაწეობს. კომპანიის შემოსავალი 41.1%-იანი მოგებით ხასიათდება. ეს კომპანია ასევე 15.9%-იანი წლიური შემოსავლის ზრდას აჩვენებს ბოლო ორ წელიწადში.\n\n## აქციები, რომელთა თავიდან აცილება შეიძლება\nინდუსტრიულ სექტორში არსებობს კომპანიები, რომელთა აქციები ინვესტორებისთვის არ არის ინტერესული. მათ შორის არის Lindsay (NYSE:LNN) და Gates (NYSE:GTES), რომელთა ფინანსური შედეგები არ არის სახალისო. Lindsay-ის შემოსავალი ბოლო ორ წელიწადში თითქმის არ შეცვლილა, ხოლო მოგება შემცირდა. ამასთან, Gates-ის ორგანული შემოსავალი ზრდა ბოლო ორ წელიწადში არ ყოფილა საკმარისი.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "dbb4a1ccf1b57943",
+      "title": "Why Braze Stock Tumbled by Over 5% on Tuesday",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/why-braze-stock-tumbled-over-5-tuesday",
+      "publishedAt": "2026-09-08T23:35:24.000Z",
+      "description": "Key PointsA mix of new customers, upsells, and renewals drove revenue 26% higher.",
+      "titleKa": "რატომ დაეცა Braze-ის აქციები 5%-ზე მეტით ორშაბათს",
+      "summaryKa": "Braze-ის აქციები ორშაბათს 5%-ზე მეტით დაეცა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/why-braze-stock-tumbled-over-5-tuesday",
+      "bodyKa": "## შესავალი\nBraze-ის აქციები ორშაბათს 5%-ზე მეტით დაეცა, რაც გამოიწვია ინვესტორების შეშფოთებამ კომპანიის მომავალი პოტენციალის შესახებ. კომპანიამ გამოაქვეყნა თავისი მეორე კვარტალური ფინანსური შედეგები, რომელიც აჩვენებს, რომ შემოსავალი 26%-ით გაიზარდა და 227 მილიონ დოლარს მიაღწია.\n\n## ფინანსური შედეგები\nBraze-ის ფინანსური შედეგები აჩვენებს, რომ კომპანიის შემოსავალი 26%-ით გაიზარდა და 227 მილიონ დოლარს მიაღწია. ამასთან, კომპანიის სუფთა მოგება 26%-ით გაიზარდა და 21 მილიონ დოლარს მიაღწია.\n\n## ინვესტორების რეაქცია\nინვესტორები შეშფოთებული არიან Braze-ის მომავალი პოტენციალის შესახებ, რაც გამოიწვია კომპანიის აქციების ფასის 5%-ზე მეტი დაცემა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "274a3111abb53f0d",
+      "title": "Malaysia Stock Market May Test Support At 1,700 Points",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/malaysia-stock-market-may-test-support-1700-points-0",
+      "publishedAt": "2026-09-08T23:33:36.000Z",
+      "description": "(RTTNews) - The Malaysia stock market has finished lower in two of three trading days since the end of the two-day winning streak in which it had collected almost 15 points or 0.9 percent. The Kuala Lumpur Composite Index now sits just shy of the 1,715-point plateau and the losse",
+      "titleKa": "მალაიზიის საფონდო ბაზარი 1700 პუნქტზე მხარდაჭერის გამოცდას შეიძლება განიცდის",
+      "summaryKa": "მალაიზიის საფონდო ბაზარი 1700 პუნქტზე მხარდაჭერის გამოცდას შეიძლება განიცდის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3eef208991882cda",
+      "title": "1 S&P 500 Stock with Exciting Potential and 2 We Ignore",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-exciting-232718587.html?.tsrc=rss",
+      "publishedAt": "2026-09-08T23:27:18.000Z",
+      "description": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
+      "titleKa": "1 S&P 500-ის აქცია საინტერესო პოტენციალით და 2 აქცია, რომლებსაც ვერ ვაიგნორებთ",
+      "summaryKa": "Yahoo Finance-ზე გამოქვეყნებული სტატიაში S&P 500-ის 1 აქციაა მოხსენიებული, რომელსაც აქვს საინტერესო პოტენციალი და 2 აქცია, რომლებსაც ვერ ვაიგნორებთ",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "eae4007134504afc",
       "title": "2 Large-Cap Stocks with Exciting Potential and 1 We Find Risky",
@@ -2765,18 +2831,6 @@
       "summaryKa": "ახალი პროფესიის შესწავლა ძველი გზის მიტოვებას სულაც არ ნიშნავს. […]",
       "category": "საქართველო",
       "translationNotice": ""
-    },
-    {
-      "id": "8cea508dc7c45d63",
-      "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
-      "source": "MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekZqaU9GcklaQ29YeHdHNWxpbElkM3FwYmFUZHlId1dNQmpsb05BajJWT2o2aWMtbzNFaDIzd0w3V2dVbEc1MEpYSU14RW1aQ2s5bUZSdHZEZTF4bG9oUDdGOHFySEVHem52Z0Y1RmNWSkp0S0NkWHRTbzZ0V0MwU18xWXJHeDN6Rjc2eGtCN1FQM2o2YTRhZjdENUdDZlZVWnVVNG5sdExBMzMxMUtneDFHTGctazZmVy1PeXlaMDNjU09RR2NmdUdfRVNGUWpab3U4?oc=5",
-      "publishedAt": "2026-08-09T19:11:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekZqaU9GcklaQ29YeHdHNWxpbElkM3FwYmFUZHlId1dNQmpsb05BajJWT2o2aWMtbzNFaDIzd0w3V2dVbEc1MEpYSU14RW1aQ2s5bUZSdHZEZTF4bG9oUDdGOHFySEVHem52Z0Y1RmNWSkp0S0NkWHRTbzZ0V0MwU18xWXJHeDN6Rjc2eGtCN1FQM2o2YTRhZjdENUdDZlZVWnVVNG5sdExBMzMxMUtneDFHTGctazZmVy1PeXlaMDNjU09RR2NmdUdfRVNGUWpab3U4?oc=5\" target=\"_blank\">The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-      "titleKa": "აქციების რაოდენობა, რომლებიც S&P 500-ს სჯობს, ბოლო 4 წლის განმავლობაში ყველაზე მაღალია. რატომ უნდა გაიზარდოს ეს რიცხვი.",
-      "summaryKa": "იმ აქციების რაოდენობამ, რომლებიც S&P 500 ინდექსს უსწრებენ, ბოლო 4 წლის განმავლობაში მაქსიმუმს მიაღწია, და განხილულია მიზეზები, თუ რატომ უნდა გაიზარდოს ეს მაჩვენებელი.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "410ae7f7e43c4dec",
