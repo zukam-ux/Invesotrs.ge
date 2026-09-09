@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-09-09T09:51:29.890Z",
+  "updatedAt": "2026-09-09T20:57:59.602Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "81f5d072de8f7672",
+      "title": "Analyst warns Bitcoin rally isn't over, here's where money is flowing",
+      "source": "Yahoo Finance",
+      "url": "https://www.thestreet.com/crypto/markets/analyst-warns-bitcoin-rally-isnt-over-heres-where-money-is-flowing?.tsrc=rss",
+      "publishedAt": "2026-09-09T20:45:00.000Z",
+      "description": "Anthony Pompliano says Bitcoin’s strong run over the past month is far from finished.",
+      "titleKa": "ანალიტიკოსის აზრით, ბიტკოინის აფხვევა ჯერ არ დამთავრებულა",
+      "summaryKa": "ანალიტიკოსი აცხადებს, რომ ბიტკოინის აფხვევა ჯერ არ დასრულებულა და ფული სხვადასხვა მიმართულებით მიედინება",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "e40062b437899035",
       "title": "This Unstoppable Vanguard ETF Is Beating the S&P 500 and the Nasdaq-100 in 2026, but It Could Face a Reckoning Next Week",
