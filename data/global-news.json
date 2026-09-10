@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T21:14:31.172Z",
+  "updatedAt": "2026-09-10T23:13:28.724Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -112,7 +112,10 @@
       "titleKa": "Dow Jones-ის მომავალი კონტრაქტები იზრდება: ნავთობის ფასები მატულობს, მაგრამ ბაზარი ჯერ არ გატეხილა. ინფლაციის მონაცემები მოსალოდნელია.",
       "summaryKa": "ნავთობის ფასების ზრდა საფონდო ბაზარზე არ გამოვლინდა.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures-rise%3A-oil.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nDow Jones-ის მომავალი კონტრაქტები იზრდება. ნავთობის ფასები და ტრეზურის შემოსავლიანობა მატულობს. გამოქვეყნდება ინფლაციის შესახებ მონაცემები. წინა დღეს საფონდო ბაზრის აღმასვლა შენელდა, რადგან Dow Jones-ი და პატარა კაპიტალიზაციის მქონე Russell 2000 კლებდა.\n\n## საფონდო ბაზარის მდგომარეობა\nმოსალოდნელია ინფლაციის შესახებ მონაცემები. ინვესტორები ელოდებიან საფონდო ბაზრის რეაქციას.\n\n## ნავთობის ფასების ზემოთა გავლენა\nნავთობის ფასები იზრდება, მაგრამ ბაზარი ჯერ არ გატეხილა.\n\n## დასკვნა\nმოსალოდნელია ინფლაციის შესახებ მონაცემები, რაც შეიძლება გავლენა მოახდინოს საფონდო ბაზარზე. ინვესტორები ელოდებიან ამ მონაცემების გამოქვეყნებას და მათ რეაქციას საფონდო ბაზარზე.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "a89e5e2edaecd8e2",
