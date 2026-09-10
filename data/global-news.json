@@ -1,8 +1,47 @@
 {
-  "updatedAt": "2026-09-10T06:03:24.374Z",
+  "updatedAt": "2026-09-10T11:24:26.022Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "5ecca82b75a7bf23",
+      "title": "Fuelled Announces Exclusive Mandate to Market Bridger Swan Ranch and Cheyenne Rail Hub, an Integrated Crude Oil Storage and Rail Terminal Complex in Wyoming",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/fuelled-announces-exclusive-mandate-market-111300569.html?.tsrc=rss",
+      "publishedAt": "2026-09-10T11:13:00.000Z",
+      "description": "Fuelled, the online marketplace for oil and gas and power equipment, today announced it has been engaged as exclusive marketing advisor for Bridger Swan Ranch and Cheyenne Rail Hub, two related crude oil terminal assets located at the Swan Ranch rail junction in Laramie County, Wyoming, just outside Cheyenne. Marketed together, the packages form an integrated crude oil blending, storage, and rail-loading complex serving Denver-Julesburg (DJ) Basin and regional Wyoming production.",
+      "titleKa": "Fuelled-მა ბრიჯერ სუონ რანჩისა და შაიენის რკინიგზის ჰაბის ექსკლუზიური მანდატის შესახებ განცხადება გაკეთებულა",
+      "summaryKa": "კომპანია Fuelled უაიომინგში ნავთობის შენახვისა და რკინიგზის ტერმინალის კომპლექსის გაყიდვას აპირებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/energy/articles/fuelled-announces-exclusive-mandate-market-111300569.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nკომპანია Fuelled უაიომინგში ნავთობის შენახვისა და რკინიგზის ტერმინალის კომპლექსის გაყიდვას აპირებს. ეს კომპლექსი შედგება ბრიჯერ სუონ რანჩისა და შაიენის რკინიგზის ჰაბისგან, რომლებიც ლარამის ოლქში, უაიომინგში მდებარეობს.\n\n## კომპლექსის მახასიათებლები\nბრიჯერ სუონ რანჩი არის ნავთობის შენახვის ტერმინალი, რომელიც შედგება ხუთი ტანკისგან საერთო ტევადობით 225,000 ბარელი. ტერმინალს ასევე გააჩნია 12 სატვირთო მანქანის ტრანსფერი ერთეული, ორი გაყიდვის ერთეული, პიპლაინის მეტრის სკიდი, ხუთი ტრანსფერი მეტრის სკიდი, ორი სამაქნის ბუსტერის სკიდი და ცალკე კონტროლის ოთახი/მართვის შენობა. შაიენის რკინიგზის ჰაბი არის რკინიგზის ტერმინალი, რომელიც მდებარეობს სუონ რანჩის რკინიგზის კვანძთან და უზრუნველყოფს ნავთობის გადაზიდვას რკინიგზით.\n\n## გაყიდვის პროცესი\nFuelled ხელმძღვანელობს ბრიჯერ სუონ რანჩისა და შაიენის რკინიგზის ჰაბის კომპლექსის გაყიდვას. კომპანია უზრუნველყოფს კატალოგიზაციას, მარკეტინგსა და პოტენციურ ყიდველებთან კონტაქტს თავის ინტერნეტ პლატფორმისა და გლობალური ყიდველების ქსელის მეშვეობით. დეტალური ინფორმაცია კომპლექსის შესახებ ხელმისაწვდომია Fuelled-ის ვებსაიტზე.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "52524eb02dc493bc",
+      "title": "Dow Jones Futures Rise, Oil Prices Keep Climbing; Inflation Data Due.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
+      "publishedAt": "2026-09-10T11:10:33.000Z",
+      "description": "Oil prices and Treasury yields weighed on the indexes, But Meta, AMD were winners. Apple unveiled its foldable iPhone. Inflation data looms.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები იზრდება, ნავთობის ფასები კვლავ იზრდება",
+      "summaryKa": "დაუ-ჯონსის მომავალი კონტრაქტები იზრდება, ხოლო ნავთობის ფასები კვლავ ერთეულშია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3bb329963240bc64",
+      "title": "Oil, Bond Yields Cap Wall Street Pre-Bell; Asia, Europe Off",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/oil-bond-yields-cap-wall-111027441.html?.tsrc=rss",
+      "publishedAt": "2026-09-10T11:10:27.000Z",
+      "description": "Wall Street futures pointed unevenly sideways pre-bell Thursday as traders weighed Persian Gulf turm",
+      "titleKa": "ნავთობი და ობლიგაციების სარგებელი ზღუდავს უოლ სტრიტს საქრის წინ",
+      "summaryKa": "ნავთობის ფასები და ობლიგაციების სარგებელი ზღუდავს უოლ სტრიტის ზრდას სავაჭრო სესიის დაწყებამდე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "01289fef6b4e274e",
       "title": "European Shares Seen Opening Mixed Ahead Of ECB Rate Decision",
