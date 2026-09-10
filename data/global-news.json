@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-09-10T18:32:43.600Z",
+  "updatedAt": "2026-09-10T21:14:31.172Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "9ecb88f974c8d61b",
+      "title": "Daily ETF Flows: GDX Registers Outflows",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDdwSW9kWWJ0aU1ZSWpUaXgzWUlWTENjMXZRTUROZGhYT3V1WUhZM3dKYkh5RWdrYmk1bk9yMVp5cmt4OW02Rnk3dHk3enItNFJLRk1wRU92X3ktYVdRM1dFZUVkN0dWLUlRRnFjV0V2NGliOEp5SXJuTHFhaHRTT3dtWXkwTUpUTElYa1h5Z0wtd29Sd2NQQjhyeHdzMi1n?oc=5",
+      "publishedAt": "2026-09-10T21:00:04.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDdwSW9kWWJ0aU1ZSWpUaXgzWUlWTENjMXZRTUROZGhYT3V1WUhZM3dKYkh5RWdrYmk1bk9yMVp5cmt4OW02Rnk3dHk3enItNFJLRk1wRU92X3ktYVdRM1dFZUVkN0dWLUlRRnFjV0V2NGliOEp5SXJuTHFhaHRTT3dtWXkwTUpUTElYa1h5Z0wtd29Sd2NQQjhyeHdzMi1n?oc=5\" target=\"_blank\">Daily ETF Flows: GDX Registers Outflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ყოველდღიური ETF ნაკადები: GDX-ში შემოსავლების კლება ფიქსირდება",
+      "summaryKa": "GDX-ში შემოსავლების კლება ფიქსირდება",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "5ecca82b75a7bf23",
       "title": "Fuelled Announces Exclusive Mandate to Market Bridger Swan Ranch and Cheyenne Rail Hub, an Integrated Crude Oil Storage and Rail Terminal Complex in Wyoming",
