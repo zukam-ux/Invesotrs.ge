@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T11:24:26.022Z",
+  "updatedAt": "2026-09-10T18:32:43.600Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -28,7 +28,10 @@
       "titleKa": "Dow Jones-ის მომავალი კონტრაქტები იზრდება, ნავთობის ფასები კვლავ იზრდება",
       "summaryKa": "დაუ-ჯონსის მომავალი კონტრაქტები იზრდება, ხოლო ნავთობის ფასები კვლავ ერთეულშია.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nდაუ-ჯონსის მომავალი კონტრაქტები იზრდება, ხოლო S&P 500 და Nasdaq მომავალი კონტრაქტები ეცემა. ნავთობის ფასები და ტრეზურის განაკვეთები იზრდება. მნიშვნელოვანი ინფლაციის მონაცემები გამოსვლამდეა. წინა დღეს, საფონდო ბაზრის რალი კვლავ განიცდის სიძნელეებს, რადგან დაუ-ჯონსი და სმოლ-კეპ რასელ 2000 კლებს მხარდაჭერის მთავარ დონეებთან.\n\n## საფონდო ბაზარის მდგომარეობა\nსაფონდო ბაზარის რალი განიცდის სიძნელეებს, რადგან დაუ-ჯონსი და სმოლ-კეპ რასელ 2000 კლებს მხარდაჭერის მთავარ დონეებთან.\n\n## ნავთობის ფასები\nნავთობის ფასები იზრდება.\n\n## ინფლაციის მონაცემები\nინფლაციის მონაცემების გამოსვლა მნიშვნელოვან როლს თამაშობს საფონდო ბაზარზე.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "3bb329963240bc64",
@@ -2914,18 +2917,6 @@
       "titleKa": "არამუდმივი დანაკარგი კრიპტოვალუტაში: ლიკვიდურობის მიწოდების რეალური რისკების გააზრება",
       "summaryKa": "სტატია განიხილავს არამუდმივი დანაკარგის რისკს კრიპტოვალუტის ლიკვიდურობის უზრუნველყოფის პროცესში.",
       "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "f109decc2dbade64",
-      "title": "Gold Touches $4,400 as Traders Turn Focus to US Inflation Data",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmZIUFBpdUxJSTNqeXIyU1BGazNWVlFFZnRTMGxodXV0M2ZYeG9CRXJ5WkQ0MWt6cjhSd29fWk9SWjJRWWtodnpCU3hWRTVwUG1sdXNra3Z5X2t2VndBdTVkSXNJR3ZNbm5WNTJGYkhBNnJtTU5tZzR3RENSTmpZUHJOSkxXMVBJem1BbjBXSXBBdGdjVnB6RldCY2NybUZvRjBtdm11X2s4d2xmUnVqMWJ3?oc=5",
-      "publishedAt": "2026-08-11T14:52:03.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmZIUFBpdUxJSTNqeXIyU1BGazNWVlFFZnRTMGxodXV0M2ZYeG9CRXJ5WkQ0MWt6cjhSd29fWk9SWjJRWWtodnpCU3hWRTVwUG1sdXNra3Z5X2t2VndBdTVkSXNJR3ZNbm5WNTJGYkhBNnJtTU5tZzR3RENSTmpZUHJOSkxXMVBJem1BbjBXSXBBdGdjVnB6RldCY2NybUZvRjBtdm11X2s4d2xmUnVqMWJ3?oc=5\" target=\"_blank\">Gold Touches $4,400 as Traders Turn Focus to US Inflation Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ოქროს ფასმა 4400 დოლარს მიაღწია, რადგან ტრეიდერები აშშ-ის ინფლაციის მონაცემებზე ამახვილებენ ყურადღებას",
-      "summaryKa": "ოქროს ღირებულება 4400 დოლარამდე გაიზარდა, ტრეიდერების მოლოდინები კი აშშ-ის ინფლაციის მონაცემებს უკავშირდება.",
-      "category": "ბაზრები და ეკონომიკა",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
