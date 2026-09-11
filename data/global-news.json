@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-11T18:39:53.581Z",
+  "updatedAt": "2026-09-11T21:23:22.838Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "b71a32a1a28347a4",
+      "title": "Applied Materials vs. Micron Technology: Which Technology Stock Is a Better Buy in 2026?",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/applied-materials-vs-micron-technology-which-technology-stock-better-buy-2026",
+      "publishedAt": "2026-09-11T21:13:01.000Z",
+      "description": "Key PointsApplied Materials is a leading provider of the equipment and software essential for manufacturing advanced semiconductors.",
+      "titleKa": "Applied Materials-ის და Micron Technology-ს შედარება: რომელი ტექნოლოგიური აქციაა უკეთესი შესაძენად 2026 წელს?",
+      "summaryKa": "ინვესტორები განიხილავენ Applied Materials-ისა და Micron Technology-ს აქციებს 2026 წლისთვის საუკეთესო არჩევანის გამოსავლენად.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/applied-materials-vs-micron-technology-which-technology-stock-better-buy-2026",
+      "bodyKa": "Applied Materials-ისა და Micron Technology-ს შედარება: რომელი ტექნოლოგიური აქციაა უკეთესი შესაძენად 2026 წელს?\n\n## შესავალი\nApplied Materials არის ლიდერი უახლესი ნახევარგამტარების წარმოებისთვის აუცილებელი აღჭურვილობისა და პროგრამული უზრუნველყოფის მიმწოდებელი, ხოლო Micron Technology არის მეხსიერებისა და შენახვის მოწყობილობების მთავარი მწარმოებელი.\n\n## ფინანსური შედეგები\nApplied Materials-მა 2025 წელს 28.4 მილიარდი დოლარის შემოსავალი მიაღწია, რაც 4%-იანი ზრდა იყო. კომპანიამ 7 მილიარდი დოლარის საბაზრო მოგება დააფიქსირა, რაც 25%-იანი საბაზრო მარჯა იყო. Micron Technology-მ 2025 წელს 37.4 მილიარდი დოლარის შემოსავალი მიაღწია, რაც 59%-იანი ზრდა იყო. კომპანიამ 8.5 მილიარდი დოლარის საბაზრო მოგება დააფიქსირა, რაც 23%-იანი საბაზრო მარჯა იყო.\n\n## რისკები და პერსპექტივები\nApplied Materials საფრთხეებს განიცდის გეოპოლიტიკური დაძაბულობისა და სავაჭრო რეგულაციების გამო, განსაკუთრებით აშშ-ის ექსპორტზე კონტროლი ჩინეთში. Micron Technology საფრთხეებს განიცდის კონკურენციის გამო, განსაკუთრებით Samsung Electronics-ისა და SK Hynix-ის მხრიდან.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "8f0d3ffd6cf224f3",
       "title": "Easing Oil Bills, Tech Optimism Lift Wall Street Pre-Bell, Asia off, Europe Up",
