@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-09-11T06:04:14.363Z",
+  "updatedAt": "2026-09-11T11:26:43.976Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "8f0d3ffd6cf224f3",
+      "title": "Easing Oil Bills, Tech Optimism Lift Wall Street Pre-Bell, Asia off, Europe Up",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/easing-oil-bills-tech-optimism-111107820.html?.tsrc=rss",
+      "publishedAt": "2026-09-11T11:11:07.000Z",
+      "description": "Wall Street futures pointed moderately higher pre-bell Friday as easing oil prices were met with ren",
+      "titleKa": "ნავთობის ღირებულების შემცირება და ტექნოლოგიური ოპტიმიზმი ამაღლებს უოლ სტრიტის ინდექსს",
+      "summaryKa": "უოლ სტრიტის ინდექსი იმატებს ნავთობის ღირებულების შემცირებისა და ტექნოლოგიური ოპტიმიზმის გამო",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "80b190227bc30c1b",
+      "title": "Gold price today, Friday, September 11, 2026: Gold opens at lowest level in over a month ahead of CPI data",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZTRLdlZyUzdPV0ZXZ2UxSGtiSV9pQnFRa0pBTFgzSU5Uc19GN1pZX2ZLUnVodnR4dVdVV2VTTnloS05hS1B6RUxvT0VObkxLOFlQWDJtcF81RzJMcUlGdGttZWdMVzlCWWVEMFBtTTlDejhpWHJNZDI0Wl8xMlZsZl9weU8zWGJRNmFWX21VQnZKVjJLME5nbTROUU8wTGg3TlUyOGdtd3BLd0xCaVkzNzFpVDhGa0Rxb3VWby1oSlkxZ1VuMU5TS0M3cEYxenhUcVJRXzFGQlBVbDF1ZXVsRVJuXzR5ZzNSSmsxT2lxYlRDMGhCbGFiNjJvekNGX09EWFd6aFdqRV9uQQ?oc=5",
+      "publishedAt": "2026-09-11T11:10:16.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQZTRLdlZyUzdPV0ZXZ2UxSGtiSV9pQnFRa0pBTFgzSU5Uc19GN1pZX2ZLUnVodnR4dVdVV2VTTnloS05hS1B6RUxvT0VObkxLOFlQWDJtcF81RzJMcUlGdGttZWdMVzlCWWVEMFBtTTlDejhpWHJNZDI0Wl8xMlZsZl9weU8zWGJRNmFWX21VQnZKVjJLME5nbTROUU8wTGg3TlUyOGdtd3BLd0xCaVkzNzFpVDhGa0Rxb3VWby1oSlkxZ1VuMU5TS0M3cEYxenhUcVJRXzFGQlBVbDF1ZXVsRVJuXzR5ZzNSSmsxT2lxYlRDMGhCbGFiNjJvekNGX09EWFd6aFdqRV9uQQ?oc=5\" target=\"_blank\">Gold price today, Friday, September 11, 2026: Gold opens at lowest level in over a month ahead of CPI data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ოქროს ფასი 2026 წლის 11 სექტემბერს: ოქრო გახსნა ერთი თვის განმავლობაში ყველაზე დაბალ დონეზე",
+      "summaryKa": "ოქროს ფასი 2026 წლის 11 სექტემბერს ერთი თვის განმავლობაში ყველაზე დაბალ დონეზეა",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "51e21993a3c06f0a",
+      "title": "Investors on edge as energy costs, surging bond yields roil markets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/stocks-tumble-oil-inflation-fan-024648193.html?.tsrc=rss",
+      "publishedAt": "2026-09-11T11:08:20.000Z",
+      "description": "High oil prices and US diesel prices at record levels kept inflation fears at the fore on Friday, ratcheting up expectations that more central banks will have to hike interest rates despite the risk of weighing on economic growth.While oil prices retreated Friday, they remain at levels deemed far too high by central banks hoping to keep inflation pressures from becoming entrenched in the wider economy.",
+      "titleKa": "ინვესტორები ენერგეტიკული ხარჯებისა და ობლიგაციების მატებადი სარგებელის გამო შეშფოთებული არიან",
+      "summaryKa": "ინვესტორები შეშფოთებული არიან ენერგეტიკული ხარჯებისა და ობლიგაციების მატებადი სარგებელის გამო",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "8cf5423cb6470d22",
       "title": "Dow Jones Futures Rise, Oracle Jumps After Oil Prices, Yields Surge; CPI Inflation Due",
