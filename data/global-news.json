@@ -1,8 +1,47 @@
 {
-  "updatedAt": "2026-09-11T01:10:08.453Z",
+  "updatedAt": "2026-09-11T06:04:14.363Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "8cf5423cb6470d22",
+      "title": "Dow Jones Futures Rise, Oracle Jumps After Oil Prices, Yields Surge; CPI Inflation Due",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/c29e8241-4bb8-3a14-aa17-d5e2fa2c38f6/dow-jones-futures-rise%2C.html?.tsrc=rss",
+      "publishedAt": "2026-09-11T05:46:40.000Z",
+      "description": "The S&P 500 undercut its 50-day as Treasury yields and oil prices surged. Oracle jumped late on earnings. The CPI inflation report could lock in expectations for a Fed rate hike next week.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები იზრდება, Oracle-ის აქციები ნაფთობის ფონებზე იმატებს",
+      "summaryKa": "ნავთობის ფონდების ზრდასთან ერთად Oracle-ის აქციები იზრდება",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "acb309fb0677062f",
+      "title": "Watch Oil Trades Near $107 as Houthi-Saudi Fighting Escalates",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0x1aVg5Qk9sZEZFNXh3Y0huZmt5NUtyVFZYOWdFMGlDR0RSOEVKVVdOaTJra3VIblV2RjdxRDZPVmh5WFpOeFBpZV9LeER4VVRLcUdEX1kwLWkxTmhFVVNBamtVYWRDOHQ4bTUyTThFSFZsQ3ZFX3BLcTVJNy1aX3JFUDIxT181alVyaFFjT0ZqaW9lMHhzdnZfbFFtT3hiN0hXSzJFaV9rZ2lLd0E?oc=5",
+      "publishedAt": "2026-09-11T05:39:43.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0x1aVg5Qk9sZEZFNXh3Y0huZmt5NUtyVFZYOWdFMGlDR0RSOEVKVVdOaTJra3VIblV2RjdxRDZPVmh5WFpOeFBpZV9LeER4VVRLcUdEX1kwLWkxTmhFVVNBamtVYWRDOHQ4bTUyTThFSFZsQ3ZFX3BLcTVJNy1aX3JFUDIxT181alVyaFFjT0ZqaW9lMHhzdnZfbFFtT3hiN0hXSzJFaV9rZ2lLd0E?oc=5\" target=\"_blank\">Watch Oil Trades Near $107 as Houthi-Saudi Fighting Escalates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ნავთობის ვაჭრობა 107 დოლარამდე მივიდა, რადგან ჰუთი-საუდის შეტაკება გრძელდება",
+      "summaryKa": "ჰუთი-საუდის შეტაკების ფონზე ნავთობის ვაჭრობა 107 დოლარამდე მივიდა",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7ac83569bffecc65",
+      "title": "Can the ECB rate hike stop an inflation shock driven by energy costs?",
+      "source": "Yahoo Finance",
+      "url": "https://www.euronews.com/2026/09/11/can-the-ecb-rate-hike-stop-an-inflation-shock-driven-by-energy-costs?.tsrc=rss",
+      "publishedAt": "2026-09-11T05:33:38.000Z",
+      "description": "The ECB is raising borrowing costs to stop expensive energy from fuelling lasting inflation. Economists disagree on how far rates must rise and how much growth could suffer.View on euronews",
+      "titleKa": "შეუძლია თუ არა ევროპის ცენტრალურ ბანკს ინფლაციის შოკის თავიდან აცილება საპროცენტო განაკვეთის გაზრდით",
+      "summaryKa": "ევროპის ცენტრალური ბანკი ინფლაციის შოკის თავიდან აცილებას საპროცენტო განაკვეთის გაზრდით ცდილობს",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.euronews.com/business/2026/09/11/can-the-ecb-rate-hike-stop-an-inflation-shock-driven-by-energy-costs?.tsrc=rss",
+      "bodyKa": "## შესავალი\nევროპის ცენტრალური ბანკი ინფლაციის შოკის თავიდან აცილებას საპროცენტო განაკვეთის გაზრდით ცდილობს. ევროპაში ინფლაცია 3.3%-მდე გაიზარდა, რაც ძირითადად ენერგეტიკული რესურსების ფასების ზრდას მოწმობს.\n\n## ინფლაციის შოკი\nევროპის ცენტრალური ბანკის პრეზიდენტი, ქრისტინ ლაგარდი, აღნიშნა, რომ ინფლაცია ჯერ კიდევ ბევრი ხნის განმავლობაში მაღალ დონეზე დარჩება. ევროპის ცენტრალური ბანკი საპროცენტო განაკვეთის გაზრდით ინფლაციის შოკის თავიდან აცილებას ცდილობს.\n\n## საპროცენტო განაკვეთის ზრდა\nევროპის ცენტრალური ბანკის გადაწყვეტილება საპროცენტო განაკვეთის გაზრდის შესახებ ევროპის ეკონომიკისთვის დიდ მნიშვნელობას ატარებს. ექსპერტები ვარაუდობენ, რომ საპროცენტო განაკვეთი 3%-მდე გაიზარდება.\n\n## დასკვნა\nევროპის ცენტრალური ბანკის გადაწყვეტილება საპროცენტო განაკვეთის გაზრდის შესახებ ევროპის ეკონომიკისთვის დიდ მნიშვნელობას ატარებს. ევროპის ცენტრალური ბანკი ინფლაციის შოკის თავიდან აცილებას საპროცენტო განაკვეთის გაზრდით ცდილობს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "ac3abd6765555b84",
       "title": "Dow Jones Futures, Oracle Jumps After Oil Prices, Yields Surge; CPI Inflation Due",
