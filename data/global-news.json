@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:26:43.976Z",
+  "updatedAt": "2026-09-11T15:17:24.823Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -37,7 +37,10 @@
       "titleKa": "ინვესტორები ენერგეტიკული ხარჯებისა და ობლიგაციების მატებადი სარგებელის გამო შეშფოთებული არიან",
       "summaryKa": "ინვესტორები შეშფოთებული არიან ენერგეტიკული ხარჯებისა და ობლიგაციების მატებადი სარგებელის გამო",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/economy/policy/articles/stocks-tumble-oil-inflation-fan-024648193.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nინვესტორები შეშფოთებული არიან ენერგეტიკული ხარჯებისა და ობლიგაციების მატებადი სარგებელის გამო. ამერიკის დიზელის საშუალო ფასი 6 დოლარს გალონზე გადაცილდა.\n\n## ენერგეტიკული ხარჯები\nნავთობის ფასი 110 დოლარამდე მივიდა ბარელზე, რაც მაისის შემდეგ ყველაზე მაღალი მაჩვენებელია. საერთაშორისო ენერგეტიკული სააგენტომ ნავთობის მოთხოვნის პროგნოზი შეამცირა.\n\n## ობლიგაციების სარგებელი\nობლიგაციების სარგებელი მატულობს. 10-წლიანი ამერიკული სახაზინო ობლიგაციის სარგებელი 5%-მდე მივიდა, რაც 19 წლის მაქსიმუმია. 30-წლიანი სახაზინო ობლიგაციის სარგებელი 5.36%-მდე გაიზარდა, რაც 2007 წლის შემდეგ ყველაზე მაღალი მაჩვენებელია.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "8cf5423cb6470d22",
