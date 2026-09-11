@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T21:23:22.838Z",
+  "updatedAt": "2026-09-11T23:34:38.767Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -40,7 +40,10 @@
       "titleKa": "ოქროს ფასი 2026 წლის 11 სექტემბერს: ოქრო გახსნა ერთი თვის განმავლობაში ყველაზე დაბალ დონეზე",
       "summaryKa": "ოქროს ფასი 2026 წლის 11 სექტემბერს ერთი თვის განმავლობაში ყველაზე დაბალ დონეზეა",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-11-2026-gold-opens-at-lowest-level-in-over-a-month-ahead-of-cpi-data-111016419.html",
+      "bodyKa": "ოქროს ფასი 2026 წლის 11 სექტემბერს: ოქრო გახსნა ერთი თვის განმავლობაში ყველაზე დაბალ დონეზე. ოქროს დეკემბერის ფიუჩერსის ფასი 4,359.40 ამერიკულ დოლარად იყო, რაც 1.1%-ით ნაკლებია წინა დღის დახურვის ფასზე. ოქროს ფასი დღეს 4,387.10 ამერიკულ დოლარად იყო. ## ოქროს ფასის ცვლილება. ოქროს ფასი ერთი თვის განმავლობაში ყველაზე დაბალ დონეზე იყო. ## ოქროს ინვესტიცია. ოქროს ინვესტიცია შეიძლება იყოს სტაბილური და ინფლაციის საწინააღმდეგო ინსტრუმენტი თქვენი პორტფელისთვის. ## ექსპერტების რეკომენდაციები. ექსპერტები სხვადასხვა რეკომენდაციებს აძლევენ ოქროს ინვესტიციასთან დაკავშირებით. ზოგი ექსპერტი 0%-20% შუალედურ ალოკაციას რეკომენდაციას აძლევს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "51e21993a3c06f0a",
