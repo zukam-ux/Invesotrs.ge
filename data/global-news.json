@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-12T19:26:45.372Z",
+  "updatedAt": "2026-09-12T21:44:31.001Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "d63be459ba192607",
+      "title": "Can XRP Flip Bitcoin?",
+      "source": "Yahoo Finance",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/12/can-xrp-flip-bitcoin/?.tsrc=rss",
+      "publishedAt": "2026-09-12T21:24:32.000Z",
+      "description": "Ripple CTO Emeritus David Schwartz said on an X Spaces on September 9 that he expects XRP (CRYPTO:XRP) to eventually pass Bitcoin (CRYPTO:BTC) in market value, and he attached a condition to it. XRP trades at $1.36 and Bitcoin near $77,310 as of September 12. Bitcoin’s market capitalization runs between $1.54 trillion and $1.58 trillion, […]",
+      "titleKa": "XRP შესაძლოა ბიტკოინს გადაასწროს",
+      "summaryKa": "საიტი Yahoo Finance XRP-ის ბიტკოინს გადასწრების შესაძლებლობას განიხილავს",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://247wallst.com/investing/cryptocurrency/2026/09/12/can-xrp-flip-bitcoin/?.tsrc=rss",
+      "bodyKa": "XRP შესაძლოა ბიტკოინს გადაასწროს, რაც ნიშნავს, რომ მისი საბაზრო კაპიტალიზაცია ბიტკოინის საბაზრო კაპიტალიზაციას გადაასწრებს. ეს შესაძლებელია, თუ საფონდო ბაზარი გრძელდება და XRP ბიტკოინზე სწრაფად იზრდება. ## საბაზრო კაპიტალიზაცია ბიტკოინის საბაზრო კაპიტალიზაცია 1.54 ტრილიონი დოლარიდან 1.58 ტრილიონ დოლარამდეა, ხოლო XRP-ის საბაზრო კაპიტალიზაცია 85 მილიარდი დოლარიდან 89 მილიარდ დოლარამდე. ეს ნიშნავს, რომ XRP-ს ბიტკოინის საბაზრო კაპიტალიზაციას გასასწრებად 1.49 ტრილიონ დოლარი აქვს. ## XRP-ის ფასი XRP-ის ფასი 1.36 დოლარია, ხოლო ბიტკოინის ფასი 77,310 დოლარი. თუ XRP ბიტკოინის საბაზრო კაპიტალიზაციას გასასწრებად გაიზრდება, მისი ფასი 24.50 დოლარამდე უნდა გაიზარდოს. ## საფონდო ბაზარი საფონდო ბაზარი გრძელდება და XRP ბიტკოინზე სწრაფად იზრდება, მაშინ XRP შესაძლოა ბიტკოინს გადაასწროს. თუმცა, ეს შესაძლებელია მხოლოდ იმ შემთხვევაში, თუ საფონდო ბაზარი გრძელდება და XRP ბიტკოინზე სწრაფად იზრდება.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "214c20e7ed341b57",
       "title": "Tom Lee Says ‘Economists Are Fighting Last Year’s Wars’ As Fundstrat’s 2% Bitcoin Bet Swells To 85%",
