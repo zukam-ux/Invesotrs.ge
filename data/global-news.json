@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-09-12T06:35:14.722Z",
+  "updatedAt": "2026-09-12T14:18:04.854Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "214c20e7ed341b57",
+      "title": "Tom Lee Says ‘Economists Are Fighting Last Year’s Wars’ As Fundstrat’s 2% Bitcoin Bet Swells To 85%",
+      "source": "Yahoo Finance",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/tom-lee-says-economists-are-fighting-last-year-s-wars-as-fundstrat-bitcoin-ethereum/cZtLA1oRBbY?.tsrc=rss",
+      "publishedAt": "2026-09-12T14:00:06.000Z",
+      "description": "Tom Lee said inflation may be less severe than economists think while he remained bullish on Ethereum.",
+      "titleKa": "ტომ ლის თქმით, ეკონომისტები წინა წლის ომებს ირჩევენ, რა დროსაც Fundstrat-ის ბიტკოინზე 2%-იანი ინვესტიცია 85%-მდე გაიზარდა",
+      "summaryKa": "Fundstrat-ის ბიტკოინზე 2%-იანი ინვესტიცია 85%-მდე გაიზარდა",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://stocktwits.com/news-articles/markets/cryptocurrency/tom-lee-says-economists-are-fighting-last-year-s-wars-as-fundstrat-bitcoin-ethereum/cZtLA1oRBbY?.tsrc=rss",
+      "bodyKa": "## შესავალი\nტომ ლი, Fundstrat-ის გლობალური ადვიზორი, ამბობს, რომ ეკონომისტები წინა წლის ომებს ირჩევენ. მან ასევე განაცხადა, რომ Fundstrat-ის 2%-იანი ბიტკოინზე რეკომენდაცია ზოგიერთ კლიენტის პორტფელში 85%-მდე გაიზარდა ბიტკოინის ფასის ზრდის გამო.\n\n## ბიტკოინის ფასი\nბიტკოინის ფასი ბოლო 24 საათში 0.5%-ით შემცირდა და 77,294-მდე დაეცა. ლის თქმით, ბიტკოინზე 2%-იანი ინვესტიცია, რომელიც ფირმამ რამდენიმე წლის წინ შესთავაზა, ახლა საშუალო ანგარიშში 85%-მდე გაიზარდა ფასის ზრდის გამო, არა დამატებითი შესყიდვების შედეგად.\n\n## ეთერეუმის ფასი\nეთერეუმის ფასი 1%-ით გაიზარდა და 2,539-მდე ავიდა. ლი ასევე ამბობს, რომ ეთერეუმის ფასი შესაძლოა მატებდეს, რადგან მრავალი მარკეტის და ინდუსტრიის ტენდენციები მხარს უჭერს ეთერეუმს.\n\n## დასკვნა\nტომ ლის განცხადებით, ეკონომისტები წინა წლის ომებს ირჩევენ. იგი ასევე ამბობს, რომ ეთერეუმის ფასი შესაძლოა მატებდეს, რადგან მრავალი მარკეტის და ინდუსტრიის ტენდენციები მხარს უჭერს ეთერეუმს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "a88c0ad3c477d04b",
+      "title": "Bridgewater Founder Dalio Urges Investors to Dump Bonds for Gold Allocation",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGJ0bmJheHVzZWxTVDU1V3BSSHZySVRlNkJQLVJGNTl5aUd0QTlqQnZIZlEwRDd5cjBTOUNxeVp1cGItRzYzcTVaNjFWZzJqX2l1TXRhYnBmYi1zNV84cUxyMzl6eFp4RTZzSVJKVm55cFctZ2lKcWZMTjJ0d2pjY0J0SEdyeURpR2t1TWN2M2FXaGw3cVgtUnU2enpsUk1pckV4cU9zMDlwQQ?oc=5",
+      "publishedAt": "2026-09-12T13:48:26.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGJ0bmJheHVzZWxTVDU1V3BSSHZySVRlNkJQLVJGNTl5aUd0QTlqQnZIZlEwRDd5cjBTOUNxeVp1cGItRzYzcTVaNjFWZzJqX2l1TXRhYnBmYi1zNV84cUxyMzl6eFp4RTZzSVJKVm55cFctZ2lKcWZMTjJ0d2pjY0J0SEdyeURpR2t1TWN2M2FXaGw3cVgtUnU2enpsUk1pckV4cU9zMDlwQQ?oc=5\" target=\"_blank\">Bridgewater Founder Dalio Urges Investors to Dump Bonds for Gold Allocation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Bridgewater-ის დამაანგარებელი დალიო ინვესტორებს ობლიგაციების ნაცვლად ოქროში ინვესტირებას ურჩევს",
+      "summaryKa": "დალიო ინვესტორებს ობლიგაციების ნაცვლად ოქროში ინვესტირებას ურჩევს",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "550145f78e80447b",
+      "title": "Cerebras Systems vs. IonQ: Which Tech Stock Is a Better Buy in 2026?",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/cerebras-systems-vs-ionq-which-tech-stock-better-buy-2026",
+      "publishedAt": "2026-09-12T13:31:01.000Z",
+      "description": "Key PointsCerebras Systems offers unique wafer-scale technology and is growing revenue at high rates.",
+      "titleKa": "Cerebras Systems vs. IonQ: 2026 წელს რომელი ტექნოლოგიური აქცია უკეთესი ყიდვაა",
+      "summaryKa": "სტატიაში Cerebras Systems-ისა და IonQ-ის აქციები 2026 წლის ინვესტიციების შესაძლებლობების შესახებ ისაუბრება",
+      "category": "ტექნოლოგიები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/cerebras-systems-vs-ionq-which-tech-stock-better-buy-2026",
+      "bodyKa": "2026 წელს ტექნოლოგიურ აქციებს შორის ინვესტორები ხშირად Cerebras Systems (NASDAQ:CBRS) და IonQ (NYSE:IONQ) შერჩევის წინაშე აღმოჩნდებიან. ეს ორი კომპანია ცდილობს გააფართოვოს პროცესორული ძალის საზღვრები. ## კომპანიების შესახებ Cerebras Systems მასიურ ჩიპებზე მუშაობს, რომლებიც ხელს უწყობენ ხელოვნური ინტელექტის (AI) სწავლებას. IonQ კი კვანტურ მექანიკაზე დაყრდნობით რთულ პრობლემებს წყვეტს. ## ფინანსური შედეგები 2025 წელს Cerebras Systems-ის შემოსავალი 510 მილიონ დოლარს მიაღწია, რაც 75.7%-იანი ზრდა იყო წინა წელთან შედარებით. კომპანიამ 238 მილიონ დოლარის მოგება ნახა, თუმცა 2026 წელს ტექნოლოგიების განვითარებაზე განხორციელებული ინვესტიციების გამო კომპანია კვლავ ზარალშია. ## შედარება და პერსპექტივები IonQ-ის შემოსავალი 2025 წელს 202%-ით გაიზარდა და 130 მილიონ დოლარს მიაღწია. მიუხედავად ამ ზრდისა, კომპანიამ 510 მილიონ დოლარის ზარალი ნახა. 2026 წლის მეორე კვარტალში ზარალი 1.3 მილიარდ დოლარს მიაღწია. Cerebras Systems და IonQ ჰაი-გროუთ პროფილებს ფლობენ, მაგრამ განსხვავებული ფინანსური პროფილები აქვთ. IonQ-ის რევენიუს ზრდის ტემპი უფრო მაღალია და წარმატებული კვარტალური შედეგები აქვს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "2c05d14117194d82",
       "title": "Why Did Billionaire Israel \"Izzy\" Englander More Than Double His Stake in AbbVie Stock and Start a Position in SpaceX Stock?",
