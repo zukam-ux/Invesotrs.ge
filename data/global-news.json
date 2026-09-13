@@ -1,8 +1,47 @@
 {
-  "updatedAt": "2026-09-13T06:50:36.138Z",
+  "updatedAt": "2026-09-13T16:40:47.338Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "8fff3fd9be929757",
+      "title": "Ryanair CEO sends rattling message on airfares ahead of earnings",
+      "source": "Yahoo Finance",
+      "url": "https://www.thestreet.com/investing/stocks/ryanair-ceo-sends-rattling-message-on-airfares-ahead-of-earnings?.tsrc=rss",
+      "publishedAt": "2026-09-13T16:17:00.000Z",
+      "description": "Michael O’Leary told shareholders something they not have wanted to hear.",
+      "titleKa": "Ryanair-ის გენერალური დირექტორი ფინანსურ შედეგებზე გამოსვლის წინ ავიაბილეთების ფასებზე ავრცელებს შეტყობინებას",
+      "summaryKa": "Ryanair-ის გენერალური დირექტორი ფინანსურ შედეგებზე გამოსვლის წინ ავიაბილეთების ფასებზე შეტყობინებას ავრცელებს",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b335eddca641871e",
+      "title": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/a729002b-fde9-337b-938b-dbe92392e3e2/trump-urges-federal-reserve.html?.tsrc=rss",
+      "publishedAt": "2026-09-13T16:11:39.000Z",
+      "description": "President Donald Trump again called on the Federal Reserve to lower interest rates, even as the market expects the first rate hike under Chairman Kevin Warsh.",
+      "titleKa": "ტრამპი ფედერალურ რეზერვს საპროცენტო განაკვეთების დაწევას მოითხოვს, ბაზარი კი ვორშის გაზრდას ელოდება",
+      "summaryKa": "ტრამპი ფედერალურ რეზერვს საპროცენტო განაკვეთების დაწევას მოითხოვს, ბაზარი კი ვორშის გაზრდას ელოდება",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3de44ee97e7015d4",
+      "title": "Could Upstart 10x From Here? The AI Fintech Platform Could Be the Most Misunderstood Stock on the Market",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/could-upstart-10x-here-ai-fintech-platform-could-be-most-misunderstood-stock-market",
+      "publishedAt": "2026-09-13T16:05:01.000Z",
+      "description": "Key PointsCEO Paul Gu called the perception gap facing Upstart \"quite severe.\"",
+      "titleKa": "Upstart-ის აქციები 10-ჯერ შეიძლება გაიზარდოს, ეს შეიძლება იყოს ბაზარზე ყველაზე გაუგებარი აქცია",
+      "summaryKa": "Upstart-ის აქციები 10-ჯერ შეიძლება გაიზარდოს, ეს შეიძლება იყოს ბაზარზე ყველაზე გაუგებარი აქცია",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/could-upstart-10x-here-ai-fintech-platform-could-be-most-misunderstood-stock-market",
+      "bodyKa": "## შესავალი\nUpstart-ის აქციები 10-ჯერ შეიძლება გაიზარდოს. კომპანიის გენერალური დირექტორი, პოლ გუ, აღნიშნავს, რომ ინვესტორებსა და კომპანიას შორის არსებული გაგების ხელშეკრულება \"ძალიან მძვინვარე\" იყო.\n\n## კომპანიის ფინანსური შედეგები\nUpstart-მა 2020 წლის ბოლოს საფონდო ბაზარზე გამოსვლის შემდეგ სწრაფი ზრდა განიცადა, მაგრამ 2022 წელს საპროცენტო განაკვეთების ზრდასთან ერთად აქციების ფასი 95%-ით დაეცა. დღეს, კომპანიის აქციები 25 დოლარად იყიდება და მისი საბაზრო კაპიტალიზაცია 2.5 მილიარდ დოლარს შეადგენს.\n\n## კომპანიის მომავალი პერსპექტივები\nUpstart-ის გენერალური დირექტორი აღნიშნავს, რომ კომპანია უკვე ბევრად უკეთეს მდგომარეობაშია, ვიდრე წლების წინ. კომპანიას ახალი პროდუქტების შემოღების გეგმები აქვს და ის უკვე ბანკის ლიცენზიის მოპოვებაზე მუშაობს. კომპანია 35%-იანი წლიური ზრდის ტემპს გეგმავს 2025-2028 წლებში და მისი შემოსავალი 2028 წელს 2.6 მილიარდ დოლარამდე გაიზრდება.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "b2da76b0aa25cb04",
       "title": "Better Artificial Intelligence ETF: Roundhill's CHAT vs. State Street's XLK",
@@ -3310,78 +3349,6 @@
       "titleKa": "ENS-ის პირველი კვარტლის მოგებამ და გაყიდვებმა ფასების ზრდისა და მარჟის გაფართოების შედეგად მოლოდინს გადააჭარბა",
       "summaryKa": "ENS-მა პირველ კვარტალში ფასების ზრდისა და მარჟის გაუმჯობესების ხარჯზე გაყიდვებისა და მოგების მოლოდინზე უკეთესი შედეგები აჩვენა.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "a72f7c44e527473f",
-      "title": "2 Surging Stocks for Long-Term Investors and 1 That Underwhelm",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ24wSnRPUE5vMnphc1hoMlhGWmhJUThFdUJ6ejVRRENEX2paY05VTHJYaVZZSEl4VmRtcm1RSGxNUGQ0T0FidGF4T2NIel9yT3pUVGctSVdEOTgwNTlPMHBKSzBiSXhnYjF6S2NTMTlnVGRFQXkzdHZGWG5ZVGFjLS1CLVdndVF6N1BlY1R5VGhleXdVQ0E?oc=5",
-      "publishedAt": "2026-08-14T16:37:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ24wSnRPUE5vMnphc1hoMlhGWmhJUThFdUJ6ejVRRENEX2paY05VTHJYaVZZSEl4VmRtcm1RSGxNUGQ0T0FidGF4T2NIel9yT3pUVGctSVdEOTgwNTlPMHBKSzBiSXhnYjF6S2NTMTlnVGRFQXkzdHZGWG5ZVGFjLS1CLVdndVF6N1BlY1R5VGhleXdVQ0E?oc=5\" target=\"_blank\">2 Surging Stocks for Long-Term Investors and 1 That Underwhelm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "2 მზარდი აქცია გრძელვადიანი ინვესტორებისთვის და 1, რომელიც იმედებს აცრუებს",
-      "summaryKa": "განხილულია ორი აქცია, რომლებიც ზრდას განიცდიან და ერთი, რომლის შედეგებიც არასახარბიელოა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "33cb781c81c5897b",
-      "title": "Should You Buy, Hold or Sell Alto Ingredients Stock Post Q2 Earnings?",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkZycTlJa0RNMTVWQXZGOVF3eXFYTHFHS1lENTN4TmdLd1ZETHhkYnVDOU1rNktnRzZkNFFFMGVQak5tSmhNdXRjU3l2dl9RdTVybTdoZGFOU3lQaTdYZWc1Rm1MOWJhcm5zTVRYcC1NSzlRMnZfUHpwTXlZd0ROdUlHcTZVbHFLQW5VSkNhSWVqMV9BT2M1aTJlWQ?oc=5",
-      "publishedAt": "2026-08-14T16:36:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkZycTlJa0RNMTVWQXZGOVF3eXFYTHFHS1lENTN4TmdLd1ZETHhkYnVDOU1rNktnRzZkNFFFMGVQak5tSmhNdXRjU3l2dl9RdTVybTdoZGFOU3lQaTdYZWc1Rm1MOWJhcm5zTVRYcC1NSzlRMnZfUHpwTXlZd0ROdUlHcTZVbHFLQW5VSkNhSWVqMV9BT2M1aTJlWQ?oc=5\" target=\"_blank\">Should You Buy, Hold or Sell Alto Ingredients Stock Post Q2 Earnings?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "უნდა შეიძინოთ, შეინახოთ თუ გაყიდოთ Alto Ingredients-ის აქციები მეორე კვარტლის მოგების ანგარიშის შემდეგ?",
-      "summaryKa": "კითხვა ეხება Alto Ingredients-ის აქციების მიმართ სტრატეგიულ გადაწყვეტილებას მეორე კვარტლის ფინანსური შედეგების გამოქვეყნების შემდეგ.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "b82a5c6e08fa9dd7",
-      "title": "Stock Market Midday, Aug. 14: Stocks Wobble on Falling Consumer Confidence, Reddit Jumps 14%",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUUxTlRlTlNWRXNQZWx5U0FpdnB6RUxCODgxRkp5VVQ0ME40NFMxc0ZITWIxUWo1XzdLNmpHUk5tWmZ5YWdEajFfLWt2TjJxcFRBcTJHSzhHN05GNVloOTE3Sjd3dDZpR3BZTVBlYzd2N0E0UzVHYnN5UzZ0SFUyYk8tVHc1c3FKY1lHTndaM0VHeU9iclE?oc=5",
-      "publishedAt": "2026-08-14T16:35:37.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUUxTlRlTlNWRXNQZWx5U0FpdnB6RUxCODgxRkp5VVQ0ME40NFMxc0ZITWIxUWo1XzdLNmpHUk5tWmZ5YWdEajFfLWt2TjJxcFRBcTJHSzhHN05GNVloOTE3Sjd3dDZpR3BZTVBlYzd2N0E0UzVHYnN5UzZ0SFUyYk8tVHc1c3FKY1lHTndaM0VHeU9iclE?oc=5\" target=\"_blank\">Stock Market Midday, Aug. 14: Stocks Wobble on Falling Consumer Confidence, Reddit Jumps 14%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "საფონდო ბაზრის შუადღე, 14 აგვისტო: აქციები მერყეობს შემცირებული სამომხმარებლო ნდობის ფონზე, Reddit 14%-ით გაიზარდა",
-      "summaryKa": "14 აგვისტოს ვაჭრობისას ბაზარი არასტაბილურია მომხმარებელთა ნდობის კლების გამო, თუმცა Reddit-ის აქციები 14%-ით გაიზარდა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "ad1e49e5e6977e0c",
-      "title": "Consumer Sentiment Drops Amid Persistent Inflation Concerns",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTjl5eV9BZTZ6V2VzM0QwVEtZejVMTC1KdzY4Wlk3RnZpZXVWZVBhVE1yN0dHSWRIdWdQdTlWbXVZSmZHeElwbHlQM0tCcDVwRUtPdkx3LXNsSVVIb21jbmhyN0x1M2h3TzdZUWZXc0x0YVNnNnQ1dktjN3JYR0MwN3dBblc0V09EdTNSbmZ0eDE1NDVFXzZ6Z1J6SjZJSWc?oc=5",
-      "publishedAt": "2026-08-14T16:34:14.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQTjl5eV9BZTZ6V2VzM0QwVEtZejVMTC1KdzY4Wlk3RnZpZXVWZVBhVE1yN0dHSWRIdWdQdTlWbXVZSmZHeElwbHlQM0tCcDVwRUtPdkx3LXNsSVVIb21jbmhyN0x1M2h3TzdZUWZXc0x0YVNnNnQ1dktjN3JYR0MwN3dBblc0V09EdTNSbmZ0eDE1NDVFXzZ6Z1J6SjZJSWc?oc=5\" target=\"_blank\">Consumer Sentiment Drops Amid Persistent Inflation Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "ინფლაციასთან დაკავშირებული მუდმივი შეშფოთების ფონზე მომხმარებელთა განწყობა ეცემა",
-      "summaryKa": "ინფლაციის გაგრძელების შიშმა მომხმარებელთა განწყობაზე უარყოფითად იმოქმედა და მისი ვარდნა გამოიწვია.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "7f1ab910902da759",
-      "title": "Fed’s Goolsbee Wants to See More Evidence of Cooling Inflation",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHB2SzVudEJtdG5wOEp1OVFZNHB1WW1ra2NKTFptR3hwZmZJZUlOeUVxcFQ2NXpIeXgyVnpxMHFJd1lIbUlTQkdHQzV6Ql9ubTRZWmdncXVURU1CU05nTjROd0tkbW53ejZUcVY4R0RnYXo2T3lvek1PdnZnVWZqVTNQZ1hIRWRIVHdweFR4Vld5bUV1ay1Yb1ZBYkNJRmxDLXRERTRXdms3VFZ6M3NiajVBMA?oc=5",
-      "publishedAt": "2026-08-14T16:32:49.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHB2SzVudEJtdG5wOEp1OVFZNHB1WW1ra2NKTFptR3hwZmZJZUlOeUVxcFQ2NXpIeXgyVnpxMHFJd1lIbUlTQkdHQzV6Ql9ubTRZWmdncXVURU1CU05nTjROd0tkbW53ejZUcVY4R0RnYXo2T3lvek1PdnZnVWZqVTNQZ1hIRWRIVHdweFR4Vld5bUV1ay1Yb1ZBYkNJRmxDLXRERTRXdms3VFZ6M3NiajVBMA?oc=5\" target=\"_blank\">Fed’s Goolsbee Wants to See More Evidence of Cooling Inflation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "Fed-ის წარმომადგენელი გულსბი ინფლაციის შენელების მეტ მტკიცებულებას ელის",
-      "summaryKa": "ფედერალური სარეზერვო სისტემის წევრი გულსბი აცხადებს, რომ ინფლაციის კლების დამადასტურებელი დამატებითი მონაცემებია საჭირო.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "f06de9f516f43bf7",
-      "title": "Impermanent loss in crypto: Understanding the real risk of providing liquidity",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMk93NllBUENsSFpRQ2tNR0NnVDhINWFQejVmLVMxUmxZNDhWNWtXQUpDOUtPX1UzZG12bHlXQjRuZGlkbDZ5bExOYXhyLUVnODJtcWRJdUd3aG5NVUdkSnpaSHByNW1TZHR3Q2hDazRxaXJWU0E0aTNBbnFjOUR6SW1MZzByOTNlTzdydldvUENpaTRQQm0w?oc=5",
-      "publishedAt": "2026-08-14T16:24:16.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMk93NllBUENsSFpRQ2tNR0NnVDhINWFQejVmLVMxUmxZNDhWNWtXQUpDOUtPX1UzZG12bHlXQjRuZGlkbDZ5bExOYXhyLUVnODJtcWRJdUd3aG5NVUdkSnpaSHByNW1TZHR3Q2hDazRxaXJWU0E0aTNBbnFjOUR6SW1MZzByOTNlTzdydldvUENpaTRQQm0w?oc=5\" target=\"_blank\">Impermanent loss in crypto: Understanding the real risk of providing liquidity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "არამუდმივი დანაკარგი კრიპტოვალუტაში: ლიკვიდურობის მიწოდების რეალური რისკების გააზრება",
-      "summaryKa": "სტატია განიხილავს არამუდმივი დანაკარგის რისკს კრიპტოვალუტის ლიკვიდურობის უზრუნველყოფის პროცესში.",
-      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
