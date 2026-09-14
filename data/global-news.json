@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T07:11:56.663Z",
+  "updatedAt": "2026-09-14T14:06:55.964Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -97,7 +97,10 @@
       "titleKa": "ტაივანის საფონდო ბაზარზე ოპტიმიზმი შესაძლოა ორშაბათს გაიზარდოს",
       "summaryKa": "ტაივანის საფონდო ბაზარზე ოპტიმიზმი შესაძლოა ორშაბათს გაიზარდოს",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/taiwan-stock-market-may-halt-its-slide-monday",
+      "bodyKa": "## შესავალი\nტაივანის საფონდო ბაზარი ორი თანმიმდევრული სავაჭრო დღეში დაეცა, რის შედეგად იგი დაახლოებით 1,000 პუნქტი ან 2.2 პროცენტი დაკლდა. ტაივანის საფონდო ბაზარი ახლა 46,180-იან დონეზეა.\n\n## ტაივანის საფონდო ბაზრის მდგომარეობა\nტაივანის საფონდო ბაზარი შესაძლოა ორშაბათს მოიშოროს დაქვეითება, რადგან გლობალური პროგნოზი აზიის ბაზრებისთვის დადებითია, ნავთობის ფასების შემცირების გამო.\n\n## მსოფლიო ბაზრების გავლენა\nევროპის და აშშ-ის ბაზრები ზრდას განიცდიან. ნავთობის ფასების კლება და ბარგეინ ჰანტინგი ასევე ხელს უწყობს ამ ზრდას.\n\n## დასკვნა\nტაივანის საფონდო ბაზარზე ოპტიმიზმის ზრდა შესაძლოა ორშაბათს გაგრძელდეს, რადგან გლობალური პროგნოზი დადებითია და ნავთობის ფასები კლებს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "f6827545662b848e",
