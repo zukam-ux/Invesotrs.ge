@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-09-14T01:46:04.299Z",
+  "updatedAt": "2026-09-14T07:11:56.663Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "01dd8f4fe646273c",
+      "title": "S&P 500 Bulls Are Not Giving Up Yet – But Rising Oil Prices, Long-Term Yields Rise Are Narrowing The Path Higher",
+      "source": "Yahoo Finance",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-bulls-are-not-giving-up-yet-but-rising-oil-prices-long-term-yields-rise-are-narrowing-the-path-higher/cZtlufhRBR9?.tsrc=rss",
+      "publishedAt": "2026-09-14T06:52:13.000Z",
+      "description": "Over the weekend, Yardeni Research said in a post that despite rising oil prices, bond yields, and expectations for a Fed rate hike, the S&P 500 has not reacted sharply to the macroeconomic headwinds.",
+      "titleKa": "S&P 500-ის მეპატრონეები ჯერ არ იძენენ იმედს – მაგრამ ავტანის ფასების ზრდა და გრძელვადიანი სესხების სარგებელის ზრდა ავიწროებს მათ განვითარების გზას",
+      "summaryKa": "ავტანის ფასების ზრდა და გრძელვადიანი სესხების სარგებელის ზრდა S&P 500-ის ზრდის შესაძლებლობას ავიწროებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-bulls-are-not-giving-up-yet-but-rising-oil-prices-long-term-yields-rise-are-narrowing-the-path-higher/cZtlufhRBR9?.tsrc=rss",
+      "bodyKa": "S&P 500-ის მეპატრონეები ჯერ არ იძენენ იმედს, მაგრამ ავტანის ფასების ზრდა და გრძელვადიანი სესხების სარგებელის ზრდა ავიწროებს მათ განვითარების გზას. ბრენტის ნავთობის ფიუჩერსი ნოემბერში 2.4%-ით გაიზარდა და 106.97 დოლარამდე მივიდა, ხოლო აშშ-ის 10-წლიანი სესხების სარგებელი 4.963%-მდე გაიზარდა. ## საფონდო ბაზარი უალ-სტრიტის ანალიტიკოსების უმეტესობა ჯერ კიდევ იმედს იძენს S&P 500-ის ზრდაზე ამ წელს. მიუხედავად ზრდადი ოპტიმიზმისა, Citi გამოუშვა გაფრთხილება, რომ მისი წელიწადის ბოლოსთვის დაწესებული მიზანი S&P 500-ისთვის შეიძლება ამბიციური იყოს, რადგან ავტანის ფასების ზრდა და ბონდების სარგებელის ზრდა აინფლუენციას აშშ-ის აქციების შესახებ. ## აქციები S&P 500-ის აქციები ჯერ კიდევ ზრდას განაგრძობს, მიუხედავად იმისა, რომ ავტანის ფასები და ბონდების სარგებელი ზრდას განაგრძობს. Yardeni Research-მა განაცხადა, რომ S&P 500-ის წინამდებარე შეფარდება შემცირდა 12.9%-ით წელიწადში, ხოლო წინამდებარე მოგება 28.1%-ით გაიზარდა. ## ინვესტორები ინვესტორები შეშფოთებული არიან ავტანის ფასების ზრდით და ბონდების სარგებელის ზრდით, რაც აინფლუენციას აშშ-ის აქციების შესახებ. მიუხედავად ამისა, ინვესტორები ჯერ კიდევ იმედს იძენენ S&P 500-ის ზრდაზე ამ წელს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "a8eefc46442412d9",
+      "title": "1 Industrials Stock for Long-Term Investors and 2 We Avoid",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-065120360.html?.tsrc=rss",
+      "publishedAt": "2026-09-14T06:51:20.000Z",
+      "description": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. Still, their generally high capital requirements expose them to the ups and downs of economic cycles, and the industry’s six-month return of 5% has fallen short of the S&P 500’s 13.3% rise.",
+      "titleKa": "1 ინდუსტრიული აქცია ხანგრძლივი ინვესტიციისთვის და 2 აქცია, რომელსაც თქვენ უნდა აირიდოთ",
+      "summaryKa": "სტატიაში მოცემულია 1 ინდუსტრიული აქცია, რომელიც შესაფერისია ხანგრძლივი ინვესტიციისთვის და 2 აქცია, რომელთა შეძენაც არ რეკომენდირდება.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-065120360.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nინდუსტრიული სექტორი ფიზიკური ინფრასტრუქტურის მნიშვნელოვანი ნაწილია, როგორიცაა ავტომობილები, სახლები და ელექტრონული კომერციის ინფრასტრუქტურა. მიუხედავად ამისა, მაღალი კაპიტალური მოთხოვნები ამ სექტორს ეკონომიკური ციკლების ცვალებადობაში ამყარებს. ინდუსტრიული სექტორის 6-თვიანი შემოსავალი 5%-ია, რაც S&P 500-ის 13.3%-ზე დაბალია.\n\n## ინდუსტრიული აქციები\nGorman-Rupp (NYSE:GRC) 1934 წლიდან ფუნქციონირებს და წარმოებს სარწყავ სისტემებს. კომპანიის შემოსავალი 14.7%-ით გაიზარდა წინა 5 წლის განმავლობაში.\n\n## აქციები, რომელთა შეძენა არ რეკომენდირდება\nConcrete Pumping (NASDAQ:BBCP)-ის შემოსავალი 1.4%-ით შემცირდა წინა 2 წლის განმავლობაში, ხოლო Republic (NYSE:RSG)-ის შემოსავალი 4.2%-ით გაიზარდა, რაც სხვა ინდუსტრიულ კომპანიებთან შედარებით დაბალი მაჩვენებელია.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "ebb72ee0466afe96",
+      "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/75964091-0d57-3879-b55e-2c11b3225642/dow-jones-futures%3A-techs.html?.tsrc=rss",
+      "publishedAt": "2026-09-14T06:40:45.000Z",
+      "description": "Anthropic's Dario Amodei, OpenAI's and SpaceX's Elon Musk say they want an AI slowdown. Will they? The Fed looms as well.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები: ტექნოლოგიური კომპანიების აქციები ეცემა, რადგან Anthropic იწვეულია AI-ის შენელების მოწოდებით; ფედერალური შეხვედრა მოახლოებულია",
+      "summaryKa": "Dow Jones-ის მომავალი კონტრაქტები ეცემა, რადგან ტექნოლოგიური კომპანიების აქციები იკლებს ღირებულებას, გამოწვეული AI-ის შენელების მოწოდებით.",
+      "category": "ტექნოლოგიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "bf0e2ab39650277b",
       "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
