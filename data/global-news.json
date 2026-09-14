@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-09-14T19:26:05.082Z",
+  "updatedAt": "2026-09-14T22:46:31.215Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "90960d193329c35a",
+      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/2084aecc-79ec-32d8-a4ee-0894a4e6a808/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+      "publishedAt": "2026-09-14T22:29:28.000Z",
+      "description": "Dow Jones Futures: Nvidia stock, Micron and Sandisk dived on an AI warning ahead of a widely expected rate hike at this week's Fed meeting.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები: Nvidia, Micron, Sandisk-ის აქციები AI-ს შიშის გამო ეცემა; ფედერალური სარეზერვო საპროცენტო განაკვეთის გაზრდა მოახლოვდა",
+      "summaryKa": "Nvidia, Micron და Sandisk-ის აქციები AI-ს შიშის გამო ეცემა, ხოლო ფედერალური სარეზერვოს საპროცენტო განაკვეთის გაზრდა მოახლოვდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "648f069c7f4f15e3",
       "title": "Coca-Cola Stock Is Up 29% in 2026: What Will It Take to Break Through $100?",
