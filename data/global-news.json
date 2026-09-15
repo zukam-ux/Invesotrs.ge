@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-09-15T19:18:18.986Z",
+  "updatedAt": "2026-09-15T22:19:54.814Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "99ccfd34f8bef43f",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "publishedAt": "2026-09-15T22:15:00.000Z",
+      "description": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
+      "titleKa": "‘ჩემი საერთო ბალანსი 20 მილიონ დოლარად უნდა იყოს’: მე 1.1 მილიონ დოლარი კრიპტოპლატფორმაში ვინვესტირე. შეგიძლიათ ყველაფერი დავკარგე?",
+      "summaryKa": "ინვესტორი 1.1 მილიონ დოლარი კრიპტოპლატფორმაში ინვესტირებას შეეჭვება, რომ 20 მილიონ დოლარი მიიღებს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "757207aeec18f0fb",
       "title": "Fed Chair Kevin Warsh Just Said the Quiet Part Out Loud About Inflation -- and History Says Investors Should Listen",
@@ -13,7 +25,10 @@
       "titleKa": "ფედის თავმჯდომარე კევინ უორში ამბობს, რომ ინფლაციის შესახებ სიჩუმე გატეხილია და ისტორია აჩვენებს, რომ ინვესტორებმა უნდა მოისმინონ",
       "summaryKa": "ფედის თავმჯდომარე კევინ უორში ინფლაციის შესახებ საუბრობს და ისტორია აჩვენებს, რომ ინვესტორებმა უნდა მოისმინონ.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.fool.com/investing/2026/09/15/fed-chair-kevin-warsh-just-said-the-quiet-part-out/?.tsrc=rss",
+      "bodyKa": "## შესავალი\nფედის თავმჯდომარე კევინ უორში ამბობს, რომ ინფლაციის შესახებ სიჩუმე გატეხილია და ისტორია აჩვენებს, რომ ინვესტორებმა უნდა მოისმინონ. უორშის გამოსვლა იაქსონ ჰოლში გამართულ კონფერენციაზე მოხდა, სადაც მან აღნიშნა, რომ ინფლაცია უფრო ფართოა, ვიდრე ზოგადად მიიჩნევა.\n\n## ინფლაციის გავლენა ბიზნესზე\nუორშის თქმით, 54% პირადი მოხმარების ხარჯების ფასის ინდექსში შემავალი 199 საგნიდან 12 თვის განმავლობაში 3%-ზე მეტად გაიზარდა. ეს მაჩვენებელი 32%-მდე იყო პანდემიის წინ.\n\n## ინვესტორების მომავალი\nინფლაციის ზრდა და ფედერალური რეზერვის შესაძლო რეაქცია ინვესტორებისთვის სერიოზულ საფრთხეს წარმოადგენს. განსაკუთრებით ზიანდება ის კომპანიები, რომლებიც ზრდის აქციებზე ფოკუსირებული არიან. მაღალი საპროცენტო განაკვეთები მათ ფინანსურ მდგოარეობას უფრო მეტად დაამძიმებს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "860e3ddf4c43521d",
