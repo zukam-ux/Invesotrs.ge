@@ -1,8 +1,38 @@
 {
-  "updatedAt": "2026-09-14T22:46:31.215Z",
+  "updatedAt": "2026-09-15T01:00:39.746Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "20564628d75cdec5",
+      "title": "SpaceX Spent $15.8 Billion on AI in a Quarter. Here's What Happens to the Stock if Orbital Data Centers Don't Work.",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/spacex-spent-158-billion-ai-quarter-heres-what-happens-stock-if-orbital-data-centers-dont",
+      "publishedAt": "2026-09-15T00:32:07.000Z",
+      "description": "Key PointsSpace Exploration Technologies' capital expenditures on AI far exceeded spending for its rocketry and Starlink businesses.",
+      "titleKa": "SpaceX-მა ერთ კვარტალში AI-ზე 15.8 მილიარდი დოლარი დახარჯა",
+      "summaryKa": "SpaceX-ის აქციების მდგომარეობა დამოკიდებულია ორბიტალური მონაცემთა ცენტრების წარმატებაზე",
+      "category": "ტექნოლოგიები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/spacex-spent-158-billion-ai-quarter-heres-what-happens-stock-if-orbital-data-centers-dont",
+      "bodyKa": "## შესავალი\nSpaceX-მა ერთ კვარტალში AI-ზე 15.8 მილიარდი დოლარი დახარჯა, რაც კომპანიის სარაკეტო და Starlink-ის ბიზნესებისთვის გაწეულ ხარჯებს აღემატება.\n\n## კომპანიის სტრატეგია\nSpaceX არის კომპანია, რომელიც საკუთარ თავს ალგორითმების განვითარებაზე ფოკუსირებულად განიხილავს. კომპანიამ განაცხადა, რომ ის აპირებს ორბიტალურ მონაცემთა ცენტრების შექმნას, რომლებიც შესაძლებელია იქნებიან რევოლუციური პერფორმანსის დრაივერები.\n\n## ფინანსური შედეგები\nSpaceX-ის საერთო კაპიტალური ხარჯები მეორე კვარტალში 18.4 მილიარდ დოლარს გაუტოლდა, რომელთაგან 15.8 მილიარდი დოლარი AI-ზე იქნა დახარჯული. ამასთან, Starlink-ისთვის კაპიტალური ხარჯები 1.4 მილიარდ დოლარს, ხოლო კოსმოსური და რაკეტების ბიზნესისთვის - 1.2 მილიარდ დოლარს გაუტოლდა.\n\n## დასკვნა\nSpaceX-ის განვითარებადი პროექტების შესახებ ინფორმაცია ხელმისაწვდომია, მაგრამ კომპანიის აქციების მდგომარეობა ორბიტალურ მონაცემთა ცენტრებზე დამოკიდებული არ არის. კომპანიის გენერალური დირექტორი ელონ მასკი უფრო მეტად ყურადღებას ამახვილებს დედამიწის ზედა მონაცემთა ცენტრებზე.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "ced3a025ad3371e7",
+      "title": "How to Buy Bitcoin Safely After a Week of Hacks: What Liquid, Symbiosis, Revolut and Coldcard Got Wrong",
+      "source": "Yahoo Finance",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/14/how-to-buy-bitcoin-safely-after-a-week-of-hacks-what-liquid-symbiosis-revolut-and-coldcard-got-wrong/?.tsrc=rss",
+      "publishedAt": "2026-09-15T00:32:02.000Z",
+      "description": "Three separate Bitcoin failures hit in seven days, and each one broke at a completely different point in the chain between buyer and coin. Which layer you trust determines whether you were safe or wiped out.",
+      "titleKa": "ბიტკოინის უსაფრთხო ყიდვა ჰაკერების კამპანიის შემდეგ",
+      "summaryKa": "კომპანიებმა Liquid, Symbiosis, Revolut და Coldcard ბიტკოინის ყიდვისას შეცდომები დააფიქსირეს",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://247wallst.com/investing/cryptocurrency/2026/09/14/how-to-buy-bitcoin-safely-after-a-week-of-hacks-what-liquid-symbiosis-revolut-and-coldcard-got-wrong/?.tsrc=rss",
+      "bodyKa": "ბიტკოინის უსაფრთხო ყიდვა ჰაკერების კამპანიის შემდეგ მნიშვნელოვანი გახდა. კომპანიებმა Liquid, Symbiosis, Revolut და Coldcard ბიტკოინის ყიდვისას შეცდომები დააფიქსირეს. აღნიშნულ შემთხვევებში, ჰაკერებმა 320 მილიონი დოლარის ღირებულების ბიტკოინი მოიპარეს. ბიტკოინის ყიდვის ერთ-ერთი უსაფრთხო გზაა სპოტ ბიტკოინის ETF-ის შეძენა. ეს ინვესტიცია საშუალებას აძლევს ინვესტორებს ბიტკოინის ფლექსიურ ყიდვა-გაყიდვაში მონაწილეობა მიიღონ უსაფრთხოდ. ## ბიტკოინის ყიდვის საფრთხეები ბიტკოინის ყიდვა რისკიანი შეიძლება იყოს, რადგან ჰაკერები შეიძლება თქვენს ინფორმაციას მოიპარონ და თქვენს ბიტკოინებს წაართვან. ## ბიტკოინის ყიდვის უსაფრთხო გზები ბიტკოინის ყიდვის ერთ-ერთი უსაფრთხო გზაა სპოტ ბიტკოინის ETF-ის შეძენა. ## დასკვნა ბიტკოინის ყიდვა უსაფრთხოდ შეიძლება მხოლოდ იმ შემთხვევაში, თუ ინვესტორი ზომებს მიიღებს თავისი ინფორმაციის დაცვისთვის.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "90960d193329c35a",
       "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
@@ -3432,18 +3462,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWZlQjYtR0wtVnNIZzRzMU9pVVFibHNaUFFFNGdpV29oYTl1RGIxRlg2d3JHNWZ5UW9aSlpfcXVQWFU0WTExdDVVZVJLN3pzYi1rSDNiRlJaSVB1bzVjbzFxRVprQUZycjhSbEhwS052eHl6VXJjOUtaSjBYVmlMbF9obUNONG1jWlZxWDR4dWp2NTBlRndlWllLWDBTcXM?oc=5\" target=\"_blank\">Block (XYZ) Brings Bitcoin Payments To Square Checkouts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "titleKa": "Block-ს (XYZ) ბიტკოინის გადახდები შემოაქვს Square-ის სალაროებში",
       "summaryKa": "კომპანია Block (XYZ) ბიტკოინის გადახდების ფუნქციას Square-ის სალაროებში ამატებს.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "ad88840c53c4e841",
-      "title": "Bernie Sanders Slammed Google Co-Founder for Spending Millions to Stop California's Billionaire Tax Proposal—Crypto Punters Weigh Passage Odds",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2h0TWJlSTJadm9fSGtrNFk3WGtjRS1nWmlsWU1mTnR5U2VraERrZ2x0Y0RlWXptajlDMlJuQkUtMVhYMVluQkJ5cnRzVzdwR1VEek91ZDluTzBEeE9BTUw4b3dNQjFFQ0hRWWhiWTRubndDMk1Td0JVLXU5dTNGUlhUYTB5bWdkalBuQVdEcDNiRmY4dHVqZHhPaElLUQ?oc=5",
-      "publishedAt": "2026-08-15T23:31:28.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOV2h0TWJlSTJadm9fSGtrNFk3WGtjRS1nWmlsWU1mTnR5U2VraERrZ2x0Y0RlWXptajlDMlJuQkUtMVhYMVluQkJ5cnRzVzdwR1VEek91ZDluTzBEeE9BTUw4b3dNQjFFQ0hRWWhiWTRubndDMk1Td0JVLXU5dTNGUlhUYTB5bWdkalBuQVdEcDNiRmY4dHVqZHhPaElLUQ?oc=5\" target=\"_blank\">Bernie Sanders Slammed Google Co-Founder for Spending Millions to Stop California's Billionaire Tax Proposal—Crypto Punters Weigh Passage Odds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "ბერნი სანდერსმა გააკრიტიკა Google-ის თანადამფუძნებელი მილიონების დახარჯვის გამო კალიფორნიის მილიარდერების გადასახადის წინადადების შესაჩერებლად — კრიპტო მოთამაშეები მისი მიღების შანსებს აფასებენ",
-      "summaryKa": "ბერნი სანდერსმა Google-ის თანადამფუძნებელი კალიფორნიის მილიარდერების გადასახადის წინააღმდეგ მილიონების დახარჯვისთვის გააკრიტიკა, ხოლო კრიპტო მოთამაშეები კანონის მიღების შანსებს აფასებენ.",
       "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
