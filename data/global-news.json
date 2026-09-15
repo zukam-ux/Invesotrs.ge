@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-09-15T06:12:19.360Z",
+  "updatedAt": "2026-09-15T11:48:39.596Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "eb2b1cb33a65a5c8",
+      "title": "Bitcoin and ethereum prices today, Tuesday, September 15, 2026: Crypto prices sliding this morning ahead of Fed meeting",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQemx0X2VjNUNVTzg4bW9rRE9tRkFHVkhVazNMVnVBcDNGSzdvN3FxZ3doZlhoUE5pWXNHeXZGSW1qQ29faTIyaDdyancyeFZNYmJudWx3ckZZTWY4ckFEU2lEb2VuZm1iQ1lfXzJ2blNvYnM4dVVWVE5FLWtrNlNpdTNvVnNrOWJyRW1lNHI0SFk4aWZaOVppcU5xdGI4bFNSUHFpMnlvdTdNVHo4TkxvVHd1c2IwbDJta3l5MldLT3NIb2stNjFZNjhNZ0ZhcjB2MjNPVDJ5Y0NYSTNsZjhoMEVMMWhmTXhneWpHSTR6NzAyd1liTHR5XzVTZXFJb182TDlEMmVRclZ3b0ljanY0Y0NPVUtZdGhhTllj?oc=5",
+      "publishedAt": "2026-09-15T11:37:32.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQemx0X2VjNUNVTzg4bW9rRE9tRkFHVkhVazNMVnVBcDNGSzdvN3FxZ3doZlhoUE5pWXNHeXZGSW1qQ29faTIyaDdyancyeFZNYmJudWx3ckZZTWY4ckFEU2lEb2VuZm1iQ1lfXzJ2blNvYnM4dVVWVE5FLWtrNlNpdTNvVnNrOWJyRW1lNHI0SFk4aWZaOVppcU5xdGI4bFNSUHFpMnlvdTdNVHo4TkxvVHd1c2IwbDJta3l5MldLT3NIb2stNjFZNjhNZ0ZhcjB2MjNPVDJ5Y0NYSTNsZjhoMEVMMWhmTXhneWpHSTR6NzAyd1liTHR5XzVTZXFJb182TDlEMmVRclZ3b0ljanY0Y0NPVUtZdGhhTllj?oc=5\" target=\"_blank\">Bitcoin and ethereum prices today, Tuesday, September 15, 2026: Crypto prices sliding this morning ahead of Fed meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ბიტკოინისა და ეთერეუმის ფასები 2026 წლის 15 სექტემბერს: კრიპტოვალუტების ფასები დაეცა ფედის შეხვედრამდე",
+      "summaryKa": "კრიპტოვალუტების ფასები დაეცა ფედის შეხვედრამდე.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-sliding-this-morning-ahead-of-fed-meeting-113732149.html",
+      "bodyKa": "## კრიპტოვალუტების ფასები\n2026 წლის 15 სექტემბერს, ბიტკოინის (BTC-USD) ფასი 78,181.33 დოლარი იყო, რაც 1.8%-ით მეტი იყო, ვიდრე წინა დღის გახსნის ფასი. თუმცა, 7:24 საათზე, ბიტკოინის ფასი 76,931.56 დოლარამდე დაეცა.\n\n## ეთერეუმის ფასი\nეთერეუმის (ETH-USD) ფასი 2,515.17 დოლარი იყო, რაც 1.6%-ით მეტი იყო, ვიდრე წინა დღის გახსნის ფასი. ეთერეუმის ფასი 7:24 საათზე 2,480.37 დოლარამდე დაეცა.\n\n## კრიპტოვალუტების ფასების ცვლილება\nკრიპტოვალუტების ფასები დაეცა ფედის შეხვედრამდე. ბიტკოინის ფასი წინა დღის გახსნის ფასთან შედარებით 1.8%-ით მეტი იყო, ხოლო ეთერეუმის ფასი 1.6%-ით მეტი იყო. კრიპტოვალუტების ფასების ცვლილება ფედის შეხვედრამდე გამოიწვია შეშფოთებამ ინფლაციის შესახებ.\n\n## კრიპტოვალუტების მომავალი\nკრიპტოვალუტების ფასების მომავალი განსაზღვრული იქნება ფედის შეხვედრის შედეგებით. ფედის შეხვედრის შედეგები გავლენას მოახდენს კრიპტოვალუტების ფასებზე.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "845c7910c1f59945",
+      "title": "Jim Cramer on stocks' Monday rebound after AI, oil fears eased",
+      "source": "Yahoo Finance",
+      "url": "https://qz.com/jim-cramer-stocks-rebound-ai-oil-treasury-monday-091526?.tsrc=rss",
+      "publishedAt": "2026-09-15T11:30:42.000Z",
+      "description": "Three factors helped limit losses on Wall Street: oil reversed course, Treasury buyers emerged at 5%, and AI data center fears eased",
+      "titleKa": "ჯიმ კრამერი აქციების ერთეული დღის რებაუნდის შესახებ",
+      "summaryKa": "ჯიმ კრამერი საუბრობს აქციების ერთეული დღის რებაუნდის შესახებ AI-ისა და ნავთობის შიშის შემდეგ.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b5d0d65ff51b6591",
+      "title": "2 Trillion-Dollar AI Infrastructure Stocks With Up to 136% Upside, According to Select Wall Street Analysts",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2RVMURKVHFxR2tNT05ZQ3l6VC1fMjE5RU10MElXeU5oRkVwRzFDSU5sWGFfc05fbGFDM1E3RjY3ZFhuZjFlTnlZU1JWSENOeWdQbkNJdjVMWFhocGJkVG5fVGU1NjVuLU81aXQtN0ZYZUpjY1o4aUYwdVNiWVdmTlEtNEZnaERvWDlOWEJuYWJ6V205OUkteUpUakN5X0F5?oc=5",
+      "publishedAt": "2026-09-15T11:26:01.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2RVMURKVHFxR2tNT05ZQ3l6VC1fMjE5RU10MElXeU5oRkVwRzFDSU5sWGFfc05fbGFDM1E3RjY3ZFhuZjFlTnlZU1JWSENOeWdQbkNJdjVMWFhocGJkVG5fVGU1NjVuLU81aXQtN0ZYZUpjY1o4aUYwdVNiWVdmTlEtNEZnaERvWDlOWEJuYWJ6V205OUkteUpUakN5X0F5?oc=5\" target=\"_blank\">2 Trillion-Dollar AI Infrastructure Stocks With Up to 136% Upside, According to Select Wall Street Analysts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "2 ტრილიონიანი AI ინფრასტრუქტურული აქციები 136%-იანი ამაღლებით, ვოლ-სტრიტის ანალიტიკოსების მიხედვით",
+      "summaryKa": "ვოლ-სტრიტის ანალიტიკოსების მიხედვით, 2 ტრილიონიანი AI ინფრასტრუქტურული აქციები 136%-იანი ამაღლებით.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/2-trillion-dollar-ai-infrastructure-112601081.html",
+      "bodyKa": "2 ტრილიონიანი AI ინფრასტრუქტურული აქციები 136%-იანი ამაღლებით, ვოლ-სტრიტის ანალიტიკოსების მიხედვით ## შესავალი ვოლ-სტრიტის ანალიტიკოსების მიხედვით, 2 ტრილიონიანი AI ინფრასტრუქტურული აქციები 136%-იანი ამაღლებით. ეს აქციები ეკუთვნის კომპანიებს Nvidia (NASDAQ:NVDA) და Micron Technology (NASDAQ:MU). ## აქციების პოტენციალი Nvidia-ს აქციები 136%-იანი ამაღლების პოტენციალს ფლობს, რაც განპირობებულია კომპანიის გრაფიკული პროცესორების (GPUs) მაღალი მოთხოვნით. ამასთან, Micron Technology-ის აქციები 126%-იანი ამაღლების პოტენციალს ფლობს, რაც განპირობებულია კომპანიის მაღალი სიხშირის მეხსიერების (HBM) მოთხოვნით. ## ანალიტიკოსების მოლოდინები ანალიტიკოსები მოლოდინებს გამოთქვამენ, რომ Nvidia-ს აქციები 515 დოლარამდე ავიდეს, ხოლო Micron Technology-ის აქციები 2200 დოლარამდე ავიდეს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "43277ce301f5a73e",
       "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
