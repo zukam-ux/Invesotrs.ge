@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-09-16T11:40:25.983Z",
+  "updatedAt": "2026-09-16T19:07:47.950Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "c6e4ee16fe9811d1",
+      "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
+      "publishedAt": "2026-09-16T18:57:00.000Z",
+      "description": "Investors have been fixated on the relative performance of Alphabet’s AI models when they should instead be cheering the company’s cloud potential, an analyst says.",
+      "titleKa": "Google სხვა კომპანიებთან შედარებით განსხვავებულ აითი სტრატეგიას ახორციელებს და უოლ სტრიტი შეიძლება ამ საკითხს ვერ ხვდება",
+      "summaryKa": "Google სხვა კომპანიებთან შედარებით განსხვავებულ აითი სტრატეგიას ახორციელებს",
+      "category": "AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "89fe653d23c89ec6",
       "title": "Stock futures rise ahead of Fed interest rate decision Sept. 2026",
