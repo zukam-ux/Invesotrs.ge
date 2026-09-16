@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-09-16T00:52:31.455Z",
+  "updatedAt": "2026-09-16T06:06:29.269Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "89065e7374f0a581",
+      "title": "Not Just the US: Global Bond Yields Hit Multi-Decade Highs. Time to Worry?",
+      "source": "Yahoo Finance",
+      "url": "https://beincrypto.com/global-bond-yields-record-highs/?.tsrc=rss",
+      "publishedAt": "2026-09-16T05:49:34.000Z",
+      "description": "Global bond yields surge to decades-high levels as oil prices and fiscal concerns rattle markets worldwide.",
+      "titleKa": "ობლიგაციების სარგებელი მრავალი ათეული წლის მაქსიმუმს მიაღწია",
+      "summaryKa": "ობლიგაციების სარგებელი მრავალი ათეული წლის მაქსიმუმს მიაღწია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e45923234dc30ecd",
+      "title": "European Shares Set For Firm Open Ahead Of Fed Verdict",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/european-shares-set-firm-open-ahead-fed-verdict",
+      "publishedAt": "2026-09-16T05:36:31.000Z",
+      "description": "(RTTNews) - European stocks are seen opening a tad higher on Wednesday ahead of the U.S. Federal Reserve's interest-rate decision later in the day, with markets pricing in a 92.4 percent chance of a 25-bps rate hike in response to a recent hot inflation report.",
+      "titleKa": "ევროპული აქციები ფედის გადაწყვეტილებამდე მყარი გახსნისთვის მზადაა",
+      "summaryKa": "ევროპული აქციები ფედის გადაწყვეტილებამდე მყარი გახსნისთვის მზადაა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/european-shares-set-firm-open-ahead-fed-verdict",
+      "bodyKa": "ევროპული აქციები ფედის გადაწყვეტილებამდე მყარი გახსნისთვის მზადაა. ამერიკის ფედერალური სარეზერვო ბანკის საპროცენტო განაკვეთის გადაწყვეტილება დღეს გამოცხადდება და ბაზრები 25 ბაზისი პუნქტის ზრდის 92.4%-იან შანსს ითვლის. ## აზიური ბაზრები აზიური ბაზრები ზომიერად გაიზარდა, რადგან ამერიკული საფონდო ინდექსის ფიუჩერსი გაიზარდა, უოლ სტრიტზე ორი დღიანი დანებების შემდეგ. ## ნავთობის ფასები ნავთობის ფასები დაეცა, რადგან ინდუსტრიული მონაცემები აჩვენებს, რომ ამერიკული ნავთობის შენახვა მოულოდნელად გაიზარდა. ## ევროპული ბაზრები ევროპული ბაზრები დაეცა სამი თვის მინიმუმამდე, რადგან ნავთობის ფასები გაიზარდა და ინფლაციის შიში გაიზარდა. პან-ევროპული STOXX 600 0.3%-ით დაეცა, გერმანული DAX 0.2%-ით, საფრანგეთის CAC 40 0.3%-ით, ხოლო ბრიტანული FTSE 100 0.4%-ით.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "f1133b2c1ba0b08b",
+      "title": "WEN, CMG, SBUX, MCD, CAVA Stocks: Seaport Sees One Stock Stand Out Amid Restaurant Traffic Weakness, Valuation Risks",
+      "source": "Yahoo Finance",
+      "url": "https://stocktwits.com/news-articles/markets/equity/wen-cmg-sbux-mcd-cava-stocks-seaport-sees-one-stock-stand-out-amid-restaurant-traffic-weakness-valuation-risks/cZtYEZRRB2B?.tsrc=rss",
+      "publishedAt": "2026-09-16T05:35:30.000Z",
+      "description": "Seaport sees different trends across the restaurant stocks, with CAVA offering strong growth potential, while Wendy’s, Chipotle, Starbucks and McDonald’s face concerns around traffic, valuation and business performance.",
+      "titleKa": "Seaport-ის აზრით, რესტორნებში ვიზიტორების რაოდენობის შემცირების ფონზე ერთ-ერთი აქცია გამოიყოფა",
+      "summaryKa": "Seaport-ის აზრით, რესტორნებში ვიზიტორების რაოდენობის შემცირების ფონზე ერთ-ერთი აქცია გამოიყოფა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://stocktwits.com/news-articles/markets/equity/wen-cmg-sbux-mcd-cava-stocks-seaport-sees-one-stock-stand-out-amid-restaurant-traffic-weakness-valuation-risks/cZtYEZRRB2B?.tsrc=rss",
+      "bodyKa": "## შესავალი\nSeaport-ის მიხედვით, რესტორნებში ვიზიტორების რაოდენობა 2.4%-ით შემცირდა 2026 წლის აგვისტოში, წინა წლის აგვისტოს შედარებით. ამასთან, ნავთობის ფასები, ტრეზარის შემოსავლები და ინფლაცია 27%-ით გაიზარდა, რაც მოსახლეობაზე დამატებით ზეწოლას ახდენს.\n\n## რესტორნების სექტორის მდგომარეობა\nSeaport-მა კომპანიების შეფასება შემდეგნაირად მიანიჭა: Wendy's Co. (WEN), Chipotle Mexican Grill (CMG), Starbucks (SBUX) და McDonald's (MCD) - \"ნეიტრალური\", ხოლო CAVA Group (CAVA) - \"ყიდვა\". CAVA Group-ს აქვს 16%-იანი ამანათი მიწოდების პოტენციალი.\n\n## კომპანიების შეფასება\nSeaport-ის ანალიტიკოსები აღნიშნავენ, რომ CAVA Group-ს აქვს დაბალი ბრენდის ცნობადობა და ახალი რესტორნების გახსნის პოტენციალი, რაც მას საშუალებას აძლევს გაიზარდოს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "13eb5d7b0988b16c",
       "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; How Will Bonds React To Fed Hike?",
