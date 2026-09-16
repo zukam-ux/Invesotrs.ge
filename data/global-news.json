@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-16T19:07:47.950Z",
+  "updatedAt": "2026-09-16T22:13:23.763Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "1770e66a1c41ee27",
+      "title": "Truist Financial, U.S. Bancorp, and Republic Bancorp Stocks Trade Down, What You Need To Know",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2VJZ1A2NTI4YURieS1OT05kRl9IT1pla19HelU5ZGp1RktNTmhGbDhmUTBrZlp3SjRyb29KTkwxWW5rX0UxVURTVHpUUmdmTFpyb3oxekV4YVEzclFmd21OdGctZHZrM3YyczY3eHQzVlItenN1eFpyNTk5ZGlDYWNVVVZPeWRMY3JaLU05cUZsYkI1UjJCZ2RJd05FWEc2SXc?oc=5",
+      "publishedAt": "2026-09-16T22:04:52.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2VJZ1A2NTI4YURieS1OT05kRl9IT1pla19HelU5ZGp1RktNTmhGbDhmUTBrZlp3SjRyb29KTkwxWW5rX0UxVURTVHpUUmdmTFpyb3oxekV4YVEzclFmd21OdGctZHZrM3YyczY3eHQzVlItenN1eFpyNTk5ZGlDYWNVVVZPeWRMY3JaLU05cUZsYkI1UjJCZ2RJd05FWEc2SXc?oc=5\" target=\"_blank\">Truist Financial, U.S. Bancorp, and Republic Bancorp Stocks Trade Down, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Truist Financial, U.S. Bancorp და Republic Bancorp-ის აქციები გაყიდვაზეა",
+      "summaryKa": "Truist Financial, U.S. Bancorp და Republic Bancorp-ის აქციები დაეცა",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/truist-financial-u-bancorp-republic-220452954.html",
+      "bodyKa": "## შესავალი\nამერიკის ფედერალური რეზერვის მიერ საპროცენტო განაკვეთის გაზრდის შემდეგ, რამდენიმე საფინანსო კომპანიის აქციები დაეცა. ეს განსაკუთრებით შეეხო ბანკებს, რომელთა შორის აღსანიშნავია Truist Financial, U.S. Bancorp და Republic Bancorp.\n\n## საფონდო ბაზარის რეაქცია\nფედერალური რეზერვის გადაწყვეტილების შემდეგ, რომლის მიხედვითაც საპროცენტო განაკვეთი გაიზარდა, ბანკების აქციები დაეცა. Truist Financial-ის აქციები 3.9%-ით, U.S. Bancorp-ის აქციები 3.8%-ით, ხოლო Republic Bancorp-ის აქციები 3%-ით დაეცა.\n\n## კომპანიების ფინანსური შედეგები\nTruist Financial-ის აქციები ბოლო წლის განმავლობაში საკმაოდ სტაბილურად იყო, მხოლოდ ორჯერ 5%-ზე მეტი ცვლილება განიცადა. ამჟამინი ვარდნა მიუთითებს იმაზე, რომ ბაზარი ამ სიახლეს მნიშვნელოვანად აფასებს. კომპანიის აქციები ბოლო ხუთი წლის განმავლობაში 12.4%-ით დაეცა, ხოლო ბოლო წლის განმავლობაში 2.6%-ით.\n\n## დასკვნა\nსაფინანსო კომპანიების აქციების ვარდნა ფედერალური რეზერვის გადაწყვეტილების შედეგია.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "c6e4ee16fe9811d1",
       "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
