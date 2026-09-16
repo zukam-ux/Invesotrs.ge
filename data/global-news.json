@@ -1,8 +1,47 @@
 {
-  "updatedAt": "2026-09-15T22:19:54.814Z",
+  "updatedAt": "2026-09-16T00:52:31.455Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "13eb5d7b0988b16c",
+      "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; How Will Bonds React To Fed Hike?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/10d3ce21-753d-3a1d-b088-1aa8059410a8/dow-jones-futures-rise-as.html?.tsrc=rss",
+      "publishedAt": "2026-09-16T00:45:42.000Z",
+      "description": "The S&P 500 and Nasdaq undercut key support as oil prices and Treasury yields jumped. How will bonds react to the Federal Reserve decision?",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები იზრდება, ServiceNow და Twilio ლიდერობენ 8 ახალ შენაძენს",
+      "summaryKa": "ServiceNow და Twilio 8 ახალ შენაძენს ლიდერობენ, რასაც Dow Jones-ის მომავალი კონტრაქტების ზრდა მოსდევს",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "235791b1794ed4f4",
+      "title": "Losing Streak May Continue For Taiwan Stock Market",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/losing-streak-may-continue-taiwan-stock-market",
+      "publishedAt": "2026-09-16T00:33:12.000Z",
+      "description": "(RTTNews) - The Taiwan stock market has finished lower in four straight sessions, surrendering more than 1,650 points or 3 percent in that span. The Taiwan Stock Exchange now sits just above the 45,500-point plateau and it may continue to sputter on Wednesday.",
+      "titleKa": "ტაივანის საფონდო ბაზარზე ზარალის სერია შესაძლოა გაგრძელდეს",
+      "summaryKa": "ტაივანის საფონდო ბაზარზე ზარალის სერია შესაძლოა გაგრძელდეს",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/losing-streak-may-continue-taiwan-stock-market",
+      "bodyKa": "## ტაივანის საფონდო ბაზარის მდგომარეობა\nტაივანის საფონდო ბაზარი ბოლო ორ სესიაში დაეცა, რა დროსაც 170-ზე მეტი პუნქტი დაიკლო, ანუ 0.8 პროცენტი. ტაივანის საფონდო ბაზარი ახლა 22,100 პუნქტზე მეტია და შესაძლოა კიდევ დაეცეს ორშაბათს.\n\n## გლობალური პროგნოზი\nაზიის ბაზარების გლობალური პროგნოზი ფართოდ ნეგატიურია გლობალური ეკონომიკის შესახებ შექმნილი შიშების გამო. ევროპისა და აშშ-ის ბაზარები მკვეთრად დაეცა და აზიის ბირჟები ალბათ ამ მიმართულებას გაჰყვებიან.\n\n## ტაივანის საფონდო ბაზარის შედეგები\nტაივანის საფონდო ბაზარი ორშაბათს მცირედით დაეცა, რაც ფინანსურ აქციებში, ტექნოლოგიურ აქციებსა და პლასტმასებში განვითარებულ ზარალს მოჰყვა. ინდექსი 142.89 პუნქტით დაეცა, ანუ 0.64 პროცენტით, და 22,092.21-ზე დასრულდა.\n\n## მსოფლიო ბაზარების გავლენა\nუოლ სტრიტის ბაზარი მკვეთრად დაეცა, რასაც მოჰყვა დაუვ-ჯონსის 626.15 პუნქტიანი დაცემა, ანუ 1.51 პროცენტი, და 40,836.93-ზე დასრულდა. ნასდაკი 577.33 პუნქტით დაეცა, ანუ 3.26 პროცენტით, და 17,136.30-ზე დასრულდა, ხოლო S&P 500 119.47 პუნქტით დაეცა, ანუ 2.12 პროცენტით, და 5,528.93-ზე დასრულდა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "88b1670ec786755a",
+      "title": "Japan August imports jump as oil prices lift costs, exports stay firm",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT0IxSUt2VlI5MS1SbU9jZERmOFFhYkdoZ2JmUU1WOVVkeHZjM21EZGtoZzBvX3VIcHUtY3FqWUdvWGJnSDJZQ2t0b0dpMUdabF9PdzZwd3VEV3ctRy1vUTVWWHc0Zk1yQ0c4ekRrMUdnNnoxUnpybGRkN2xPcE9zSHQ2SlVDRHhnY3NWREl1cTNQZ2VHYUllNzZn?oc=5",
+      "publishedAt": "2026-09-16T00:33:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOT0IxSUt2VlI5MS1SbU9jZERmOFFhYkdoZ2JmUU1WOVVkeHZjM21EZGtoZzBvX3VIcHUtY3FqWUdvWGJnSDJZQ2t0b0dpMUdabF9PdzZwd3VEV3ctRy1vUTVWWHc0Zk1yQ0c4ekRrMUdnNnoxUnpybGRkN2xPcE9zSHQ2SlVDRHhnY3NWREl1cTNQZ2VHYUllNzZn?oc=5\" target=\"_blank\">Japan August imports jump as oil prices lift costs, exports stay firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "იაპონიაში აგვისტოში იმპორტი გაიზარდა, ნავთობის ფასების ზრდის გამო",
+      "summaryKa": "იაპონიაში აგვისტოში იმპორტი გაიზარდა, რაც ნავთობის ფასების ზრდას მოსდევს",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "99ccfd34f8bef43f",
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
