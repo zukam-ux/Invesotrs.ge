@@ -1,8 +1,47 @@
 {
-  "updatedAt": "2026-09-16T06:06:29.269Z",
+  "updatedAt": "2026-09-16T11:40:25.983Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "89fe653d23c89ec6",
+      "title": "Stock futures rise ahead of Fed interest rate decision Sept. 2026",
+      "source": "Yahoo Finance",
+      "url": "https://qz.com/stock-futures-fed-rate-decision-september-091626?.tsrc=rss",
+      "publishedAt": "2026-09-16T11:30:59.000Z",
+      "description": "Markets are pricing in a 92.5% chance of a quarter-point rate hike Wednesday, which would be the Fed's first increase since 2023",
+      "titleKa": "საფონდო ბაზრის მომავალი კონტრაქტები იზრდება საპროცენტო განაკვეთის გადაწყვეტის წინ",
+      "summaryKa": "ამერიკის ფედერალური სარეზერვო ბანკის მიერ საპროცენტო განაკვეთის გადაწყვეტის წინ საფონდო ბაზრის მომავალი კონტრაქტები იზრდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "0b3423519c63532c",
+      "title": "Bitcoin and ethereum prices today, Wednesday, September 16, 2026: Crypto prices tank after CLARITY Act fails and ahead of Fed decision",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-16-2026-crypto-prices-tank-after-clarity-act-fails-and-ahead-of-fed-decision-112517152.html?.tsrc=rss",
+      "publishedAt": "2026-09-16T11:25:17.000Z",
+      "description": "Bitcoin opened at $75,586.51 on Wednesday, September 16, 2026, 3.3% lower than Tuesday's opening price. As of 7:12 a.m. ET this morning, the price of bitcoin moved higher to $75,885.53. Ethereum opened at $2,397.64 today, down 4.6% from Tuesday's opening price. The price of ethereum moved up to $2,404.43 as of 7:12 a.m. ET.",
+      "titleKa": "ბიტკოინისა და ეთერეუმის ფასები 16 სექტემბერი, 2026: კრიპტოვალუტების ფასები ეცემა CLARITY Act-ის ჩავარდნის შემდეგ",
+      "summaryKa": "CLARITY Act-ის ჩავარდნის შემდეგ ბიტკოინისა და ეთერეუმის ფასები ეცემა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-16-2026-crypto-prices-tank-after-clarity-act-fails-and-ahead-of-fed-decision-112517152.html?.tsrc=rss",
+      "bodyKa": "ბიტკოინისა და ეთერეუმის ფასები 16 სექტემბერი, 2026: კრიპტოვალუტების ფასები ეცემა CLARITY Act-ის ჩავარდნის შემდეგ\n## შესავალი\nCLARITY Act-ის ჩავარდნის შემდეგ ბიტკოინისა და ეთერეუმის ფასები ეცემა. ბიტკოინის ფასი 16 სექტემბერს, 2026 წელს, 3.3%-ით დაეცა, ხოლო ეთერეუმის ფასი - 4.6%-ით.\n## კრიპტოვალუტების ფასები\nბიტკოინის ფასი დღეს, 16 სექტემბერს, 2026 წელს, შეადგენს $75,586.51-ს, ხოლო ეთერეუმის ფასი - $2,397.64-ს. ბიტკოინის ფასი უკანა დღეს 3.3%-ით დაეცა, ხოლო ეთერეუმის ფასი - 4.6%-ით.\n## კრიპტოვალუტების მომავალი\nკრიპტოვალუტების ფასების ცვალებადობა განაპირობებულია სხვადასხვა ფაქტორებით, მათ შორის ეკონომიკური პირობებით, რეგულაციებით და ინვესტორების მოლოდინებით.\n## დასკვნა\nCLARITY Act-ის ჩავარდნის შემდეგ კრიპტოვალუტების ფასები ეცემა. ბიტკოინის ფასი 16 სექტემბერს, 2026 წელს, 3.3%-ით დაეცა, ხოლო ეთერეუმის ფასი - 4.6%-ით.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "137b6eff0a6b217b",
+      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Cloudflare Hits Buy Point",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/2b47c372-177e-3051-aa01-406a8d82b220/these-7-stocks-are-analyst.html?.tsrc=rss",
+      "publishedAt": "2026-09-16T11:23:21.000Z",
+      "description": "As the stock market rebounds, it's important to watch the stocks that are holding up and are most loved by equity analysts. Amazon.com, Alphabet and Dell Technologies are three of the seven best stocks where investors can find magnificent profit growth prospects. Investors should be seeking new buy opportunities after the S&P 500 climbed to new highs.",
+      "titleKa": "7 აქცია, რომლებიც ანალიტიკოსების ფავორიტებია შემოსავლის საშთამოების ზრდისთვის",
+      "summaryKa": "ანალიტიკოსების აზრით, 7 აქცია ფავორიტია შემოსავლის ზრდისთვის.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "89065e7374f0a581",
       "title": "Not Just the US: Global Bond Yields Hit Multi-Decade Highs. Time to Worry?",
