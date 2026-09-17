@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-09-16T22:13:23.763Z",
+  "updatedAt": "2026-09-17T00:36:25.836Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "cbebf23c6f2cd476",
+      "title": "Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/d657761c-bf99-3091-88b4-e770125e96a8/dow-jones-futures-rise-after.html?.tsrc=rss",
+      "publishedAt": "2026-09-17T00:25:32.000Z",
+      "description": "The S&P 500 fell on the Fed rate hike and hawkish Warsh comments, But AMD, Bloom Energy flirted with buy signals.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები იზრდება ფედის ჰავკიშის შემდეგ",
+      "summaryKa": "ფედის ჰავკიშის გამო საფონდო ბაზარზე აქციების ღირებულება დაეცა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b4df82ebacdc7ef1",
+      "title": "Why IREN (IREN) Is Down 6.1% After Nvidia Strikes US$5.5 Billion AI Cloud Deal With Miner",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-iren-iren-down-6-001814288.html?.tsrc=rss",
+      "publishedAt": "2026-09-17T00:18:14.000Z",
+      "description": "Recently, JPMorgan analyst Richard Choe issued a rare double-upgrade on IREN after the company signed a roughly US$5.50 billion, five-year partnership with Nvidia tied to its fast-growing AI cloud services platform. This shift, alongside IREN's decision to wind down Bitcoin mining and expand vertically integrated AI infrastructure, marks a material redefinition of its core business model. Next, we'll examine how the Nvidia partnership and AI cloud transition reshape IREN's investment...",
+      "titleKa": "IREN-ის აქციები 6.1%-ით დაეცა Nvidia-ს ახალი გარიგების გამო",
+      "summaryKa": "Nvidia-მ $5.5 მილიარდიანი გარიგება დადო ერთ-ერთ კომპანიასთან, რის გამოც IREN-ის აქციები დაეცა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/why-iren-iren-down-6-001814288.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nNvidia-მ $5.5 მილიარდიანი გარიგება დადო ერთ-ერთ კომპანიასთან, რის გამოც IREN-ის აქციები 6.1%-ით დაეცა. ეს გარიგება ახალ ეტაპზე გადაიყვანს IREN-ის საქმიანობას და მის საფონდო ბაზარზე გავლენას მოახდენს.\n\n## გარიგების დეტალები\nNvidia-ს გარიგება IREN-თან დაკავშირებულია მათი სწრაფად განვითარებადი AI სერვისების პლატფორმასთან. ეს გარიგება ასევე მიზნად ისახავს IREN-ის ბიზნეს-მოდელის შეცვლას და მის განვითარებას AI-ზე ორიენტირებულ სერვისებისაკენ.\n\n## გავლენა საფონდო ბაზარზე\nIREN-ის აქციების 6.1%-იანი დაცემა არის პირდაპირი შედეგი Nvidia-ს გარიგებისა. ეს გარიგება შეიძლება გავლენა მოახდენოს IREN-ის ფინანსურ შედეგებზე და მის საფონდო ბაზარზე პოზიციაზე.\n\n## დასკვნა\nIREN-ის აქციების დაცემა Nvidia-ს გარიგების გამო არის მნიშვნელოვანი ფაქტორი საფონდო ბაზარზე. ინვესტორებმა უნდა გაითვალისწინონ ეს ფაქტორები და განიხილონ თავიანთი ინვესტიციის გადაწყვეტილებები ამ ინფორმაციის საფუძველზე.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "f6facc8486dec434",
+      "title": "These 2 Words From Fed Chair Kevin Warsh Sunk the Dow, S&P 500, and Nasdaq, and Put Wall Street on Notice",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/09/16/these-2-words-from-fed-chair-kevin-warsh-sunk-dow-sp500-nasdaq-put-wall-street-on-notice/?.tsrc=rss",
+      "publishedAt": "2026-09-17T00:11:01.000Z",
+      "description": "The battle against persistently elevated inflation is just getting started.",
+      "titleKa": "ფედის თავმჯდომარის 2 სიტყვა იყო მიზეზი Dow-ის, S&P 500-ის და Nasdaq-ის დაცემისა",
+      "summaryKa": "ფედის თავმჯდომარის გამოსვლამ გავლენა მოახდინა საფონდო ბაზარზე აქციების ღირებულებაზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.fool.com/investing/2026/09/16/these-2-words-from-fed-chair-kevin-warsh-sunk-dow-sp500-nasdaq-put-wall-street-on-notice/?.tsrc=rss",
+      "bodyKa": "## ფედის თავმჯდომარის 2 სიტყვა იყო მიზეზი Dow-ის, S&P 500-ის და Nasdaq-ის დაცემისა\nფედის თავმჯდომარე კევინ ვორშის გამოსვლამ გავლენა მოახდინა საფონდო ბაზარზე. ვორშის განცხადებამ, რომ ფედი განიხილავს საპროცენტო განაკვეთის ზრდას, გამოიწვია Dow, S&P 500 და Nasdaq-ის დაცემა.\n\n## ფედის გადაწყვეტილება საპროცენტო განაკვეთის შესახებ\nფედის თავმჯდომარემ განაცხადა, რომ ფედი აპირებს საპროცენტო განაკვეთის ზრდას, რათა ბრძოლა გაიმართოს ინფლაციის წინააღმდეგ. ეს გადაწყვეტილება გამოიწვია აქციების ღირებულების დაცემას.\n\n## საფონდო ბაზრის რეაქცია\nსაფონდო ბაზრის რეაქცია ფედის გადაწყვეტილებაზე იყო ნეგატიური. Dow, S&P 500 და Nasdaq დაეცა, რაც გამოიწვია ინვესტორების შეშფოთებამ. ფედის გადაწყვეტილება გამოიწვია ინფლაციის წინააღმდეგ ბრძოლის გამართვა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "1770e66a1c41ee27",
       "title": "Truist Financial, U.S. Bancorp, and Republic Bancorp Stocks Trade Down, What You Need To Know",
