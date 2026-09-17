@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-17T00:36:25.836Z",
+  "updatedAt": "2026-09-17T05:29:29.572Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "a0d05f057c6b8caa",
+      "title": "Indian Shares Edge Higher In Cautious Trade",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/indian-shares-edge-higher-cautious-trade",
+      "publishedAt": "2026-09-17T04:47:00.000Z",
+      "description": "(RTTNews) - Indian shares eked out modest gains in cautious trade on Thursday as investors weighed a Federal Reserve's hawkish rate hike as well as tightening U.S. sanctions on Russian oil against falling crude oil prices in international markets.",
+      "titleKa": "ინდური აქციები ზრდას განაგრძობს შეშფოთებულ ვაჭრობაში",
+      "summaryKa": "ინდური აქციები ზრდას განაგრძობს შეშფოთებულ ვაჭრობაში.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/indian-shares-edge-higher-cautious-trade",
+      "bodyKa": "## შესავალი\nინდური აქციები ზრდას განაგრძობს შეშფოთებულ ვაჭრობაში. ეს გამოწვეულია ბიჰარის არჩევნებში BJP-ის გამარჯვებით და ინდოეთ-ამერიკის სავაჭრო შეთანხმების შესახებ არსებული ოპტიმიზმით.\n\n## საფონდო ბაზარი\nინდური საფონდო ბაზარი ზრდას განაგრძობს, თუმცა მსოფლიო საფონდო ბაზრების შეშფოთებული ვაჭრობის ფონზე. BSE Sensex-ის ინდექსი 0,30%-ით გაიზარდა და 84 815-მდე მივიდა, ხოლო NSE Nifty-ის ინდექსი 0,2%-ით გაიზარდა და 25 960-მდე მივიდა.\n\n## კომპანიების შედეგები\nზოგიერთი კომპანიის აქციები ზრდას განაგრძობს. მაგალითად, Kotak Mahindra Bank-ის აქციები 1%-ით გაიზარდა, ხოლო Lupin-ის აქციები 1%-ით გაიზარდა ამერიკის საკვები და წამლის ადმინისტრაციის მიერ მათი ქარხნის ინსპექციის შემდეგ. თუმცა, ზოგიერთი კომპანიის აქციები კლებას განაგრძობს. მაგალითად, Tata Motors-ის აქციები 5%-ით დაეცა მას შემდეგ, რაც კომპანიამ შეამცირა თავისი Jaguar Land Rover-ის ებიტდა მარჯინის პროგნოზი.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "cbebf23c6f2cd476",
       "title": "Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Buy Points",
