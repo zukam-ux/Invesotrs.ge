@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-17T19:20:07.556Z",
+  "updatedAt": "2026-09-17T22:29:36.852Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "dbf59bc3ffdc7a25",
+      "title": "M-tron Industries, Inc. (MPTI) Stock Sinks As Market Gains: What You Should Know",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/m-tron-industries-inc-mpti-221503429.html?.tsrc=rss",
+      "publishedAt": "2026-09-17T22:15:03.000Z",
+      "description": "M-tron Industries, Inc. (MPTI) closed the most recent trading day at $74.92, moving 1.55% from the previous trading session.",
+      "titleKa": "M-tron Industries, Inc. (MPTI)-ის აქციები ეცემა, საფონდო ბაზარი კი იზრდება",
+      "summaryKa": "M-tron Industries, Inc.-ის აქციების ღირებულება ეცემა, მიუხედავად იმისა, რომ საფონდო ბაზარი ზრდას განაგრძობს",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/m-tron-industries-inc-mpti-221503429.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nM-tron Industries, Inc. (MPTI)-ის აქციები ეცემა, მიუხედავად იმისა, რომ საფონდო ბაზარი ზრდას განაგრძობს. ბოლო ვაჭრობის სესიაში, M-tron Industries, Inc. (MPTI) 74.92 დოლარად დაიხშო, რაც -1.55%-იან ცვლილებას წარმოადგენს წინა დღესთან შედარებით.\n\n## ფინანსური შედეგები\nკომპანიის აქციები ბოლო თვეში 9.63%-ით შემცირდა, რაც სამშენებლო სექტორის 11.43%-იან შემცირებას აღემტება და S&P 500-ის 2.85%-იან შემცირებას ჩამორჩება. ინვესტორები კომპანიის მომავალ ფინანსურ შედეგებს ახლოდან დააკვირდებიან. კომპანიას მომავალ კვარტალში EPS-ის 0.51 დოლარი მოელია, რაც 19.05%-ით ნაკლებია წინა წლის ანალოგიურ პერიოდთან შედარებით. ამასთან, კომპანიის შემოსავალი 15.4 მილიონ დოლარად იქნება, რაც 8.68%-ით მეტია წინა წლის ანალოგიურ პერიოდთან შედარებით.\n\n## ინვესტიცია და შეფასება\nM-tron Industries, Inc.-ის აქციების შეფასება მიმდინარეობს. კომპანიის წინასწარი P/E მაჩვენებელი 34.86-ია, რაც მის ინდუსტრიაში 23.06-ზე მაღალია. ამასთან, MPTI-ს PEG მაჩვენებელი 1.39-ია, რაც ინდუსტრიის საშუალო მაჩვენებელზე დაბალია.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "1c5868616ecf0723",
       "title": "2 Reasons to Avoid SIGI and 1 Stock to Buy Instead",
@@ -13,7 +28,10 @@
       "titleKa": "2 მიზეზი, რის გამოც SIGI-ს არ უნდა შეიძინოთ და 1 აქცია, რომელიც მასზე მეტია",
       "summaryKa": "ინვესტორებს შეიძლება SIGI-ს აქციების შეძენა არ მიეცეს და სხვა აქციებზე ინვესტირებას ამჯობინონ.",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-avoid-sigi-1-191417716.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nინვესტორები ხშირად ეძებენ ისეთ აქციებს, რომლებიც მაღალ მოგებას მოუტანენ. თუმცა, ზოგჯერ საუკეთესო არჩევანი არის გარკვეული აქციების შეძენის გარეშე დარჩენა. ამ სტატიაში განვიხილავთ მიზეზებს, რის გამოც Selective Insurance Group-ის (SIGI) აქციების შეძენა არ არის საუკეთესო იდეა.\n\n## შემოსავლის კლება\nSIGI-ის შემოსავალი მომავალ 12 თვეში 1.2%-ით შემცირდება, რაც უკანა 2 წლის 9.6%-იანი ანუალური ზრდის შემდეგ უარყოფით ტენდენციას ნიშნავს. \n\n## მოგების ზრდის პრობლემები\nSIGI-ის ერთ აქციაზე მოგება ბოლო 5 წლის განმავლობაში 4.3%-იანი ანუალური ზრდის ტემპით იზრდებოდა, რაც 11.2%-იანი ანუალური შემოსავლის ზრდის ტემპზე დაბალია. \n\n## ალტერნატიული ინვესტიციები\nNvidia-ს აქციები 2020 წლის ივნისიდან 2025 წლის ივნისამდე 1460%-ით გაიზარდა, ხოლო Kadant-ის აქციები 214%-ით გაიზარდა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "40d46aa284b5a1d4",
