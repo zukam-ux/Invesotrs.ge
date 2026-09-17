@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-09-17T15:23:06.279Z",
+  "updatedAt": "2026-09-17T19:20:07.556Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "1c5868616ecf0723",
+      "title": "2 Reasons to Avoid SIGI and 1 Stock to Buy Instead",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-avoid-sigi-1-191417716.html?.tsrc=rss",
+      "publishedAt": "2026-09-17T19:14:17.000Z",
+      "description": "Selective Insurance Group has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 15.8% to $88.57 per share while the index has gained 12.9%.",
+      "titleKa": "2 მიზეზი, რის გამოც SIGI-ს არ უნდა შეიძინოთ და 1 აქცია, რომელიც მასზე მეტია",
+      "summaryKa": "ინვესტორებს შეიძლება SIGI-ს აქციების შეძენა არ მიეცეს და სხვა აქციებზე ინვესტირებას ამჯობინონ.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "40d46aa284b5a1d4",
       "title": "S&P 500 and Nasdaq Jump After Fed Delivers First Rate Hike in Years",
@@ -55,7 +67,10 @@
       "titleKa": "Roundtable-მა 10-წლიან, 1 მილიარდ დოლარიან შეთანხმებას მიაღწია, რაც მის AI/DeFi მედია ოპერაციულ სისტემას გლობალურ მასშტაბსა და მოგებადობას მოუტანს",
       "summaryKa": "Roundtable-მა 10-წლიან, 1 მილიარდ დოლარიან შეთანხმებას მიაღწია, რაც მის AI/DeFi მედია ოპერაციულ სისტემას გლობალურ მასშტაბსა და მოგებადობას მოუტანს.",
       "category": "ტექნოლოგიები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/roundtable-secures-10-1-billion-150000998.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nRoundtable-მა 10-წლიან, 1 მილიარდ დოლარიან შეთანხმებას მიაღწია, რაც მის AI/DeFi მედია ოპერაციულ სისტემას გლობალურ მასშტაბსა და მოგებადობას მოუტანს. ეს შეთანხმება The Arena Group-თან (ახლა Paradium.AI) დაიდო და მისი ფარგლებში Roundtable-ის AI/DeFi-ზე დაფუძნებული მედია ოპერაციული სისტემა გამოიყენება.\n\n## შეთანხმების დეტალები\nშეთანხმების თანახმად, Roundtable იღებს პრემიუმ მედია პორტფოლიოს, რომელიც მოიცავს ცნობილ ბრენდებს, როგორებიცაა TheStreet, Parade, Men's Journal, Athlon Sports, Autoblog და Powder. ამ შეთანხმების შედეგად, Roundtable-ის შემოსავალი 100 მილიონ დოლარამდე გაიზრდება და კომპანია EBITDA-პოზიტიურ მაჩვენებელს მიაღწევს.\n\n## დასკვნა\nRoundtable-ის 10-წლიან, 1 მილიარდ დოლარიან შეთანხმება კომპანიის განვითარებისა და წარმატების მნიშვნელოვან ნაბიჯს წარმოადგენს. ეს შეთანხმება კომპანიის ფინანსურ შედეგებს და მოგებადობას გაზრდის.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "f94a449a7e355cd9",
