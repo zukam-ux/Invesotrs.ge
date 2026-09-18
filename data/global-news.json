@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-18T21:17:06.535Z",
+  "updatedAt": "2026-09-18T23:23:32.866Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "69f0f5e2b5867c50",
+      "title": "NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here’s The One Jim Cramer Likes",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRnpQUjRwd1dzTTJrM0p0Y0Mxa1lmS2RrdnZtRGIwNEluVFhCd1V4ZGlXdnZwWk41eDQxcFdzV3lqNjRPUHJvakwya2Z4MlBUUTFsVDRlU1dfN3p3MmRra2twT0VjbTR2VC1GQW1hSGh4cVFHNmdaQk1FSnVPVXlwZ05Bdl9mbzBMdXhzT25RNzM2cTNSTmZaXzVJcmRmXzBU?oc=5",
+      "publishedAt": "2026-09-18T23:03:52.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQRnpQUjRwd1dzTTJrM0p0Y0Mxa1lmS2RrdnZtRGIwNEluVFhCd1V4ZGlXdnZwWk41eDQxcFdzV3lqNjRPUHJvakwya2Z4MlBUUTFsVDRlU1dfN3p3MmRra2twT0VjbTR2VC1GQW1hSGh4cVFHNmdaQk1FSnVPVXlwZ05Bdl9mbzBMdXhzT25RNzM2cTNSTmZaXzVJcmRmXzBU?oc=5\" target=\"_blank\">NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here’s The One Jim Cramer Likes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "NVIDIA Vs Intel Corporation (NASDAQ:INTC): ჯიმ კრემერი რომელს ამჯობინებს",
+      "summaryKa": "ჯიმ კრემერი NVIDIA-ს და Intel Corporation-ს შორის ერთ-ერთს ამჯობინებს",
+      "category": "ტექნოლოგიები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-intel-corporation-nasdaq-230352152.html",
+      "bodyKa": "## შესავალი\nჯიმ კრემერი, ცნობილი ფინანსური ანალიტიკოსი, NVIDIA-ს და Intel Corporation-ს შორის ერთ-ერთს ამჯობინებს. ინტელის აქციები 170%-ით გაიზარდა წელს, ხოლო მისი წინასწარი P/E რატიო 54.64-ით მაღალია NVIDIA-ს 23.58-ზე.\n\n## კომპანიების ფინანსური შედეგები\nIntel Corporation-ის მეორე კვარტალის შედეგები აჩვენებს, რომ მისი დატა ცენტრის და სერვერების ბიზნესის შემოსავალი 6.26 მილიარდ დოლარს შეადგენს, რაც ანალიტიკოსების მოლოდინებს 5.37 მილიარდ დოლარზე მეტია. ამ ბიზნესის ზრდა 59%-ს შეადგენს, რაც მთლიანი შემოსავლის 25%-ზე მეტია.\n\n## ინვესტორების შეხედულება\nჰეჯ-ფონდების სენტიმენტი აჩვენებს, რომ 285 ფონდი ფლობს NVIDIA Corporation-ის აქციებს, რაც ინტელის 138-ზე მეტია. შორტ ინტერესი, როგორც ფლოტის პროცენტი, ინტელში 2.88%-ს შეადგენს, ხოლო NVIDIA Corporation-ში 1.29%-ს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "99188299687d1f39",
       "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
