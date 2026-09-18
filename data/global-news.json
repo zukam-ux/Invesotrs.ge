@@ -1,8 +1,32 @@
 {
-  "updatedAt": "2026-09-17T22:29:36.852Z",
+  "updatedAt": "2026-09-18T00:48:19.119Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "a4975cc2f846d440",
+      "title": "Dow Jones Futures Fall After S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/1921e6e5-7c6c-3cc6-ae73-750d397323c3/dow-jones-futures-fall-after.html?.tsrc=rss",
+      "publishedAt": "2026-09-18T00:42:50.000Z",
+      "description": "The S&P 500 and Nasdaq regain their 50-day lines and Treasury yields fall in a bullish day two Fed reaction. SpaceX, AMD, Moderna are buys.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები ეცემა S&P 500-ისა და Nasdaq-ის მთავარ დონეზე ამაღლების შემდეგ",
+      "summaryKa": "ამერიკულ საფონდო ბაზარზე Dow Jones-ის მომავალი კონტრაქტები იკლებს",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "90430a3f5cd6e1f6",
+      "title": "Vietnam Stocks See Early Foreign Inflows as FTSE Upgrade Nears",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3E2SXpWdTFzdWp6d0JxcGdtZFFyUzFZZkVnZXA2emJocHdROEpOc2VsdkJYRHN6Wk9hZkRyOTk4eVhBbVBkRlo0bzlPVG5ZbFl0R2tDMjU1MnhtN2ZFRG5leWtwTUF0T0ZuM3BraGFHOVBoSDFxNUZkRk9RMkJlMTdrMjN6VHhVdWxKTU9zOVNTVS1qVDE5RWpLaUl5UjNPck54LTJPMV9LTVNidU40TGJuTQ?oc=5",
+      "publishedAt": "2026-09-18T00:28:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3E2SXpWdTFzdWp6d0JxcGdtZFFyUzFZZkVnZXA2emJocHdROEpOc2VsdkJYRHN6Wk9hZkRyOTk4eVhBbVBkRlo0bzlPVG5ZbFl0R2tDMjU1MnhtN2ZFRG5leWtwTUF0T0ZuM3BraGFHOVBoSDFxNUZkRk9RMkJlMTdrMjN6VHhVdWxKTU9zOVNTVS1qVDE5RWpLaUl5UjNPck54LTJPMV9LTVNidU40TGJuTQ?oc=5\" target=\"_blank\">Vietnam Stocks See Early Foreign Inflows as FTSE Upgrade Nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ვიეტნამის აქციები სართულ ფინანსურ ნაკადებს განიცდის FTSE-ის აპგრეიდამდე",
+      "summaryKa": "ვიეტნამის საფონდო ბაზარზე უცხოური ინვესტიციები შემოდის",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "dbf59bc3ffdc7a25",
       "title": "M-tron Industries, Inc. (MPTI) Stock Sinks As Market Gains: What You Should Know",
