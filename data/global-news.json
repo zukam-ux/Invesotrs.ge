@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-09-18T15:16:00.768Z",
+  "updatedAt": "2026-09-18T21:17:06.535Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "99188299687d1f39",
+      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+      "publishedAt": "2026-09-18T21:14:00.000Z",
+      "description": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
+      "titleKa": "UBS-ის ანალიტიკოსების ტოპ ტექნოლოგიური აქციები: Amazon, Palantir და სხვები",
+      "summaryKa": "UBS-ის ანალიტიკოსებმა Amazon-ის, Palantir-ისა და სხვა 12 ტექნოლოგიური კომპანიის აქციები შეარჩიეს.",
+      "category": "ტექნოლოგიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "457401fb98f0dd77",
       "title": "Mortgage rates, gas prices are surging ahead of midterms. Will Fed rate hikes actually help?",
