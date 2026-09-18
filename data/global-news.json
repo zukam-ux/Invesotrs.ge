@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-09-18T00:48:19.119Z",
+  "updatedAt": "2026-09-18T05:57:02.164Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "b6a6e5c35e3785ec",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "Yahoo Finance",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61860116/stock-market-will-sp-500-open-up-or-down-today-40?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "publishedAt": "2026-09-18T05:42:41.000Z",
+      "description": "U.S. stock futures are posting slight gains early Friday as investors digest targeted geopolitical sanctions, debates over Federal Reserve independence, and the Bank of Japan’s 31-year high rate-hike decision. The Polymarket (CRYPTO: POL) crowd is leaning bullish for the Sept....",
+      "titleKa": "საფონდო ბაზარი: S&P 500 გაიხსნება ამასთან აწევათ თუ დახშვათ?",
+      "summaryKa": "საფონდო ბაზარზე S&P 500-ის მდგომარეობა განიხილება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "a4975cc2f846d440",
       "title": "Dow Jones Futures Fall After S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals",
