@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-09-18T05:57:02.164Z",
+  "updatedAt": "2026-09-18T11:20:53.709Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "0798ffc56da78ce9",
+      "title": "Crude prices drop amid reduced concerns over Saudi oil supplies",
+      "source": "Yahoo Finance",
+      "url": "https://www.offshore-technology.com/news/crude-prices-drop-saudi-oil-supplies/?.tsrc=rss",
+      "publishedAt": "2026-09-18T11:09:21.000Z",
+      "description": "By 08:06 GMT on 18 September, Brent crude futures were down $2.14 at $102.68/bbl, while WTI had declined by $1.83 to $100.08/bbl.",
+      "titleKa": "ნავთობის ფასები კლებს საუდის არაბეთის ნავთობის მიწოდების შეფერხების შედეგებზე შემცირებული შიშის ფონზე",
+      "summaryKa": "საუდის არაბეთის ნავთობის მიწოდების შეფერხების შედეგებზე შემცირებული შიშის ფონზე ნავთობის ფასები კლებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.offshore-technology.com/news/crude-prices-drop-saudi-oil-supplies/",
+      "bodyKa": "## ნავთობის ფასების ცვალებადობა\nსაუდის არაბეთის ნავთობის მიწოდების შეფერხების შედეგებზე შემცირებული შიშის ფონზე ნავთობის ფასები კლებს. 18 სექტემბერს, 08:06 GMT-ზე, Brent ნავთობის ფიუჩერსი $2.14-ით შემცირდა და $102.68/ბარელს მიაღწია, ხოლო WTI-ის ფიუჩერსი $1.83-ით შემცირდა და $100.08/ბარელს მიაღწია.\n\n## ნავთობის ფასების გავლენა\nნავთობის ფასები 2%-ით შემცირდა 18 სექტემბერს, რაც სამი სესიის წაგებით გამოიხატება. ეს შემცირება საუდის არაბეთის ნავთობის მიწოდების შეფერხების შედეგებზე შემცირებული შიშის ფონზე მოხდა.\n\n## ნავთობის მიწოდების შეფერხება\nსაუდის არაბეთის ნავთობის მიწოდების შეფერხება გამოიწვია ნავთობის ფასების ზრდას. თუმცა, საუდის არაბეთის მიერ ნავთობის მიწოდების აღდგენის შესახებ ინფორმაციის გავრცელების შემდეგ, ნავთობის ფასები შემცირდა. ამასთან დაკავშირებით, ჩინეთის ნავთობპროდუქტების ექსპორტი 12.7%-ით გაიზარდა აგვისტოში.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "233b3af518b628c9",
+      "title": "Why One Saudi Pipeline Is Crucial to the Global Oil Market",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMlZLRUw4Rm5sQU9kYkpWdWZIODJOcjNrT0g5NUdqQjRONUltQzNBc0FqbVpBVWIta3M3OVB6NWlNcWl5QkVGSDRDclBHdlVOQmR5ZWZBQVU5SjFCMkRMQ2dEVEtKUlZHejdkTTA2cV8xUHRFSVctUmxQYWpuZHB3aFBtX0lNemlydVBWTGVvUEp2X2ZpTDU0UFRpUzZEbmxuQ1llSXFtWXRLT2JQRE0xMzNtU2E4VmtkMkwyRg?oc=5",
+      "publishedAt": "2026-09-18T11:07:36.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQMlZLRUw4Rm5sQU9kYkpWdWZIODJOcjNrT0g5NUdqQjRONUltQzNBc0FqbVpBVWIta3M3OVB6NWlNcWl5QkVGSDRDclBHdlVOQmR5ZWZBQVU5SjFCMkRMQ2dEVEtKUlZHejdkTTA2cV8xUHRFSVctUmxQYWpuZHB3aFBtX0lNemlydVBWTGVvUEp2X2ZpTDU0UFRpUzZEbmxuQ1llSXFtWXRLT2JQRE0xMzNtU2E4VmtkMkwyRg?oc=5\" target=\"_blank\">Why One Saudi Pipeline Is Crucial to the Global Oil Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ერთი საუდის ნავთობსადენი რატომ არის მთელს მსოფლიო ნავთობის ბაზარზე მნიშვნელოვანი",
+      "summaryKa": "ერთი საუდის ნავთობსადენი მნიშვნელოვანია მთელს მსოფლიო ნავთობის ბაზარზე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f7c78dea64307ac0",
+      "title": "Tesla Trades at 331 Times Trailing Earnings While Facing Growing Competition From China's BYD. Is Elon Musk's Premium Valuation Still Justified?",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzZXY0w1ZGI4Ykw1OWZIRVJacmpRel81NFYwQllRMVJNbHloUldQY0wxamdnX1VPTGdjM3lvS3FXT19Bd1FLalFyVXVwUWg2UHpRRFA2TGFlWDVPSWxtVV9IS0tVZ3Zsb0FFRTRPOG93OTdKV2c2aWMzREd1T3BhS0kyNUJPYVd1OENDZ1JrVFM2U01pcjZRS3lBeGs?oc=5",
+      "publishedAt": "2026-09-18T11:05:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzZXY0w1ZGI4Ykw1OWZIRVJacmpRel81NFYwQllRMVJNbHloUldQY0wxamdnX1VPTGdjM3lvS3FXT19Bd1FLalFyVXVwUWg2UHpRRFA2TGFlWDVPSWxtVV9IS0tVZ3Zsb0FFRTRPOG93OTdKV2c2aWMzREd1T3BhS0kyNUJPYVd1OENDZ1JrVFM2U01pcjZRS3lBeGs?oc=5\" target=\"_blank\">Tesla Trades at 331 Times Trailing Earnings While Facing Growing Competition From China's BYD. Is Elon Musk's Premium Valuation Still Justified?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Tesla-ს აქციები 331-ჯერ იყიდება უკანდახედვითი ფინანსური შედეგების შეფარდებით, ჩინური BYD-სგან ზრდადი კონკურენციის ფონზე",
+      "summaryKa": "Tesla-ს აქციები 331-ჯერ იყიდება უკანდახედვითი ფინანსური შედეგების შეფარდებით, ჩინური BYD-სგან ზრდადი კონკურენციის ფონზე.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/tesla-trades-331-times-trailing-110500687.html",
+      "bodyKa": "## შესავალი\nTesla-ს აქციები 331-ჯერ იყიდება უკანდახედვითი ფინანსური შედეგების შეფარდებით, ჩინური BYD-სგან ზრდადი კონკურენციის ფონზე. ეს ფაქტი აღძვრინავს კითხვას, არის თუ არა ელონ მასკის პრემიუმ ვალუაცია კვლავ გასამართლებული.\n\n## ფინანსური შედეგები\nTesla-ს შემოსავალი 26%-ით გაიზარდა წინა წლის მეორე კვარტალთან შედარებით, მაგრამ მისი სუფთა მოგება 5%-ით შემცირდა 1.1 მილიარდ დოლარამდე. \n\n## კონკურენცია და პერსპექტივა\nTesla-ს საფრთხე ემუქრება ჩინური ელექტრომობილების მწარმოებელი BYD-ს ზრდადი კონკურენციის სახით. კომპანიის ფინანსური შედეგების ზეწოლის ფონზე, ელონ მასკი კონტროვერსიული ფიგურაა და მას არაერთი წარუმატებლობა აქვს თავის სახელზე, თუმცა ის ვიზიონერი ლიდერიცაა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "b6a6e5c35e3785ec",
       "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
