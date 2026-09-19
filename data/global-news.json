@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-09-19T06:41:48.617Z",
+  "updatedAt": "2026-09-19T11:38:05.371Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "62804439bb8fc77d",
+      "title": "Stocks face a growing list of threats — so why are investors staying so calm?",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdnM0SjZqM0UwUVByWExyb3l1bGZNR1J0d3dobVpRbzN5VVY0aUZ5amhpZGxlYzJhalJzcE5JNjZLOG9ucFRoNTNucFB2MU5IcDliNk9iVEl3OTNKc21pRXM0RWotZWhsSnAxUVNSbTdjYkZ0cmtyWFN4d1kyc3RjR0VsLWNaM2NrdUVibnUwaThRQ3A3bnp0dmhBajVVLVRtWl83cEFXT3FudFhjVi1tWkJOX3ViQy1R?oc=5",
+      "publishedAt": "2026-09-19T11:30:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdnM0SjZqM0UwUVByWExyb3l1bGZNR1J0d3dobVpRbzN5VVY0aUZ5amhpZGxlYzJhalJzcE5JNjZLOG9ucFRoNTNucFB2MU5IcDliNk9iVEl3OTNKc21pRXM0RWotZWhsSnAxUVNSbTdjYkZ0cmtyWFN4d1kyc3RjR0VsLWNaM2NrdUVibnUwaThRQ3A3bnp0dmhBajVVLVRtWl83cEFXT3FudFhjVi1tWkJOX3ViQy1R?oc=5\" target=\"_blank\">Stocks face a growing list of threats — so why are investors staying so calm?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "titleKa": "აქციები ზრდად საფრთხეებს განიცდიან, მაგრამ ინვესტორები რატომ რჩებიან ისევე სრულყოფილნი",
+      "summaryKa": "ინვესტორები აქციების საფრთხეების მიუხედავად სრულყოფილებს ინარჩუნებენ",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c6041a04a30221c3",
+      "title": "After a Long Hiatus, Crypto ETFs Are Making a Comeback. Here's the 1 Crypto ETF You Need to Own.",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/09/19/after-a-long-hiatus-crypto-etfs-are-making-a-comeb/?.tsrc=rss",
+      "publishedAt": "2026-09-19T11:12:00.000Z",
+      "description": "Money is flowing back into crypto ETFs, but which one is the best fit for your portfolio?",
+      "titleKa": "კრიპტო ETF-ები ხანგრძლივი პაუზის შემდეგ ბრუნდებიან",
+      "summaryKa": "კრიპტო ETF-ები ბაზარზე ბრუნდებიან",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.fool.com/investing/2026/09/19/after-a-long-hiatus-crypto-etfs-are-making-a-comeb/?.tsrc=rss",
+      "bodyKa": "## კრიპტო ETF-ების გამოსვლა\nკრიპტო ბაზარზე ახალი გამოსვლა შეინიშნება, რასაც ხელი შეუწყო ბიტკოინის (BTC) 25%-იანმა ზრდამ აგვისტოში. ამას მოყვა ფულის შემოდინება ბიტკოინის სპოტ ეტფ-ებში.\n\n## რა არის სპოტ კრიპტო ETF-ები\nსპოტ კრიპტო ETF-ები განსხვავდებიან ტრადიციული ETF-ებისგან, რადგან ისინი ინვესტირებენ ერთ კრიპტოვალუტაში, მაგალითად, ბიტკოინის სპოტ ETF ინვესტირებულია მხოლოდ ბიტკოინში.\n\n## ბიტკოინის უპირატესობა\nბიტკოინი ისტორიულად იყო ბაზარის ლიდერი და ამჟამად 60%-ზე მეტი წილი აქვს კრიპტო ბაზარზე. ამიტომ, ინვესტორები ხშირად ბიტკოინში ინვესტირებას ამჯობინებენ.\n\n## რეკომენდაცია\nამჟამად, საუკეთესო ბიტკოინის ეტფ-ად ითვლება iShares Bitcoin Trust (IBIT), რომელიც 60 მილიარდ დოლარზე მეტ აქტივებს ფლობს. მეორე ადგილზეა Morgan Stanley Bitcoin Trust (MSBT), რომელიც უფრო პატარაა და ახალი, მაგრამ მას უფრო დაბალი მენეჯმენტის ხარჯები აქვს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "ed857db923cb7a33",
+      "title": "If You'd Invested $1,000 in Nvidia's 1999 IPO, Here's How Much You'd Have Today",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/if-youd-invested-1000-nvidias-1999-ipo-heres-how-much-youd-have-today",
+      "publishedAt": "2026-09-19T11:05:00.000Z",
+      "description": "Key PointsNvidia debuted at a split-adjusted price of $0.025 per share.",
+      "titleKa": "Nvidia-ს 1999 წლის IPO-ში 1000 დოლარის ინვესტირების შემთხვევაში, რამდენი იქნებოდა თქვენი მოგება დღეს",
+      "summaryKa": "Nvidia-ს 1999 წლის IPO-ში 1000 დოლარის ინვესტირება დღეს დიდ მოგებას მოგეტანებდა",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/if-youd-invested-1000-nvidias-1999-ipo-heres-how-much-youd-have-today",
+      "bodyKa": "## შესავალი\nNvidia-ს 1999 წლის IPO-ში 1000 დოლარის ინვესტირება დღეს 5.70 მილიონ დოლარს შეადგენს. კომპანიამ თავისი ისტორია საფონდო ბაზარზე 1999 წლის 22 იანვარს დაიწყო, როდესაც მისი აქციები 0.025 დოლარად გამოვიდა.\n\n## ინვესტიციის შედეგები\n1000 დოლარის ინვესტირება Nvidia-ს IPO-ში 40,000 აქციას შეადგენდა, რომელიც დღეს 5.32 მილიონ დოლარს შეადგენს. დივიდენდის შემოსავალის ჩათვლით, ეს თანხა 5.70 მილიონ დოლარამდე იზრდება.\n\n## ინვესტორებისთვის გაკვეთილები\nNvidia-ს ისტორია ინვესტორებისთვის მნიშვნელოვანი გაკვეთილების შესახებ საუბრობს. კომპანიამ თავისი წარმატება გრაფიკული ბარათების, შემდეგ კი GPU-ებისა და AI აქსელერატორების წარმოებაში მოიპოვა. ინვესტორებმა, რომლებმაც ადრე ინვესტირება გადაწყვიტეს, დიდ წარმატებას მიაღწიეს, მაგრამ ამასთან ერთად, მათ უნდა გამკლავებოდნენ კომპანიის ფინანსურ შედეგებში მრავალ ვარდნას.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "3dd3ceef842aefef",
       "title": "Why Berkshire Hathaway Succession Could Reshape SGH Stock And Other Conglomerate Picks",
