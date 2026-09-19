@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-19T01:40:02.992Z",
+  "updatedAt": "2026-09-19T06:41:48.617Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "3dd3ceef842aefef",
+      "title": "Why Berkshire Hathaway Succession Could Reshape SGH Stock And Other Conglomerate Picks",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdkg0WjZVNUEtQzFJNVh5NGwwblFONzFWQmhWUHY0YnZvcjdBQkhadTVKQy1DWVd0NnhpSlY5cnZtTjlucnBSWjZMa1huYUtJbnJud1JId3UyS1V0d3FRSTZfSWhUakNyZ0ZiaGY1eGtZdEJVZEo2UHdsSmlQMmxyQXJ6dkVtV09NR2lnN2ZyS3h1aTJzakpnZzlTMWNoaTdsbG1HZVdSYw?oc=5",
+      "publishedAt": "2026-09-19T06:11:25.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNdkg0WjZVNUEtQzFJNVh5NGwwblFONzFWQmhWUHY0YnZvcjdBQkhadTVKQy1DWVd0NnhpSlY5cnZtTjlucnBSWjZMa1huYUtJbnJud1JId3UyS1V0d3FRSTZfSWhUakNyZ0ZiaGY1eGtZdEJVZEo2UHdsSmlQMmxyQXJ6dkVtV09NR2lnN2ZyS3h1aTJzakpnZzlTMWNoaTdsbG1HZVdSYw?oc=5\" target=\"_blank\">Why Berkshire Hathaway Succession Could Reshape SGH Stock And Other Conglomerate Picks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ბერკშირ ჰათაუეის მემკვიდრეობა შეიძლება გავლენა მოახდინოს SGH-ის აქციებზე",
+      "summaryKa": "ბერკშირ ჰათაუეის მემკვიდრეობა SGH-ის აქციებსა და სხვა კონგლომერატების აქციებზე შეიძლება გავლენა მოახდინოს",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/why-berkshire-hathaway-succession-could-061125213.html",
+      "bodyKa": "## შესავალი\nუორენ ბაფეტის გადადგომა ბერკშირ ჰათაუეიდან ახალ განათლებას აძლევს კონგლომერატებსა და ჰოლდინგ კომპანიებს. ამ ცვლილებამ შეიძლება გავლენა მოახდინოს SGH-ის აქციებზე, რომელიც ავსტრალიასა და აშშ-ში მოქმედებს.\n\n## SGH-ის საქმიანობა\nSGH არის კონგლომერატი, რომელიც მძიმე ტექნიკის გაყიდვასა და სერვისს, სამშენებლო მასალებს, მედიასა და ენერგეტიკას აერთიანებს. კომპანიის ბაზარი შეადგენს დაახლოებით A$15.0 მილიარდს. SGH-ის შემოსავალი მოდის ძირითადად შემდეგი წყაროებიდან: WesTrac-ის A$5.8 მილიარდი, Boral-ის A$3.8 მილიარდი, Coates-ის A$1.0 მილიარდი.\n\n## ფინანსური შედეგები\nSGH-ის ფინანსური შედეგები დამოკიდებულია მის სხვადასხვა სექტორებზე, მათ შორის მძიმე ტექნიკის გაყიდვასა და სერვისზე, სამშენებლო მასალებზე, მედიასა და ენერგეტიკაზე. კომპანიის შემოსავალი და მოგება დამოკიდებულია ამ სექტორების შესაძლებლობებზე.\n\n## დასკვნა\nSGH-ის აქციების ფასი შეიძლება გავლენა მოახდინოს ბერკშირ ჰათაუეის მემკვიდრეობამ. ინვესტორებმა უნდა გაითვალისწინონ SGH-ის საქმიანობის განსაზღვრული სექტორები და მათი შესაძლებლობები, რათა მათ შეძლონ ინფორმირებული გადაწყვეტილებების მიღება თავიანთი ინვესტიციების შესახებ.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "adbda86a87f61270",
       "title": "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
