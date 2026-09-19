@@ -1,8 +1,35 @@
 {
-  "updatedAt": "2026-09-18T23:23:32.866Z",
+  "updatedAt": "2026-09-19T01:40:02.992Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "adbda86a87f61270",
+      "title": "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures%3A-nasdaq%2C.html?.tsrc=rss",
+      "publishedAt": "2026-09-19T01:36:29.000Z",
+      "description": "The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები: Nasdaq და S&P 500 სტაბილურია, Robinhood, Sandisk, AMD, და Moderna აქციები ყიდვის ზონაშია",
+      "summaryKa": "Nasdaq და S&P 500 ინდექსები სტაბილურია, ხოლო Robinhood, Sandisk, AMD, და Moderna კომპანიების აქციები ყიდვის ზონაში შესულია",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5169fadc763e1cb8",
+      "title": "Carel (BIT:CRL) Stock May Be Overvalued On Its Earnings Profile",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkUwV1djZ2VleG5yVTVFMTE1NTVPbG0wZFc5cFVnQzluRVBjeG5iaU0yU25ub0hPVlQtX01vRXlzMDllY2hQT3F3Qk54dkRaTlN5S2hDb245Z3gwdW9FVFZzTU5CNGVKQmlSajhuVnRMMG5qMlN6bGxILTJUSXJJWk9pOTZpYnZCVXB3Z1NDTWs3QQ?oc=5",
+      "publishedAt": "2026-09-19T01:12:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkUwV1djZ2VleG5yVTVFMTE1NTVPbG0wZFc5cFVnQzluRVBjeG5iaU0yU25ub0hPVlQtX01vRXlzMDllY2hQT3F3Qk54dkRaTlN5S2hDb245Z3gwdW9FVFZzTU5CNGVKQmlSajhuVnRMMG5qMlN6bGxILTJUSXJJWk9pOTZpYnZCVXB3Z1NDTWs3QQ?oc=5\" target=\"_blank\">Carel (BIT:CRL) Stock May Be Overvalued On Its Earnings Profile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Carel-ის (BIT:CRL) აქციები შესაძლოა ზედაფასილი იყოს ფინანსური შედეგების პროფილის მიხედვით",
+      "summaryKa": "Carel-ის აქციები შესაძლოა ზედაფასილი იყოს კომპანიის ფინანსური შედეგების პროფილის მიხედვით",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/carel-bit-crl-stock-may-011213307.html",
+      "bodyKa": "## შესავალი\nCarel-ის (BIT:CRL) აქციები შესაძლოა ზედაფასილი იყოს კომპანიის ფინანსური შედეგების პროფილის მიხედვით. ბოლო წლებში კომპანიამ მნიშვნელოვან წარმატებას მიაღწია, რაც აქციების ფასის შეფასებას გვიხმობს.\n\n## ფინანსური შედეგები\nCarel Industries-ის აქციები ბოლო 3 წლის განმავლობაში 27.0%-იან მოგებას აჩვენებს. ეს ფაქტი კითხვას დებს, რამდენად არის კომპანიის ფინანსური შედეგები აქციების ფასში ასახული. კომპანია ძირითადად ინდუსტრიული ავტომატიზაციის გადაწყვეტილებებზე დაყრდნობით მუშაობს, რაც მის შემოსავალს და მოგებას ზეგავლენას ახდენს.\n\n## ფასი და შეფასება\nCarel Industries-ის აქციების ფასი უკანასკნელად €26.60-ზე დაიხშო. კომპანიის P/E კოეფიციენტი 32.2x-ია, რაც მშენებლობის სექტორის საშუალო 18.1x-ზე მაღალია. ამასთან, კომპანიის მეტოქეების P/E კოეფიციენტი 19.1x-ია, რაც იმას ნიშნავს, რომ Carel Industries-ის აქციები შესაძლოა ზედაფასილი იყოს. ინვესტორებმა უნდა გადაწყვიტონ, არის თუ არა კომპანიის ფინანსური შედეგები და მოგების ხარისხი საკმარისი იმისთვის, რომ მაღალ ფასად შეძენილ იქნას.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "69f0f5e2b5867c50",
       "title": "NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here’s The One Jim Cramer Likes",
