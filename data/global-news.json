@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-09-19T18:06:56.050Z",
+  "updatedAt": "2026-09-19T22:31:31.958Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "749dc544c2380498",
+      "title": "Could Oracle's Debt Load Derail Its AI Cloud Ambitions?",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/could-oracles-debt-load-derail-its-ai-cloud-ambitions",
+      "publishedAt": "2026-09-19T22:09:00.000Z",
+      "description": "Key PointsOracle's debt load is nearly twice the company's book value.",
+      "titleKa": "შესაძლოა თუ არ გააფერხებს Oracle-ის ვალის სიმძლავრე მის საინფორმაციო AI ხელსაწყოების გეგმებს",
+      "summaryKa": "Oracle-ის ვალის სიმძლავრე შეიძლება ხელი შეუშალოს მის საინფორმაციო AI ხელსაწყოების გეგმებს",
+      "category": "AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "a800dcb0c2b2498a",
       "title": "Warren Buffett Is No Longer Berkshire's Chairman. Here’s Why I'm Buying the Stock Anyway.",
