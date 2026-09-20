@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-09-19T22:31:31.958Z",
+  "updatedAt": "2026-09-20T00:27:10.350Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "125880b2f0bf2db7",
+      "title": "Brian Armstrong Predicts $400,000 Bitcoin Price by 2030. The Forecast Requires 51% Growth Annually: Can It Hold?",
+      "source": "Yahoo Finance",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/19/brian-armstrong-predicts-400000-bitcoin-price-by-2030-the-forecast-requires-51-growth-annually-can-it-hold/?.tsrc=rss",
+      "publishedAt": "2026-09-20T00:02:14.000Z",
+      "description": "Coinbase CEO Brian Armstrong quietly slashed his Bitcoin price target by 60% while keeping his 2030 deadline intact, and the math behind his new number reveals just how narrow the path to getting there actually is.",
+      "titleKa": "ბრაიან არმსტრონგი ვარაუდობს, რომ 2030 წლისთვის ბიტკოინის ფასი 400,000 დოლარს მიაღწევს",
+      "summaryKa": "ბრაიან არმსტრონგის პროგნოზის მიხედვით, 2030 წლისთვის ბიტკოინის ფასი 400,000 დოლარამდე ავა",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "749dc544c2380498",
       "title": "Could Oracle's Debt Load Derail Its AI Cloud Ambitions?",
@@ -13,7 +25,10 @@
       "titleKa": "შესაძლოა თუ არ გააფერხებს Oracle-ის ვალის სიმძლავრე მის საინფორმაციო AI ხელსაწყოების გეგმებს",
       "summaryKa": "Oracle-ის ვალის სიმძლავრე შეიძლება ხელი შეუშალოს მის საინფორმაციო AI ხელსაწყოების გეგმებს",
       "category": "AI",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/could-oracles-debt-load-derail-its-ai-cloud-ambitions",
+      "bodyKa": "## შესაძლო რისკები Oracle-ის ვალის სიმძლავრეში\nOracle-ის ვალის სიმძლავრე შეიძლება ხელი შეუშალოს მის საინფორმაციო AI ხელსაწყოების გეგმებს. კომპანიის ვალი თითქმის ორჯერ აღემატება მის წიგნიერ ღირებულებას, რაც შეიძლება კომპანიის ფინანსურ მდგომარეობაზე ზემოქმედების გამოყენება გახდეს.\n\n## ფინანსური შედეგები და გამოწვევები\nOracle-ის ფინანსური შედეგები მიუთითებს, რომ კომპანია კარგად მუშაობს. მათი შემოსავალი 30%-ით გაიზარდა. კომპანიას აქვს 37 მილიარდი დოლარი თავისუფალი სახსრები.\n\n## მომავალი პერსპექტივები\nOracle-ის საინფორმაციო AI ხელსაწყოების გეგმები შეიძლება წარმატებული იყოს. კომპანიის ვალი 125 მილიარდ დოლარს აღემატება, რაც მის წიგნიერ ღირებულებასთან შედარებით ორჯერ მეტია.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "a800dcb0c2b2498a",
