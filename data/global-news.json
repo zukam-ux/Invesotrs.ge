@@ -1,8 +1,35 @@
 {
-  "updatedAt": "2026-09-20T00:27:10.350Z",
+  "updatedAt": "2026-09-20T05:29:52.297Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "f9e1dc9d5ea82b32",
+      "title": "Omai Gold Mines (TSXV:OMG) Stock Looks Fully Valued After Its Huge Run",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEx1U05GU0Zaa0RSMlVmenlweU9LUlo2YW5GQ0VnMk1xRGU0VU1OZUYzdlgzQmxxQWs0MGhZSDUzS053cnFLdFBSMmpzVTZILUZyRWR4dl9tMV8xX1V6eXdGMmg0ak1ycXJFR2JMc25nY2FUS1NZT2hma2ZqZzh3SjE2SnNNQUZuQzd4em5veGFrQ00?oc=5",
+      "publishedAt": "2026-09-20T04:18:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEx1U05GU0Zaa0RSMlVmenlweU9LUlo2YW5GQ0VnMk1xRGU0VU1OZUYzdlgzQmxxQWs0MGhZSDUzS053cnFLdFBSMmpzVTZILUZyRWR4dl9tMV8xX1V6eXdGMmg0ak1ycXJFR2JMc25nY2FUS1NZT2hma2ZqZzh3SjE2SnNNQUZuQzd4em5veGFrQ00?oc=5\" target=\"_blank\">Omai Gold Mines (TSXV:OMG) Stock Looks Fully Valued After Its Huge Run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Omai Gold Mines-ის აქციები სრულად არის შეფასებული მისი დიდი აჯანყების შემდეგ",
+      "summaryKa": "Omai Gold Mines-ის აქციები სრულად არის შეფასებული მისი დიდი აჯანყების შემდეგ",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/omai-gold-mines-tsxv-omg-041808337.html",
+      "bodyKa": "## შესავალი\nOmai Gold Mines-ის აქციები ბოლო წლებში მნიშვნელოვან წარმატებას მიაღწიეს და ახლა ინვესტორები ეჭვიან, არის თუ არა აქციების ამჟამინდელი ფასი შესაბამისი კომპანიის ღირებულებას.\n\n## ფინანსური შედეგები\nOmai Gold Mines-ის აქციები ბოლო 3 წლის განმავლობაში 70-ზე მეტჯერ გაიზარდა. კომპანიის შეყვანა VanEck Junior Gold Miners ETF-ში, ასევე მისი გაიანას პროექტის პრელიმინარული ეკონომიკური შეფასება, შეიძლება გავლენა მოახდინოს მომავალი პროექტების განვითარებასა და ფინანსურ საჭიროებებზე.\n\n## საფონდო ბაზარი\nOmai Gold Mines-ის აქციები ინდექსში შეყვანის შემდეგ უფრო მეტ ყურადღებას იქცევს. კომპანიის აქციების ფასი და მისი ბალანსი არის ძირითადი ფაქტორები, რომლებზეც ინვესტორები ახდენენ გადაწყვეტილებას. კომპანიის აქციები იყიდება 37.6-ზე მეტჯერ გაზრდილ ფასად, რაც მეტალურგიისა და მაღაროების ინდუსტრიის საშუალო მაჩვენებელზე ბევრად მაღალია.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "cb37a9c77ef26f49",
+      "title": "Prediction: Here's What a $1,000 Investment in Tesla (TSLA) Stock Could Be Worth By 2036",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/prediction-heres-what-1000-investment-tesla-tsla-stock-could-be-worth-2036",
+      "publishedAt": "2026-09-20T03:40:50.000Z",
+      "description": "Key PointsTesla is selling gobs of vehicles, but its operating margin has shrunk.",
+      "titleKa": "პროგნოზი: Tesla-ს (TSLA) აქციებში 1,000 დოლარის ინვესტიცია 2036 წლისთვის რამდენი ღირების იქნება",
+      "summaryKa": "ინვესტორები ვარაუდობენ, რომ Tesla-ს აქციებში 1,000 დოლარის ინვესტიცია 2036 წლისთვის გარკვეული ღირების მქონე იქნება",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "125880b2f0bf2db7",
       "title": "Brian Armstrong Predicts $400,000 Bitcoin Price by 2030. The Forecast Requires 51% Growth Annually: Can It Hold?",
@@ -13,7 +40,10 @@
       "titleKa": "ბრაიან არმსტრონგი ვარაუდობს, რომ 2030 წლისთვის ბიტკოინის ფასი 400,000 დოლარს მიაღწევს",
       "summaryKa": "ბრაიან არმსტრონგის პროგნოზის მიხედვით, 2030 წლისთვის ბიტკოინის ფასი 400,000 დოლარამდე ავა",
       "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://247wallst.com/investing/cryptocurrency/2026/09/19/brian-armstrong-predicts-400000-bitcoin-price-by-2030-the-forecast-requires-51-growth-annually-can-it-hold/?.tsrc=rss",
+      "bodyKa": "ბრაიან არმსტრონგი, Coinbase-ის გენერალური დირექტორი, ვარაუდობს, რომ 2030 წლისთვის ბიტკოინის ფასი 400,000 დოლარს მიაღწევს. ეს პროგნოზი მან გამოთქვა CNBC-ის გადაცემაში Squawk Box Asia. ## ბიტკოინის ფასის პროგნოზი ბიტკოინის ფასი უკვე გაიზარდა 5.11%-ით ბოლო კვირაში და 11.23%-ით ბოლო თვეში. თუმცა, ის ჯერ კიდევ 29.8%-ით დაბალია წინა წლის შედარებით. ## ბიტკოინის ფასის ზრდის ტემპი ბიტკოინის ფასის ზრდის ტემპი 51%-ით უნდა იყოს ყოველწლიურად, რათა 2030 წლისთვის 400,000 დოლარს მიაღწიოს. ეს ტემპი ბევრად მაღალია, ვიდრე ბიტკოინის ისტორიული საშუალო ტემპი, რომელიც 34%-ია. ## ბიტკოინის მომავალი ბრაიან არმსტრონგი მიიჩნევს, რომ ბიტკოინის ფასი 2030 წლისთვის 400,000 დოლარს მიაღწევს. ბიტკოინის ფასის ზრდის ტემპი ძალიან მაღალი უნდა იყოს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "749dc544c2380498",
