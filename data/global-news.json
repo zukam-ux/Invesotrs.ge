@@ -1,8 +1,47 @@
 {
-  "updatedAt": "2026-09-21T11:09:09.357Z",
+  "updatedAt": "2026-09-21T17:06:51.821Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "4d753aff7293fdee",
+      "title": "Bitcoin may have exited a bear market, but is it out of the woods just yet?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/video/bitcoin-may-exited-bear-market-170000924.html?.tsrc=rss",
+      "publishedAt": "2026-09-21T17:00:00.000Z",
+      "description": "Scott Melker discusses bitcoin's (BTC-USD) exit from bear market territory as the cryptocurrency climbs above $86,000 on Monday. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
+      "titleKa": "ბიტკოინი შესაძლოა დაეტოვა დამთვრალი ბაზარი, მაგრამ არის თუ არ არის იგი უსაფრთხოების ზონაში",
+      "summaryKa": "ბიტკოინის ფასი შესაძლოა ამაღლდეს, თუმცა ზოგიერთი ექსპერტი ამტკიცებს, რომ კრიპტოვალუტის ფასი ჯერ კიდევ შეიძლება დაეცეს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d77824edf98c4fe8",
+      "title": "Martin Marietta Materials (MLM): Buy, Sell, or Hold Post Q2 Earnings?",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/martin-marietta-materials-mlm-buy-165425171.html?.tsrc=rss",
+      "publishedAt": "2026-09-21T16:54:25.000Z",
+      "description": "Over the past six months, Martin Marietta Materials’s stock price fell to $492.19. Shareholders have lost 14.8% of their capital, which is disappointing considering the S&P 500 has climbed by 16.4%. This might have investors contemplating their next move.",
+      "titleKa": "Martin Marietta Materials-ის (MLM) აქციები: ყიდვა, გაყიდვა თუ შენარჩუნება მეორე კვარტალის ფინანსური შედეგების შემდეგ",
+      "summaryKa": "Martin Marietta Materials-მა გამოაქვეყნა მეორე კვარტალის ფინანსური შედეგები და ინვესტორები ელოდებიან იმის გაგებას, თუ რა გავლენა იქონია ეს შედეგები კომპანიის აქციებზე.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/martin-marietta-materials-mlm-buy-165425171.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nMartin Marietta Materials-ის (MLM) აქციები გახდა ინვესტორებისთვის საინტერესო თემა, რადგან კომპანიამ გამოაქვეყნა მეორე კვარტალის ფინანსური შედეგები. ინვესტორები ელოდებიან იმის გაგებას, თუ რა გავლენა იქონია ეს შედეგები კომპანიის აქციებზე.\n\n## ფინანსური შედეგები\nMartin Marietta Materials-ის აქციების ფასი გასული ექვსი თვის განმავლობაში 492.19 დოლარამდე დაეცა. აქციონერებს დაკარგეს 14.8% თავიანთი კაპიტალისა, რაც მიგნებით არის იმ ფაქტის ფონზე, რომ S&P 500-ის ინდექსი 16.4%-ით გაიზარდა.\n\n## ინვესტიციის პერსპექტივა\nკომპანიის გრძელვადიანი შემოსავლების პერფორმანსი 6.6% კომპაუნდედ ანუალური ზრდის ტემპით განიცდის. ამასთან, კომპანიის საწლიური მოგება უცვლელი რჩება. კომპანიის აქციების ფასი 27.9-ჯერ მოარბებს მის შემოსავალს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "4b9b8707733d851b",
+      "title": "S&P 500 Will ‘Easily’ Top 8,000 Before Historic Crash, ‘Black Swan’ Fund Manager Says",
+      "source": "Yahoo Finance",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61902796/sp-500-8000-mark-spitznagel-crash?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "publishedAt": "2026-09-21T16:54:14.000Z",
+      "description": "Mark Spitznagel, founder of Universa Investments, built his reputation protecting investors from market crashes. Now the Universa Investments founder says the S&P 500 will “easily” top 8,000 in one final euphoric rally before plunging 80%.SPDR S&P 500 ETF Trust (NYSE:SPY)...",
+      "titleKa": "S&P 500-ის ინდექსი შესაძლოა მიაღწიოს 8,000 პუნქტს ისტორიული კრახის წინ",
+      "summaryKa": "ერთ-ერთი ფონდის მენეჯერი ამტკიცებს, რომ S&P 500-ის ინდექსი შესაძლოა მიაღწიოს 8,000 პუნქტს მომავალში.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "9bd626f441103629",
       "title": "Binance Coin (BNB) May Be the Fourth-Largest Crypto in the World, but Here's Why It's Still a Sell",
