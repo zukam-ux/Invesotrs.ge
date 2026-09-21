@@ -1,8 +1,59 @@
 {
-  "updatedAt": "2026-09-20T19:49:41.000Z",
+  "updatedAt": "2026-09-21T05:33:07.200Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "b0fbf8a17d88028d",
+      "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUF0MlllVDlwaWt4aG5DaElhSHVqZ056LThrei1zaTNycWtCd3czT285ek9GZlI3bVJ6NVlFODdkdkdEVS0zN0hXRm5VUmxvQTNJdmw2QnFXdkNELUZlZ0p0UVlBQm0xQnFsMkdvTDdVTnVzZVRxLVZQWlpaYzVWN0hXZTVSek11MTg0ZllqNzk0UmdLQnlJbmZEeFdWNVE?oc=5",
+      "publishedAt": "2026-09-21T05:19:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUF0MlllVDlwaWt4aG5DaElhSHVqZ056LThrei1zaTNycWtCd3czT285ek9GZlI3bVJ6NVlFODdkdkdEVS0zN0hXRm5VUmxvQTNJdmw2QnFXdkNELUZlZ0p0UVlBQm0xQnFsMkdvTDdVTnVzZVRxLVZQWlpaYzVWN0hXZTVSek11MTg0ZllqNzk0UmdLQnlJbmZEeFdWNVE?oc=5\" target=\"_blank\">Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "აქციები იზრდება ჩინეთთან მოლაპარაკებების შემდეგ",
+      "summaryKa": "აქციების ზრდა გამოიწვია წარმატებულმა მოლაპარაკებებმა ჩინეთთან",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/stocks-advance-bessent-says-talks-051936845.html",
+      "bodyKa": "## შესავალი\nაქციები იზრდება ჩინეთთან მოლაპარაკებების შემდეგ. ამერიკის სახაზინო მდივანის, სკოტ ბესენტის განცხადების შემდეგ, რომ ჩინეთთან მოლაპარაკებები \"ძალიან წარმატებული\" იყო, აზიის აქციები ძირითადად გაიზარდა.\n\n## აზიის ბაზარი\nსამხრეთ კორეის საფონდო ბაზარი, Kospi, 1.8%-ით გაიზარდა და 7,018.98-მდე მივიდა. სამსუნგ ელექტრონიკსი 5%-ით გაიზარდა, ხოლო მეხსიერების ჩიპის მწარმოებელი კომპანია SK Hynix 1%-ით გაიზარდა.\n\n## მსოფლიო ბაზარი\nნავთობის ფასები 2.1%-ით დაეცა და 101.67 დოლარამდე დაეცა. ამერიკის 10-წლიანი სახაზინო ობლიგაციის სარგებელი 5%-მდე გაიზარდა. ფედერალურმა რეზერვმა განაკვეთი პირველად სამ წელიწადში გაზარდა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "51c62f9d23f0866f",
+      "title": "Bitcoin ETFs Swing Positive as Token Holds Jump Above $81,000",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLXd3ZThtR3N0aHpmdFh6QmdXS0ZJSG1ORHJFQXFocFd5bG9uX2dUbmJTQ0ItMExxNThVZHdxa1Etekd0V0hmd1B6LTNVbEVzbTQ5R25oWm5ZeklleGdGeGdpemxLdFBTb2MzRHFQUFAtQmdYZk5CYkgzSG1BSllacnZCN05wc18tbDk1aVZqOFgzWmlPbERGNzZmOWtGanh1alVJel9ZZldxQ0RIV2dtMQ?oc=5",
+      "publishedAt": "2026-09-21T05:05:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNLXd3ZThtR3N0aHpmdFh6QmdXS0ZJSG1ORHJFQXFocFd5bG9uX2dUbmJTQ0ItMExxNThVZHdxa1Etekd0V0hmd1B6LTNVbEVzbTQ5R25oWm5ZeklleGdGeGdpemxLdFBTb2MzRHFQUFAtQmdYZk5CYkgzSG1BSllacnZCN05wc18tbDk1aVZqOFgzWmlPbERGNzZmOWtGanh1alVJel9ZZldxQ0RIV2dtMQ?oc=5\" target=\"_blank\">Bitcoin ETFs Swing Positive as Token Holds Jump Above $81,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "Bitcoin-ის ETF-ები პოზიტიურად იცვლება, რადგან ტოკენი ინარჩუნებს 81,000 დოლარზე მეტ ზრდას",
+      "summaryKa": "Bitcoin-ის ETF-ები პოზიტიურად იცვლება, რადგან ტოკენი ინარჩუნებს ზრდას",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f9af58fb8558512c",
+      "title": "Emerging-Market Stocks, Currencies Gain After US-China Talks",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOakFFcS04LVVSMHBRRHhrMTVZaWM3WTZoSHNjQ0lhUFVGUFhEZW9KQzU0NDFWUHZBUGU4VDJpNm5ya2FwMDZsdExFeEFYVTVVeFRDVjdnQ0N0TVJiY3dCY2pZZkFLbE9jUG5rRV90VjF1c2tFMEdTS3prMUpGWDRWN2tsS0g2b2VPTEhhQ1BCaTQzV2c0M3RBVDlwd0RtaDBtZTF0NjhVcl9FbG5ickh3?oc=5",
+      "publishedAt": "2026-09-21T05:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOakFFcS04LVVSMHBRRHhrMTVZaWM3WTZoSHNjQ0lhUFVGUFhEZW9KQzU0NDFWUHZBUGU4VDJpNm5ya2FwMDZsdExFeEFYVTVVeFRDVjdnQ0N0TVJiY3dCY2pZZkFLbE9jUG5rRV90VjF1c2tFMEdTS3prMUpGWDRWN2tsS0g2b2VPTEhhQ1BCaTQzV2c0M3RBVDlwd0RtaDBtZTF0NjhVcl9FbG5ickh3?oc=5\" target=\"_blank\">Emerging-Market Stocks, Currencies Gain After US-China Talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ემერჯენტ-ბაზრის აქციები და ვალუტები იზრდება აშშ-ჩინეთის მოლაპარაკებების შემდეგ",
+      "summaryKa": "ემერჯენტ-ბაზრის აქციები და ვალუტები იზრდება აშშ-ჩინეთის მოლაპარაკებების შემდეგ",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f1e93df900e049d7",
+      "title": "Aktsiaselts Infortar own share acquisition transactions",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000429.html?.tsrc=rss",
+      "publishedAt": "2026-09-21T05:00:00.000Z",
+      "description": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 14 September – 18 September 2026 as follows: DateAggregated volume (pcs)Weighted average price per day (EUR)14.09.202623459,702615.09.202623459,825616.09.202623159,991317.09.202622459,836618.09.202621360,0000 Aktsiaselts Infortar is acquiring its own shares based on the stock exchange announcement published on 20 April 2026. The share buyback programme is managed by SEB Pank AS, which will buy",
+      "titleKa": "Aktsiaselts Infortar-ის საკუთარი აქციების შეძენა",
+      "summaryKa": "Aktsiaselts Infortar-მა შეძენა საკუთარი აქციები",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "5b994f0ad3902ced",
       "title": "Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix",
