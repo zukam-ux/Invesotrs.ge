@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-21T05:33:07.200Z",
+  "updatedAt": "2026-09-21T11:09:09.357Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "9bd626f441103629",
+      "title": "Binance Coin (BNB) May Be the Fourth-Largest Crypto in the World, but Here's Why It's Still a Sell",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/09/21/binance-coin-bnb-may-be-the-fourth-largest-crypto/?.tsrc=rss",
+      "publishedAt": "2026-09-21T11:03:00.000Z",
+      "description": "Binance's potential legal troubles make buying its coin too risky.",
+      "titleKa": "Binance Coin (BNB) შესაძლოა მსოფლიოში მეოთხე უდიდესი კრიპტოვალუტა იყოს, მაგრამ აქედან რატომ უნდა გაყიდვა",
+      "summaryKa": "Binance Coin (BNB) შესაძლოა მსოფლიოში მეოთხე უდიდესი კრიპტოვალუტა იყოს",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.fool.com/investing/2026/09/21/binance-coin-bnb-may-be-the-fourth-largest-crypto/?.tsrc=rss",
+      "bodyKa": "## შესავალი\nBinance Coin (BNB) შესაძლოა მსოფლიოში მეოთხე უდიდესი კრიპტოვალუტა იყოს, მაგრამ ამჟამად ის ყიდვაზე არის. ბოლო სამ წელში მისი ღირებულება 240%-ით გაიზარდა, რაც ბევრ სხვა კრიპტოვალუტას, მათ შორის Bitcoin, Ethereum და XRP-ს აჯობებს.\n\n## ბინანსის პრობლემები\nBNB არის BNB Chain-ის მშობელი კოინი, რომელიც ბინანსისგან წარმოიშვა, ერთ-ერთი უდიდესი კრიპტოვალუტის ბირჟა, რომელიც მსოფლიოში მოქმედებს. 2026 წლის პირველ ნახევარში ბინანსის სავაჭრო ვოლუმი 11.4 ტრილიონ დოლარს გაუტოლდა, ხოლო ივლისში 323 მილიონი რეგისტრირებული მომხმარებელი ჰყავდა. ახალი ფედერალური საქმე ბირჟას კიდევ ერთხელ სკანდალში გახვევს.\n\n## სამართლებრივი პრობლემები\n14 სექტემბერს აშშ-ის იუსტიციის დეპარტამენტმა განაცხადა, რომ 61 მილიონი დოლარის ღირებულების კრიპტოვალუტა სანქცირებულ ირანულ ნავთობის გაყიდვებთან იყო დაკავშირებული და მათ ბინანსზე გაიარა. ბინანსი ამ საქმეში არ არის დამნაშავედ ნებართვული, მაგრამ ეს ფაქტი მის რეპუტაციას ზიანს აყენებს.\n\n## დასკვნა\nბინანსის სამართლებრივი პრობლემები BNB-ის ღირებულებაზე უარყოფითად მოქმედებს. ამიტომ, ინვესტორებმა უნდა გაყიდონ BNB, ვიდრე ის მეტად დაეცემა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "b0fbf8a17d88028d",
       "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting",
