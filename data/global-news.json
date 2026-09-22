@@ -1,8 +1,62 @@
 {
-  "updatedAt": "2026-09-22T00:09:44.557Z",
+  "updatedAt": "2026-09-22T10:02:48.171Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "97d426b5d948737a",
+      "title": "Trump’s Crypto Venture Got Rich While Big Promises Fell Short",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUl5Z0R4YlNWTnFjdTRnZzRZUXUxZ2gtWEhfMzd6ek01dzZydk5NYndva3RqdXJ4NHdzQThDcnJqUVpXNlhKWFJEUjNaZmZTUlcxc3FzeUNoSG84Wk1Ndl9SU1Bud3hLOXdtMFFyU2NYbVc4WjBoVWpQZ05DSkZiQlpSZGdUaS1JVXU1T3kyN1F0OVc4UXJrdFFmTXJmdkpYVjJfdzlxNHN2VzYzMjhoS0tTeTk1R1JSR25ybUoweTFtQjRkOXB6cWw0S3BlbE02QkhDSzBwakhXRHFpY0FR?oc=5",
+      "publishedAt": "2026-09-22T09:45:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUl5Z0R4YlNWTnFjdTRnZzRZUXUxZ2gtWEhfMzd6ek01dzZydk5NYndva3RqdXJ4NHdzQThDcnJqUVpXNlhKWFJEUjNaZmZTUlcxc3FzeUNoSG84Wk1Ndl9SU1Bud3hLOXdtMFFyU2NYbVc4WjBoVWpQZ05DSkZiQlpSZGdUaS1JVXU1T3kyN1F0OVc4UXJrdFFmTXJmdkpYVjJfdzlxNHN2VzYzMjhoS0tTeTk1R1JSR25ybUoweTFtQjRkOXB6cWw0S3BlbE02QkhDSzBwakhXRHFpY0FR?oc=5\" target=\"_blank\">Trump’s Crypto Venture Got Rich While Big Promises Fell Short</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ტრამპის კრიპტო საქმიანობამ შემოსავალი მიიღო, მაგრამ დიდი იმედები არ გამართლდა",
+      "summaryKa": "ტრამპის კრიპტო საქმიანობამ შემოსავალი მიიღო, მაგრამ ვენტურის დიდი იმედები არ გამართლდა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "8411a5045859ba28",
+      "title": "Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Almost 70 Years' Worth of History.",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/09/22/prediction-stock-market-crash-investors-70-history/?.tsrc=rss",
+      "publishedAt": "2026-09-22T09:36:00.000Z",
+      "description": "The S&P 500 stock market index looks increasingly vulnerable to a sharp correction.",
+      "titleKa": "წინასწარმეტყველება: საფონდო ბაზრის კრახი მოსალოდნელია. ინვესტორებისთვის 70 წლის ისტორიის მიხედვით რა უნდა გააკეთონ",
+      "summaryKa": "საფონდო ბაზრის კრახი ისტორიულად ხშირად ხდება და ინვესტორებმა ამისთვის მომზადება უნდა გააკეთონ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.fool.com/investing/2026/09/22/prediction-stock-market-crash-investors-70-history/?.tsrc=rss",
+      "bodyKa": "## საფონდო ბაზრის კრახის რისკი\nსაფონდო ბაზრის კრახი ისტორიულად ხშირად ხდება და ინვესტორებმა ამისთვის მომზადება უნდა გააკეთონ. ამჟამად, საფონდო ბაზრის ინდექსი S&P 500 თავის ისტორიაში მეორე უმაღლეს დონეზეა, რაც მას კრახის მიმართ ძალიან სენსიტიურს ხდის.\n\n## ინფლაცია და საპროცენტო განაკვეთები\nინფლაციის ზრდა, გამოწვეული ნავთობის ფასების ზრდით, ამერიკის ფედერალურ რეზერვს აიძულებს საპროცენტო განაკვეთები გაზარდოს. ეს კი საფონდო ბაზრისთვის ნეგატიური ფაქტორია, რადგან მაღალი საპროცენტო განაკვეთები აყრია ინვესტორებს აქციებიდან.\n\n## ინვესტორებისთვის რეკომენდაციები\nინვესტორებმა უნდა იზრუნონ, რომ საფონდო ბაზრის კრახის შემთხვევაში მათ გააჩნიათ საკმარისი რესურსები და გეგმები ამ შემთხვევისთვის. ისტორიულად, S&P 500-ის ინდექსი ყოველ 6 წელიწადში ერთხელ 20%-იან კლებას განიცდის, მაგრამ ინვესტორებმა, რომლებმაც დროს მოალილეს, შეძლეს მნიშვნელოვანი მოგებების მიღება.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "e8a4b363e2057b47",
+      "title": "If You Invest $150 Per Month in Altria Group Stock, Here's the Passive Dividend Income It Could Generate Over 10 Years",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/if-you-invest-150-month-altria-group-stock-heres-passive-dividend-income-it-could-generate",
+      "publishedAt": "2026-09-22T09:35:00.000Z",
+      "description": "Key PointsAs a Dividend King, Altria Group has a long history of raising dividends.",
+      "titleKa": "თუ თქვენ ყოველთვიურად 150 დოლარს ინვესტირებთ Altria Group-ის აქციებში, აქედან 10 წელიწადში რამდენი პასიური დივიდენდის შემოსავალი მიიღებთ",
+      "summaryKa": "Altria Group-ის აქციებში ყოველთვიური ინვესტიციით 10 წელიწადში პასიური დივიდენდის შემოსავალი შეიძლება მიღებული იქნას.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/if-you-invest-150-month-altria-group-stock-heres-passive-dividend-income-it-could-generate",
+      "bodyKa": "## შესავალი\nAltria Group-ის აქციებში ყოველთვიური 150 დოლარის ინვესტიცია 10 წელიწადში შესაძლოა განსხვავებული პასიური დივიდენდის შემოსავალი მოგებას მოუტანოს. კომპანიამ განაცხადა, რომ მათი კვარტალური დივიდენდი 4.7%-ით გაიზარდა და ახლა 1.11 დოლარს შეადგენს.\n\n## ინვესტიციის შედეგები\nთუ ინვესტორი ყოველ თვეს 150 დოლარს ინვესტირებს Altria Group-ის აქციებში, 10 წელიწადში შესაძლოა მიიღოს სხვადასხვა სიდიდის პასიური დივიდენდის შემოსავალი. თუ დივიდენდი 4%-ით გაიზრდება, ინვესტორი 8,675 დოლარი მიიღებს. თუ დივიდენდი 6%-ით გაიზრდება, ინვესტორი 10,160 დოლარი მიიღებს.\n\n## დაბრუნების შედეგები\nთუ ინვესტორი არ ინვესტირებს დივიდენდში, მაშინ მისი ყოველთვიური ინვესტიცია 6%-იანი დივიდენდის ზრდის შემთხვევაში 7,883 დოლარი მოგებას მოუტანს. თუ დივიდენდი 2%-ით გაიზრდება, ინვესტორი 6,072 დოლარი მიიღებს.\n\n## დასკვნა\nAltria Group-ის აქციებში ინვესტირება შეიძლება განსხვავებული პასიური დივიდენდის შემოსავალი მოგებას მოუტანოს. ინვესტორებმა უნდა გაითვალისწინონ კომპანიის ფინანსური შედეგები და დივიდენდის ზრდის ტენდენცია.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "438a64873a61d88a",
+      "title": "2 of Wall Street’s Favorite Stocks to Consider Right Now and 1 We Avoid",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkpvTTFEOVBhUDBMQnJRRWZuQUxWdXpNdENsRDc3azlERmRsck5NUWt1al9wTkVuZzdxckFCcURhd0wybE90MjgzM2xubmd2cUo4djI0M1FDNWtvZ3dnUUNzM0Z5TWotekkxak44VWxJZ1JPb1BSRUt4Nld3U1ZnYlhoSHNLWGw4YXJHeG4wV0thV2pKS0dSUU93?oc=5",
+      "publishedAt": "2026-09-22T09:33:46.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkpvTTFEOVBhUDBMQnJRRWZuQUxWdXpNdENsRDc3azlERmRsck5NUWt1al9wTkVuZzdxckFCcURhd0wybE90MjgzM2xubmd2cUo4djI0M1FDNWtvZ3dnUUNzM0Z5TWotekkxak44VWxJZ1JPb1BSRUt4Nld3U1ZnYlhoSHNLWGw4YXJHeG4wV0thV2pKS0dSUU93?oc=5\" target=\"_blank\">2 of Wall Street’s Favorite Stocks to Consider Right Now and 1 We Avoid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "უოლ სტრიტის 2 საყვარელი აქცია, რომელი უნდა გახდეს ინვესტორებისთვის ახლა და 1, რომელიც უნდა აირიდოს",
+      "summaryKa": "უოლ სტრიტის ზოგიერთ აქციას ინვესტორები ახლა ირჩევენ, ზოგს კი არიდებენ.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "2c0b7c68d42948ee",
       "title": "Q2 Earnings Roundup: Trex (NYSE:TREX) And The Rest Of The Home Construction Materials Segment",
