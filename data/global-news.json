@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-22T10:02:48.171Z",
+  "updatedAt": "2026-09-22T14:58:57.005Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "e78314ec431fba5c",
+      "title": "Continued AI Disruption Concerns Weigh on CCC Intelligent Solutions Holdings (CCC)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/continued-ai-disruption-concerns-weigh-144822190.html?.tsrc=rss",
+      "publishedAt": "2026-09-22T14:48:22.000Z",
+      "description": "The London Company, an investment management company, released its second-quarter 2026 investor letter for its “Small Cap Strategy.” U.S. equities rebounded in the quarter, driven by AI infrastructure spending and positive earnings. The letter can be downloaded here. Despite this optimism, rate outlook uncertainty persisted. Technology, previously weak, surged to lead the market, especially in semiconductors, […]",
+      "titleKa": "CCC Intelligent Solutions Holdings-ის აქციების მდგომარეობაზე აი-ის გავლენა",
+      "summaryKa": "CCC Intelligent Solutions Holdings-ის აქციებზე აი-ის შესაძლო გავლენა საინტერესოა",
+      "category": "AI",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/continued-ai-disruption-concerns-weigh-144822190.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nCCC Intelligent Solutions Holdings-ის აქციების მდგომარეობაზე აი-ის გავლენა საინტერესოა. ლონდონის კომპანიამ, ინვესტიციის მენეჯმენტის კომპანიამ, გამოაქვეყნა მეორე კვარტალის 2026 წლის ინვესტორის წერილი თავისი \"მცირე კაპიტალიზაციის სტრატეგიის\" შესახებ. ამერიკის შეერთებული შტატების აქციები გაიზარდა კვარტალში, რაც გამოწვეული იყო აი-ინფრასტრუქტურის ხარჯებითა და დადებითი ფინანსური შედეგებით.\n\n## კომპანიის შესახებ\nCCC Intelligent Solutions Holdings Inc. (NASDAQ: CCC) არის სამანქანო და შენობის დაზიანების საინსურანსო ინდუსტრიისთვის სამომსახურეო პროგრამული უზრუნველყოფის (SaaS) პლატფორმის მიმწოდებელი კომპანია. 2026 წლის 21 სექტემბერს CCC Intelligent Solutions Holdings Inc.-ის აქციები 6.50 დოლარად დაიხურა. ბოლო თვის განმავლობაში კომპანიის აქციები 12.87%-ით დაეცა, ხოლო 52 კვირის განმავლობაში - 30.48%-ით. კომპანიის საბაზრო კაპიტალიზაცია 3.83 მილიარდ დოლარს შეადგენს.\n\n## ინვესტორების შეხედულება\nლონდონის კომპანიამ თავის მეორე კვარტალის 2026 წლის ინვესტორის წერილში აღნიშნა, რომ CCC Intelligent Solutions Holdings Inc.-ის აქციები შეფერხდა ინვესტორების შეშფოთების გამო აი-ის შესაძლო გავლენით. კომპანია აცხადებს, რომ ეს შეშფოთება არ უნდა გავლენა მოახდინოს კომპანიის ფინანსურ შედეგებზე, რადგან კომპანიას აქვს ღრმად ჩართული პლატფორმა, საკუთარი მონაცემები და კრიტიკული როლი საინსურანსო ინდუსტრიაში.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "97d426b5d948737a",
       "title": "Trump’s Crypto Venture Got Rich While Big Promises Fell Short",
@@ -55,7 +70,10 @@
       "titleKa": "უოლ სტრიტის 2 საყვარელი აქცია, რომელი უნდა გახდეს ინვესტორებისთვის ახლა და 1, რომელიც უნდა აირიდოს",
       "summaryKa": "უოლ სტრიტის ზოგიერთ აქციას ინვესტორები ახლა ირჩევენ, ზოგს კი არიდებენ.",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/2-wall-street-favorite-stocks-093346841.html",
+      "bodyKa": "## შესავალი\nუოლ სტრიტის ინვესტორები ახლა რამდენიმე აქციას ირჩევენ, ზოგს კი არიდებენ. ამ სტატიაში გავარჩიეთ უოლ სტრიტის 2 საყვარელი აქცია, რომელი უნდა გახდეს ინვესტორებისთვის ახლა და 1, რომელიც უნდა აირიდოს.\n\n## აქციები, რომელი უნდა გახდეს ინვესტორებისთვის\nDycom (NYSE:DY) და Popular (NASDAQ:BPOP) არიან ის კომპანიები, რომელთა აქციები უოლ სტრიტის ინვესტორების ყურადღების ცენტრში არიან. Dycom-ის აქციის ფასი $293-ია, ხოლო Popular-ის აქციის ფასი $162.57-ია. Dycom-ის აქციის წლიური შემოსავლის ზრდა 24.6%-ია ბოლო 2 წლის განმავლობაში, ხოლო მისი სუფთა მოგება 37%-ით გაიზარდა ბოლო 2 წელს. Popular-ის პროექტირებული საინტერესო შემოსავლის ზრდა 17.3%-ია მომავალ 12 თვეში.\n\n## აქცია, რომელი უნდა აირიდოს\nCrown Holdings (NYSE:CCK) არის ის კომპანია, რომელიც უოლ სტრიტის ინვესტორების მიერ არიდებული უნდა იყოს. კომპანიის აქციის ფასი $108.73-ია, ხოლო მისი განავრცეს შემოსავალი 1.9%-ია ბოლო 5 წლის განმავლობაში. კომპანიის საშუალო მარჯვედ 20.3%-ია, რაც მის კონკურენტებთან შედარებით დაბალია.\n\n## დასკვნა\nუოლ სტრიტის ინვესტორები ახლა რამდენიმე აქციას ირჩევენ, ზოგს კი არიდებენ. ამ სტატიაში გავარჩიეთ უოლ სტრიტის 2 საყვარელი აქცია, რომელი უნდა გახდეს ინვესტორებისთვის ახლა და 1, რომელიც უნდა აირიდოს. ინვესტორებმა უნდა გაითვალისწინონ კომპანიების ფინანსური შედეგები და ბაზარზე მათი პოზიცია, რათა მათ შეძლონ სწორი გადაწყვეტილება მიიღონ თავიანთი ინვესტიციების შესახებ.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "2c0b7c68d42948ee",
