@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T21:08:03.295Z",
+  "updatedAt": "2026-09-22T00:09:44.557Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -28,7 +28,10 @@
       "titleKa": "Bitcoin-თან დაკავშირებული აქციები იზრდება",
       "summaryKa": "Bitcoin-თან დაკავშირებული აქციები იზრდება.",
       "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/video/bitcoin-related-stocks-surging-momentum-204500572.html",
+      "bodyKa": "## შესავალი\nBitcoin-თან დაკავშირებული აქციები იზრდება. ამ მატებას რამდენიმე ფაქტორი განაპირობებს, მათ შორის ინოვაციის გამონაკლისი, რომელიც ბიტკოინს მიენიჭა.\n\n## ბიტკოინის ზეწოლა\nCboe-ს უფროსი ვიცე-პრეზიდენტი და რიტეილ ექსპანსიისა და ალტერნატიული ინვესტიციის პროდუქტების ხელმძღვანელი, JJ Kinahan, აღნიშნავს, რომ ბიტკოინთან დაკავშირებულ აქციებში შეტყობინებათა ყიდვა ხდება. მაგალითად, Coinbase-ში შეტყობინებათა ყიდვა შეინიშნება. ბიტკოინის ეტფ-იბი, IBIT, დღეს 6.5%-ით გაიზარდა.\n\n## ინვესტორების დაცვა\nინვესტორებმა უნდა იყვნენ შეზღუდულნი ბიტკოინის მატების შემთხვევაში, რადგან ეს მატება შეიძლება არ გაგრძელდეს. ინვესტორებს უნდა იყოს ფიქრი იმის შესახებ, რომ ბიტკოინის ფასი 5%-ით გაიზარდა დღეს და შვიდშაბათს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "4bc200533498ae46",
