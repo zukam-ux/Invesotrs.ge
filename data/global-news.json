@@ -1,8 +1,59 @@
 {
-  "updatedAt": "2026-09-23T00:36:45.587Z",
+  "updatedAt": "2026-09-23T10:04:53.383Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "9eb68a270a840b79",
+      "title": "JSW Greentech enters commercial EV market with Ampstar brand",
+      "source": "Yahoo Finance",
+      "url": "https://www.just-auto.com/news/jsw-commercial-ev-market-ampstar-brand/?.tsrc=rss",
+      "publishedAt": "2026-09-23T09:55:16.000Z",
+      "description": "The new brand will cover the design, manufacture and sale of electric buses and trucks in India.",
+      "titleKa": "JSW Greentech კომპანია საკომერციო ელექტრო მანქანების ბაზარზე შევიდა Ampstar ბრენდით",
+      "summaryKa": "JSW Greentech კომპანია საკომერციო ელექტრო მანქანების ბაზარზე შევიდა Ampstar ბრენდით",
+      "category": "ტექნოლოგიები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.just-auto.com/news/jsw-commercial-ev-market-ampstar-brand/",
+      "bodyKa": "## შესავალი\nJSW Greentech კომპანია საკომერციო ელექტრო მანქანების ბაზარზე შევიდა Ampstar ბრენდით. ეს ბრენდი დიზაინის, წარმოებისა და საკომერციო ელექტრო ავტობუსებისა და სატვირთო მანქანების გაყიდვის საქმიანობას მოიცავს.\n\n## ბიზნეს სტრატეგია\nAmpstar ბრენდი საკომერციო ელექტრო მანქანების ბაზარზე შესვლის მიზნით შეიქმნა. კომპანია აპირებს საკომერციო ელექტრო მანქანების წარმოებას 90 ჰექტარი ფართობის საწარმოო სივრცეში, რომელიც ინდოეთში მდებარეობს და წელიწადში 15,000 ელექტრო ავტობუსისა და სატვირთო მანქანის წარმოების პოტენციალს ფლობს.\n\n## ტექნოლოგიური შესაძლებლობები\nAmpstar ბრენდის მანქანები 150kW-დან 500kW-მდე ძალის კონფიგურაციებს მოიცავს. კომპანია კლიენტებს სხვადასხვა ფასის მოდელების არჩევის შესაძლებლობას აძლევს, მათ შორის სრული შესყიდვა, ლიზინგი და ბატარეის სერვისი. მანქანები ინდურ გზებსა და კლიმატზე მორგებული დიზაინით შეიქმნება.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "841db88100a9f596",
+      "title": "Watch OECD Says Central Banks Must Be Vigilant to Inflation Risks",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVndxalhsZ1lpbmtIN2hmUnowWWlUa0txX2lfajI4Ym1DaVdLQUJnNnR4UFpUbFJiblV6YjRpYkNIcUJlWHNLdkRQRlJiN3l6VllucWxmSVJGUmRDVmR0dlJBSV9IOGdubVdfVEExLWh5RGZmM0V3bW1EVmNySlhReTh3U0hRQVR2aVFtN0N3eDhfemFXVUduUmx2dmdibXdqRW1qMHBGX0ZpRzk3N2c?oc=5",
+      "publishedAt": "2026-09-23T09:54:23.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVndxalhsZ1lpbmtIN2hmUnowWWlUa0txX2lfajI4Ym1DaVdLQUJnNnR4UFpUbFJiblV6YjRpYkNIcUJlWHNLdkRQRlJiN3l6VllucWxmSVJGUmRDVmR0dlJBSV9IOGdubVdfVEExLWh5RGZmM0V3bW1EVmNySlhReTh3U0hRQVR2aVFtN0N3eDhfemFXVUduUmx2dmdibXdqRW1qMHBGX0ZpRzk3N2c?oc=5\" target=\"_blank\">Watch OECD Says Central Banks Must Be Vigilant to Inflation Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "titleKa": "OECD-ის თქმით, ცენტრალურ ბანკებს ინფლაციის რისკებზე ფართო ყურადღება უნდა მიაქციონ",
+      "summaryKa": "OECD-ის თქმით, ცენტრალურ ბანკებს ინფლაციის რისკებზე ფართო ყურადღება უნდა მიაქციონ",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3f6437f0dbbc9d4a",
+      "title": "What Is the Best Crypto to Buy Before the Trump and Xi Meeting on September 24?",
+      "source": "Yahoo Finance",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/23/what-is-the-best-crypto-to-buy-before-the-trump-and-xi-meeting-on-september-24/?.tsrc=rss",
+      "publishedAt": "2026-09-23T09:40:46.000Z",
+      "description": "Trump and Xi are meeting again, and crypto traders are already repositioning. But the last summit caught Bitcoin bulls off guard, and the setup heading into September 24 raises the same uncomfortable question all over again.",
+      "titleKa": "რომელი კრიპტოვალუტა უნდა ყიდვა ტრამპისა და სის 24 სექტემბერს შეხვედრამდე",
+      "summaryKa": "ტრამპისა და სის შეხვედრამდე კრიპტოვალუტის შესაძენად საუკეთესო ვარიანტი განიხილება",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "387656c12a033166",
+      "title": "If I Had $10,000 to Invest Today, Here's the Trillion-Dollar Stock I'd Buy Instead of SpaceX",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/if-i-had-10000-invest-today-heres-trillion-dollar-stock-id-buy-instead-spacex-1",
+      "publishedAt": "2026-09-23T09:39:00.000Z",
+      "description": "Key PointsSpace Exploration Technologies (SpaceX) went public in June, and it has already lost one-third of its peak value.",
+      "titleKa": "თუ მე 10,000 დოლარი მყავს ინვესტიციისთვის, მე ამ ტრილიონიან აქციებს ვირჩევ, ნაცვლად SpaceX-ისა",
+      "summaryKa": "ავტორი 10,000 დოლარის ინვესტირებას ტრილიონიან აქციებში აპირებს, ნაცვლად SpaceX-ში ინვესტირებისა",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "d491f68ef6f9422e",
       "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
