@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-09-23T10:04:53.383Z",
+  "updatedAt": "2026-09-23T15:04:41.310Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "ad680783e72a7704",
+      "title": "Prediction: This Underrated ETF Could Be the Most Surprising Outperformer of the Next 10 Years",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHUtQWt0dUw1Vk9aVmxUSm9kOXJxZVc5T2VKaHVTZUN2ZFE0VVM5NFhDS0JxYnVnOGlxeEpSX1FwWUJEUWk1X3diRVNzTW1zZUZjSl9LcjVhaU1iaFM4dTFfTUhKaU9nWnBZaEZwY0RQdXJ2cFNmUE1idV9YNUszbnNTbVRQX2k1bTRybDFvLWxkcHdGVHR5OEVUWmtYT1RJRjVj?oc=5",
+      "publishedAt": "2026-09-23T14:50:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHUtQWt0dUw1Vk9aVmxUSm9kOXJxZVc5T2VKaHVTZUN2ZFE0VVM5NFhDS0JxYnVnOGlxeEpSX1FwWUJEUWk1X3diRVNzTW1zZUZjSl9LcjVhaU1iaFM4dTFfTUhKaU9nWnBZaEZwY0RQdXJ2cFNmUE1idV9YNUszbnNTbVRQX2k1bTRybDFvLWxkcHdGVHR5OEVUWmtYT1RJRjVj?oc=5\" target=\"_blank\">Prediction: This Underrated ETF Could Be the Most Surprising Outperformer of the Next 10 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "პროგნოზი: ეს უნივერსალური ETF შემდეგი 10 წლის განმავლობაში ყველაზე მომგებიანი შედეგის მქონე ინვესტიცია შეიძლება გახდეს",
+      "summaryKa": "შემდეგი 10 წლის განმავლობაში ერთ-ერთი ETF შეიძლება ყველაზე მომგებიანი ინვესტიცია გახდეს",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "9eb68a270a840b79",
       "title": "JSW Greentech enters commercial EV market with Ampstar brand",
@@ -40,7 +52,10 @@
       "titleKa": "რომელი კრიპტოვალუტა უნდა ყიდვა ტრამპისა და სის 24 სექტემბერს შეხვედრამდე",
       "summaryKa": "ტრამპისა და სის შეხვედრამდე კრიპტოვალუტის შესაძენად საუკეთესო ვარიანტი განიხილება",
       "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://247wallst.com/investing/cryptocurrency/2026/09/23/what-is-the-best-crypto-to-buy-before-the-trump-and-xi-meeting-on-september-24/?.tsrc=rss",
+      "bodyKa": "ტრამპისა და სის 24 სექტემბერს შეხვედრამდე კრიპტოვალუტის შესაძენად საუკეთესო ვარიანტი განიხილება. დონალდ ტრამპი და სი ძინპინი სექტემბერში შეხვდებიან, რის შემდეგაც კრიპტოვალუტის ბაზარი შესაძლოა გავლენას განიცდნოს. ## კრიპტოვალუტის ბაზარი ბიტკოინი ამჟამად $86,276-ზე გარიჟრებს, რაც 14.4%-იანი ზრდაა ბოლო კვირაში და 11.2%-იანი ზრდა ბოლო თვეში. ## ინვესტორების შეხედულება ინვესტორები შეხვედრის შედეგებს მაღალ დონეზე ადევნებენ ყურადღებას. ზოგიერთი მათგანი ფიქრობს, რომ შეხვედრა კრიპტოვალუტის ბაზარზე გავლენას მოახდენს. ## შეხვედრის შედეგები შეხვედრის შედეგები კრიპტოვალუტის ფასებზე გავლენას მოახდენს. თუ შეხვედრა წარმატებით ჩაივლის, კრიპტოვალუტის ფასები შესაძლოა გაიზარდოს. თუ შეხვედრა წარუმატებლად ჩაივლის, კრიპტოვალუტის ფასები შესაძლოა დაეცეს. ## დასკვნა კრიპტოვალუტის შესაძენად საუკეთესო ვარიანტი ბიტკოინი ან სოლანა შეიძლება იყოს. ინვესტორებმა უნდა გაითვალისწინონ, რომ კრიპტოვალუტის ბაზარზე რისკი მაღალია და შესაძლოა დიდი ზარალი განიცდნონ.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "387656c12a033166",
