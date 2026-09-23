@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-09-23T15:04:41.310Z",
+  "updatedAt": "2026-09-23T19:07:11.584Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "dc345b0072a6f527",
+      "title": "Update: US Equity Indexes Drop as Robust Output Growth Galvanizes Fed Rate-Increase Bets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-drop-robust-185251446.html?.tsrc=rss",
+      "publishedAt": "2026-09-23T18:52:51.000Z",
+      "description": "(Updates with index/price moves, macroeconomic data, and geopolitical news from the first paragraph.",
+      "titleKa": "ამერიკის აქციების ინდექსები ეცემა, რადგან ძლიერი წარმოების ზრდა ამძლევს ფედერალურ სარეზერვო საპროცენტო განაკვეთის გაზრდის შესაძლებლობას",
+      "summaryKa": "ამერიკის აქციების ინდექსები ეცემა, რადგან ძლიერი წარმოების ზრდა ამძლევს ფედერალურ სარეზერვო საპროცენტო განაკვეთის გაზრდის შესაძლებლობას",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9ece52442938bc3a",
+      "title": "$15.6 Billion in Bitcoin Options Expire Friday—Here's What It Means",
+      "source": "Yahoo Finance",
+      "url": "https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means?.tsrc=rss",
+      "publishedAt": "2026-09-23T18:46:03.000Z",
+      "description": "Deribit's strike-by-strike data shows a book stacked with calls, and one price level drawing hedging pressure from both sides at once.",
+      "titleKa": "შაბათს 15.6 მილიარდი დოლარის ღირებულების ბიტკოინის ოფციონები მოქმედებას შეწყვეტენ",
+      "summaryKa": "შაბათს 15.6 მილიარდი დოლარის ღირებულების ბიტკოინის ოფციონები მოქმედებას შეწყვეტენ",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means?.tsrc=rss",
+      "bodyKa": "## შესავალი\nშაბათს, 15.6 მილიარდი დოლარის ღირებულების ბიტკოინის ოფციონები მოქმედებას შეწყვეტენ. ეს ინფორმაცია Deribit-ის მიერ არის გამოქვეყნებული, რომელიც აჩვენებს, რომ 182,000 ბიტკოინი ღია კონტრაქტებშია განაწილებული, რომელთაგან 106,200 არის ყნადღები, ხოლო 75,900 - მიყიდვის ოფციონები.\n\n## ოფციონების მნიშვნელობა\nოფციონები ინვესტორებს საშუალებას აძლევს შეიძინონ ან გაყიდონ ბიტკოინი მოცემულ ფასზე მოცემულ თარიღამდე. ყნადღების ოფციონები ინვესტორებს საშუალებას აძლევს შეიძინონ ბიტკოინი მოცემულ ფასზე, ხოლო მიყიდვის ოფციონები საშუალებას აძლევს გაყიდონ ბიტკოინი მოცემულ ფასზე.\n\n## მაქსიმალური ტკივილი\nოფციონების ტრეიდერები აკვირდებიან მაქსიმალურ ტკივილს, რომელიც არის ფასი, რომელზე უდიდესი რაოდენობის ოფციონები ამოწურვას განიცდიან. Deribit-ის მიერ გამოქვეყნებული ინფორმაციის მიხედვით, შაბათს მაქსიმალური ტკივილი 76,000 დოლარი იქნება.\n\n## დასკვნა\nშაბათს 15.6 მილიარდი დოლარის ღირებულების ბიტკოინის ოფციონების ამოწურვა შესაძლოა ბიტკოინის ფასზე გავლენა მოახდინოს. აღსანიშნავია, რომ ოფციონების ამოწურვა არ არის ფულის გადაცემა, არამედ ბიტკოინის ღირებულების მიმატება.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "8c0a2292a8e610cc",
+      "title": "2 Midstream Dividend Stocks With Growing Payouts -- One Yielding Over 6%",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHY4T01Jb1R3M1JoOE5WVFlEbmpGaDlOUG12Sm9fM01tamRscWdfQ182bTRKMXFXUGplSkhNYkVjVjVhQ1ZLdThqNG1xNFFBQVBWNkxVRHVERmJMNFJ6SG51QXZWNXpnMFhYeWtoUjV6eGxVZXBQZjh2TWw5NjVLOWtmZDJoazAtRnlGZGRacWVJZ2NjbTl0OHNjVndWZDdjaVE?oc=5",
+      "publishedAt": "2026-09-23T18:43:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHY4T01Jb1R3M1JoOE5WVFlEbmpGaDlOUG12Sm9fM01tamRscWdfQ182bTRKMXFXUGplSkhNYkVjVjVhQ1ZLdThqNG1xNFFBQVBWNkxVRHVERmJMNFJ6SG51QXZWNXpnMFhYeWtoUjV6eGxVZXBQZjh2TWw5NjVLOWtmZDJoazAtRnlGZGRacWVJZ2NjbTl0OHNjVndWZDdjaVE?oc=5\" target=\"_blank\">2 Midstream Dividend Stocks With Growing Payouts -- One Yielding Over 6%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ორი საშუალო დონის აქციები რომლებიც იზრდება დივიდენდის გაცემით - ერთ-ერთი 6%-ზე მეტი სარგებელით",
+      "summaryKa": "ორი საშუალო დონის აქციები რომლებიც იზრდება დივიდენდის გაცემით - ერთ-ერთი 6%-ზე მეტი სარგებელით",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/2-midstream-dividend-stocks-growing-184300024.html",
+      "bodyKa": "## შესავალი\nორი საშუალო დონის აქციები, Energy Transfer (NYSE: ET) და Enterprise Products Partners (NYSE: EPD), რომლებიც იზრდება დივიდენდის გაცემით, გამოირჩევიან თავიანთი მაღალი შემოსავლით. Energy Transfer-ის დივიდენდის სარგებელი 6.4%-ია, ხოლო Enterprise Products Partners-ის - 5.8%.\n\n## ენერჯი ტრანსფერის შესახებ\nEnergy Transfer არის ერთ-ერთი უმსხვილესი ბუნებრივი აირის ტრანსპორტიორი ამერიკაში და იღებს დაბალფასიან ბუნებრივ აირს პერმიანის აუზიდან. კომპანია აპირებს 5.9 მილიარდ დოლარზე მეტი თანხის გამოყოფას გაზრდის პროექტებზე ამ წელს.\n\n## ენტერპრაიზ პროდუქტს პარტნერსის შესახებ\nEnterprise Products Partners არის ერთ-ერთი უმსხვილესი ბუნებრივი აირის ლიკვიდების კომპანია ამერიკაში. კომპანია იღებს შემოსავალს ბუნებრივი აირის ლიკვიდების გადამუშავების, ფრაქციონირების, შენახვის და ტრანსპორტირების საფასურიდან. კომპანიას 28 წლის განმავლობაში იზრდის თავის გამოყოფას.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "ad680783e72a7704",
       "title": "Prediction: This Underrated ETF Could Be the Most Surprising Outperformer of the Next 10 Years",
