@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T22:12:10.858Z",
+  "updatedAt": "2026-09-23T00:36:45.587Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -52,7 +52,10 @@
       "titleKa": "Gilead Sciences-ის (GILD) აქციები 1.40%-ით გაიზარდა",
       "summaryKa": "Gilead Sciences-ის აქციები 1.40%-ით გაიზარდა.",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/gilead-sciences-gild-stock-moves-220005576.html?.tsrc=rss",
+      "bodyKa": "## გილეად საიენსესის აქციების მატება\nგილეად საიენსესის (GILD) აქციები 1.40%-ით გაიზარდა ბოლო სავაჭრო სესიაში, რაც შეადგინა $152.67. ამასთან, დოუ-ჯონსის ინდექსი 0.36%-ით დაეცა, ხოლო ტექნოლოგიური კომპანიებით დომინირებული ნასდაქი 0.45%-ით გაიზარდა.\n\n## კომპანიის ფინანსური შედეგები\nგილეად საიენსესის აქციები ბოლო თვეში 2.6%-ით გაიზარდა, რაც აღემატება მედიცინის სექტორში 3.65%-იან ზარალს და S&P 500-ის 1.27%-იან მოგებას. კომპანიის ფინანსური შედეგების გამოქვეყნებას დიდი ყურადღება ექნება. კომპანიის ერთ აქციაზე მოგება $2.15-ად იქნა პროგნოზირებული, რაც 12.96%-იანი კლებაა წინა წლის ანალოგიურ კვარტალთან შედარებით.\n\n## ანალიტიკოსების შეფასებები\nგილეად საიენსესი ამჟამად ზაქსის რეიტინგში #3 (შენარჩუნება) პოზიციაზეა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "4a29468b44dcfb81",
