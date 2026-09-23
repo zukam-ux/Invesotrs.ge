@@ -1,8 +1,59 @@
 {
-  "updatedAt": "2026-09-23T19:07:11.584Z",
+  "updatedAt": "2026-09-23T22:19:53.791Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "c807f3c00f3cef40",
+      "title": "Oil Extends Advance on Renewed Tensions Between the US and Iran",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMkdCekUwbDRkR1VxQlZjQlBnOUFOQTdMVXJ1UWdsV0J5cHdLQk90aFNiakZTQ2tueEtEY3lNYVVnZzJhN1BJZmlhVlVwR3ZxZFJoQ0NZWHo2UEo4Zi1zeE9yUkVmRGh2ckJfR3B3d0FKVnhYZGxlbHR0eVY0MVFwTktIUThXYk8wUjJfQXcxYlFteUtOUEJQc3lOdXR6Ym9pR2VNdW93R1ZPblpGRUFCZE5nbTJmRVRkd0RsSkZB?oc=5",
+      "publishedAt": "2026-09-23T22:09:08.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOMkdCekUwbDRkR1VxQlZjQlBnOUFOQTdMVXJ1UWdsV0J5cHdLQk90aFNiakZTQ2tueEtEY3lNYVVnZzJhN1BJZmlhVlVwR3ZxZFJoQ0NZWHo2UEo4Zi1zeE9yUkVmRGh2ckJfR3B3d0FKVnhYZGxlbHR0eVY0MVFwTktIUThXYk8wUjJfQXcxYlFteUtOUEJQc3lOdXR6Ym9pR2VNdW93R1ZPblpGRUFCZE5nbTJmRVRkd0RsSkZB?oc=5\" target=\"_blank\">Oil Extends Advance on Renewed Tensions Between the US and Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ნავთობის ფასი აშშ-ირანის შორის გამწვავებული ურთიერთობების ფონზე იზრდება",
+      "summaryKa": "აშშ-ირანის შორის გამწვავებული ურთიერთობების ფონზე ნავთობის ფასი იზრდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "beaa11cb83e7d367",
+      "title": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir, Palo Alto Flash Buy Signals",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html?.tsrc=rss",
+      "publishedAt": "2026-09-23T22:06:17.000Z",
+      "description": "The stock market fell as Treasury yields skyrocketed and oil prices rose, but Palantir and Palo Alto flashed buy signals.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები: აქციები ეცემა, რადგან სახაზინო ვალდანამღებლობის საპროცენტო განაკვეთი იზრდება",
+      "summaryKa": "სახაზინო ვალდანამღებლობის საპროცენტო განაკვეთის ზრდის ფონზე აქციები ეცემა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "fdd33bf4cd5dabe7",
+      "title": "Earnings Outlook Remains Upbeat: A Closer Look",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-outlook-remains-upbeat-closer-220500751.html?.tsrc=rss",
+      "publishedAt": "2026-09-23T22:05:00.000Z",
+      "description": "Earnings revisions remain positive, sustaining a trend that's been in place for a year now. Q3 earnings are currently expected to grow 23.9% year-over-year, reflecting the eighth consecutive quarter of double-digit growth for the S&P 500 index.",
+      "titleKa": "მოგების პროგნოზი კვლავ დადებითია",
+      "summaryKa": "ფინანსური შედეგების პროგნოზი დადებითია.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/earnings-outlook-remains-upbeat-closer-220500751.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nფინანსური შედეგების პროგნოზი კვლავ დადებითია. S&P 500-ის მოგება მესამე კვარტალში 23.9%-ით გაიზრდება წინა წლის ანალოგიურ პერიოდთან შედარებით, რაც 11.4%-ით გაზრდილ შემოსავალზე მოახდენს.\n\n## სექტორების შედეგები\nექვსი სექტორი გამოავლენს მოგების დადებით ზრდას მესამე კვარტალში: Aerospace (+159.5%), Energy (+111.8%), Tech (+41.9%), Basic Materials (+29.8%), Transportation (+14.9%), და Industrial Products (+13.0%).\n\n## საფონდო ბაზარი\nS&P 500-ის შემოსავალი და მოგება მესამე კვარტალში იგეგმება. ენერგეტიკის სექტორის მოგების ზრდა 111.8%-ს შეადგენს. ტექნოლოგიების სექტორის მოგების ზრდა 41.9%-იდან 29.4%-მდე შემცირდება, თუ გამოვაკლებთ ნახევარგამტარების ინდუსტრიის წილს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "0a4cb8b52af4d9be",
+      "title": "Here's Why Canopy Growth Corporation (CGC) Fell More Than Broader Market",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-canopy-growth-corporation-220007304.html?.tsrc=rss",
+      "publishedAt": "2026-09-23T22:00:07.000Z",
+      "description": "Canopy Growth Corporation (CGC) closed the most recent trading day at $0.94, moving 2.34% from the previous trading session.",
+      "titleKa": "Canopy Growth Corporation-ის (CGC) აქციები უფრო მეტად დაეცა, ვიდრე ბროდერი ბაზარი",
+      "summaryKa": "Canopy Growth Corporation-ის აქციები ბროდერ ბაზარზე უფრო მეტად დაეცა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "dc345b0072a6f527",
       "title": "Update: US Equity Indexes Drop as Robust Output Growth Galvanizes Fed Rate-Increase Bets",
