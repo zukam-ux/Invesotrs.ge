@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-24T11:50:54.152Z",
+  "updatedAt": "2026-09-24T17:15:19.367Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "a1c1694f9ab75625",
+      "title": "Billionaire Bill Ackman’s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/billionaire-bill-ackmans-pershing-square-capital-management-has-127-its-portfolio-invested",
+      "publishedAt": "2026-09-24T17:01:01.000Z",
+      "description": "Key PointsUber Technologies has significantly lagged broader equities this year.",
+      "titleKa": "მილიარდერი ბილ აკმანის Pershing Square Capital Management-ის 12.7%-იანი პორტფელი ერთ-ერთ აქციაშია ინვესტირებული",
+      "summaryKa": "Pershing Square Capital Management-ის 12.7%-იანი პორტფელი ერთ-ერთ აქციაშია ინვესტირებული",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/billionaire-bill-ackmans-pershing-square-capital-management-has-127-its-portfolio-invested",
+      "bodyKa": "## შესავალი\nბილ აკმანის Pershing Square Capital Management-ის 12.7%-იანი პორტფელი ერთ-ერთ აქციაშია ინვესტირებული. ეს აქცია ეკუთვნის კომპანია Uber Technologies-ს.\n\n## ფინანსური შედეგები\nUber Technologies-ის ფინანსური შედეგები განსხვავებულია. მაგალითად, კომპანიის შემოსავალი 12%-ით გაიზარდა წინა წელთან შედარებით და შეადგინა 14.19 მილიარდი დოლარი. ამასთან, კომპანიის საოპერაციო მოგება 30%-ით გაიზარდა და შეადგინა 1.9 მილიარდი დოლარი.\n\n## ინვესტორების შეშფოთება\nინვესტორები შეშფოთებულნი არიან, რომ ავტონომიური მანქანების გამოჩენა შეიძლება კომპანიის ბიზნესს დააზიანოს. თუმცა, Uber აქტიურად ეწევა ამ საკითხს და ცდილობს, რომ ავტონომიური მანქანების გამოჩენა საკუთარ სასარგებლოდ გამოიყენოს.\n\n## პერსპექტივა\nუბერი უკვე პარტნიორობას დაამყარა ავტონომიური მანქანების ლიდერ კომპანიებთან, მათ შორის Waymo-სთან. ამას გარდა, კომპანია აპირებს საკუთარი ავტონომიური მანქანების ფლოტის შექმნას და უკვე შეთანხმებას დაამყარა Rivian-თან, რათა 50 000 ავტონომიური მანქანის შეძენა მოახერხოს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "f80fd5707d14f882",
       "title": "Bitcoin and ethereum prices today, Thursday, September 24, 2026: Crypto prices lose ground as rate-hike expectations grow",
