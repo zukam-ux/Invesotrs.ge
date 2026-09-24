@@ -1,8 +1,59 @@
 {
-  "updatedAt": "2026-09-24T20:32:10.445Z",
+  "updatedAt": "2026-09-24T23:31:16.950Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "4034ae7d03c28ed2",
+      "title": "The S&P 500’s newest tech stock is now its best performer",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
+      "publishedAt": "2026-09-24T23:26:00.000Z",
+      "description": "Shares of data-storage company Everpure were leading S&P 500 gainers on Thursday.",
+      "titleKa": "S&P 500-ის ახალი ტექნოლოგიური აქცია ახლა საუკეთესო შემოსავლიანია",
+      "summaryKa": "S&P 500-ის ახალ ტექნოლოგიურ აქციებს საუკეთესო შემოსავალი აქვთ",
+      "category": "ტექნოლოგიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "cc3202578497013d",
+      "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "publishedAt": "2026-09-24T23:16:20.000Z",
+      "description": "The stock market rallied to close mixed even as yields and oil prices kept rising. Taiwan Semi is a buy. A Tesla Semi event is on tap.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები: ბაზრის რალი სტაბილურია, რადგან მაღლდება პროცენტული განაკვეთები და ნავთობის ფასები",
+      "summaryKa": "Dow Jones-ის მომავალ კონტრაქტებში ბაზრის რალი სტაბილურია",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "be7a3068c1ec5476",
+      "title": "META Stock Is Set For Its Best Month In Over 13 Years — It’s Inches Away From $2 Trillion Market Cap",
+      "source": "Yahoo Finance",
+      "url": "https://stocktwits.com/news-articles/markets/equity/meta-stock-is-set-for-its-best-month-in-over-13-years-it-s-inches-away-from-2-trillion-market-cap/cZMJ1cpRBab?.tsrc=rss",
+      "publishedAt": "2026-09-24T23:16:20.000Z",
+      "description": "Meta shares are experiencing their strongest monthly surge in over a decade, driven by strong consumer adoption of its new Muse AI assistant.",
+      "titleKa": "META-ის აქციები 13 წელზე მეტი ხნის განმავლობაში საუკეთესო თვეს განიცდიან",
+      "summaryKa": "META-ის აქციები 13 წელზე მეტი ხნის განმავლობაში საუკეთესო თვეს განიცდიან",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://stocktwits.com/news-articles/markets/equity/meta-stock-is-set-for-its-best-month-in-over-13-years-it-s-inches-away-from-2-trillion-market-cap/cZMJ1cpRBab?.tsrc=rss",
+      "bodyKa": "## შესავალი\nMETA-ის აქციები 13 წელზე მეტი ხნის განმავლობაში საუკეთესო თვეს განიცდიან. სექტემბერში კომპანიის აქციები 36%-ით გაიზარდა, რაც მას 2 ტრილიონ დოლარის საბაზრო კაპიტალიზაციას 1%-ით ახლოს აყენებს.\n\n## მიზეზები და გავლენები\nაქციების ასეთ ზრდას რამდენიმე ფაქტორი განაპირობა. ერთ-ერთი მათგანია 18 მილიარდ დოლარიანი იურიდიული შეთანხმება და ახალი კომერციული პარტნიორობები Expedia და Maplebear Inc.-თან. ასევე, კომპანიის ახალი პერსონალური AI ასისტენტის, Muse-ის, წარმატებამ ინვესტორების ნდობა გაზარდა.\n\n## ფინანსური მაჩვენებლები და პერსპექტივები\nMETA-ის აქციები წელიწადში 18%-ით გაიზარდა. კომპანიის შემოსავალი ამ წელს 26%-ით გაიზრდება და 254 მილიარდ დოლარს მიაღწებს, ხოლო მოგება 33%-ით გაიზრდება და 80.6 მილიარდ დოლარს მიაღწებს. კომპანიას მასიური AI ინფრასტრუქტურის ხარჯები აქვს, რომელიც ამ წელს 140 მილიარდ დოლარს შეადგენს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "4363d347e42f5386",
+      "title": "Gold Hedge Fund’s 235% Return",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEhZbzZjRlJfZ2tfRTVNVXB1SFdQTXRrQnhOdDd5a1NFRFc0alZ1VFQzVHREbHhSUVNEbnJ6TkxLeTJFT1ZvTVJlaEx1dUtsbXFoaVdyS204a0JnLTFiTEhPZUhiV1V0WHZFcFNMZkxYcXM3Vl9QUWp6eGkwNDRsSjE0UEIzTHFXMWZoY3NwUWJSNmx4S3luY0ItbGRfNWZzZHJiQ1RqRQ?oc=5",
+      "publishedAt": "2026-09-24T23:15:15.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEhZbzZjRlJfZ2tfRTVNVXB1SFdQTXRrQnhOdDd5a1NFRFc0alZ1VFQzVHREbHhSUVNEbnJ6TkxLeTJFT1ZvTVJlaEx1dUtsbXFoaVdyS204a0JnLTFiTEhPZUhiV1V0WHZFcFNMZkxYcXM3Vl9QUWp6eGkwNDRsSjE0UEIzTHFXMWZoY3NwUWJSNmx4S3luY0ItbGRfNWZzZHJiQ1RqRQ?oc=5\" target=\"_blank\">Gold Hedge Fund’s 235% Return</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "ოქროს ჰეჯ-ფონდის 235%-იანი მოგება",
+      "summaryKa": "ოქროს ჰეჯ-ფონდმა 235%-იანი მოგება მიიღო",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "5c807665e81abc19",
       "title": "TSX Closer: Index Edges Lower as Healthcare, Telecom Weigh; Energy And Technology Rise",
