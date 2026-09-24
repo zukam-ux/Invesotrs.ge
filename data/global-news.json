@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T22:19:53.791Z",
+  "updatedAt": "2026-09-24T00:55:46.910Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -52,7 +52,10 @@
       "titleKa": "Canopy Growth Corporation-ის (CGC) აქციები უფრო მეტად დაეცა, ვიდრე ბროდერი ბაზარი",
       "summaryKa": "Canopy Growth Corporation-ის აქციები ბროდერ ბაზარზე უფრო მეტად დაეცა.",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/heres-why-canopy-growth-corporation-220007304.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nCanopy Growth Corporation-ის (CGC) აქციები 2.34%-ით დაეცა და 0.94 დოლარამდე დაეცა. ეს იყო უფრო მეტი, ვიდრე S&P 500-ის დღევანდელი დანეკლი 0.76%. \n\n## კომპანიის შესახებ\nCanopy Growth Corporation-ის აქციები ბოლო თვეში 9.61%-ით დაეცა, რაც მედიცინის სექტორის 3.03%-იან დანეკლს და S&P 500-ის 1.26%-იან ზრდას აღემატება.\n\n## ფინანსური შედეგები\nინვესტორები ყურადღებას ამახვილებენ Canopy Growth Corporation-ის მომავალ ფინანსურ შედეგებზე. კომპანიის მომავალი EPS-ი იგეგმება -$0.03-ად, რაც 200.00%-იან დაცემას ნიშნავს წინა წლის ანალოგიურ კვარტალთან შედარებით. ამასთან, ბოლო კონსენსუს შეფასება ირწმუნება, რომ შემოსავალი 59.12 მილიონ დოლარამდე გაიზრდება, რაც 22.09%-იან ზრდას წინა წლის ანალოგიურ კვარტალთან შედარებით ნიშნავს.\n\n## დასკვნა\nკომპანიის ფინანსური შედეგები და აქციების ფასის ცვლილება ინვესტორებისთვის მნიშვნელოვან ინფორმაციას წარმოადგენს. ამიტომ, ინვესტორებმა უნდა ყურადღება გაამახვილონ კომპანიის მომავალ ფინანსურ შედეგებზე და აქციების ფასის ცვლილებაზე.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "dc345b0072a6f527",
