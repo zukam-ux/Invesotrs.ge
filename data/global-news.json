@@ -1,8 +1,59 @@
 {
-  "updatedAt": "2026-09-24T00:55:46.910Z",
+  "updatedAt": "2026-09-24T11:50:54.152Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "f80fd5707d14f882",
+      "title": "Bitcoin and ethereum prices today, Thursday, September 24, 2026: Crypto prices lose ground as rate-hike expectations grow",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-24-2026-crypto-prices-lose-ground-as-rate-hike-expectations-grow-114459916.html?.tsrc=rss",
+      "publishedAt": "2026-09-24T11:44:59.000Z",
+      "description": "Bitcoin opened at $84,370.41 on Thursday, September 24, 2026, down 2.1% from Wednesday's open. As of 7:33 a.m. ET this morning, bitcoin fell further to $83,462.29. Ethereum opened at $2,684.09 on Thursday, September 24, 2026, down 2.5% from Wednesday's opening price. The price of ethereum moved down further this morning to $2,646.52 as of 7:33 a.m. ET.",
+      "titleKa": "ბიტკოინისა და ეთერეუმის ფასები 2026 წლის 24 სექტემბერს: კრიპტოვალუტების ფასები ეცემა, საპროცენტო განაკვეთის ზრდის მოლოდინის ფონზე",
+      "summaryKa": "კრიპტოვალუტების ფასები ეცემა, რადგან იზრდება საპროცენტო განაკვეთის ზრდის მოლოდინი.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-24-2026-crypto-prices-lose-ground-as-rate-hike-expectations-grow-114459916.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\n2026 წლის 24 სექტემბერს, ბიტკოინის (BTC-USD) ფასი 84,370.41 ამერიკულ დოლარად იყო, რაც 2.1%-იანი ვარდნაა წინა დღესთან შედარებით. ეთერეუმის (ETH-USD) ფასი 2,684.09 ამერიკულ დოლარად იყო, რაც 2.5%-იანი ვარდნაა წინა დღესთან შედარებით.\n\n## კრიპტოვალუტების ფასები\nკრიპტოვალუტების ფასები ეცემა, რადგან იზრდება საპროცენტო განაკვეთის ზრდის მოლოდინი. ამერიკის ფედერალური სარეზერვო სისტემის (Fed) მიერ საპროცენტო განაკვეთის ზრდის მოლოდინი 75.3%-ია ოქტომბერში და 58.6%-ია დეკემბერში.\n\n## კრიპტოვალუტების ფასების ცვლილება\nბიტკოინის ფასი 2026 წლის 24 სექტემბერს 2.1%-ით შემცირდა წინა დღესთან შედარებით, ხოლო ეთერეუმის ფასი 2.5%-ით შემცირდა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "d71cb626c10bcf94",
+      "title": "With Bond Market Yields at Multi-Decade Highs, ‘This Is Hit the Wall Stuff’",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/48ee167a-43c3-3b1d-ba0f-25b97024a6e7/with-bond-market-yields-at.html?.tsrc=rss",
+      "publishedAt": "2026-09-24T11:40:00.000Z",
+      "description": "The bond market awoke from its early autumn slumber this week amid a maelstrom of headlines tied to growth, inflation, and fiscal concerns that dragged Treasury yields to the highest levels in decades and stoked bets on a series of interest-rate hikes from the Federal Reserve. The broader fixed income slump, which was extending into Thursday’s trading session on Wall Street, was largely powered by the renewed surge in global crude prices. “This is ‘hit the wall stuff’ if we continue anything resembling the current pace,” said John Hardy, Saxo’s global head of macro strategy.",
+      "titleKa": "ობლიგაციების ბაზარზე სარგებელი მრავალწლიან მაქსიმუმს აღწევს",
+      "summaryKa": "ობლიგაციების ბაზარზე სარგებელი მრავალწლიან მაქსიმუმს აღწევს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "069ed68adc1df86c",
+      "title": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Trump-Xi Summit On Tap.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html?.tsrc=rss",
+      "publishedAt": "2026-09-24T11:37:59.000Z",
+      "description": "Dow Jones futures fell early Thursday, along with S&P 500 futures and especially Nasdaq futures. The 30-year Treasury yield hit a fresh long-term high while oil prices rose again. The Trump-Xi summit is on tap.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები ეცემა, რადგან იზრდება ხაზნაში არსებული ობლიგაციების სარგებელი და ნავთობის ფასები",
+      "summaryKa": "Dow Jones-ის მომავალი კონტრაქტები ეცემა, რადგან იზრდება ხაზნაში არსებული ობლიგაციების სარგებელი და ნავთობის ფასები.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "08bd260c679c1f45",
+      "title": "Stocks fall, oil prices rise as global bonds under pressure",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/articles/markets-mixed-chinas-xi-arrives-024403298.html?.tsrc=rss",
+      "publishedAt": "2026-09-24T11:35:32.000Z",
+      "description": "Stock markets mostly fell and oil prices climbed on Thursday as inflation fears, driven by a lack of progress in ending the Middle East war, drove a further sell-off in global bonds.A rebound in oil prices also added to inflation fears.",
+      "titleKa": "აქციების ფასები ეცემა, ნავთობის ფასები კი იზრდება, გლობალური ობლიგაციები წნეხის ქვეშაა",
+      "summaryKa": "აქციების ფასები ეცემა, ნავთობის ფასები კი იზრდება, გლობალური ობლიგაციები წნეხის ქვეშაა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "c807f3c00f3cef40",
       "title": "Oil Extends Advance on Renewed Tensions Between the US and Iran",
