@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-09-24T17:15:19.367Z",
+  "updatedAt": "2026-09-24T20:32:10.445Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "5c807665e81abc19",
+      "title": "TSX Closer: Index Edges Lower as Healthcare, Telecom Weigh; Energy And Technology Rise",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-edges-lower-202653750.html?.tsrc=rss",
+      "publishedAt": "2026-09-24T20:26:53.000Z",
+      "description": "The S&P/TSX Composite Index closed lower on Thursday as weakness in healthcare and telecom shares ou",
+      "titleKa": "კანადის საფონდო ბაზარი დაბალ ინდექსზე დახურა",
+      "summaryKa": "კანადის საფონდო ბაზარის ინდექსი დაეცა, რადგან ჯანმრთელობის და ტელეკომუნიკაციების სექტორები შენელდნენ, ხოლო ენერგეტიკის და ტექნოლოგიების სექტორები გაიზარდნენ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4f109143bdad088c",
+      "title": "US Equity Markets End Mixed Amid Rising Oil Prices, Strong Macroeconomic Data",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-mixed-202607674.html?.tsrc=rss",
+      "publishedAt": "2026-09-24T20:26:07.000Z",
+      "description": "US equity indexes were mixed Thursday amid stronger macroeconomic data, higher oil prices, and risin",
+      "titleKa": "აშშ-ის აქციების ბაზარი შერეული შედეგებით დახურა",
+      "summaryKa": "აშშ-ის აქციების ბაზარი შერეული შედეგებით დახურა, რადგან ნავთობის ფასები გაიზარდა და მაკროეკონომიკური მონაცემები ძლიერი იყო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "07323276a935b9f6",
+      "title": "Stop trying to beat the market: Even the richest Americans can’t do it consistently",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stop-trying-to-beat-the-market-even-the-richest-americans-cant-do-it-consistently-4560e275?mod=mw_rss_topstories",
+      "publishedAt": "2026-09-24T20:20:00.000Z",
+      "description": "The 400 richest Americans would collectively have performed better over the past 12 months had they invested their net worths in an S&P 500 index fund.",
+      "titleKa": "შეწყვიტეთ ბაზრის დამარცხების მცდელობა",
+      "summaryKa": "ევნო ყველაზე მდიდარ ამერიკელებს ვერ შეძლიან ბაზრის დამარცხება სტაბილურად.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "a1c1694f9ab75625",
       "title": "Billionaire Bill Ackman’s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
