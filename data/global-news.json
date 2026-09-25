@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-25T13:50:35.551Z",
+  "updatedAt": "2026-09-25T18:40:07.780Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "aa3bc289f8e34485",
+      "title": "Strategy Proposes Daily Dividends on Its Preferred Stock",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-proposes-daily-dividends-preferred-183153307.html?.tsrc=rss",
+      "publishedAt": "2026-09-25T18:31:53.000Z",
+      "description": "Shareholders will vote October 28 on paying all four U.S. preferreds every calendar day",
+      "titleKa": "სტრატეგია პრეფერენციულ აქციებზე ყოველდღიური დივიდენდების გეგმას წარადგენს",
+      "summaryKa": "კომპანია ყოველდღიურ დივიდენდებს პრეფერენციულ აქციებზე გეგმავს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/strategy-proposes-daily-dividends-preferred-183153307.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nკომპანია Strategy (NASDAQ:MSTR) ყოველდღიურ დივიდენდებს პრეფერენციულ აქციებზე გეგმავს. ეს განსაკუთრებით ეხება მის კომპანიის ოთხ ამერიკულ საფონდო ბაზარზე განთავსებულ პრეფერენციულ აქციებს: STRF, STRC, STRK და STRD.\n\n## დივიდენდების გეგმა\nკომპანია გეგმავს, რომ ყოველი კალენდარული დღე, მათ შორის საახალწლო დღეები და შაბათ-კვირა, იქნება ჩანაწერის თარიღი, ხოლო გადახდა შესრულდება მომდევნო სამუშაო დღეს. წლიური დივიდენდების რაოდენობა არ შეიცვლება, მხოლოდ მათი გადახდის სიხშირი შეიცვლება.\n\n## გავლენა აქციებზე\nSTRC-ის შემთხვევაში, რომელიც $9.3 მილიარდიანი ფლაგმანია 12%-იანი ცვლადი დივიდენდით, ეს ნიშნავს ნახევარწლის გადახდებიდან ყოველდღიურ გადახდებზე გადასვლას. STRF, STRK და STRD აქციები კვარტალური გადახდებიდან ყოველდღიურ გადახდებზე გადავლენ. კომპანია ამტკიცებს, რომ დივიდენდების მიღებისა და გადახდის შორის ინტერვალის შემცირება აქციების ფასების სტაბილიზაციას შეუწყვებს ხელს.\n\n## სააქციონერო ხმის მიცემა\nაქციონერები სპეციალურ შეხვედრაზე 28 ოქტომბერს ხმის მიცემას ჩაატარებენ. თუ ეს გეგმა დამტკიცდება, STRC 1 ნოემბერს შეცვლას განიცდის, ხოლო სხვა სამი აქცია 2027 წლის 1 იანვარს შეცვლას განიცდის.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "008a89ce8fd0c5d8",
       "title": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Micron, Sandisk Rally, But Meta Shares Dip (Live Coverage)",
