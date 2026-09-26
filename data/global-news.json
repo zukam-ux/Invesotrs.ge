@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T00:40:40.409Z",
+  "updatedAt": "2026-09-26T05:33:54.128Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -55,7 +55,10 @@
       "titleKa": "რატომ აიწია Staar Surgical-ის აქცია დღეს",
       "summaryKa": "Staar Surgical-ის აქცია დღეს აიწია.",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/why-staar-surgical-stock-soared-today",
+      "bodyKa": "Staar Surgical-ის აქცია დღეს 7%-ით გაიზარდა, რასაც მოჰყვა კომპანიის განცხადება საკუთარი აქციების ყიდვის პროგრამის შესახებ. კომპანიის საბჭომ 50 მილიონ დოლარამდე აქციების ყიდვა დაავალა. ეს პროგრამა ერთი წლის განმავლობაში გაგრძელდება და კომპანიას აქვს უფლება შეიცვალოს ან შეაჩეროს იგი. ## სააქციო პროგრამა Staar Surgical-ის აქციების ყიდვის პროგრამა კომპანიის საბაზრო კაპიტალიზაციას შეამცირებს და შესაძლოა აქციების ფასს ამაღლებს. ## ფინანსური შედეგები Staar Surgical-ის ფინანსური შედეგები მეორე კვარტალში გაუმჯობესდა, რასაც მოჰყვა შემოსავლის გაზრდა და მოგების მიღება. ## ინვესტორების რეაქცია ინვესტორებმა დადებითად შეაფასეს Staar Surgical-ის აქციების ყიდვის პროგრამა და აქციების ფასი 7%-ით გაიზარდა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "63d1d485b04a9d5e",
