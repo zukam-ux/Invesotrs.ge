@@ -1,8 +1,62 @@
 {
-  "updatedAt": "2026-09-25T21:54:44.420Z",
+  "updatedAt": "2026-09-26T00:40:40.409Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "f3613c9c192e3fe8",
+      "title": "3 Reasons to Avoid ACT and 1 Stock to Buy Instead",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-act-1-001637012.html?.tsrc=rss",
+      "publishedAt": "2026-09-26T00:16:37.000Z",
+      "description": "Enact Holdings has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 17.3% to $47.26 per share while the index has gained 16.9%.",
+      "titleKa": "3 მიზეზი, რის გამოც ACT-ს არ უნდა შეიძინოთ და 1 აქცია, რომელიც მის ნაცვლად შეიძინება",
+      "summaryKa": "აქციების შესახებ საუბარი მიმდინარეობს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-act-1-001637012.html?.tsrc=rss",
+      "bodyKa": "აქციების შესახებ საუბარი მიმდინარეობს. ბევრი ინვესტორი ენაქტ ჰოლდინგზის (Enact Holdings) აქციების შეძენაზე ფიქრობს, რადგან ისინი ბოლო ექვს თვეში 17.3%-ით გაიზარდა და ახლა 47.26 დოლარს ღირს. თუმცა, ჩვენ არ გამოვხატავთ დიდ ნდობას ამ კომპანიის მიმართ. ## რა არის მიზეზი ჩვენი ნდობის ნაკლებობისა. ენაქტ ჰოლდინგზის ნეთო პრემიები ბოლო ხუთ წელიწადში თითქმის არ შეცვლილა, რაც ნაკლებია ვიდრე საზოგადოებრივი საფონდო ბაზრის საშუალო მაჩვენებელი. ## შემოსავლის პროგნოზი. უოლ სტრიტის ანალიტიკოსები ვარაუდობენ, რომ ენაქტ ჰოლდინგზის შემოსავალი მომავალ 12 თვეში შენელდება, რაც 2.7%-იან ყოველწლიურ ზრდასთან შედარებით ნაკლებია. ## სხვა შესაძლო ინვესტიციები. ჩვენ ვფიქრობთ, რომ სხვა აქციები შეიძლება უკეთესი ინვესტიცია იყოს ვიდრე ენაქტ ჰოლდინგზი.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "9be438677066dd77",
+      "title": "QuinStreet's 2026 Outlook: AI-Driven Marketing Platform Sees Strong Revenue Growth",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/quinstreets-2026-outlook-ai-driven-marketing-platform-sees-strong-revenue-growth",
+      "publishedAt": "2026-09-25T23:49:41.000Z",
+      "description": "Key PointsQuinStreet is scaling rapidly through acquisitions and AI-driven performance marketing optimization.",
+      "titleKa": "QuinStreet-ის 2026 წლის პერსპექტივა: AI-ზე დაფუძნებული მარკეტინგის პლატფორმა ძლიერ შემოსავლის ზრდას ხედავს",
+      "summaryKa": "QuinStreet-ის 2026 წლის პერსპექტივა ძლიერ შემოსავლის ზრდას იწინასწარმეტყველებს.",
+      "category": "ტექნოლოგიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4b80cce876d8c8f6",
+      "title": "Stocks making big moves this week: TD SYNNEX, Talos Energy, The Toro Company, Dropbox, and Xponential Fitness",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUNkcHdJWGRrckNZalQ5U2xwMjY1eWhmMi1RaEFkZGNMTkRaQkZfYUZCN2pheDNxdE02R3NFb2diUU9ibUYxVkVfbTJGME04b3VVTTEwd2VIYzNXSFd4RFI5OHZhdlJPS05LWi0zYk96WEU0MUdPQldfMjdld3FGYkNLX2VNaExCZkFlYVlPcmNycndmei04Xw?oc=5",
+      "publishedAt": "2026-09-25T23:44:37.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUNkcHdJWGRrckNZalQ5U2xwMjY1eWhmMi1RaEFkZGNMTkRaQkZfYUZCN2pheDNxdE02R3NFb2diUU9ibUYxVkVfbTJGME04b3VVTTEwd2VIYzNXSFd4RFI5OHZhdlJPS05LWi0zYk96WEU0MUdPQldfMjdld3FGYkNLX2VNaExCZkFlYVlPcmNycndmei04Xw?oc=5\" target=\"_blank\">Stocks making big moves this week: TD SYNNEX, Talos Energy, The Toro Company, Dropbox, and Xponential Fitness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "აქციები, რომლებიც ამ კვირას დიდ ცვლილებებს განიცდიან: TD SYNNEX, Talos Energy, The Toro Company, Dropbox და Xponential Fitness",
+      "summaryKa": "აქციები დიდ ცვლილებებს განიცდიან ამ კვირას.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-234437472.html",
+      "bodyKa": "## შესავალი\nამ კვირას საფონდო ბაზარზე რამდენიმე აქცია მნიშვნელოვან ცვლილებებს განიცდის. ეს აქციები განსხვავებულ სექტორებში მოღვაწეობენ და მათი ფინანსური შედეგები და ბაზარზე გავლენა სხვადასხვა ფაქტორებზე არის დამოკიდებული.\n\n## აქციების ცვლილებები\nTD SYNNEX (NYSE:SNX) აქციები 8.9%-ით დაეცა თავისი Q3 CY2026 ფინანსური შედეგების გამოქვეყნების შემდეგ. Talos Energy (NYSE:TALO) აქციები 3%-ით გაიზარდა ნავთობის ფასების ზრდასა და ახალი დირექტორის დანიშვნის შედეგად.\n\n## სხვა აქციები\nThe Toro Company (NYSE:TTC) აქციები 1.8%-ით გაიზარდა Oppenheimer-ის მხრიდან კომპანიაზე საუკეთესო შეფასების მინიჭების შემდეგ. Dropbox (NASDAQ:DBX) აქციები 4.5%-ით დაეცა Citi-ის მხრიდან შეფასების დაწევის გამო. Xponential Fitness (NYSE:XPOF) აქციები 5.5%-ით გაიზარდა კომპანიის Club Pilates-ის ბრენდის მიერ 1,500 სტუდიის გახსნის შემდეგ.\n\n## დასკვნა\nაქციების ფასები სხვადასხვა ფაქტორებზეა დამოკიდებული, მათ შორის ფინანსური შედეგები, ბაზარზე გავლენა და სექტორული ტენდენციები.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "efb5d911cd520e7d",
+      "title": "Why Staar Surgical Stock Soared Today",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/why-staar-surgical-stock-soared-today",
+      "publishedAt": "2026-09-25T23:41:09.000Z",
+      "description": "Key PointsIt anticipates this will run for one year.",
+      "titleKa": "რატომ აიწია Staar Surgical-ის აქცია დღეს",
+      "summaryKa": "Staar Surgical-ის აქცია დღეს აიწია.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "63d1d485b04a9d5e",
       "title": "Bill Gates Calls For Federal Regulation Of Artificial Intelligence Development",
