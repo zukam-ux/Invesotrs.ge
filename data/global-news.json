@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-26T05:33:54.128Z",
+  "updatedAt": "2026-09-26T10:19:38.758Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "b6b5f62728d323e3",
+      "title": "2 Semiconductor Stocks That Could Help Set You Up for Life",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOTV0T0FBQnc3S1JTS3JqNGY1ajhvVFVYZW1CYkM2S3k5NndzVm1fb2pudHJaZzRSWXdXMWEzMXJmLXQyNl9MdE5PYzZFU0cwVnZVNlJPY2ZQM05JcjNuekFNbF9neVFybjNKNW9Nc3FrcWVpWVM0MUp3NEtlQVpaZE00VTZSZU92cHlhV19HcGZyeTRaWmc2YXdyZDR2Rzg?oc=5",
+      "publishedAt": "2026-09-26T10:10:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOOTV0T0FBQnc3S1JTS3JqNGY1ajhvVFVYZW1CYkM2S3k5NndzVm1fb2pudHJaZzRSWXdXMWEzMXJmLXQyNl9MdE5PYzZFU0cwVnZVNlJPY2ZQM05JcjNuekFNbF9neVFybjNKNW9Nc3FrcWVpWVM0MUp3NEtlQVpaZE00VTZSZU92cHlhV19HcGZyeTRaWmc2YXdyZDR2Rzg?oc=5\" target=\"_blank\">2 Semiconductor Stocks That Could Help Set You Up for Life</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "2 ნახევარგამტარი აქციები, რომლებიც შეიძლება თქვენს ცხოვრებაში დიდ წარმატებას მოგეტანონ",
+      "summaryKa": "ნახევარგამტარი აქციები შეიძლება ინვესტორებისთვის დიდ შემოსავალს მოგეტანონ",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/2-semiconductor-stocks-could-help-101000936.html",
+      "bodyKa": "## შესავალი\nნახევარგამტარი აქციები შეიძლება ინვესტორებისთვის დიდ შემოსავალს მოგეტანონ. მსოფლიო ნახევარგამტარი ვაჭრობის სტატისტიკის ორგანიზაციის 2026 წლის გაზაფხულის პროგნოზის მიხედვით, გლობალური ჩიპების ბაზარი 2026 წელს 90%-ით გაიზრდება 1,5 ტრილიონ დოლარამდე, ხოლო 2027 წელს კიდევ 27%-ით გაიზრდება 1,9 ტრილიონ დოლარამდე.\n\n## ნახევარგამტარი აქციები\nორი დაუსადეგებელი ნახევარგამტარი აქცია, რომლებიც შეიძლება ინვესტორებისთვის დიდ შემოსავალს მოგეტანონ, არიან Marvell Technology (NASDAQ: MRVL) და ASML (NASDAQ: ASML). Marvell Technology არის გასაღები ელემენტი ხელოვნური ინტელექტის (AI) ინფრასტრუქტურის მიწოდების ჯაჭვში. ის ყიდის კავშირებს და სილიციუმს, რომლებიც ეხმარებიან მონაცემთა ცენტრებს მონაცემების სწრაფ გადაცემაში, რაც ჩიპებს საშუალებას აძლევს სრულ სიჩქარეზე იმუშაოს.\n\n## ფინანსური შედეგები\nMarvell Technology-ის შემოსავალი გაიზარდა 22%-ით წელიწადში ბოლო 5 წლის განმავლობაში. 2026 წლის მეორე კვარტალში შემოსავალი 37%-ით გაიზარდა წინა წელთან შედარებით, კონექტივიტეტის პროდუქტების მაღალი მოთხოვნის გამო. ASML-ის შემოსავალი 30%-ით გაიზარდა 2023 წელს.\n\n## ინვესტიციის პერსპექტივები\nMarvell Technology-ის კონექტივიტეტის ბიზნესი 2026 წელს 70%-ით გაიზრდება. კომპანიის აღჭურვილობას იყენებენ ცენტრალური პროცესორების, გრაფიკული პროცესორების და მეხსიერების ჩიპების წარმოებისთვის. ASML-ის აღჭურვილობას იყენებენ ჩიპების წარმოებისთვის.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "f3613c9c192e3fe8",
       "title": "3 Reasons to Avoid ACT and 1 Stock to Buy Instead",
@@ -5054,18 +5069,6 @@
       "summaryKa": "სპეცის სტოკი 30% დაქვეითებულია მის პოსტ-იპო მაქსიმუმის მიუხედავად.",
       "category": "ტექნოლოგიები",
       "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "1c6d9c40ba02896e",
-      "title": "ლონდონის ბირჟაზე აქციის შეძენა უკვე ელემენტარულია – თიბისის ახალი ვიდეორგოლი",
-      "source": "Marketer.ge",
-      "url": "https://www.marketer.ge/tbc-londonis-birjaze-aktsiebi/",
-      "publishedAt": "2026-08-27T07:52:41.000Z",
-      "description": "თიბისიში სიახლეა, რომლის გაცნობაც ძალიან მარტივადაც შეიძლებოდა – სტანდარტული […] The post ლონდონის ბირჟაზე აქციის შეძენა უკვე ელემენტარულია – თიბისის ახალი ვიდეორგოლი first appeared on Marketer .",
-      "titleKa": "ლონდონის ბირჟაზე აქციის შეძენა უკვე ელემენტარულია – თიბისის ახალი ვიდეორგოლი",
-      "summaryKa": "თიბისიში სიახლეა, რომლის გაცნობაც ძალიან მარტივადაც შეიძლებოდა – სტანდარტული […]",
-      "category": "საქართველო",
-      "translationNotice": ""
     },
     {
       "id": "410ae7f7e43c4dec",
