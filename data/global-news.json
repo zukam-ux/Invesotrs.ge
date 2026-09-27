@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T18:27:28.058Z",
+  "updatedAt": "2026-09-27T21:39:41.101Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -52,7 +52,10 @@
       "titleKa": "Medtronic-ის მაღალი დივიდენდის სარგებელი მცირე ყურადღებას იქცევს უოლ სტრიტზე - მისი აქციების ყიდვა სჯობს თუ არა?",
       "summaryKa": "Medtronic-ის დივიდენდის სარგებელი უოლ სტრიტზე მცირე ყურადღებას იქცევს.",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/medtronics-high-dividend-yield-gets-little-attention-wall-street-should-you-buy-stock",
+      "bodyKa": "## შესავალი\nMedtronic-ის აქციები უოლ სტრიტზე მცირე ყურადღებას იქცევს, მიუხედავად იმისა, რომ კომპანიის დივიდენდის სარგებელი 3.2%-ია, რაც სამჯერ აღემატება S&P 500-ის საშუალო დივიდენდის სარგებელს.\n\n## ფინანსური შედეგები\nMedtronic-მა გამოაქვეყნა თავისი ფისკალური 2027 წლის პირველი კვარტალის ანგარიშგება, რომელშიც შემოსავალი 9.8 მილიარდ დოლარს შეადგინა, რაც 13.7%-ით მეტია წინა წლის შესაბამის პერიოდთან შედარებით. კომპანიის ერთი აქციის მოგება 40.7%-ით გაიზარდა და 1.14 დოლარს შეადგინა.\n\n## ინვესტიცია და პერსპექტივა\nMedtronic-ის აქციები 7%-ით დაეცა 2026 წელს და 32%-ით დაეცა ბოლო 5 წლის განმავლობაში. კომპანიის დივიდენდის სარგებელი 3.2%-ია, ხელფასის შეფარდება 59%-ია და 49 წლის განმავლობაში დივიდენდი 1.4%-ით გაიზარდა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "f233758df0c707e4",
