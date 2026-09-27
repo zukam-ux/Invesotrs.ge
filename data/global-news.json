@@ -1,8 +1,62 @@
 {
-  "updatedAt": "2026-09-26T23:42:03.699Z",
+  "updatedAt": "2026-09-27T01:53:13.446Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "f233758df0c707e4",
+      "title": "History Says Alphabet Stock's 15% Pullbacks Have Usually Paid Off Within a Year",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/history-says-alphabet-stocks-15-pullbacks-have-usually-paid-within-year",
+      "publishedAt": "2026-09-27T01:07:01.000Z",
+      "description": "Key PointsAlphabet stock is around 15% under the record close it hit in May.",
+      "titleKa": "Alphabet-ის აქციების 15%-იანი დაცემა ჩვეულებრივ 1 წელიწადში ანაზღაურდება",
+      "summaryKa": "Alphabet-ის აქციები 1 წელიწადში ამოივსება, როდესაც 15%-იანი დაცემაა",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/history-says-alphabet-stocks-15-pullbacks-have-usually-paid-within-year",
+      "bodyKa": "## შესავალი\nAlphabet-ის აქციები 15%-ით დაეცა მას შემდეგ, რაც მაისში რეკორდულ მაქსიმუმს მიაღწია. ამასთან, 2012 წლიდან 2025 წლამდე 10 შემთხვევაში, როდესაც Alphabet-ის აქციები 15%-ით დაეცა, 9 შემთხვევაში 1 წელიწადში აქციების ფასი ამოვსებულა. ერთადერთი გამონაკლისი 2022 წელი იყო, როდესაც კომპანიის მოგება 19%-ით შემცირდა.\n\n## ისტორიული ტენდენციები\n2012 წლიდან 2025 წლამდე 10 შემთხვევაში, როდესაც Alphabet-ის აქციები 15%-ით დაეცა, 9 შემთხვევაში 1 წელიწადში აქციების ფასი ამოვსებულა. ამ 9 შემთხვევაში, აქციების ფასი 12 თვეში საშუალოდ 39%-ით გაიზარდა.\n\n## ფინანსური შედეგები\nAlphabet-ის ფინანსური შედეგები ბოლო წლებში სტაბილურია. 2025 წლის მეოთხე კვარტალში კომპანიის შემოსავალი 18%-ით გაიზარდა, 2026 წლის პირველ კვარტალში - 22%-ით, ხოლო 2026 წლის მეორე კვარტალში - 24%-ით. ამასთან, კომპანიის ხარჯები იზრდება, რაც შესაძლოა მოგებაზე უარყოფითად იმოქმედოს.\n\n## დასკვნა\nAlphabet-ის აქციების 15%-იანი დაცემა ჩვეულებრივ 1 წელიწადში ამოივსება. თუმცა, კომპანიის ხარჯების ზრდა და შესაძლო მოგების შემცირება ინვესტორებს უნდა შეაფასონ რისკები და შესაძლებლობები.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "375b692acef34388",
+      "title": "This 17% Yield Nasdaq Covered Call ETF Is Somehow Outperforming QQQ",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdElJUTNSYm9ZZi0xcUZpbGFoTGp3blcyeGM3UFZSTTN2QmJjWTFvRnU3bElCazY0NDh1UmxkXzZDVU1oc2lkcmtKV0tNa2dTX282SHVyeW9hdkczR2NLejdmSXRadTd3d09Oa0pHYjE5SDZySS00eXJ4dkZQamdfWFU5QmU4OEpyVTZ4amE5bzlpS0cwVmJzR3RR?oc=5",
+      "publishedAt": "2026-09-27T01:02:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdElJUTNSYm9ZZi0xcUZpbGFoTGp3blcyeGM3UFZSTTN2QmJjWTFvRnU3bElCazY0NDh1UmxkXzZDVU1oc2lkcmtKV0tNa2dTX282SHVyeW9hdkczR2NLejdmSXRadTd3d09Oa0pHYjE5SDZySS00eXJ4dkZQamdfWFU5QmU4OEpyVTZ4amE5bzlpS0cwVmJzR3RR?oc=5\" target=\"_blank\">This 17% Yield Nasdaq Covered Call ETF Is Somehow Outperforming QQQ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Nasdaq-ის 17%-იანი დივიდენდის სარგებელის ETF ჩამორჩევას ადგილი არ აქვს QQQ-ს",
+      "summaryKa": "Nasdaq-ის 17%-იანი დივიდენდის სარგებელის ETF QQQ-ზე მაღლაა",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/options/articles/17-yield-nasdaq-covered-call-010210513.html",
+      "bodyKa": "## შესავალი\nNasdaq-ის 17.55%-იანი დისტრიბუციის მქონე ETF, TDAQ, გამოირჩევა თავისი უნიკალური სტრატეგიით, რომელიც მიზნად ისახავს ინვესტორებს შემოსავალი მოაგებინოს. ეს ETF ყიდის და განახლებს ნასდაქ-100 ინდექსის აქციებს 0 დღიანი ვადით, რაც საშუალებას აძლევს მას განახლდეს ყოველდღე და მიიღოს დამატებითი პრემია.\n\n## ფინანსური შედეგები\nTDAQ-ის ფინანსური შედეგები შთამბეჭდავია. ბოლო ერთი წლის განმავლობაში, მან 30.57%-იანი კუმულატიური მოგება მოიპოვა, რაც მაღალია ვიდრე Invesco QQQ ETF-ის 29.65%-იანი მოგება. ეს შედეგი განსაკუთრებით საინტერესოა, რადგან TDAQ-ს აქვს 0.83%-იანი ექსპლუატაციის განაკვეთი და 17.55%-იანი დისტრიბუციის მაჩვენებელი.\n\n## საინვესტიციო სტრატეგია\nTDAQ-ის საინვესტიციო სტრატეგია გამოირჩევა იმით, რომ ის ყიდის და განახლებს ნასდაქ-100 ინდექსის აქციებს 0 დღიანი ვადით. ეს მას საშუალებას აძლევს განახლდეს ყოველდღე და მიიღოს დამატებითი პრემია.\n\n## დასკვნა\nTDAQ-ის შედეგები შთამბეჭდავია, მაგრამ ინვესტორებმა უნდა იზრუნონ იმის შესახებ, რომ ეს ETF შესაძლოა არ იყოს საუკეთესო არჩევანი ყველა ინვესტორისთვის. ინვესტორებმა უნდა გაითვალისწინონ თავიანთი საკუთარი ფინანსური მიზნები და რისკის ტოლერანტობა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "d9511a818b7fc3bc",
+      "title": "Sprinklr CEO Sells 145,865 Shares for $810,000 Amid a 35% One-Year Stock Price Decline",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/sprinklr-ceo-sells-145865-shares-810000-amid-35-one-year-stock-price-decline",
+      "publishedAt": "2026-09-27T00:50:59.000Z",
+      "description": "Key PointsThe transaction involved ~146,000 shares with an estimated value of ~$810,000 based on a weighted average execution price of $5.55 per share.",
+      "titleKa": "Sprinklr-ის გენერალური დირექტორი 145,865 აქცია 810,000 დოლარად მიჰყიდა",
+      "summaryKa": "Sprinklr-ის გენერალურმა დირექტორმა 145,865 აქცია 810,000 დოლარად მიჰყიდა",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "12a1d749f7472ff7",
+      "title": "Will Netflix Stock Trade for $135 or $70 by September 2027? Here's the Most Likely Scenario.",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/will-netflix-stock-trade-135-or-70-september-2027-heres-most-likely-scenario",
+      "publishedAt": "2026-09-27T00:35:00.000Z",
+      "description": "Key PointsShares of Netflix are down 24% so far in 2026.",
+      "titleKa": "Netflix-ის აქციები 2027 წლის სექტემბერში 135 ან 70 დოლარად გაიყიდება",
+      "summaryKa": "Netflix-ის აქციები 2027 წლის სექტემბერში 135 ან 70 დოლარად გაიყიდება",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "5749dcf883ab4801",
       "title": "3 Financial Stocks Retail Investors Are Watching As Bond Yields Hit 5%",
