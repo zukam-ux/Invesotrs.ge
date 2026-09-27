@@ -1,8 +1,47 @@
 {
-  "updatedAt": "2026-09-27T14:04:17.037Z",
+  "updatedAt": "2026-09-27T18:27:28.058Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "bb07029e21e77f10",
+      "title": "Jobs, Inflation, Nike, Carmax, Micron, and More to Watch This Week",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/5f04d6c3-8b3a-31fb-9262-8e0a253d6492/jobs%2C-inflation%2C-nike%2C.html?.tsrc=rss",
+      "publishedAt": "2026-09-27T18:00:00.000Z",
+      "description": "This week will bring the September jobs report and data on personal consumption, manufacturing, and home prices. Carnival, Conagra, and Jefferies report earnings.",
+      "titleKa": "შემდეგ კვირას ყურადღების ცენტრში იქნება სამუშაო ადგილები, ინფლაცია, Nike, Carmax, Micron და სხვა",
+      "summaryKa": "შემდეგ კვირას საფინანსო ბაზრებზე გავლენას იქონიებს სამუშაო ადგილების, ინფლაციის, Nike-ის, Carmax-ის, Micron-ის შესახებ ინფორმაცია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "66e8b6147c284c28",
+      "title": "Dow Jones Futures Due Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/473106f6-6763-38d5-b898-3f7ff08d4b61/dow-jones-futures-due-amid.html?.tsrc=rss",
+      "publishedAt": "2026-09-27T17:43:57.000Z",
+      "description": "Futures loom with President Trump making hawkish and dovish Iran comments. Micron, SpaceX and Tesla are near buy points with news due.",
+      "titleKa": "ტრამპის ირანთან დაკავშირებული კომენტარების ფონზე Dow Jones-ის მომავალი ფიუჩერსები; Micron, SpaceX, Tesla-ს ყიდვის პუნქტები",
+      "summaryKa": "ტრამპის ირანთან დაკავშირებული კომენტარების ფონზე ფინანსურ ბაზრებზე გავლენა იქონია და Micron, SpaceX, Tesla-ს აქციები ყიდვის პუნქტებს ახლოვდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1dacb4c08d6c428d",
+      "title": "Is VOO Near an All-Time High a Better Buy Than Lululemon Stock Trading Under $105 Per Share?",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/09/27/is-voo-near-an-all-time-high-a-better-buy-than-lul/?.tsrc=rss",
+      "publishedAt": "2026-09-27T17:38:00.000Z",
+      "description": "Value investors might lean toward the apparel stock, but that's a risky proposition.",
+      "titleKa": "VOO-ს აქციები ყველა დროის მაქსიმუმთან ახლოს ლულულემონის 105 დოლარზე ნაკლები აქციების ყიდვაზე უკეთესი ინვესტიცია თუ არა",
+      "summaryKa": "საინვესტიციო გადაწყვეტილების მიზნით VOO-ს აქციები ლულულემონის 105 დოლარზე ნაკლებ აქციებთან შედარების საგანია.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.fool.com/investing/2026/09/27/is-voo-near-an-all-time-high-a-better-buy-than-lul/?.tsrc=rss",
+      "bodyKa": "## შესავალი\nVOO-ს აქციები ყველა დროის მაქსიმუმთან ახლოს მდებარეობს, რაც ინვესტორებს აფიქრებინებს, არის თუ არა ის ლულულემონის 105 დოლარზე ნაკლებ აქციებთან შედარებით უკეთესი ინვესტიცია. ვანგუარდ S&P 500 ETF (VOO) არის ერთ-ერთი საუკეთესო ინვესტიცია იმ ინვესტორებისთვის, ვინც სურს ამერიკის საფონდო ბაზრის ფართო ექსპოზიცია. VOO-ს აქვს 0.03%-იანი ხარჯების კოეფიციენტი და 1.8 ტრილიონ დოლარის აქტივები.\n\n## ლულულემონის ფინანსური შედეგები\nლულულემონმა 2026 წლის მეორე კვარტალში 4% შემოსავლის კლება და 11% მოგების კლება გამოაქვეყნა.\n\n## ინვესტიციის შედარება\nVOO-ს აქციები ლულულემონის აქციებთან შედარებით უკეთეს ინვესტიციად ითვლება, რადგან VOO-ს აქვს დაბალი ხარხები და დიდი აქტივები.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "eda0b39e14bf6e69",
       "title": "Medtronic's High Dividend Yield Gets Little Attention on Wall Street -- Should You Buy the Stock Anyway?",
