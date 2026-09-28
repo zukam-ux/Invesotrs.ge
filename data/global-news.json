@@ -1,8 +1,62 @@
 {
-  "updatedAt": "2026-09-28T00:03:01.272Z",
+  "updatedAt": "2026-09-28T05:29:42.681Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "bec127f52dd831f9",
+      "title": "Asia stocks slip as oil, yields rise; chipmakers hit by OpenAI pause",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-slip-oil-yields-051329778.html?.tsrc=rss",
+      "publishedAt": "2026-09-28T05:13:29.000Z",
+      "description": "Investing.com-- Most Asian shares traded lower on Monday as renewed uncertainty over a possible U.S.-Iran truce pushed oil prices higher and rising global bond yields weighed on risk appetite, while chipmakers came under pressure after OpenAI paused training of some advanced artificial intelligence models.",
+      "titleKa": "აზიის აქციები ეცემა, რადგან ნავთობის ფასი და სარგებელი იზრდება",
+      "summaryKa": "აზიის საფონდო ბაზარზე აქციების ფასები ეცემა, ამასთან ნავთობის ფასი და სარგებელი იზრდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-slip-oil-yields-051329778.html?.tsrc=rss",
+      "bodyKa": "## აზიის საფონდო ბაზარი\nაზიის საფონდო ბაზარზე აქციების ფასები ეცემა, ამასთან ნავთობის ფასი და სარგებელი იზრდება. ეს გამოწვეულია აშშ-ირანის შეთანხმების შესახებ უთანხმოებით, რამაც ნავთობის ფასი გაზარდა და საერთაშორისო ბონდების სარგებელი ამაღლდა.\n\n## ნავთობის ფასი და სარგებელი\nნავთობის ფასი 2%-ზე მეტით გაიზარდა და 106 დოლარს გადააჭარბა ბარელზე. აშშ-ის 30-წლიანი სახელმწიფო ბონდების სარგებელი 5.5185%-მდე გაიზარდა, ხოლო 10-წლიანი ბონდების სარგებელი 5%-ზე მაღლა დარჩა.\n\n## აქციების ფასები\nსამხრეთ კორეის KOSPI ინდექსი 2%-ით დაეცა, ხოლო ჩინეთის CSI 300 ინდექსი 2.3%-ით დაეცა. იაპონიის Nikkei 225 ინდექსი თითქმის უცვლად დარჩა, ხოლო უფრო ფართო TOPIX ინდექსი 0.1%-ით დაეცა. ჰონგ-კონგის Hang Seng ინდექსი 0.6%-ით გაიზარდა.\n\n## ინვესტორების მოლოდინი\nინვესტორები მოლოდინში არიან ავსტრალიის რეზერვის ბანკის პოლიტიკის გადაწყვეტილებას. ამასთან, ინვესტორები მოლოდინში არიან აშშ-ის ინფლაციის, მრეწველობის და შრომის ბაზრის შესახებ ანგარიშებს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "484537e27a092300",
+      "title": "Aktsiaselts Infortar own share acquisition transactions",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000677.html?.tsrc=rss",
+      "publishedAt": "2026-09-28T05:00:00.000Z",
+      "description": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 21 September – 25 September 2026 as follows: DateAggregated volume (pcs)Weighted average price per day (EUR)21.09.202622759,743622.09.202622259,843223.09.202622159,924024.09.202622559,903125.09.202622460,9429 Aktsiaselts Infortar is acquiring its own shares based on the stock exchange announcement published on 20 April 2026. The share buyback programme is managed by SEB Pank AS, which will buy",
+      "titleKa": "Aktsiaselts Infortar-ის საკუთარი აქციების შენაძენი ტრანზაქციები",
+      "summaryKa": "Aktsiaselts Infortar-ი საკუთარი აქციების შენაძენ ტრანზაქციებს ახორციელებს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000677.html?.tsrc=rss",
+      "bodyKa": "## აქციების შენაძენი\nAktsiaselts Infortar-მა საკუთარი აქციების შენაძენი ტრანზაქციები განახორციელა 2026 წლის 21-25 სექტემბერს Nasdaq Tallinn-ის საფონდო ბაზარზე.\n\n## შესაძენი პროგრამა\nშესაძენი პროგრამა დაიწყო 2026 წლის 20 აპრილს გამოქვეყნებული საფონდო ბაზრის განცხადების საფუძველზე. შესაძენი პროგრამას მართავს SEB Pank AS, რომელიც Aktsiaselts Infortar-ის სახელით აქციებს შეიძენს.\n\n## კომპანიის საქმიანობა\nAktsiaselts Infortar საქმიანობას ეწევა 7 ქვეყანაში. კომპანიის მთავარი საქმიანობის სფეროებია საზღვაო ტრანსპორტი, ენერგეტიკა და უძრავი ქონება. Aktsiaselts Infortar-ს ეკუთვნის 68.83%-იანი წილი Tallink Grupp-ში, 100%-იანი წილი Elenger Grupp-ში და 141 000 მ²-ზე მეტი უძრავი ქონება. გარდა ამისა, Aktsiaselts Infortar საქმიანობას ეწევა მშენებლობაში, სამთო მრეწველობაში, სოფლის მეურნეობაში და სხვა სფეროებში. Aktsiaselts Infortar-ის ჯგუფში 107 კომპანიაა, მათ შორის 3 ასოცირებული კომპანია და 2 ასოცირებული კომპანიის ფილიალი. Aktsiaselts Infortar-ში 6890 ადამიანი მუშაობს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "5967ee42f9217fde",
+      "title": "Oil Rises as Iran Says It Won’t Soften Strait of Hormuz Demands",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcElYRUlDZHRpYWNJcDFodXAtUVJfNTJmbDJId3RYLVY3Y2VyWEVHNUdTTVo2djMwajhURi11S2N2M3FFVjBNX1dEVFd1Z3dqc2taTlVrZWN5OW54MzdHQW9GZ1lucTBmMGczOGJuREFDY2JxdDlQUDZDaFkxZU9SNVFlVU9IUko2d0QwQzdQbWUydm9QYUl1LWJUeVIwODQ?oc=5",
+      "publishedAt": "2026-09-28T04:55:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOcElYRUlDZHRpYWNJcDFodXAtUVJfNTJmbDJId3RYLVY3Y2VyWEVHNUdTTVo2djMwajhURi11S2N2M3FFVjBNX1dEVFd1Z3dqc2taTlVrZWN5OW54MzdHQW9GZ1lucTBmMGczOGJuREFDY2JxdDlQUDZDaFkxZU9SNVFlVU9IUko2d0QwQzdQbWUydm9QYUl1LWJUeVIwODQ?oc=5\" target=\"_blank\">Oil Rises as Iran Says It Won’t Soften Strait of Hormuz Demands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "titleKa": "ნავთობის ფასი ირანის განცხადების შემდეგ იზრდება",
+      "summaryKa": "ირანის განცხადების შემდეგ, რომ ის ჰორმუზის სრუტის საკითხზე პოზიციას არ შეცვლის, ნავთობის ფასი იზრდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7ab90628ba78f5d0",
+      "title": "Indian Shares Deep In Red As Financials Drag",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/indian-shares-deep-red-financials-drag",
+      "publishedAt": "2026-09-28T04:31:34.000Z",
+      "description": "(RTTNews) - Indian shares were deep in the red on Monday after U.S. President Donald Trump rejected Iran's latest proposal to reopen the Strait of Hormuz and other demands.",
+      "titleKa": "ინდური აქციები ფინანსური სექტორის გამო ეცემა",
+      "summaryKa": "ინდური აქციები ფინანსური სექტორის შედეგების გამო ეცემა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "37b497ca83175f7c",
       "title": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
