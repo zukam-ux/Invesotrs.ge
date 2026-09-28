@@ -1,8 +1,62 @@
 {
-  "updatedAt": "2026-09-27T21:39:41.101Z",
+  "updatedAt": "2026-09-28T00:03:01.272Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "37b497ca83175f7c",
+      "title": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/473106f6-6763-38d5-b898-3f7ff08d4b61/dow-jones-futures-fall%2C-oil.html?.tsrc=rss",
+      "publishedAt": "2026-09-27T23:52:46.000Z",
+      "description": "Futures fell and oil prices rose with President Trump making hawkish and dovish Iran comments. Micron, SpaceX and Tesla are near buy points with news due.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები ეცემა, ნავთობის ფასები ირანთან დაკავშირებულ ტრამპის კომენტარების ფონზე იზრდება",
+      "summaryKa": "ტრამპის ირანთან დაკავშირებული კომენტარების ფონზე Dow Jones-ის მომავალი კონტრაქტები ეცემა, ხოლო ნავთობის ფასები იზრდება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a3e59ebb6ad0f6a3",
+      "title": "Top 3 Australian Dividend Stocks With Yield Over 3%",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORlhaSEJ6Y3I0SG1iQkR1MVE5Sk5aY3VFMWNLbXR0R2RyNnd6LVAyeGxCMXVXeHF4QTNjUDJmTVZYZzZ1TVFBN0hWNUxvbTFDaDA3cVJQYUVxQjJBRE9waUEzYWxidkNKMXJvNkRrNFZtUHc2Smd6al9DVG5kelhOVU9acHFjWUYzbmo5bzQxYmFnb0U4MnVkTzFsZ0VVZw?oc=5",
+      "publishedAt": "2026-09-27T23:11:50.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxORlhaSEJ6Y3I0SG1iQkR1MVE5Sk5aY3VFMWNLbXR0R2RyNnd6LVAyeGxCMXVXeHF4QTNjUDJmTVZYZzZ1TVFBN0hWNUxvbTFDaDA3cVJQYUVxQjJBRE9waUEzYWxidkNKMXJvNkRrNFZtUHc2Smd6al9DVG5kelhOVU9acHFjWUYzbmo5bzQxYmFnb0U4MnVkTzFsZ0VVZw?oc=5\" target=\"_blank\">Top 3 Australian Dividend Stocks With Yield Over 3%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ტოპ 3 ავსტრალიური დივიდენდის აქციები 3%-ზე მეტი სარგებლით",
+      "summaryKa": "ავსტრალიაში სამი საუკეთესო დივიდენდის აქცია 3%-ზე მეტი სარგებლით გამოირჩევა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/top-3-australian-dividend-stocks-231150816.html",
+      "bodyKa": "ავსტრალიაში სამი საუკეთესო დივიდენდის აქცია 3%-ზე მეტი სარგებლით გამოირჩევა. ეს აქციები ინვესტორებისთვის საინტერესოა, რადგან ისინი სტაბილურ შემოსავალს სთავაზობენ. ამ სტატიაში განხილულია BHP Group, Fortescue და Evolution Mining, რომლებიც ავსტრალიის საფონდო ბაზარზე მოქმედებენ. ## აქციების შერჩევა BHP Group არის რესურსების გიგანტი, რომელიც რკინის მადნისა და ნახშირის საწარმოო საქმიანობით დიდი შემოსავალი აქვს. კომპანიის ბაზარი ღირებულება 308.6 მილიარდ ავსტრალიურ დოლარს შეადგენს. ## დივიდენდის სარგებელი Fortescue არის რკინის მადნის მწარმოებელი, რომელიც დივიდენდის სარგებლით გამოირჩევა. კომპანიის ბაზარი ღირებულება 50.3 მილიარდ ავსტრალიურ დოლარს შეადგენს. ## ინვესტორებისთვის Evolution Mining არის ოქროს მწარმოებელი, რომელიც დივიდენდის სარგებლით გამოირჩევა. კომპანიის ბაზარი ღირებულება 27.8 მილიარდ ავსტრალიურ დოლარს შეადგენს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "cc65d8b12eb09b1b",
+      "title": "Win Streak May Continue For South Korea Shares",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/win-streak-may-continue-south-korea-shares",
+      "publishedAt": "2026-09-27T23:03:18.000Z",
+      "description": "(RTTNews) - Ahead of the long holiday weekend for Chuseok Thanksgiving Day, the South Korea stock market had moved higher in four straight sessions, advancing more than 365 points or 5.8 percent along the way. The KOSPI now sits just above the 7,080-point plateau and it's expecte",
+      "titleKa": "სამხრეთ კორეის აქციების გამარჯვების სერია შესაძლოა გაგრძელდეს",
+      "summaryKa": "სამხრეთ კორეის აქციების გამარჯვების სერია შესაძლოა გაგრძელდეს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/win-streak-may-continue-south-korea-shares",
+      "bodyKa": "## შესავალი\nსამხრეთ კორეის აქციების ინდექსი, KOSPI, ბოლო დროს 25 პუნქტით გაიზარდა, რაც 0.9%-იან ზრდას შეადგენს.\n\n## საფონდო ბაზრის მდგომარეობა\nKOSPI-ის ინდექსი ახლა 2,728.17-იან დონეზეა. აზიის ბაზრების გლობალური პროგნოზი ზოგადად პოზიტიურია, რადგან FOMC-ის საპროცენტო განაკვეთის გადაწყვეტილება გამოვლინდა.\n\n## აქციების შედეგები\nKOSPI-ის ინდექსი ბოლო დღეს 22.85 პუნქტით გაიზარდა, რაც 0.84%-იან ზრდას შეადგენს. აქციების ვაჭრობის ვოლიუმი 499.4 მილიონ აქციას შეადგენდა, რის ღირებულება 11.5 ტრილიონ ვონს შეადგენდა. აქციების ფასები ზოგიერთ კომპანიაში გაიზარდა, მათ შორის Shinhan Financial-ის აქციები 3.46%-ით, KB Financial-ის აქციები 0.89%-ით, Samsung Electronics-ის აქციები 1.73%-ით.\n\n## დასკვნა\nსამხრეთ კორეის აქციების ინდექსი შესაძლოა მცირე ზრდა განაგრძობდეს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "e96ab814aa219292",
+      "title": "Shein Faces First Public Earnings Test as Growth Woes Mount",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU1VS0ZUMl9UbUZzbzVSTm8xNVFZM1o0TnA2QVB1YjBQTTBhVFF2dVVEeE5Xa3E0WlA0dkpROGx5cEFaMVotR242dTgtZUZMNnd5YThMRVpNZkhHT0dLRTFhR1FsU2h0MXZrZXdzUG1acC1qZG9kLVhvMjdjbXZuR2pLN2hjRjR3YXJ2Zkl5NDExMDlua19LSnpvRGNkQUZWVDMzSkdYNXlkbkNKa1Yw?oc=5",
+      "publishedAt": "2026-09-27T23:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU1VS0ZUMl9UbUZzbzVSTm8xNVFZM1o0TnA2QVB1YjBQTTBhVFF2dVVEeE5Xa3E0WlA0dkpROGx5cEFaMVotR242dTgtZUZMNnd5YThMRVpNZkhHT0dLRTFhR1FsU2h0MXZrZXdzUG1acC1qZG9kLVhvMjdjbXZuR2pLN2hjRjR3YXJ2Zkl5NDExMDlua19LSnpvRGNkQUZWVDMzSkdYNXlkbkNKa1Yw?oc=5\" target=\"_blank\">Shein Faces First Public Earnings Test as Growth Woes Mount</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "Shein-ის პირველი საჯარო ფინანსური ანგარიშგება ზრდის პრობლემების ფონზე",
+      "summaryKa": "Shein-ის პირველი საჯარო ფინანსური ანგარიშგება ზრდის პრობლემების ფონზე გამოდის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "bb07029e21e77f10",
       "title": "Jobs, Inflation, Nike, Carmax, Micron, and More to Watch This Week",
