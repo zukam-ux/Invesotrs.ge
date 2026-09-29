@@ -1,8 +1,62 @@
 {
-  "updatedAt": "2026-09-29T05:47:56.428Z",
+  "updatedAt": "2026-09-29T21:27:21.059Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "08118b45da85f8f2",
+      "title": "Microsoft’s stock is on track to post its biggest quarterly gain in 28 years",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microsofts-stock-is-on-track-to-post-its-biggest-quarterly-gain-in-28-years-e6a20d11?mod=mw_rss_topstories",
+      "publishedAt": "2026-09-29T21:18:00.000Z",
+      "description": "Amid a “flight to quality,” Microsoft’s stock has stood out as an AI winner, according to one analyst",
+      "titleKa": "Microsoft-ის აქციები 28 წელიწადში ყველაზე დიდ კვარტალურ მოგებას აფიქსირებს",
+      "summaryKa": "Microsoft-ის აქციები 28 წელიწადში ყველაზე დიდ კვარტალურ მოგებას აფიქსირებს",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d5144a9ee7e22874",
+      "title": "Cboe's New S&P Deal Opens the Door to Tokenized Options",
+      "source": "Yahoo Finance",
+      "url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options?.tsrc=rss",
+      "publishedAt": "2026-09-29T21:16:04.000Z",
+      "description": "The renewed agreement preserves Cboe's exclusive rights to S&P 500 index options through 2051 while opening the door to pairing the flagship benchmark with blockchain infrastructure.",
+      "titleKa": "Cboe-ს ახალი S&P შეთანხმება ტოკენიზებული ოფციონების კარს ხსნის",
+      "summaryKa": "Cboe-ს ახალი S&P შეთანხმება ტოკენიზებული ოფციონების კარს ხსნის",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options?.tsrc=rss",
+      "bodyKa": "## შესავალი\nCboe Global Markets და S&P Dow Jones Indices 25 წლით გაზარდეს თავიანთი ლიცენზირების შეთანხმება, რაც მათ საშუალებას აძლევს ერთად იმუშაონ ახალ პროდუქტებზე, მათ შორის ტოკენიზებულ პროდუქტებზე.\n\n## ტოკენიზებული ოფციონები\nტოკენიზებული ოფციონების შესახებ მოსაზრება ჯერ კიდევ გამოკვლევის სტადიაშია და არ წარმოადგენს კონკრეტულ პროდუქტს. თუმცა, ეს შესაძლებლობა საინტერესოა, რადგან ის შეუძლია ტრადიციულ ფინანსურ ბაზრობას ბლოკჩეინ ტექნოლოგიასთან შეაერთებინოს.\n\n## საფონდო ბაზარი\nCboe-ს აქციები 6%-ით გაიზარდა ახალი შეთანხმების შესახებ ინფორმაციის გამოქვეყნების შემდეგ. ეს შეთანხმება მნიშვნელოვანია, რადგან ის ხსნის კარს ტოკენიზებულ პროდუქტებში და საშუალებას აძლევს ინვესტორებს ახალ საშუალებებს ისარგებლონ.\n\n## დასკვნა\nCboe-ს ახალი S&P შეთანხმება ტოკენიზებულ პროდუქტებში შესაძლებლობებს ინვესტორებისთვის შექმნის. ეს შეთანხმება მნიშვნელოვანია საფონდო ბაზარისთვის.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "55ca5c407956b125",
+      "title": "Atlas Lithium Stock Getting Very Oversold",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/atlas-lithium-stock-getting-very-oversold",
+      "publishedAt": "2026-09-29T21:13:44.000Z",
+      "description": "In trading on Tuesday, shares of Atlas Lithium Corp (Symbol: ATLX) entered into oversold territory, changing hands as low as $2.388 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momentu",
+      "titleKa": "Atlas Lithium-ის აქციები ძალიან გადაიდება",
+      "summaryKa": "Atlas Lithium-ის აქციები ძალიან გადაიდება",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.nasdaq.com/articles/atlas-lithium-stock-getting-very-oversold",
+      "bodyKa": "## ატლას ლითიუმის აქციები ძალიან გადაიდება\nატლას ლითიუმის კორპორაციის (ATLX) აქციები საფონდო ბაზარზე ძალიან გადაიდება. ეს განისაზღვრება რელატიური სიძლიერის ინდექსის (RSI) გამოყენებით, რომელიც ტექნიკური ანალიზის ინდიკატორია და იმპულსს 0-დან 100-მდე მაჩვენებელზე ზომავს. ატლას ლითიუმის კორპორაციის RSI 29.0-მდე დაეცა.\n\n## აქციების მიმდინარე მდგომარეობა\nATLX-ის აქციები დღეს 4.8%-ით დაეცა და 2.41 დოლარამდე დაეცა. 52 კვირის განმავლობაში აქციების მაქსიმუმი 8.25 დოლარი იყო, ხოლო მინიმუმი - 2.388 დოლარი.\n\n## აქციების RSI მაჩვენებელი\nATLX-ის 29.0-იან RSI მაჩვენებელი მეტალებისა და სამთო მრეწველობის საშუალო 42.5-ზე დაბალია.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "4506d16e7e2f2e83",
+      "title": "Trump gathers with AI leaders and floats ‘self-regulation’ as the way to deal with the technology’s dangers",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVGM1M0Q3OVg3TlR0QllZQkhiZHAzOWxaOFF6Z0JkTU1EbWFrUEFMYlhHajR3NkdjZEVDOFBMeVAzc09aalJJTVViUDNPWFJOMDY4VENuVlh0bGVBSXJ0MnZUZUtJSjVVRHdzUmFnSWNlZXI2T01JV3lWc3lfYmhDNXlFRWV6S2pTUDEzUWJEbnlzQUt1WTNkRzdoc2NGb0hPZ0sxcTA0N1BscGxIVDhhTFc5RDd2LVZQcWZ6U1g0OVpDZ2NqTi1YbmZnd2QyQ2FDNG9sSk5CR2lBSDNFN0pvdXFtT096UjMyVnU3X2Y3WXpGZw?oc=5",
+      "publishedAt": "2026-09-29T21:13:05.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVGM1M0Q3OVg3TlR0QllZQkhiZHAzOWxaOFF6Z0JkTU1EbWFrUEFMYlhHajR3NkdjZEVDOFBMeVAzc09aalJJTVViUDNPWFJOMDY4VENuVlh0bGVBSXJ0MnZUZUtJSjVVRHdzUmFnSWNlZXI2T01JV3lWc3lfYmhDNXlFRWV6S2pTUDEzUWJEbnlzQUt1WTNkRzdoc2NGb0hPZ0sxcTA0N1BscGxIVDhhTFc5RDd2LVZQcWZ6U1g0OVpDZ2NqTi1YbmZnd2QyQ2FDNG9sSk5CR2lBSDNFN0pvdXFtT096UjMyVnU3X2Y3WXpGZw?oc=5\" target=\"_blank\">Trump gathers with AI leaders and floats ‘self-regulation’ as the way to deal with the technology’s dangers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ტრამპი აი-ტექნოლოგიების ლიდერებთან შეხვდა და ტექნოლოგიების საფრთხეების წინააღმდეგ ბრძოლისთვის თვითრეგულაციას მხარს უჭერს",
+      "summaryKa": "ტრამპი აი-ტექნოლოგიების ლიდერებთან შეხვდა და ტექნოლოგიების საფრთხეების წინააღმდეგ ბრძოლისთვის თვითრეგულაციას მხარს უჭერს",
+      "category": "AI",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "85bc60bc881eec7d",
       "title": "Threat of Berlin Property Grab Is Spooking Real Estate Stocks",
@@ -4552,18 +4606,6 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "81eb196d85036063",
-      "title": "Elon Musk Backs the Physics Behind a Claim Quantum Computers Can't Break Bitcoin",
-      "source": "Yahoo Finance",
-      "url": "https://beincrypto.com/elon-musk-quantum-limit-bitcoin-claim/?.tsrc=rss",
-      "publishedAt": "2026-08-30T17:37:32.000Z",
-      "description": "Elon Musk backs a discrete universe theory that traders say proves quantum computers can never break Bitcoin.",
-      "titleKa": "ელონ მასკი უჭერს მხარს ფიზიკის თეორიას, რომელიც ამტკიცებს, რომ კვანტური კომპიუტერები ვერ გატეხენ ბიტკოინს",
-      "summaryKa": "ელონ მასკი თვლის, რომ კვანტური კომპიუტერები ბიტკოინის შიფრაციას ვერ გატეხენ.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "fe30280ffc5393bd",
       "title": "This \"Boring\" Pipeline Stock Has Never Cut Its Dividend. Here's the 1 Number I'd Watch.",
       "source": "Nasdaq",
@@ -4637,18 +4679,6 @@
       "sourceUrl": "https://finance.yahoo.com/energy/articles/trump-says-venezuelan-oil-refill-162145599.html",
       "bodyKa": "## ვენესუელის ნავთონი აშშ-ის სტრატეგიულ რეზერვებს გადაიტანს\n\nაშშ-ის პრეზიდენტმა დონალდ ტრამპმა ვენესუელასთან ისტორიული ნავთონის შეთავაზება მოაწყო, რომელიც 65 მილიარდი ბარელს მოიცავს. ეს რეზერვები მსოფლიოს სავალდებულო მარაგების 7.1% წარმოადგენს.\n\nვენესუელის ნავთონი აშშ-ის სტრატეგიულ რეზერვებს გადაიტანს, მაგრამ ეს რეზერვები ვერ გადაიტანება რეალობა. ვენესუელაში 65 მილიარდი ბარელი ნავთონი არ არის ვერტიკალურად მიწის ზედაპირზე, ის სავალდებულო მარაგების საფუძველზე მდებარეობს.\n\nვენესუელის ნავთონი აშშ-ის სტრატეგიულ რეზერვებს გადაიტანს, მაგრამ ეს რეზერვები ვერ გადაიტანება რეალობა. ვენესუელაში 65 მილიარდი ბარელი ნავთონი არ არის ვერტიკალურად მიწის ზედაპირზე, ის სავალდებულო მარაგების საფუძველზე მდებარეობს.\n\nვენესუელის ნავთონი აშშ-ის სტრატეგიულ რეზერვებს გადაიტანს, მაგრამ ეს რეზერვები ვერ გადაიტანება რეალობა. ვენესუელაში 65 მილიარდი ბარელი ნავთონი არ არის ვერტიკალურად მიწის ზედაპირზე, ის სავალდებულო მარაგების საფუძველზე მდებარეობს.\n\nვენესუელის ნავთონი აშშ-ის სტრატეგიულ რეზერვებს გადაიტანს, მაგრამ ეს რეზერვები ვერ გადაიტანება რეალობა. ვენესუელაში 65 მილიარდი ბარელი ნავთონი არ არის ვერტიკალურად მიწის ზედაპირზე, ის სავალდებულო მარაგების საფუძველზე მდებარეობს.\n\nვენესუელის ნავთონი აშშ-ის სტრატეგიულ რეზერვებს გადაიტანს, მაგრამ ეს რეზერვები ვერ გადაიტანება რეალობა. ვენესუელაში 65 მილიარდი ბარელი ნავთონი არ არის ვერტიკალურად მიწის ზედაპირზე, ის სავალდებულო მარაგების საფუძველზე მდებარეობს.\n\nვენესუელის ნავთონი აშშ-ის სტრატეგიულ რეზერვებს გადაიტანს, მაგრამ ეს რეზერვები ვერ გადაიტანება რეალობა. ვენესუელაში 65 მილიარდი ბარელი ნავთონი არ არის ვერტიკალურად მიწის ზედაპირზე, ის სავალდებულო მარაგების საფუძველზე მდებარეობს.\n\nვენესუელის ნავთონი აშშ-ის სტრატეგიულ რეზერვებს",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
-    },
-    {
-      "id": "1fa26befe2eb07f4",
-      "title": "Cathie Wood buys $53 million of popular semiconductor stock",
-      "source": "Yahoo Finance",
-      "url": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-53-million-of-popular-semiconductor-stock-nvidia-nvda?.tsrc=rss",
-      "publishedAt": "2026-08-30T16:18:17.000Z",
-      "description": "Here are Cathie Wood’s latest moves.",
-      "titleKa": "კათი ვუდი 53 მილიონი დოლარის ღირებულების პოპულარული ნახევარგამტარი აქციების ყიდვას ახდენს",
-      "summaryKa": "კათი ვუდი 53 მილიონი დოლარის ღირებულების პოპულარული ნახევარგამტარი აქციები ყიდულობს",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "6007e2d78af2c0d2",
@@ -4771,18 +4801,6 @@
       "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
-      "id": "0f38bb9a5759b81c",
-      "title": "Eric Trump Says ‘The Tides Have Turned’ For Bitcoin As AI And Institutions Fuel Crypto Adoption",
-      "source": "Yahoo Finance",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/eric-trump-bitcoin-tides-turned-ai-crypto/cZYworQRJrK?.tsrc=rss",
-      "publishedAt": "2026-08-30T14:08:31.000Z",
-      "description": "Eric Trump said that the U.S. must be \"number one\" in crypto and AI, citing the CLARITY Act.",
-      "titleKa": "ერიკ ტრამპის თქმით, ბიტკოინისთვის სიტუაცია შეიცვალა, რადგან AI და ინსტიტუტები კრიპტოვალუტის გამოყენებას უწყობენ ხელს",
-      "summaryKa": "ერიკ ტრამპი თვლის, რომ ბიტკოინის სიტუაცია შეიცვალა, რადგან AI და ინსტიტუტები მის გამოყენებას უწყობენ ხელს",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "36d9404f4a712907",
       "title": "This Overlooked Small-Cap ETF Has Crushed the S&P 500 in 2026. Is It Still a Buy Right Now?",
       "source": "Yahoo Finance",
@@ -4796,114 +4814,6 @@
       "sourceUrl": "https://www.fool.com/investing/2026/08/30/this-overlooked-small-cap-etf-has-crushed-sp-500/?.tsrc=rss",
       "bodyKa": "## შესავალი\n2026 წელს iShares Russell 2000 ETF (IWM) 21.5%-იანი მოგება ნაჩვენები, რაც S&P 500-ზე მაღალია.\n\n## პატარა კაპიტალიზაციის ETF\niShares Russell 2000 ETF (IWM) 1962 პატარა კაპიტალიზაციის აქციებს მოიცავს, რომლებიც წარმოადგენენ აშშ-ის 11 მთავარ სექტორს.\n\n## ინვესტორებისთვის\nინვესტორები, რომლებიც ეძებენ დივერსიფიცირებულ პორტფელს, IWM-ში ინვესტირება შეიძლება გამოცდილი იყოს. ინვესტორებმა უნდა იზრუნონ, რომ მათი პორტფელის პატარა კაპიტალიზაციის აქციების წონა 10%-ზე ნაკლები იყოს.\n\n## დასკვნა\niShares Russell 2000 ETF (IWM) 2026 წელს S&P 500-ს აჯობა. IWM შეიძლება გამოცდილი იყოს ინვესტორებისთვის, რომლებიც ეძებენ დივერსიფიცირებულ პორტფელს.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
-    },
-    {
-      "id": "7ba13b95fc249788",
-      "title": "Here Was My Biggest Concern Before Nvidia's Earnings. Did It Play Out?",
-      "source": "Nasdaq",
-      "url": "https://www.nasdaq.com/articles/here-was-my-biggest-concern-nvidias-earnings-did-it-play-out",
-      "publishedAt": "2026-08-30T13:50:00.000Z",
-      "description": "In this video, I will cover my biggest concern heading into Nvidia's (NASDAQ: NVDA) earnings report and which companies stood to benefit or lose depending on the results. Watch the short video to learn more, consider subscribing, and click the special offer link below.",
-      "titleKa": "Nvidia-ს ფინანსური შედეგების გამოქვეყნებამდე ჩემი უმთავრესი შიში რა იყო. გამოვლინდა თუ არა.",
-      "summaryKa": "Nvidia-ს ფინანსურ შედეგებში გარკვეული საკითხი გამოვლინდა თუ არა.",
-      "category": "ტექნოლოგიები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "36c491d93b06c229",
-      "title": "Elon Musk Owns 48.4% of SpaceX, a New Filing Shows. Here's Why That Matters for Everyone Else Holding the Stock.",
-      "source": "Nasdaq",
-      "url": "https://www.nasdaq.com/articles/elon-musk-owns-484-spacex-new-filing-shows-heres-why-matters-everyone-else-holding-stock-0",
-      "publishedAt": "2026-08-30T13:35:00.000Z",
-      "description": "Key PointsElon Musk is the CEO of Space Exploration Technologies.",
-      "titleKa": "ელონ მასკი ფლობს SpaceX-ის 48.4%-ს, რაც სხვა აქციების მფლობელებისთვისაც მნიშვნელოვანია",
-      "summaryKa": "ელონ მასკი SpaceX-ის 48.4%-ს ფლობს, რაც სხვა აქციების მფლობელებისთვისაც მნიშვნელოვანი ინფორმაციაა",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "57a6e8015f0aa6e4",
-      "title": "These charts show how leverage-happy investors are transforming the stock market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories",
-      "publishedAt": "2026-08-30T13:00:00.000Z",
-      "description": "A rush of retail investors and quant funds has caused a shift toward more borrowed money and more short-term trading.",
-      "titleKa": "გრაფიკები აჩვენებს, თუ როგორ გადააქცევენ ინვესტორები საფონდო ბაზარს სესხების გამოყენებით",
-      "summaryKa": "ინვესტორები საფონდო ბაზარს სესხების გამოყენებით გარდაქმნის პროცესში არიან",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "52f7946766a10983",
-      "title": "Hock Tan Guided Broadcom Past $100 Billion of AI Revenue in 2027. The Stock Is 25% off Its High.",
-      "source": "Nasdaq",
-      "url": "https://www.nasdaq.com/articles/hock-tan-guided-broadcom-past-100-billion-ai-revenue-2027-stock-25-its-high",
-      "publishedAt": "2026-08-30T12:58:01.000Z",
-      "description": "Key PointsOn Broadcom's June 3 earnings call, CEO Hock Tan reiterated guidance for more than $100 billion of AI semiconductor revenue in fiscal 2027, up from $56 billion expected this year.",
-      "titleKa": "Hock Tan-მა Broadcom-ს AI-ის შემოსავალი $100 მილიარდის ზემდე გაყვანაში დაეხმარა 2027 წელს, აქცია 25%-ით დაბალია მაქსიმუმზე",
-      "summaryKa": "Hock Tan-მა Broadcom-ს 2027 წელს AI-ის შემოსავალი $100 მილიარდის ზემდე გაყვანაში დაეხმარა, თუმცა აქცია 25%-ით დაბალია მაქსიმუმზე",
-      "category": "ტექნოლოგიები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "1709efce4f82ee8b",
-      "title": "Bitcoin Buyers Step Back In As Realized Cap Gains $4.6 Billion, Is A Bull Market Finally Here?",
-      "source": "Yahoo Finance",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-buyers-profit-bull-market/cZYwZRHRJri?.tsrc=rss",
-      "publishedAt": "2026-08-30T11:50:08.000Z",
-      "description": "CryptoQuant analyst Darkfost said rising profits among recent buyers could increase the chances of profit-taking.",
-      "titleKa": "Bitcoin-ის ყიდველები ბრუნდებიან, რეალიზებული კაპიტალიზაცია $4.6 მილიარდია, შესაძლოა ბული ბაზარი დაბრუნდა",
-      "summaryKa": "Bitcoin-ის ყიდველები ბრუნდებიან, რეალიზებული კაპიტალიზაცია $4.6 მილიარდია",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "422f1b9808f9f2fe",
-      "title": "Tim Cook Owns Crypto But Apple Never Bought Bitcoin: Will This Change?",
-      "source": "Yahoo Finance",
-      "url": "https://beincrypto.com/tim-cook-bitcoin-apple-ceo/?.tsrc=rss",
-      "publishedAt": "2026-08-30T11:46:29.000Z",
-      "description": "Tim Cook kept Bitcoin off Apple's balance sheet for 15 years. New CEO John Ternus has not said if that holds.",
-      "titleKa": "ტიმ კუკი ფლობს კრიპტოვალუტას, თუმცა Apple-მა არასდროს შეიძინა Bitcoin",
-      "summaryKa": "ტიმ კუკი ფლობს კრიპტოვალუტას, მაგრამ Apple-ის მიერ Bitcoin-ის შეძენა არ მომხდარა",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "ccab04acdbdb7506",
-      "title": "Is Aon (AON) Undervalued After Its Earnings Beat And Reaffirmed Outlook?",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkE5TlhVTkYtS2ZFd0RYbGxwWjB6Mkc3Qm54M2NvME5ONUJSc0NGZHlqQ2dNZ3hGcU5Ua09rWS1PQTRadmV2d0hiOGkyMUFzZ3Jkb0dMajRDVHVYZUFKTjlqb3VnSVloYmdKaXFIMHg2MmdLNUgzVDlFUjBaRjlsUi1ET3JENm1MREdHbUItaUU2LUxMaEl0SnRxOW5PTzA?oc=5",
-      "publishedAt": "2026-08-30T07:06:31.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkE5TlhVTkYtS2ZFd0RYbGxwWjB6Mkc3Qm54M2NvME5ONUJSc0NGZHlqQ2dNZ3hGcU5Ua09rWS1PQTRadmV2d0hiOGkyMUFzZ3Jkb0dMajRDVHVYZUFKTjlqb3VnSVloYmdKaXFIMHg2MmdLNUgzVDlFUjBaRjlsUi1ET3JENm1MREdHbUItaUU2LUxMaEl0SnRxOW5PTzA?oc=5\" target=\"_blank\">Is Aon (AON) Undervalued After Its Earnings Beat And Reaffirmed Outlook?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "Aon (AON)-ის აქციები განიხილება მისი ფინანსური შედეგების გაუმჯობესების შემდეგ",
-      "summaryKa": "Aon-ის ფინანსური შედეგები გაუმჯობესდა და კომპანიამ შეინარჩუნა თავისი პროგნოზი",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "1a4c2464e50b3ef9",
-      "title": "Metaplanet (TSE:3350) Could Be 29% Overvalued On U.S. Bitcoin Treasury Plan",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkhaM2NfSWRIalgtQXVqWjNQcWliX0pwa0RITFZUWGwtWENJaGxVQjVEaklGYzB6UE9hSGh6Q2Q0c1VhZzU4alZZNjdKVEVScnMtRFBhQVFxVkVScW5XbU93QlFPZTMxTTNIUGJFSDdvT2FSTWJlaFoyaDNiOERVemRFZDV6WHVHUXJrVlFxU0hLZmxPWUdtNQ?oc=5",
-      "publishedAt": "2026-08-30T06:18:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkhaM2NfSWRIalgtQXVqWjNQcWliX0pwa0RITFZUWGwtWENJaGxVQjVEaklGYzB6UE9hSGh6Q2Q0c1VhZzU4alZZNjdKVEVScnMtRFBhQVFxVkVScW5XbU93QlFPZTMxTTNIUGJFSDdvT2FSTWJlaFoyaDNiOERVemRFZDV6WHVHUXJrVlFxU0hLZmxPWUdtNQ?oc=5\" target=\"_blank\">Metaplanet (TSE:3350) Could Be 29% Overvalued On U.S. Bitcoin Treasury Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "Metaplanet (TSE:3350) 29%-ით შეიძლება იყოს ზეღიადებული აშშ-ის ბიტკოინის სახაზინო გეგმის გამო",
-      "summaryKa": "Metaplanet-ის (TSE:3350) აქციები 29%-ით შეიძლება იყოს ზეღიადებული აშშ-ის ბიტკოინის სახაზინო გეგმის გამო.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "8ccb70397fd47dfb",
-      "title": "PagerDuty CEO Sells 28,847 Shares as the Stock Edges Up",
-      "source": "Nasdaq",
-      "url": "https://www.nasdaq.com/articles/pagerduty-ceo-sells-28847-shares-stock-edges",
-      "publishedAt": "2026-08-30T06:10:15.000Z",
-      "description": "Key PointsThe CEO disposed of 28,847 shares at $12.19 per share, totaling ~$352,000 in transaction value.",
-      "titleKa": "PagerDuty-ის გენერალური დირექტორი 28,847 აქციას ყიდულობს, როდესაც აქციის ფასი იზრდება",
-      "summaryKa": "PagerDuty-ის გენერალური დირექტორი 28,847 აქციას ყიდულობს, როდესაც კომპანიის აქციის ფასი იზრდება.",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "410ae7f7e43c4dec",
