@@ -1,8 +1,59 @@
 {
-  "updatedAt": "2026-09-29T21:27:21.059Z",
+  "updatedAt": "2026-09-30T00:48:49.720Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "2320e97286422c82",
+      "title": "The Market Just Hit a Risky Milestone. History Says Investors Should Make This 1 Move.",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/09/29/the-market-just-hit-a-risky-milestone-history-says/?.tsrc=rss",
+      "publishedAt": "2026-09-30T00:35:00.000Z",
+      "description": "The S&P 500 Shiller CAPE Ratio is over 40x, the highest level since the dot-com bubble.",
+      "titleKa": "ბაზარი რისკიან ეტაპზე გადავიდა. ისტორია ინვესტორებს ამ ერთ ნაბიჯის გადადგმას ურჩევს.",
+      "summaryKa": "ინვესტორებს ბაზრის რისკიან ეტაპზე გადასვლის შემდეგ ერთი გარკვეული ნაბიჯის გადადგმა ურჩევნიათ.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.fool.com/investing/2026/09/29/the-market-just-hit-a-risky-milestone-history-says/?.tsrc=rss",
+      "bodyKa": "## შესავალი\nინვესტორები ბაზრის რისკიან ეტაპზე გადასვლის შემდეგ უნდა განსაზღვრონ თუ რა ნაბიჯები უნდა გადაიდგან. JPMorgan Chase-ის CEO-მ, ჯეიმი დიმონმა, ბაზრის რისკები აღწერა, როგორც \"ტექტონიკური ფილები\", რომლებიც \"ზედაპირქვეშ გადაადგილდებიან\". მან განსაკუთრებით აღნიშნა გეოპოლიტიკური კონფლიქტი, მაღალი ვალი და ინფლაცია.\n\n## საფონდო ბაზარის რისკები\nსაფონდო ბაზარი რისკიან ეტაპზე გადავიდა, რაც ინვესტორებს საფრთხეს უქმნის. S&P 500 Shiller CAPE Ratio-მ 40x-ზე მეტი შეაღწია, რაც დოტ-კომ კრიზისამდე არსებულ დონეს აღემატება. ეს მაჩვენებელი საფონდო ბაზარის ფასების ექსტრემალურ შეფასებაზე მიუთითებს.\n\n## ინვესტორების რეაქცია\nინვესტორებმა უნდა განსაზღვრონ თუ რა ნაბიჯები უნდა გადაიდგან ამ სიტუაციაში. ისინი შეიძლება გადაწყვიტონ თავიანთი ინვესტიციებიდან ნაწილი გამოიყვანონ ან სარისკო ინვესტიციებიდან შემოსავლის ნაწილი მიიღონ.\n\n## დასკვნა\nსაფონდო ბაზარის რისკიან ეტაპზე გადასვლის შემდეგ ინვესტორებმა უნდა განსაზღვრონ თუ რა ნაბიჯები უნდა გადაიდგან. ისინი უნდა შეფასეონ თავიანთი რისკის ტოლერანტობა და შესაბამისად მოიქცნენ.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "d173ad54f3e67034",
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRlZsOTNPZHZuNkY0Z0J0LVdjNXd2RVpQdUlHN0FRSHRqYlB4UXlKc1MxWlVrbEJoZFFtQ19pNkx4R1FxRjhUSjU2X0V6cmRveGZ6YlMxaURmajJjQ1NlQ21kNkhGcTRVZzhhZloxR05WclA1YjFZeEpQZU04T0J1M1NFV291LXFEaF9QX2dVVFhBZ2JVQU1tWUVSbnAwTnFWMUxVdHRuSktfYnh1WWJ3amJUcjhGcTlv?oc=5",
+      "publishedAt": "2026-09-30T00:30:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRlZsOTNPZHZuNkY0Z0J0LVdjNXd2RVpQdUlHN0FRSHRqYlB4UXlKc1MxWlVrbEJoZFFtQ19pNkx4R1FxRjhUSjU2X0V6cmRveGZ6YlMxaURmajJjQ1NlQ21kNkhGcTRVZzhhZloxR05WclA1YjFZeEpQZU04T0J1M1NFV291LXFEaF9QX2dVVFhBZ2JVQU1tWUVSbnAwTnFWMUxVdHRuSktfYnh1WWJ3amJUcjhGcTlv?oc=5\" target=\"_blank\">‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "titleKa": "‘მე არასოდეს ვიყიდი’: 47 წლის ავტორი ყველა შემოსავლის დოლარს ბიტკოინში ინვესტირებს. ის შეიძლება ჭკვიანი იყოს.",
+      "summaryKa": "47 წლის ადამიანი ყველა შემოსავლის დოლარს ბიტკოინში ინვესტირებს და ამბობს, რომ იგი არასოდეს გაყიდის.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "6b82a8b60d90cc41",
+      "title": "Dow Jones Futures Rise With Micron, Inflation Data Due; Yields Pressure Stocks But Bloom Energy Soars",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures-rise-with.html?.tsrc=rss",
+      "publishedAt": "2026-09-30T00:22:06.000Z",
+      "description": "Stocks are resilient as Treasury yields rise but aren't thriving. Bloom Energy surged. Inflation data, Micron earnings loom.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები მაიკრონის ზრდის ფონზე იმატებს; ინფლაციის მონაცემები მოსალოდნელია.",
+      "summaryKa": "Dow Jones-ის მომავალი კონტრაქტები მაიკრონის ზრდის ფონზე იმატებს, ხოლო ინფლაციის მონაცემები მოსალოდნელია.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b9fc8f88dd7d5782",
+      "title": "S&P 500 investors may have more tech exposure than they think: Here's how one wealth manager mitigates concentration risk",
+      "source": "Yahoo Finance",
+      "url": "https://www.thestreet.com/investing/are-index-funds-overweight-in-tech?.tsrc=rss",
+      "publishedAt": "2026-09-30T00:21:07.000Z",
+      "description": "Kenny Polcari says investors using market-weighted S&P 500 funds should examine their technology concentration before adding more tech-focused ETFs or buying the next pullback.",
+      "titleKa": "S&P 500-ის ინვესტორებს შეიძლება ტექნოლოგიებში უფრო მეტი ექსპოზიცია ჰქონდეთ, ვიდრე მათ ეგრძნობათ.",
+      "summaryKa": "S&P 500-ის ინვესტორებს შეიძლება ტექნოლოგიებში უფრო მეტი ექსპოზიცია ჰქონდეთ, ვიდრე მათ ეგრძნობათ.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "08118b45da85f8f2",
       "title": "Microsoft’s stock is on track to post its biggest quarterly gain in 28 years",
