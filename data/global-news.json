@@ -1,8 +1,56 @@
 {
-  "updatedAt": "2026-09-30T00:48:49.720Z",
+  "updatedAt": "2026-09-30T06:03:00.343Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "8c80a0c03845ab15",
+      "title": "The Dollar Is Having Its Best Month Since June, and Bitcoin Hasn't Blinked Yet",
+      "source": "Yahoo Finance",
+      "url": "https://beincrypto.com/dollar-best-month-since-june-bitcoin/?.tsrc=rss",
+      "publishedAt": "2026-09-30T05:37:37.000Z",
+      "description": "The dollar index is on pace for its best month since June, yet Bitcoin has gained 6% in September ahead of October.",
+      "titleKa": "დოლარი იუნის შემდეგ საუკეთესო თვეს განიცდის და ბიტკოინი ამასთან არ რეაგირებს",
+      "summaryKa": "დოლარი იუნის შემდეგ საუკეთესო თვეს განიცდის, თუმცა ბიტკოინის ფასზე ეს გავლენას არ ახდენს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "f81d5009287fadd1",
+      "title": "Zuckerberg lost $8.9 billion in a day as Meta's AI rally cracked: his net worth fell from $266.4 billion to $257.5 billion as Meta shares dropped about 4% to $749.26 after Goldman Sachs warned AI spenders need about $300 billion a year in AI revenue just to break even.",
+      "source": "Yahoo Finance",
+      "url": "https://www.thestreet.com/technology/zuckerberg-meta-ai-spending-loss?.tsrc=rss",
+      "publishedAt": "2026-09-30T05:33:00.000Z",
+      "description": "One Goldman Sachs note put a price tag on the AI boom, and Meta’s founder paid first.",
+      "titleKa": "მარკ ცუკერბერგი ერთ დღეში $8.9 მილიარდს კარგავს, მეტას აქციები 4%-ით ეცემა",
+      "summaryKa": "მარკ ცუკერბერგის ქონება ერთ დღეში $8.9 მილიარდით შემცირდა, რადგან მეტას აქციები 4%-ით დაეცა.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "7bd3ce892bc68e4d",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "Yahoo Finance",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/62069859/stock-market-will-sp-500-open-up-or-down-today-47?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "publishedAt": "2026-09-30T05:14:15.000Z",
+      "description": "U.S. stock futures are trending higher early Wednesday as Wall Street assesses fresh corporate earnings, stabilizing oil prices, and significant domestic inflation data amidst shifting geopolitical dynamics. The Polymarket (CRYPTO: POL) crowd is leaning heavily bullish for the Sept. 30...",
+      "titleKa": "საფონდო ბაზარი: S&P 500 ამავე დღეს ზემოთ გაიხსნება თუ ქვემოთ",
+      "summaryKa": "საფონდო ბაზარზე ინვესტორები იმის შესახებ ფიქრობენ, თუ როგორ შეიცვალება S&P 500-ის მაჩვენებელი ამ დღეს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d4b0a0eba9e9b884",
+      "title": "Gold and silver crash as 10-year yield tops 5.2%",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWtaMzB0TGVFZFdmaGFvV29FejNKaUdYTURoY1hlSzNjSFdLQ3YzOXlrZFNLemJ1X3FFLUdiYXFZcUxqM2tZRGQ4TmUyS1BpZlljUG9GX0ZCZ2tBRVFnS1JTOHRybDQtQ2ZUMUJ5TUdKY0Z0djZrOFBUelRfWjN3SnRpYnRGOHFjTGZnbXctWUVKb0lhNGZQNkpGVks?oc=5",
+      "publishedAt": "2026-09-30T05:07:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWtaMzB0TGVFZFdmaGFvV29FejNKaUdYTURoY1hlSzNjSFdLQ3YzOXlrZFNLemJ1X3FFLUdiYXFZcUxqM2tZRGQ4TmUyS1BpZlljUG9GX0ZCZ2tBRVFnS1JTOHRybDQtQ2ZUMUJ5TUdKY0Z0djZrOFBUelRfWjN3SnRpYnRGOHFjTGZnbXctWUVKb0lhNGZQNkpGVks?oc=5\" target=\"_blank\">Gold and silver crash as 10-year yield tops 5.2%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ოქრო და ვერცხლი 10-წლიანი სესხის საპროცენტო განაკვეთის 5.2%-ზე მაღლა გადასვლის გამო კრახს განიცდის",
+      "summaryKa": "ოქრო და ვერცხლი 10-წლიანი სესხის საპროცენტო განაკვეთის 5.2%-ზე მაღლა გადასვლის გამო ფასით კრახს განიცდის.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "2320e97286422c82",
       "title": "The Market Just Hit a Risky Milestone. History Says Investors Should Make This 1 Move.",
