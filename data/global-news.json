@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T22:19:56.415Z",
+  "updatedAt": "2026-10-01T01:36:20.962Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -8,11 +8,47 @@
       "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html?.tsrc=rss",
-      "publishedAt": "2026-09-30T22:01:20.000Z",
+      "publishedAt": "2026-10-01T01:24:34.000Z",
       "description": "The Nasdaq faded while the S&P 500 fell to its 50-day as Treasury yields keep running. Micron earnings easily beat views.",
       "titleKa": "Dow Jones-ის მომავალი: Micron-ის ფინანსური შედეგები აჭარბებს მოსალოდნელს, S&P 500 კრიტიკულ დონეზეა ხაზინის ობლიგაციების სარგებელის ზრდის ფონზე",
       "summaryKa": "Micron-ის ფინანსური შედეგები აჭარბებს მოსალოდნელს, ხაზინის ობლიგაციების სარგებელი იზრდება და S&P 500 კრიტიკულ დონეზეა.",
       "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "91ae620c4237ac5b",
+      "title": "Losing Streak May Continue For Indonesia Stock Market",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/losing-streak-may-continue-indonesia-stock-market",
+      "publishedAt": "2026-10-01T01:02:16.000Z",
+      "description": "(RTTNews) - The Indonesia stock market has finished lower in five straight sessions, tumbling more than 300 points or 4.4 percent along the way. The Jakarta Composite Index now sits just above the 6,070-point plateau and it's expected to open under water again on Thursday.",
+      "titleKa": "ინდონეზიის საფონდო ბაზარი შესაძლოა ზარალიან სერიას განაგრძოს",
+      "summaryKa": "ინდონეზიის საფონდო ბაზარი შესაძლოა ზარალიან სერიას განაგრძოს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5139ae53b332519a",
+      "title": "Australian Market Significantly Lower",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/australian-market-significantly-lower",
+      "publishedAt": "2026-10-01T01:00:46.000Z",
+      "description": "(RTTNews) - The Australian market is trading significantly lower on Thursday, snapping a three-session winning streak, following the mixed cues from Wall Street overnight. The benchmark S&P/ASX 200 is falling below the 8,700 level, with weakness across most sectors led by mining",
+      "titleKa": "ავსტრალიის ბაზარი მნიშვნელოვნად დაეცა",
+      "summaryKa": "ავსტრალიის ბაზარი მნიშვნელოვნად დაეცა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d6adbd4cd1812109",
+      "title": "Anthropic Plans to Spend $518 Billion on Cloud and Data Centers. More Than $100 Billion Is Already Promised to Amazon.",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/anthropic-plans-spend-518-billion-cloud-and-data-centers-more-100-billion-already-promised",
+      "publishedAt": "2026-10-01T00:57:01.000Z",
+      "description": "Key PointsA draft prospectus reported by Reuters shows Anthropic plans $518 billion in cloud, computing and infrastructure obligations.",
+      "titleKa": "Anthropic აპირებს 518 მილიარდ დოლარს დახარჯოს ღრუბელისა და მონაცემთა ცენტრებზე",
+      "summaryKa": "Anthropic აპირებს 518 მილიარდ დოლარს დახარჯოს ღრუბელისა და მონაცემთა ცენტრებზე.",
+      "category": "ტექნოლოგიები",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
