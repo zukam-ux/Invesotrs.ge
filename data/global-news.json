@@ -1,8 +1,68 @@
 {
-  "updatedAt": "2026-10-02T05:52:26.997Z",
+  "updatedAt": "2026-10-02T12:39:11.662Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "a0b921a7b04baeac",
+      "title": "2 AI Networking Stocks That Could Help Make You a Fortune",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/2-ai-networking-stocks-could-help-make-you-fortune",
+      "publishedAt": "2026-10-02T12:27:00.000Z",
+      "description": "Key PointsFor the high-end server clusters in AI data centers to perform optimally, they need copious amounts of networking equipment that supports rapid data transmission.",
+      "titleKa": "2 AI ქსელური აქციები, რომლებიც შეიძლება გაგაკეთონ შემოსავალი",
+      "summaryKa": "Nasdaq-ზე გამოქვეყნებული სტატიაში აღნიშნულია 2 AI ქსელური აქციები, რომლებიც შეიძლება ინვესტორებისთვის მოგებიანი იყოს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "a877a2a60b6b7687",
+      "title": "Should You Buy Viking Therapeutics Stock While It Trades Below Its $35 Offering Price?",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/should-you-buy-viking-therapeutics-stock-while-it-trades-below-its-35-offering-price",
+      "publishedAt": "2026-10-02T12:20:00.000Z",
+      "description": "Key PointsViking Therapeutics raised $575 million in a supplementary public offering after positive trial results.",
+      "titleKa": "შეიძლება თუ არა იყიდოთ Viking Therapeutics-ის აქციები $35-ზე დაბალ ფასად",
+      "summaryKa": "Nasdaq-ზე გამოქვეყნებული სტატიაში განხილულია Viking Therapeutics-ის აქციების შეძენის საკითხი $35-ზე დაბალ ფასად.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "356ea8163f148875",
+      "title": "Stocks Rise Pre-Bell Ahead of September Jobs Report",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRXNTU1hYc3VCbVRsd3BMSU55dU9KelpEUy12Zm1ULW8zZlNzcXU1VWJQTVFKY0RNLVhiSVpxQW9aS1dhc083MllUWWxnZm5ZUUN0VWNac1E4RFY0WDR0NEQ3b3IxaXoxWlYwNlNRTWNxVi1mekNrZThIczVHVl9TUlU1SF9xUlhobHdoZkh2bHFwZkNFaHc?oc=5",
+      "publishedAt": "2026-10-02T12:13:05.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPRXNTU1hYc3VCbVRsd3BMSU55dU9KelpEUy12Zm1ULW8zZlNzcXU1VWJQTVFKY0RNLVhiSVpxQW9aS1dhc083MllUWWxnZm5ZUUN0VWNac1E4RFY0WDR0NEQ3b3IxaXoxWlYwNlNRTWNxVi1mekNrZThIczVHVl9TUlU1SF9xUlhobHdoZkh2bHFwZkNFaHc?oc=5\" target=\"_blank\">Stocks Rise Pre-Bell Ahead of September Jobs Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "აქციების ფასები იზრდება სექტემბერის სამუშაო ანგარიშის გამოქვეყნებამდე",
+      "summaryKa": "Yahoo Finance-ზე გამოქვეყნებული ინფორმაციით, აქციების ფასები იზრდება სექტემბერის სამუშაო ანგარიშის გამოქვეყნებამდე.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "2b521cf25206e3d9",
+      "title": "Stock Market Today: Dow Rises Ahead Of Jobs Report; Nike Plunges On Earnings (Live Coverage)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/94ae67df-681f-315f-b45f-941eaadbc7c6/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+      "publishedAt": "2026-10-02T12:07:16.000Z",
+      "description": "Stock Market Today: The Dow Jones index rises 300 points Friday ahead of a pivotal job report. Nike stock plunges on earnings.",
+      "titleKa": "საფონდო ბაზარის მიმოხილვა: Dow-ის ზრდა სამუშაო ანგარიშის გამოქვეყნებამდე; Nike-ის აქციების ვარდნა ფინანსური შედეგების გამო",
+      "summaryKa": "Yahoo Finance-ზე გამოქვეყნებული ინფორმაციით, Dow-ის ინდექსი იზრდება სექტემბერის სამუშაო ანგარიშის გამოქვეყნებამდე, ხოლო Nike-ის აქციები ეცემა ფინანსური შედეგების გამო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "64e080293dd176dd",
+      "title": "Dow Jones Futures Rise, Oil Prices Tumble With Tesla, Jobs Due; Nike, Seagate, Western Digital Are Big Losers",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
+      "publishedAt": "2026-10-02T12:07:10.000Z",
+      "description": "Futures rose as crude oil prices fell solidly. The jobs report and Tesla deliveries loom. Seagate, Western Digital, Nike are early losers.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები იზრდება, ნავთობის ფასები ეცემა, ტესლასთან ერთად",
+      "summaryKa": "ნავთობის ფასები ეცემა, ხოლო Dow Jones-ის მომავალი კონტრაქტები იზრდება",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "e1e97bf9d91e596e",
       "title": "Here's What a $500 Investment in Bitcoin Could Be Worth by 2030",
