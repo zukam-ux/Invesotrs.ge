@@ -1,8 +1,47 @@
 {
-  "updatedAt": "2026-10-01T15:31:43.674Z",
+  "updatedAt": "2026-10-02T00:16:13.343Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "e90992c0ef28cf6d",
+      "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+      "publishedAt": "2026-10-02T00:14:00.000Z",
+      "description": "Twilio gets the nod, as current component Warner Bros Discovery is due to merger with Paramount.",
+      "titleKa": "S&P 500-ის ინდექსში შესვლა ახალ კომპანიებს ელოდებათ",
+      "summaryKa": "S&P 500-ის ინდექსში ცვლილებები ხდება",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "c9c2eab74ebcd032",
+      "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "publishedAt": "2026-10-02T00:13:00.000Z",
+      "description": "The company has faced struggles in China and in its sneaker business.",
+      "titleKa": "Nike-ის აქციები შესაძლოა ყველაზე ცუდ მდგომარეობაში იყოს",
+      "summaryKa": "Nike-ის აქციების ღირებულება შესაძლოა შემცირდეს",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "3a5c3b7afaf7f2d5",
+      "title": "South Korea CPI inflation eases slightly in September",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/south-korea-cpi-inflation-eases-235845632.html?.tsrc=rss",
+      "publishedAt": "2026-10-01T23:58:45.000Z",
+      "description": "Investing.com-- South Korean consumer inflation eased slightly in September, although prices still remained close to over two-year highs and well above the Bank of Korea’s annual target.",
+      "titleKa": "სამხრეთ კორეაში ინფლაცია სექტემბერში შემცირდა",
+      "summaryKa": "სამხრეთ კორეაში ინფლაცია სექტემბერში გარკვეულწილად შემცირდა",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/economy/policy/articles/south-korea-cpi-inflation-eases-235845632.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nსამხრეთ კორეაში მიმდინარე წლის სექტემბერში კონსუმერული ფასების ინდექსი (CPI) 2.9%-ით გაიზარდა, რაც წინა თვესთან შედარებით 3.1%-დან 0.2%-ით შემცირდა.\n\n## ინფლაციის მიმდინარეობა\nინფლაციის შემცირება ძირითადად სოფლის მეურნეობის პროდუქტებისა და ალკოჰოლური სასმელების ფასების შემცირებით იყო გამოწვეული. თუმცა, სერვისების, გაზის, წყლისა და საწვავის ფასები მაღალ დონეზე რჩებოდა.\n\n## საპროცენტო განაკვეთის მიმართება\nინფლაციის მაჩვენებელი ჯერ კიდევ ბანკის 2%-იან წლიურ ტარგეტს მაღლა იყო, რაც შესაძლოა საპროცენტო განაკვეთის ზრდას გამოიწვიოს. ბანკი უკვე ორჯერ გაზარდა საპროცენტო განაკვეთი წელს, სულ 50 ბაზისი პუნქტით.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "0b15cc024099e864",
       "title": "European stocks slip as Q4 begins on soaring energy and inflation pain",
@@ -4570,18 +4609,6 @@
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
-      "id": "686c975247fb6d0d",
-      "title": "Update: US Equity Indexes Drop as Treasury Yields, Crude Oil Surge Following Fresh Military Strikes on Iran",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/us-equity-indexes-drop-treasury-211755099.html?.tsrc=rss",
-      "publishedAt": "2026-09-01T21:17:55.000Z",
-      "description": "(Updates with index/price moves, macroeconomic data and geopolitical news from the first paragraph.)",
-      "titleKa": "აშშ-ის აქციების ინდექსები ეცემა ხაზინის ობლიგაციების სარგებელისა და ნავთობის ფასის ზრდის გამო",
-      "summaryKa": "აშშ-ის აქციების ინდექსები ეცემა ხაზინის ობლიგაციების სარგებელისა და ნავთობის ფასის ზრდის ფონზე.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "a190f220982443e3",
       "title": "Why Strategy (MSTR) Stock Is Trading Lower Today",
       "source": "Yahoo Finance",
@@ -4597,18 +4624,6 @@
       "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
-      "id": "3d1032072b147d0d",
-      "title": "Musk once called Bitcoin his biggest crypto bet, here's what $1 billion invested would be worth today",
-      "source": "Yahoo Finance",
-      "url": "https://www.thestreet.com/crypto/markets/musk-once-called-bitcoin-his-biggest-crypto-bet-heres-what-1-billion-invested-would-be-worth-today?.tsrc=rss",
-      "publishedAt": "2026-09-01T21:10:20.000Z",
-      "description": "At The B-Word conference in July 2021, Musk confirmed Bitcoin was his largest crypto holding and said he had no plans to sell. Here is what that conviction looks like at $77,000.",
-      "titleKa": "ილონ მასკი ადრე ბიტკოინს თავის უმსხვილეს კრიპტო ინვესტიციად მიიჩნევდა, 1 მილიარდი დოლარის ინვესტიცია დღეს რამდენი ღირებულებას იქნებოდა",
-      "summaryKa": "ილონ მასკი ადრე ბიტკოინს თავის უმსხვილეს კრიპტო ინვესტიციად მიიჩნევდა.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "0546dcc9b352c38a",
       "title": "Prediction: If a September Sell-Off Hits Speculative AI Stocks, Quantum Computing Falls First",
       "source": "Yahoo Finance",
@@ -4622,102 +4637,6 @@
       "sourceUrl": "https://www.fool.com/investing/2026/09/01/perdiction-if-a-september-sell-off-hits-speculativ/?.tsrc=rss",
       "bodyKa": "## შესავალი\nსექტემბერი ისტორიულად ყველაზე ცუდი თვეა საფონდო ბაზარისთვის, სადაც S&P 500-ის აქციები საშუალოდ 1.16%-ით კლებს 1926 წლიდან 2024 წლამდე. თუმცა, ეს ისტორიული ტენდენცია არ ნიშნავს, რომ აქციები 2026 წლის სექტემბერში იგივე ტენდენციას გაჰყვებიან.\n\n## საფრთხე კვანტურ კომპიუტერებს\nკვანტური კომპიუტერების აქციები, როგორიცაა IonQ, D-Wave Quantum, Rigetti Computing და Quantum Computing Inc., სპეკულაციური ტექნოლოგიების აქციების გაყიდვების შემთხვევაში პირველები იქნებიან, ვინც ზარალს განიცდის. ეს გამოწვეულია მათი მაღალი ვალუაციებით, რაც მათ საფრთხეში აყენებს.\n\n## ფინანსური შედეგები\nIonQ-ის შემოსავალი 287%-ით გაიზარდა წინა წელთან შედარებით, მაგრამ მისი აქციები 52-ჯერ აღემატება მის შემოსავალს. ეს ნიშნავს, რომ ინვესტორები მაღალ ფასად ყიდულობენ მის აქციებს, რაც მათ ზარალის შემთხვევაში საფრთხეში აყენებს. ასევე, Rigetti Computing-ის ვალუაცია 223-ჯერ აღემატება მის შემოსავალს, რაც მასაც საფრთხეში აყენებს.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
-    },
-    {
-      "id": "4f3f3fec55862e41",
-      "title": "Dow Jones Futures: Market Breaks Key Levels As Oil Prices Jump; Dell, Credo, Palo Alto Are Earnings Movers",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/m/3c8f786a-671c-3fb9-bb03-81fc8be4d3f0/dow-jones-futures%3A-market.html?.tsrc=rss",
-      "publishedAt": "2026-09-01T21:08:19.000Z",
-      "description": "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices jumped. Dell, Palo Alto and Credo were earnings movers late.",
-      "titleKa": "Dow Jones-ის მომავალი: ნავთობის ფასების ზრდის ფონზე ბაზარი მთავარ დონეს აღემატება; Dell, Credo, Palo Alto ფინანსური შედეგების ლიდერებია",
-      "summaryKa": "ნავთობის ფასების ზრდის ფონზე საფონდო ბაზარი მთავარ დონეს აღემატება.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "45887a4bd0299749",
-      "title": "Commvault, Sprinklr, Upland Software, Samsara, and Cadence Design Systems Stocks Trade Down, What You Need To Know",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/commvault-sprinklr-upland-software-samsara-210620562.html?.tsrc=rss",
-      "publishedAt": "2026-09-01T21:06:20.000Z",
-      "description": "A number of stocks fell in the afternoon session after escalating geopolitical tensions in the Middle East and climbing global bond yields dampened investor risk appetite.",
-      "titleKa": "Commvault, Sprinklr, Upland Software, Samsara, და Cadence Design Systems-ის აქციები გაყიდვაშია, რას უნდა იცოდეთ",
-      "summaryKa": "Commvault, Sprinklr, Upland Software, Samsara, და Cadence Design Systems-ის აქციები ვაეყიდება.",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "8f010d45fe409929",
-      "title": "Stock Market Today, Sept. 1: Nio Falls on Q2 Revenue Miss Despite August Delivery Strength",
-      "source": "Yahoo Finance",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/01/stock-market-today-sept-1-nio-falls-on-q2-revenue-miss-despite-august-delivery-strength/?.tsrc=rss",
-      "publishedAt": "2026-09-01T21:05:18.000Z",
-      "description": "Today, Sept. 1, 2026, the Chinese EV maker's stock tumbled after reporting a revenue shortfall, though August deliveries surged 14.5% to signal Q3 momentum.",
-      "titleKa": "საფონდო ბაზარი 1 სექტემბერს: Nio-ს აქციები ეცემა მეორე კვარტალში შემოსავლის შემცირების ფონზე",
-      "summaryKa": "Nio-ს აქციები იკლებს მეორე კვარტალში შემოსავლის შემცირების გამო.",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "cf67ea71cfd4271b",
-      "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
-      "publishedAt": "2026-09-01T21:02:00.000Z",
-      "description": "The adoption of artificial intelligence at work has been widespread, but more “shallow” than expected — for now.",
-      "titleKa": "რომელ მუშებს იყენებენ AI-ს მოულოდნელად ხშირად? ტანსაცმლის გასაწმინდები და მშენებლობის მუშაკები.",
-      "summaryKa": "ტანსაცმლის გასაწმინდები და მშენებლობის მუშაკები ხშირად იყენებენ AI-ს.",
-      "category": "AI",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "544276a815c72822",
-      "title": "Why bond yields are rising and why everyone should care",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/articles/why-bond-yields-rising-why-210114194.html?.tsrc=rss",
-      "publishedAt": "2026-09-01T21:01:14.000Z",
-      "description": "Interest rates on government bonds are rising again around the world, making borrowing more expensive for consumers and businesses and heightening concerns about whether governments are issuing more debt than financial markets can handle. Rising bond yields are one of the few forces in the world strong enough to get politicians to snap to attention. The bond market can dictate how much ordinary people have to pay on their mortgages and car loans, as well as how much they earn from their savings accounts and 401(k) plans.",
-      "titleKa": "ობლიგაციის სარგებელი რატომ იზრდება და რატომ ყველას უნდა აღელვას",
-      "summaryKa": "ობლიგაციის სარგებელი იზრდება, რაც ინვესტორებისთვის საინტერესოა.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "d09855d6a409310b",
-      "title": "Bitcoin’s (XBT) Biggest Hoarders Are Becoming Buffett Wannabes",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLW1LTVM2V2RqRlpFZUcyUHh0Vmk1VDBBNURvcmIybURpRW9lOHd5UUtabGpIZlc3OFdxbXNhMVM0VTJwWUkwcmtQWFExaF9lQTZOWUJOU2s5QmlacGZmYmlmWDY0MnE1YmxsUXA2R2Q0eTQ4aU02VXJ6MHFhMGNQak5nSGc5bTZEclgzQjBTRWMyYmtFdTJNemwzUGVYbm8wUzBXVmpkMFA5QkE4ekxTSUo2Q0c?oc=5",
-      "publishedAt": "2026-09-01T21:00:01.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPLW1LTVM2V2RqRlpFZUcyUHh0Vmk1VDBBNURvcmIybURpRW9lOHd5UUtabGpIZlc3OFdxbXNhMVM0VTJwWUkwcmtQWFExaF9lQTZOWUJOU2s5QmlacGZmYmlmWDY0MnE1YmxsUXA2R2Q0eTQ4aU02VXJ6MHFhMGNQak5nSGc5bTZEclgzQjBTRWMyYmtFdTJNemwzUGVYbm8wUzBXVmpkMFA5QkE4ekxTSUo2Q0c?oc=5\" target=\"_blank\">Bitcoin’s (XBT) Biggest Hoarders Are Becoming Buffett Wannabes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "Bitcoin-ის უმსხვილესი მფლობელები ბაფეტის მიმდევრები ხდებიან",
-      "summaryKa": "Bitcoin-ის უმსხვილესი მფლობელები ინვესტირებაში ბაფეტის სტილს მიჰყვებიან.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "44720cf3458ee0b0",
-      "title": "Star Bulk Carriers Chief Strategy Officer Sells 10,825 Shares",
-      "source": "Nasdaq",
-      "url": "https://www.nasdaq.com/articles/star-bulk-carriers-chief-strategy-officer-sells-10825-shares",
-      "publishedAt": "2026-09-01T21:00:01.000Z",
-      "description": "Key PointsThe transaction had a total value of approximately $313,384.",
-      "titleKa": "Star Bulk Carriers-ის სტრატეგიის მთავარი ოფიცერი 10,825 აქცია ყიდულობს",
-      "summaryKa": "Star Bulk Carriers-ის სტრატეგიის მთავარმა ოფიცერმა 10,825 აქცია გაყიდა.",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "29f96bc3ade20642",
-      "title": "What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZUM3aVhjaHpTTjRSeEJUallmOVFaNHB3MV95NktmTGRzQS1RbzF1X2swaGtFQUFLQjFFd2xFcS0xazctYnlnZTRGU0ptcFd4ekFHQUYzV2VDTW11NGJPLUhFVVItTVBUWDRIV0dBdXdlQWJ3WEZRSFo5clE0ZW5laUZPRGZkWFJPbVdVYXZDMFZ2OEtuTmJwTGY1dE92dw?oc=5",
-      "publishedAt": "2026-09-01T20:31:05.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZUM3aVhjaHpTTjRSeEJUallmOVFaNHB3MV95NktmTGRzQS1RbzF1X2swaGtFQUFLQjFFd2xFcS0xazctYnlnZTRGU0ptcFd4ekFHQUYzV2VDTW11NGJPLUhFVVItTVBUWDRIV0dBdXdlQWJ3WEZRSFo5clE0ZW5laUZPRGZkWFJPbVdVYXZDMFZ2OEtuTmJwTGY1dE92dw?oc=5\" target=\"_blank\">What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "titleKa": "რა არის 'წითელი სექტემბერი'? Bitcoin-ის ლეგენდა და რატომ უოლ სტრიტს აქვს იგივე ლეგენდა",
-      "summaryKa": "'წითელი სექტემბერი' Bitcoin-ის ლეგენდაა, რომელიც უოლ სტრიტსაც აქვს.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "b0fb333bfa2910c1",
