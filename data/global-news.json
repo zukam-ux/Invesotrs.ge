@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T16:22:12.919Z",
+  "updatedAt": "2026-10-03T19:30:17.407Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -55,7 +55,10 @@
       "titleKa": "Fortinet-მა 1000 დოლარი 10 წელიწადში 24,579 დოლარად გარდაქმნა, ხოლო S&P 500-მა 3585 დოლარი მიიღო.",
       "summaryKa": "Fortinet-მა 1000 დოლარი 10 წელიწადში 24,579 დოლარად გარდაქმნა.",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/fortinet-turned-1-000-24-154524913.html",
+      "bodyKa": "## შესავალი\nFortinet-მა 1000 დოლარი 10 წელიწადში 24,579 დოლარად გარდაქმნა, ხოლო S&P 500-მა 3585 დოლარი მიიღო. ეს ნიშნავს, რომ Fortinet-ის ინვესტიცია 10 წელიწადში 2358%-იანი მოგება მოიტანა, რაც ბევრად აღემატება S&P 500-ის 259%-იან მოგებას.\n\n## კომპანიის შესახებ\nFortinet (NASDAQ:FTNT) არის კომპანია, რომელიც კორპორაციულ ქსელებს იცავს. მისი მთავარი პროდუქტია FortiGate ცეცხლგამყოფი. ის კომპანიის სისტემებსა და ინტერნეტს შორის მდებარეობს, შემოსავლიან ტრაფიკს ამოწმებს და თავდასხმებს წყვეტს.\n\n## ფინანსური შედეგები\nFortinet-ის ფინანსური შედეგები ძალიან კარგია. კომპანიის შემოსავალი 2025 წელს 6.80 მილიარდ დოლარს გაუტოლდა, ხოლო თავისუფალი სახდელი ნაკადი 2.21 მილიარდ დოლარს შეადგინა. კომპანიის აქციები 63-ჯერ გაზრდილ შემოსავალს განიცდის.\n\n## პერსპექტივა\nFortinet-ის მომავალი პერსპექტივა დადებითია. კომპანიის პროდუქტები და მომსახურებები განვითარებადი ინდუსტრიაში მუშაობს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "b73b07abbe270aea",
