@@ -1,8 +1,56 @@
 {
-  "updatedAt": "2026-10-03T01:15:08.718Z",
+  "updatedAt": "2026-10-03T06:36:35.394Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "e3a4c4977c6d280e",
+      "title": "If I Could Only Buy 1 Space Stock for the Next Decade, It Wouldn't Be SpaceX or Rocket Lab",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/if-i-could-only-buy-1-space-stock-next-decade-it-wouldnt-be-spacex-or-rocket-lab",
+      "publishedAt": "2026-10-03T06:25:00.000Z",
+      "description": "Key PointsSpaceX and Rocket Lab are growing quickly but trade at steep valuations.",
+      "titleKa": "თუ მხოლოდ ერთ კოსმოსურ აქციას შევძლებდი შემდეგი ათწლეულის განმავლობაში ყიდვა, ეს SpaceX ან Rocket Lab არ იქნებოდა",
+      "summaryKa": "კოსმოსურ აქციებში ინვესტიცია შესაძლოა გასაგები იყოს ინვესტორებისთვის, რომლებიც საკუთარ პორტფელში გრძელვადიან ინვესტიციებს ახდენენ",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d7ad7a637b30a6ae",
+      "title": "Meta Platforms Stock Rose 25% in September. Is It Still a Buy in October?",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/meta-platforms-stock-rose-25-september-it-still-buy-october",
+      "publishedAt": "2026-10-03T05:47:00.000Z",
+      "description": "Key PointsStrong user interest in the new Muse agentic AI tool was viewed as a major bullish catalyst for Meta Platforms.",
+      "titleKa": "Meta Platforms-ის აქციები 25%-ით გაიზარდა სექტემბერში. გაიყიდება თუ არა ოქტომბერში",
+      "summaryKa": "Meta Platforms-ის აქციების ფასი სექტემბერში 25%-ით გაიზარდა",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "54584af311937561",
+      "title": "Why Is Nike Stock Crashing, and Is It a Generational Buying Opportunity?",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/why-nike-stock-crashing-and-it-generational-buying-opportunity",
+      "publishedAt": "2026-10-03T05:46:11.000Z",
+      "description": "Nike (NYSE: NKE) tells investors that things will get worse before they get better.",
+      "titleKa": "რატომ დაეცა Nike-ის აქციები და არის თუ არა ეს საყიდვლად ხელსაყრელი შესაძლებლობა",
+      "summaryKa": "Nike-ის აქციები დაეცა, რაც შესაძლოა ინვესტორებისთვის საინტერესო იყოს",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9469f240cc98248b",
+      "title": "IBM Stock: Buy, Hold, or Sell?",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/ibm-stock-buy-hold-or-sell",
+      "publishedAt": "2026-10-03T05:44:56.000Z",
+      "description": "Management reiterated revenue targets for the current fiscal year.",
+      "titleKa": "IBM-ის აქციები: ყიდვა, შენარჩუნება თუ გაყიდვა",
+      "summaryKa": "IBM-ის აქციების შესახებ ინვესტორებს სხვადასხვა შეფასებები აქვთ",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "d1fef1e30e09bf68",
       "title": "Why AMD Stock Jumped 30% in September",
