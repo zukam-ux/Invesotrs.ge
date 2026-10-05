@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T22:00:10.274Z",
+  "updatedAt": "2026-10-05T00:58:11.772Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -145,7 +145,10 @@
       "titleKa": "2030 წლამდე დატა ცენტრებზე გაწეული ხარჯების 3 ტრილიონ დოლარამდე გაზრდასთან დაკავშირებული 3 აქცია",
       "summaryKa": "ინვესტორებს საუკეთესო აქციების შერჩევა სჭირდებათ, რომლებიც დატა ცენტრებზე გაწეულ ხარჯებთან არიან დაკავშირებული.",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/3-no-brainer-stocks-buy-012000729.html",
+      "bodyKa": "## შესავალი\nნვიდია (NASDAQ: NVDA) ვარაუდობს, რომ ხელოვნური ინტელექტის ხარჯები 2030 წლამდე 3 ტრილიონ დოლარამდე გაიზრდება.\n\n## ნვიდიას საშუალება\nნვიდია არის ბაზარის ლიდერი ხელოვნური ინტელექტის გამრავლების ერთეულებში. მეორე კვარტალში, კომპანიამ 96 მილიარდ დოლარის შემოსავალი მიიღო, რომლის უმეტესობა დატა ცენტრების პროდუქტებიდან მოდიოდა.\n\n## სხვა აქციები\nნვიდიას გარდა, ტაივანის ნახევარგამტარი (NYSE: TSM) და მაიკრონი (NASDAQ: MU) ასევე შესაძლოა დიდ მოგებას მიაღწიონ, თუ დატა ცენტრებზე გაწეული ხარჯები 3 ტრილიონ დოლარამდე გაიზრდება.\n\n## დასკვნა\nნვიდია, ტაივანის ნახევარგამტარი და მაიკრონი არიან იმ კომპანიები, რომლებიც დატა ცენტრებზე გაწეულ ხარჯებთან არიან დაკავშირებული და შესაძლოა დიდ მოგებას მიაღწიონ, თუ ეს ხარჯები 3 ტრილიონ დოლარამდე გაიზრდება.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "459aba343973bce6",
@@ -4622,30 +4625,6 @@
       "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/nasdaq-bought-ai-due-diligence-224457617.html",
       "bodyKa": "## შესავალი\nNasdaq-მა AI დილიჯენსის პლატფორმა Dasseti შეიძინა, რაც მას საშუალებას აძლევს, გააფართოვოს თავისი სერვისები ინვესტორებისთვის. ამავდროულად, ICE-მ კერძო კრედიტის ინტელექტი ააშენა, რაც მას საშუალებას აძლევს, გააფართოვოს თავისი სერვისები კრედიტის ბაზარზე.\n\n## ნასდაქის შესაძლებლობები\nNasdaq-ის შესაძლებლობები მდებარეობს მის ქსელში, რომელიც მოიცავს 17,000-ზე მეტ მენეჯერს და გენერალ პარტნიორს, რომლებიც მართავენ $34 ტრილიონზე მეტ აქტივებს. ამასთან, Nasdaq-ის პლატფორმა eVestment 4,800 აქტივ მენეჯერს და 1,200 ალოკატორს და ინტერმედიატორს ემსახურება, რომლებიც წარმოადგენენ $90 ტრილიონზე მეტ აქტივებს.\n\n## ისი-ის შესაძლებლობები\nICE-ის შესაძლებლობები მდებარეობს მის საკუთარ კრედიტის ინტელექტში, რომელიც იყენებს AI-ს და ადამიან ანალიტიკოსებს კერძო კრედიტის ბაზარზე მონაცემების მოსაპოვებლად. ეს ბაზარი, რომლის შეფასება $40 ტრილიონად ხდება, საშუალებას აძლევს ICE-ს, გააფართოვოს თავისი სერვისები კრედიტის ბაზარზე.\n\n## დასკვნა\nNasdaq-ის და ICE-ის შესაძლებლობები განსხვავდება, მაგრამ ისინი ერთმანეთის დამატებას წარმოადგენენ. Nasdaq-ის ქსელი და ICE-ის კრედიტის ინტელექტი ერთად შეიძლება გამოყენებულ იქნას ინვესტორების საჭიროებების დასაკმაყოფილებლად.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
-    },
-    {
-      "id": "0a9d8f0e575bba1b",
-      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
-      "publishedAt": "2026-09-04T22:41:04.000Z",
-      "description": "The stock market fell this week before bouncing. Nvidia, Micron, Sandisk are new buys, but for how long? Apple, inflation data loom.",
-      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები: Nvidia, Micron, Sandisk-ის ყიდვის სიგნალები; Apple-ისა და ინფლაციის შესახებ ანგარიშები მოახლოებულია",
-      "summaryKa": "Nvidia, Micron და Sandisk-ის აქციები ყიდვის სიგნალებს აჩვენებს, ხოლო Apple-ისა და ინფლაციის შესახებ ანგარიშები მოახლოებულია.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "8f39e408c7357546",
-      "title": "Bloom Energy, Illumina, Everpure Rise On S&P 500 Inclusion",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/m/a172d11c-bb7d-3468-ab6f-7a26545bd4d8/bloom-energy%2C-illumina%2C.html?.tsrc=rss",
-      "publishedAt": "2026-09-04T22:39:06.000Z",
-      "description": "AI energy play Bloom Energy will be added to the S&P 500 index on Sept. 21. Illumina and Everpure also will join. The three stocks rose.",
-      "titleKa": "Bloom Energy, Illumina, Everpure-ის აქციები S&P 500-ში შესვლის შემდეგ გაიზარდა",
-      "summaryKa": "Bloom Energy, Illumina და Everpure-ის აქციები S&P 500-ში შესვლის შემდეგ გაიზარდა.",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "40f221c17666f109",
