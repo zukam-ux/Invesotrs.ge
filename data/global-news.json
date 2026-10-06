@@ -1,8 +1,62 @@
 {
-  "updatedAt": "2026-10-06T02:32:14.112Z",
+  "updatedAt": "2026-10-06T09:29:06.796Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "d35d7dacfc97fb4b",
+      "title": "The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks.",
+      "source": "MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeWlMb0RUSDFWNWRyeE5JUHYtWjAzVUlOMHBaTzNMdmI0NlNfUmlpWDFfbFdEdDFVNDdWYWtmcnZLdFAzeV80TzMzYjU5SEo4LUlIS1BjUUV6Mm5VX0lFODVNNlJjVUlCdDg2b2ZyRHNUYzNTd3ZKNENBSFBLT1NCUTdKdjVnOWxtb3l1LVVFNTFpTlBVVTBOTnpUSlFJbGRpM0dyWTNmX1NPeEprRlc5aW11LWR6VVBOUjFvU0NrTHY4bEFhWmVxb2wzbmFTeWJXeDF0bW9JYWdSYThZbUVRd3ZvMXZfZw?oc=5",
+      "publishedAt": "2026-10-06T09:20:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeWlMb0RUSDFWNWRyeE5JUHYtWjAzVUlOMHBaTzNMdmI0NlNfUmlpWDFfbFdEdDFVNDdWYWtmcnZLdFAzeV80TzMzYjU5SEo4LUlIS1BjUUV6Mm5VX0lFODVNNlJjVUlCdDg2b2ZyRHNUYzNTd3ZKNENBSFBLT1NCUTdKdjVnOWxtb3l1LVVFNTFpTlBVVTBOTnpUSlFJbGRpM0dyWTNmX1NPeEprRlc5aW11LWR6VVBOUjFvU0NrTHY4bEFhWmVxb2wzbmFTeWJXeDF0bW9JYWdSYThZbUVRd3ZvMXZfZw?oc=5\" target=\"_blank\">The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "titleKa": "S&P 500 საფონდო ინდექსი საპროცენტო განაკვეთის ხაოსს და ვიწრო სიღრმეს განიცდის. გოლდმან საქსის ერთ-ერთი ინსაიდერი მაინც აქციების მიმართ პოზიტიურადაა განწყობილი",
+      "summaryKa": "გოლდმან საქსის ერთ-ერთი ინსაიდერი აქციების მიმართ პოზიტიურადაა განწყობილი",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9d8e77f310afa4ad",
+      "title": "INTC, AMD, MU, SNDK, SOXX: Chips, Memory Stocks Slip Premarket After Sharp October Rally",
+      "source": "Yahoo Finance",
+      "url": "https://stocktwits.com/news-articles/markets/equity/intc-amd-mu-sndk-soxx-chips-memory-stocks-slip-premarket-after-sharp-october-rally/cZDszSQRBkj?.tsrc=rss",
+      "publishedAt": "2026-10-06T09:12:51.000Z",
+      "description": "Nokia CEO Justin Hotard said customers would build data centers roughly twice as fast if supply constraints were removed – a bullish signal for AI infrastructure firms.",
+      "titleKa": "INTC, AMD, MU, SNDK, SOXX-ის მიკროჩიპები და მეხსიერების აქციები ოქტომბრის მართლწლიან რალის შემდეგ პრემარკეტზე ეცემა",
+      "summaryKa": "მიკროჩიპებისა და მეხსიერების აქციები პრემარკეტზე ეცემა",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://stocktwits.com/news-articles/markets/equity/intc-amd-mu-sndk-soxx-chips-memory-stocks-slip-premarket-after-sharp-october-rally/cZDszSQRBkj?.tsrc=rss",
+      "bodyKa": "## შესავალი\nოქტომბრის მართლწლიან რალის შემდეგ, მიკროჩიპებისა და მეხსიერების აქციები პრემარკეტზე ეცემა. Intel (INTC), AMD (AMD), Micron (MU), SanDisk (SNDK) და iShares Semiconductor ETF (SOXX) 0.1%-დან 0.7%-მდე დაეცა პრემარკეტზე, ხოლო Nvidia (NVDA) 0.7%-ით გაიზარდა.\n\n## მიკროჩიპების ბაზარი\nმიკროჩიპების ბაზარი გამოსავლიანი იყო ოქტომბერში, მაგრამ ახლა იგი უკან იხევს. \n\n## როზენბლატის შეფასება\nRosenblatt-მა Micron-ის აქციების შეფასება 1,900-მდე გაზარდა, რაც გამოწვეულია იმით, რომ Micron-მა კარგი ფინანსური შედეგები აჩვენა.\n\n## დასკვნა\nNokia-ს გენერალური დირექტორი აცხადებს, რომ AI ინფრასტრუქტურის მოთხოვნა ძლიერია, ხოლო მეხსიერება და ენერგია მთავარი შეზღუდვებია.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "9357df42a0ffefa8",
+      "title": "If I Could Only Buy One AI Stock Before 2027, It Would Be This One",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/10/06/if-i-could-only-buy-one-ai-stock-before-2027-it-wo/?.tsrc=rss",
+      "publishedAt": "2026-10-06T09:10:00.000Z",
+      "description": "This stock is a great choice for cautious and aggressive investors.",
+      "titleKa": "2027 წლამდე თუ მხოლოდ ერთ აი აქციას შევძენებინებდი, ეს იქნებოდა",
+      "summaryKa": "ავტორი 2027 წლამდე ერთ აი აქციას შეიძენს",
+      "category": "AI",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.fool.com/investing/2026/10/06/if-i-could-only-buy-one-ai-stock-before-2027-it-wo/?.tsrc=rss",
+      "bodyKa": "2027 წლამდე თუ მხოლოდ ერთ აი აქციას შევძენებინებდი, ეს იქნებოდა ## შესავალი ინვესტორები ბოლო წლებში სწრაფად შევიდნენ ხელოვნური ინტელექტის (აი) აქციებში, რადგან მათ აი-ს ტექნოლოგიაში მომავალი დიდი რამ დაინახეს. აი არის საინტერესო, რადგან ის კომპანიებს საშუალებას აძლევს პროცესების სტრიმლაინინგში, ხარჯების შემცირებაში, უკეთეს გადაწყვეტილებებში და მეტის გაკეთებაში. ## აი-ს ბაზარი ამ წელს, აი-ს აქციები ზოგიერთ საფრთხეს შეხვდნენ, მათ შორის აი-ინფრასტრუქტურის ხარჯების ტემპის შესახებ შეშფოთებებს და ზოგად ეკონომიკურ შეშფოთებებს. ეს ზოგიერთი კომპანიის შედეგებზე აისახა. მიუხედავად ამისა, მთლიანი ინდუსტრია და S&P 500 მაინც იზრდებოდა, ხოლო აი-პროდუქტებისა და მომსახურების მოთხოვნა მაღალი რჩებოდა. ანალიტიკოსები ვარაუდობენ, რომ აი-ბაზარი რამდენიმე წელიწადში ტრილიონობით დოლარამდე გაიზრდება. ## ამაზონი - ლიდერი აი-ბაზარზე თუ 2027 წლამდე მხოლოდ ერთ აი-აქციას შევძენებინებდი, ეს იქნებოდა ამაზონი (AMZN). ამაზონი არის ლიდერი ორ სწრაფად მზარდ ბაზარზე - ელექტრონულ კომერციასა და ღრუბელი კომპიუტინგში. კომპანიას აქვს დამყარებული ფინანსური შედეგების ზრდის ისტორია. ამაზონის ელექტრონული კომერციის ბიზნესს აქვს სანდოოები, მათ შორის ფართო ფულფილმენტის ქსელი, ფართო Prime საბსკრიფციო პროგრამა და ბრენდის სიმამდებითობა. ამაზონი აი-ჩიპებსა და პლატფორმებს ვითარდება და სთავაზობს ღრუბელი სერვისების ბიზნესის (AWS) საშუალებით. AWS-ის ყოველწლიური შემოსავლის ტემპი ბოლოს 169 მილიარდ დოლარს მიაღწია. ამაზონის მეთვალყურე ანდი ჯესი ამბობს, რომ AWS-ის შემოსავალი ტრილიონ დოლარამდე გაიზრდება, რადგან უფრო მეტი ბიზნესი ღრუბელში გადადის.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "dd88d4b84f5689f1",
+      "title": "Is VOO Still the Best S&P 500 ETF You Can Own? Here's How It Stacks Up Against the Alternatives.",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/10/06/is-voo-still-the-best-sp-500-etf-you-can-own-heres/?.tsrc=rss",
+      "publishedAt": "2026-10-06T09:04:00.000Z",
+      "description": "Warren Buffett once recommended Vanguard's low-cost S&P 500 index funds. But would the \"Oracle of Omaha\" choose another ETF today?",
+      "titleKa": "VOO კიდევ საუკეთესო S&P 500 ETF-ია, რომელსაც შეგიძლიათ ფლობდეთ? ალტერნატივებთან შედარება",
+      "summaryKa": "VOO-ს შედარება სხვა ალტერნატივებთან ხდება",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "fbfdf05747aed364",
       "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
