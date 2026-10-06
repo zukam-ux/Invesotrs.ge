@@ -1,8 +1,47 @@
 {
-  "updatedAt": "2026-10-06T09:29:06.796Z",
+  "updatedAt": "2026-10-06T16:20:11.685Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "0b8590a883f5faef",
+      "title": "Prediction: This Is Where the S&P 500 Will Finish 2026",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/10/06/prediction-this-is-where-the-s-and-p-500-will-finish-2026/?.tsrc=rss",
+      "publishedAt": "2026-10-06T16:10:02.000Z",
+      "description": "Multiple factors could weigh down the markets in the latter months of the year, including rising interest rates, midterm elections, and the war in Iran.",
+      "titleKa": "პროგნოზი: S&P 500-ის 2026 წლის შედეგები",
+      "summaryKa": "საფონდო ბაზარზე 2026 წლის შესახებ პროგნოზი გამოქვეყნდა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d28da260608c1d28",
+      "title": "3 Reasons to Sell COMP and 1 Stock to Buy Instead",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-comp-1-160834472.html?.tsrc=rss",
+      "publishedAt": "2026-10-06T16:08:34.000Z",
+      "description": "Compass has had an impressive run over the past six months as its shares have beaten the S&P 500 by 20.2%. The stock now trades at $9.31, marking a 37% gain. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their next move.",
+      "titleKa": "3 მიზეზი, რატომ უნდა გაყიდოთ COMP და 1 აქცია, რომელიც მის ნაცვლად უნდა შეიძინოთ",
+      "summaryKa": "COMP-ის გაყიდვის მიზეზები და ალტერნატიული აქციები განხილულია.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-comp-1-160834472.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nCOMP-ის აქციები ბოლო 6 თვის განმავლობაში საკმაოდ კარგად განვითარდა, რაც მათ საშუალება მისცა S&P 500-ის 20.2%-იან ზრდას გადასწრეს. ამჟამად, COMP-ის აქციები $9.31-ად იყიდება, რაც 37%-იან ზრდას წარმოადგენს.\n\n## ფინანსური შედეგები\nCOMP-ის ფინანსური შედეგები ბოლო 5 წლის განმავლობაში 14%-იანი წლიური ზრდის ტემპით ხასიათდება. თუმცა, ეს ზრდა საკმაოდ დაბალია მომსახურების სექტორში, რომელიც სეკულარული ტენდენციებით ხასიათდება.\n\n## შემოსავალი და მოგება\nCOMP-ის ოპერაციული მარჯა ბოლო 12 თვის განმავლობაში შემცირდა და ბოლო 2 წლის განმავლობაში საშუალოდ -2%-იან მოგებას აღწევს. ამასთან, კომპანიის თავისუფალი ხარჯების მარჯა ბოლო 2 წლის განმავლობაში 1.6%-ს შეადგენს.\n\n## დასკვნა\nზემოთ ხსენებული ფაქტორების გამო, COMP-ის აქციების გაყიდვა შესაძლოა გამართლებული იყოს. ამის ნაცვლად, შესაძლოა სხვა აქციების შეძენა, რომლებიც უფრო პერსპექტიული ფინანსური შედეგებით ხასიათდებიან.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "c214ea5a9988d426",
+      "title": "Stocks climb as oil prices retreat under $100 per barrel",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mixed-despite-tech-023928058.html?.tsrc=rss",
+      "publishedAt": "2026-10-06T16:01:42.000Z",
+      "description": "Stock markets firmed Tuesday as oil prices retreated on easing supply worries, helping to temper concerns about rising government borrowing costs.That has pushed government bond yields up to levels not seen in decades, heightening worries about ballooning debt.",
+      "titleKa": "აქციები იზრდება, რადგან ნავთის ფასი 100 დოლარზე ნაკლებია",
+      "summaryKa": "აქციების ფონდი იზრდება, რაც გამოწვეულია ნავთის ფასების დაქვეითებით.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "d35d7dacfc97fb4b",
       "title": "The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks.",
