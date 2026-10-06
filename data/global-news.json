@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T16:20:11.685Z",
+  "updatedAt": "2026-10-06T21:04:50.399Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -13,7 +13,10 @@
       "titleKa": "პროგნოზი: S&P 500-ის 2026 წლის შედეგები",
       "summaryKa": "საფონდო ბაზარზე 2026 წლის შესახებ პროგნოზი გამოქვეყნდა.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.fool.com/investing/2026/10/06/prediction-this-is-where-the-s-and-p-500-will-finish-2026/?.tsrc=rss",
+      "bodyKa": "## შესავალი\nსაფონდო ბაზარზე 2026 წლის შესახებ პროგნოზი გამოქვეყნდა. S&P 500-ის ინდექსი წელს 14%-ზე მეტით გაიზარდა და ამჟამად წელიწადში 10%-ზე მეტი მოგების ტემპით იზრდება.\n\n## პროგნოზის დეტალები\nპროგნოზის მიხედვით, S&P 500-ის ინდექსი 2026 წლის ბოლოს 7,500-ზე დაბლა დასრულდება. ეს მაინც 10%-იანი მოგება იქნება 2025 წლის შედეგებთან შედარებით, როდესაც ინდექსი 6,845-ზე დასრულდა.\n\n## შესაძლო ფაქტორები\nპროგნოზის მიხედვით, რამდენიმე ფაქტორი შეიძლება გავლენა მოახდინოს S&P 500-ის ინდექსზე. ეს ფაქტორები მოიცავს საპროცენტო განაკვეთის ზრდას, შუალედურ არჩევნებს და ირანში მიმდინარე ომს. ეს ფაქტორები შეიძლება გავლენა მოახდინოს ინფლაციაზე და საპროცენტო განაკვეთის ზრდაზე.\n\n## ინვესტორებისთვის შენიშვნები\nინვესტორებმა უნდა გაითვალისწინონ თავიანთი პორტფელის შეფასება. ზოგიერთ შემთხვევაში, ინვესტორები შეიძლება განიხილონ თავიანთი ინვესტიციების გადატანა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "d28da260608c1d28",
