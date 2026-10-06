@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T22:42:41.400Z",
+  "updatedAt": "2026-10-06T02:32:14.112Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -58,7 +58,10 @@
       "titleKa": "Nasdaq 100 რეკორდულ მაჩვენებლებს აღწევს, ინვესტორები ზემატებადი სესხის განაკვეთების ზეწოლას არ აღიარებენ — NVDA, SPCX, CRML, TSLA, QCOM ფოკუსში",
       "summaryKa": "Nasdaq 100-მა რეკორდულ მაჩვენებლებს მიაღწია, რადგან ინვესტორები ზემატებადი სესხის განაკვეთების ზეწოლას არ აღიარებენ.",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-hits-record-highs-220932490.html",
+      "bodyKa": "## საფონდო ბაზარის მიმოხილვა\nNasdaq 100-მა რეკორდულ მაჩვენებლებს მიაღწია, რადგან ინვესტორები ზემატებადი სესხის განაკვეთების ზეწოლას არ აღიარებენ. ამერიკული საფონდო ბაზარი აღმავალ ტენდენციას აგრძელებს, რაც გამოწვეულია ტექნოლოგიურ სექტორში მნიშვნელოვანი ზრდით.\n\n## ტექნოლოგიური სექტორის ზრდა\nტექნოლოგიურ სექტორში შემავალი კომპანიების, როგორიცაა Nvidia (NVDA), SpaceX (SPCX), Critical Metals (CRML), Tesla (TSLA) და Qualcomm (QCOM), აქციები ზრდას განაგრძობენ. ეს ზრდა გამოწვეულია ინვესტორების ინტერესით ტექნოლოგიურ სექტორში. S&P 500 0.7%-ით, Nasdaq 100 0.9%-ით, ხოლო Dow Jones Industrial Average 0.2%-ით გაიზარდა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "a3cc5c8b191d2318",
