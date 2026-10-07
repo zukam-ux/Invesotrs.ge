@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-10-07T14:00:25.394Z",
+  "updatedAt": "2026-10-07T19:59:59.065Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "3521492cb8920e76",
+      "title": "Update: US Equity Indexes Fall After Strong Treasury Auction, Tightening Lean in Fed's September Minutes",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-fall-strong-195348550.html?.tsrc=rss",
+      "publishedAt": "2026-10-07T19:53:48.000Z",
+      "description": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
+      "titleKa": "ამერიკის აქციების ინდექსები დაეცა მეტი განაკვეთის შემდეგ",
+      "summaryKa": "ამერიკის აქციების ინდექსები დაეცა მას შემდეგ, რაც გამოვლინდა ფედერალური რეზერვის სექტემბერში გამართული შეხვედრის შედეგები.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "5a6b4881da96f4c8",
+      "title": "Sector Update: Energy Stocks Softer Late Afternoon",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-softer-afternoon-195339332.html?.tsrc=rss",
+      "publishedAt": "2026-10-07T19:53:39.000Z",
+      "description": "Energy stocks were lower late Wednesday afternoon, with the NYSE Energy Sector Index down 0.4% and t",
+      "titleKa": "ენერგეტიკული სექტორის აქციები დაეცა დღის მიწურულს",
+      "summaryKa": "ენერგეტიკული სექტორის აქციები დაეცა დღის მიწურულს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "70e0a608580b8b62",
+      "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+      "publishedAt": "2026-10-07T19:35:00.000Z",
+      "description": "September’s rate hike was viewed by many officials as needed just in case inflation remains sticky.",
+      "titleKa": "ფედერალური რეზერვის შეხვედრის შედეგები აჩვენებს, რომ არ არის საპროცენტო განაკვეთის ზრდის გეგმა",
+      "summaryKa": "ფედერალური რეზერვის შეხვედრის შედეგები აჩვენებს, რომ არ არის საპროცენტო განაკვეთის ზრდის გეგმა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "a83fefb2937e384a",
       "title": "This part of the bond market offers compelling yields with minimal risk",
