@@ -1,8 +1,59 @@
 {
-  "updatedAt": "2026-10-07T00:44:40.287Z",
+  "updatedAt": "2026-10-07T14:00:25.394Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "a83fefb2937e384a",
+      "title": "This part of the bond market offers compelling yields with minimal risk",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-part-of-the-bond-market-offers-compelling-yields-with-minimal-risk-1e7ef2ed?mod=mw_rss_topstories",
+      "publishedAt": "2026-10-07T13:53:00.000Z",
+      "description": "You can earn good yields with very low price risk in ultrashort bond funds.",
+      "titleKa": "ობლიგაციების ბაზარის ერთ-ერთ სექტორში მინიმალური რისკით შესაძლებელია მოგების მიღება",
+      "summaryKa": "ობლიგაციების გარკვეულ სექტორში მინიმალური რისკის პირობებში შესაძლებელია მოგების მიღება.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "e3b13da798d2ea41",
+      "title": "Stocks slide as oil climbs on Mideast flareup",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/oil-rises-stocks-fall-hormuz-023838273.html?.tsrc=rss",
+      "publishedAt": "2026-10-07T13:51:51.000Z",
+      "description": "Oil prices rose Wednesday on fresh concerns about Middle East supplies following a warning that Iran appeared to be stepping up attacks in the Strait of Hormuz, weighing on stock markets.However US Secretary of State Marco Rubio said Wednesday that Iran has \"lost complete control\" of the Strait of Hormuz.",
+      "titleKa": "აქციების ღირებულება ეცემა, ნავთობის ფასი კი ახლო აღმოსავლეთში გამართული მოვლენების გამო იზრდება",
+      "summaryKa": "ახლო აღმოსავლეთში მომხდარი მოვლენების გამო ნავთობის ფასი იზრდება, ამასთან ერთად აქციების ღირებულება ეცემა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/energy/articles/oil-rises-stocks-fall-hormuz-023838273.html?.tsrc=rss",
+      "bodyKa": "## ახლო აღმოსავლეთში მომხდარი მოვლენების გავლენა საფონდო ბაზარზე\nახლო აღმოსავლეთში მომხდარი მოვლენების გამო ნავთობის ფასი იზრდება, რაც საფონდო ბაზარზე აქციების ღირებულების დაცემას იწვევს. ეს გამოწვეულია ირანის მიერ სტრატეგიულ წყლებში თავდასხმების გაზრდით.\n\n## ნავთობის ფასი და მისი გავლენა ეკონომიკაზე\nნავთობის ფასი 100 დოლარზე მეტია ბარელზე, რაც ინფლაციის რისკებს ზრდის. აშშ-ის სახელმწიფო მდივანმა განაცხადა, რომ ირანმა სტრატეგიულ წყლებში კონტროლი დაკარგა.\n\n## საფონდო ბაზრის რეაქცია\nსაფონდო ბაზარზე აქციების ღირებულების დაცემა გამოწვეულია ინვესტორების შეშფოთებით ინფლაციის და საპროცენტო განაკვეთების ზრდის გამო. ინდური აქციები დაეცა, ხოლო ინდური რუპია სტაბილური დარჩა ინდური ცენტრალური ბანკის მიერ საპროცენტო განაკვეთების გაზრდის შემდეგ.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "a86149d5f9713a22",
+      "title": "10-year Treasury yield hits highest level since 2002 as stocks retreat: AlphaCheck",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUm1HTXRneFZUZ0IxczF1Mk9KMU1abjBhdW9HSzJfdTB1RE9wZHJad3pQSWVoTlA2bHlobkNZNWg0am9pVFEyeklrQ1ZRZTliMGNjYjdUNjBQejFFZllYbTh2dEEyZEkyNTlOenpJNmxrb21OdEx3U19wdC1BN01DcUJPcmcyaFFjRHN6LXgtNHl4NWxYLWlHSkZzcHlIQ2MyT1NGM3JZczVsRUVYaFlMZXRzc213TE5UWTdJNHlObUwzSFhoTVQ3el9NTVVCM1l5YnQyMw?oc=5",
+      "publishedAt": "2026-10-07T13:46:21.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUm1HTXRneFZUZ0IxczF1Mk9KMU1abjBhdW9HSzJfdTB1RE9wZHJad3pQSWVoTlA2bHlobkNZNWg0am9pVFEyeklrQ1ZRZTliMGNjYjdUNjBQejFFZllYbTh2dEEyZEkyNTlOenpJNmxrb21OdEx3U19wdC1BN01DcUJPcmcyaFFjRHN6LXgtNHl4NWxYLWlHSkZzcHlIQ2MyT1NGM3JZczVsRUVYaFlMZXRzc213TE5UWTdJNHlObUwzSFhoTVQ3el9NTVVCM1l5YnQyMw?oc=5\" target=\"_blank\">10-year Treasury yield hits highest level since 2002 as stocks retreat: AlphaCheck</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "10-წლიანი სახაზინო ობლიგაციების სარგებელი 2002 წლის შემდეგ ყველაზე მაღალ დონეს მიაღწია, აქციები კი ეცემა",
+      "summaryKa": "10-წლიანი სახაზინო ობლიგაციების სარგებელი 2002 წლის შემდეგ ყველაზე მაღალ დონეს მიაღწია და ამასთან ერთად აქციები იკლებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b3b7badf9590ecbe",
+      "title": "Robinhood Markets Adds $25 Million Of Bitcoin To Its Balance Sheet",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWURTcVNSTC1lZXlJQURuN3VDc3JiNFJVZ09jMFJWSzZHV01qRjBsQ3lTZ3YwS0hsd2ZzTEhEbG53Q1FQQ1l4YWlJRnVmaTVpZ0R3RUlOUHlDUnVSemdFN3FQejQxa3FtZVBIbmw0a0dsbnE2dEl6aXpmQWhKTm1INnllZi1iVDZMREQ2U3VPVmh4MVR1YWFEcWVNekhla0k?oc=5",
+      "publishedAt": "2026-10-07T13:46:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQWURTcVNSTC1lZXlJQURuN3VDc3JiNFJVZ09jMFJWSzZHV01qRjBsQ3lTZ3YwS0hsd2ZzTEhEbG53Q1FQQ1l4YWlJRnVmaTVpZ0R3RUlOUHlDUnVSemdFN3FQejQxa3FtZVBIbmw0a0dsbnE2dEl6aXpmQWhKTm1INnllZi1iVDZMREQ2U3VPVmh4MVR1YWFEcWVNekhla0k?oc=5\" target=\"_blank\">Robinhood Markets Adds $25 Million Of Bitcoin To Its Balance Sheet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Robinhood Markets-მა თავის ბალანსში 25 მილიონი დოლარის ღირებულების ბიტკოინი დაამატა",
+      "summaryKa": "Robinhood Markets-მა თავის ბალანსში 25 მილიონი დოლარის ღირებულების ბიტკოინი დაამატა.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "c87ad5c7b7fc314e",
       "title": "Dow Jones Futures: S&P 500 Hits High As Astera, GE Vernova, Arista Lead Buys, But These Stocks Tumble",
@@ -4561,30 +4612,6 @@
       "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
-      "id": "0686b9c03f4b8684",
-      "title": "War-Tested Oil Traders Descend on Singapore as Fresh Risks Loom",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZzFSbGZqRVRJZ1A1SDc1UDdiOXNFYnE5UkdkNzQyMFdsVE1wdGZLOXh0aG04Y05fbWlUM2pTZ1pWaWxoemx3TWc1YnFaSGVXdjNJU1M4OUtRWHBjZy1yN29IVU5YY3oxODl5WE9LaGpuMUgyck5YVmhmZjFtWkYtd0pJOU1FdHJMRDhsZ3phZkxadzNYS3VtRHc0QTJneEJkejB1cXlqeTdpVjY3VDNzc3p3UkY?oc=5",
-      "publishedAt": "2026-09-07T05:37:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZzFSbGZqRVRJZ1A1SDc1UDdiOXNFYnE5UkdkNzQyMFdsVE1wdGZLOXh0aG04Y05fbWlUM2pTZ1pWaWxoemx3TWc1YnFaSGVXdjNJU1M4OUtRWHBjZy1yN29IVU5YY3oxODl5WE9LaGpuMUgyck5YVmhmZjFtWkYtd0pJOU1FdHJMRDhsZ3phZkxadzNYS3VtRHc0QTJneEJkejB1cXlqeTdpVjY3VDNzc3p3UkY?oc=5\" target=\"_blank\">War-Tested Oil Traders Descend on Singapore as Fresh Risks Loom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ომის გამოცდილი ნავთობის ვაჭრები სინგაპურში ჩამოდიან, რადგან ახალი რისკები მიუახლოვდება",
-      "summaryKa": "სინგაპურში ომის გამოცდილი ნავთობის ვაჭრები ჩამოვიდნენ, რადგან ახალი რისკები მიუახლოვდება.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "e8e6158ccb7136a1",
-      "title": "Why Is The Crypto Market Down Today?",
-      "source": "Yahoo Finance",
-      "url": "https://beincrypto.com/why-is-the-crypto-market-down-today/?.tsrc=rss",
-      "publishedAt": "2026-09-07T05:30:07.000Z",
-      "description": "The crypto market is down 0.73% with no Monday open to settle it, and Fed hike odds are climbing nine days out.",
-      "titleKa": "რატომ დაეცა კრიპტოვალუტის ბაზარი დღეს?",
-      "summaryKa": "კრიპტოვალუტის ბაზარი დღეს დაეცა.",
-      "category": "კრიპტო",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "6b7e10bb5f31cc22",
       "title": "Here's How Long the Average S&P 500 Bull Market Lasts, According to History. Should Investors Be Nervous?",
       "source": "Yahoo Finance",
@@ -4598,30 +4625,6 @@
       "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/heres-long-average-p-500-052000351.html",
       "bodyKa": "## შესავალი\nS&P 500-ის საშუალო ბულის ბაზარი ისტორიის მიხედვით 2.7 წელს გრძელდება. 2022 წლის 12 ოქტომბრიდან დაწყებული, ახლანდელი ბულის ბაზარი თითქმის ოთხი წელია.\n\n## ისტორიული მაჩვენებლები\nეს მაჩვენებელი მიღებულია მუტუალური ფონდის კომპანია Hartford-ის მიერ, 1928 წლიდან 27 ბულის ბაზრის საფუძვლეზე. 1949 წლიდან, Fisher Investments-ის მიხედვით, ტიპიური ბულის ბაზარი ხუთ წელზე მეტ ხანს გრძელდება, რაც შეესაბამება Charles Schwab-ის მიერ მიღებულ მაჩვენებლებს. Raymond James-მა ეს მაჩვენებელი 51 თვემდე, ანუ ოთხ წელსა და სამ თვემდე შეაფასა.\n\n## ინვესტორების შეშფოთება\nამ მაჩვენებლების მიხედვით, ბულის ბაზარი ჯერ კიდევ გარკვეულ ხანს გაგრძელდება. თუმცა, არც ერთი ბულის ბაზარი იდენტური არ არის. მათი ეკონომიკური საფუძვლები ყოველთვის განსხვავებულია და იცვლება. ინვესტორებს არ უნდა შეშფოთდნენ, არამედ უნდა იყვნენ ფართოდ გახსნილები და ელოდონ წითელ დროშებს, მიუხედავად კალენდარული მაჩვენებლებისა.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
-    },
-    {
-      "id": "58d022484ab6dc61",
-      "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures-fall-with.html?.tsrc=rss",
-      "publishedAt": "2026-09-07T00:51:52.000Z",
-      "description": "Dow Jones futures: The U.S. and Iran exchanged attacks. Nvidia, Micron, Sandisk are buys, but for how long? Apple, inflation data loom.",
-      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები ეცემა ირანის, Apple-ის, ინფლაციის გამო",
-      "summaryKa": "ირანის, Apple-ის და ინფლაციის გამო Dow Jones-ის მომავალი კონტრაქტები ეცემა",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "6769fbd70bd7902b",
-      "title": "Japanese Stocks Advance as Tech, Chip Shares Follow US Peers",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONXllZlJsbkl2STE2TFNiWEpiUGhWQ2g2NS03WjFwVV9BbDBHRXpWR3NVMVBNd21ONDV4V09LME02Qk9BRmNmaE8wSFNZM1EyV2lkYXpWV1NERURNLU5ROU9BdXZWbVVVd0pwRFJZXzk2VWJWTDhjTXUzSWRiX1dsSVFxZHRPZWdiRkY3aXM0b2ZhS2J3LXNndEthQ3psSVB5STBCSXFDZlBjdlBWTlM4?oc=5",
-      "publishedAt": "2026-09-07T00:48:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxONXllZlJsbkl2STE2TFNiWEpiUGhWQ2g2NS03WjFwVV9BbDBHRXpWR3NVMVBNd21ONDV4V09LME02Qk9BRmNmaE8wSFNZM1EyV2lkYXpWV1NERURNLU5ROU9BdXZWbVVVd0pwRFJZXzk2VWJWTDhjTXUzSWRiX1dsSVFxZHRPZWdiRkY3aXM0b2ZhS2J3LXNndEthQ3psSVB5STBCSXFDZlBjdlBWTlM4?oc=5\" target=\"_blank\">Japanese Stocks Advance as Tech, Chip Shares Follow US Peers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "იაპონური აქციები ტექნოლოგიებისა და ჩიპების აქციების ზრდის ფონზე იზრდება",
-      "summaryKa": "იაპონური აქციები ზრდას განაგრძობს, რაც ამერიკული ანალოგების მსგავსია.",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "37f9403121fbee47",
