@@ -1,8 +1,47 @@
 {
-  "updatedAt": "2026-10-08T00:14:11.838Z",
+  "updatedAt": "2026-10-08T06:11:25.125Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "48d10580c430df01",
+      "title": "Pakistan Says Middle East Oil Shock Is Accelerating EV Shift",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd1ZLU2NkYlNWZGFQdVZwVnN6ajFMY1UyTVNhU1l1UWNMZlV6U2gwckVDSVNlZE8wQUQtTGFEVlkzT2FLaVVuV18yb05Wd3BVenJtR2dKMU9DQUY5N2k4WjFraHh4enBnRE9SWEFWQlQtVHgtRDktTzE5dU5rQWtOMzNTc0E5b2JSbzVNSlJKT0ZIX19DaTNvd1JFQlptVDZoczBYcmJKQW9vdEhGQUNJeg?oc=5",
+      "publishedAt": "2026-10-08T05:35:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPd1ZLU2NkYlNWZGFQdVZwVnN6ajFMY1UyTVNhU1l1UWNMZlV6U2gwckVDSVNlZE8wQUQtTGFEVlkzT2FLaVVuV18yb05Wd3BVenJtR2dKMU9DQUY5N2k4WjFraHh4enBnRE9SWEFWQlQtVHgtRDktTzE5dU5rQWtOMzNTc0E5b2JSbzVNSlJKT0ZIX19DaTNvd1JFQlptVDZoczBYcmJKQW9vdEhGQUNJeg?oc=5\" target=\"_blank\">Pakistan Says Middle East Oil Shock Is Accelerating EV Shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "პაკისტანის თვითმფრინავების სამრეწველო სექტორი აცხადებს, რომ ნავთობის ფასების მატება აჩქარებს ელექტრო მანქანებზე გადასვლას",
+      "summaryKa": "პაკისტანი აცხადებს, რომ ნავთობის ფასების მატება აჩქარებს ელექტრო მანქანებზე გადასვლას.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "4f244e75e65e9153",
+      "title": "European Shares Seen Lower At Open",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/european-shares-seen-lower-open",
+      "publishedAt": "2026-10-08T05:34:15.000Z",
+      "description": "(RTTNews) - European stocks may drift lower at open on Thursday, with technology stocks likely to be in focus after the Wall Street Journal reported that SpaceX, Broadcom and Oracle were looking to raise money to buy AI chips, leaving investors worried about whether the expected",
+      "titleKa": "ევროპული აქციები შესაძლოა დახურვისას დაბალ დონეზე იყოს",
+      "summaryKa": "ევროპული აქციები შესაძლოა დახურვისას დაბალ დონეზე იყოს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "d7d09c7187649f4d",
+      "title": "Mizuho Leasing Company (TSE:8425) Following Recent Weakness Looks Cheap On Earnings And Cash Flow",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWNldHYzbUxKMVNuN190VmtEd1dlQUNtem1zTTF3a2l6Q09WZ0ttZDNyd2RFeldOT0xXZmdELXU5SGhEeDE0bXYwZEo0OHMtM0QzQ244Rm5VSVFWMXpGMzhHTzdVenZiQ2JoMks4LXFEN2JYTm9oVEJWYmRiU2tKZEJwV1RHUDlwUTZPNmpsY1FKQ3ZBeTNFNzlIMEY?oc=5",
+      "publishedAt": "2026-10-08T05:17:52.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWNldHYzbUxKMVNuN190VmtEd1dlQUNtem1zTTF3a2l6Q09WZ0ttZDNyd2RFeldOT0xXZmdELXU5SGhEeDE0bXYwZEo0OHMtM0QzQ244Rm5VSVFWMXpGMzhHTzdVenZiQ2JoMks4LXFEN2JYTm9oVEJWYmRiU2tKZEJwV1RHUDlwUTZPNmpsY1FKQ3ZBeTNFNzlIMEY?oc=5\" target=\"_blank\">Mizuho Leasing Company (TSE:8425) Following Recent Weakness Looks Cheap On Earnings And Cash Flow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "Mizuho Leasing Company-ის აქციები შესაძლოა იყოს პატივსაცემი ფინანსური შედეგებისა და თანხის ნაკადის გათვალისწინებით",
+      "summaryKa": "Mizuho Leasing Company-ის აქციები შესაძლოა იყოს პატივსაცემი ფინანსური შედეგებისა და თანხის ნაკადის გათვალისწინებით.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/mizuho-leasing-company-tse-8425-051752848.html",
+      "bodyKa": "## შესავალი\nMizuho Leasing Company-ის (TSE:8425) აქციები ბოლო დროს შესუსტდა, რაც ინვესტორებს აინტერესებს. კომპანიის აქციები ბოლო თვეში 5.09%-ით და წელიწადში 10.13%-ით შემცირდა.\n\n## ფინანსური შედეგები\nMizuho Leasing Company-ის 1-წლიანი სააქციონერო შემოსავალი 1.82%-ს შეადგენს, ხოლო 3 და 5 წლის განმავლობაში კომპანიამ ძლიერი შემოსავალი აჩვენა. კომპანიის აქციების შეფასება 7.1x-ია, რაც ინდუსტრიის საშუალო 13.8x-ზე და მეტოქეების 13.2x-ზე დაბალია.\n\n## განვითარების პერსპექტივა\nMizuho Leasing Company-ის აქციები შესაძლოა იყოს პატივსაცემი ფინანსური შედეგებისა და თანხის ნაკადის გათვალისწინებით. კომპანიის აქციების ფასი შესაძლოა იყოს ზედაპირზე დაბალი.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "09d24c27336b7abf",
       "title": "Earnings Calendar for:",
@@ -4510,18 +4549,6 @@
       "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
-      "id": "745bb93ded013d6f",
-      "title": "High-Speed Trader AlphaGrep Turns to Bonds After India Bank Curb",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0dtQkxDaHJfc3NRSnBCeDVzeDNiSmJnQUlfMDBEVXZ6VXdYdjhLOGQxcXp6aTF6ODFOTXVSX2F0OTJuMEEzVWRYX3Q4SWxkUm5rdGs5T0dEWl83RkIzYlFPNFhaN3pnVWJyY085ZW9la2Mtb0dZdFphcmp0Y0t1UGpYd3ZHNC1uZDk0aXFiVmx3dklRcG05bFlVemJFN0U4LWhJZTNoU2dIWVJMbFhsY3h6SllUUQ?oc=5",
-      "publishedAt": "2026-09-08T05:59:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0dtQkxDaHJfc3NRSnBCeDVzeDNiSmJnQUlfMDBEVXZ6VXdYdjhLOGQxcXp6aTF6ODFOTXVSX2F0OTJuMEEzVWRYX3Q4SWxkUm5rdGs5T0dEWl83RkIzYlFPNFhaN3pnVWJyY085ZW9la2Mtb0dZdFphcmp0Y0t1UGpYd3ZHNC1uZDk0aXFiVmx3dklRcG05bFlVemJFN0U4LWhJZTNoU2dIWVJMbFhsY3h6SllUUQ?oc=5\" target=\"_blank\">High-Speed Trader AlphaGrep Turns to Bonds After India Bank Curb</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "AlphaGrep ინდივიდუალურ ბანკებზე შეზღუდვების გამო ინდოეთში ობლიგაციებზე გადადის",
-      "summaryKa": "კომპანია AlphaGrep ინდოეთში ბანკებზე შეზღუდვების გამო ობლიგაციებზე გადადის",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
       "id": "dd41d71e5830361b",
       "title": "Asian shares and US futures are mixed, while oil prices creep higher",
       "source": "Yahoo Finance",
@@ -4550,18 +4577,6 @@
       "sourceUrl": "https://www.nasdaq.com/articles/why-sentinelone-stock-crushed-it-august",
       "bodyKa": "## შესავალი\nSentinelOne-ის აქციები აგვისტოს თვეში 16%-იანი ზრდა დაფიქსირდა. ეს ზრდა გამოწვეული იყო კომპანიის ფინანსური შედეგების გამოქვეყნებით, რომელიც მნიშვნელოვან ზრდას აჩვენებდა მთავარ ფინანსურ მაჩვენებლებში.\n\n## ფინანსური შედეგები\nSentinelOne-მა აგვისტოს დასაწყისში გამოაქვეყნა რამდენიმე მნიშვნელოვანი განცხადება, მათ შორის იყო Wayfinder Frontier AI Services-ის ექსპანსიის შესახებ. ამ ექსპანსიის ფარგლებში, კომპანიამ ახალი პარტნიორი გაიჩინა და რამდენიმე ახალი შესაძლებლობა დაამატა პლატფორმას.\n\n## ანალიტიკოსების შეფასება\nაგვისტოს ბოლოს, SentinelOne-მა გამოაქვეყნა მეორე კვარტალის ფინანსური შედეგები, რომელიც 21%-იანი ზრდას აჩვენებდა შემოსავალში, 291 მილიონ დოლარამდე, ხოლო მოგება 28.5 მილიონ დოლარამდე, 0.08 დოლარამდე ერთ აქციაზე. ამ შედეგებმა ანალიტიკოსები თავდაპირველად იმედგაცრუეს, თუმცა მოგვიანებით ისინი უკვე უფრო დადებითად შეფასებდნენ კომპანიის მომავალს.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
-    },
-    {
-      "id": "87445d615fdb8237",
-      "title": "Invest in Realty Income stock to earn $100 in monthly dividends",
-      "source": "Yahoo Finance",
-      "url": "https://www.thestreet.com/investing/stocks/how-much-invest-realty-income-stock-100-monthly-dividends?.tsrc=rss",
-      "publishedAt": "2026-09-08T01:03:00.000Z",
-      "description": "Here’s how many shares and how much cash you need.",
-      "titleKa": "Realty Income-ის აქციებში ინვესტირება ყოველთვიური 100 დოლარის ოდენობის დივიდენდების მისაღებად",
-      "summaryKa": "Realty Income-ის აქციებში ინვესტირება ყოველთვიური 100 დოლარის ოდენობის დივიდენდების მისაღებად შეიძლება.",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "ad6401e0cc8580e1",
