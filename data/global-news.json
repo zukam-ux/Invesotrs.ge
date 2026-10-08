@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-10-08T13:36:29.077Z",
+  "updatedAt": "2026-10-08T19:32:25.918Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "93a13c2597dd3951",
+      "title": "Stocks making big moves yesterday: Champion Homes, Strategy, Penguin Solutions, Cognex, and FuelCell Energy",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-192009437.html?.tsrc=rss",
+      "publishedAt": "2026-10-08T19:20:09.000Z",
+      "description": "Check out the companies making headlines yesterday:",
+      "titleKa": "ჩემპიონ ჰომსი, სტრატეგია, პენგვინ სოლუშენსი, კოგნექსი და ფიუელსელ ენერჯი - აქციები, რომლებიც განსაკუთრებით აქტიურები იყვნენ გასულ დღეს",
+      "summaryKa": "გასულ დღეს ზოგიერთი კომპანიის აქციები აქტიურად იცვლებოდა საფონდო ბაზარზე.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-192009437.html?.tsrc=rss",
+      "bodyKa": "## შესავალი\nგასულ დღეს საფონდო ბაზარზე ზოგიერთი კომპანიის აქციები აქტიურად იცვლებოდა. ეს ცვლილებები სხვადასხვა ფაქტორებზე იყო დამოკიდებული, მათ შორის ინვესტორთა გახარბულობაზე, ფედერალური რეზერვის შეხვედრის შედეგებზე და საერთაშორისო ბაზარზე მიმდინარე პროცესებზე.\n\n## კომპანიების შესახებ\nChampion Homes (NYSE:SKY), მოდულური სახლებისა და შენობების მწარმოებელი კომპანია, 6.2%-ით დაეცა გასულ დღეს, რაც გამოწვეული იყო ტრეზურის განაკვეთების ზრდითა და ნავთობის ფასების ზრდით. Strategy (NASDAQ:MSTR), ბიტკოინის განვითარების კომპანია, 6.5%-ით დაეცა, რაც გამოწვეული იყო ბიტკოინის ფასის დაცემით $84,000-ზე დაბლა.\n\n## სხვა კომპანიები\nPenguin Solutions (NASDAQ:PENG), ნახევარგამტარების მწარმოებელი კომპანია, 3.7%-ით გაიზარდა, რაც გამოწვეული იყო მესამე კვარტალის ფინანსური შედეგების გამოქვეყნებით და ფისკალური 2027 წლის პროგნოზის გაუმჯობესებით. Cognex (NASDAQ:CGNX), მანქანათა ხედვის ტექნოლოგიების კომპანია, 7.5%-ით დაეცა, რაც გამოწვეული იყო ტრეზურის განაკვეთების ზრდითა და ნავთობის ფასების ზრდით. FuelCell Energy (NASDAQ:FCEL), ნახშირმჟავა ტიპის საწვავი ელემენტების ტექნოლოგიების განვითარების კომპანია, 14.5%-ით დაეცა, რაც გამოწვეული იყო კომპანიის აღმასრულებელი ვიცე-პრეზიდენტის, ფინანსური დირექტორისა და გამცვლელის თანამდებობიდან გადადგომის გამოცხადებით.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "46aefd00075ab646",
+      "title": "Stock Market Today: Nasdaq Slumps Amid Tech Rout; This Medical Name Pops (Live Coverage)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/f5f905f3-66e0-3046-82a7-5848434b422a/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "publishedAt": "2026-10-08T19:19:07.000Z",
+      "description": "The Dow Jones index declines Thursday after Trump's latest Iran comments. Treasury yields and oil prices surge.",
+      "titleKa": "დღევანდელი საფონდო ბაზრის მიმოხილვა: ნასდაქი ეცემა ტექნოლოგიურ სფეროში მიმდინარე ცვლილებების ფონზე",
+      "summaryKa": "საფონდო ბაზარზე დღეს ტექნოლოგიურ სფეროში მიმდინარე ცვლილებების გამო ნასდაქის ინდექსი ეცემა.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b94c4920fa9dca50",
+      "title": "Some Popular ETF Tax Strategies Dodge Government’s Curbs",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQk8ta1UzY0IybS05YXJRVDRCNkJHWVF4RW5zdHFqZ3BlTlAxeDE4N0QxSFBDV25pLTBvTElyMXVoY3dWbk8wa3ZZdkJSMVlEd2tfcjhTZ0FaTkRfY09iNl9aNkVwck1DMVVjbzlCQW0xYjJpbS00d2VnU0xjcnU1eHdWdk8wdUNoeVF4QU93QnJNNFJIeEkzVHY3enNaV18wR3NjM1RJbTd5NGJXWVNkSTU0OFRIdUwtX0JDUkZUY1pyUkRkMHFWb2NDSzcydw?oc=5",
+      "publishedAt": "2026-10-08T19:12:22.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPQk8ta1UzY0IybS05YXJRVDRCNkJHWVF4RW5zdHFqZ3BlTlAxeDE4N0QxSFBDV25pLTBvTElyMXVoY3dWbk8wa3ZZdkJSMVlEd2tfcjhTZ0FaTkRfY09iNl9aNkVwck1DMVVjbzlCQW0xYjJpbS00d2VnU0xjcnU1eHdWdk8wdUNoeVF4QU93QnJNNFJIeEkzVHY3enNaV18wR3NjM1RJbTd5NGJXWVNkSTU0OFRIdUwtX0JDUkZUY1pyUkRkMHFWb2NDSzcydw?oc=5\" target=\"_blank\">Some Popular ETF Tax Strategies Dodge Government’s Curbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "პოპულარული ETF-ის გადასახადი სტრატეგიები გარკვეულ შემთხვევებში თავის დაცვას ახერხებს მთავრობის შეზღუდვებისგან",
+      "summaryKa": "ზოგიერთი პოპულარული ETF-ის სტრატეგია მთავრობის მიერ დაწესებული შეზღუდვების გარშემო გასვლას ახერხებს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-10-08/treasury-s-tax-warning-leaves-key-etf-maneuvers-untouched?srnd=phx-latinamerica",
+      "bodyKa": "## შესავალი\nამერიკის განსახიზმული ფონდების (ETF) ბაზარი ბევრი ინვესტორისთვის პოპულარული არჩევანია. ეს ნაწილობრივ განპირობებულია იმით, რომ ETF-ები საშუალებას აძლევენ ინვესტორებს, რომ მათ შეძლონ დივერსიფიცირებული პორტფელის შექმნა სხვადასხვა აქციების, ობლიგაციების და სხვა ფინანსური ინსტრუმენტების შეძენით.\n\n## ETF-ის საგადასახადო სტრატეგიები\nზოგიერთი პოპულარული ETF-ის სტრატეგია მთავრობის მიერ დაწესებული შეზღუდვების გარშემო გასვლას ახერხებს. \n\n## დასკვნა\nზოგიერთი პოპულარული ETF-ის საგადასახადო სტრატეგიები შესაძლოა იყოს ეფექტიანი ინვესტორებისთვის, რომლებიც ცდილობენ თავიანთი საგადასახადო ბრუნვის შემცირებას.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "29cc8e12acaa458a",
       "title": "როგორ მივიღოთ რეალური ღირებულება AI ინვესტიციებიდან",
