@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T13:22:22.418Z",
+  "updatedAt": "2026-10-09T19:02:30.860Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
@@ -70,7 +70,10 @@
       "titleKa": "ამჟამინდელი S&P 500-ის ბულის ბაზარი ოთხ წელს შეასრულებს და ისტორია მეტი ზრდის შესაძლოა იუწყება",
       "summaryKa": "S&P 500-ის ბულის ბაზარი ოთხი წლის ასაკს აღწევს და ისტორიული მონაცემები მიუთითებენ, რომ მეტი ზრდა შესაძლოა მოსდეს",
       "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/current-p-500-bull-market-053200440.html",
+      "bodyKa": "## შესავალი\nS&P 500-ის ბულის ბაზარი ოთხი წლის ასაკს აღწევს და ისტორიული მონაცემები მიუთითებენ, რომ მეტი ზრდა შესაძლოა მოსდეს. ამ ბულის ბაზარი 2022 წლის ოქტომბრიდან დაიწყო და დღეს 119%-ით არის გაზრდილი.\n\n## ისტორიული მონაცემები\nწარსულში, როდესაც S&P 500-ის ბულის ბაზარი ოთხი წლის ასაკს აღწევდა, იგი ხშირად გრძელდებოდა. 1957 წლის ბულის ბაზარი იყო ყველაზე მოკლე, რომელიც დაახლოებით შვიდი კვირის შემდეგ დასრულდა. 1982 და 2002 წლის ბულის ბაზარები ხუთი წლის ასაკამდე მივიდნენ.\n\n## მოსალოდნელი მოვლენები\nმომავალში, შესაძლოა ბულის ბაზარი გაგრძელდეს. ინვესტორებმა, ვინც 2006 წლის ოქტომბერში ინვესტიცია განახორციელეს, მათ 2002 წლის ბულის ბაზარის დასასრულს დაესწრნენ და 2009 წლის მარტში მათი ინვესტიცია 50%-ით შემცირდა.\n\n## დასკვნა\nS&P 500-ის ბულის ბაზარი ოთხი წლის ასაკს აღწევს და ისტორიული მონაცემები მიუთითებენ, რომ მეტი ზრდა შესაძლოა მოსდეს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "1c7c05dae4b1253a",
