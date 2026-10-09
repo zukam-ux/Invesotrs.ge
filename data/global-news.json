@@ -1,8 +1,47 @@
 {
-  "updatedAt": "2026-10-08T19:32:25.918Z",
+  "updatedAt": "2026-10-09T00:00:22.769Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "30c5f74c97528a00",
+      "title": "Dow Jones Futures: AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss",
+      "publishedAt": "2026-10-08T23:31:04.000Z",
+      "description": "AI stocks sold off on OpenAI but much of the market was fine. Apple flashed a buy signal. A SpaceX spectrum buy hit Verizon, AT&T and T-Mobile late.",
+      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები: AI-აქციები ეცემა OpenAI-ის ცნობის ფონზე",
+      "summaryKa": "AI-აქციები ეცემა OpenAI-ის ცნობის გამოქვეყნების შემდეგ",
+      "category": "ტექნოლოგიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "66535d953bcc62d7",
+      "title": "Prediction: This Will Happen to Intel Stock in 2027",
+      "source": "Yahoo Finance",
+      "url": "https://www.fool.com/investing/2026/10/08/prediction-this-will-happen-to-intel-stock-in-2027/?.tsrc=rss",
+      "publishedAt": "2026-10-08T23:27:00.000Z",
+      "description": "Intel stock has rallied as the market has re-evaluated its growing foundry capabilities. Now, it will have to deliver.",
+      "titleKa": "პროგნოზი: 2027 წელს Intel-ის აქციების მდგომარეობა",
+      "summaryKa": "2027 წელს Intel-ის აქციების შესახებ პროგნოზი გამოქვეყნდა",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://www.fool.com/investing/2026/10/08/prediction-this-will-happen-to-intel-stock-in-2027/?.tsrc=rss",
+      "bodyKa": "## შესავალი\n2027 წელს Intel-ის აქციების შესახებ პროგნოზი გამოქვეყნდა. Intel-მა 2026 წელს 200%-იანი ზრდა გამოავლინა, რამაც იგი S&P 500-ის ტოპ 10 საუკეთესო შემოსავლიან კომპანიათა სიაში შეიყვანა.\n\n## კომპანიის მდგომარეობა\nIntel არის ერთ-ერთი იმ კომპანიებიდან, რომელიც თავად აწარმოებს ჩიპებს, მაგრამ წლების განმავლობაში მისი წარმოების ხარისხი და ტექნოლოგია ჩამორჩებოდა ლიდერ კომპანიებს. ამჟამად, Intel-ი წარმოებს 18A სერიის ჩიპებს, რომელიც 1.8-ნანომეტრიანი ჩიპებია და მსოფლიოში ერთ-ერთი ყველაზე ძლიერია.\n\n## 2027 წლის პროგნოზი\n2027 წელი Intel-ისთვის \"ჩვენს შესახებ რამე ჩვენების\" წელი იქნება. კომპანიას ახლა უკვე აქვს საჭირო ტექნოლოგია, მაგრამ მას უნდა დაადასტუროს, რომ ეს ტექნოლოგია ბიზნესისთვის რამე სარგებელს მოუტანს. შესაძლოა, Intel-ის აქციები 2027 წელს დაახლოებით $110 ერთ აქციად დარჩეს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "ddc3acd05347a902",
+      "title": "3 Pipeline Stocks With Yield Up To 5%",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/3-pipeline-stocks-yield-5-231746330.html?.tsrc=rss",
+      "publishedAt": "2026-10-08T23:17:46.000Z",
+      "description": "Oil has jumped about 4% after President Donald Trump ruled out a deal with Iran, and that move has pushed energy back to the center of the market conversation. Higher crude prices can increase the value of infrastructure that keeps barrels flowing, which is where United States midstream pipeline operators come in. This article highlights three of the most interesting stocks from that group and explains why they may merit a closer look now. The three midstream stocks below are only a starting...",
+      "titleKa": "3 კომპანია ობლიგაციებით 5%-მდე სარგებლით",
+      "summaryKa": "3 კომპანიას აქვს ობლიგაციები 5%-მდე სარგებლით",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "93a13c2597dd3951",
       "title": "Stocks making big moves yesterday: Champion Homes, Strategy, Penguin Solutions, Cognex, and FuelCell Energy",
@@ -4565,30 +4604,6 @@
       "sourceUrl": "https://www.nasdaq.com/articles/why-braze-stock-tumbled-over-5-tuesday",
       "bodyKa": "## შესავალი\nBraze-ის აქციები ორშაბათს 5%-ზე მეტით დაეცა, რაც გამოიწვია ინვესტორების შეშფოთებამ კომპანიის მომავალი პოტენციალის შესახებ. კომპანიამ გამოაქვეყნა თავისი მეორე კვარტალური ფინანსური შედეგები, რომელიც აჩვენებს, რომ შემოსავალი 26%-ით გაიზარდა და 227 მილიონ დოლარს მიაღწია.\n\n## ფინანსური შედეგები\nBraze-ის ფინანსური შედეგები აჩვენებს, რომ კომპანიის შემოსავალი 26%-ით გაიზარდა და 227 მილიონ დოლარს მიაღწია. ამასთან, კომპანიის სუფთა მოგება 26%-ით გაიზარდა და 21 მილიონ დოლარს მიაღწია.\n\n## ინვესტორების რეაქცია\nინვესტორები შეშფოთებული არიან Braze-ის მომავალი პოტენციალის შესახებ, რაც გამოიწვია კომპანიის აქციების ფასის 5%-ზე მეტი დაცემა.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
-    },
-    {
-      "id": "274a3111abb53f0d",
-      "title": "Malaysia Stock Market May Test Support At 1,700 Points",
-      "source": "Nasdaq",
-      "url": "https://www.nasdaq.com/articles/malaysia-stock-market-may-test-support-1700-points-0",
-      "publishedAt": "2026-09-08T23:33:36.000Z",
-      "description": "(RTTNews) - The Malaysia stock market has finished lower in two of three trading days since the end of the two-day winning streak in which it had collected almost 15 points or 0.9 percent. The Kuala Lumpur Composite Index now sits just shy of the 1,715-point plateau and the losse",
-      "titleKa": "მალაიზიის საფონდო ბაზარი 1700 პუნქტზე მხარდაჭერის გამოცდას შეიძლება განიცდის",
-      "summaryKa": "მალაიზიის საფონდო ბაზარი 1700 პუნქტზე მხარდაჭერის გამოცდას შეიძლება განიცდის.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "3eef208991882cda",
-      "title": "1 S&P 500 Stock with Exciting Potential and 2 We Ignore",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-exciting-232718587.html?.tsrc=rss",
-      "publishedAt": "2026-09-08T23:27:18.000Z",
-      "description": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
-      "titleKa": "1 S&P 500-ის აქცია საინტერესო პოტენციალით და 2 აქცია, რომლებსაც ვერ ვაიგნორებთ",
-      "summaryKa": "Yahoo Finance-ზე გამოქვეყნებული სტატიაში S&P 500-ის 1 აქციაა მოხსენიებული, რომელსაც აქვს საინტერესო პოტენციალი და 2 აქცია, რომლებსაც ვერ ვაიგნორებთ",
-      "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "eae4007134504afc",
