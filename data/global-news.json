@@ -1,8 +1,71 @@
 {
-  "updatedAt": "2026-10-09T00:00:22.769Z",
+  "updatedAt": "2026-10-09T06:13:48.631Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "46c512f19d87eb59",
+      "title": "3 Stocks Poised to Gain as Google Brings Its AI Chips to Market",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUhlYzdQTGRmbGU2eEpkWng4c3hYd0tBR0VZQXlhVS1CT1MxRFhMM2NqOTJabVIyM1J4ckJvRW1YZmduQ0ZBNTNwRW1CaWxNUTVlTW0xckV4dVdDNWIyVkRNRFJQS2M2c0dHaFNwblg2ci1ja2VuV2E4dGJlTUNTV0FQa0dFWlhOYmhXU1Z6SzBadW9qdlE?oc=5",
+      "publishedAt": "2026-10-09T05:57:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUhlYzdQTGRmbGU2eEpkWng4c3hYd0tBR0VZQXlhVS1CT1MxRFhMM2NqOTJabVIyM1J4ckJvRW1YZmduQ0ZBNTNwRW1CaWxNUTVlTW0xckV4dVdDNWIyVkRNRFJQS2M2c0dHaFNwblg2ci1ja2VuV2E4dGJlTUNTV0FQa0dFWlhOYmhXU1Z6SzBadW9qdlE?oc=5\" target=\"_blank\">3 Stocks Poised to Gain as Google Brings Its AI Chips to Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "3 აქცია, რომელიც შეიძლება გაიზარდოს, რადგან Google საბაზროზე აი-ჩიპებს აწვდის",
+      "summaryKa": "Google-ის AI-ჩიპების გამოტანა ზოგიერთი აქციის ზრდას შეიძლება გამოიწვიოს",
+      "category": "ტექნოლოგიები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/3-stocks-poised-gain-google-055700929.html",
+      "bodyKa": "## შესავალი\nGoogle-ის AI-ჩიპების გამოტანა ზოგიერთი აქციის ზრდას შეიძლება გამოიწვიოს. Alphabet-ი (NASDAQ: GOOG) (NASDAQ: GOOGL) არ მხოლოდ საკუთარი კლაუდ პლატფორმისთვის აწარმოებს AI-ჩიპებს, არამედ სხვა ტექნოლოგიურ კომპანიებსაც ყიდის.\n\n## აქციები, რომელიც შეიძლება გაიზარდოს\nBroadcom (NASDAQ: AVGO) არის Google-ის წამყვანი პარტნიორი მისი Tensor Processing Units (TPU)-ების განვითარებაში. კომპანიამ 48%-იანი შემოსავლის ზრდა დააფიქსირა 2026 წლის მეორე კვარტალში. Marvell Technology (NASDAQ: MRVL) ასევე პარტნიორობას აწარმოებს Google-თან კასტომური ჩიპების განვითარებაში. ამ პარტნიორობამ კომპანიის შემოსავალს 37%-ით გაზარდა 2027 წლის მეორე კვარტალში.\n\n## საფონდო ბაზარის გავლენა\nTaiwan Semiconductor (NYSE: TSM) არის მსოფლიოში უმსხვილესი ჩიპების მწარმოებელი. კომპანიამ 36%-იანი შემოსავლის ზრდა დააფიქსირა 2026 წლის მეორე კვარტალში. ეს კომპანიები შეიძლება ისარგებლონ გუგლის AI-ჩიპების გამოტანით.\n\n## დასკვნა\nგუგლის AI-ჩიპების გამოტანა შეიძლება ზოგიერთი აქციის ზრდას გამოიწვიოს. Broadcom, Marvell Technology და Taiwan Semiconductor-ის აქციები შეიძლება გაიზარდოს ამ ტენდენციის გამო.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "054194da9cf72e81",
+      "title": "European Shares Seen Higher As Yields Tick Down",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/european-shares-seen-higher-yields-tick-down",
+      "publishedAt": "2026-10-09T05:35:38.000Z",
+      "description": "(RTTNews) - European stocks are seen opening higher on Friday despite overnight losses on Wall Street. U.S. stock futures ticked higher after the Nasdaq posted its biggest single-day loss since mid-August on fresh concerns over the sustainability of the AI spending boom.",
+      "titleKa": "ევროპული აქციები შესაძლოა გაიზარდოს, რადგან სესხების სარგებელი ეცემა",
+      "summaryKa": "ევროპულ ბაზარზე აქციების ზრდა შესაძლოა იმით გამოწვეული იყოს, რომ სესხების სარგებელი მცირდება",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "9e6aef0c0645b351",
+      "title": "Are SaaS Stocks Making A Comeback? Autodesk, Intuit Outperform In Tough Week For Tech",
+      "source": "Yahoo Finance",
+      "url": "https://stocktwits.com/news-articles/markets/equity/are-saa-s-stocks-making-a-comeback-autodesk-intuit-outperform-in-tough-week-for-tech/cZD6WT3RBVl?.tsrc=rss",
+      "publishedAt": "2026-10-09T05:32:27.000Z",
+      "description": "Tech stocks broadly declined this week as escalating tensions over the Iran war fueled fresh uncertainty across financial markets.",
+      "titleKa": "SaaS აქციები შესაძლოა აღდგებოდეს, Autodesk და Intuit კარგად გამოდიან ტექნოლოგიების რთულ კვირაში",
+      "summaryKa": "Autodesk და Intuit SaaS აქციების აღდგენის შესაძლო მაგალითები არიან, რადგან ისინი ტექნოლოგიების სფეროში მეტად კარგად გამოდიან",
+      "category": "ტექნოლოგიები",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "b3f67f9437bf66d1",
+      "title": "Current S&P 500 Bull Market Turns 4 Monday and History Suggests More to Come",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDlOTm1XT1E4TUdkaDBMNHZETnNzWmROMm84WnNXdFlmbXJrTFZTbERZLWZiZWNIbW80MUFrajY5dm4yWmRhbUwtYS1LLUs2NmdlaGM3WEZlSGhkTVRjWmhxRndkUXJCaTdwUWNDc0pwenY4U2gyQ3ZIblRJZFM0cXZTX29jTW5BLTU3REF6V3k2VFZy?oc=5",
+      "publishedAt": "2026-10-09T05:32:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDlOTm1XT1E4TUdkaDBMNHZETnNzWmROMm84WnNXdFlmbXJrTFZTbERZLWZiZWNIbW80MUFrajY5dm4yWmRhbUwtYS1LLUs2NmdlaGM3WEZlSGhkTVRjWmhxRndkUXJCaTdwUWNDc0pwenY4U2gyQ3ZIblRJZFM0cXZTX29jTW5BLTU3REF6V3k2VFZy?oc=5\" target=\"_blank\">Current S&P 500 Bull Market Turns 4 Monday and History Suggests More to Come</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "ამჟამინდელი S&P 500-ის ბულის ბაზარი ოთხ წელს შეასრულებს და ისტორია მეტი ზრდის შესაძლოა იუწყება",
+      "summaryKa": "S&P 500-ის ბულის ბაზარი ოთხი წლის ასაკს აღწევს და ისტორიული მონაცემები მიუთითებენ, რომ მეტი ზრდა შესაძლოა მოსდეს",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "1c7c05dae4b1253a",
+      "title": "Why Is The Crypto Market Up Today?",
+      "source": "Yahoo Finance",
+      "url": "https://beincrypto.com/why-is-the-crypto-market-up-today/?.tsrc=rss",
+      "publishedAt": "2026-10-09T05:17:35.000Z",
+      "description": "The crypto market bounces 2.6% off $2.69 trillion after an 8% slide. Yields, crude price and ETF outflows drove it. An Iran pledge eased it.",
+      "titleKa": "რატომ არის კრიპტო ბაზარი ამდენი აქტიური დღეს?",
+      "summaryKa": "კრიპტო ბაზარი ამდენი აქტიურია დღეს.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "30c5f74c97528a00",
       "title": "Dow Jones Futures: AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
@@ -4550,30 +4613,6 @@
       "sourceUrl": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-brent-crude-041827775.html?.tsrc=rss",
       "bodyKa": "## შესავალი\nაზიურ ბაზრებზე აქციები შერეული მიმართებით გამოირჩევიან, რადგან ბრენტის ნავთობი 100 დოლარს უახლოვდება. იაპონიის ბენჩმარკი Nikkei 225 65,249.95-ზე დარჩა, ხოლო სამხრეთ კორეის Kospi 1.2%-ით 7,041.10-მდე გაიზარდა.\n\n## ბაზრის მდგომარეობა\nჰონგ-კონგში, Hang Seng-მა 0.1%-ით 25,287.99-მდე დაიკლა, ხოლო შანხაის კომპოზიტურმა 0.2%-ით 3,949.89-მდე გაიზარდა. საფონდო ბაზარზე აქციების ფასები შერეული მიმართებით გამოირჩევიან, რაც ნავთობის ფასების ზრდასა და ინფლაციის შიშის გამოა.\n\n## ნავთობის ფასები\nბრენტის ნავთობის ფასი 1.4%-ით გაიზარდა და 99.30 დოლარს მიაღწია. ნავთობის ფასების ზრდა ინფლაციის შიშს აგრძელებს.\n\n## ინფლაცია და საპროცენტო განაკვეთი\nაშშ-ში ინფლაციის შესახებ ახალი ანგარიშგება შვიდშაბათს გამოვა, რომელიც ინფლაციის მაჩვენებელს 3.3%-მდე დაიწევს. ეს მაჩვენებელი ჯერ კიდევ 2%-ზე მაღალია, რაც ფედერალური რეზერვის მიზანია. ფედერალური რეზერვი შემდეგ კვირას შეხვდება, რათა გადაწყვიტოს, საპროცენტო განაკვეთი შეიცვალოს თუ არა.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
-    },
-    {
-      "id": "49f2f084c5cf1eca",
-      "title": "Oil Climbs After Report US Hit Targets Near Iran’s Kharg Island",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMTE2a29FUnp0SWE1SGF6MGFrSG16LXFJVjFhNFg5LVVxalNWLUF2eDkxMExMQm5nMTVtMnpYZnJSMnNxR0Rtb2ozbDRsOE9uTDRUaTlpcWJ3VDNYem91emdZVkpjenpEY1lnSlAxdVVWOWpyaktQTGZHWUtCdFBfUU9pdU9XWFhQREZZNU5OYjA0TWdyR2pIdDJuMDg0UQ?oc=5",
-      "publishedAt": "2026-09-09T04:16:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPMTE2a29FUnp0SWE1SGF6MGFrSG16LXFJVjFhNFg5LVVxalNWLUF2eDkxMExMQm5nMTVtMnpYZnJSMnNxR0Rtb2ozbDRsOE9uTDRUaTlpcWJ3VDNYem91emdZVkpjenpEY1lnSlAxdVVWOWpyaktQTGZHWUtCdFBfUU9pdU9XWFhQREZZNU5OYjA0TWdyR2pIdDJuMDg0UQ?oc=5\" target=\"_blank\">Oil Climbs After Report US Hit Targets Near Iran’s Kharg Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "titleKa": "ნავთობის ფასი გაიზარდა ირანის სანაპიროზე აშშ-ის სამხედრო შეტევის შესახებ ინფორმაციის გამოქვეყნების შემდეგ",
-      "summaryKa": "ნავთობის ფასი გაიზარდა",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "7328753d010bc22c",
-      "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures%3A-dow-skids.html?.tsrc=rss",
-      "publishedAt": "2026-09-09T00:03:07.000Z",
-      "description": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap.",
-      "titleKa": "Dow Jones-ის მომავალი კონტრაქტები: Dow-ის ვარდნა, მაგრამ AMD და HPE ახალი შენაძენებია; Apple-ის iPhone-ის ღონისძიება მოსალოდნელია",
-      "summaryKa": "Dow Jones-ის მომავალი კონტრაქტები დაეცა, მაგრამ AMD და HPE ახალი შენაძენები გახდნენ.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "a61753f57c54b486",
