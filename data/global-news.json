@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-10-09T06:13:48.631Z",
+  "updatedAt": "2026-10-09T13:22:22.418Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "086fda9df219d0c1",
+      "title": "Which Financial ETF is the Better Fit? Invesco KBW Bank ETF (KBWB) or iShares Regional Banks ETF (IAT)",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUFlQZjYtUWtVT01xYmpwT2pLRHhpbGFvOFRDWDRPYkRxRkhJQUI5MUprLVBRNU1WT2NBSjVRNE5ITUZlcEpVMXhFTUZBRDlfekNDWTFzSEVUNmxpbDlQcXM5WmpNOVNMZlJ6V0F5WEVfRDdzR1VzZHlvdWh3N2dScHIwcHpEVWVZZG13NE9pbXVsWmhMTjNFRGRMUEVGdw?oc=5",
+      "publishedAt": "2026-10-09T13:10:02.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUFlQZjYtUWtVT01xYmpwT2pLRHhpbGFvOFRDWDRPYkRxRkhJQUI5MUprLVBRNU1WT2NBSjVRNE5ITUZlcEpVMXhFTUZBRDlfekNDWTFzSEVUNmxpbDlQcXM5WmpNOVNMZlJ6V0F5WEVfRDdzR1VzZHlvdWh3N2dScHIwcHpEVWVZZG13NE9pbXVsWmhMTjNFRGRMUEVGdw?oc=5\" target=\"_blank\">Which Financial ETF is the Better Fit? Invesco KBW Bank ETF (KBWB) or iShares Regional Banks ETF (IAT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "titleKa": "რომელი ფინანსური ETF არის უკეთესი არჩევანი? Invesco KBW Bank ETF (KBWB) თუ iShares Regional Banks ETF (IAT)",
+      "summaryKa": "Invesco KBW Bank ETF (KBWB) და iShares Regional Banks ETF (IAT) ორი ფინანსური ETF-ია, რომელთა შორის არჩევანი გახდა საჭირო.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/financial-etf-better-fit-invesco-131002892.html",
+      "bodyKa": "რომელი ფინანსური ETF არის უკეთესი არჩევანი? Invesco KBW Bank ETF (KBWB) თუ iShares U.S. Regional Banks ETF (IAT)\n\n## შესავალი\nInvesco KBW Bank ETF (KBWB) და iShares U.S. Regional Banks ETF (IAT) ორი ფინანსური ETF-ია, რომელთა შორის არჩევანი გახდა საჭირო. ინვესტორები ხშირად ირჩევენ ფინანსურ სექტორში ინვესტირებას.\n\n## ფინანსური შედეგები\nInvesco KBW Bank ETF (KBWB) 0.35%-იანი ხარჯების განაკვეთით გამოირჩევა, ხოლო iShares U.S. Regional Banks ETF (IAT)-ს 0.38%-იანი ხარჯების განაკვეთი აქვს. Invesco KBW Bank ETF-ს მთლიანი აქტივები $6.2 მილიარდია, ხოლო iShares U.S. Regional Banks ETF-ს $0.6 მილიარდი.\n\n## ინვესტიცია და შემოსავალი\nInvesco KBW Bank ETF (KBWB) ფინანსურ სექტორზეა ორიენტირებული და 26 აქციას შეიცავს. მისი უმსხვილესი პოზიციებია JPMorgan Chase & Co (NYSE:JPM) 8.10%-ით, Wells Fargo & Co (NYSE:WFC) 8.08%-ით და Morgan Stanley (NYSE:MS) 7.74%-ით. iShares U.S. Regional Banks ETF (IAT) ფინანსურ სექტორზეა ორიენტირებული და 30 აქციას შეიცავს. მისი უმსხვილესი პოზიციებია U.S. Bancorp (NYSE:USB) 15.01%-ით, PNC Financial Services Group (NYSE:PNC) 14.77%-ით და Truist Financial (NYSE:TFC) 9.51%-ით.\n\n## დასკვნა\nInvesco KBW Bank ETF (KBWB) და iShares U.S. Regional Banks ETF (IAT) ორივე ფინანსური ETF-ია, მაგრამ ისინი განსხვავდებიან კონცენტრაციით და სპეციფიკური ბანკების ჩართვით. ინვესტორებმა უნდა გაითვალისწინონ ისეთი ფაქტორები, როგორიცაა ხარხების განაკვეთი, ისტორიული შედეგები და შემოსავლის პოტენციალი.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "46c512f19d87eb59",
       "title": "3 Stocks Poised to Gain as Google Brings Its AI Chips to Market",
@@ -40,7 +55,10 @@
       "titleKa": "SaaS აქციები შესაძლოა აღდგებოდეს, Autodesk და Intuit კარგად გამოდიან ტექნოლოგიების რთულ კვირაში",
       "summaryKa": "Autodesk და Intuit SaaS აქციების აღდგენის შესაძლო მაგალითები არიან, რადგან ისინი ტექნოლოგიების სფეროში მეტად კარგად გამოდიან",
       "category": "ტექნოლოგიები",
-      "translationNotice": "AI-assisted Georgian translation"
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://stocktwits.com/news-articles/markets/equity/are-saa-s-stocks-making-a-comeback-autodesk-intuit-outperform-in-tough-week-for-tech/cZD6WT3RBVl?.tsrc=rss",
+      "bodyKa": "## საფონდო ბაზარის მიმოხილვა\nბოლო დროს, SaaS აქციები შესაძლოა აღდგებოდეს, რასაც მოწმობს Autodesk და Intuit-ის წარმატება ტექნოლოგიების რთულ კვირაში. Autodesk-ის აქციები 10%-ით გაიზარდა, ხოლო Intuit-ის აქციები 8%-ით.\n\n## აქციების განვითარება\nAutodesk-ის აღმასვლას ხელი შეუწყო Schneider Electric-ის განცხადებამ, რომ ის 22.6 მილიარდ დოლარად შეიძინებს PTC-ს. ეს შეთანხმება 42.3%-იან პრემიას წარმოადგენს PTC-ის წინა დახურვის ფასთან შედარებით. ამასთან, Intuit-მა გამოაცხადა, რომ მენეჯმენტი საკუთარ თავში დარწმუნებულია კომპანიის ფუნდამენტურ ღირებულებაში.\n\n## ანალიტიკოსების შეფასება\nანალიტიკოსების შეფასებით, Autodesk-ის აქციებს 32%-იანი ამაღლების პოტენციალი აქვს, ხოლო Intuit-ის აქციებს - 33%-იანი. ამასთან, რეტეილ ინვესტორების შეფასებით, Autodesk-ის აქციების მიმართ სენტიმენტი უარყოფითია, ხოლო Intuit-ის აქციების მიმართ - დადებითი.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
     },
     {
       "id": "b3f67f9437bf66d1",
@@ -4556,18 +4574,6 @@
       "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/unstoppable-vanguard-etf-beating-p-093700350.html",
       "bodyKa": "## შესავალი\nVanguard-ის ერთ-ერთი ETF 2026 წელს S&P 500-სა და Nasdaq-100-ზე მაღლაა. ეს ფონდი რუსელ 2000-ის ინდექსს მიჰყვება, რომელიც ამერიკის 2000-მდე პატარა კომპანიის შემოსავალს ასახავს. რუსელ 2000-ის ინდექსი 2026 წელს 20.2%-იანი მოგება აჩვენებს, რაც S&P 500-ის 12.7%-ზე და Nasdaq-100-ის 17%-ზე მეტია.\n\n## რუსელ 2000-ის ინდექსი\nრუსელ 2000-ის ინდექსი ამერიკის 2000-მდე პატარა კომპანიის შემოსავალს ასახავს და მისი კომპანიები შიდა ბაზარზე მოღვაწეობენ.\n\n## პრობლემები მომავალში\nთუმცა, ამ ფონდს შესაძლოა პრობლემები გადახვიდეს მომავალ კვირას, როდესაც ამერიკის ფედერალური რეზერვი თავის პოლიტიკის შესახებ გადაწყვეტილებას მიიღებს. არსებობს 59%-იანი შანსი, რომ ფედერალური რეზერვი საპროცენტო განაკვეთს გაზრდის, რაც პატარა კომპანიებისთვის დიდ პრობლემას შეიძლება გახდეს.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
-    },
-    {
-      "id": "4f12f2d45ad4b9a1",
-      "title": "Dow Jones Futures Fall As Brent Oil Prices Hit $100, Apple iPhone Event Due; AMD, HPE Are New Buys",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures-fall-as.html?.tsrc=rss",
-      "publishedAt": "2026-09-09T09:35:13.000Z",
-      "description": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap.",
-      "titleKa": "Dow Jones-ის ფიუჩერსი დაეცა, ბრენტის ნავთობის ფასი 100 დოლარს მიაღწია, Apple-ის iPhone-ის პრეზენტაცია იგეგმება",
-      "summaryKa": "Dow Jones-ის ფიუჩერსი დაეცა, რაც გამოწვეულია ბრენტის ნავთობის ფასის ზრდით",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "f9c2111f0144f16b",
