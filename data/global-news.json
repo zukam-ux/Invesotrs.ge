@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-10-09T19:02:30.860Z",
+  "updatedAt": "2026-10-09T23:19:35.825Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "beee812ebe80f242",
+      "title": "Watch Flexport CEO on Oil Tanker Costs, Diesel Prices",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdFVVdTJaUHFoYjhCeTFzZHZ3S0xQbVM0STA1U1FvU2lGV0N2YWZpdlQyTVdvWVg5NmdOQVg4LTNrRm9SUzNvNTZrMzVBWU0wNndweGpBZHp6M3VmUnh5YWFDZU14dXRFNWJYZmRuUG5jb1NVdll0VEdWcXFVOEkwRlRhZzJOR2lpUFZvMjJUSmZPRWZMU2U5bXY0MXBoMEstVUxz?oc=5",
+      "publishedAt": "2026-10-09T23:10:19.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNdFVVdTJaUHFoYjhCeTFzZHZ3S0xQbVM0STA1U1FvU2lGV0N2YWZpdlQyTVdvWVg5NmdOQVg4LTNrRm9SUzNvNTZrMzVBWU0wNndweGpBZHp6M3VmUnh5YWFDZU14dXRFNWJYZmRuUG5jb1NVdll0VEdWcXFVOEkwRlRhZzJOR2lpUFZvMjJUSmZPRWZMU2U5bXY0MXBoMEstVUxz?oc=5\" target=\"_blank\">Watch Flexport CEO on Oil Tanker Costs, Diesel Prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "titleKa": "Flexport-ის გენერალური დირექტორი ოილის ტანკერების ხარჯებსა და დიზელის ფასებზე საუბრობს",
+      "summaryKa": "Flexport-ის გენერალური დირექტორი ოილის ტანკერების ხარჯებსა და დიზელის ფასებზე საუბრობს.",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
+    {
+      "id": "59cdb04f4b0d56d5",
+      "title": "A Wall Street Money Manager Speculates: Will Bitcoin Exist in 10 Years?",
+      "source": "Yahoo Finance",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/09/a-wall-street-money-manager-speculates-will-bitcoin-exist-in-10-years/?.tsrc=rss",
+      "publishedAt": "2026-10-09T23:00:51.000Z",
+      "description": "A Wall Street money manager says Bitcoin could vanish within a decade, but a prominent CNBC analyst calls this the most bullish moment for crypto in two years. Four concrete threats to Bitcoin's survival reveal just how close to the edge the world's largest cryptocurrency might be sitting.",
+      "titleKa": "Wall Street-ის ფინანსური მენეჯერი ვარაუდობს, იარსებებს თუ არა ბიტკოინი 10 წელიწადში",
+      "summaryKa": "Wall Street-ის ფინანსური მენეჯერი ვარაუდობს, იარსებებს თუ არა ბიტკოინი 10 წელიწადში.",
+      "category": "კრიპტო",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://247wallst.com/investing/cryptocurrency/2026/10/09/a-wall-street-money-manager-speculates-will-bitcoin-exist-in-10-years/?.tsrc=rss",
+      "bodyKa": "## შესავალი\nWall Street-ის ფინანსური მენეჯერი, კევინ სიმფსონი, ვარაუდობს, რომ ბიტკოინი 10 წელიწადში შესაძლოა აღარ არსებობდეს. მას მიაჩნია, რომ კრიპტოვალუტების გარშე შექმნილი კომპანიები, როგორიცაა Robinhood, ბიტკოინზე უფრო ხანგრძლივი შესაძლოა იყოს.\n\n## ბიტკოინის მომავალი\nბიტკოინის ფასი ბოლო კვირაში 3.6%-ით დაეცა და ახლა 83,247 ამერიკულ დოლარს შეადგენს. მიუხედავად ამისა, ბიტკოინის საბაზრო კაპიტალიზაცია 1.67 ტრილიონ დოლარს შეადგენს.\n\n## საფრთხეები ბიტკოინისთვის\nბიტკოინისთვის საფრთხეები რამდენიმე ფაქტორის გამო არსებობს. ერთ-ერთი მათგანია სტეიბლკოინები, რომლებიც ტრადიციულ ვალუტებთანაა დაკავშირებული და სტაბილურ გარემოს შექმნის მიზნით. სტეიბლკოინების საბაზრო კაპიტალიზაცია 300 მილიარდ დოლარს შეადგენს.\n\n## დასკვნა\nბიტკოინის მომავალი უცნობია. ბიტკოინის საბაზრო კაპიტალიზაცია 1.67 ტრილიონ დოლარს შეადგენს.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
+    {
+      "id": "1954bc2431c07abd",
+      "title": "S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus",
+      "source": "Yahoo Finance",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-100-dow-end-week-higher-with-traders-eyeing-earnings-season/cZxGPMYRBnl?.tsrc=rss",
+      "publishedAt": "2026-10-09T22:53:11.000Z",
+      "description": "Wall Street’s biggest banks, including JPMorgan, Morgan Stanley, and Wells Fargo, will report earnings next week.",
+      "titleKa": "S&P 500, Nasdaq 100, Dow-მა კვირევში მაღალი მაჩვენებებით დაასრულა კვირევი, მოვაჭრეები ფინანსურ შედეგებს ადევნებენ თვალს",
+      "summaryKa": "S&P 500, Nasdaq 100 და Dow-ის ინდექსები კვირევში მაღალი მაჩვენებებით დაასრულა კვირევი, მოვაჭრეები ფინანსურ შედეგებს ადევნებენ თვალს.",
+      "category": "აქციები",
+      "translationNotice": "AI-assisted Georgian translation",
+      "sourceUrl": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-100-dow-end-week-higher-with-traders-eyeing-earnings-season/cZxGPMYRBnl?.tsrc=rss",
+      "bodyKa": "## საფონდო ბაზარის მიმოხილვა\nS&P 500, Nasdaq 100 და Dow-ის ინდექსები კვირევში მაღალი მაჩვენებებით დაასრულეს კვირევი. ამასთან ერთად, მოვაჭრეები ფინანსურ შედეგებს ადევნებენ თვალს.\n\n## აქციების მიმოხილვა\nაქციების მიმოხილვაში შეგიძლიათ ნახოთ, რომ Microsoft Corp. (MSFT) ახალი ხელოვნური ინტელექტის სისტემას წარმოადგენს, რომელიც საწარმოო პროცესებში გამოიყენება. ამასთან ერთად, Netflix Inc. (NFLX) გეგმავს თავისი თანამშრომელების 5%-ის გათავისუფლებას.\n\n## დასკვნა\nსაფონდო ბაზარზე მოვაჭრეები ფინანსურ შედეგებს ადევნებენ თვალს. S&P 500 0.6%-ით, Nasdaq 100 0.5%-ით, ხოლო Dow Jones Industrial Average 0.8%-ით გაიზარდა.",
+      "articleNotice": "Original Georgian overview based on the credited publisher source"
+    },
     {
       "id": "086fda9df219d0c1",
       "title": "Which Financial ETF is the Better Fit? Invesco KBW Bank ETF (KBWB) or iShares Regional Banks ETF (IAT)",
@@ -4549,18 +4591,6 @@
       "titleKa": "რატომ გაიზარდა Signet Jewelers-ის აქციები დღეს",
       "summaryKa": "Signet Jewelers-ის აქციები გაიზარდა დღეს",
       "category": "აქციები",
-      "translationNotice": "AI-assisted Georgian translation"
-    },
-    {
-      "id": "81f5d072de8f7672",
-      "title": "Analyst warns Bitcoin rally isn't over, here's where money is flowing",
-      "source": "Yahoo Finance",
-      "url": "https://www.thestreet.com/crypto/markets/analyst-warns-bitcoin-rally-isnt-over-heres-where-money-is-flowing?.tsrc=rss",
-      "publishedAt": "2026-09-09T20:45:00.000Z",
-      "description": "Anthony Pompliano says Bitcoin’s strong run over the past month is far from finished.",
-      "titleKa": "ანალიტიკოსის აზრით, ბიტკოინის აფხვევა ჯერ არ დამთავრებულა",
-      "summaryKa": "ანალიტიკოსი აცხადებს, რომ ბიტკოინის აფხვევა ჯერ არ დასრულებულა და ფული სხვადასხვა მიმართულებით მიედინება",
-      "category": "კრიპტო",
       "translationNotice": "AI-assisted Georgian translation"
     },
     {
