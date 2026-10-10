@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-10-10T09:06:17.564Z",
+  "updatedAt": "2026-10-10T15:24:22.556Z",
   "source": "Google News RSS metadata and original publishers",
   "methodology": "Headlines and short summaries are translated into Georgian. Expanded stories are original Georgian overviews written from extracted publisher facts; source articles are credited and not reproduced.",
   "articles": [
+    {
+      "id": "742fc0b05288d5ae",
+      "title": "Citi issues stark stock market call as a 1970s signal returns",
+      "source": "Yahoo Finance",
+      "url": "https://www.thestreet.com/investing/stocks/citi-stark-stock-market-call-as-1970s-signal-growth-inflation-returns?.tsrc=rss",
+      "publishedAt": "2026-10-10T15:17:00.000Z",
+      "description": "A familiar inflation-era signal is getting Wall Street’s attention.",
+      "titleKa": "Citigroup საფონდო ბაზარზე მწარე პროგნოზს აქვეყნებს, 1970-იანი წლების სიგნალი კვლავ ჩნდება",
+      "summaryKa": "Citigroup-მა საფონდო ბაზარზე მწარე პროგნოზი გამოაქვეყნა, 1970-იან წლებში არსებული ერთ-ერთი სიგნალის დაბრუნების ფონზე",
+      "category": "ბაზრები და ეკონომიკა",
+      "translationNotice": "AI-assisted Georgian translation"
+    },
     {
       "id": "dda87080a3d43f53",
       "title": "Why “VOO and Chill” Lost Money for 8 Straight Years: What $100,000 in the S&P 500 Did From 2000 to 2008",
@@ -4583,18 +4595,6 @@
       "sourceUrl": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
       "bodyKa": "## შესავალი\nდაუ-ჯონსის მომავალი კონტრაქტები იზრდება, ხოლო S&P 500 და Nasdaq მომავალი კონტრაქტები ეცემა. ნავთობის ფასები და ტრეზურის განაკვეთები იზრდება. მნიშვნელოვანი ინფლაციის მონაცემები გამოსვლამდეა. წინა დღეს, საფონდო ბაზრის რალი კვლავ განიცდის სიძნელეებს, რადგან დაუ-ჯონსი და სმოლ-კეპ რასელ 2000 კლებს მხარდაჭერის მთავარ დონეებთან.\n\n## საფონდო ბაზარის მდგომარეობა\nსაფონდო ბაზარის რალი განიცდის სიძნელეებს, რადგან დაუ-ჯონსი და სმოლ-კეპ რასელ 2000 კლებს მხარდაჭერის მთავარ დონეებთან.\n\n## ნავთობის ფასები\nნავთობის ფასები იზრდება.\n\n## ინფლაციის მონაცემები\nინფლაციის მონაცემების გამოსვლა მნიშვნელოვან როლს თამაშობს საფონდო ბაზარზე.",
       "articleNotice": "Original Georgian overview based on the credited publisher source"
-    },
-    {
-      "id": "3bb329963240bc64",
-      "title": "Oil, Bond Yields Cap Wall Street Pre-Bell; Asia, Europe Off",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/articles/oil-bond-yields-cap-wall-111027441.html?.tsrc=rss",
-      "publishedAt": "2026-09-10T11:10:27.000Z",
-      "description": "Wall Street futures pointed unevenly sideways pre-bell Thursday as traders weighed Persian Gulf turm",
-      "titleKa": "ნავთობი და ობლიგაციების სარგებელი ზღუდავს უოლ სტრიტს საქრის წინ",
-      "summaryKa": "ნავთობის ფასები და ობლიგაციების სარგებელი ზღუდავს უოლ სტრიტის ზრდას სავაჭრო სესიის დაწყებამდე.",
-      "category": "ბაზრები და ეკონომიკა",
-      "translationNotice": "AI-assisted Georgian translation"
     },
     {
       "id": "01289fef6b4e274e",
